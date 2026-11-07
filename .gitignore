@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vercel/
+.env*.local
+.DS_Store
+Thumbs.db
+*.zip
+*.pdf
+# Dữ liệu tạm khi chuyển tiến độ HSK từ Redis 
+scripts/.migrate-*.json
+.keys/
+note.md
