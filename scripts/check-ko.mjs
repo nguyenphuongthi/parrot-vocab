@@ -1,12 +1,12 @@
-// Kiểm tra dữ liệu tiếng Hàn (src/ko/data) và xuất bảng phiên âm để rà tay: data-src/ko/review.txt
+// Kiểm tra dữ liệu tiếng Hàn (src/features/ko/data) và xuất bảng phiên âm để rà tay: data-src/ko/review.txt
 //   npm run check:ko
 import { readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { koEntries } from '../src/ko/entries.js';
+import { koEntries } from '../src/features/ko/entries.js';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
-const read = (f) => JSON.parse(readFileSync(join(root, 'src', 'ko', 'data', f), 'utf8'));
+const read = (f) => JSON.parse(readFileSync(join(root, 'src', 'features', 'ko', 'data', f), 'utf8'));
 const { words, phrases, problems } = koEntries(read('words.json'), read('phrases.json'));
 
 const lines = [];

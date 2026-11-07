@@ -1,0 +1,12 @@
+/* ================= Điểm vào CSS =================
+   Thứ tự import quyết định quy tắc nào thắng – file sau ghi đè file trước.
+   base    – bố cục gốc: đầu trang, tab, đăng nhập, lưới chữ, chi tiết từ, ngữ pháp
+   app     – thiết kế pastel: màu theo ngôn ngữ / cấp, khung trang, flashcard, thống kê, cài đặt, điện thoại
+   motion  – hiệu ứng động chung: nền, tab, thẻ xuất hiện, flashcard, chú vẹt đi dạo
+   scene   – khung cảnh thanh đầu trang (trời, đất, cây, làn của chú vẹt)
+   fx      – hiệu ứng gắn với việc học: pháo giấy, huy hiệu, nét chữ Hangul, karaoke, vẹt ôm thẻ… */
+@import './base.css';
+@import './app.css';
+@import './motion.css';
+@import './scene.css';
+@import './fx.css';
