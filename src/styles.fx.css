@@ -364,18 +364,19 @@
 .stroller.react-loop .p-wing {
   animation: p-flap 0.14s ease-in-out infinite alternate;
 }
+/* --dir: hướng vẹt đang quay mặt (1 phải, -1 trái) – bay vòng về phía trước mặt */
 @keyframes p-loop {
   0% {
     transform: translate(0, 0);
   }
   25% {
-    transform: translate(60px, -40px) rotate(-20deg);
+    transform: translate(calc(60px * var(--dir, 1)), -40px) rotate(calc(-20deg * var(--dir, 1)));
   }
   50% {
-    transform: translate(140px, -10px) rotate(10deg);
+    transform: translate(calc(140px * var(--dir, 1)), -10px) rotate(calc(10deg * var(--dir, 1)));
   }
   75% {
-    transform: translate(60px, 10px) rotate(-10deg);
+    transform: translate(calc(60px * var(--dir, 1)), 10px) rotate(calc(-10deg * var(--dir, 1)));
   }
   100% {
     transform: translate(0, 0);
@@ -924,5 +925,164 @@ body {
   .lang-wave,
   .big-confetti {
     display: none;
+  }
+}
+
+/* ---------- Chú vẹt ôm flashcard ----------
+   Đầu nằm sau thẻ (chỉ ló phần trên), chân + cánh nằm trên thẻ nhưng trong vùng đệm nên không che chữ. */
+.fc-hug {
+  position: relative;
+  margin-top: 48px;
+}
+.fc-hug .flashcard {
+  z-index: 1;
+}
+.hug-head {
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  z-index: 0;
+  margin-left: -30px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  line-height: 0;
+  transform-origin: 50% 100%;
+  animation: hug-peek 0.5s 0.1s cubic-bezier(0.3, 1.5, 0.5, 1) both;
+}
+.hug-head svg {
+  animation: hug-bob 3.2s 0.6s ease-in-out infinite;
+  transform-origin: 50% 100%;
+}
+.hug-head:focus-visible {
+  outline: 2px solid var(--lang-ink);
+  outline-offset: -6px;
+  border-radius: 50%;
+}
+@keyframes hug-peek {
+  from {
+    transform: translateY(26px);
+  }
+}
+@keyframes hug-bob {
+  0%,
+  100% {
+    transform: rotate(0);
+  }
+  30% {
+    transform: rotate(-5deg);
+  }
+  60% {
+    transform: rotate(4deg);
+  }
+}
+.hug-eyes-happy {
+  display: none;
+}
+.fc-hug.is-open .hug-eyes {
+  display: none;
+}
+.fc-hug.is-open .hug-eyes-happy {
+  display: inline;
+}
+.fc-hug.is-open .hug-head svg {
+  animation: p-cheer 0.45s cubic-bezier(0.3, 0, 0.5, 1) 2;
+}
+
+.hug-toes {
+  position: absolute;
+  top: -5px;
+  left: 50%;
+  z-index: 2;
+  width: 44px;
+  margin-left: -22px;
+  display: flex;
+  justify-content: space-between;
+  pointer-events: none;
+  animation: hug-peek 0.5s 0.1s cubic-bezier(0.3, 1.5, 0.5, 1) both;
+}
+.hug-toes i {
+  width: 12px;
+  height: 9px;
+  border-radius: 6px 6px 4px 4px;
+  background:
+    radial-gradient(circle at 3px 8px, #e8891f 2px, transparent 2.5px),
+    radial-gradient(circle at 9px 8px, #e8891f 2px, transparent 2.5px),
+    #f5a23c;
+}
+
+/* Cánh: vai ở mép trên, ôm theo cạnh bên; mở = xoay ra ngoài quanh vai */
+.hug-wing {
+  --hug-in: 20px;
+  --hug-w: 50px;
+  position: absolute;
+  top: 26%;
+  z-index: 2;
+  width: var(--hug-w);
+  height: calc(var(--hug-w) * 2.75);
+  max-height: 60%;
+  pointer-events: none;
+  transition: transform 0.45s cubic-bezier(0.3, 1.4, 0.5, 1);
+  filter: drop-shadow(0 3px 4px rgb(40 90 80 / 18%));
+}
+.hug-wing svg {
+  display: block;
+}
+.hug-wing-r svg {
+  transform: scaleX(-1);
+}
+.hug-wing-l {
+  left: calc(var(--hug-in) - var(--hug-w));
+  transform-origin: 90% 3%;
+  animation: hug-wing-l 0.55s 0.15s cubic-bezier(0.3, 1.4, 0.5, 1) both;
+}
+.hug-wing-r {
+  right: calc(var(--hug-in) - var(--hug-w));
+  transform-origin: 10% 3%;
+  animation: hug-wing-r 0.55s 0.15s cubic-bezier(0.3, 1.4, 0.5, 1) both;
+}
+@keyframes hug-wing-l {
+  from {
+    transform: rotate(48deg);
+  }
+}
+@keyframes hug-wing-r {
+  from {
+    transform: rotate(-48deg);
+  }
+}
+.fc-hug.is-open .hug-wing-l {
+  transform: rotate(48deg);
+}
+.fc-hug.is-open .hug-wing-r {
+  transform: rotate(-48deg);
+}
+.fc-hug.is-dragging .hug-wing,
+.fc-hug.is-dragging .hug-toes {
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+@media (max-width: 720px) {
+  .hug-wing {
+    --hug-in: 14px;
+    --hug-w: 26px;
+  }
+  /* Cánh dang ra không làm trang cuộn ngang: cắt ở mép màn hình (lề 16px) */
+  .review {
+    overflow-x: clip;
+    margin-inline: -16px;
+    padding-inline: 16px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hug-head,
+  .hug-head svg,
+  .hug-toes,
+  .hug-wing {
+    animation: none !important;
+    transition: none;
   }
 }

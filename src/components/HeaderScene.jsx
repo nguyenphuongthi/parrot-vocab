@@ -345,7 +345,7 @@ export default function HeaderScene({ lang = 'all', scene, mastered = 0, pickWor
         last = action;
         if (action === 'down') {
           x = Math.round(g.minX + Math.random() * Math.max(0, Math.min(g.maxX, g.minX + 360) - g.minX));
-          setP({ x, y: g.groundY, dir: 1, action: 'fly', where: 'ground', dur: FLY_MS / 1000, ready: true });
+          setP({ x, y: g.groundY, dir: 1, action: 'fly', rise: 'down', where: 'ground', dur: FLY_MS / 1000, ready: true });
           where = 'ground';
           return land(() => {
             setP((s) => ({ ...s, action: 'idle', dur: 0 }));
@@ -359,7 +359,7 @@ export default function HeaderScene({ lang = 'all', scene, mastered = 0, pickWor
       const [action, , ms] = pick(GROUND_ACTIONS, last, night);
       last = action;
       if (action === 'home') {
-        setP({ ...g.perch, dir: g.perch.x >= x ? 1 : -1, action: 'fly', where: 'tree', dur: FLY_MS / 1000, ready: true });
+        setP({ ...g.perch, dir: g.perch.x >= x ? 1 : -1, action: 'fly', rise: 'up', where: 'tree', dur: FLY_MS / 1000, ready: true });
         where = 'tree';
         x = g.perch.x;
         return land(() => {
@@ -405,7 +405,7 @@ export default function HeaderScene({ lang = 'all', scene, mastered = 0, pickWor
     };
   }, [reduced]);
 
-  const { x, y, dir, action, where, dur, ready } = p;
+  const { x, y, dir, action, rise, where, dur, ready } = p;
   const flyEase = action === 'fly' ? 'cubic-bezier(0.45, 0, 0.3, 1)' : 'linear';
   const bubble = said ? said.text : action === 'wave' && !react ? GREETINGS[lang] || GREETINGS.all : null;
   const bubbleLang = (said?.lang || lang) === 'zh' ? 'zh-CN' : (said?.lang || lang) === 'ko' ? 'ko' : undefined;
@@ -420,8 +420,8 @@ export default function HeaderScene({ lang = 'all', scene, mastered = 0, pickWor
         {scene === 'snow' && <Snowman />}
         {scene === 'rain' && <Frog />}
         <div
-          className={`stroller is-${action} at-${where} ${react ? `react-${react}` : ''} ${ready ? '' : 'is-hidden'}`}
-          style={{ transform: `translate(${x}px, ${y}px)`, transitionDuration: `${dur}s`, transitionTimingFunction: flyEase }}
+          className={`stroller is-${action} ${action === 'fly' ? `fly-${rise}` : ''} at-${where} ${react ? `react-${react}` : ''} ${ready ? '' : 'is-hidden'}`}
+          style={{ '--dir': dir, transform: `translate(${x}px, ${y}px)`, transitionDuration: `${dur}s`, transitionTimingFunction: flyEase }}
         >
           <button type="button" className="stroller-hit" onClick={onParrotClick} aria-label="Chú vẹt – bấm để nghe một từ bạn đang học" title="Bấm để nghe một từ bạn đang học">
             <span className="stroller-loop">

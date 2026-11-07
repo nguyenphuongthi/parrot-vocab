@@ -12,6 +12,7 @@ import { updateDeck, useSettings } from '../lib/settings.js';
 import { emitFx } from '../lib/events.js';
 import Logo from '../components/Logo.jsx';
 import EmptyParrot from '../components/EmptyParrot.jsx';
+import HugParrot from './HugParrot.jsx';
 
 const EXTRA_SIZE = 20;
 const RECENT_DAYS = 7;
@@ -366,89 +367,91 @@ export default function Flashcards({ lang }) {
         doneMessage()
       ) : (
         <>
-          <div
-            key={`${deck.run}-${deck.step}`}
-            ref={cardRef}
-            tabIndex={-1}
-            className={`flashcard ${face.flipped ? 'is-flipped' : ''} ${drag <= -SWIPE_MIN ? 'swipe-0' : drag >= SWIPE_MIN ? 'swipe-2' : ''}`}
-            style={drag ? { transform: `translateX(${drag}px) rotate(${drag / 40}deg)`, transition: 'none' } : undefined}
-            onClick={(e) => {
-              if (swallowClick.current || e.target.closest('button, a, input, form, select')) return;
-              flip();
-            }}
-            onPointerDown={onPointerDown}
-            onPointerMove={onPointerMove}
-            onPointerUp={onPointerUp}
-            onPointerCancel={() => ((swipe.current = null), setDrag(0))}
-          >
-            <div className="fc-top">
-              <span className="fc-mark">
-                <MarkGlyph value={markNow} size={14} /> {card.entry ? STATES[markNow].label : 'Từ mới'}
-              </span>
-              <button type="button" className="icon-btn" onClick={() => card.speak()} aria-label="Nghe" title="Nghe">
-                <SpeakerIcon size={18} />
-              </button>
-            </div>
+          <div key={`${deck.run}-${deck.step}`} className={`fc-hug ${face.flipped ? 'is-open' : ''} ${drag ? 'is-dragging' : ''}`}>
+            <HugParrot open={face.flipped} onClick={flip} />
+            <div
+              ref={cardRef}
+              tabIndex={-1}
+              className={`flashcard ${face.flipped ? 'is-flipped' : ''} ${drag <= -SWIPE_MIN ? 'swipe-0' : drag >= SWIPE_MIN ? 'swipe-2' : ''}`}
+              style={drag ? { transform: `translateX(${drag}px) rotate(${drag / 40}deg)`, transition: 'none' } : undefined}
+              onClick={(e) => {
+                if (swallowClick.current || e.target.closest('button, a, input, form, select')) return;
+                flip();
+              }}
+              onPointerDown={onPointerDown}
+              onPointerMove={onPointerMove}
+              onPointerUp={onPointerUp}
+              onPointerCancel={() => ((swipe.current = null), setDrag(0))}
+            >
+              <div className="fc-top">
+                <span className="fc-mark">
+                  <MarkGlyph value={markNow} size={14} /> {card.entry ? STATES[markNow].label : 'Từ mới'}
+                </span>
+                <button type="button" className="icon-btn" onClick={() => card.speak()} aria-label="Nghe" title="Nghe">
+                  <SpeakerIcon size={18} />
+                </button>
+              </div>
 
-            {!face.flipped ? (
-              <div className="fc-front">
-                {face.mode === 'front' && <Prompt card={card} />}
-                {face.mode === 'choice' && (
-                  <>
-                    <Prompt card={card} />
-                    <div className="choices">
-                      {face.choices.map((t, i) => (
-                        <button key={i} type="button" className="choice" onClick={() => pickChoice(i)}>
-                          <kbd>{i + 1}</kbd>
-                          <span>{t}</span>
+              {!face.flipped ? (
+                <div className="fc-front">
+                  {face.mode === 'front' && <Prompt card={card} />}
+                  {face.mode === 'choice' && (
+                    <>
+                      <Prompt card={card} />
+                      <div className="choices">
+                        {face.choices.map((t, i) => (
+                          <button key={i} type="button" className="choice" onClick={() => pickChoice(i)}>
+                            <kbd>{i + 1}</kbd>
+                            <span>{t}</span>
+                          </button>
+                        ))}
+                      </div>
+                    </>
+                  )}
+                  {face.mode === 'listen' && (
+                    <button type="button" className="listen-btn" onClick={() => card.speak()} aria-label="Nghe lại">
+                      <SpeakerIcon size={40} />
+                    </button>
+                  )}
+                  {face.mode === 'back' && <div className="fc-meaning">{card.meaning}</div>}
+                  {face.mode === 'type' && (
+                    <>
+                      {lang === 'zh' ? <Prompt card={card} /> : <div className="fc-meaning">{card.meaning}</div>}
+                      <form className="fc-type" onSubmit={submitTyped}>
+                        <input
+                          autoFocus
+                          value={face.typed}
+                          onChange={(e) => setFace((f) => ({ ...f, typed: e.target.value }))}
+                          placeholder={lang === 'zh' ? 'pinyin, vd. nihao' : lang === 'ko' ? '한국어' : 'English'}
+                          lang={lang === 'ko' ? 'ko' : 'en'}
+                          autoComplete="off"
+                          autoCapitalize="off"
+                          spellCheck="false"
+                        />
+                        <button type="submit" className="btn primary">
+                          Kiểm tra
                         </button>
-                      ))}
-                    </div>
-                  </>
-                )}
-                {face.mode === 'listen' && (
-                  <button type="button" className="listen-btn" onClick={() => card.speak()} aria-label="Nghe lại">
-                    <SpeakerIcon size={40} />
-                  </button>
-                )}
-                {face.mode === 'back' && <div className="fc-meaning">{card.meaning}</div>}
-                {face.mode === 'type' && (
-                  <>
-                    {lang === 'zh' ? <Prompt card={card} /> : <div className="fc-meaning">{card.meaning}</div>}
-                    <form className="fc-type" onSubmit={submitTyped}>
-                      <input
-                        autoFocus
-                        value={face.typed}
-                        onChange={(e) => setFace((f) => ({ ...f, typed: e.target.value }))}
-                        placeholder={lang === 'zh' ? 'pinyin, vd. nihao' : lang === 'ko' ? '한국어' : 'English'}
-                        lang={lang === 'ko' ? 'ko' : 'en'}
-                        autoComplete="off"
-                        autoCapitalize="off"
-                        spellCheck="false"
-                      />
-                      <button type="submit" className="btn primary">
-                        Kiểm tra
-                      </button>
-                    </form>
-                  </>
-                )}
-              </div>
-            ) : (
-              <div className="fc-back">
-                {face.result && (
-                  <p className={`fc-result ${face.result.correct ? 'is-correct' : 'is-wrong'}`}>
-                    {face.result.html[0]}: {face.result.html.length > 2 ? <s>{face.result.html[1]}</s> : <b>{face.result.html[1]}</b>}
-                    {face.result.html.length > 2 && (
-                      <>
-                        {' '}
-                        → đáp án: <b>{face.result.html[2]}</b>
-                      </>
-                    )}
-                  </p>
-                )}
-                <Back card={card} />
-              </div>
-            )}
+                      </form>
+                    </>
+                  )}
+                </div>
+              ) : (
+                <div className="fc-back">
+                  {face.result && (
+                    <p className={`fc-result ${face.result.correct ? 'is-correct' : 'is-wrong'}`}>
+                      {face.result.html[0]}: {face.result.html.length > 2 ? <s>{face.result.html[1]}</s> : <b>{face.result.html[1]}</b>}
+                      {face.result.html.length > 2 && (
+                        <>
+                          {' '}
+                          → đáp án: <b>{face.result.html[2]}</b>
+                        </>
+                      )}
+                    </p>
+                  )}
+                  <Back card={card} />
+                </div>
+              )}
+            </div>
           </div>
 
           <div className="grades" role="group" aria-label="Chấm điểm thẻ">
