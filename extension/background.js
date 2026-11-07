@@ -27,8 +27,11 @@ chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
   return true; // giữ kênh mở cho phản hồi bất đồng bộ
 });
 
+// Bấm icon trên thanh công cụ → mở web app Parrot Vocab
+const WEB_APP_URL = 'https://parrot-vocab.vercel.app/';
+
 chrome.action.onClicked.addListener(() => {
-  chrome.tabs.create({ url: chrome.runtime.getURL('review.html') });
+  chrome.tabs.create({ url: WEB_APP_URL });
 });
 
 // Tách dữ liệu dạng cũ (cả kho trong một key) ngay khi service worker chạy
