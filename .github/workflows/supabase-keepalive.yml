@@ -1,0 +1,18 @@
+name: Giữ Supabase hoạt động
+
+# Project Supabase gói free bị tạm dừng nếu không có hoạt động trong khoảng 1 tuần.
+# Gửi một truy vấn nhẹ hai lần mỗi tuần (thứ 2 và thứ 5, 10:17 giờ Việt Nam). Không cần secret.
+on:
+  schedule:
+    - cron: '17 3 * * 1,4'
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/supabase-ping.mjs
