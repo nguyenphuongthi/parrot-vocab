@@ -6,6 +6,16 @@ const { chromePath, launch, startStaticServer } = require('./helpers/browser');
 const { createFakeSupabase } = require('./helpers/fake-supabase');
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+// Chờ tới khi điều kiện đúng (vd. server giả đã nhận dữ liệu đồng bộ) thay vì ngủ một khoảng cố định –
+// runner CI chậm hơn máy cá nhân nên sleep cố định từng làm test lúc qua lúc trượt
+async function until(check, { timeout = 10_000, step = 100 } = {}) {
+  const end = Date.now() + timeout;
+  while (!check()) {
+    if (Date.now() > end) return false;
+    await sleep(step);
+  }
+  return true;
+}
 
 test('bản web: đăng nhập, kho từ, flashcard, CSP, đăng xuất', { skip: !chromePath && 'Không tìm thấy Chrome' }, async () => {
   const sb = createFakeSupabase();
@@ -108,7 +118,7 @@ test('bản web: đăng nhập, kho từ, flashcard, CSP, đăng xuất', { skip
     // Đổi mức thuộc bằng thanh trượt → đẩy lên server
     await page.click('.status[data-key="pure"] .status-stop[data-mark="1"]');
     await page.waitForFunction(() => document.querySelector('.item.st-0') === null);
-    await sleep(2200);
+    await until(() => sb.row(email, 'pure')?.data.mark === 1);
     assert.equal(sb.row(email, 'pure').data.mark, 1);
 
     // Flashcard – gõ chính tả
@@ -130,8 +140,8 @@ test('bản web: đăng nhập, kho từ, flashcard, CSP, đăng xuất', { skip
     assert.match(await page.$eval('.fc-details', (el) => el.textContent), /pure leaderboard|not exaggerating/, 'ngữ cảnh nằm trong phần chi tiết');
     await page.keyboard.press('3');
     await page.waitForFunction(() => /Đã ôn 1\/2/.test(document.querySelector('#progress').textContent));
-    await sleep(2200);
     const gradedKey = answer === 'pure' ? 'pure' : 'exaggerate';
+    await until(() => sb.row(email, gradedKey)?.data.srs?.interval === 7);
     assert.equal(sb.row(email, gradedKey).data.srs.interval, 7, 'lịch ôn được đồng bộ lên server');
     assert.equal(await page.$eval('#due-count', (el) => el.textContent), '1');
 
@@ -158,6 +168,14 @@ test('bản web: đăng nhập, kho từ, flashcard, CSP, đăng xuất', { skip
       const items = await chrome.storage.local.get(['w:pure', 'w:exaggerate']);
       return Object.values(items).map((w) => ({ key: w.key, mark: w.mark, srs: w.srs }));
     });
+    // Màn "ôn xong" hiện trước khi điểm vừa chấm ghi xong vào kho – chờ ghi xong rồi mới chụp lại lịch ôn
+    // (máy chậm như runner CI từng chụp sớm: thẻ còn mức cũ, rồi bị coi là "ôn thêm làm đổi mức")
+    const lastKey = gradedKey === 'pure' ? 'exaggerate' : 'pure';
+    await page.waitForFunction(
+      async (key) => (await chrome.storage.local.get('w:' + key))['w:' + key]?.mark === 2, // vừa chấm "Đã thuộc"
+      { timeout: 5000 },
+      lastKey
+    );
     const before = await schedule();
     await page.click('#extra-deck');
     await page.waitForFunction(() => /Ôn thêm: 0\/2/.test(document.querySelector('#progress').textContent));
