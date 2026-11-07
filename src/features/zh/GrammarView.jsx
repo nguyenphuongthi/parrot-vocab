@@ -10,6 +10,7 @@ import { useLangItems } from '../../lib/store.js';
 import { STATES, markOf } from '../../lib/srs.js';
 import { Examples } from './GrammarDetail.jsx';
 import { UNAUTHORIZED, getJson } from '../../lib/supabase.js';
+import { usePresence, useSelection } from '../../lib/motion.js';
 
 // Các bài đang mở, nhớ riêng cho từng cấp (HSK 4 giữ khoá cũ để không mất trạng thái đã lưu).
 const openKey = (level) => (level === 4 ? 'hsk.grammar.openLessons' : `hsk.grammar${level}.openLessons`);
@@ -90,7 +91,7 @@ function Extension({ ext }) {
 const cache = {};
 
 function LessonSection({ lesson, open, onToggle }) {
-  const [selectedId, setSelectedId] = useState(null);
+  const [selectedId, setSelectedId, close, closing] = useSelection();
   const [filter, setFilter] = useState(null); // null = tất cả; 0/1/2 = chỉ trạng thái đó
   const progress = useLangItems('zh');
   const markIdOf = (id) => markOf(progress[id]);
@@ -104,8 +105,8 @@ function LessonSection({ lesson, open, onToggle }) {
   const selected = shown.findIndex((p) => p.id === selectedId);
   const goPrev = selected > 0 ? () => setSelectedId(shown[selected - 1].id) : null;
   const goNext = selected >= 0 && selected < shown.length - 1 ? () => setSelectedId(shown[selected + 1].id) : null;
-  const close = () => setSelectedId(null);
   useDetailKeys(selectedId, { onPrev: goPrev, onNext: goNext, onClose: close });
+  const body = usePresence(open);
 
   const pickFilter = (value) => {
     setFilter((f) => (f === value ? null : value));
@@ -138,8 +139,8 @@ function LessonSection({ lesson, open, onToggle }) {
         </svg>
       </div>
 
-      {open && (
-        <div className="level-body">
+      {body.mounted && (
+        <div className={`level-body ${body.closing ? 'is-closing' : ''}`}>
           {filter !== null && (
             <p className="filter-note">
               <MarkGlyph value={filter} size={14} /> Đang lọc: {STATES[filter].label.toLowerCase()}
@@ -167,7 +168,7 @@ function LessonSection({ lesson, open, onToggle }) {
                   <button
                     style={{ '--i': i }}
                     className={`point ${isSel ? 'is-selected' : ''}`}
-                    onClick={() => setSelectedId(isSel ? null : p.id)}
+                    onClick={() => (isSel ? close() : setSelectedId(p.id))}
                     aria-expanded={isSel}
                   >
                     <MarkGlyph value={markIdOf(p.id)} size={16} />
@@ -182,7 +183,7 @@ function LessonSection({ lesson, open, onToggle }) {
                       key={p.id}
                       point={p}
                       num={p.num}
-                      nav={{ pos: i + 1, total: shown.length, onPrev: goPrev, onNext: goNext, onClose: close }}
+                      nav={{ pos: i + 1, total: shown.length, onPrev: goPrev, onNext: goNext, onClose: close, closing }}
                     />
                   )}
                 </li>

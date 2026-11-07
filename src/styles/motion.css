@@ -218,7 +218,7 @@
   border-radius: 3px 3px 0 0;
   background: var(--accent);
   transform: scaleX(0);
-  transition: transform 0.25s cubic-bezier(0.3, 1.4, 0.5, 1);
+  transition: transform 0.25s var(--ease-spring);
 }
 .subtab[aria-selected='true']::after {
   transform: scaleX(1);
@@ -240,7 +240,7 @@
     background 0.2s,
     color 0.2s,
     box-shadow 0.2s,
-    transform 0.15s;
+    transform var(--dur-1);
 }
 .pill:active,
 .chip:active,
@@ -255,7 +255,7 @@
 .point,
 .jamo,
 .stat-card {
-  animation: rise 0.45s cubic-bezier(0.2, 0.9, 0.3, 1.15) both;
+  animation: rise 0.45s var(--ease-out-back) both;
   animation-delay: calc(min(var(--i, 0), 24) * 22ms);
 }
 @keyframes rise {
@@ -270,7 +270,7 @@
 
 /* ---- Icon mức nảy khi đổi; emoji ở bộ chọn mức ---- */
 .mark-btn .mark-glyph {
-  animation: mark-pop 0.4s cubic-bezier(0.3, 1.6, 0.5, 1);
+  animation: mark-pop 0.4s var(--ease-pop);
 }
 @keyframes mark-pop {
   0% {
@@ -286,7 +286,7 @@
   transition: transform 0.2s;
 }
 .mark-picker button.is-on .mark-emoji {
-  animation: emoji-pop 0.45s cubic-bezier(0.3, 1.6, 0.5, 1);
+  animation: emoji-pop 0.45s var(--ease-pop);
 }
 .mark-picker button:hover .mark-emoji {
   transform: scale(1.2);
@@ -305,7 +305,7 @@
 
 /* ---- Flashcard: thẻ mới trượt vào, lật 3D, pháo giấy khi "Đã thuộc" ---- */
 .flashcard {
-  animation: card-in 0.4s cubic-bezier(0.2, 0.9, 0.3, 1.1);
+  animation: card-in 0.4s var(--ease-out-back);
 }
 @keyframes card-in {
   from {
@@ -315,7 +315,7 @@
 }
 .fc-front,
 .fc-back {
-  animation: flip-in 0.38s cubic-bezier(0.2, 0.8, 0.3, 1.1);
+  animation: flip-in 0.38s var(--ease-out-back);
   transform-origin: center;
 }
 @keyframes flip-in {
@@ -345,7 +345,7 @@
   height: 11px;
   border-radius: 2px;
   opacity: 0;
-  animation: confetti 0.9s cubic-bezier(0.15, 0.7, 0.3, 1) forwards;
+  animation: confetti 0.9s var(--ease-out) forwards;
 }
 @keyframes confetti {
   0% {
@@ -403,7 +403,7 @@
 }
 .activity-bar {
   transform-origin: bottom;
-  animation: grow-y 0.6s cubic-bezier(0.2, 0.9, 0.3, 1.1) both;
+  animation: grow-y 0.6s var(--ease-out-back) both;
   animation-delay: calc(var(--i, 0) * 15ms);
 }
 @keyframes grow-y {
@@ -413,7 +413,7 @@
 }
 .markbar span {
   transform-origin: left;
-  animation: grow-x 0.7s cubic-bezier(0.2, 0.9, 0.3, 1) both;
+  animation: grow-x 0.7s var(--ease-out) both;
 }
 @keyframes grow-x {
   from {
@@ -438,7 +438,7 @@
   padding: 48px 0;
 }
 .loader .logo {
-  animation: hop 0.9s cubic-bezier(0.3, 0, 0.5, 1) infinite alternate;
+  animation: hop 0.9s var(--ease-in-out) infinite alternate;
 }
 @keyframes hop {
   from {
@@ -460,13 +460,13 @@
   animation: typing 1.2s ease-in-out infinite;
 }
 .loader-dots i:nth-child(2) {
-  animation-delay: 0.15s;
+  animation-delay: var(--dur-1);
 }
 .loader-dots i:nth-child(3) {
   animation-delay: 0.3s;
 }
 .login-card {
-  animation: rise 0.6s cubic-bezier(0.2, 0.9, 0.3, 1.15) both;
+  animation: rise 0.6s var(--ease-out-back) both;
 }
 
 /* ---- Chú vẹt đi dạo dưới thanh đầu trang ---- */
@@ -572,7 +572,7 @@
   font-size: 12px;
   font-weight: 700;
   white-space: nowrap;
-  animation: say-pop 0.35s cubic-bezier(0.3, 1.6, 0.5, 1) both;
+  animation: say-pop 0.35s var(--ease-pop) both;
 }
 @keyframes say-pop {
   from {
@@ -686,7 +686,7 @@
 }
 /* Nhảy */
 .stroller.is-hop .stroller-flip {
-  animation: p-hop 0.62s cubic-bezier(0.3, 0, 0.5, 1) 2;
+  animation: p-hop 0.62s var(--ease-in-out) 2;
 }
 @keyframes p-hop {
   0%,
@@ -825,7 +825,7 @@
   transform: translateY(-1px);
 }
 .icon-link .ic {
-  transition: transform 0.35s cubic-bezier(0.3, 1.5, 0.5, 1);
+  transition: transform 0.35s var(--ease-pop);
 }
 .icon-link:hover .ic {
   transform: rotate(-12deg) scale(1.12);
@@ -837,17 +837,3 @@
   animation: wiggle 0.6s ease-in-out 3;
 }
 
-/* ---- Tắt hết khi máy bật "giảm chuyển động" ---- */
-@media (prefers-reduced-motion: reduce) {
-  *,
-  *::before,
-  *::after {
-    animation: none !important;
-    transition: none !important;
-  }
-  .glyph,
-  .spark,
-  .cloud {
-    display: none;
-  }
-}

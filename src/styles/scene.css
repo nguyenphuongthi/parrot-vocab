@@ -425,14 +425,6 @@
   }
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .flake,
-  .firefly,
-  .star {
-    display: none;
-  }
-}
-
 /* Nút ngôn ngữ: chỉ ghi tên gốc English · 汉语 · 한국어 */
 .lang-btn {
   padding: 7px 16px;

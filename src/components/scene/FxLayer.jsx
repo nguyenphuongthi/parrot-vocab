@@ -5,6 +5,8 @@ import { onFx } from '../../lib/events.js';
 import { syncNow } from '../../lib/store.js';
 import Logo from '../mascot/Logo.jsx';
 
+const TOAST_OUT_MS = 260;
+
 const COLORS = ['#ff9f88', '#8fa0f5', '#5fcbae', '#ffd36b', '#f6a5c0', '#b6a3ff'];
 
 function BigConfetti() {
@@ -144,10 +146,12 @@ export default function FxLayer({ lang }) {
     [],
   );
 
-  // Tự ẩn thông báo, pháo giấy
+  // Tự ẩn thông báo (trượt xuống mờ dần rồi mới bỏ), pháo giấy
   useEffect(() => {
     if (!toasts.length) return;
-    const t = setTimeout(() => setToasts((list) => list.slice(1)), 3600);
+    const t = toasts[0].leaving
+      ? setTimeout(() => setToasts((list) => list.slice(1)), TOAST_OUT_MS)
+      : setTimeout(() => setToasts((list) => list.map((x, i) => (i ? x : { ...x, leaving: true }))), 3600 - TOAST_OUT_MS);
     return () => clearTimeout(t);
   }, [toasts]);
   useEffect(() => {
@@ -186,7 +190,7 @@ export default function FxLayer({ lang }) {
       {toasts.length > 0 && (
         <div className="toasts" role="status" aria-live="polite">
           {toasts.slice(0, 3).map((t) => (
-            <div key={t.id} className="toast">
+            <div key={t.id} className={`toast ${t.leaving ? 'is-leaving' : ''}`}>
               <span className="toast-icon" aria-hidden="true">
                 {t.icon}
               </span>

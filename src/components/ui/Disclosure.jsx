@@ -1,8 +1,10 @@
 import { useState } from 'react';
+import { usePresence } from '../../lib/motion.js';
 
 // Một mục có thể mở/thu: tiêu đề (tiếng Trung / Hàn…) + phụ đề tiếng Việt.
 export default function Disclosure({ zh, title = zh, lang, sub, defaultOpen = false, children }) {
   const [open, setOpen] = useState(defaultOpen);
+  const body = usePresence(open);
   const titleLang = lang || (/[가-힣]/.test(title) ? 'ko' : 'zh-CN');
   return (
     <section className={`panel ${open ? 'is-open' : ''}`}>
@@ -13,7 +15,7 @@ export default function Disclosure({ zh, title = zh, lang, sub, defaultOpen = fa
           <path d="m6 9 6 6 6-6" />
         </svg>
       </button>
-      {open && <div className="panel-body">{children}</div>}
+      {body.mounted && <div className={`panel-body ${body.closing ? 'is-closing' : ''}`}>{children}</div>}
     </section>
   );
 }

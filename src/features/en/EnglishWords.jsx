@@ -6,6 +6,7 @@ import { useSettings } from '../../lib/settings.js';
 import { MarkButton, MarkFilter, MarkPicker } from '../../components/ui/Mark.jsx';
 import { SearchIcon, TrashIcon } from '../../components/ui/Icons.jsx';
 import EmptyParrot from '../../components/mascot/EmptyParrot.jsx';
+import { usePresence } from '../../lib/motion.js';
 import { CEFR_LEVELS, POS_INFO, POS_ORDER, categoriesOf, categoryName, cefrOf, useCefr, wordClasses } from './cefr.js';
 import { AccentButtons, CefrBadge, Contexts, Details, Meanings, playEnglish } from './parts.jsx';
 
@@ -25,6 +26,7 @@ function WordItem({ w, cefr, open, onToggle, index }) {
   const abbrs = [...wordClasses(w)].map((c) => POS_INFO[c]?.abbr).filter(Boolean);
   const mark = markOf(w);
   const change = (v) => setMark('words', w.key, v);
+  const body = usePresence(open);
   return (
     <article style={{ '--i': index }} className={`card en-item tone-${toneOf(w)} ${open ? 'is-open' : ''}`}>
       <div className="en-head" onClick={onToggle}>
@@ -36,8 +38,8 @@ function WordItem({ w, cefr, open, onToggle, index }) {
         </button>
         <AccentButtons entry={w} />
       </div>
-      {open && (
-        <div className="en-body">
+      {body.mounted && (
+        <div className={`en-body ${body.closing ? 'is-closing' : ''}`}>
           <div className="translation-main">{w.translation}</div>
           <Meanings entry={w} />
           {w.forms?.length > 0 && <div className="forms">Dạng đã gặp: {w.forms.join(', ')}</div>}

@@ -17,6 +17,7 @@ export const DEFAULTS = {
   autoPlay: true, // tự phát âm khi mở thẻ
   dailyGoal: 20, // số thẻ flashcard mỗi ngày (cộng cả 3 ngôn ngữ)
   theme: 'auto', // auto | light | dark
+  motion: 'auto', // hiệu ứng: auto (theo "giảm chuyển động" của máy) | full | lite | off – xem lib/motion.js
   scene: 'auto', // cảnh thanh trên: auto (xoay vòng các cảnh mỗi 2 phút) | day | sunset | night | rain | snow
   deck: { en: { ...DEFAULT_DECK }, zh: { ...DEFAULT_DECK }, ko: { ...DEFAULT_DECK } },
 };

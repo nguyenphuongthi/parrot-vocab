@@ -10,6 +10,7 @@ import { itemKey, setMark, useLangItems } from '../../lib/store.js';
 import { STATES, markOf } from '../../lib/srs.js';
 import { speak, useCanSpeak, useSpeakOnOpen } from '../../lib/speech.js';
 import { usePersisted } from '../../lib/usePersisted.js';
+import { originOf, usePresence, useSelection } from '../../lib/motion.js';
 
 export function useKo() {
   const [data, setData] = useState(null);
@@ -78,7 +79,7 @@ function WordDetail({ entry, nav }) {
 
 function TopicSection({ topic, tone, items, open, searching, onToggle }) {
   const gridRef = useRef(null);
-  const [selectedId, setSelectedId] = useState(null);
+  const [selectedId, setSelectedId, close, closing] = useSelection();
   const [filter, setFilter] = useState(null);
   const progress = useLangItems('ko');
   const markId = (id) => markOf(progress[id]);
@@ -90,8 +91,8 @@ function TopicSection({ topic, tone, items, open, searching, onToggle }) {
   const selected = selectedId === null ? -1 : shown.findIndex((e) => e.id === selectedId);
   const goPrev = selected > 0 ? () => setSelectedId(shown[selected - 1].id) : null;
   const goNext = selected >= 0 && selected < shown.length - 1 ? () => setSelectedId(shown[selected + 1].id) : null;
-  const close = () => setSelectedId(null);
   useDetailKeys(selectedId, { onPrev: goPrev, onNext: goNext, onClose: close });
+  const body = usePresence(open);
 
   if (searching && !items.length) return null;
   const rowEnd = selected < 0 ? -1 : Math.min(shown.length - 1, Math.floor(selected / cols) * cols + cols - 1);
@@ -117,8 +118,8 @@ function TopicSection({ topic, tone, items, open, searching, onToggle }) {
           </svg>
         )}
       </div>
-      {open && (
-        <div className="level-body">
+      {body.mounted && (
+        <div className={`level-body ${body.closing ? 'is-closing' : ''}`}>
           {activeFilter !== null && (
             <p className="filter-note">
               <MarkGlyph value={activeFilter} size={14} /> Đang lọc: {STATES[activeFilter].label.toLowerCase()}
@@ -128,13 +129,13 @@ function TopicSection({ topic, tone, items, open, searching, onToggle }) {
             </p>
           )}
           {shown.length === 0 && <p className="muted">Không có từ nào ở mức này.</p>}
-          <div className="grid ko-grid" ref={gridRef}>
+          <div className="grid ko-grid" ref={gridRef} style={{ '--sel-x': originOf(selected, cols) }}>
             {shown.map((e, i) => (
               <Fragment key={e.id}>
                 <button
                   style={{ '--i': i }}
                   className={`tile ko-tile ${selected === i ? 'is-selected' : ''} ${[...e.ko].length > 4 ? 'is-long' : ''}`}
-                  onClick={() => setSelectedId(selected === i ? null : e.id)}
+                  onClick={() => (selected === i ? close() : setSelectedId(e.id))}
                   aria-expanded={selected === i}
                   aria-label={`${e.ko} – ${STATES[markId(e.id)].label.toLowerCase()}`}
                   lang="ko"
@@ -155,7 +156,7 @@ function TopicSection({ topic, tone, items, open, searching, onToggle }) {
                   <WordDetail
                     key={`d-${selectedId}`}
                     entry={shown[selected]}
-                    nav={{ pos: selected + 1, total: shown.length, onPrev: goPrev, onNext: goNext, onClose: close }}
+                    nav={{ pos: selected + 1, total: shown.length, onPrev: goPrev, onNext: goNext, onClose: close, closing }}
                   />
                 )}
               </Fragment>

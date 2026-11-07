@@ -1,0 +1,33 @@
+/* ================= Thông số chuyển động dùng chung =================
+   Mọi hiệu ứng mới dùng các biến này; muốn cả app nhanh / chậm hơn chỉ cần sửa ở đây.
+   Mức hiệu ứng nằm ở thuộc tính data-motion trên <html> (lib/motion.js):
+     full     – đầy đủ
+     lite     – "Nhẹ": tắt cảnh nền, khung cảnh và các vòng lặp trang trí; giữ hiệu ứng phản hồi
+     reduced  – máy bật "giảm chuyển động": như lite, và hiệu ứng phản hồi chỉ còn mờ dần
+     off      – tắt hết */
+
+:root {
+  --dur-1: 150ms; /* nút bấm, đổi màu */
+  --dur-2: 240ms; /* mở / đóng khung, chuyển trang */
+  --dur-3: 400ms; /* thẻ bay vào / ra, hiệu ứng lớn */
+  --dur-close: 200ms; /* thu lại khi đóng – phải bằng CLOSE_MS trong lib/motion.js */
+  --toast-out: 260ms; /* thông báo ẩn đi – bằng TOAST_OUT_MS trong FxLayer.jsx */
+
+  --ease-out: cubic-bezier(0.2, 0.9, 0.3, 1); /* vào: nhanh rồi chậm dần */
+  --ease-out-back: cubic-bezier(0.2, 0.9, 0.3, 1.12); /* vào, vượt đích một chút (thẻ xuất hiện) */
+  --ease-in: cubic-bezier(0.5, 0, 0.75, 0); /* ra: chậm rồi nhanh dần */
+  --ease-in-out: cubic-bezier(0.45, 0, 0.3, 1); /* bay, trôi qua lại */
+  --ease-spring: cubic-bezier(0.3, 1.4, 0.5, 1); /* nảy nhẹ quá đích (gạch chân tab, nút) */
+  --ease-pop: cubic-bezier(0.3, 1.6, 0.5, 1); /* nảy mạnh (huy hiệu, thông báo, bật lên) */
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+@keyframes fade-out {
+  to {
+    opacity: 0;
+  }
+}

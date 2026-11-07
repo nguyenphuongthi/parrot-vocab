@@ -10,6 +10,7 @@ import { gradeCard, practiceCard } from '../../lib/store.js';
 import { DAY, STATES, dueAt, isDue, markOf, startOfDay } from '../../lib/srs.js';
 import { updateDeck, useSettings } from '../../lib/settings.js';
 import { emitFx } from '../../lib/events.js';
+import { flyOut, haptic } from '../../lib/motion.js';
 import Logo from '../../components/mascot/Logo.jsx';
 import EmptyParrot from '../../components/mascot/EmptyParrot.jsx';
 import HugParrot from '../../components/mascot/HugParrot.jsx';
@@ -142,8 +143,10 @@ export default function Flashcards({ lang }) {
     });
   };
 
-  const showResult = (correct, html) =>
+  const showResult = (correct, html) => {
+    if (!correct) haptic([12, 40, 12]);
     setFace((f) => ({ ...f, checked: true, flipped: true, result: { correct, html } }));
+  };
 
   const submitTyped = (e) => {
     e.preventDefault();
@@ -166,6 +169,9 @@ export default function Flashcards({ lang }) {
   const grade = (mark) => {
     if (!card) return;
     const [key, ...rest] = queue;
+    // Thẻ cũ bay ra theo hướng chấm (trái: chưa thuộc, lên: hơi nhớ, phải: đã thuộc), thẻ mới trượt vào
+    flyOut(cardRef.current, mark - 1);
+    haptic(mark === 0 ? [12, 40, 12] : 10);
     const results = new Map(deck.results);
     if (!results.has(key)) results.set(key, mark);
     const nextQueue = mark === 0 ? [...rest.slice(0, 3), key, ...rest.slice(3)] : rest;
@@ -201,7 +207,9 @@ export default function Flashcards({ lang }) {
   };
   const onPointerMove = (e) => {
     if (!swipe.current || !face.flipped) return;
+    const before = Math.abs(swipe.current.dx) >= SWIPE_MIN;
     swipe.current.dx = e.clientX - swipe.current.x;
+    if (!before && Math.abs(swipe.current.dx) >= SWIPE_MIN) haptic(8); // báo đã qua ngưỡng, thả tay là chấm
     setDrag(swipe.current.dx);
   };
   const onPointerUp = () => {
@@ -373,7 +381,9 @@ export default function Flashcards({ lang }) {
             <div
               ref={cardRef}
               tabIndex={-1}
-              className={`flashcard ${face.flipped ? 'is-flipped' : ''} ${drag <= -SWIPE_MIN ? 'swipe-0' : drag >= SWIPE_MIN ? 'swipe-2' : ''}`}
+              className={`flashcard ${face.flipped ? 'is-flipped' : ''} ${drag <= -SWIPE_MIN ? 'swipe-0' : drag >= SWIPE_MIN ? 'swipe-2' : ''} ${
+                face.result ? (face.result.correct ? 'got-right' : 'got-wrong') : ''
+              }`}
               style={drag ? { transform: `translateX(${drag}px) rotate(${drag / 40}deg)`, transition: 'none' } : undefined}
               onClick={(e) => {
                 if (swallowClick.current || e.target.closest('button, a, input, form, select')) return;
@@ -384,6 +394,15 @@ export default function Flashcards({ lang }) {
               onPointerUp={onPointerUp}
               onPointerCancel={() => ((swipe.current = null), setDrag(0))}
             >
+              {drag !== 0 && face.flipped && (
+                <span
+                  className={`fc-stamp ${drag < 0 ? 's0' : 's2'}`}
+                  style={{ opacity: Math.min(1, Math.abs(drag) / SWIPE_MIN) }}
+                  aria-hidden="true"
+                >
+                  {MARK_EMOJI[drag < 0 ? 0 : 2]} {STATES[drag < 0 ? 0 : 2].label}
+                </span>
+              )}
               <div className="fc-top">
                 <span className="fc-mark">
                   <MarkGlyph value={markNow} size={14} /> {card.entry ? STATES[markNow].label : 'Từ mới'}

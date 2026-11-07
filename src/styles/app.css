@@ -258,8 +258,8 @@ input {
   font-weight: 600;
   font-size: 14px;
   transition:
-    background 0.15s,
-    color 0.15s;
+    background var(--dur-1),
+    color var(--dur-1);
 }
 .lang-btn:hover {
   color: var(--text);
@@ -555,7 +555,7 @@ input {
   background: none;
   cursor: pointer;
   flex: none;
-  transition: background 0.15s, transform 0.15s;
+  transition: background var(--dur-1), transform var(--dur-1);
 }
 .mark-btn:hover {
   background: var(--surface-2);
@@ -687,9 +687,9 @@ input {
   background: var(--surface);
   box-shadow: 0 1px 1px rgb(0 0 0 / 3%);
   transition:
-    transform 0.15s,
-    box-shadow 0.15s,
-    border-color 0.15s;
+    transform var(--dur-1),
+    box-shadow var(--dur-1),
+    border-color var(--dur-1);
 }
 .tile:hover {
   border-color: var(--line);
@@ -835,7 +835,7 @@ section.card {
 }
 .en-item {
   overflow: hidden;
-  transition: box-shadow 0.15s;
+  transition: box-shadow var(--dur-1);
 }
 .en-item.is-open {
   box-shadow: var(--shadow-lg);
@@ -1071,7 +1071,7 @@ section.card {
   background: var(--bg);
   text-align: left;
   cursor: pointer;
-  transition: border-color 0.15s, transform 0.15s;
+  transition: border-color var(--dur-1), transform var(--dur-1);
 }
 .jamo:hover {
   border-color: var(--accent);
@@ -1582,7 +1582,7 @@ kbd {
   font-weight: 650;
   font-size: 14.5px;
   cursor: pointer;
-  transition: transform 0.1s, border-color 0.15s;
+  transition: transform 0.1s, border-color var(--dur-1);
 }
 .grade:hover {
   border-color: var(--muted);
@@ -1886,6 +1886,12 @@ kbd {
 .settings .row:first-of-type {
   border-top: 0;
 }
+.settings .row-hint {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 12.5px;
+}
 .settings input[type='number'] {
   width: 90px;
 }
@@ -2028,18 +2034,6 @@ kbd {
   }
   .grade span {
     font-size: 13px;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .tile,
-  .jamo,
-  .flashcard,
-  .fc-front,
-  .fc-back,
-  .sync-badge.is-syncing {
-    animation: none;
-    transition: none;
   }
 }
 
@@ -2353,7 +2347,7 @@ section.card,
 .grade-emoji {
   font-size: 30px;
   line-height: 1;
-  transition: transform 0.15s;
+  transition: transform var(--dur-1);
 }
 .grade:not(:disabled):hover .grade-emoji {
   transform: scale(1.18) rotate(-4deg);

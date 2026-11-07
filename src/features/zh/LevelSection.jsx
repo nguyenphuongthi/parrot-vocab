@@ -5,6 +5,7 @@ import { MarkFilter, MarkGlyph } from '../../components/ui/Mark.jsx';
 import { useLangItems } from '../../lib/store.js';
 import { STATES, markOf } from '../../lib/srs.js';
 import { useColumns } from '../../lib/useColumns.js';
+import { originOf, usePresence, useSelection } from '../../lib/motion.js';
 
 // Đếm theo mức trong một cấp: mục chưa có bản ghi = chưa thuộc.
 function countLevel(progress, level, total) {
@@ -17,7 +18,7 @@ function countLevel(progress, level, total) {
 
 export default function LevelSection({ info, tags, words, open, searching, onToggle }) {
   const gridRef = useRef(null);
-  const [selectedId, setSelectedId] = useState(null);
+  const [selectedId, setSelectedId, close, closing] = useSelection();
   const [filter, setFilter] = useState(null); // null = tất cả; 0/1/2 = chỉ mức đó
   const progress = useLangItems('zh');
   const counts = countLevel(progress, info.level, info.total);
@@ -36,8 +37,8 @@ export default function LevelSection({ info, tags, words, open, searching, onTog
 
   const goPrev = selected > 0 ? () => setSelectedId(shown[selected - 1].id) : null;
   const goNext = selected >= 0 && selected < shown.length - 1 ? () => setSelectedId(shown[selected + 1].id) : null;
-  const close = () => setSelectedId(null);
   useDetailKeys(selectedId, { onPrev: goPrev, onNext: goNext, onClose: close });
+  const body = usePresence(open);
 
   if (searching && words && words.length === 0) return null;
 
@@ -81,8 +82,8 @@ export default function LevelSection({ info, tags, words, open, searching, onTog
         )}
       </div>
 
-      {open && (
-        <div className="level-body">
+      {body.mounted && (
+        <div className={`level-body ${body.closing ? 'is-closing' : ''}`}>
           {activeFilter !== null && (
             <p className="filter-note">
               <MarkGlyph value={activeFilter} size={14} /> Đang lọc: {STATES[activeFilter].label.toLowerCase()}
@@ -94,7 +95,7 @@ export default function LevelSection({ info, tags, words, open, searching, onTog
           {!words && <p className="loading">Đang tải…</p>}
           {shown && shown.length === 0 && <p className="muted">Không có từ nào ở mức này.</p>}
           {shown && shown.length > 0 && (
-            <div className="grid" ref={gridRef}>
+            <div className="grid" ref={gridRef} style={{ '--sel-x': originOf(selected, cols) }}>
               {shown.map((x, i) => (
                 <Fragment key={x.id}>
                   <button
@@ -102,7 +103,7 @@ export default function LevelSection({ info, tags, words, open, searching, onTog
                     className={`tile ${selected === i ? 'is-selected' : ''} ${x.py ? '' : 'is-empty'} ${
                       [...x.w].length > 4 ? 'is-long' : ''
                     }`}
-                    onClick={() => setSelectedId(selected === i ? null : x.id)}
+                    onClick={() => (selected === i ? close() : setSelectedId(x.id))}
                     aria-expanded={selected === i}
                     aria-label={`${x.w} – ${STATES[markIdOf(x.id)].label.toLowerCase()}`}
                     lang="zh-CN"
@@ -124,7 +125,7 @@ export default function LevelSection({ info, tags, words, open, searching, onTog
                       key={`d-${selectedId}`}
                       entry={shown[selected]}
                       tags={tags}
-                      nav={{ pos: selected + 1, total: shown.length, onPrev: goPrev, onNext: goNext, onClose: close }}
+                      nav={{ pos: selected + 1, total: shown.length, onPrev: goPrev, onNext: goNext, onClose: close, closing }}
                     />
                   )}
                 </Fragment>

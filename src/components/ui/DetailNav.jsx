@@ -44,8 +44,8 @@ export function useDetailKeys(selectedId, { onPrev, onNext, onClose }) {
 }
 
 // Gắn vào khung chi tiết: vuốt trái/phải để chuyển, cuộn tới khung khi mở,
-// trả về lớp CSS cho hiệu ứng trượt vào.
-export function useDetailCard(ref, { onPrev, onNext }) {
+// trả về lớp CSS cho hiệu ứng trượt vào (hoặc thu lại khi đang đóng – closing từ useSelection).
+export function useDetailCard(ref, { onPrev, onNext, closing }) {
   const [dir] = useState(() => {
     const d = pendingDir;
     pendingDir = 0;
@@ -119,6 +119,7 @@ export function useDetailCard(ref, { onPrev, onNext }) {
     };
   }, [ref]);
 
+  if (closing) return 'is-closing';
   return dir < 0 ? 'enter-prev' : dir > 0 ? 'enter-next' : '';
 }
 

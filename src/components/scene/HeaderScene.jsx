@@ -10,6 +10,7 @@ import { memo, useEffect, useRef, useState } from 'react';
 import { useSettings } from '../../lib/settings.js';
 import { onFx } from '../../lib/events.js';
 import { speak } from '../../lib/speech.js';
+import { useMotionLevel } from '../../lib/motion.js';
 
 const GREETINGS = { en: 'Hi!', zh: '你好!', ko: '안녕!', all: 'Xin chào!' };
 const SIZE = 32;
@@ -261,18 +262,14 @@ function pick(list, prev, night) {
   return items[0];
 }
 
-function useReducedMotion() {
-  const [reduced] = useState(() => typeof matchMedia !== 'undefined' && matchMedia('(prefers-reduced-motion: reduce)').matches);
-  return reduced;
-}
-
 const LANG_VOICE = { en: 'en-US', zh: 'zh-CN', ko: 'ko-KR' };
 
 // pickWord(): { text, lang } – một từ bạn đang học (App cung cấp); null = chưa học từ nào
 export default function HeaderScene({ lang = 'all', scene, mastered = 0, pickWord }) {
   const lane = useRef(null);
   const tree = useRef(null);
-  const reduced = useReducedMotion();
+  // Chỉ đi dạo ở mức hiệu ứng "Đầy đủ"; mức khác thì đậu yên trên cây (vẫn bấm được).
+  const reduced = useMotionLevel() !== 'full';
   const [p, setP] = useState({ x: 0, y: 0, dir: 1, action: 'idle', where: 'tree', dur: 0, ready: false });
   const [react, setReact] = useState(null); // happy | sad | loop | say
   const [said, setSaid] = useState(null); // { text, lang }

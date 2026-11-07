@@ -121,6 +121,18 @@ export default function SettingsView({ onLogout }) {
             <option value="dark">Tối</option>
           </select>
         </label>
+        <label className="row">
+          <span>
+            Hiệu ứng chuyển động
+            <small className="row-hint">“Nhẹ” tắt khung cảnh và nền chuyển động (đỡ tốn pin), vẫn giữ hiệu ứng khi bấm, lật thẻ</small>
+          </span>
+          <select value={settings.motion} onChange={(e) => updateSettings({ motion: e.target.value })}>
+            <option value="auto">Tự động (theo máy)</option>
+            <option value="full">Đầy đủ</option>
+            <option value="lite">Nhẹ</option>
+            <option value="off">Tắt</option>
+          </select>
+        </label>
       </section>
 
       <section className="card">

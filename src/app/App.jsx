@@ -1,4 +1,4 @@
-import { lazy, Suspense, useCallback, useEffect, useMemo, useState } from 'react';
+import { lazy, Suspense, useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import Login from './Login.jsx';
 import { supabase, setAccessCookie } from '../lib/supabase.js';
 import { clearLocal, loadLocal, startSync, syncNow, useSyncStatus, useTable } from '../lib/store.js';
@@ -11,6 +11,7 @@ import HeaderScene, { useScene } from '../components/scene/HeaderScene.jsx';
 import { ChartIcon, CloudIcon, GearIcon } from '../components/ui/Icons.jsx';
 import FxLayer from '../components/scene/FxLayer.jsx';
 import { useBadgeWatcher } from '../lib/achievements.js';
+import { pageEnterClass, useApplyMotion } from '../lib/motion.js';
 
 const EnglishWords = lazy(() => import('../features/en/EnglishWords.jsx'));
 const ZhVocab = lazy(() => import('../features/zh/ZhVocab.jsx'));
@@ -35,6 +36,14 @@ function parseRoute(hash) {
   return null;
 }
 
+// Thứ tự các trang từ trái sang phải (ngôn ngữ → tab, rồi Thống kê, Cài đặt) – để biết trang mới trượt vào từ phía nào.
+const LANG_ORDER = Object.keys(LANGS);
+function routeIndex(r) {
+  if (r.page === 'stats') return 1000;
+  if (r.page === 'settings') return 1001;
+  return LANG_ORDER.indexOf(r.lang) * 100 + LANGS[r.lang].tabs.findIndex(([id]) => id === r.tab);
+}
+
 function useRoute() {
   const initial = () => {
     const fromHash = parseRoute(location.hash);
@@ -46,10 +55,15 @@ function useRoute() {
     }
   };
   const [route, setRoute] = useState(initial);
+  const current = useRef(route);
+  current.current = route;
   useEffect(() => {
     const on = () => {
       const r = parseRoute(location.hash);
-      if (r) setRoute(r);
+      if (!r) return;
+      const from = current.current;
+      if (from.page === r.page && from.lang === r.lang && from.tab === r.tab) return;
+      setRoute({ ...r, dir: Math.sign(routeIndex(r) - routeIndex(from)) });
     };
     window.addEventListener('hashchange', on);
     return () => window.removeEventListener('hashchange', on);
@@ -224,7 +238,7 @@ function Shell({ onLogout, onUnauthorized }) {
         )}
       </header>
 
-      <main className="page" key={route.page === 'lang' ? `${lang}/${route.tab}` : route.page}>
+      <main className={`page ${pageEnterClass(route.dir)}`} key={route.page === 'lang' ? `${lang}/${route.tab}` : route.page}>
         {route.page !== 'lang' && <h1 className="page-title">{route.page === 'stats' ? 'Thống kê' : 'Cài đặt'}</h1>}
         <Suspense fallback={<Loader />}>{page}</Suspense>
       </main>
@@ -243,6 +257,7 @@ function useTheme() {
 export default function App() {
   const [status, setStatus] = useState('checking'); // checking | out | in
   useTheme();
+  useApplyMotion();
 
   useEffect(() => {
     supabase.auth.getSession().then(({ data }) => {
