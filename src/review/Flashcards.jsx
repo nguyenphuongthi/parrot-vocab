@@ -13,6 +13,7 @@ import { emitFx } from '../lib/events.js';
 import Logo from '../components/Logo.jsx';
 import EmptyParrot from '../components/EmptyParrot.jsx';
 import HugParrot from './HugParrot.jsx';
+import LevelPet from '../components/LevelPet.jsx';
 
 const EXTRA_SIZE = 20;
 const RECENT_DAYS = 7;
@@ -387,6 +388,7 @@ export default function Flashcards({ lang }) {
                 <span className="fc-mark">
                   <MarkGlyph value={markNow} size={14} /> {card.entry ? STATES[markNow].label : 'Từ mới'}
                 </span>
+                <LevelPet level={card.level} />
                 <button type="button" className="icon-btn" onClick={() => card.speak()} aria-label="Nghe" title="Nghe">
                   <SpeakerIcon size={18} />
                 </button>
