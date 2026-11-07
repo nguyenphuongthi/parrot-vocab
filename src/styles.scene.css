@@ -1,0 +1,555 @@
+/* ================= Khung cảnh thanh đầu trang =================
+   Bầu trời + mây + cây + mặt đất cỏ hoa; cảnh day / night / snow (thuộc tính data-scene trên .topbar). */
+
+.topbar {
+  overflow: hidden;
+  border-bottom: 0;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  background: linear-gradient(180deg, #4aa8ec 0%, #7cc4f4 50%, #b9e2fb 100%);
+}
+.topbar::after {
+  display: none;
+}
+.topbar[data-scene='night'] {
+  background: linear-gradient(180deg, #1c2150 0%, #2c3170 60%, #3d417f 100%);
+}
+.topbar[data-scene='snow'] {
+  background: linear-gradient(180deg, #d4deeb 0%, #e6edf6 60%, #f5f8fc 100%);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) .topbar[data-scene='day'] {
+    background: linear-gradient(180deg, #22324f 0%, #2a3653 60%, #33344a 100%);
+  }
+  :root:not([data-theme='light']) .topbar[data-scene='snow'] {
+    background: linear-gradient(180deg, #273142 0%, #2e3849 60%, #384253 100%);
+  }
+}
+:root[data-theme='dark'] .topbar[data-scene='day'] {
+  background: linear-gradient(180deg, #22324f 0%, #2a3653 60%, #33344a 100%);
+}
+:root[data-theme='dark'] .topbar[data-scene='snow'] {
+  background: linear-gradient(180deg, #273142 0%, #2e3849 60%, #384253 100%);
+}
+
+/* Chữ trên nền trời đêm */
+.topbar[data-scene='night'] .subtab {
+  color: #c4c8ef;
+}
+.topbar[data-scene='night'] .subtab:hover,
+.topbar[data-scene='night'] .subtab[aria-selected='true'] {
+  color: #fff;
+}
+.topbar[data-scene='night'] .icon-link,
+.topbar[data-scene='night'] .sync-badge {
+  color: #d9dcfb;
+}
+.topbar[data-scene='night'] .icon-link:hover,
+.topbar[data-scene='night'] .icon-link.is-on {
+  background: rgb(255 255 255 / 12%);
+}
+.topbar[data-scene='night'] .lang-switch {
+  background: rgb(255 255 255 / 14%);
+}
+.topbar[data-scene='night'] .lang-btn:not(.is-on) {
+  color: #dfe2ff;
+}
+.app[data-page='lang'] .topbar .lang-switch {
+  backdrop-filter: blur(6px);
+}
+
+/* ---- Bầu trời ---- */
+.sky {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+.sun {
+  position: absolute;
+  top: 8px;
+  right: 22%;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #ffe9a3 0 45%, #ffd36b 46% 60%, transparent 62%);
+  box-shadow: 0 0 30px 10px rgb(255 214 120 / 45%);
+  animation: sun-glow 6s ease-in-out infinite;
+}
+@keyframes sun-glow {
+  50% {
+    box-shadow: 0 0 40px 16px rgb(255 214 120 / 30%);
+    transform: scale(1.06);
+  }
+}
+.moon {
+  position: absolute;
+  top: 8px;
+  right: 22%;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  box-shadow: inset -9px 3px 0 0 #fff4c7;
+  filter: drop-shadow(0 0 8px rgb(255 244 199 / 60%));
+  transform: rotate(-20deg);
+}
+.star {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 0 6px 1px rgb(255 255 255 / 70%);
+  animation: twinkle 3.2s ease-in-out infinite;
+}
+.cloud {
+  z-index: 0;
+  background: rgb(255 255 255 / 80%);
+}
+.cloud.c1 {
+  top: 12px;
+}
+.cloud.c2 {
+  top: 40px;
+}
+.cloud.c3 {
+  top: 22px;
+  transform: scale(0.55);
+  opacity: 0.7;
+  animation-duration: 120s;
+  animation-delay: -75s;
+}
+.topbar[data-scene='snow'] .cloud {
+  background: rgb(255 255 255 / 95%);
+}
+.flake {
+  position: absolute;
+  top: -8px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 0 3px rgb(150 170 200 / 50%);
+  animation: snow-fall linear infinite;
+}
+@keyframes snow-fall {
+  0% {
+    transform: translate(0, 0);
+    opacity: 0;
+  }
+  10% {
+    opacity: 1;
+  }
+  50% {
+    transform: translate(10px, 60px);
+  }
+  100% {
+    transform: translate(-6px, 130px);
+    opacity: 0.2;
+  }
+}
+
+/* ---- Mặt đất ---- */
+.ground {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 10px;
+}
+.ground svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+.ground path {
+  fill: #a9dd9b;
+}
+.ground.g-night path {
+  fill: #2f5f4e;
+}
+.ground.g-snow path {
+  fill: #fbfdff;
+  filter: drop-shadow(0 -1px 0 #dbe5f1);
+}
+.flower {
+  position: absolute;
+  bottom: 5px;
+  width: 2px;
+  height: 9px;
+  background: #6cb86a;
+  transform-origin: bottom;
+  animation: sway 3.4s ease-in-out infinite alternate;
+}
+.flower i {
+  position: absolute;
+  top: -5px;
+  left: -3px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: radial-gradient(circle, #ffe08a 0 28%, var(--petal) 30%);
+}
+.flower.f0 {
+  --petal: #ffb3c6;
+}
+.flower.f1 {
+  --petal: #c8b8ff;
+}
+.flower.f2 {
+  --petal: #ffffff;
+  height: 7px;
+}
+.flower.f3 {
+  --petal: #ffcf8a;
+  height: 11px;
+}
+@keyframes sway {
+  from {
+    transform: rotate(-8deg);
+  }
+  to {
+    transform: rotate(8deg);
+  }
+}
+.firefly {
+  position: absolute;
+  bottom: 12px;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: #fff6a8;
+  box-shadow: 0 0 8px 3px rgb(255 240 120 / 70%);
+  animation: firefly 6s ease-in-out infinite;
+}
+@keyframes firefly {
+  0%,
+  100% {
+    transform: translate(0, 0);
+    opacity: 0.2;
+  }
+  30% {
+    transform: translate(14px, -14px);
+    opacity: 1;
+  }
+  60% {
+    transform: translate(-8px, -24px);
+    opacity: 0.5;
+  }
+}
+
+/* ---- Cây + làn của chú vẹt (canh theo khung nội dung 1080px) ---- */
+.scene-lane {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  max-width: 1080px;
+  margin: 0 auto;
+  z-index: 0;
+  pointer-events: none;
+}
+.tree-wrap {
+  position: absolute;
+  left: 4px;
+  bottom: 6px;
+  width: 64px;
+  height: min(96px, calc(100% - 8px));
+}
+.tree {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+.tree-trunk {
+  fill: #b98a5e;
+}
+.tree-leaf {
+  fill: #8fd18a;
+}
+.tree-leaf.l2 {
+  fill: #74c27a;
+}
+.tree-shine {
+  fill: rgb(255 255 255 / 35%);
+}
+.tree-fruit circle {
+  fill: #ff9f88;
+}
+.tree-snow path {
+  fill: #fff;
+}
+.topbar[data-scene='night'] .tree-leaf {
+  fill: #3f7d66;
+}
+.topbar[data-scene='night'] .tree-leaf.l2 {
+  fill: #336b58;
+}
+.topbar[data-scene='night'] .tree-trunk {
+  fill: #6f5640;
+}
+.topbar[data-scene='night'] .tree-fruit circle {
+  fill: #ffe38a;
+  filter: drop-shadow(0 0 3px #ffe38a);
+}
+.tree-wrap .tree {
+  transform-origin: 50% 100%;
+  animation: tree-breeze 6s ease-in-out infinite alternate;
+}
+@keyframes tree-breeze {
+  from {
+    transform: rotate(-1deg);
+  }
+  to {
+    transform: rotate(1.2deg);
+  }
+}
+
+/* Logo cũ → vùng bấm "Trang chính" phủ lên cây */
+.brand-spot {
+  display: block;
+  width: 56px;
+  height: 44px;
+}
+
+/* ---- Chú vẹt: vị trí theo translate(x, y) trong làn ---- */
+.stroller {
+  top: 0;
+  left: 0;
+  bottom: auto;
+  width: 32px;
+  height: 32px;
+  transition-property: transform;
+  z-index: 1;
+}
+.stroller.is-hidden {
+  opacity: 0;
+}
+.stroller.at-tree .stroller-say {
+  bottom: 6px;
+  left: 34px;
+  border-radius: 10px 10px 10px 2px;
+}
+/* Bay: vỗ cánh nhanh, người nghiêng */
+.stroller.is-fly .p-wing {
+  animation: p-flap 0.14s ease-in-out infinite alternate;
+}
+.stroller.is-fly .p-body {
+  animation: p-glide 0.7s ease-in-out infinite alternate;
+}
+.stroller.is-fly .p-leg {
+  transform: rotate(35deg);
+}
+@keyframes p-flap {
+  from {
+    transform: rotate(15deg);
+  }
+  to {
+    transform: rotate(-85deg);
+  }
+}
+@keyframes p-glide {
+  from {
+    transform: rotate(8deg) translateY(0);
+  }
+  to {
+    transform: rotate(14deg) translateY(-2px);
+  }
+}
+.topbar[data-scene='night'] .stroller-say {
+  background: #fff;
+  color: #2c3170;
+}
+.topbar[data-scene='night'] .stroller-zzz {
+  color: #fff4c7;
+}
+
+/* Nội dung thanh trên nằm trên khung cảnh */
+.topbar-inner,
+.subtabs {
+  position: relative;
+  z-index: 2;
+}
+
+/* Máy tính: tab bắt đầu sau cái cây */
+@media (min-width: 721px) {
+  .subtabs {
+    padding-left: 84px;
+  }
+}
+
+@media (max-width: 720px) {
+  /* Hàng tab cuộn ngang: mờ dần ở mép phải để biết còn tab */
+  .subtabs {
+    -webkit-mask-image: linear-gradient(90deg, #000 85%, transparent);
+    mask-image: linear-gradient(90deg, #000 85%, transparent);
+    padding-right: 32px;
+  }
+  .jamo-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+  .jamo {
+    grid-template-columns: 1fr;
+    grid-template-areas: 'char' 'rr' 'name' 'hint' 'ex';
+    padding: 12px;
+  }
+  .jamo-char {
+    font-size: 34px;
+  }
+  .tree-wrap {
+    width: 48px;
+    height: 54px;
+    top: 4px;
+    bottom: auto;
+  }
+  .sun,
+  .moon {
+    right: 34%;
+  }
+  .brand-spot {
+    width: 44px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .flake,
+  .firefly,
+  .star {
+    display: none;
+  }
+}
+
+/* Nút ngôn ngữ: chỉ ghi tên gốc English · 汉语 · 한국어 */
+.lang-btn {
+  padding: 7px 16px;
+}
+.lang-btn .lang-name {
+  font-size: 14.5px;
+}
+.dot-badge {
+  top: 2px;
+  left: auto;
+  right: 2px;
+  width: 7px;
+  height: 7px;
+}
+/* Trời xanh ban ngày: chữ tab và icon trắng cho dễ đọc */
+.topbar[data-scene='day'] .subtab {
+  color: rgb(255 255 255 / 85%);
+  text-shadow: 0 1px 2px rgb(20 70 120 / 35%);
+}
+.topbar[data-scene='day'] .subtab:hover,
+.topbar[data-scene='day'] .subtab[aria-selected='true'] {
+  color: #fff;
+}
+.topbar[data-scene='day'] .icon-link,
+.topbar[data-scene='day'] .sync-badge {
+  color: #fff;
+}
+.topbar[data-scene='day'] .icon-link:hover,
+.topbar[data-scene='day'] .icon-link.is-on {
+  background: rgb(255 255 255 / 20%);
+}
+.topbar[data-scene='day'] .lang-switch {
+  background: rgb(255 255 255 / 25%);
+}
+.topbar[data-scene='day'] .lang-btn:not(.is-on) {
+  color: #fff;
+}
+.topbar[data-scene='day'] .subtab[aria-selected='true']::after,
+.topbar[data-scene='night'] .subtab[aria-selected='true']::after {
+  background: #fff;
+}
+
+/* Nút lọc loại từ (Kho từ tiếng Anh): cùng màu với thẻ của loại từ đó */
+.pill.pill-tone {
+  background: color-mix(in srgb, var(--tone) var(--tone-amt), var(--surface));
+  color: var(--tone-ink);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--tone-ink) 18%, transparent);
+}
+.pill.pill-tone b,
+.pill.pill-tone .pill-count {
+  color: var(--tone-ink);
+}
+.pill.pill-tone .pill-count {
+  opacity: 0.7;
+}
+.pill.pill-tone:hover {
+  box-shadow: 0 4px 12px color-mix(in srgb, var(--tone-ink) 18%, transparent);
+}
+.pill.pill-tone.is-on {
+  background: var(--tone-ink);
+  color: var(--surface);
+}
+.pill.pill-tone.is-on b,
+.pill.pill-tone.is-on .pill-count {
+  color: var(--surface);
+}
+
+/* ---- Thẻ Kho từ tiếng Anh: tiêu đề dài không làm lệch thẻ ----
+   Lưới 2 cột: icon mức luôn ở cột trái; từ + loại từ + CEFR + nút nghe ở cột phải, dài thì tự xuống dòng. */
+.en-head {
+  display: grid;
+  grid-template-columns: 34px minmax(0, 1fr);
+  align-items: start;
+  column-gap: 8px;
+  row-gap: 6px;
+}
+.en-head .mark-btn {
+  grid-column: 1;
+  grid-row: 1;
+  margin-top: 0;
+}
+.en-toggle {
+  grid-column: 2;
+  grid-row: 1;
+  min-width: 0;
+  margin-right: 0;
+  padding: 3px 0;
+  align-items: center;
+  row-gap: 2px;
+}
+.en-word {
+  overflow-wrap: anywhere;
+  line-height: 1.25;
+}
+.en-pos {
+  white-space: nowrap;
+}
+.en-head .accents,
+.en-item:not(.is-open) .accents {
+  grid-column: 2;
+  grid-row: 2;
+  width: auto;
+  padding-left: 0;
+}
+.accent {
+  max-width: 100%;
+}
+.accent span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.en-body {
+  padding-left: 58px;
+}
+@media (max-width: 720px) {
+  .en-body {
+    padding-left: 16px;
+  }
+  .en-head .accents {
+    display: flex;
+  }
+}
+
+/* Ô HSK / tiếng Hàn: chữ dài tự xuống dòng gọn trong ô */
+.tile {
+  overflow-wrap: anywhere;
+  padding: 10px 8px;
+}
+.ko-tile {
+  word-break: keep-all;
+}
