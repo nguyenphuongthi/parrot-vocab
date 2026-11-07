@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <!-- Bản rút gọn cho 16px: bỏ bóng, lấp lánh, gân lá; nét dày hơn -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B4DC92"/>
+      <stop offset="1" stop-color="#4F9A6A"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="16" height="16" rx="4" fill="url(#bg)"/>
+  <line x1="9.6" y1="9.6" x2="12.6" y2="12.6" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="6.9" cy="6.9" r="4.4" fill="#FFFFFF"/>
+  <path d="M4.6 9.2 C4.5 6.6 6.1 4.8 9.2 4.7 C9.3 7.6 7.5 9.2 4.6 9.2 Z" fill="#4F9A6A"/>
+</svg>

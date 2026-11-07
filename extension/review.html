@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#8DC97C">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Vocab English Lens">
+  <title>Vocab English Lens – Sổ từ vựng</title>
+  <link rel="manifest" href="app.webmanifest">
+  <link rel="icon" href="icons/icon32.png" sizes="32x32">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="review.css">
+  <script src="config.js"></script>
+  <script src="platform.js"></script>
+</head>
+<body>
+  <!-- Màn hình đăng nhập – chỉ hiện trên bản web -->
+  <div id="gate" class="gate">
+    <form id="gate-form" class="gate-card">
+      <img src="icons/icon128.png" alt="" width="80" height="80">
+      <h1>Vocab English Lens</h1>
+      <p class="muted">Đăng nhập để mở kho từ của bạn</p>
+      <input type="email" name="email" placeholder="Email" autocomplete="username" required>
+      <input type="password" name="password" placeholder="Mật khẩu" autocomplete="current-password" required>
+      <button type="submit" class="btn primary">Đăng nhập</button>
+      <p id="gate-error" class="error" hidden></p>
+    </form>
+  </div>
+
+  <header class="topbar">
+    <h1><img src="icons/icon48.png" alt="" width="28" height="28"> Vocab English Lens</h1>
+    <nav class="tabs" role="tablist">
+      <button role="tab" data-tab="list">Kho từ <span id="count" class="badge">0</span></button>
+      <button role="tab" data-tab="cards" title="Số từ cần ôn hôm nay">Flashcard <span id="due-count" class="badge due" hidden>0</span></button>
+      <button role="tab" data-tab="stats">Thống kê</button>
+      <button role="tab" data-tab="settings">Cài đặt</button>
+    </nav>
+    <a id="open-app" class="open-app" target="_blank" rel="noopener" hidden>Mở app Languages ↗</a>
+    <button id="sync-badge" class="sync-badge" type="button" hidden></button>
+  </header>
+
+  <main>
+    <!-- Danh sách từ -->
+    <section id="tab-list" class="tab" hidden>
+      <nav id="pos-tabs" class="pos-tabs" aria-label="Phân loại theo từ loại"></nav>
+      <div class="toolbar">
+        <input id="search" type="search" placeholder="Tìm từ hoặc nghĩa…">
+        <select id="sort">
+          <option value="new">Mới nhất</option>
+          <option value="az">A → Z</option>
+        </select>
+        <select id="level" aria-label="Cấp độ CEFR"></select>
+        <button id="export" class="btn ghost" title="Tải file JSON để sao lưu">Xuất</button>
+        <label class="btn ghost" title="Nhập từ file JSON đã xuất">Nhập<input id="import" type="file" accept="application/json" hidden></label>
+      </div>
+      <div id="stats" class="stats"></div>
+      <div id="list" class="list"></div>
+      <p id="empty" class="empty" hidden>
+        Chưa có từ nào.
+        <span data-only="extension">Bôi đen một từ tiếng Anh trên trang web bất kỳ rồi bấm ☆ để lưu.</span>
+        <span data-only="web">Lưu từ bằng extension Vocab English Lens trên máy tính, từ sẽ tự đồng bộ về đây.</span>
+      </p>
+    </section>
+
+    <!-- Flashcard -->
+    <section id="tab-cards" class="tab" hidden>
+      <div class="goal-slot"></div>
+      <div class="deck-bar">
+        <select id="deck-source" aria-label="Ôn những từ nào">
+          <option value="due">Cần ôn hôm nay</option>
+          <option value="recent">Từ mới 7 ngày qua</option>
+          <option value="lapses">Từ hay quên</option>
+          <option value="marks">Theo mức thuộc</option>
+        </select>
+        <span id="deck-states" class="stats"></span>
+        <select id="deck-pos" aria-label="Từ loại"></select>
+        <select id="deck-mode" aria-label="Kiểu ôn">
+          <option value="en-vi">Anh → Việt</option>
+          <option value="vi-en">Việt → Anh</option>
+          <option value="listen">Nghe đoán từ</option>
+          <option value="type">Gõ chính tả</option>
+          <option value="choice">Trắc nghiệm 4 đáp án</option>
+        </select>
+        <select id="deck-order" aria-label="Thứ tự thẻ">
+          <option value="random">Ngẫu nhiên</option>
+          <option value="new">Mới lưu trước</option>
+        </select>
+        <button id="restart" class="btn ghost">Bắt đầu lại</button>
+        <span id="progress" class="muted"></span>
+      </div>
+
+      <div id="card-area">
+        <div id="flashcard" class="flashcard" tabindex="0" title="Bấm hoặc nhấn Space để lật thẻ">
+          <div class="face front">
+            <div id="fc-mark"></div>
+            <div id="fc-prompt"></div>
+            <form id="fc-type" class="fc-type" hidden>
+              <input id="fc-answer" type="text" placeholder="Gõ từ tiếng Anh…" autocomplete="off" autocapitalize="off" spellcheck="false">
+              <button type="submit" class="btn primary">Kiểm tra</button>
+            </form>
+            <div id="fc-hint" class="hint muted"></div>
+          </div>
+          <div class="face back" hidden>
+            <div id="fc-result" class="fc-result" hidden></div>
+            <div id="fc-back"></div>
+          </div>
+        </div>
+        <div class="grade">
+          <button class="btn grade-btn st-0" data-grade="0">Chưa thuộc <kbd>1</kbd></button>
+          <button class="btn grade-btn st-1" data-grade="1">Hơi nhớ <kbd>2</kbd></button>
+          <button class="btn grade-btn st-2" data-grade="2">Đã thuộc <kbd>3</kbd></button>
+        </div>
+        <p class="swipe-hint muted">Lật thẻ rồi vuốt ← Chưa thuộc · vuốt → Đã thuộc</p>
+      </div>
+      <div id="deck-done" class="empty" hidden></div>
+    </section>
+
+    <!-- Thống kê -->
+    <section id="tab-stats" class="tab" hidden>
+      <div class="goal-slot"></div>
+      <div class="chart-card">
+        <div class="chart-head">
+          <div>
+            <h2>Mức thuộc theo ngày</h2>
+          </div>
+          <div class="month-nav">
+            <button id="month-prev" type="button" class="btn ghost" aria-label="Tháng trước">‹</button>
+            <span id="month-label"></span>
+            <button id="month-next" type="button" class="btn ghost" aria-label="Tháng sau">›</button>
+          </div>
+        </div>
+        <div id="chart-legend" class="chart-legend"></div>
+        <div id="chart" class="chart"></div>
+        <details class="chart-table">
+          <summary>Xem bảng số liệu</summary>
+          <div id="chart-table"></div>
+        </details>
+      </div>
+    </section>
+
+    <!-- Cài đặt -->
+    <section id="tab-settings" class="tab" hidden>
+      <form id="settings-form" class="panel">
+        <h2>Chung</h2>
+        <label class="row switch" data-only="extension">
+          <input type="checkbox" name="enabled">
+          <span>Bật tự động dịch khi bôi đen</span>
+        </label>
+        <label class="row switch">
+          <input type="checkbox" name="autoPlay">
+          <span>Tự phát âm khi hiện từ (popup và flashcard)</span>
+        </label>
+        <label class="row switch" data-only="extension">
+          <input type="checkbox" name="highlight">
+          <span>Gạch chân các từ đã có trong kho khi đọc web (màu theo mức thuộc; bấm vào để xem)</span>
+        </label>
+        <label class="row switch" data-only="extension">
+          <input type="checkbox" name="youtube">
+          <span>YouTube: bấm vào từ trong phụ đề để tra – video tự dừng, đóng popup thì phát tiếp</span>
+        </label>
+        <label class="row switch" data-only="extension">
+          <input type="checkbox" name="ytTranslate">
+          <span>YouTube: phụ đề tiếng khác (Việt, Hàn, Pháp…) thì hiện thêm dòng dịch tiếng Anh – bấm vào từ để tra</span>
+        </label>
+        <label class="row goal-setting"><span>Mục tiêu mỗi ngày (số thẻ flashcard)</span>
+          <input type="number" name="dailyGoal" min="1" max="500" step="1" inputmode="numeric"></label>
+        <fieldset class="row">
+          <legend>Giọng đọc ưu tiên</legend>
+          <label><input type="radio" name="accent" value="us"> US (Anh – Mỹ)</label>
+          <label><input type="radio" name="accent" value="uk"> UK (Anh – Anh)</label>
+        </fieldset>
+
+        <fieldset class="row" data-only="extension">
+          <legend>Nguồn dịch dự phòng – Microsoft Translator (tuỳ chọn)</legend>
+          <small class="muted">Dùng khi Google lỗi. Tạo resource “Translator” gói Free F0 trên Azure Portal rồi dán Key và Location/Region vào đây.</small>
+          <label class="row"><span>Key</span>
+            <input type="password" name="msKey" autocomplete="off" spellcheck="false"></label>
+          <label class="row"><span>Region</span>
+            <input type="text" name="msRegion" placeholder="vd. southeastasia" autocomplete="off" spellcheck="false"></label>
+          <div class="actions">
+            <button type="button" id="ms-test" class="btn ghost">Kiểm tra key</button>
+            <span id="ms-result" class="muted"></span>
+          </div>
+        </fieldset>
+        <div class="actions">
+          <button type="submit" class="btn primary">Lưu cài đặt</button>
+          <span id="saved-msg" class="muted" hidden>Đã lưu ✓</span>
+        </div>
+      </form>
+
+      <section class="panel">
+        <h2>Đồng bộ với Supabase</h2>
+        <p class="muted" data-only="extension">Lưu sổ từ lên tài khoản Supabase của bạn để dùng chung giữa nhiều máy và không mất khi gỡ extension.
+          Cách tạo project xem trong README, mục “Đồng bộ với Supabase”.</p>
+
+        <form id="sync-form" class="sync-form" autocomplete="off" data-only="extension">
+          <label class="row"><span>Project URL</span>
+            <input type="url" name="url" placeholder="https://xxxx.supabase.co" required spellcheck="false"></label>
+          <label class="row"><span>Anon / publishable key</span>
+            <input type="text" name="anonKey" placeholder="eyJhbGciOi… hoặc sb_publishable_…" required spellcheck="false"></label>
+          <label class="row"><span>Email</span>
+            <input type="email" name="email" required></label>
+          <label class="row"><span>Mật khẩu</span>
+            <input type="password" name="password" required></label>
+          <div class="actions">
+            <button type="submit" class="btn primary">Đăng nhập &amp; đồng bộ</button>
+          </div>
+          <small class="muted">Mật khẩu không được lưu – extension chỉ giữ phiên đăng nhập.</small>
+        </form>
+
+        <div id="sync-account" class="sync-account" hidden>
+          <div>Đã đăng nhập: <b id="sync-email"></b></div>
+          <div id="sync-status" class="muted"></div>
+          <div class="actions">
+            <button id="sync-now" type="button" class="btn">Đồng bộ ngay</button>
+            <button id="sync-out" type="button" class="btn ghost">Đăng xuất</button>
+          </div>
+        </div>
+        <p id="sync-error" class="error" hidden></p>
+      </section>
+
+      <section class="panel credits">
+        <h2>Nguồn cấp độ CEFR</h2>
+        <p class="muted">Cấp độ A1–B2: <a href="https://www.cefr-j.org/" target="_blank" rel="noopener">The CEFR-J Wordlist Version 1.5</a>,
+          compiled by Yukio Tono, Tokyo University of Foreign Studies (© Tono Laboratory, TUFS).
+          Cấp độ C1–C2: <a href="https://www.octanove.com/" target="_blank" rel="noopener">Octanove Vocabulary Profile C1/C2 1.0</a> (Octanove Labs),
+          giấy phép <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.
+          Lấy qua <a href="https://github.com/openlanguageprofiles/olp-en-cefrj" target="_blank" rel="noopener">Open Language Profiles</a>.
+          Cấp độ chỉ mang tính tham khảo; từ không có trong danh sách hiện “chưa xếp cấp”.</p>
+      </section>
+    </section>
+  </main>
+
+  <script src="shared.js"></script>
+  <script src="sync.js"></script>
+  <script src="review.js"></script>
+</body>
+</html>

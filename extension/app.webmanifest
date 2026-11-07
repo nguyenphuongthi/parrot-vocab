@@ -1,0 +1,16 @@
+{
+  "name": "Vocab English Lens",
+  "short_name": "Vocab English Lens",
+  "description": "Kho từ vựng tiếng Anh và flashcard ôn tập.",
+  "lang": "vi",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F6F7F9",
+  "theme_color": "#8DC97C",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
