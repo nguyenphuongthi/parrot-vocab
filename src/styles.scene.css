@@ -338,6 +338,18 @@
 .stroller.is-fly .p-body {
   animation: p-glide 0.7s ease-in-out infinite alternate;
 }
+/* Bay lên cây: ngóc đầu lên theo hướng bay (cúi đầu khi bay lên trông như bay lùi) */
+.stroller.fly-up .p-body {
+  animation-name: p-climb;
+}
+@keyframes p-climb {
+  from {
+    transform: rotate(-16deg) translateY(0);
+  }
+  to {
+    transform: rotate(-10deg) translateY(-2px);
+  }
+}
 .stroller.is-fly .p-leg {
   transform: rotate(35deg);
 }
