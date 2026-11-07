@@ -798,26 +798,26 @@
     return `
       :host { all: initial; }
       .card {
-        --bg: #ffffff; --fg: #1f2328; --muted: #656d76; --line: #d8dee4; --chip: #f3f5f7;
-        --accent: #2563eb; --accent-bg: #e8f0fe; --error: #c62828; --star: #f5a623;
+        --bg: #ffffff; --fg: #18181b; --muted: #696970; --line: #e3e5f2; --chip: #eef0fb;
+        --accent: #3a49a8; --accent-bg: #e3e7ff; --error: #c4372b; --star: #f5a623;
         box-sizing: border-box; width: 360px; max-width: calc(100vw - 16px); max-height: 70vh; overflow-y: auto;
-        padding: 12px 14px; border: 1px solid var(--line); border-radius: 12px;
-        background: var(--bg); color: var(--fg);
-        box-shadow: 0 10px 30px rgba(0,0,0,.18);
-        font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+        padding: 14px 16px; border: 0; border-radius: 22px;
+        background: linear-gradient(160deg, var(--accent-bg) 0, var(--bg) 120px); color: var(--fg);
+        box-shadow: 0 2px 4px rgb(20 20 30 / 6%), 0 18px 40px rgb(20 20 30 / 16%);
+        font: 14px/1.45 "Inter", "Noto Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
         text-align: left;
       }
       @media (prefers-color-scheme: dark) {
-        .card { --bg: #1e2228; --fg: #e6edf3; --muted: #9aa4af; --line: #353b44; --chip: #2a3038;
-                --accent: #7aa7ff; --accent-bg: #23314d; --error: #ff8a80; }
+        .card { --bg: #1c1c1f; --fg: #ececf0; --muted: #9d9da7; --line: #2f2f35; --chip: #25252a;
+                --accent: #b4c0ff; --accent-bg: #262b4a; --error: #f07368; }
       }
       .head { display: flex; align-items: center; gap: 4px; margin: -4px -6px 8px; padding: 4px 6px;
-              border-radius: 8px; cursor: grab; user-select: none; touch-action: none; }
+              border-radius: 12px; cursor: grab; user-select: none; touch-action: none; }
       .head:hover { background: var(--chip); }
       .dragging .head { cursor: grabbing; }
       .card.dragging { box-shadow: 0 16px 40px rgba(0,0,0,.28); }
       .grip { color: var(--muted); font-size: 14px; line-height: 1; opacity: .6; margin-right: 2px; }
-      .word { font-size: 18px; font-weight: 700; word-break: break-word; }
+      .word { font-size: 18px; font-weight: 700; color: var(--accent); word-break: break-word; }
       .head .cefr { margin-left: 4px; }
       .spacer { flex: 1; }
       button { font: inherit; color: inherit; cursor: pointer; }
@@ -826,22 +826,22 @@
       .save.on { color: var(--star); }
       .accents { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
       .accent { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px;
-                border: 1px solid var(--line); border-radius: 999px; background: var(--chip); }
+                border: 1px solid transparent; border-radius: 999px; background: var(--bg); }
       .accent:hover { border-color: var(--accent); }
-      .accent.active { border-color: var(--accent); background: var(--accent-bg); color: var(--accent); }
+      .accent.active { border-color: transparent; background: var(--accent-bg); color: var(--accent); }
       .accent b { font-size: 12px; }
       .ipa { font-family: "Segoe UI", "Lucida Sans Unicode", "Noto Sans", sans-serif; color: var(--fg); }
       .translation { font-size: 16px; font-weight: 600; margin-bottom: 4px; }
       .meanings { margin: 0 0 8px; padding: 0; list-style: none; }
       .meanings li { margin: 2px 0; }
-      .pos { display: inline-block; font-size: 11px; padding: 0 6px; border-radius: 4px; background: var(--chip); color: var(--muted); }
-      .note { margin: 0 0 8px; padding: 6px 8px; border-radius: 8px; background: var(--chip); font-size: 13px; }
+      .pos { display: inline-block; font-size: 11px; padding: 0 8px; border-radius: 999px; background: var(--chip); color: var(--muted); }
+      .note { margin: 0 0 8px; padding: 6px 10px; border-radius: 12px; background: var(--chip); font-size: 13px; }
       .link { border: 0; padding: 0; background: none; color: var(--accent); font-weight: 600; }
       .link:hover { text-decoration: underline; }
       .explain { border-top: 1px solid var(--line); padding-top: 8px; margin-top: 4px; }
-      .btn { width: 100%; padding: 6px 10px; border: 1px solid var(--accent); border-radius: 8px;
-             background: var(--accent-bg); color: var(--accent); font-weight: 600; }
-      .btn:hover { filter: brightness(.97); }
+      .btn { width: 100%; padding: 8px 10px; border: 0; border-radius: 12px;
+             background: #7c8ff0; color: #161a33; font-weight: 600; }
+      .btn:hover { filter: brightness(1.06); }
       .muted { color: var(--muted); }
       .error { color: var(--error); margin-bottom: 6px; }
       ${DETAILS_STYLES}

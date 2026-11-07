@@ -1,14 +1,23 @@
+/* Bảng màu giống web app Languages (trang tiếng Anh: lavender). --accent: chữ / viền nhấn,
+   --accent-fill: nền nút chính, --st0..2: màu mức thuộc (đã kiểm tra cho người mù màu, giống --m0..2 bên web). */
 :root {
-  --bg: #f6f7f9; --surface: #ffffff; --surface-2: #f0f2f5; --fg: #1f2328; --muted: #656d76; --line: #d8dee4;
-  --chip: #f0f2f5; --accent: #2563eb; --accent-bg: #e8f0fe; --error: #c62828;
-  --st0: #d8453b; --st1: #e3a008; --st2: #2f9e5c;
+  --bg: #eef0ff; --surface: #ffffff; --surface-2: #f3f4fb; --fg: #18181b; --muted: #696970; --line: #e3e5f2;
+  --chip: #eef0fb; --accent: #3a49a8; --accent-bg: #e3e7ff; --accent-fill: #7c8ff0; --on-accent: #161a33; --error: #c4372b;
+  --st0: #5b6fd0; --st1: #c98410; --st2: #23926a;
+  --wall-image: radial-gradient(48rem 30rem at 105% -5%, #dde3ff 0, transparent 70%), radial-gradient(40rem 28rem at -10% 105%, #f1e6ff 0, transparent 70%);
+  --shadow: 0 1px 2px rgb(20 20 30 / 5%), 0 6px 20px rgb(20 20 30 / 6%);
+  --shadow-lg: 0 2px 4px rgb(20 20 30 / 6%), 0 18px 40px rgb(20 20 30 / 10%);
+  --ui: 'Inter', 'Noto Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
   color-scheme: light dark;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #15181d; --surface: #1e2228; --surface-2: #2a3038; --fg: #e6edf3; --muted: #9aa4af; --line: #353b44;
-    --chip: #2a3038; --accent: #7aa7ff; --accent-bg: #23314d; --error: #ff8a80;
-    --st0: #ec6a60; --st1: #f0b93a; --st2: #4cc27d;
+    --bg: #171a2b; --surface: #1c1c1f; --surface-2: #25252a; --fg: #ececf0; --muted: #9d9da7; --line: #2f2f35;
+    --chip: #25252a; --accent: #b4c0ff; --accent-bg: #262b4a; --accent-fill: #8d9ef5; --on-accent: #161a33; --error: #f07368;
+    --st0: #7b8ce0; --st1: #b8821f; --st2: #3aa979;
+    --wall-image: radial-gradient(48rem 30rem at 105% -5%, #232a4d 0, transparent 70%);
+    --shadow: 0 1px 2px rgb(0 0 0 / 30%), 0 8px 24px rgb(0 0 0 / 25%);
+    --shadow-lg: 0 2px 4px rgb(0 0 0 / 35%), 0 18px 40px rgb(0 0 0 / 40%);
   }
 }
 .st-0 { --st: var(--st0); }
@@ -311,7 +320,8 @@ fieldset.row > small, fieldset.row > .actions { width: 100%; }
   input, select, textarea { font-size: 16px; }
 
   /* Thanh công cụ Kho từ: ô tìm kiếm cả hàng; sắp xếp – Xuất – Nhập một hàng */
-  .toolbar { display: grid; grid-template-columns: 1fr 1fr auto auto; }
+  .toolbar { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) auto auto; }
+  .toolbar select { width: 100%; min-width: 0; }
   .toolbar input[type="search"] { grid-column: 1 / -1; min-width: 0; }
   .item { padding: 12px 14px; }
 
@@ -344,3 +354,60 @@ fieldset.row > small, fieldset.row > .actions { width: 100%; }
 .open-app:hover { border-color: var(--muted); }
 .open-app[hidden] { display: none; }
 .open-app:not([hidden]) + .sync-badge { margin-left: 8px; }
+
+/* ================= Giao diện pastel giống web app Languages =================
+   Thẻ phẳng bo tròn, không viền, đổ bóng nhẹ; nền lavender; nút chính màu --accent-fill. */
+body { font-family: var(--ui); background-color: var(--bg); background-image: var(--wall-image); background-attachment: fixed;
+       -webkit-font-smoothing: antialiased; }
+.gate { background: var(--bg) var(--wall-image); }
+.gate-card { border: 0; border-radius: 28px; box-shadow: var(--shadow-lg); }
+
+.topbar { background: color-mix(in srgb, var(--bg) 82%, transparent); border-bottom-color: color-mix(in srgb, var(--accent) 12%, transparent);
+          backdrop-filter: saturate(1.4) blur(14px); -webkit-backdrop-filter: saturate(1.4) blur(14px); }
+.topbar h1 { color: var(--accent); letter-spacing: -0.01em; }
+.topbar h1 img { border-radius: 8px; }
+.tabs button { position: relative; border-radius: 12px; }
+.tabs button:hover { background: color-mix(in srgb, var(--surface) 70%, transparent); color: var(--fg); }
+.tabs button[aria-selected="true"] { background: var(--surface); color: var(--accent); box-shadow: 0 2px 8px color-mix(in srgb, var(--accent) 15%, transparent); }
+.badge { background: var(--accent-bg); color: var(--accent); font-weight: 700; }
+.badge.due { background: var(--accent-fill); color: var(--on-accent); }
+.sync-badge, .open-app { border: 0; background: color-mix(in srgb, var(--surface) 70%, transparent); }
+
+.btn { min-height: 38px; border-radius: 12px; }
+.btn:hover { border-color: color-mix(in srgb, var(--accent) 40%, var(--line)); }
+.btn.primary { background: var(--accent-fill); border-color: var(--accent-fill); color: var(--on-accent); }
+.btn.primary:hover { filter: brightness(1.06); }
+input[type="search"], input[type="password"], input[type="text"], input[type="url"], input[type="email"], input[type="number"], select {
+  min-height: 38px; border-radius: 12px;
+}
+input:focus-visible, select:focus-visible { outline: 2px solid var(--accent-fill); outline-offset: 1px; }
+
+.pos-tab { border: 0; background: var(--surface); box-shadow: var(--shadow); }
+.pos-tab.is-active { background: var(--accent); color: var(--surface); }
+.pos-tab.is-active b { color: var(--surface); }
+.pos-tab.is-active .pos-count { background: color-mix(in srgb, var(--surface) 25%, transparent); color: var(--surface); }
+
+/* Thẻ từ trung tính: mức thuộc thể hiện ở thanh trượt, không tô viền thẻ */
+.item { border: 0; border-radius: 22px; box-shadow: var(--shadow); transition: box-shadow .15s; }
+.item:hover { box-shadow: var(--shadow-lg); }
+.item-word { color: var(--accent); }
+.pos { border-radius: 999px; padding: 1px 8px; }
+.accent { border: 0; background: var(--accent-bg); color: var(--accent); }
+.accent:hover { background: color-mix(in srgb, var(--accent-fill) 30%, var(--accent-bg)); }
+.status-track { border: 0; background: var(--chip); }
+
+.goal { border: 0; border-radius: 999px; padding: 10px 18px; box-shadow: var(--shadow); }
+.goal-bar::-webkit-progress-value { background: linear-gradient(90deg, var(--accent-fill), color-mix(in srgb, var(--accent-fill) 60%, var(--accent))); }
+
+.flashcard { border: 0; border-radius: 28px; background: linear-gradient(160deg, var(--accent-bg) 0, var(--surface) 62%); box-shadow: var(--shadow-lg); }
+.fc-word, .back .fc-title { color: var(--accent); }
+.listen-btn { background: var(--accent-bg); color: var(--accent); }
+.choice { border: 0; border-radius: 14px; background: var(--surface); box-shadow: var(--shadow); }
+.grade { gap: 8px; }
+.grade-btn { min-height: 52px; border: 0; border-radius: 18px; background: var(--surface); box-shadow: var(--shadow); }
+.grade-btn:hover { background: color-mix(in srgb, var(--st) 12%, var(--surface)); }
+.fc-result { border-radius: 14px; }
+
+.chart-card, .panel { border: 0; border-radius: 24px; box-shadow: var(--shadow); }
+.chart-tip { border: 0; border-radius: 12px; box-shadow: var(--shadow-lg); }
+.switch input[type="checkbox"]:checked { background: var(--accent-fill); }

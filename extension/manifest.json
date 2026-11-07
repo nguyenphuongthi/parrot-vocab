@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Vocab English Lens",
   "short_name": "Vocab English Lens",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Bôi đen một từ tiếng Anh để xem nghĩa tiếng Việt, phiên âm US/UK, nghe phát âm, lưu từ và ôn bằng flashcard.",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsh4woAT7HmSVoMC23ix1ausQQlVml546S5DS+VgMnGWEZ1/wQtMKiebCxNfovmivQIWnvTr9tCZq0KLlAPFEMPUYgippw0E/Sr42vtAUl6meJIMSLRJvagCp4dEtSeuYsAAP1Bh418l9eUkj2eyY964qRKSOIXRwHs/HHNZU+s3FPbTR3vHgJoSo386AIXuLGv91558sdizhra/UBOd7BAA3awyw5b/qbdpHTJ+VRARiTa0GkSdVuPNSNfqacUXkOXR6FoGiOL6/IKMOWXhC9cp/I/K45NbLWxMVr4Wzr9aJSiy8O1/7liPs9OkLKrfmgd+xq1Mpy9/MM85ZgV++zwIDAQAB",
   "icons": {
