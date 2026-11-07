@@ -494,6 +494,7 @@
   transition-timing-function: linear;
 }
 .stroller-flip {
+  display: block; /* span inline thì transform: scaleX() không có tác dụng – vẹt không quay đầu được */
   position: relative;
   transition: transform 0.25s;
 }

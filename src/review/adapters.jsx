@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { useLangItems, useTable } from '../lib/store.js';
 import { speak } from '../lib/speech.js';
 import { useSettings } from '../lib/settings.js';
-import { POS_INFO, POS_ORDER, categoriesOf, categoryName, cefrOf } from '../en/cefr.js';
+import { CEFR_LEVELS, POS_INFO, POS_ORDER, categoriesOf, categoryName, cefrOf } from '../en/cefr.js';
 import { AccentButtons, CefrBadge, Contexts, Details, Meanings, playEnglish, synonymsOf } from '../en/parts.jsx';
 import { useCefr } from '../en/EnglishWords.jsx';
 import { loadAllWords, loadIndex } from '../zh/data.js';
@@ -69,6 +69,12 @@ function EnBack({ card }) {
   );
 }
 
+// Cấp độ của thẻ cho chú vẹt trên flashcard: rank 0 (A1 / HSK 1) → 5 (C2 / HSK 6)
+function levelOf(cefr) {
+  const rank = CEFR_LEVELS.indexOf(cefr);
+  return rank < 0 ? null : { label: cefr, rank };
+}
+
 function useEnglishDeck() {
   const words = useTable('words');
   const cefr = useCefr();
@@ -87,6 +93,7 @@ function useEnglishDeck() {
       entry: w,
       raw: w,
       cefr: cefrOf(cefr, w),
+      level: levelOf(cefrOf(cefr, w)?.level),
       speak: () => playEnglish(w, accent),
       Back: EnBack,
       Prompt: ({ card }) => (
@@ -116,8 +123,14 @@ function ZhBack({ card }) {
   const sentence = x.ex?.ruby?.map((r) => r[0]).join('') || '';
   return (
     <>
-      <div className="fc-title" lang="zh-CN">
-        {x.w}
+      <div className="fc-title">
+        <span lang="zh-CN">{x.w}</span>{' '}
+        {x.level > 0 && (
+          // Cùng kiểu huy hiệu CEFR: HSK 1–2 xanh lá · 3–4 xanh dương · 5–6 tím
+          <span className={`cefr cefr-${'abc'[Math.min(2, Math.floor((x.level - 1) / 2))]}`} title={`Cấp độ HSK ${x.level}`}>
+            HSK {x.level}
+          </span>
+        )}
       </div>
       <div className="fc-reading">
         <span className="pinyin">{x.py}</span>
@@ -168,6 +181,7 @@ function useChineseDeck() {
       wordLang: 'zh-CN',
       meaning: x.vi,
       scopes: new Set([`hsk${x.level}`]),
+      level: x.level ? { label: `HSK ${x.level}`, rank: x.level - 1 } : null,
       order: i,
       answers: [pinyinKey(x.py), x.w],
       entry: progress[x.id],
