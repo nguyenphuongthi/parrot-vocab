@@ -1,0 +1,1147 @@
+{
+  "n": 7,
+  "zh": "成语故事两则",
+  "vi": "Hai câu chuyện thành ngữ",
+  "en": "Two idiom stories",
+  "texts": [
+    {
+      "title": "盲人摸象",
+      "paras": [
+        {
+          "zh": "很久以前，有一个很有智慧的国王。一天，他让士兵们去找一头大象和一些出生时眼睛就瞎了的人回来。士兵们分别去不同地方寻找，把找到的大象和盲人带到他面前。",
+          "vi": "Rất lâu trước đây, có một vị vua rất thông thái. Một hôm, ông sai binh lính đi tìm một con voi và một số người bị mù từ lúc mới sinh về. Binh lính chia nhau đi tìm ở những nơi khác nhau, rồi đưa con voi và những người mù tìm được đến trước mặt ông.",
+          "en": "Long ago there was a very wise king. One day he told his soldiers to bring back an elephant and some people who had been blind from birth. The soldiers went off to search in different places and brought the elephant and the blind men they found before him."
+        },
+        {
+          "zh": "国王叫盲人们去摸一摸大象，问他们：“你们觉得大象是什么样的呢？”摸到牙齿的盲人说：“我觉得像一个角{jiǎo}。”“胡说！”摸到尾巴的盲人说，“它像一条绳子。”摸到大象身子的盲人说：“我觉得像一面又高又平的墙。”“不，你们都错了，应该是像一把扇子。”这个盲人摸到了大象的耳朵。",
+          "vi": "Nhà vua bảo những người mù sờ thử con voi, rồi hỏi họ: “Các ngươi thấy con voi trông như thế nào?” Người mù sờ phải răng (ngà) nói: “Tôi thấy nó giống cái sừng.” “Nói bậy!” Người mù sờ phải đuôi nói, “Nó giống một sợi dây thừng.” Người mù sờ phải thân voi nói: “Tôi thấy nó giống một bức tường vừa cao vừa phẳng.” “Không, các ông đều sai rồi, phải giống một cái quạt mới đúng.” Người mù này sờ phải tai voi.",
+          "en": "The king had the blind men feel the elephant and asked them, “What do you think an elephant is like?” The one who touched its tusk said, “I think it's like a horn.” “Nonsense!” said the one who touched its tail. “It's like a rope.” The one who touched its body said, “I think it's like a tall, flat wall.” “No, you're all wrong. It's like a fan,” said the man who had touched its ear."
+        },
+        {
+          "zh": "国王笑了起来：“你们每个人都只摸到了一点，就认为自己了解全部了吗？只有片面的认识是不能下结论的。”",
+          "vi": "Nhà vua bật cười: “Mỗi người các ngươi chỉ sờ được một chút mà đã cho rằng mình hiểu hết rồi sao? Chỉ có nhận thức phiến diện thì không thể đưa ra kết luận được.”",
+          "en": "The king laughed. “Each of you has felt only a small part, and you think you understand the whole? You can't reach a conclusion from a one-sided view.”"
+        }
+      ],
+      "words": [
+        {
+          "zh": "成语",
+          "py": "chéngyǔ",
+          "pos": "dt.",
+          "vi": "thành ngữ",
+          "en": "idiom"
+        },
+        {
+          "zh": "则",
+          "py": "zé",
+          "pos": "lượng.",
+          "vi": "(dùng cho bài văn chia mục hoặc tự thành đoạn) mẩu, bản",
+          "en": "measure word for short texts"
+        },
+        {
+          "zh": "盲人",
+          "py": "mángrén",
+          "pos": "dt.",
+          "vi": "người mù",
+          "en": "blind person",
+          "x": true
+        },
+        {
+          "zh": "摸",
+          "py": "mō",
+          "pos": "đgt.",
+          "vi": "mò, sờ",
+          "en": "to touch, to feel"
+        },
+        {
+          "zh": "(大)象",
+          "py": "(dà) xiàng",
+          "pos": "dt.",
+          "vi": "con voi",
+          "en": "elephant"
+        },
+        {
+          "zh": "智慧",
+          "py": "zhìhuì",
+          "pos": "dt.",
+          "vi": "trí tuệ, sự sáng suốt",
+          "en": "wisdom"
+        },
+        {
+          "zh": "士兵",
+          "py": "shìbīng",
+          "pos": "dt.",
+          "vi": "binh lính",
+          "en": "soldier"
+        },
+        {
+          "zh": "瞎",
+          "py": "xiā",
+          "pos": "đgt./phó.",
+          "vi": "bị mù; mù quáng, vớ vẩn",
+          "en": "to be blind; blindly, aimlessly"
+        },
+        {
+          "zh": "分别",
+          "py": "fēnbié",
+          "pos": "phó.",
+          "vi": "riêng rẽ, từng người",
+          "en": "separately, respectively"
+        },
+        {
+          "zh": "寻找",
+          "py": "xúnzhǎo",
+          "pos": "đgt.",
+          "vi": "tìm",
+          "en": "to look for"
+        },
+        {
+          "zh": "牙齿",
+          "py": "yáchǐ",
+          "pos": "dt.",
+          "vi": "răng",
+          "en": "tooth"
+        },
+        {
+          "zh": "胡说",
+          "py": "húshuō",
+          "pos": "đgt.",
+          "vi": "nói bậy, nói bừa",
+          "en": "to talk nonsense"
+        },
+        {
+          "zh": "尾巴",
+          "py": "wěiba",
+          "pos": "dt.",
+          "vi": "cái đuôi",
+          "en": "tail"
+        },
+        {
+          "zh": "绳子",
+          "py": "shéngzi",
+          "pos": "dt.",
+          "vi": "dây thừng",
+          "en": "rope"
+        },
+        {
+          "zh": "平",
+          "py": "píng",
+          "pos": "tt.",
+          "vi": "bằng phẳng",
+          "en": "flat"
+        },
+        {
+          "zh": "墙",
+          "py": "qiáng",
+          "pos": "dt.",
+          "vi": "(bức) tường",
+          "en": "wall"
+        },
+        {
+          "zh": "扇子",
+          "py": "shànzi",
+          "pos": "dt.",
+          "vi": "(cái) quạt",
+          "en": "fan"
+        },
+        {
+          "zh": "片面",
+          "py": "piànmiàn",
+          "pos": "tt.",
+          "vi": "phiến diện",
+          "en": "one-sided"
+        },
+        {
+          "zh": "结论",
+          "py": "jiélùn",
+          "pos": "dt.",
+          "vi": "kết luận",
+          "en": "conclusion"
+        }
+      ]
+    },
+    {
+      "title": "精诚所至，金石为{wéi}开",
+      "paras": [
+        {
+          "zh": "西汉时期有一位著名的将{jiāng}军叫李广，他善于骑马射箭，作战勇敢，被称{chēng}为{wéi}“飞将{jiāng}军”。一天傍晚，他正带着{zhe}士兵们在山中打猎，忽然发现远处蹲着{zhe}一只大老虎。士兵们都紧张地{de}围了上来，想要保护他。李广摇摇头，表示不要紧。只见他从箭袋里取出一支箭，摆好姿势，全神贯注，用尽{jìn}全力向老虎射去。",
+          "vi": "Thời Tây Hán có một vị tướng nổi tiếng tên là Lý Quảng, ông giỏi cưỡi ngựa bắn cung, chiến đấu dũng cảm, được gọi là “Phi tướng quân”. Một buổi chiều tối, ông đang dẫn binh lính đi săn trong núi, bỗng phát hiện ở đằng xa có một con hổ lớn đang ngồi xổm. Binh lính đều căng thẳng vây lại, muốn bảo vệ ông. Lý Quảng lắc đầu, ra hiệu không sao. Chỉ thấy ông rút một mũi tên từ ống tên, đặt tư thế, tập trung tinh thần, dồn hết sức bắn về phía con hổ.",
+          "en": "In the Western Han dynasty there was a famous general called Li Guang, skilled at riding and archery and brave in battle, who was known as “the Flying General”. One evening, while hunting in the mountains with his soldiers, he suddenly spotted a large tiger crouching in the distance. The soldiers nervously gathered round to protect him. Li Guang shook his head to show there was no need. He took an arrow from his quiver, got into position, concentrated with all his might and shot at the tiger with all his strength."
+        },
+        {
+          "zh": "过了一会儿，老虎没什么反应，士兵们小心地{de}走上前去，想确定它是不是死了。没想到仔细一看，被射中{zhòng}的竟不是老虎，而是一块形状很像老虎的大石头，而且一整支箭几乎全都射到石头中去了！大家都很吃惊，连李广自己都不相信他能有这么大的力气，于是他想再试试。可是，这次他连续换了几根箭，都没能再射进去，有的箭头碎了，有的箭杆断了，而大石头一点儿变化也没有。“哎，怎么会这样？”士兵奇怪地{de}你看我，我看你。“唉{ài}！大概是我不够用心了吧！”李广也无奈地{de}说。",
+          "vi": "Một lúc sau, con hổ không có phản ứng gì, binh lính cẩn thận tiến lên, muốn xác định xem nó đã chết chưa. Không ngờ nhìn kỹ thì thứ bị bắn trúng hóa ra không phải con hổ, mà là một tảng đá lớn có hình dạng rất giống con hổ, hơn nữa cả mũi tên gần như cắm ngập vào trong đá! Mọi người đều rất kinh ngạc, đến cả Lý Quảng cũng không tin mình lại có sức mạnh lớn như vậy, thế là ông muốn thử lại. Nhưng lần này ông liên tiếp đổi mấy mũi tên mà đều không bắn vào được nữa, có mũi đầu tên vỡ vụn, có mũi cán tên gãy, còn tảng đá lớn thì chẳng hề thay đổi chút nào. “Ơ, sao lại thế này?” Binh lính ngạc nhiên nhìn nhau. “Haizz! Có lẽ là ta không đủ chuyên tâm rồi!” Lý Quảng cũng bất lực nói.",
+          "en": "After a while, the tiger hadn't reacted, so the soldiers carefully went up to check whether it was dead. To their surprise, on closer inspection what had been hit wasn't a tiger at all, but a large rock shaped very like one, and the whole arrow had sunk almost completely into the stone! Everyone was amazed; even Li Guang couldn't believe he was so strong, so he wanted to try again. But this time, though he tried several arrows in a row, none would go in again: some arrowheads shattered, some shafts snapped, and the rock didn't change at all. “Huh, how can this be?” The soldiers looked at each other in puzzlement. “Ah! I suppose I wasn't concentrating enough!” said Li Guang helplessly."
+        },
+        {
+          "zh": "人们对这件事情感到很不解，就去问当时最有影响力的学者扬雄。扬雄回答说：“如果诚心实意，即使像金属和石头那样硬的东西也会被打动。”“精诚所至，金石为{wéi}开”这一成语也便由此流传下来。",
+          "vi": "Mọi người cảm thấy rất khó hiểu về chuyện này, bèn đi hỏi học giả có ảnh hưởng nhất lúc bấy giờ là Dương Hùng. Dương Hùng trả lời: “Nếu thành tâm thành ý, thì dù là thứ cứng như kim loại và đá cũng sẽ bị lay động.” Thành ngữ “Tinh thành sở chí, kim thạch vi khai” (lòng thành cảm động đất trời, đá vàng cũng phải vỡ) cũng từ đó được lưu truyền.",
+          "en": "People were puzzled by this and went to ask Yang Xiong, the most influential scholar of the time. Yang Xiong replied, “If you are completely sincere, even things as hard as metal and stone can be moved.” And so the idiom “Sincerity can split metal and stone” was handed down."
+        }
+      ],
+      "words": [
+        {
+          "zh": "精诚所至，金石为开",
+          "py": "jīngchéng suǒzhì, jīnshí wéi kāi",
+          "vi": "lòng thành cảm động đất trời, đá vàng cũng phải vỡ (chỉ cần thành tâm làm hết sức mình thì có thể giải quyết được mọi vấn đề nan giải)",
+          "en": "sincerity can split metal and stone (with complete sincerity, any difficulty can be overcome)",
+          "x": true
+        },
+        {
+          "zh": "将军",
+          "py": "jiāngjūn",
+          "pos": "dt.",
+          "vi": "tướng quân",
+          "en": "general",
+          "x": true
+        },
+        {
+          "zh": "善于",
+          "py": "shànyú",
+          "pos": "đgt.",
+          "vi": "giỏi về, có sở trường",
+          "en": "to be good at"
+        },
+        {
+          "zh": "称",
+          "py": "chēng",
+          "pos": "đgt.",
+          "vi": "gọi là, tán dương",
+          "en": "to call, to be known as"
+        },
+        {
+          "zh": "打猎",
+          "py": "dǎ liè",
+          "pos": "đgt.",
+          "vi": "đi săn",
+          "en": "to hunt",
+          "x": true
+        },
+        {
+          "zh": "忽然",
+          "py": "hūrán",
+          "pos": "phó.",
+          "vi": "thình lình, bỗng nhiên",
+          "en": "suddenly"
+        },
+        {
+          "zh": "蹲",
+          "py": "dūn",
+          "pos": "đgt.",
+          "vi": "ngồi xổm",
+          "en": "to crouch, to squat"
+        },
+        {
+          "zh": "摇",
+          "py": "yáo",
+          "pos": "đgt.",
+          "vi": "lắc, vẫy",
+          "en": "to shake, to wave"
+        },
+        {
+          "zh": "不要紧",
+          "py": "bú yàojǐn",
+          "vi": "không hề gì, không sao cả",
+          "en": "it doesn't matter"
+        },
+        {
+          "zh": "支",
+          "py": "zhī",
+          "pos": "lượng.",
+          "vi": "(dùng cho vật dài, mảnh, không uốn được) cây",
+          "en": "measure word for long thin objects"
+        },
+        {
+          "zh": "摆",
+          "py": "bǎi",
+          "pos": "đgt.",
+          "vi": "bày biện, sắp đặt (tư thế)",
+          "en": "to arrange, to pose"
+        },
+        {
+          "zh": "姿势",
+          "py": "zīshì",
+          "pos": "dt.",
+          "vi": "tư thế",
+          "en": "posture"
+        },
+        {
+          "zh": "全神贯注",
+          "py": "quánshén guànzhù",
+          "vi": "tập trung tinh thần",
+          "en": "with rapt attention",
+          "x": true
+        },
+        {
+          "zh": "尽(力)",
+          "py": "jìn (lì)",
+          "pos": "đgt.",
+          "vi": "gắng hết sức",
+          "en": "to do one's utmost"
+        },
+        {
+          "zh": "反应",
+          "py": "fǎnyìng",
+          "pos": "đgt./dt.",
+          "vi": "phản ứng; sự phản ứng",
+          "en": "to react; reaction"
+        },
+        {
+          "zh": "确定",
+          "py": "quèdìng",
+          "pos": "đgt.",
+          "vi": "xác định, khẳng định",
+          "en": "to determine, to make sure"
+        },
+        {
+          "zh": "石头",
+          "py": "shítou",
+          "pos": "dt.",
+          "vi": "đá",
+          "en": "stone"
+        },
+        {
+          "zh": "连续",
+          "py": "liánxù",
+          "pos": "đgt.",
+          "vi": "liên tục, liên tiếp",
+          "en": "to be continuous, in a row"
+        },
+        {
+          "zh": "根",
+          "py": "gēn",
+          "pos": "dt./lượng.",
+          "vi": "rễ cây, chân; (lượng từ cho vật dài và mảnh) chiếc, cái",
+          "en": "root; measure word for long thin objects"
+        },
+        {
+          "zh": "碎",
+          "py": "suì",
+          "pos": "đgt./tt.",
+          "vi": "vỡ; vụn vặt",
+          "en": "to break into pieces; broken"
+        },
+        {
+          "zh": "杆",
+          "py": "gǎn",
+          "pos": "dt.",
+          "vi": "cán, báng",
+          "en": "shaft, rod",
+          "x": true
+        },
+        {
+          "zh": "哎",
+          "py": "āi",
+          "pos": "ct.",
+          "vi": "(diễn tả sự ngạc nhiên hoặc không hài lòng) ái chà, trời ơi",
+          "en": "hey, oh (surprise or dissatisfaction)"
+        },
+        {
+          "zh": "唉",
+          "py": "ài",
+          "pos": "ct.",
+          "vi": "(diễn tả sự thương cảm hoặc hối tiếc) ôi, than ôi, chao ơi",
+          "en": "alas (sadness or regret)"
+        },
+        {
+          "zh": "金属",
+          "py": "jīnshǔ",
+          "pos": "dt.",
+          "vi": "kim loại",
+          "en": "metal"
+        },
+        {
+          "zh": "硬",
+          "py": "yìng",
+          "pos": "tt.",
+          "vi": "cứng, rắn",
+          "en": "hard"
+        },
+        {
+          "zh": "便",
+          "py": "biàn",
+          "pos": "phó.",
+          "vi": "(chỉ việc gì xảy ra một cách tự nhiên trong điều kiện hoặc tình huống nào đó) thì, liền, bèn, là",
+          "en": "then, thereupon"
+        }
+      ],
+      "names": [
+        {
+          "zh": "西汉",
+          "py": "Xīhàn",
+          "vi": "triều đại Tây Hán (206 TCN – 25 CN)",
+          "en": "the Western Han dynasty (206 BC – AD 25)"
+        },
+        {
+          "zh": "李广",
+          "py": "Lǐ Guǎng",
+          "vi": "Lý Quảng (? – 119 TCN)",
+          "en": "Li Guang (? – 119 BC)"
+        },
+        {
+          "zh": "扬雄",
+          "py": "Yáng Xióng",
+          "vi": "Dương Hùng (53 TCN – 18 CN)",
+          "en": "Yang Xiong (53 BC – AD 18)"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "瞎",
+      "uses": [
+        {
+          "vi": "瞎 là động từ, có nghĩa “mắt không nhìn thấy” (mù).",
+          "en": "瞎 is a verb meaning “unable to see” (blind).",
+          "ex": [
+            {
+              "zh": "聪明人用双手挡住了马的双眼，对那个人说：“要是这马真是你的，你一定知道马的哪只{zhī}眼睛是【瞎】的。”",
+              "vi": "Người thông minh lấy hai tay che hai mắt con ngựa lại, nói với người kia: “Nếu con ngựa này thật sự là của anh, chắc chắn anh biết nó mù mắt nào.”",
+              "en": "The clever man covered the horse's eyes with both hands and said to the man, “If this horse is really yours, you must know which of its eyes is blind.”"
+            },
+            {
+              "zh": "一天，他让士兵们去找一头大象和一些出生时眼睛就【瞎】了的人回来。",
+              "vi": "Một hôm, ông sai binh lính đi tìm một con voi và mấy người bị mù bẩm sinh về.",
+              "en": "One day, he sent his soldiers to bring back an elephant and some people who had been blind from birth."
+            }
+          ]
+        },
+        {
+          "vi": "瞎 cũng có thể làm phó từ, biểu thị làm việc gì đó mà không có lý do, không có căn cứ hoặc không có hiệu quả (nói bừa, làm bừa, vô ích).",
+          "en": "瞎 can also be an adverb meaning to do something without reason, without grounds or to no effect (blindly, groundlessly, pointlessly).",
+          "ex": [
+            {
+              "zh": "别听他【瞎】说，不用害怕。我们不会这么倒霉的。",
+              "vi": "Đừng nghe anh ta nói bừa, không cần sợ. Chúng ta không xui xẻo thế đâu.",
+              "en": "Don't listen to his nonsense, there's no need to be scared. We won't be that unlucky."
+            },
+            {
+              "zh": "他自己的问题，他会想办法的，你就别替他【瞎】担心了。",
+              "vi": "Vấn đề của anh ấy thì anh ấy sẽ tự nghĩ cách, bạn đừng lo hão thay anh ấy nữa.",
+              "en": "It's his own problem and he'll figure something out. Stop worrying needlessly on his behalf."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "____，但她的脸上总是有美丽的微笑。",
+            "hint": "瞎",
+            "a": "【她的眼睛虽然瞎了】，但她的脸上总是有美丽的微笑。",
+            "vi": "Mắt cô ấy tuy bị mù, nhưng trên mặt cô ấy luôn nở nụ cười tươi đẹp.",
+            "en": "Although she's blind, she always has a lovely smile on her face.",
+            "sample": true
+          },
+          {
+            "q": "A：刚才的考试你考得怎么样？我有好几个题不会做。\nB：____。",
+            "hint": "瞎",
+            "a": "A：刚才的考试你考得怎么样？我有好几个题不会做。\nB：【我也是，有两个题我是瞎写的】。",
+            "vi": "A: Bài thi vừa rồi bạn làm thế nào? Mình có mấy câu không biết làm.\nB: Mình cũng vậy, có hai câu mình viết bừa.",
+            "en": "A: How did you do in that exam? There were several questions I couldn't do.\nB: Same here. I just guessed on two of them.",
+            "sample": true
+          },
+          {
+            "q": "你少跟他打交道，____。",
+            "hint": "瞎",
+            "a": "你少跟他打交道，【他说的话都是瞎说】。",
+            "vi": "Bạn bớt giao du với anh ta đi, những gì anh ta nói đều là nói bậy.",
+            "en": "Don't have too much to do with him. Everything he says is nonsense.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "分别",
+      "uses": [
+        {
+          "vi": "分别 là động từ, có nghĩa là “离别” (chia tay, xa cách).",
+          "en": "分别 is a verb meaning 离别 (to part, to be separated).",
+          "ex": [
+            {
+              "zh": "【分别】是暂时的，我们以后一定会再见。",
+              "vi": "Chia tay chỉ là tạm thời, sau này chúng ta nhất định sẽ gặp lại.",
+              "en": "This parting is only temporary. We'll definitely meet again."
+            },
+            {
+              "zh": "从毕业到现在，我们已经【分别】20年了，一直都没有联系。",
+              "vi": "Từ khi tốt nghiệp đến nay, chúng tôi đã xa nhau 20 năm, chưa từng liên lạc.",
+              "en": "We've been apart for 20 years since graduation and haven't been in touch at all."
+            }
+          ]
+        },
+        {
+          "vi": "分别 cũng có thể làm phó từ, biểu thị chia nhau ra, mỗi người tự (riêng rẽ, lần lượt).",
+          "en": "分别 can also be an adverb meaning separately or each on their own.",
+          "ex": [
+            {
+              "zh": "我【分别】找两个人打听了这件事，他们的说法都是一样的。",
+              "vi": "Tôi đã lần lượt tìm hai người để hỏi về việc này, cách họ nói đều giống nhau.",
+              "en": "I asked two people about this separately, and they both told the same story."
+            },
+            {
+              "zh": "士兵们【分别】去不同地方寻找，把找到的大象和盲人带到他面前。",
+              "vi": "Binh lính chia nhau đi tìm ở những nơi khác nhau, đưa con voi và những người mù tìm được đến trước mặt ông.",
+              "en": "The soldiers went off separately to search in different places, and brought the elephant and the blind people they found to him."
+            }
+          ]
+        },
+        {
+          "vi": "Khi làm phó từ, 分别 còn biểu thị việc kể ra từng cái một (lần lượt là, tương ứng là).",
+          "en": "As an adverb, 分别 can also list things one by one (respectively).",
+          "ex": [
+            {
+              "zh": "一张桌子上放着三瓶饮料，【分别】是茶、可乐和咖啡。",
+              "vi": "Trên bàn có ba chai đồ uống, lần lượt là trà, cô-ca và cà phê.",
+              "en": "There are three bottles of drinks on the table: tea, cola and coffee respectively."
+            },
+            {
+              "zh": "谈到对目前工作最不满意的地方，39.1%的被调查者认为休息时间太少，发展慢、工资太低【分别】占20.3%和20%。",
+              "vi": "Nói đến điều không hài lòng nhất về công việc hiện tại, 39,1% người được khảo sát cho rằng thời gian nghỉ ngơi quá ít, còn phát triển chậm và lương quá thấp lần lượt chiếm 20,3% và 20%.",
+              "en": "Asked what they were least happy with in their current job, 39.1% of respondents said too little rest time, while slow career development and low pay accounted for 20.3% and 20% respectively."
+            }
+          ]
+        },
+        {
+          "vi": "分别 còn có thể làm danh từ, có nghĩa “区别”, “不同的地方” (sự khác biệt, chỗ khác nhau).",
+          "en": "分别 can also be a noun meaning 区别 or 不同的地方 (difference).",
+          "ex": [
+            {
+              "zh": "我不知道这两种做法有什么【分别】。",
+              "vi": "Tôi không biết hai cách làm này khác nhau ở chỗ nào.",
+              "en": "I don't know what the difference is between these two approaches."
+            },
+            {
+              "zh": "这两张照片的【分别】是一眼就看得出来的。",
+              "vi": "Sự khác nhau giữa hai tấm ảnh này nhìn qua là thấy ngay.",
+              "en": "The difference between these two photos can be seen at a glance."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "时间过得真快，____。",
+            "hint": "分别—动词",
+            "a": "时间过得真快，【我们已经分别十年了】。",
+            "vi": "Thời gian trôi nhanh thật, chúng ta đã xa nhau mười năm rồi.",
+            "en": "Time flies. It's been ten years since we parted.",
+            "sample": true
+          },
+          {
+            "q": "A：快放寒假了，你们假期有什么打算？\nB：____。",
+            "hint": "分别—副词",
+            "a": "A：快放寒假了，你们假期有什么打算？\nB：【我和姐姐打算分别去上海和广州打工】。",
+            "vi": "A: Sắp nghỉ đông rồi, các bạn có dự định gì cho kỳ nghỉ?\nB: Mình và chị gái định lần lượt đi Thượng Hải và Quảng Châu làm thêm.",
+            "en": "A: It's almost the winter holidays. What are your plans?\nB: My sister and I are planning to work part-time in Shanghai and Guangzhou respectively.",
+            "sample": true
+          },
+          {
+            "q": "A：我们有三年没见面了吧？\nB：____。",
+            "hint": "分别—名词",
+            "a": "A：我们有三年没见面了吧？\nB：【是啊，可你跟三年前没什么分别】。",
+            "vi": "A: Chúng ta ba năm rồi không gặp nhau nhỉ?\nB: Đúng vậy, nhưng bạn chẳng khác gì ba năm trước.",
+            "en": "A: We haven't seen each other for three years, have we?\nB: That's right, but you haven't changed at all.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "根",
+      "uses": [
+        {
+          "vi": "根 là danh từ, có nghĩa “phần của thực vật mọc hướng xuống dưới trong đất” (rễ).",
+          "en": "根 is a noun meaning the part of a plant that grows downward into the soil (root).",
+          "ex": [
+            {
+              "zh": "这棵树的【根】又粗又长。",
+              "vi": "Rễ của cây này vừa to vừa dài.",
+              "en": "This tree's roots are thick and long."
+            },
+            {
+              "zh": "这种植物的【根】下雨时会大量吸水，从而满足自身的需要。",
+              "vi": "Rễ của loài cây này khi trời mưa sẽ hút rất nhiều nước, nhờ đó đáp ứng nhu cầu của bản thân.",
+              "en": "When it rains, this plant's roots absorb large amounts of water to meet its own needs."
+            }
+          ]
+        },
+        {
+          "vi": "Khi làm danh từ, 根 còn biểu thị nền tảng của sự vật (gốc, gốc rễ).",
+          "en": "As a noun, 根 can also mean the foundation or root of something.",
+          "ex": [
+            {
+              "zh": "你这颗牙连牙【根】都坏了，平时难道不疼吗？",
+              "vi": "Cái răng này của bạn hỏng đến cả chân răng rồi, bình thường lẽ nào không đau sao?",
+              "en": "Even the root of this tooth of yours has decayed. Doesn't it normally hurt?"
+            },
+            {
+              "zh": "这件事还是得从【根】上解决，只解决表面问题是不行的。",
+              "vi": "Việc này vẫn phải giải quyết từ gốc rễ, chỉ giải quyết vấn đề bề ngoài là không được.",
+              "en": "This has to be solved at the root. Dealing only with the surface problems won't work."
+            }
+          ]
+        },
+        {
+          "vi": "根 cũng có thể làm lượng từ, thường dùng cho những vật thon dài (cái, sợi, cây).",
+          "en": "根 can also be a measure word, usually for long, thin things.",
+          "ex": [
+            {
+              "zh": "摸到尾巴的盲人说大象像一【根】绳子。",
+              "vi": "Người mù sờ được cái đuôi nói con voi giống một sợi dây thừng.",
+              "en": "The blind man who touched the tail said the elephant was like a rope."
+            },
+            {
+              "zh": "可是，这次他连续换了几【根】箭，都没能再射进去，……",
+              "vi": "Thế nhưng lần này ông liên tiếp đổi mấy mũi tên mà đều không bắn xuyên vào được nữa, …",
+              "en": "But this time, although he tried several arrows one after another, none of them would go in, …"
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "植物靠____。",
+            "hint": "根—名词",
+            "a": "植物靠【根从土里吸收水分】。",
+            "vi": "Thực vật dựa vào rễ để hút nước từ đất.",
+            "en": "Plants absorb water from the soil through their roots.",
+            "sample": true
+          },
+          {
+            "q": "第一次用筷子的时候，____。",
+            "hint": "根—量词",
+            "a": "第一次用筷子的时候，【我连两根筷子都拿不好】。",
+            "vi": "Lần đầu dùng đũa, tôi còn không cầm nổi hai chiếc đũa.",
+            "en": "The first time I used chopsticks, I couldn't even hold the two sticks properly.",
+            "sample": true
+          },
+          {
+            "q": "A：你今天去超市主要想买什么？\nB：____。",
+            "hint": "根—量词",
+            "a": "A：你今天去超市主要想买什么？\nB：【我想买几根黄瓜和两根香蕉】。",
+            "vi": "A: Hôm nay bạn đi siêu thị chủ yếu muốn mua gì?\nB: Mình muốn mua mấy quả dưa chuột và hai quả chuối.",
+            "en": "A: What do you mainly want to buy at the supermarket today?\nB: A few cucumbers and a couple of bananas.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "便",
+      "py": "biàn",
+      "uses": [
+        {
+          "vi": "便 là phó từ, có nghĩa “就” (liền, bèn, thì), thường dùng trong văn viết.",
+          "en": "便 is an adverb meaning 就 (then, as soon as). It is mostly used in written language.",
+          "ex": [
+            {
+              "zh": "楼上新买了一架钢琴，我们家【便{biàn}】多了一些不安静。",
+              "vi": "Nhà trên lầu mới mua một chiếc đàn piano, thế là nhà chúng tôi thêm phần ồn ào.",
+              "en": "The people upstairs bought a new piano, and so our home has become a bit less quiet."
+            },
+            {
+              "zh": "很多时候，仅仅是换一种心情，换一个角度，【便{biàn}】可以从困境中走出来。",
+              "vi": "Nhiều khi, chỉ cần đổi tâm trạng, đổi góc nhìn là có thể thoát ra khỏi khó khăn.",
+              "en": "Very often, just changing your mood or your perspective is enough to get you out of a difficult situation."
+            },
+            {
+              "zh": "“精诚所至，金石为开”这一成语也【便{biàn}】由此流传下来。",
+              "vi": "Thành ngữ “thành tâm đến đâu, vàng đá cũng mở” cũng từ đó mà được lưu truyền.",
+              "en": "And so the idiom “sincerity can split metal and stone” was handed down from this story."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "用所学词语改写句子",
+        "items": [
+          {
+            "q": "他刚出门，发现没带钥匙，就转身回去拿。\n他刚出门，发现没带钥匙，____。",
+            "hint": "便",
+            "key": "便转身回去拿",
+            "a": "他刚出门，发现没带钥匙，【便转身回去拿】。",
+            "vi": "Anh ấy vừa ra khỏi cửa, phát hiện không mang chìa khóa, liền quay lại lấy.",
+            "en": "He'd just gone out when he realised he'd forgotten his keys, so he turned back to get them."
+          },
+          {
+            "q": "朋友不停地{de}给她介绍男朋友，但是每次不是她不喜欢别人，就是别人不喜欢她。\n朋友不停地{de}给她介绍男朋友，但是每次____。",
+            "hint": "便",
+            "key": "不是……，便是……",
+            "a": "朋友不停地{de}给她介绍男朋友，但是每次【不是她不喜欢别人，便是别人不喜欢她】。",
+            "vi": "Bạn bè không ngừng giới thiệu bạn trai cho cô ấy, nhưng lần nào cũng vậy, không phải cô ấy không thích người ta thì là người ta không thích cô ấy.",
+            "en": "Her friends keep introducing her to men, but every time either she doesn't like him or he doesn't like her."
+          },
+          {
+            "q": "如果我们坚持原来的想法，这个工作是不可能完成的。\n如果我们坚持原来的想法，____。",
+            "hint": "便",
+            "key": "这个工作便不可能完成",
+            "a": "如果我们坚持原来的想法，【这个工作便不可能完成】。",
+            "vi": "Nếu chúng ta cứ khăng khăng giữ ý tưởng ban đầu thì công việc này sẽ không thể hoàn thành.",
+            "en": "If we stick to our original idea, this job can't be done."
+          }
+        ]
+      }
+    },
+    {
+      "title": "忽然—突然",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: 忽然 và 突然 đều có thể dùng trước động từ, biểu thị sự việc xảy ra rất nhanh, không ngờ tới.",
+          "en": "Similarity: both 忽然 and 突然 can be used before a verb to show that something happens very quickly and unexpectedly.",
+          "ex": [
+            {
+              "zh": "我们正在上课，他【忽然】/【突然】站了起来。",
+              "vi": "Chúng tôi đang học thì anh ấy bỗng nhiên đứng bật dậy.",
+              "en": "We were in the middle of class when he suddenly stood up."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau: 忽然 là phó từ, chỉ có thể dùng trước động từ hoặc phân câu (có thể thay bằng 突然); 突然 là phó từ, cũng là tính từ, có thể làm vị ngữ, bổ ngữ, định ngữ.",
+          "en": "Difference: 忽然 is an adverb and can only be used before a verb or clause (where it can be replaced by 突然); 突然 is both an adverb and an adjective, so it can also be a predicate, complement or attributive.",
+          "ex": [
+            {
+              "zh": "一天傍晚，他正带着士兵们在山中打猎，【忽然】发现远处的草丛中蹲着一只大老虎。",
+              "vi": "Một buổi chiều tối, khi ông đang dẫn binh lính đi săn trong núi, bỗng nhiên phát hiện trong bụi cỏ đằng xa có một con hổ lớn đang ngồi rình.",
+              "en": "One evening, while he was out hunting in the mountains with his soldiers, he suddenly spotted a big tiger crouching in the grass in the distance."
+            },
+            {
+              "zh": "这件事太【突然】了！",
+              "vi": "Chuyện này đột ngột quá!",
+              "en": "This is so sudden!"
+            },
+            {
+              "zh": "这件事发生得太【突然】了！",
+              "vi": "Chuyện này xảy ra đột ngột quá!",
+              "en": "This happened so suddenly!"
+            },
+            {
+              "zh": "这【突然】的一声喊叫吓了我一跳。",
+              "vi": "Tiếng hét đột ngột này làm tôi giật cả mình.",
+              "en": "That sudden shout gave me a real fright."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "他抱着{zhe}小狗走到门口，____想起妈妈不允许他在家里养小动物。",
+            "key": "忽然 ✓ · 突然 ✓ (đứng trước động từ)",
+            "a": "他抱着{zhe}小狗走到门口，【忽然/突然】想起妈妈不允许他在家里养小动物。",
+            "vi": "Cậu bé ôm chú chó con đi đến cửa thì bỗng nhớ ra mẹ không cho phép nuôi động vật trong nhà.",
+            "en": "He carried the puppy to the door and suddenly remembered his mother didn't allow pets in the house."
+          },
+          {
+            "q": "消息来得太____了，我完全没有准备。",
+            "key": "忽然 ✗ · 突然 ✓ (làm bổ ngữ)",
+            "a": "消息来得太【突然】了，我完全没有准备。",
+            "vi": "Tin tức đến quá đột ngột, tôi hoàn toàn không có chuẩn bị gì.",
+            "en": "The news came so suddenly that I wasn't prepared at all."
+          },
+          {
+            "q": "这是一个____的变化，我们谁也没想到。",
+            "key": "忽然 ✗ · 突然 ✓ (làm định ngữ)",
+            "a": "这是一个【突然】的变化，我们谁也没想到。",
+            "vi": "Đây là một sự thay đổi đột ngột, không ai trong chúng tôi ngờ tới.",
+            "en": "This was a sudden change that none of us expected."
+          },
+          {
+            "q": "有个铁路工人____就辞了职，买帆船出海了，你听说了吗？",
+            "key": "忽然 ✓ · 突然 ✓",
+            "a": "有个铁路工人【忽然/突然】就辞了职，买帆船出海了，你听说了吗？",
+            "vi": "Có một công nhân đường sắt bỗng dưng nghỉ việc, mua thuyền buồm ra biển, bạn nghe nói chưa?",
+            "en": "Have you heard? A railway worker suddenly quit his job, bought a sailing boat and went to sea."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "寻找",
+            "机会/信息/亲人/人才"
+          ],
+          "vi": "tìm kiếm cơ hội / thông tin / người thân / nhân tài",
+          "en": "look for opportunities / information / relatives / talent"
+        },
+        {
+          "zh": [
+            "确定",
+            "时间/地点/人选"
+          ],
+          "vi": "xác định thời gian / địa điểm / người được chọn",
+          "en": "fix the time / the place / decide on a candidate"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "片面（地{de}）",
+            "看/认为"
+          ],
+          "vi": "nhìn nhận / cho rằng một cách phiến diện",
+          "en": "see things / believe one-sidedly"
+        },
+        {
+          "zh": [
+            "连续",
+            "工作/驾驶/发生/演出"
+          ],
+          "vi": "làm việc / lái xe / xảy ra / biểu diễn liên tục",
+          "en": "work / drive / happen / perform continuously"
+        }
+      ]
+    },
+    {
+      "a": "中心语",
+      "b": "补语",
+      "rows": [
+        {
+          "zh": [
+            "摸",
+            "到……/出（来）……"
+          ],
+          "vi": "sờ thấy… / mò ra…",
+          "en": "touch… / feel out…"
+        },
+        {
+          "zh": [
+            "打/撞/撕",
+            "碎"
+          ],
+          "vi": "đập vỡ / đâm vỡ / xé vụn",
+          "en": "smash / break by crashing / tear to pieces"
+        }
+      ]
+    },
+    {
+      "a": "数量词",
+      "b": "名词",
+      "rows": [
+        {
+          "zh": [
+            "一支",
+            "笔/花/烟"
+          ],
+          "vi": "một cây bút / một cành hoa / một điếu thuốc",
+          "en": "a pen / a flower / a cigarette"
+        },
+        {
+          "zh": [
+            "一根/一条",
+            "尾巴/绳子/皮带"
+          ],
+          "vi": "một cái đuôi / một sợi dây / một chiếc thắt lưng",
+          "en": "a tail / a rope / a belt"
+        }
+      ]
+    },
+    {
+      "a": "主语",
+      "b": "谓语",
+      "rows": [
+        {
+          "zh": [
+            "这件事情/他的伤",
+            "不要紧"
+          ],
+          "vi": "chuyện này / vết thương của anh ấy không sao cả",
+          "en": "this matter is / his injury is nothing serious"
+        },
+        {
+          "zh": [
+            "反应",
+            "很快"
+          ],
+          "vi": "phản ứng rất nhanh",
+          "en": "react quickly"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "尽{jìn}力",
+        "片面",
+        "确定",
+        "善于",
+        "寻找",
+        "不要紧"
+      ],
+      "items": [
+        {
+          "q": "他在四处____，但至今仍然没有结果。",
+          "key": "寻找",
+          "a": "他在四处【寻找】，但至今仍然没有结果。",
+          "vi": "Anh ấy tìm kiếm khắp nơi, nhưng đến nay vẫn chưa có kết quả.",
+          "en": "He's been searching everywhere, but so far without success."
+        },
+        {
+          "q": "不能这样____地{de}看问题，而要多方面地{de}考虑。",
+          "key": "片面",
+          "a": "不能这样【片面】地{de}看问题，而要多方面地{de}考虑。",
+          "vi": "Không thể nhìn vấn đề phiến diện như vậy, mà phải suy xét nhiều mặt.",
+          "en": "You can't look at the problem so one-sidedly; you need to consider it from many angles."
+        },
+        {
+          "q": "你____他就是我们要找的那位英雄吗？",
+          "key": "确定",
+          "a": "你【确定】他就是我们要找的那位英雄吗？",
+          "vi": "Bạn chắc chắn anh ấy chính là người anh hùng chúng ta cần tìm chứ?",
+          "en": "Are you sure he's the hero we're looking for?"
+        },
+        {
+          "q": "我们班有个同学被车撞了，还好伤得不重，____。",
+          "key": "不要紧",
+          "a": "我们班有个同学被车撞了，还好伤得不重，【不要紧】。",
+          "vi": "Lớp chúng tôi có một bạn bị xe đâm, may mà bị thương không nặng, không sao cả.",
+          "en": "A classmate of ours was hit by a car, but luckily he wasn't badly hurt. It's nothing serious."
+        },
+        {
+          "q": "她很爱护学生，也很____教育他们。",
+          "key": "善于",
+          "a": "她很爱护学生，也很【善于】教育他们。",
+          "vi": "Cô ấy rất yêu thương học sinh, cũng rất giỏi giáo dục các em.",
+          "en": "She cares a lot about her students and is also very good at teaching them."
+        },
+        {
+          "q": "别难过了，虽然成绩不理想，但你已经____了。",
+          "key": "尽力",
+          "a": "别难过了，虽然成绩不理想，但你已经【尽{jìn}力】了。",
+          "vi": "Đừng buồn nữa, tuy kết quả không như ý, nhưng bạn đã cố gắng hết sức rồi.",
+          "en": "Don't be upset. Your results weren't ideal, but you did your best."
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "每天我一回家，可爱的小狗就____着{zhe}尾巴冲我跑过来。",
+          "opts": [
+            "A. 摸",
+            "B. 摇"
+          ],
+          "key": "B",
+          "a": "每天我一回家，可爱的小狗就【摇】着{zhe}尾巴冲我跑过来。",
+          "vi": "Ngày nào tôi vừa về nhà, chú chó nhỏ đáng yêu liền vẫy đuôi chạy về phía tôi.",
+          "en": "Every day as soon as I get home, my lovely little dog runs up to me wagging its tail."
+        },
+        {
+          "q": "对我们提出的意见，老板还没有做出____。",
+          "opts": [
+            "A. 反应",
+            "B. 反映"
+          ],
+          "key": "A",
+          "a": "对我们提出的意见，老板还没有做出【反应】。",
+          "vi": "Đối với ý kiến chúng tôi đưa ra, ông chủ vẫn chưa có phản ứng gì.",
+          "en": "The boss hasn't yet responded to the suggestions we made."
+        },
+        {
+          "q": "我真的需要休息了，我已经____工作20个小时了。",
+          "opts": [
+            "A. 继续",
+            "B. 连续"
+          ],
+          "key": "B",
+          "a": "我真的需要休息了，我已经【连续】工作20个小时了。",
+          "vi": "Tôi thật sự cần nghỉ ngơi rồi, tôi đã làm việc liên tục 20 tiếng.",
+          "en": "I really need a rest. I've been working for 20 hours straight."
+        },
+        {
+          "q": "____，我想到了一个办法，你们看看行不行。",
+          "opts": [
+            "A. 唉",
+            "B. 哎"
+          ],
+          "key": "B",
+          "a": "【哎】，我想到了一个办法，你们看看行不行。",
+          "vi": "Ơ này, tôi nghĩ ra một cách rồi, các bạn xem có được không.",
+          "en": "Hey, I've thought of a way. See if it works for you."
+        }
+      ]
+    },
+    {
+      "title": "给括号里的词选择适当的位置",
+      "items": [
+        {
+          "q": "他A没回家，肯定是B公司有事，你C着{zháo}什么D急！",
+          "hint": "瞎",
+          "key": "C",
+          "a": "他没回家，肯定是公司有事，你【瞎】着{zháo}什么急！",
+          "vi": "Anh ấy chưa về nhà chắc chắn là công ty có việc, bạn lo bò trắng răng làm gì!",
+          "en": "If he's not home, it must be because something's come up at work. Stop worrying for nothing!"
+        },
+        {
+          "q": "A半夜里，B他C睡着{zhe}睡着{zhe}D坐了起来。",
+          "hint": "忽然",
+          "key": "D",
+          "a": "半夜里，他睡着{zhe}睡着{zhe}【忽然】坐了起来。",
+          "vi": "Nửa đêm, anh ấy đang ngủ thì bỗng nhiên ngồi bật dậy.",
+          "en": "In the middle of the night, he suddenly sat up in his sleep."
+        },
+        {
+          "q": "这么A美丽的B图画竟然是用C绳子D做的！",
+          "hint": "根",
+          "key": "C",
+          "a": "这么美丽的图画竟然是用【根】绳子做的！",
+          "vi": "Bức tranh đẹp như vậy mà lại được làm bằng một sợi dây!",
+          "en": "Such a beautiful picture was actually made from a piece of string!"
+        },
+        {
+          "q": "他们A去两个B不同的城市做社会调查，想了解C南方和北方D不同的风俗！",
+          "hint": "分别",
+          "key": "A",
+          "a": "他们【分别】去两个不同的城市做社会调查，想了解南方和北方不同的风俗！",
+          "vi": "Họ lần lượt đến hai thành phố khác nhau làm điều tra xã hội, muốn tìm hiểu phong tục khác nhau giữa miền Nam và miền Bắc!",
+          "en": "They went separately to two different cities to do social surveys, to learn about the different customs of the north and south!"
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "盲人摸象",
+          "hint": "瞎、分别、摸、片面、结论",
+          "a": "国王让士兵们去找一头大象和一些眼睛【瞎】了的人。士兵们【分别】去寻找，把大象和盲人带了回来。盲人们去【摸】大象，摸到牙齿的说像角，摸到尾巴的说像绳子，摸到身子的说像墙，摸到耳朵的说像扇子。国王说，只有【片面】的认识是不能下【结论】的。",
+          "vi": "Nhà vua sai binh lính đi tìm một con voi và một số người mù. Binh lính chia nhau đi tìm, đưa con voi và những người mù về. Những người mù sờ con voi, người sờ ngà nói giống sừng, người sờ đuôi nói giống dây thừng, người sờ thân nói giống bức tường, người sờ tai nói giống cái quạt. Nhà vua nói, chỉ có nhận thức phiến diện thì không thể kết luận được.",
+          "en": "The king had his soldiers find an elephant and some blind men. The soldiers searched separately and brought them back. The blind men felt the elephant: the one who touched the tusk said it was like a horn, the tail like a rope, the body like a wall, the ear like a fan. The king said you can't draw a conclusion from a one-sided view.",
+          "sample": true
+        },
+        {
+          "q": "精诚所至，金石为{wéi}开",
+          "hint": "称、忽然、不要紧、确定、连续、硬、便",
+          "a": "李广被【称】为{wéi}“飞将{jiāng}军”。一天打猎时，他【忽然】发现远处蹲着{zhe}一只老虎，他表示【不要紧】，一箭射了过去。走近一看，射中{zhòng}的是一块像老虎的石头，箭几乎全射进了石头。他想再试试，【连续】换了几根箭都射不进那么【硬】的石头。扬雄说，如果诚心实意，金石也会被打动，这个成语【便】流传了下来。",
+          "vi": "Lý Quảng được gọi là “Phi tướng quân”. Một lần đi săn, ông bỗng thấy đằng xa có một con hổ, ông ra hiệu không sao rồi bắn một mũi tên. Đến gần xem thì thứ bị bắn trúng là một tảng đá giống con hổ, mũi tên gần như cắm ngập vào đá. Ông muốn thử lại, liên tiếp đổi mấy mũi tên nhưng không bắn vào được tảng đá cứng như vậy. Dương Hùng nói, nếu thành tâm thành ý thì vàng đá cũng bị lay động, thành ngữ này từ đó được lưu truyền.",
+          "en": "Li Guang was known as “the Flying General”. Once while hunting he suddenly saw a tiger in the distance; saying there was no danger, he shot an arrow at it. Up close, they found he'd hit a rock shaped like a tiger, and the arrow had sunk almost entirely into it. He tried again with several arrows in a row, but none would pierce such hard stone. Yang Xiong said that with complete sincerity even metal and stone can be moved, and so the idiom was handed down.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "语言文字",
+    "vi": "Ngôn ngữ và chữ viết",
+    "en": "Language and writing",
+    "words": [
+      {
+        "zh": "文字",
+        "py": "wénzì",
+        "vi": "chữ viết, văn tự",
+        "en": "writing, script"
+      },
+      {
+        "zh": "词汇",
+        "py": "cíhuì",
+        "vi": "từ vựng",
+        "en": "vocabulary"
+      },
+      {
+        "zh": "成语",
+        "py": "chéngyǔ",
+        "vi": "thành ngữ",
+        "en": "idiom"
+      },
+      {
+        "zh": "字母",
+        "py": "zìmǔ",
+        "vi": "chữ cái",
+        "en": "letter (of an alphabet)"
+      },
+      {
+        "zh": "声调",
+        "py": "shēngdiào",
+        "vi": "thanh điệu",
+        "en": "tone"
+      },
+      {
+        "zh": "拼音",
+        "py": "pīnyīn",
+        "vi": "phiên âm",
+        "en": "pinyin"
+      },
+      {
+        "zh": "语气",
+        "py": "yǔqì",
+        "vi": "ngữ khí, giọng điệu",
+        "en": "tone of voice"
+      },
+      {
+        "zh": "疑问",
+        "py": "yíwèn",
+        "vi": "nghi vấn",
+        "en": "doubt, question"
+      },
+      {
+        "zh": "否定",
+        "py": "fǒudìng",
+        "vi": "phủ định",
+        "en": "to negate, to reject"
+      },
+      {
+        "zh": "省略",
+        "py": "shěnglüè",
+        "vi": "lược bỏ",
+        "en": "to omit"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "对我来说，汉语拼音中的____很难，我常常分不清二声和三声。",
+          "key": "声调",
+          "a": "对我来说，汉语拼音中的【声调】很难，我常常分不清二声和三声。",
+          "vi": "Với tôi, thanh điệu trong phiên âm tiếng Hán rất khó, tôi thường không phân biệt được thanh 2 và thanh 3.",
+          "en": "For me, the tones in pinyin are very hard; I often can't tell the second and third tones apart."
+        },
+        {
+          "q": "你怎么能用这种____跟父母说话呢？",
+          "key": "语气",
+          "a": "你怎么能用这种【语气】跟父母说话呢？",
+          "vi": "Sao con lại có thể dùng giọng điệu như vậy để nói chuyện với bố mẹ?",
+          "en": "How can you speak to your parents in that tone?"
+        },
+        {
+          "q": "写文章的时候，不用在每个句子里都用“我”，前面已经有了，后面就可以____了。",
+          "key": "省略",
+          "a": "写文章的时候，不用在每个句子里都用“我”，前面已经有了，后面就可以【省略】了。",
+          "vi": "Khi viết văn, không cần câu nào cũng dùng “tôi”, phía trước đã có rồi thì phía sau có thể lược bỏ.",
+          "en": "When writing, you don't need “I” in every sentence; once it's been used, you can omit it later."
+        },
+        {
+          "q": "我提出了我的看法，但领导____了我的意见。",
+          "key": "否定",
+          "a": "我提出了我的看法，但领导【否定】了我的意见。",
+          "vi": "Tôi đã nêu quan điểm của mình, nhưng lãnh đạo đã bác bỏ ý kiến của tôi.",
+          "en": "I gave my view, but my boss rejected my suggestion."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1007 @@
+{
+  "n": 10,
+  "zh": "幸福的标准",
+  "vi": "Tiêu chuẩn của hạnh phúc",
+  "en": "The measure of happiness",
+  "texts": [
+    {
+      "title": "孙月和王静聊王静的生活情况",
+      "paras": [
+        {
+          "zh": "孙月：礼拜天有空儿吗？陪我去逛街怎么样？我想去给丈夫买个生日礼物。",
+          "vi": "Tôn Nguyệt: Chủ nhật cậu rảnh không? Đi dạo phố với tớ được không? Tớ muốn đi mua quà sinh nhật cho chồng.",
+          "en": "Sun Yue: Are you free on Sunday? How about coming shopping with me? I want to buy my husband a birthday present."
+        },
+        {
+          "zh": "王静：我可能去不了，最近事情多。",
+          "vi": "Vương Tịnh: Chắc tớ không đi được, dạo này nhiều việc quá.",
+          "en": "Wang Jing: I probably can't. I've got a lot on lately."
+        },
+        {
+          "zh": "孙月：你最近是不是工作特别忙？",
+          "vi": "Tôn Nguyệt: Dạo này cậu bận việc lắm à?",
+          "en": "Sun Yue: Have you been very busy at work lately?"
+        },
+        {
+          "zh": "王静：我现在上有老，下有小。除了工作以外，家里还有母亲和儿子需要照顾。",
+          "vi": "Vương Tịnh: Bây giờ tớ trên có già, dưới có trẻ. Ngoài công việc ra, ở nhà còn có mẹ và con trai cần chăm sóc.",
+          "en": "Wang Jing: Right now I've got an elderly parent and a young child. Besides work, I have my mother and my son to look after at home."
+        },
+        {
+          "zh": "孙月：真是辛苦啊！你最近脸色不太好，是不是哪儿不舒服？要注意身体啊。",
+          "vi": "Tôn Nguyệt: Vất vả thật đấy! Dạo này sắc mặt cậu không tốt lắm, có phải chỗ nào không khỏe không? Phải chú ý sức khỏe đấy.",
+          "en": "Sun Yue: That must be hard! You haven't been looking well lately. Are you feeling unwell? You must take care of yourself."
+        },
+        {
+          "zh": "王静：没事儿，谢谢！不过现在我很幸福，因为在母亲面前我可以做一个永远长{zhǎng}不大的孩子；在孩子面前我又是个能照顾他的母亲，这让我有了努力的方向。",
+          "vi": "Vương Tịnh: Không sao, cảm ơn cậu! Nhưng bây giờ tớ rất hạnh phúc, vì trước mặt mẹ tớ có thể làm một đứa trẻ mãi không lớn; trước mặt con tớ lại là một người mẹ có thể chăm sóc nó, điều này cho tớ phương hướng để cố gắng.",
+          "en": "Wang Jing: I'm fine, thanks! But I'm very happy now, because with my mother I can be a child who never grows up, and with my son I'm a mother who can look after him. It gives me something to work towards."
+        }
+      ],
+      "words": [
+        {
+          "zh": "礼拜天",
+          "py": "lǐbàitiān",
+          "pos": "dt.",
+          "vi": "chủ nhật",
+          "en": "Sunday"
+        },
+        {
+          "zh": "空儿",
+          "py": "kòngr",
+          "pos": "dt.",
+          "vi": "thời gian rỗi",
+          "en": "free time"
+        },
+        {
+          "zh": "母亲",
+          "py": "mǔqīn",
+          "pos": "dt.",
+          "vi": "mẹ",
+          "en": "mother"
+        },
+        {
+          "zh": "不过",
+          "py": "búguò",
+          "pos": "liên.",
+          "vi": "nhưng, song",
+          "en": "but, however"
+        },
+        {
+          "zh": "永远",
+          "py": "yǒngyuǎn",
+          "pos": "phó.",
+          "vi": "vĩnh viễn, mãi mãi",
+          "en": "forever"
+        },
+        {
+          "zh": "方向",
+          "py": "fāngxiàng",
+          "pos": "dt.",
+          "vi": "phương hướng, sự định hướng",
+          "en": "direction"
+        }
+      ]
+    },
+    {
+      "title": "高老师和李老师在谈幸福",
+      "paras": [
+        {
+          "zh": "高老师：你看人家王老师，刚来这儿工作三年就当了教授，还有个好妻子，真让人羡慕！",
+          "vi": "Cô Cao: Anh xem thầy Vương người ta, mới đến đây làm việc ba năm đã lên giáo sư, lại có người vợ tốt, thật khiến người ta ngưỡng mộ!",
+          "en": "Ms. Gao: Look at Mr. Wang: he's only been working here three years and he's already a professor, and he has a lovely wife. I really envy him!"
+        },
+        {
+          "zh": "李老师：其实，你在别人眼中也是很幸福的，只是你自己没有发现。",
+          "vi": "Thầy Lý: Thật ra trong mắt người khác chị cũng rất hạnh phúc, chỉ là chị không tự nhận ra thôi.",
+          "en": "Mr. Li: Actually, in other people's eyes you're very happy too. You just haven't noticed it yourself."
+        },
+        {
+          "zh": "高老师：是吗？我哪能跟王老师比啊？",
+          "vi": "Cô Cao: Vậy sao? Tôi sao so được với thầy Vương?",
+          "en": "Ms. Gao: Really? How could I compare with Mr. Wang?"
+        },
+        {
+          "zh": "李老师：你有一个漂亮的女儿，还那么优秀，硕士毕业后就当了翻译。",
+          "vi": "Thầy Lý: Chị có một cô con gái xinh đẹp lại xuất sắc như vậy, tốt nghiệp thạc sĩ xong đã làm phiên dịch.",
+          "en": "Mr. Li: You have a beautiful daughter who's so talented; she became an interpreter after her master's degree."
+        },
+        {
+          "zh": "高老师：我女儿确实不错，记得她刚拿到第一个月工资时，就兴奋地{de}拉着我和她爸俩去商场，给我们买礼物，那时我和她爸心里别提多美了！",
+          "vi": "Cô Cao: Con gái tôi đúng là rất ngoan, nhớ lúc nó vừa nhận tháng lương đầu tiên, đã hào hứng kéo tôi và bố nó đi trung tâm thương mại mua quà cho chúng tôi, lúc đó tôi và bố nó trong lòng vui sướng biết bao!",
+          "en": "Ms. Gao: My daughter really is great. I remember when she got her first month's salary, she excitedly dragged her dad and me to the mall to buy us presents. We were over the moon!"
+        },
+        {
+          "zh": "李老师：所以说每个人有每个人的生活，不用羡慕别人。你羡慕别人的时候，他们可能也正在羡慕你呢。",
+          "vi": "Thầy Lý: Vì vậy mới nói mỗi người có cuộc sống của riêng mình, không cần ngưỡng mộ người khác. Lúc chị ngưỡng mộ người khác, có thể họ cũng đang ngưỡng mộ chị đấy.",
+          "en": "Mr. Li: That's why I say everyone has their own life, and there's no need to envy others. While you're envying them, they may well be envying you."
+        }
+      ],
+      "words": [
+        {
+          "zh": "优秀",
+          "py": "yōuxiù",
+          "pos": "tt.",
+          "vi": "xuất sắc, ưu tú",
+          "en": "excellent, outstanding"
+        },
+        {
+          "zh": "硕士",
+          "py": "shuòshì",
+          "pos": "dt.",
+          "vi": "thạc sĩ",
+          "en": "master's degree"
+        },
+        {
+          "zh": "翻译",
+          "py": "fānyì",
+          "pos": "dt.",
+          "vi": "phiên dịch viên",
+          "en": "translator, interpreter"
+        },
+        {
+          "zh": "确实",
+          "py": "quèshí",
+          "pos": "phó.",
+          "vi": "thực sự",
+          "en": "really, indeed"
+        },
+        {
+          "zh": "兴奋",
+          "py": "xīngfèn",
+          "pos": "tt.",
+          "vi": "hăng hái, phấn khởi",
+          "en": "excited"
+        },
+        {
+          "zh": "拉",
+          "py": "lā",
+          "pos": "đgt.",
+          "vi": "kéo, lôi, dắt",
+          "en": "to pull"
+        }
+      ]
+    },
+    {
+      "title": "小雨和小夏聊找工作的事情",
+      "paras": [
+        {
+          "zh": "小雨：时间过得真快，马上就要毕业了。毕业后你打算做什么？",
+          "vi": "Tiểu Vũ: Thời gian trôi nhanh thật, sắp tốt nghiệp rồi. Tốt nghiệp xong cậu định làm gì?",
+          "en": "Xiaoyu: Time flies. We're about to graduate. What are you planning to do afterwards?"
+        },
+        {
+          "zh": "小夏：我还没想好呢，正想听听你的建议。你觉得在选择职业时，收入重要吗？",
+          "vi": "Tiểu Hạ: Tớ vẫn chưa nghĩ xong, đang muốn nghe ý kiến của cậu đây. Cậu thấy khi chọn nghề thì thu nhập có quan trọng không?",
+          "en": "Xiao Xia: I haven't decided yet. I was just about to ask for your advice. When choosing a career, do you think income matters?"
+        },
+        {
+          "zh": "小雨：在我看来，赚钱多少不是最重要的，兴趣才是关键。只有做自己喜欢的事，才会觉得幸福，将来也会有更好的发展。",
+          "vi": "Tiểu Vũ: Theo tớ, kiếm được nhiều hay ít tiền không phải quan trọng nhất, hứng thú mới là điều mấu chốt. Chỉ có làm việc mình thích mới thấy hạnh phúc, tương lai cũng sẽ phát triển tốt hơn.",
+          "en": "Xiaoyu: In my view, how much you earn isn't the most important thing; interest is the key. Only by doing what you love will you feel happy and develop better in the future."
+        },
+        {
+          "zh": "小夏：我也这么想。如果我带着{zhe}热情去做自己喜欢的工作，就不会感到累。不过，现在什么东西都那么贵，生活压力太大了，没有钱也不会过得幸福啊！",
+          "vi": "Tiểu Hạ: Tớ cũng nghĩ vậy. Nếu tớ mang nhiệt huyết làm công việc mình thích thì sẽ không thấy mệt. Nhưng bây giờ cái gì cũng đắt, áp lực cuộc sống quá lớn, không có tiền cũng không sống hạnh phúc được!",
+          "en": "Xiao Xia: I think so too. If I do a job I love with enthusiasm, I won't feel tired. But everything is so expensive now and the pressure of life is so great. Without money you can't be happy either!"
+        },
+        {
+          "zh": "小雨：幸福其实很简单，它不是只要有钱就能买到的。我觉得工作结束回家后，洗个热水澡，然后躺在床上看看书、听听音乐，困了睡睡觉，就很幸福。",
+          "vi": "Tiểu Vũ: Hạnh phúc thật ra rất đơn giản, nó không phải cứ có tiền là mua được. Tớ thấy làm việc xong về nhà, tắm nước nóng, rồi nằm trên giường đọc sách, nghe nhạc, buồn ngủ thì ngủ, như thế là rất hạnh phúc.",
+          "en": "Xiaoyu: Happiness is actually very simple; it isn't something you can just buy with money. For me, coming home after work, having a hot shower, lying in bed reading or listening to music, and sleeping when I'm tired: that's happiness."
+        },
+        {
+          "zh": "小夏：你说的也对。如果能找到一份自己既感兴趣，收入又不错的工作，那就最好了。",
+          "vi": "Tiểu Hạ: Cậu nói cũng đúng. Nếu tìm được một công việc vừa hứng thú, thu nhập lại khá thì tốt nhất.",
+          "en": "Xiao Xia: You have a point. If I could find a job that I'm interested in and that also pays well, that would be ideal."
+        }
+      ],
+      "words": [
+        {
+          "zh": "建议",
+          "py": "jiànyì",
+          "pos": "dt.",
+          "vi": "kiến nghị, sự đề nghị",
+          "en": "suggestion, advice"
+        },
+        {
+          "zh": "职业",
+          "py": "zhíyè",
+          "pos": "dt.",
+          "vi": "nghề nghiệp",
+          "en": "occupation, career"
+        },
+        {
+          "zh": "关键",
+          "py": "guānjiàn",
+          "pos": "dt.",
+          "vi": "điều quan trọng, điểm mấu chốt",
+          "en": "key"
+        },
+        {
+          "zh": "将来",
+          "py": "jiānglái",
+          "pos": "dt.",
+          "vi": "tương lai",
+          "en": "future"
+        },
+        {
+          "zh": "发展",
+          "py": "fāzhǎn",
+          "pos": "đgt.",
+          "vi": "phát triển",
+          "en": "to develop"
+        },
+        {
+          "zh": "躺",
+          "py": "tǎng",
+          "pos": "đgt.",
+          "vi": "nằm",
+          "en": "to lie (down)"
+        },
+        {
+          "zh": "困",
+          "py": "kùn",
+          "pos": "tt.",
+          "vi": "buồn ngủ",
+          "en": "sleepy"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "有的人希望穿得再好一些，房子再大一些，认为经济条件越好人就越幸福。其实有很多富人过得并不愉快，而有些穷人却过得很快乐。有钱不一定幸福，因为很多东西都是不能用钱买到的，例如时间、感情、生活经历等。但是，从另外一个方面看，如果没钱，也很难过得幸福。当你生病了，如果由于缺钱而不能及时去看医生，你的健康都很难得到保证，就更别说幸福了。",
+          "vi": "Có người mong mặc đẹp hơn chút nữa, nhà rộng hơn chút nữa, cho rằng điều kiện kinh tế càng tốt thì con người càng hạnh phúc. Thật ra có nhiều người giàu sống không hề vui vẻ, còn có những người nghèo lại sống rất vui. Có tiền chưa chắc hạnh phúc, vì nhiều thứ không thể dùng tiền mua được, ví dụ như thời gian, tình cảm, trải nghiệm cuộc sống… Nhưng nhìn từ một mặt khác, nếu không có tiền thì cũng rất khó sống hạnh phúc. Khi bạn bị ốm, nếu vì thiếu tiền mà không thể kịp thời đi khám bác sĩ thì sức khỏe của bạn cũng khó được đảm bảo, càng khỏi phải nói đến hạnh phúc.",
+          "en": "Some people want to dress a bit better and live in a slightly bigger house, believing that the better off they are, the happier they'll be. In fact, many rich people aren't happy at all, while some poor people are very happy. Money doesn't necessarily bring happiness, because many things can't be bought, such as time, feelings and life experience. But from another angle, without money it's also hard to be happy. If you fall ill and can't see a doctor in time because you lack money, even your health can't be guaranteed, let alone your happiness."
+        }
+      ],
+      "words": [
+        {
+          "zh": "经济",
+          "py": "jīngjì",
+          "pos": "dt.",
+          "vi": "kinh tế",
+          "en": "economy, finances"
+        },
+        {
+          "zh": "条件",
+          "py": "tiáojiàn",
+          "pos": "dt.",
+          "vi": "điều kiện",
+          "en": "condition"
+        },
+        {
+          "zh": "富",
+          "py": "fù",
+          "pos": "tt.",
+          "vi": "giàu",
+          "en": "rich"
+        },
+        {
+          "zh": "穷",
+          "py": "qióng",
+          "pos": "tt.",
+          "vi": "nghèo",
+          "en": "poor"
+        },
+        {
+          "zh": "等",
+          "py": "děng",
+          "pos": "trợ.",
+          "vi": "vân vân",
+          "en": "etc."
+        },
+        {
+          "zh": "由于",
+          "py": "yóuyú",
+          "pos": "liên.",
+          "vi": "vì, bởi vì",
+          "en": "because of, due to"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "什么是幸福？有的人认为，工资高、能赚钱就是幸福；有的人认为，心情放松、身体健康才是幸福；也有人认为，能帮助别人就是一种幸福。还有人说，小时候幸福是一件东西，比如一块橡皮、一块糖，得到了就很幸福；长大后幸福是一种态度，生活的态度决定了我们幸福感的高低。那怎样才算是真正的幸福？其实，幸福并没有一个标准答案，每个人对幸福都有不同的理解。不管你认为幸福是什么，只要你用心去找，就一定能发现它。",
+          "vi": "Hạnh phúc là gì? Có người cho rằng lương cao, kiếm được tiền là hạnh phúc; có người cho rằng tâm trạng thoải mái, sức khỏe tốt mới là hạnh phúc; cũng có người cho rằng giúp được người khác là một niềm hạnh phúc. Còn có người nói, hồi nhỏ hạnh phúc là một món đồ, ví dụ một cục tẩy, một viên kẹo, có được là rất hạnh phúc; lớn lên rồi hạnh phúc là một thái độ, thái độ sống quyết định cảm giác hạnh phúc của chúng ta cao hay thấp. Vậy thế nào mới là hạnh phúc thật sự? Thật ra hạnh phúc không có một đáp án chuẩn, mỗi người đều có cách hiểu khác nhau về hạnh phúc. Dù bạn cho rằng hạnh phúc là gì, chỉ cần bạn dụng tâm đi tìm thì nhất định sẽ phát hiện ra nó.",
+          "en": "What is happiness? Some people think it's having a high salary and making money; some think it's being relaxed and healthy; others think helping others is a kind of happiness. Some say that when you're small, happiness is a thing, like an eraser or a sweet, and getting it makes you happy; when you grow up, happiness is an attitude, and your attitude to life determines how happy you feel. So what counts as true happiness? In fact, there's no standard answer; everyone understands happiness differently. Whatever you think happiness is, if you look for it with your heart, you'll surely find it."
+        }
+      ],
+      "words": [
+        {
+          "zh": "比如",
+          "py": "bǐrú",
+          "pos": "đgt.",
+          "vi": "ví dụ, chẳng hạn",
+          "en": "for example"
+        },
+        {
+          "zh": "橡皮",
+          "py": "xiàngpí",
+          "pos": "dt.",
+          "vi": "(cục) gôm, tẩy",
+          "en": "eraser"
+        },
+        {
+          "zh": "糖",
+          "py": "táng",
+          "pos": "dt.",
+          "vi": "kẹo",
+          "en": "sweet, candy"
+        },
+        {
+          "zh": "低",
+          "py": "dī",
+          "pos": "tt.",
+          "vi": "thấp",
+          "en": "low"
+        },
+        {
+          "zh": "答案",
+          "py": "dá'àn",
+          "pos": "dt.",
+          "vi": "đáp án, câu trả lời, lời giải",
+          "en": "answer"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "孙月让王静陪她去做什么？王静为什么去不了？",
+        "label": "课文1",
+        "a": "孙月让王静【陪她去逛街，给丈夫买生日礼物】。王静去不了，因为【最近事情多，除了工作以外，家里还有母亲和儿子需要照顾】。",
+        "vi": "Tôn Nguyệt nhờ Vương Tịnh đi dạo phố cùng, mua quà sinh nhật cho chồng. Vương Tịnh không đi được vì dạo này nhiều việc, ngoài công việc ở nhà còn có mẹ và con trai cần chăm sóc.",
+        "en": "Sun Yue asked Wang Jing to go shopping with her for her husband's birthday present. Wang Jing can't, because she's busy: besides work, she has her mother and son to look after."
+      },
+      {
+        "q": "王静为什么很辛苦？她为什么也觉得很幸福？",
+        "label": "课文1",
+        "a": "因为她【上有老，下有小】，很辛苦。但她觉得幸福，因为【在母亲面前她可以做一个永远长{zhǎng}不大的孩子，在孩子面前她又是个能照顾他的母亲】。",
+        "vi": "Vì cô ấy trên có già dưới có trẻ nên rất vất vả. Nhưng cô ấy thấy hạnh phúc, vì trước mặt mẹ cô có thể làm đứa trẻ mãi không lớn, trước mặt con cô lại là người mẹ chăm sóc được con.",
+        "en": "Because she has an elderly parent and a young child, she's very busy. But she feels happy, because with her mother she can be a child who never grows up, and with her son she's a mother who can look after him."
+      },
+      {
+        "q": "高老师为什么羡慕王老师？",
+        "label": "课文2",
+        "a": "因为王老师【刚来这儿工作三年就当了教授，还有个好妻子】。",
+        "vi": "Vì thầy Vương mới đến đây làm việc ba năm đã lên giáo sư, lại có người vợ tốt.",
+        "en": "Because Mr. Wang became a professor after only three years here and has a lovely wife."
+      },
+      {
+        "q": "为什么说高老师在别人眼中也是很幸福的？",
+        "label": "课文2",
+        "a": "因为她【有一个漂亮又优秀的女儿，硕士毕业后就当了翻译】，还给她和她爸买礼物。",
+        "vi": "Vì cô ấy có một cô con gái xinh đẹp lại xuất sắc, tốt nghiệp thạc sĩ xong đã làm phiên dịch, còn mua quà cho bố mẹ.",
+        "en": "Because she has a beautiful and talented daughter who became an interpreter after her master's and buys presents for her parents."
+      },
+      {
+        "q": "小雨对选择职业有什么建议？",
+        "label": "课文3",
+        "a": "小雨认为【赚钱多少不是最重要的，兴趣才是关键】。只有做自己喜欢的事，才会觉得幸福。",
+        "vi": "Tiểu Vũ cho rằng kiếm nhiều hay ít tiền không phải quan trọng nhất, hứng thú mới là mấu chốt. Chỉ làm việc mình thích mới thấy hạnh phúc.",
+        "en": "Xiaoyu thinks how much you earn isn't the most important thing; interest is the key. Only doing what you love will make you happy."
+      },
+      {
+        "q": "在小雨看来，什么是幸福？小夏呢？",
+        "label": "课文3",
+        "a": "在小雨看来，【幸福很简单，工作结束回家后，洗个热水澡，躺在床上看看书、听听音乐，困了睡睡觉，就很幸福】。小夏觉得【如果能找到一份自己既感兴趣，收入又不错的工作，那就最好了】。",
+        "vi": "Theo Tiểu Vũ, hạnh phúc rất đơn giản: làm xong về nhà tắm nước nóng, nằm đọc sách nghe nhạc, buồn ngủ thì ngủ. Tiểu Hạ thấy nếu tìm được công việc vừa hứng thú vừa thu nhập khá thì tốt nhất.",
+        "en": "For Xiaoyu, happiness is simple: coming home after work, a hot shower, reading and music in bed, and sleep when tired. Xiao Xia thinks the ideal is finding a job that's both interesting and well paid."
+      },
+      {
+        "q": "为什么说有钱不一定幸福？哪些东西是不能用钱买到的？",
+        "label": "课文4",
+        "a": "因为【很多东西都是不能用钱买到的】，例如【时间、感情、生活经历等】。",
+        "vi": "Vì nhiều thứ không thể dùng tiền mua được, ví dụ thời gian, tình cảm, trải nghiệm cuộc sống…",
+        "en": "Because many things can't be bought with money, such as time, feelings and life experience."
+      },
+      {
+        "q": "为什么说没钱也很难过得幸福？",
+        "label": "课文4",
+        "a": "因为【生病了，如果由于缺钱而不能及时去看医生，健康都很难得到保证，就更别说幸福了】。",
+        "vi": "Vì khi bị ốm, nếu thiếu tiền không kịp đi khám thì sức khỏe cũng khó đảm bảo, càng khỏi nói đến hạnh phúc.",
+        "en": "Because if you're ill and can't see a doctor in time for lack of money, even your health can't be guaranteed, let alone happiness."
+      },
+      {
+        "q": "关于幸福，人们有哪些不同的看法？",
+        "label": "课文5",
+        "a": "有的人认为【工资高、能赚钱就是幸福】；有的人认为【心情放松、身体健康才是幸福】；也有人认为【能帮助别人就是一种幸福】。",
+        "vi": "Có người cho rằng lương cao kiếm được tiền là hạnh phúc; có người cho rằng thoải mái khỏe mạnh mới là hạnh phúc; cũng có người cho rằng giúp được người khác là hạnh phúc.",
+        "en": "Some think a high salary and making money is happiness; some think being relaxed and healthy is; others think helping others is."
+      },
+      {
+        "q": "怎样才算是真正的幸福？",
+        "label": "课文5",
+        "a": "【幸福并没有一个标准答案，每个人对幸福都有不同的理解】。只要用心去找，就一定能发现它。",
+        "vi": "Hạnh phúc không có đáp án chuẩn, mỗi người có cách hiểu khác nhau. Chỉ cần dụng tâm tìm thì nhất định sẽ thấy.",
+        "en": "There's no standard answer; everyone understands happiness differently. If you look for it with your heart, you'll find it."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "不过",
+      "uses": [
+        {
+          "vi": "不过 có thể được dùng làm liên từ và được đặt ở đầu vế câu sau để chỉ sự chuyển ý, bổ sung và điều chỉnh ý của vế câu trước (nhưng, có điều).",
+          "en": "As a conjunction, 不过 opens the second clause to introduce a contrast, adding to or qualifying what the first clause said: 'but, however'.",
+          "ex": [
+            {
+              "zh": "我现在上有老，下有小。除了工作以外，家里还有母亲和儿子需要照顾。【不过】现在我很幸福。",
+              "vi": "Bây giờ tôi trên có mẹ già, dưới có con nhỏ. Ngoài công việc ra, ở nhà còn có mẹ và con trai cần chăm sóc. Có điều bây giờ tôi rất hạnh phúc.",
+              "en": "Right now I have an elderly parent above me and a child below. Besides work, I have my mother and my son to look after at home. But I'm very happy now."
+            },
+            {
+              "zh": "你再早来一会儿就好了，那辆车刚开走，你只能等下一辆了。【不过】也不用多长时间，估计十几分钟就来了。",
+              "vi": "Bạn mà đến sớm hơn chút nữa thì tốt rồi, chuyến xe đó vừa chạy, bạn chỉ có thể đợi chuyến sau thôi. Có điều cũng không mất bao lâu, chắc độ mười mấy phút là tới.",
+              "en": "If only you'd come a bit earlier. That bus has just left, so you'll have to wait for the next one. But it won't be long; it should come in ten minutes or so."
+            }
+          ]
+        },
+        {
+          "vi": "不过 cũng có thể được dùng làm phó từ với nghĩa là chỉ, để nhấn mạnh số lượng hay phạm vi nhỏ.",
+          "en": "As an adverb, 不过 means 'only, merely', stressing that an amount or scope is small.",
+          "ex": [
+            {
+              "zh": "我们【不过】谈了点儿工作方面的问题，别的都没谈。",
+              "vi": "Chúng tôi chỉ bàn một chút về chuyện công việc thôi, những chuyện khác không nói gì cả.",
+              "en": "We only talked a little about work; we didn't discuss anything else."
+            },
+            {
+              "zh": "A：没有你的帮助，我们肯定不能按时完成任务，真是太谢谢你了。\nB：你太客气了，我【不过】是给了些建议，这一切都是你们辛苦努力的结果。",
+              "vi": "A: Không có sự giúp đỡ của bạn thì chắc chắn chúng tôi không thể hoàn thành nhiệm vụ đúng hạn, thật sự cảm ơn bạn rất nhiều.\nB: Bạn khách sáo quá, tôi chỉ đưa ra vài gợi ý thôi, tất cả đều là kết quả của sự nỗ lực vất vả của các bạn.",
+              "en": "A: Without your help we definitely couldn't have finished on time. Thank you so much.\nB: Don't mention it. I only made a few suggestions; all this is the result of your own hard work."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "不过—但是",
+        "uses": [
+          {
+            "vi": "Giống nhau: 不过 và 但是 đều được dùng ở đầu vế câu sau để chỉ sự chuyển ý.",
+            "en": "Similarity: both 不过 and 但是 can open the second clause to introduce a contrast.",
+            "ex": [
+              {
+                "zh": "我本来想当律师，【不过】/【但是】后来我发现自己对新闻更感兴趣。",
+                "vi": "Lúc đầu tôi muốn làm luật sư, nhưng sau đó tôi phát hiện mình hứng thú với báo chí hơn.",
+                "en": "I originally wanted to be a lawyer, but later I found I was more interested in journalism."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: Trong trường hợp trên, 不过 thường được dùng trong văn nói để đưa ra ý kiến hay lời từ chối một cách nhẹ nhàng, lịch sự; còn 但是 có ngữ khí mạnh hơn.",
+            "en": "Difference 1: in that sense, 不过 is mostly spoken and is used to make a suggestion or turn something down gently and politely; 但是 has a stronger tone.",
+            "ex": [
+              {
+                "zh": "对不起，先生，那种蛋糕已经卖完了，【不过】，您可以尝一下这种饼干，味道也很不错。",
+                "vi": "Xin lỗi anh, loại bánh ngọt đó đã bán hết rồi, có điều anh có thể nếm thử loại bánh quy này, vị cũng rất ngon.",
+                "en": "I'm sorry, sir, that cake is sold out. But you could try these biscuits; they taste very good too."
+              },
+              {
+                "zh": "别人的方法也许很有效，【但是】并不一定适合你。",
+                "vi": "Phương pháp của người khác có thể rất hiệu quả, nhưng chưa chắc đã phù hợp với bạn.",
+                "en": "Other people's methods may work well, but they won't necessarily suit you."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: 不过 cũng có thể được dùng làm phó từ và mang nghĩa là chỉ, theo sau nó thường là con số; 但是 không dùng được như vậy.",
+            "en": "Difference 2: 不过 can also be an adverb meaning 'only', usually followed by a number; 但是 cannot.",
+            "ex": [
+              {
+                "zh": "去年我【不过】50公斤，今年怎么这么胖了？",
+                "vi": "Năm ngoái tôi chỉ có 50 cân, sao năm nay lại béo thế này?",
+                "en": "Last year I was only 50 kilos. How did I get so fat this year?"
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "每天喝一点儿葡萄酒，对身体是有好处的。____不能喝太多。",
+              "key": "不过 ✓ · 但是 ✓",
+              "a": "每天喝一点儿葡萄酒，对身体是有好处的。【不过】/【但是】不能喝太多。",
+              "vi": "Mỗi ngày uống một chút rượu vang tốt cho sức khỏe. Nhưng không được uống quá nhiều.",
+              "en": "A little wine every day is good for you. But you mustn't drink too much."
+            },
+            {
+              "q": "他结婚的时候____20岁。",
+              "key": "不过 ✓ · 但是 ✗ (làm phó từ “chỉ”)",
+              "a": "他结婚的时候【不过】20岁。",
+              "vi": "Lúc kết hôn anh ấy chỉ mới 20 tuổi.",
+              "en": "He was only 20 when he got married."
+            },
+            {
+              "q": "大部分人每天晚上至少应该睡7个小时，____这个标准并不适合每一个人。",
+              "key": "不过 ✓ · 但是 ✓",
+              "a": "大部分人每天晚上至少应该睡7个小时，【不过】/【但是】这个标准并不适合每一个人。",
+              "vi": "Phần lớn mọi người mỗi tối nên ngủ ít nhất 7 tiếng, nhưng tiêu chuẩn này không hẳn phù hợp với tất cả mọi người.",
+              "en": "Most people should sleep at least 7 hours a night, but this standard doesn't suit everyone."
+            },
+            {
+              "q": "对不起，先生，我们店的刷卡机坏了，只能用现金。____商场附近有家银行，您出了门右转，走到头儿就能看到。",
+              "key": "不过 ✓ (nhẹ nhàng, khẩu ngữ) · 但是 ✗",
+              "a": "对不起，先生，我们店的刷卡机坏了，只能用现金。【不过】商场附近有家银行，您出了门右转，走到头儿就能看到。",
+              "vi": "Xin lỗi anh, máy quẹt thẻ của cửa hàng chúng tôi hỏng rồi, chỉ dùng được tiền mặt. Nhưng gần trung tâm thương mại có một ngân hàng, anh ra cửa rẽ phải, đi đến cuối đường là thấy.",
+              "en": "Sorry, sir, our card machine is broken, so it's cash only. But there's a bank near the mall: turn right out of the door and you'll see it at the end of the street."
+            },
+            {
+              "q": "这次亲戚来北京____住两三天，就让他来家里住吧，不用住宾馆了。",
+              "key": "不过 ✓ · 但是 ✗ (làm phó từ “chỉ”)",
+              "a": "这次亲戚来北京【不过】住两三天，就让他来家里住吧，不用住宾馆了。",
+              "vi": "Lần này họ hàng đến Bắc Kinh chỉ ở hai ba ngày, cứ để họ ở nhà mình, không cần ở khách sạn.",
+              "en": "Our relative is only staying in Beijing for two or three days this time. Let him stay with us; there's no need for a hotel."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "这么漂亮的衣服____，买一件吧。",
+            "hint": "不过",
+            "a": "这么漂亮的衣服【不过一百块钱】，买一件吧。",
+            "vi": "Bộ quần áo đẹp thế này chỉ có một trăm tệ, mua một bộ đi.",
+            "en": "Such a nice piece of clothing is only a hundred yuan. Buy one.",
+            "sample": true
+          },
+          {
+            "q": "A：中午吃西红柿鸡蛋面怎么样？\nB：可以，____。",
+            "hint": "不过",
+            "a": "A：中午吃西红柿鸡蛋面怎么样？\nB：可以，【不过别放太多盐】。",
+            "vi": "A: Trưa ăn mì trứng cà chua nhé?\nB: Được, nhưng đừng cho nhiều muối quá.",
+            "en": "A: How about tomato and egg noodles for lunch?\nB: Sure, but don't put too much salt in.",
+            "sample": true
+          },
+          {
+            "q": "A：你知道怎么去世界公园吗？我明天要去那儿附近办点儿事。\nB：我对那儿也不太熟悉，____。",
+            "hint": "不过",
+            "a": "A：你知道怎么去世界公园吗？我明天要去那儿附近办点儿事。\nB：我对那儿也不太熟悉，【不过你可以上网查查】。",
+            "vi": "A: Bạn biết đi Công viên Thế giới thế nào không? Mai tôi phải đến gần đó làm chút việc.\nB: Tôi cũng không rành chỗ đó lắm, nhưng bạn có thể lên mạng tra thử.",
+            "en": "A: Do you know how to get to World Park? I need to do something near there tomorrow.\nB: I don't know the area well either, but you could look it up online.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "确实",
+      "uses": [
+        {
+          "vi": "Phó từ 确实 được dùng để khẳng định tính xác thực của một tình huống khách quan (quả thật, đúng là).",
+          "en": "The adverb 确实 confirms that an objective situation is true: 'really, indeed'.",
+          "ex": [
+            {
+              "zh": "爱情【确实】是结婚的重要原因，但仅有爱情是不够的。",
+              "vi": "Tình yêu quả thật là lý do quan trọng để kết hôn, nhưng chỉ có tình yêu thôi thì chưa đủ.",
+              "en": "Love is indeed an important reason to marry, but love alone isn't enough."
+            },
+            {
+              "zh": "A：好几年没见，你还是这么爱开玩笑，我哪儿有你说的那么年轻。\nB：我说的是真的，你【确实】比以前更年轻、更漂亮了。",
+              "vi": "A: Mấy năm không gặp mà bạn vẫn thích đùa như vậy, tôi làm gì trẻ như bạn nói.\nB: Tôi nói thật mà, bạn đúng là trẻ hơn, đẹp hơn trước thật.",
+              "en": "A: We haven't seen each other for years and you still love to joke. I'm nowhere near as young as you say.\nB: I mean it. You really do look younger and prettier than before."
+            },
+            {
+              "zh": "我女儿【确实】不错，记得她刚拿到第一个月工资时，就兴奋地{de}拉着我和她爸俩去商场，给我们买礼物，那时我和她爸心里别提多美了！",
+              "vi": "Con gái tôi đúng là rất ngoan, nhớ hồi vừa nhận tháng lương đầu tiên, con hớn hở kéo cả tôi và bố nó đi trung tâm thương mại mua quà cho chúng tôi, lúc đó vợ chồng tôi vui sướng không sao tả xiết!",
+              "en": "My daughter really is wonderful. I remember when she got her first month's pay, she excitedly dragged her dad and me to the mall to buy us presents. You can't imagine how happy we were!"
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话或句子",
+        "items": [
+          {
+            "q": "A：终于爬上来了，累死我了，这山太高了！\nB：____。",
+            "hint": "确实",
+            "a": "A：终于爬上来了，累死我了，这山太高了！\nB：【这山确实很高，不过上面的景色真美】。",
+            "vi": "A: Cuối cùng cũng leo lên được, mệt chết mất, núi này cao quá!\nB: Núi này đúng là rất cao, nhưng phong cảnh trên này đẹp thật.",
+            "en": "A: Finally made it to the top. I'm exhausted; this mountain is so high!\nB: It really is high, but the view up here is beautiful.",
+            "sample": true
+          },
+          {
+            "q": "A：教室里太热了，把窗户打开吧。\nB：____。",
+            "hint": "确实",
+            "a": "A：教室里太热了，把窗户打开吧。\nB：【确实太热了，我去开窗户】。",
+            "vi": "A: Trong lớp nóng quá, mở cửa sổ ra đi.\nB: Đúng là nóng quá, tôi đi mở cửa sổ.",
+            "en": "A: It's too hot in the classroom. Open the window.\nB: It really is hot. I'll open it.",
+            "sample": true
+          },
+          {
+            "q": "有一句歌词是这样写的：“我能想到最浪漫的事，就是和你一起慢慢变老。”世界那么大，两个人相识已经不容易，还要互相了解、互相喜欢、一起生活、一直到生命的最后，____。",
+            "hint": "确实",
+            "a": "有一句歌词是这样写的：“我能想到最浪漫的事，就是和你一起慢慢变老。”世界那么大，两个人相识已经不容易，还要互相了解、互相喜欢、一起生活、一直到生命的最后，【这确实是一件很浪漫的事】。",
+            "vi": "Có một câu hát viết thế này: “Điều lãng mạn nhất anh có thể nghĩ đến là cùng em từ từ già đi.” Thế giới rộng lớn như vậy, hai người quen nhau đã không dễ, còn phải hiểu nhau, thích nhau, sống cùng nhau đến cuối đời, đây thật sự là một điều rất lãng mạn.",
+            "en": "There's a song lyric that goes: “The most romantic thing I can think of is growing old slowly with you.” The world is so big; it's not easy for two people even to meet, let alone understand and love each other and live together to the end of their lives. That really is very romantic.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "在……看来",
+      "uses": [
+        {
+          "vi": "在……看来 là thành phần được dùng để chỉ ra rằng nội dung kế tiếp là lời phát biểu ý kiến hay quan điểm (theo… thì, trong mắt…).",
+          "en": "在……看来 is a parenthetical phrase showing that what follows is someone's opinion or view: 'in …'s view, as … sees it'.",
+          "ex": [
+            {
+              "zh": "【在】很多人【看来】，听流行音乐仅仅是年轻人的爱好，其实现在不少中老年人对流行歌曲也很感兴趣。",
+              "vi": "Theo nhiều người thì nghe nhạc pop chỉ là sở thích của giới trẻ, thật ra bây giờ không ít người trung niên và cao tuổi cũng rất thích các bài hát thịnh hành.",
+              "en": "Many people think listening to pop music is just a young people's hobby, but actually quite a lot of middle-aged and older people are interested in pop songs now too."
+            },
+            {
+              "zh": "【在】我【看来】，比赛结果并不是最重要的，在参加比赛的过程中使自己获得提高更重要。",
+              "vi": "Theo tôi, kết quả cuộc thi không phải là quan trọng nhất, quan trọng hơn là bản thân được tiến bộ trong quá trình tham gia thi đấu.",
+              "en": "In my view, the result isn't the most important thing; what matters more is improving yourself while taking part."
+            },
+            {
+              "zh": "A：你觉得在选择职业时，收入重要吗？\nB：【在】我【看来】，赚钱多少不是最重要的，兴趣才是关键。",
+              "vi": "A: Bạn thấy khi chọn nghề, thu nhập có quan trọng không?\nB: Theo tôi, kiếm được nhiều hay ít tiền không phải là quan trọng nhất, hứng thú mới là mấu chốt.",
+              "en": "A: Do you think income matters when choosing a career?\nB: As I see it, how much you earn isn't the most important thing. Interest is the key."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "有人说时间就是金钱，____。",
+            "hint": "在……看来",
+            "a": "有人说时间就是金钱，【在我看来，时间比金钱更重要】。",
+            "vi": "Có người nói thời gian là tiền bạc, theo tôi thì thời gian còn quan trọng hơn tiền bạc.",
+            "en": "Some say time is money. In my view, time is more important than money.",
+            "sample": true
+          },
+          {
+            "q": "邓亚萍是中国的乒乓球运动员，她的身高只有一米五五，____。",
+            "hint": "在……看来",
+            "a": "邓亚萍是中国的乒乓球运动员，她的身高只有一米五五，【在很多人看来，她不适合打乒乓球，可是她最后成功了】。",
+            "vi": "Đặng Á Bình là vận động viên bóng bàn của Trung Quốc, chiều cao của cô chỉ có 1m55, theo nhiều người thì cô không hợp chơi bóng bàn, nhưng cuối cùng cô đã thành công.",
+            "en": "Deng Yaping is a Chinese table tennis player who is only 1.55 metres tall. Many people thought she wasn't suited to the sport, but in the end she succeeded.",
+            "sample": true
+          },
+          {
+            "q": "A：你觉得男人和女人在性格上有什么区别？\nB：____。",
+            "hint": "在……看来",
+            "a": "A：你觉得男人和女人在性格上有什么区别？\nB：【在我看来，女人比男人更细心】。",
+            "vi": "A: Bạn thấy đàn ông và phụ nữ khác nhau thế nào về tính cách?\nB: Theo tôi, phụ nữ cẩn thận hơn đàn ông.",
+            "en": "A: How do you think men and women differ in personality?\nB: In my view, women are more careful than men.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "由于",
+      "uses": [
+        {
+          "vi": "由于 có thể được dùng làm liên từ để chỉ nguyên nhân, theo sau nó là một câu. 由于 thường được đặt ở vế đầu của câu.",
+          "en": "As a conjunction, 由于 (because, due to) gives a reason and is followed by a clause. It usually goes in the first clause.",
+          "ex": [
+            {
+              "zh": "今年春节他们本来打算出国去逛逛，但是【由于】家里的老人突然生病了，所以他们只好放弃了这个计划。",
+              "vi": "Tết năm nay họ vốn định ra nước ngoài chơi, nhưng vì người già trong nhà đột nhiên bị ốm nên họ đành bỏ kế hoạch này.",
+              "en": "They had planned to go abroad for a trip this Spring Festival, but because an elderly family member suddenly fell ill, they had to give up the plan."
+            },
+            {
+              "zh": "当你生病了，如果【由于】缺钱而不能及时去看医生，你的健康都很难得到保证，就更别说幸福了。",
+              "vi": "Khi bạn bị ốm, nếu vì thiếu tiền mà không thể đi khám bác sĩ kịp thời thì sức khỏe còn khó đảm bảo, nói gì đến hạnh phúc.",
+              "en": "When you're ill, if you can't see a doctor in time because you're short of money, even your health is hard to protect, let alone your happiness."
+            }
+          ]
+        },
+        {
+          "vi": "由于 cũng có thể được dùng làm giới từ để chỉ nguyên nhân, theo sau nó là cụm danh từ.",
+          "en": "As a preposition, 由于 also gives a reason, followed by a noun phrase.",
+          "ex": [
+            {
+              "zh": "【由于】种种原因，我们不得不改变原来的计划。",
+              "vi": "Vì nhiều lý do, chúng tôi buộc phải thay đổi kế hoạch ban đầu.",
+              "en": "For various reasons, we had to change our original plan."
+            },
+            {
+              "zh": "【由于】工作的需要，我去年十月去了趟上海，跟一家公司去谈生意。",
+              "vi": "Do yêu cầu công việc, tháng mười năm ngoái tôi đã đi Thượng Hải một chuyến để bàn chuyện làm ăn với một công ty.",
+              "en": "Because of work, I made a trip to Shanghai last October to negotiate business with a company."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "____，今天考得不怎么样。",
+            "hint": "由于",
+            "a": "【由于昨天晚上没睡好】，今天考得不怎么样。",
+            "vi": "Vì tối qua ngủ không ngon nên hôm nay thi không được tốt lắm.",
+            "en": "Because I didn't sleep well last night, I didn't do very well in today's exam.",
+            "sample": true
+          },
+          {
+            "q": "____，这次活动的举办时间不得不改到下周。",
+            "hint": "由于",
+            "a": "【由于天气原因】，这次活动的举办时间不得不改到下周。",
+            "vi": "Do thời tiết nên thời gian tổ chức hoạt động lần này đành phải dời sang tuần sau.",
+            "en": "Due to the weather, the event has had to be moved to next week.",
+            "sample": true
+          },
+          {
+            "q": "A：飞机怎么还没起飞？\nB：____。",
+            "hint": "由于",
+            "a": "A：飞机怎么还没起飞？\nB：【由于天气不好，飞机要晚一个小时起飞】。",
+            "vi": "A: Sao máy bay vẫn chưa cất cánh?\nB: Vì thời tiết xấu, máy bay phải cất cánh muộn một tiếng.",
+            "en": "A: Why hasn't the plane taken off yet?\nB: Because of bad weather, it'll be an hour late taking off.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "比如",
+      "uses": [
+        {
+          "vi": "Động từ 比如 dẫn ra các ví dụ để giải thích sự vật hay tình huống nào đó (ví dụ như, chẳng hạn).",
+          "en": "The verb 比如 introduces examples to illustrate something: 'for example, such as'.",
+          "ex": [
+            {
+              "zh": "还有人说，小时候幸福是一件东西，【比如】一块橡皮、一块糖，得到了就很幸福。",
+              "vi": "Cũng có người nói, hồi nhỏ hạnh phúc là một món đồ, chẳng hạn một cục tẩy, một viên kẹo, có được là thấy hạnh phúc lắm rồi.",
+              "en": "Some people also say that as a child, happiness is a thing, such as an eraser or a sweet; once you get it, you're happy."
+            },
+            {
+              "zh": "每个人都有自己特别感兴趣的东西，【比如】，作家爱写小说，画家爱画画儿。我们只有了解了自己的兴趣爱好后，才能更好地{de}发展自己。",
+              "vi": "Ai cũng có thứ mình đặc biệt hứng thú, ví dụ như nhà văn thích viết tiểu thuyết, họa sĩ thích vẽ tranh. Chúng ta chỉ khi hiểu rõ sở thích của mình mới có thể phát triển bản thân tốt hơn.",
+              "en": "Everyone has things that especially interest them. For example, writers love writing novels and painters love painting. Only once we understand our own interests can we develop ourselves better."
+            },
+            {
+              "zh": "旅游前最好做个计划，【比如】要去几个地方，怎么坐车，带哪些东西，一共要玩儿多少天等。把这些都提前想好，旅游时才会更轻松。",
+              "vi": "Trước khi đi du lịch tốt nhất nên lập kế hoạch, ví dụ như đi mấy nơi, đi xe gì, mang những gì, tổng cộng chơi bao nhiêu ngày v.v. Nghĩ trước hết những điều này thì lúc đi du lịch mới thoải mái hơn.",
+              "en": "It's best to make a plan before you travel: for example, how many places to visit, how to get around, what to take and how many days in total. Thinking all this through in advance makes the trip much more relaxed."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "有时候，质量很好的东西也会很便宜。____。",
+            "hint": "比如",
+            "a": "有时候，质量很好的东西也会很便宜。【比如春天来了，冬天的衣服就会打折】。",
+            "vi": "Có lúc đồ chất lượng rất tốt cũng sẽ rất rẻ. Ví dụ mùa xuân đến thì quần áo mùa đông sẽ giảm giá.",
+            "en": "Sometimes good-quality things can be very cheap. For example, when spring comes, winter clothes go on sale.",
+            "sample": true
+          },
+          {
+            "q": "刚到一个新环境，有很多种方法来使自己快一点儿适应。____。",
+            "hint": "比如",
+            "a": "刚到一个新环境，有很多种方法来使自己快一点儿适应。【比如多交朋友，多跟周围的人交流】。",
+            "vi": "Mới đến một môi trường mới, có nhiều cách giúp bản thân thích nghi nhanh hơn. Ví dụ kết thêm bạn, giao lưu nhiều với người xung quanh.",
+            "en": "When you arrive somewhere new, there are many ways to adapt faster. For example, make friends and talk to the people around you.",
+            "sample": true
+          },
+          {
+            "q": "在汉语里，我们把“海”、“江”、“河”这些字左边的部分叫作“三点水”。如果一个字中有这个部分，说明这个字的意思可能和水有关系。这样的汉字还有很多，____。",
+            "hint": "比如",
+            "a": "在汉语里，我们把“海”、“江”、“河”这些字左边的部分叫作“三点水”。如果一个字中有这个部分，说明这个字的意思可能和水有关系。这样的汉字还有很多，【比如“洗”、“游”、“汗”】。",
+            "vi": "Trong tiếng Hán, phần bên trái của các chữ “hải”, “giang”, “hà” được gọi là “ba chấm thủy”. Nếu một chữ có phần này thì nghĩa của nó có thể liên quan đến nước. Những chữ Hán như vậy còn rất nhiều, ví dụ “洗”, “游”, “汗”.",
+            "en": "In Chinese, the left-hand part of characters like 海, 江 and 河 is called “three drops of water”. If a character has this part, its meaning may be related to water. There are many such characters, for example 洗, 游 and 汗.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "王静的语气：\n孙月让我礼拜天陪她去逛街，……",
+          "label": "课文1",
+          "a": "孙月让我礼拜天陪她去逛街，给她丈夫买个生日礼物，可是我去不了，最近事情多。我现在上有老，下有小，除了工作以外，家里还有母亲和儿子需要照顾。不过现在我很幸福，因为在母亲面前我可以做一个永远长{zhǎng}不大的孩子；在孩子面前我又是个能照顾他的母亲，这让我有了努力的方向。",
+          "vi": "Tôn Nguyệt rủ tôi chủ nhật đi dạo phố mua quà sinh nhật cho chồng cô ấy, nhưng tôi không đi được, dạo này nhiều việc. Bây giờ tôi trên có già dưới có trẻ, ngoài công việc ở nhà còn có mẹ và con trai cần chăm sóc. Nhưng tôi rất hạnh phúc, vì trước mặt mẹ tôi là đứa trẻ mãi không lớn, trước mặt con tôi là người mẹ chăm sóc được con, điều này cho tôi phương hướng để cố gắng.",
+          "en": "Sun Yue asked me to go shopping with her on Sunday for her husband's birthday present, but I can't; I've got a lot on. I have an elderly mother and a young son to look after besides work. But I'm very happy, because with my mother I can be a child who never grows up, and with my son I'm a mother who can look after him. It gives me something to work towards.",
+          "sample": true
+        },
+        {
+          "q": "高老师的语气：\n王老师刚来这儿工作三年就当了教授，……",
+          "label": "课文2",
+          "a": "王老师刚来这儿工作三年就当了教授，还有个好妻子，真让人羡慕！可是李老师说，我在别人眼中也是很幸福的，因为我有一个漂亮又优秀的女儿，硕士毕业后就当了翻译。她刚拿到第一个月工资时，就拉着我和她爸去商场给我们买礼物。李老师说每个人有每个人的生活，不用羡慕别人。",
+          "vi": "Thầy Vương mới đến đây làm ba năm đã lên giáo sư, lại có vợ tốt, thật đáng ngưỡng mộ! Nhưng thầy Lý nói trong mắt người khác tôi cũng rất hạnh phúc, vì tôi có cô con gái xinh đẹp lại xuất sắc, tốt nghiệp thạc sĩ xong làm phiên dịch. Lúc vừa nhận tháng lương đầu, nó đã kéo tôi và bố nó đi trung tâm thương mại mua quà. Thầy Lý nói mỗi người có cuộc sống riêng, không cần ngưỡng mộ người khác.",
+          "en": "Mr. Wang became a professor after only three years here and has a lovely wife. I really envy him! But Mr. Li said that in other people's eyes I'm very happy too, because I have a beautiful and talented daughter who became an interpreter after her master's. When she got her first salary, she took her dad and me to the mall to buy us presents. Mr. Li said everyone has their own life and there's no need to envy others.",
+          "sample": true
+        },
+        {
+          "q": "小雨的语气：\n在选择职业时，将来的发展比收入更重要。……",
+          "label": "课文3",
+          "a": "在选择职业时，将来的发展比收入更重要。在我看来，赚钱多少不是最重要的，兴趣才是关键。只有做自己喜欢的事，才会觉得幸福。幸福其实很简单，它不是只要有钱就能买到的。我觉得工作结束回家后，洗个热水澡，然后躺在床上看看书、听听音乐，困了睡睡觉，就很幸福。",
+          "vi": "Khi chọn nghề, sự phát triển trong tương lai quan trọng hơn thu nhập. Theo tôi, kiếm nhiều hay ít tiền không quan trọng nhất, hứng thú mới là mấu chốt. Chỉ làm việc mình thích mới thấy hạnh phúc. Hạnh phúc thật ra rất đơn giản, không phải có tiền là mua được. Tôi thấy làm xong về nhà tắm nước nóng, nằm đọc sách nghe nhạc, buồn ngủ thì ngủ, như thế là rất hạnh phúc.",
+          "en": "When choosing a career, future development matters more than income. In my view, how much you earn isn't the most important thing; interest is the key. Only doing what you love makes you happy. Happiness is actually simple and can't just be bought. For me, coming home after work, a hot shower, reading and music in bed, and sleeping when tired is happiness.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "低",
+        "困",
+        "拉",
+        "永远",
+        "建议"
+      ],
+      "items": [
+        {
+          "q": "一个不知道自己缺点的人，____都不会想要去改变。",
+          "key": "永远",
+          "a": "一个不知道自己缺点的人，【永远】都不会想要去改变。",
+          "vi": "Một người không biết khuyết điểm của mình thì sẽ mãi mãi không muốn thay đổi.",
+          "en": "Someone who doesn't know their own faults will never want to change."
+        },
+        {
+          "q": "他们两个人打球的水平差不多，很难分出高____。",
+          "key": "低",
+          "a": "他们两个人打球的水平差不多，很难分出高【低】。",
+          "vi": "Trình độ chơi bóng của hai người họ ngang nhau, rất khó phân cao thấp.",
+          "en": "The two of them play at about the same level; it's hard to say who's better."
+        },
+        {
+          "q": "我刚学会开车，水平一般，还经常走错路。朋友____我平时多开车出去走走，熟悉一下道路情况，这样慢慢就好了。",
+          "key": "建议",
+          "a": "我刚学会开车，水平一般，还经常走错路。朋友【建议】我平时多开车出去走走，熟悉一下道路情况，这样慢慢就好了。",
+          "vi": "Tôi mới học lái xe, trình độ bình thường, còn hay đi nhầm đường. Bạn tôi khuyên bình thường tôi nên lái xe ra ngoài nhiều hơn để làm quen đường sá, như vậy dần dần sẽ ổn.",
+          "en": "I've only just learned to drive, I'm not very good and I often take wrong turns. A friend suggested I drive around more to get to know the roads, and gradually I'll improve."
+        },
+        {
+          "q": "解决问题时，一个人的知识常常是不够的，所以人与人之间需要交流。在交流过程中，一方面，丰富了知识，提高了能力，另一方面，又____近了人们之间的距离。",
+          "key": "拉",
+          "a": "解决问题时，一个人的知识常常是不够的，所以人与人之间需要交流。在交流过程中，一方面，丰富了知识，提高了能力，另一方面，又【拉】近了人们之间的距离。",
+          "vi": "Khi giải quyết vấn đề, kiến thức của một người thường không đủ, nên giữa người với người cần giao lưu. Trong quá trình giao lưu, một mặt làm phong phú kiến thức, nâng cao năng lực, mặt khác lại kéo gần khoảng cách giữa mọi người.",
+          "en": "When solving problems, one person's knowledge is often not enough, so people need to communicate. Communication both enriches knowledge and improves ability, and brings people closer together."
+        },
+        {
+          "q": "人比动物聪明，但动物仍然有很多值得人学习的地方。拿狮子来说，它们____的时候才睡觉，饿的时候才吃东西，永远不为昨天的事烦恼，也不为明天的事担心。",
+          "key": "困",
+          "a": "人比动物聪明，但动物仍然有很多值得人学习的地方。拿狮子来说，它们【困】的时候才睡觉，饿的时候才吃东西，永远不为昨天的事烦恼，也不为明天的事担心。",
+          "vi": "Con người thông minh hơn động vật, nhưng động vật vẫn có nhiều điều đáng để con người học hỏi. Lấy sư tử làm ví dụ, chúng buồn ngủ mới ngủ, đói mới ăn, không bao giờ phiền muộn vì chuyện hôm qua, cũng không lo lắng cho chuyện ngày mai.",
+          "en": "People are cleverer than animals, but animals still have a lot to teach us. Take lions: they only sleep when they're sleepy and eat when they're hungry; they never fret about yesterday or worry about tomorrow."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "空儿",
+        "答案",
+        "礼拜天",
+        "关键",
+        "躺"
+      ],
+      "items": [
+        {
+          "q": "A：你最近忙吗？哪天有____？\nB：干什么？又想让我陪你去逛街呀？",
+          "key": "空儿",
+          "a": "A：你最近忙吗？哪天有【空儿】？\nB：干什么？又想让我陪你去逛街呀？",
+          "vi": "A: Dạo này bạn bận không? Hôm nào rảnh?\nB: Làm gì thế? Lại muốn tôi đi dạo phố cùng à?",
+          "en": "A: Are you busy lately? When are you free?\nB: Why? Want me to go shopping with you again?"
+        },
+        {
+          "q": "A：____我们去学校的体育馆打网球吧？\nB：好啊，不过周末人会不会很多？",
+          "key": "礼拜天",
+          "a": "A：【礼拜天】我们去学校的体育馆打网球吧？\nB：好啊，不过周末人会不会很多？",
+          "vi": "A: Chủ nhật chúng ta đến nhà thi đấu của trường chơi quần vợt nhé?\nB: Được đấy, nhưng cuối tuần có đông người không?",
+          "en": "A: Shall we play tennis at the school gym on Sunday?\nB: OK, but won't it be crowded at the weekend?"
+        },
+        {
+          "q": "A：房间里这么暗，怎么不开灯呀？你身体不舒服？\nB：没有，我本来____在沙发上看书，结果睡着{zháo}了。",
+          "key": "躺",
+          "a": "A：房间里这么暗，怎么不开灯呀？你身体不舒服？\nB：没有，我本来【躺】在沙发上看书，结果睡着{zháo}了。",
+          "vi": "A: Trong phòng tối thế, sao không bật đèn? Bạn không khỏe à?\nB: Không, lúc đầu tôi nằm trên sofa đọc sách, kết quả ngủ quên mất.",
+          "en": "A: It's so dark in here. Why haven't you turned on the light? Are you unwell?\nB: No, I was lying on the sofa reading and fell asleep."
+        },
+        {
+          "q": "A：很多女孩子都希望找一个个子高的男朋友，你呢？\nB：高矮没太大关系，____是我得{děi}喜欢他、爱他。",
+          "key": "关键",
+          "a": "A：很多女孩子都希望找一个个子高的男朋友，你呢？\nB：高矮没太大关系，【关键】是我得{děi}喜欢他、爱他。",
+          "vi": "A: Nhiều cô gái muốn tìm bạn trai cao, còn bạn?\nB: Cao thấp không quan trọng lắm, điều mấu chốt là tôi phải thích anh ấy, yêu anh ấy.",
+          "en": "A: Lots of girls want a tall boyfriend. What about you?\nB: Height doesn't matter much. The key thing is that I have to like and love him."
+        },
+        {
+          "q": "A：怎么了？什么事这么不高兴？\nB：别提了，今天考试写____写到最后，发现少了一个，又来不及改了。",
+          "key": "答案",
+          "a": "A：怎么了？什么事这么不高兴？\nB：别提了，今天考试写【答案】写到最后，发现少了一个，又来不及改了。",
+          "vi": "A: Sao thế? Chuyện gì mà không vui vậy?\nB: Đừng nhắc nữa, hôm nay thi viết đáp án đến cuối mới phát hiện thiếu một câu, lại không kịp sửa.",
+          "en": "A: What's wrong? Why are you so unhappy?\nB: Don't ask. In today's exam, when I got to the end of writing my answers I found I'd missed one, and there was no time to fix it."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 经",
+    "en": "Words sharing a character: 经",
+    "words": [
+      {
+        "zh": "经济",
+        "py": "jīngjì",
+        "vi": "kinh tế",
+        "en": "economy"
+      },
+      {
+        "zh": "经验",
+        "py": "jīngyàn",
+        "vi": "kinh nghiệm",
+        "en": "experience"
+      },
+      {
+        "zh": "经历",
+        "py": "jīnglì",
+        "vi": "trải qua",
+        "en": "to go through"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "每个人在工作、学习、【经济】上都或多或少会有压力。有压力不一定是坏事，关键是要知道怎样做才能给自己减压。看电影、听音乐，还有跟朋友一起聊天儿、散步等，都是非常有效的办法。",
+        "vi": "Mỗi người trong công việc, học tập, kinh tế ít nhiều đều có áp lực. Có áp lực không nhất định là chuyện xấu, mấu chốt là phải biết làm thế nào để giảm áp lực cho bản thân. Xem phim, nghe nhạc, trò chuyện đi dạo với bạn bè… đều là những cách rất hiệu quả.",
+        "en": "Everyone has some pressure from work, study or money. Pressure isn't necessarily bad; the key is knowing how to relieve it. Watching films, listening to music, chatting or walking with friends are all very effective ways."
+      },
+      {
+        "zh": "有家广告公司正在招聘高级经理，要求是艺术专业毕业，有两年以上工作【经验】。我觉得你的条件挺适合的，可以去试试。",
+        "vi": "Có một công ty quảng cáo đang tuyển giám đốc cấp cao, yêu cầu tốt nghiệp chuyên ngành nghệ thuật, có trên hai năm kinh nghiệm làm việc. Tôi thấy điều kiện của bạn khá phù hợp, có thể thử xem.",
+        "en": "An advertising company is recruiting a senior manager. They want an art graduate with more than two years' work experience. I think you fit the bill quite well; you should give it a try."
+      },
+      {
+        "zh": "人一生中会遇到很多事情，或者愉快，或者伤心，都只能由自己去【经历】。生活是自己在过，别人说什么不重要，自己感觉快乐就行了。",
+        "vi": "Một đời người sẽ gặp rất nhiều chuyện, hoặc vui vẻ, hoặc đau lòng, đều chỉ có thể tự mình trải qua. Cuộc sống là do mình sống, người khác nói gì không quan trọng, mình thấy vui là được.",
+        "en": "In life you'll meet many things, happy or sad, and you can only go through them yourself. It's your own life; what others say doesn't matter, as long as you feel happy."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "经济",
+        "经验",
+        "经历"
+      ],
+      "items": [
+        {
+          "q": "取得成功的人都____过许多失败，他们和普通人的区别是，他们坚持了下来，正是这种坚持，使他们从失败走向了成功。",
+          "key": "经历",
+          "a": "取得成功的人都【经历】过许多失败，他们和普通人的区别是，他们坚持了下来，正是这种坚持，使他们从失败走向了成功。",
+          "vi": "Những người thành công đều đã trải qua nhiều thất bại, sự khác biệt giữa họ và người bình thường là họ đã kiên trì, chính sự kiên trì này giúp họ đi từ thất bại đến thành công.",
+          "en": "Successful people have all been through many failures. What sets them apart is that they kept going, and that persistence took them from failure to success."
+        },
+        {
+          "q": "我哥哥今年26岁，现在正在读硕士研究生，学的是____法专业。我觉得他不但能力强，而且脾气好，将来一定能找到一份很好的工作。",
+          "key": "经济",
+          "a": "我哥哥今年26岁，现在正在读硕士研究生，学的是【经济】法专业。我觉得他不但能力强，而且脾气好，将来一定能找到一份很好的工作。",
+          "vi": "Anh tôi năm nay 26 tuổi, đang học thạc sĩ chuyên ngành luật kinh tế. Tôi thấy anh ấy không những giỏi mà tính tình còn tốt, sau này nhất định tìm được việc rất tốt.",
+          "en": "My older brother is 26 and is doing a master's in economic law. He's not only capable but also good-tempered; I'm sure he'll find a great job in the future."
+        },
+        {
+          "q": "我们长大的过程，就是解决一个又一个问题，在失败中慢慢积累____，在成功中慢慢获得信心的过程。",
+          "key": "经验",
+          "a": "我们长大的过程，就是解决一个又一个问题，在失败中慢慢积累【经验】，在成功中慢慢获得信心的过程。",
+          "vi": "Quá trình chúng ta trưởng thành chính là quá trình giải quyết hết vấn đề này đến vấn đề khác, dần tích lũy kinh nghiệm từ thất bại, dần có được niềm tin từ thành công.",
+          "en": "Growing up is a process of solving one problem after another, gradually gaining experience from failure and confidence from success."
+        }
+      ]
+    }
+  }
+}

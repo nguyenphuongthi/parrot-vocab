@@ -1,0 +1,946 @@
+{
+  "n": 17,
+  "zh": "在最美好的时刻离开",
+  "vi": "Rời khỏi vào thời khắc tốt đẹp nhất",
+  "en": "Leave at the best moment",
+  "texts": [
+    {
+      "title": "在最美好的时刻离开",
+      "paras": [
+        {
+          "zh": "我奶奶说过：“人们应该在最美好的时候离开。”因为这个认知而获得诺贝尔奖的，不是我奶奶，而是心理学家丹尼尔·卡内曼。他将这一现象命名为{wéi}“峰终定律”：我们对事物的记忆仅在高峰和结尾，而事情的经过对记忆几乎没有影响。高峰之后，终点出现得越迅速，这件事留给我们的印象就越深刻。",
+          "vi": "Bà tôi từng nói: “Người ta nên rời đi vào lúc tốt đẹp nhất.” Người nhờ nhận thức này mà đoạt giải Nobel không phải bà tôi, mà là nhà tâm lý học Daniel Kahneman. Ông đặt tên cho hiện tượng này là “quy luật đỉnh – kết”: ký ức của chúng ta về sự vật chỉ nằm ở đỉnh cao và phần kết, còn diễn biến của sự việc hầu như không ảnh hưởng đến ký ức. Sau đỉnh cao, điểm kết thúc đến càng nhanh thì ấn tượng sự việc để lại cho chúng ta càng sâu sắc.",
+          "en": "My grandmother used to say, “People should leave at the best moment.” The person who won a Nobel Prize for this insight wasn't my grandmother but the psychologist Daniel Kahneman. He called the phenomenon the “peak-end rule”: our memory of an experience depends only on its peak and its end, while what happens in between has almost no effect. The sooner the end comes after the peak, the deeper the impression the experience leaves."
+        },
+        {
+          "zh": "大部分人不理解这一定律。比如说为了一场戏剧演出，我们会投入很多时间，准备服装、化妆、道具、舞台美术，以创造良好的效果，争取给观众留下一个好的印象，却常常忽视结束退场时的准备。演出开始时人们认为{wéi}很有魅力，但是糟糕的结局会给人留下难以忘记的坏印象。",
+          "vi": "Phần lớn mọi người không hiểu quy luật này. Ví dụ để chuẩn bị một buổi diễn kịch, chúng ta bỏ ra rất nhiều thời gian chuẩn bị trang phục, hóa trang, đạo cụ, mỹ thuật sân khấu, để tạo hiệu quả tốt, cố gắng để lại ấn tượng tốt cho khán giả, nhưng lại thường xem nhẹ việc chuẩn bị cho lúc kết thúc rời sân khấu. Lúc buổi diễn bắt đầu, mọi người thấy rất hấp dẫn, nhưng một cái kết tồi tệ sẽ để lại ấn tượng xấu khó quên.",
+          "en": "Most people don't understand this rule. For a play, for example, we put a lot of time into costumes, make-up, props and stage design to create a good effect and leave the audience with a good impression, but we often neglect to prepare for the ending and exit. People find the start of the show very appealing, but a bad ending leaves an unforgettable bad impression."
+        },
+        {
+          "zh": "有一次，我去参加一个婚礼，前三个小时感觉都很好，只在最后一个小时感到无聊。三个小时快乐减一个小时无聊等于两个小时快乐，也就是说，我愉快地{de}度过了两个小时。但是，我的记忆并不是这样计算的。如果我参加另外一次活动，只在那里待一个小时，早早地{de}告别，我却享受了满满60分钟的快乐。与第一次相比，第二次的聚会留给我的印象更为{wéi}美好。",
+          "vi": "Có một lần, tôi đi dự một đám cưới, ba tiếng đầu cảm thấy rất vui, chỉ có tiếng cuối cùng thấy chán. Ba tiếng vui trừ một tiếng chán bằng hai tiếng vui, tức là tôi đã trải qua hai tiếng đồng hồ vui vẻ. Nhưng trí nhớ của tôi không tính như vậy. Nếu tôi tham gia một hoạt động khác, chỉ ở đó một tiếng rồi sớm ra về, tôi lại tận hưởng trọn vẹn 60 phút vui vẻ. So với lần thứ nhất, buổi gặp mặt lần thứ hai để lại cho tôi ấn tượng tốt đẹp hơn.",
+          "en": "Once I went to a wedding. The first three hours were great; only the last hour was boring. Three hours of fun minus one hour of boredom equals two hours of fun, so I had a pleasant two hours. But my memory doesn't calculate it like that. If I go to another event, stay only an hour and leave early, I enjoy a full 60 minutes of fun. Compared with the first, the second gathering leaves a better impression."
+        },
+        {
+          "zh": "看电影也是如此。一部电影，开始虽然剧情平平常常，如果最后半个小时能使我们感动，我们依然会向别人推荐它。相反，如果在前半个小时就把剧情的创造力表现得淋漓尽致，结尾却非常普通，那么，观众对这部电影的评价就肯定不好，甚至会说这是一部“烂片”。",
+          "vi": "Xem phim cũng vậy. Một bộ phim lúc đầu tuy tình tiết bình thường, nhưng nếu nửa tiếng cuối khiến chúng ta cảm động thì chúng ta vẫn sẽ giới thiệu nó cho người khác. Ngược lại, nếu trong nửa tiếng đầu đã thể hiện hết sức sáng tạo của tình tiết, còn phần kết lại rất bình thường, thì đánh giá của khán giả về bộ phim này chắc chắn không tốt, thậm chí còn nói đây là một “phim dở”.",
+          "en": "Films are the same. Even if a film's plot is ordinary at first, if the last half hour moves us, we'll still recommend it to others. Conversely, if all the plot's creativity is used up in the first half hour and the ending is very ordinary, viewers will certainly rate the film badly, and may even call it a “bad film”."
+        },
+        {
+          "zh": "作为{wéi}电视节目主持人，我在工作中常常会运用“峰终定律”。例如，做节目时，与开幕式相比，我们宁可把更多的精力集中在闭幕式上，这样可以加强观众对节目的印象。虽然很多人并不了解“峰终定律”，但是，他们能从经验中体会这种做法的重要性。",
+          "vi": "Là người dẫn chương trình truyền hình, tôi thường vận dụng “quy luật đỉnh – kết” trong công việc. Ví dụ, khi làm chương trình, so với lễ khai mạc, chúng tôi thà dồn nhiều tâm sức hơn vào lễ bế mạc, như vậy có thể tăng cường ấn tượng của khán giả về chương trình. Tuy nhiều người không hiểu “quy luật đỉnh – kết”, nhưng họ có thể từ kinh nghiệm mà nhận ra tầm quan trọng của cách làm này.",
+          "en": "As a TV presenter, I often apply the peak-end rule in my work. For example, when making a programme, we'd rather concentrate more energy on the closing ceremony than on the opening one, because that strengthens the audience's impression of the show. Although many people don't know about the peak-end rule, they can recognize the importance of this approach from experience."
+        }
+      ],
+      "source": "改编自《广州日报》，作者：埃卡特·冯·希施豪森，陈晓川译",
+      "words": [
+        {
+          "zh": "事物",
+          "py": "shìwù",
+          "pos": "dt.",
+          "vi": "sự vật",
+          "en": "thing, object"
+        },
+        {
+          "zh": "高峰",
+          "py": "gāofēng",
+          "pos": "dt.",
+          "vi": "đỉnh cao, cao điểm",
+          "en": "peak",
+          "x": true
+        },
+        {
+          "zh": "终点",
+          "py": "zhōngdiǎn",
+          "pos": "dt.",
+          "vi": "điểm cuối cùng, điểm kết thúc",
+          "en": "end point",
+          "x": true
+        },
+        {
+          "zh": "迅速",
+          "py": "xùnsù",
+          "pos": "tt.",
+          "vi": "nhanh chóng",
+          "en": "rapid"
+        },
+        {
+          "zh": "深刻",
+          "py": "shēnkè",
+          "pos": "tt.",
+          "vi": "sâu sắc",
+          "en": "deep, profound"
+        },
+        {
+          "zh": "戏剧",
+          "py": "xìjù",
+          "pos": "dt.",
+          "vi": "kịch, vở tuồng",
+          "en": "drama, play"
+        },
+        {
+          "zh": "投入",
+          "py": "tóurù",
+          "pos": "đgt./dt./tt.",
+          "vi": "đưa vào, bỏ vốn; kinh phí đầu tư; xuất thần",
+          "en": "to put in; investment; absorbed"
+        },
+        {
+          "zh": "服装",
+          "py": "fúzhuāng",
+          "pos": "dt.",
+          "vi": "trang phục",
+          "en": "costume, clothing"
+        },
+        {
+          "zh": "化妆",
+          "py": "huà zhuāng",
+          "pos": "đgt.",
+          "vi": "trang điểm",
+          "en": "to put on make-up",
+          "x": true
+        },
+        {
+          "zh": "道具",
+          "py": "dàojù",
+          "pos": "dt.",
+          "vi": "đạo cụ",
+          "en": "prop",
+          "x": true
+        },
+        {
+          "zh": "美术",
+          "py": "měishù",
+          "pos": "dt.",
+          "vi": "nghệ thuật tạo hình",
+          "en": "fine arts"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "pos": "liên.",
+          "vi": "để, nhằm",
+          "en": "in order to"
+        },
+        {
+          "zh": "良好",
+          "py": "liánghǎo",
+          "pos": "tt.",
+          "vi": "tốt đẹp, tốt",
+          "en": "good"
+        },
+        {
+          "zh": "争取",
+          "py": "zhēngqǔ",
+          "pos": "đgt.",
+          "vi": "cố gắng, tranh thủ, giành",
+          "en": "to strive for"
+        },
+        {
+          "zh": "忽视",
+          "py": "hūshì",
+          "pos": "đgt.",
+          "vi": "xem nhẹ, không chú ý",
+          "en": "to neglect, to overlook"
+        },
+        {
+          "zh": "魅力",
+          "py": "mèilì",
+          "pos": "dt.",
+          "vi": "sức hấp dẫn",
+          "en": "charm"
+        },
+        {
+          "zh": "糟糕",
+          "py": "zāogāo",
+          "pos": "tt.",
+          "vi": "tồi tệ, hỏng bét",
+          "en": "terrible"
+        },
+        {
+          "zh": "婚礼",
+          "py": "hūnlǐ",
+          "pos": "dt.",
+          "vi": "lễ cưới",
+          "en": "wedding"
+        },
+        {
+          "zh": "等于",
+          "py": "děngyú",
+          "pos": "đgt.",
+          "vi": "bằng",
+          "en": "to equal"
+        },
+        {
+          "zh": "度过",
+          "py": "dùguò",
+          "pos": "đgt.",
+          "vi": "trải qua",
+          "en": "to spend (time)"
+        },
+        {
+          "zh": "告别",
+          "py": "gàobié",
+          "pos": "đgt.",
+          "vi": "tạm biệt, từ biệt",
+          "en": "to say goodbye"
+        },
+        {
+          "zh": "平常",
+          "py": "píngcháng",
+          "pos": "tt./dt.",
+          "vi": "bình thường; ngày thường",
+          "en": "ordinary; usually"
+        },
+        {
+          "zh": "依然",
+          "py": "yīrán",
+          "pos": "phó.",
+          "vi": "vẫn, vẫn như cũ",
+          "en": "still"
+        },
+        {
+          "zh": "推荐",
+          "py": "tuījiàn",
+          "pos": "đgt.",
+          "vi": "giới thiệu, tiến cử",
+          "en": "to recommend"
+        },
+        {
+          "zh": "淋漓尽致",
+          "py": "línlí jìnzhì",
+          "vi": "tinh tế, triệt để",
+          "en": "to the full, thoroughly",
+          "x": true
+        },
+        {
+          "zh": "评价",
+          "py": "píngjià",
+          "pos": "đgt./dt.",
+          "vi": "đánh giá; sự đánh giá",
+          "en": "to evaluate; evaluation"
+        },
+        {
+          "zh": "烂",
+          "py": "làn",
+          "pos": "tt.",
+          "vi": "dở, tệ, thối rữa, rách nát",
+          "en": "bad, rotten"
+        },
+        {
+          "zh": "主持",
+          "py": "zhǔchí",
+          "pos": "đgt./dt.",
+          "vi": "chủ trì; người chủ trì",
+          "en": "to host; host"
+        },
+        {
+          "zh": "运用",
+          "py": "yùnyòng",
+          "pos": "đgt.",
+          "vi": "vận dụng, áp dụng",
+          "en": "to apply, to use"
+        },
+        {
+          "zh": "开幕式",
+          "py": "kāimùshì",
+          "pos": "dt.",
+          "vi": "lễ khai mạc",
+          "en": "opening ceremony"
+        },
+        {
+          "zh": "宁可",
+          "py": "nìngkě",
+          "pos": "phó.",
+          "vi": "thà rằng, thà",
+          "en": "would rather"
+        },
+        {
+          "zh": "集中",
+          "py": "jízhōng",
+          "pos": "đgt./tt.",
+          "vi": "tập trung; chăm chú",
+          "en": "to concentrate; concentrated"
+        },
+        {
+          "zh": "体会",
+          "py": "tǐhuì",
+          "pos": "đgt./dt.",
+          "vi": "hiểu rõ, nhận thức rõ; nhận thức",
+          "en": "to realize; understanding"
+        }
+      ],
+      "names": [
+        {
+          "zh": "诺贝尔奖",
+          "py": "Nuòbèi'ěr Jiǎng",
+          "vi": "Giải Nô-ben",
+          "en": "the Nobel Prize"
+        },
+        {
+          "zh": "丹尼尔·卡内曼",
+          "py": "Dānní'ěr Kǎnèimàn",
+          "vi": "Daniel Kahneman",
+          "en": "Daniel Kahneman"
+        },
+        {
+          "zh": "峰终定律",
+          "py": "Fēngzhōng Dìnglǜ",
+          "vi": "Quy luật cao điểm – điểm cuối cùng",
+          "en": "the peak-end rule"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "以",
+      "uses": [
+        {
+          "vi": "以 là giới từ, thường dùng trong văn viết, có nghĩa “用、拿、凭借” (dùng, lấy, bằng, dựa vào).",
+          "en": "以 is a preposition, mostly written, meaning 用, 拿 or 凭借 (with, by means of, as).",
+          "ex": [
+            {
+              "zh": "同年4月，（微信）【以】英文名WeChat正式进入国际市场。",
+              "vi": "Tháng 4 cùng năm, (Weixin) chính thức tiến vào thị trường quốc tế với tên tiếng Anh WeChat.",
+              "en": "In April of the same year, Weixin officially entered the international market under the English name WeChat."
+            },
+            {
+              "zh": "……学生分为{wéi}甲乙两队，【以】足球为{wéi}比赛工具向篮内投，按得分多少决定输赢。",
+              "vi": "…học sinh chia thành hai đội A và B, lấy quả bóng đá làm dụng cụ thi đấu ném vào giỏ, dựa vào điểm nhiều ít để quyết định thắng thua.",
+              "en": "…the students were divided into teams A and B, used a football as the ball to throw into the basket, and the score decided who won."
+            }
+          ]
+        },
+        {
+          "vi": "以 cũng có thể làm liên từ, thường dùng trong văn viết, biểu thị mục đích (để, nhằm).",
+          "en": "以 can also be a conjunction, mostly written, expressing purpose (in order to, so as to).",
+          "ex": [
+            {
+              "zh": "虽然我们已经老了，但还要坚持学习，【以】适应社会的发展。",
+              "vi": "Tuy chúng ta đã già rồi nhưng vẫn phải kiên trì học tập để thích ứng với sự phát triển của xã hội.",
+              "en": "Although we're old now, we must keep learning in order to keep up with society."
+            },
+            {
+              "zh": "比如说为了一场戏剧演出，我们会投入很多时间，准备服装、化妆、道具、舞台美术，【以】创造良好的效果，……",
+              "vi": "Ví dụ để chuẩn bị một buổi diễn kịch, chúng ta bỏ ra rất nhiều thời gian chuẩn bị trang phục, hóa trang, đạo cụ, mỹ thuật sân khấu để tạo hiệu quả tốt, …",
+              "en": "For a play, for example, we put a lot of time into costumes, make-up, props and stage design to create a good effect, …"
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "A：你知道济南的泉水是怎么命名的吗？\nB：____。",
+            "hint": "以 – giới từ",
+            "a": "A：你知道济南的泉水是怎么命名的吗？\nB：【很多泉水是以它们的样子或声音来命名的】。",
+            "vi": "A: Bạn có biết các con suối ở Tế Nam được đặt tên thế nào không?\nB: Nhiều con suối được đặt tên dựa theo hình dáng hoặc âm thanh của chúng.",
+            "en": "A: Do you know how Jinan's springs got their names?\nB: Many are named after their shape or the sound they make.",
+            "sample": true
+          },
+          {
+            "q": "这一个月来，我天天训练，____。",
+            "hint": "以 – liên từ",
+            "a": "这一个月来，我天天训练，【以取得更好的成绩】。",
+            "vi": "Một tháng nay ngày nào tôi cũng luyện tập để đạt thành tích tốt hơn.",
+            "en": "For the past month I've trained every day so as to get better results.",
+            "sample": true
+          },
+          {
+            "q": "虽然他不回信，但我还是坚持给他写，____。",
+            "hint": "以 – liên từ",
+            "a": "虽然他不回信，但我还是坚持给他写，【以表达我对他的关心】。",
+            "vi": "Tuy anh ấy không trả lời thư, nhưng tôi vẫn kiên trì viết cho anh ấy để bày tỏ sự quan tâm của mình.",
+            "en": "Although he doesn't reply, I keep writing to him to show that I care.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "平常",
+      "uses": [
+        {
+          "vi": "平常 là tính từ, biểu thị bình thường, không có gì đặc biệt.",
+          "en": "平常 is an adjective meaning ordinary, nothing special.",
+          "ex": [
+            {
+              "zh": "对小王来说，今天是一个不【平常】的日子，因为他今天第一天上班。",
+              "vi": "Đối với Tiểu Vương, hôm nay là một ngày không bình thường, vì hôm nay là ngày đầu tiên anh ấy đi làm.",
+              "en": "For Xiao Wang, today is no ordinary day, because it's his first day at work."
+            },
+            {
+              "zh": "一部电影，开始虽然剧情【平平常常】，如果最后半个小时能使我们感动，我们依然会向别人推荐它。",
+              "vi": "Một bộ phim lúc đầu tuy tình tiết bình thường, nhưng nếu nửa tiếng cuối khiến chúng ta cảm động thì chúng ta vẫn sẽ giới thiệu nó cho người khác.",
+              "en": "Even if a film's plot is ordinary at first, if the last half hour moves us, we'll still recommend it."
+            }
+          ]
+        },
+        {
+          "vi": "平常 cũng có thể làm danh từ, có nghĩa “平时” (ngày thường, bình thường).",
+          "en": "平常 can also be a noun meaning 平时 (usually, normally).",
+          "ex": [
+            {
+              "zh": "他【平常】总是来得很早，今天却迟到了。",
+              "vi": "Bình thường anh ấy luôn đến rất sớm, hôm nay lại đến muộn.",
+              "en": "He's usually very early, but today he was late."
+            },
+            {
+              "zh": "校长又告诉老师们，对待这些孩子，要像【平常】一样，不要让孩子或家长知道他们是被选出来的。",
+              "vi": "Hiệu trưởng lại dặn các thầy cô, đối xử với những đứa trẻ này phải như bình thường, đừng để trẻ hay phụ huynh biết chúng được chọn ra.",
+              "en": "The principal also told the teachers to treat these children as usual and not let them or their parents know they'd been selected."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "A：你觉得这本书怎么样？\nB：____。",
+            "hint": "平常 – tính từ",
+            "a": "A：你觉得这本书怎么样？\nB：【内容很平常，没什么特别的】。",
+            "vi": "A: Bạn thấy cuốn sách này thế nào?\nB: Nội dung rất bình thường, chẳng có gì đặc biệt.",
+            "en": "A: What do you think of this book?\nB: The content is very ordinary; nothing special.",
+            "sample": true
+          },
+          {
+            "q": "____，考试前就不用这么紧张了。",
+            "hint": "平常 – danh từ",
+            "a": "【平常多努力学习】，考试前就不用这么紧张了。",
+            "vi": "Bình thường chăm chỉ học hơn thì trước khi thi không cần căng thẳng như vậy.",
+            "en": "If you work harder normally, you won't need to be so nervous before exams.",
+            "sample": true
+          },
+          {
+            "q": "A：____。\nB：我一般都是自己做饭吃。",
+            "hint": "平常 – danh từ",
+            "a": "A：【你平常在哪儿吃饭】？\nB：我一般都是自己做饭吃。",
+            "vi": "A: Bình thường bạn ăn cơm ở đâu?\nB: Tôi thường tự nấu ăn.",
+            "en": "A: Where do you usually eat?\nB: I usually cook for myself.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "宁可",
+      "uses": [
+        {
+          "vi": "宁可 là phó từ, biểu thị sau khi so sánh thì chọn phía tương đối có lợi hơn (thà, thà rằng).",
+          "en": "宁可 is an adverb meaning that, after comparison, one chooses the relatively better option (would rather).",
+          "ex": [
+            {
+              "zh": "作为{wéi}母亲，她【宁可】自己累一点儿，也不想委屈了孩子。",
+              "vi": "Là một người mẹ, cô ấy thà mình mệt một chút cũng không muốn con chịu thiệt.",
+              "en": "As a mother, she'd rather tire herself out a bit than let her child go without."
+            },
+            {
+              "zh": "为什么大家【宁可】挤成一团，也不去没人的那边？",
+              "vi": "Sao mọi người thà chen chúc thành một đám cũng không sang phía không có người?",
+              "en": "Why would everyone rather crowd together than go over to the empty side?"
+            },
+            {
+              "zh": "……做节目时，与开幕式相比，我们【宁可】把更多的精力集中在闭幕式上，……",
+              "vi": "…khi làm chương trình, so với lễ khai mạc, chúng tôi thà dồn nhiều tâm sức hơn vào lễ bế mạc, …",
+              "en": "…when making a programme, we'd rather concentrate more energy on the closing ceremony than the opening one, …"
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "我宁可花钱去餐厅吃，____。",
+            "hint": "宁可",
+            "a": "我宁可花钱去餐厅吃，【也不想自己在家做饭】。",
+            "vi": "Tôi thà bỏ tiền ra nhà hàng ăn cũng không muốn tự nấu ở nhà.",
+            "en": "I'd rather pay to eat at a restaurant than cook at home.",
+            "sample": true
+          },
+          {
+            "q": "为了把这篇文章写好，____。",
+            "hint": "宁可",
+            "a": "为了把这篇文章写好，【他宁可不睡觉】。",
+            "vi": "Để viết tốt bài văn này, anh ấy thà không ngủ.",
+            "en": "To write this article well, he'd rather go without sleep.",
+            "sample": true
+          },
+          {
+            "q": "A：这次旅行，你觉得我们是坐飞机去好还是坐火车去好？\nB：____。",
+            "hint": "宁可",
+            "a": "A：这次旅行，你觉得我们是坐飞机去好还是坐火车去好？\nB：【我宁可多花点儿钱坐飞机，也不想在火车上坐二十多个小时】。",
+            "vi": "A: Chuyến đi lần này, bạn thấy chúng ta đi máy bay hay đi tàu hỏa thì hơn?\nB: Tôi thà tốn thêm chút tiền đi máy bay, cũng không muốn ngồi tàu hơn hai mươi tiếng.",
+            "en": "A: For this trip, do you think it's better to fly or take the train?\nB: I'd rather pay a bit more and fly than sit on a train for over twenty hours.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "忽视—轻视",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: 忽视 và 轻视 đều biểu thị không chú ý, không coi trọng, trong một số câu có thể thay thế cho nhau nhưng ý nhấn mạnh khác nhau.",
+          "en": "Similarity: 忽视 and 轻视 both mean not paying attention or not valuing something. In some sentences they're interchangeable, but the emphasis differs.",
+          "ex": [
+            {
+              "zh": "他只注重理论，【忽视】/【轻视】实践，所以失败了。",
+              "vi": "Anh ấy chỉ chú trọng lý luận, xem nhẹ / coi thường thực tiễn nên đã thất bại.",
+              "en": "He only cared about theory and neglected / looked down on practice, so he failed."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 1: 忽视 nhấn mạnh việc không nghĩ tới (xem nhẹ, bỏ qua); 轻视 nhấn mạnh việc coi thường (khinh thường).",
+          "en": "Difference 1: 忽视 stresses not having thought of something (to overlook); 轻视 stresses looking down on it (to belittle).",
+          "ex": [
+            {
+              "zh": "他忙得【忽视】了去医院看病。",
+              "vi": "Anh ấy bận đến mức quên cả đi bệnh viện khám bệnh.",
+              "en": "He was so busy he neglected to see a doctor."
+            },
+            {
+              "zh": "你可别【轻视】他，他看起来很平常，其实很能干。",
+              "vi": "Bạn đừng coi thường anh ấy, anh ấy trông rất bình thường nhưng thật ra rất giỏi.",
+              "en": "Don't underestimate him. He looks ordinary, but he's actually very capable."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: Về thái độ, 忽视 có thể là vô ý, cũng có thể là cố ý; 轻视 thường là cố ý hoặc có chọn lọc.",
+          "en": "Difference 2: in attitude, 忽视 can be unintentional or deliberate; 轻视 is usually deliberate or selective.",
+          "ex": [
+            {
+              "zh": "我们常常【忽视】结束退场时的准备，演出开始时人们认为{wéi}很有魅力，但是糟糕的结局会给人留下难以忘记的坏印象。",
+              "vi": "Chúng ta thường xem nhẹ việc chuẩn bị cho lúc kết thúc rời sân khấu, lúc bắt đầu mọi người thấy rất hấp dẫn, nhưng cái kết tồi tệ sẽ để lại ấn tượng xấu khó quên.",
+              "en": "We often neglect to prepare for the ending; people find the start very appealing, but a bad ending leaves an unforgettable bad impression."
+            },
+            {
+              "zh": "虽然这是一次小考，你也不能【轻视】，要好好复习。",
+              "vi": "Tuy đây chỉ là một bài kiểm tra nhỏ, bạn cũng không được coi thường, phải ôn tập cho tốt.",
+              "en": "Even though it's only a small test, don't take it lightly; revise properly."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "以前我们____了教育问题，现在要赶上去。",
+            "key": "忽视 ✓ · 轻视 ✗",
+            "a": "以前我们【忽视】了教育问题，现在要赶上去。",
+            "vi": "Trước đây chúng ta đã xem nhẹ vấn đề giáo dục, bây giờ phải đuổi kịp.",
+            "en": "We used to neglect education; now we need to catch up."
+          },
+          {
+            "q": "我们过多地{de}看电视、玩手机，____了家人之间的交流。",
+            "key": "忽视 ✓ · 轻视 ✗",
+            "a": "我们过多地{de}看电视、玩手机，【忽视】了家人之间的交流。",
+            "vi": "Chúng ta xem tivi, chơi điện thoại quá nhiều mà bỏ quên giao tiếp giữa người trong gia đình.",
+            "en": "We watch too much TV and spend too much time on our phones, neglecting communication within the family."
+          },
+          {
+            "q": "虽然这是一份平常的工作，你也不能____，要认真做好。",
+            "key": "忽视 ✗ · 轻视 ✓",
+            "a": "虽然这是一份平常的工作，你也不能【轻视】，要认真做好。",
+            "vi": "Tuy đây là một công việc bình thường, bạn cũng không được coi thường, phải làm cho nghiêm túc.",
+            "en": "Although it's an ordinary job, you mustn't look down on it; do it properly."
+          },
+          {
+            "q": "你不要因为他是小孩子就____他。",
+            "key": "忽视 ✗ · 轻视 ✓",
+            "a": "你不要因为他是小孩子就【轻视】他。",
+            "vi": "Bạn đừng vì cậu ấy là trẻ con mà coi thường cậu ấy.",
+            "en": "Don't look down on him just because he's a child."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "争取",
+            "时间/机会/胜利/项目/考好/准时到/提前结束"
+          ],
+          "vi": "tranh thủ thời gian / giành cơ hội / giành thắng lợi / giành dự án / cố gắng thi tốt / cố gắng đến đúng giờ / cố gắng kết thúc sớm",
+          "en": "make the most of time / strive for an opportunity / victory / a project / to do well in exams / to arrive on time / to finish early"
+        },
+        {
+          "zh": [
+            "主持",
+            "会议/工作/项目"
+          ],
+          "vi": "chủ trì cuộc họp / công việc / dự án",
+          "en": "chair a meeting / be in charge of work / a project"
+        }
+      ]
+    },
+    {
+      "a": "定语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "深刻的",
+            "印象/记忆/道理"
+          ],
+          "vi": "ấn tượng / ký ức sâu sắc / đạo lý sâu sắc",
+          "en": "a deep impression / memory / profound truth"
+        },
+        {
+          "zh": [
+            "烂",
+            "苹果/衣服/片"
+          ],
+          "vi": "táo thối / quần áo rách / phim dở",
+          "en": "rotten apples / tattered clothes / a bad film"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "迅速（地{de}）",
+            "提高/产生/出现/采取措施/做出反应"
+          ],
+          "vi": "nhanh chóng nâng cao / nảy sinh / xuất hiện / áp dụng biện pháp / phản ứng",
+          "en": "rapidly improve / arise / appear / take measures / react"
+        },
+        {
+          "zh": [
+            "正确/灵活/成功/科学/广泛（地{de}）",
+            "运用"
+          ],
+          "vi": "vận dụng đúng / linh hoạt / thành công / khoa học / rộng rãi",
+          "en": "apply correctly / flexibly / successfully / scientifically / widely"
+        }
+      ]
+    },
+    {
+      "a": "中心语",
+      "b": "补语",
+      "rows": [
+        {
+          "zh": [
+            "集中",
+            "在……/到……/起来"
+          ],
+          "vi": "tập trung vào… / tập trung đến… / tập trung lại",
+          "en": "concentrate on… / gather at… / gather together"
+        },
+        {
+          "zh": [
+            "体会",
+            "到……/出……/一下"
+          ],
+          "vi": "nhận ra… / cảm nhận được… / thử cảm nhận",
+          "en": "realize… / perceive… / try to experience"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "度过",
+        "集中",
+        "体会",
+        "推荐",
+        "运用",
+        "争取"
+      ],
+      "items": [
+        {
+          "q": "我刚开始学滑雪的时候，最大的____就是要放松，越紧张越容易摔倒。",
+          "key": "体会",
+          "a": "我刚开始学滑雪的时候，最大的【体会】就是要放松，越紧张越容易摔倒。",
+          "vi": "Lúc mới bắt đầu học trượt tuyết, điều tôi nhận ra lớn nhất là phải thả lỏng, càng căng thẳng càng dễ ngã.",
+          "en": "When I first learned to ski, the biggest lesson was to relax: the more tense you are, the more easily you fall."
+        },
+        {
+          "q": "学知识不能死记硬背，要懂得灵活地{de}____。",
+          "key": "运用",
+          "a": "学知识不能死记硬背，要懂得灵活地{de}【运用】。",
+          "vi": "Học kiến thức không thể học vẹt, phải biết vận dụng linh hoạt.",
+          "en": "You can't learn by rote; you need to know how to apply knowledge flexibly."
+        },
+        {
+          "q": "你复习时要____注意力，效果才会好。",
+          "key": "集中",
+          "a": "你复习时要【集中】注意力，效果才会好。",
+          "vi": "Khi ôn tập bạn phải tập trung chú ý thì hiệu quả mới tốt.",
+          "en": "You need to concentrate when you revise if you want good results."
+        },
+        {
+          "q": "一些现代营养学专家常常向大家____“餐餐有蔬菜，每天有水果”。",
+          "key": "推荐",
+          "a": "一些现代营养学专家常常向大家【推荐】“餐餐有蔬菜，每天有水果”。",
+          "vi": "Một số chuyên gia dinh dưỡng hiện đại thường khuyên mọi người “bữa nào cũng có rau, ngày nào cũng có hoa quả”.",
+          "en": "Some modern nutritionists often recommend “vegetables at every meal and fruit every day”."
+        },
+        {
+          "q": "我在外公外婆身边____了美好的童年。",
+          "key": "度过",
+          "a": "我在外公外婆身边【度过】了美好的童年。",
+          "vi": "Tôi đã trải qua tuổi thơ tươi đẹp bên ông bà ngoại.",
+          "en": "I spent a happy childhood with my maternal grandparents."
+        },
+        {
+          "q": "机会要靠自己去____。",
+          "key": "争取",
+          "a": "机会要靠自己去【争取】。",
+          "vi": "Cơ hội phải dựa vào bản thân giành lấy.",
+          "en": "You have to go after opportunities yourself."
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "大家要迅速地{de}熟悉新产品，____更好地{de}向顾客推广。",
+          "opts": [
+            "A. 用",
+            "B. 以"
+          ],
+          "key": "B",
+          "a": "大家要迅速地{de}熟悉新产品，【以】更好地{de}向顾客推广。",
+          "vi": "Mọi người phải nhanh chóng làm quen với sản phẩm mới để giới thiệu cho khách hàng tốt hơn.",
+          "en": "Everyone must quickly get to know the new products so as to promote them better to customers."
+        },
+        {
+          "q": "这次旅行给我留下了____的印象。",
+          "opts": [
+            "A. 深",
+            "B. 深刻"
+          ],
+          "key": "B",
+          "a": "这次旅行给我留下了【深刻】的印象。",
+          "vi": "Chuyến đi lần này để lại cho tôi ấn tượng sâu sắc.",
+          "en": "This trip left a deep impression on me."
+        },
+        {
+          "q": "这部电影很____，我觉得没必要去看。",
+          "opts": [
+            "A. 平常",
+            "B. 平时"
+          ],
+          "key": "A",
+          "a": "这部电影很【平常】，我觉得没必要去看。",
+          "vi": "Bộ phim này rất bình thường, tôi thấy không cần thiết phải đi xem.",
+          "en": "This film is very ordinary; I don't think it's worth seeing."
+        },
+        {
+          "q": "他被____为{wéi}本校今年的十大“优秀毕业生”之一。",
+          "opts": [
+            "A. 评价",
+            "B. 评"
+          ],
+          "key": "B",
+          "a": "他被【评】为{wéi}本校今年的十大“优秀毕业生”之一。",
+          "vi": "Anh ấy được bình chọn là một trong mười “sinh viên tốt nghiệp xuất sắc” của trường năm nay.",
+          "en": "He was named one of the school's top ten “outstanding graduates” this year."
+        }
+      ]
+    },
+    {
+      "title": "给括号里的词选择适当的位置",
+      "items": [
+        {
+          "q": "事情A发生后，领导B采取了C措施，D积极应对。",
+          "hint": "迅速",
+          "key": "B",
+          "a": "事情发生后，领导【迅速】采取了措施，积极应对。",
+          "vi": "Sau khi sự việc xảy ra, lãnh đạo nhanh chóng áp dụng biện pháp, tích cực ứng phó.",
+          "en": "After the incident, the leadership quickly took measures and responded actively."
+        },
+        {
+          "q": "A三加五B是C八D吗？",
+          "hint": "等于",
+          "key": "B",
+          "a": "三加五【等于】八吗？",
+          "vi": "Ba cộng năm bằng tám phải không?",
+          "en": "Does three plus five equal eight?"
+        },
+        {
+          "q": "十几年A过去了，B她C那么D美丽。",
+          "hint": "依然",
+          "key": "C",
+          "a": "十几年过去了，她【依然】那么美丽。",
+          "vi": "Mười mấy năm trôi qua, cô ấy vẫn đẹp như vậy.",
+          "en": "More than ten years have passed, and she's still as beautiful as ever."
+        },
+        {
+          "q": "A我B多C花点儿钱，D也要买一个质量好点儿的。",
+          "hint": "宁可",
+          "key": "B",
+          "a": "我【宁可】多花点儿钱，也要买一个质量好点儿的。",
+          "vi": "Tôi thà tốn thêm chút tiền cũng phải mua cái chất lượng tốt hơn.",
+          "en": "I'd rather spend a bit more and buy something better quality."
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "峰终定律",
+          "hint": "事物、迅速、深刻",
+          "a": "心理学家卡内曼提出了“峰终定律”：我们对【事物】的记忆仅在高峰和结尾。高峰之后，终点出现得越【迅速】，这件事留给我们的印象就越【深刻】。",
+          "vi": "Nhà tâm lý học Kahneman đưa ra “quy luật đỉnh – kết”: ký ức của chúng ta về sự vật chỉ nằm ở đỉnh cao và phần kết. Sau đỉnh cao, điểm kết thúc đến càng nhanh thì ấn tượng để lại càng sâu sắc.",
+          "en": "The psychologist Kahneman proposed the peak-end rule: our memory of things depends only on the peak and the end. The sooner the end comes after the peak, the deeper the impression.",
+          "sample": true
+        },
+        {
+          "q": "准备演出",
+          "hint": "戏剧、以、争取、忽视、糟糕",
+          "a": "为了一场【戏剧】演出，我们会投入很多时间准备服装、化妆、道具，【以】创造良好的效果，【争取】给观众留下好的印象，却常常【忽视】结束退场时的准备，【糟糕】的结局会给人留下难以忘记的坏印象。",
+          "vi": "Để chuẩn bị một buổi diễn kịch, chúng ta bỏ ra nhiều thời gian chuẩn bị trang phục, hóa trang, đạo cụ để tạo hiệu quả tốt, cố gắng để lại ấn tượng tốt cho khán giả, nhưng lại thường xem nhẹ việc chuẩn bị cho lúc kết thúc, cái kết tồi tệ sẽ để lại ấn tượng xấu khó quên.",
+          "en": "For a play, we spend a lot of time on costumes, make-up and props to create a good effect and impress the audience, but often neglect the ending; a bad ending leaves an unforgettable bad impression.",
+          "sample": true
+        },
+        {
+          "q": "参加活动",
+          "hint": "婚礼、等于、度过、告别",
+          "a": "“我”参加一个【婚礼】，前三个小时很好，最后一个小时无聊。三个小时快乐减一个小时无聊【等于】两个小时快乐，可是记忆并不这样计算。如果在另一次活动中只待一个小时就早早地{de}【告别】，愉快地{de}【度过】60分钟，印象反而更美好。",
+          "vi": "“Tôi” dự một đám cưới, ba tiếng đầu rất vui, tiếng cuối thấy chán. Ba tiếng vui trừ một tiếng chán bằng hai tiếng vui, nhưng trí nhớ không tính như vậy. Nếu ở một hoạt động khác chỉ ở một tiếng rồi sớm ra về, vui vẻ trải qua 60 phút, ấn tượng lại tốt đẹp hơn.",
+          "en": "“I” went to a wedding: the first three hours were great, the last boring. Three hours of fun minus one of boredom equals two of fun, but memory doesn't count like that. If you stay just an hour at another event, leave early and enjoy 60 minutes, the impression is actually better.",
+          "sample": true
+        },
+        {
+          "q": "看电影",
+          "hint": "平常、依然、评价",
+          "a": "一部电影开始虽然剧情【平常】，如果最后能使我们感动，我们【依然】会向别人推荐它。相反，如果结尾非常普通，观众的【评价】就肯定不好。",
+          "vi": "Một bộ phim lúc đầu tình tiết bình thường, nhưng nếu cuối cùng khiến chúng ta cảm động, chúng ta vẫn sẽ giới thiệu cho người khác. Ngược lại, nếu phần kết rất bình thường thì đánh giá của khán giả chắc chắn không tốt.",
+          "en": "Even if a film starts with an ordinary plot, if the end moves us we'll still recommend it. Conversely, if the ending is very ordinary, viewers will certainly rate it badly.",
+          "sample": true
+        },
+        {
+          "q": "做节目",
+          "hint": "主持、运用、宁可、体会",
+          "a": "作为{wéi}电视节目【主持】人，“我”常常【运用】“峰终定律”。做节目时，我们【宁可】把更多的精力集中在闭幕式上。很多人能从经验中【体会】这种做法的重要性。",
+          "vi": "Là người dẫn chương trình truyền hình, “tôi” thường vận dụng “quy luật đỉnh – kết”. Khi làm chương trình, chúng tôi thà dồn nhiều tâm sức hơn vào lễ bế mạc. Nhiều người có thể từ kinh nghiệm mà nhận ra tầm quan trọng của cách làm này.",
+          "en": "As a TV presenter, “I” often apply the peak-end rule: we'd rather put more energy into the closing ceremony. Many people recognize the importance of this from experience.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "医务2",
+    "vi": "Y tế (2)",
+    "en": "Medical (2)",
+    "words": [
+      {
+        "zh": "诊断",
+        "py": "zhěnduàn",
+        "vi": "chẩn đoán",
+        "en": "to diagnose"
+      },
+      {
+        "zh": "手术",
+        "py": "shǒushù",
+        "vi": "phẫu thuật",
+        "en": "operation, surgery"
+      },
+      {
+        "zh": "血",
+        "py": "xiě/xuè",
+        "vi": "máu",
+        "en": "blood"
+      },
+      {
+        "zh": "肌肉",
+        "py": "jīròu",
+        "vi": "cơ bắp",
+        "en": "muscle"
+      },
+      {
+        "zh": "骨头",
+        "py": "gǔtou",
+        "vi": "xương",
+        "en": "bone"
+      },
+      {
+        "zh": "胃",
+        "py": "wèi",
+        "vi": "dạ dày",
+        "en": "stomach"
+      },
+      {
+        "zh": "心脏",
+        "py": "xīnzàng",
+        "vi": "tim",
+        "en": "heart"
+      },
+      {
+        "zh": "病毒",
+        "py": "bìngdú",
+        "vi": "virus",
+        "en": "virus"
+      },
+      {
+        "zh": "传染",
+        "py": "chuánrǎn",
+        "vi": "truyền nhiễm, lây",
+        "en": "to infect"
+      },
+      {
+        "zh": "寿命",
+        "py": "shòumìng",
+        "vi": "tuổi thọ",
+        "en": "lifespan"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "医生还在为他____病情，请耐心地{de}等待。",
+          "key": "诊断",
+          "a": "医生还在为他【诊断】病情，请耐心地{de}等待。",
+          "vi": "Bác sĩ vẫn đang chẩn đoán bệnh cho anh ấy, xin kiên nhẫn chờ đợi.",
+          "en": "The doctor is still diagnosing his condition. Please wait patiently."
+        },
+        {
+          "q": "我的电脑速度越来越慢了，是不是中{zhòng}了____？",
+          "key": "病毒",
+          "a": "我的电脑速度越来越慢了，是不是中{zhòng}了【病毒】？",
+          "vi": "Máy tính của tôi ngày càng chậm, có phải bị nhiễm virus rồi không?",
+          "en": "My computer is getting slower and slower. Has it got a virus?"
+        },
+        {
+          "q": "这是一种新型的____病，可能会在人和动物之间传播。",
+          "key": "传染",
+          "a": "这是一种新型的【传染】病，可能会在人和动物之间传播。",
+          "vi": "Đây là một loại bệnh truyền nhiễm mới, có thể lây giữa người và động vật.",
+          "en": "This is a new type of infectious disease that may spread between people and animals."
+        },
+        {
+          "q": "海龟的____最长可达150多年，是动物中当之无愧的老寿星。",
+          "key": "寿命",
+          "a": "海龟的【寿命】最长可达150多年，是动物中当之无愧的老寿星。",
+          "vi": "Tuổi thọ của rùa biển dài nhất có thể hơn 150 năm, xứng đáng là “cụ thọ” trong giới động vật.",
+          "en": "Sea turtles can live for over 150 years, making them truly the longest-lived of animals."
+        }
+      ]
+    }
+  }
+}

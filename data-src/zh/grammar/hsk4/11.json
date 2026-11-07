@@ -1,0 +1,1037 @@
+{
+  "n": 11,
+  "zh": "读书好，读好书，好读书",
+  "vi": "Đọc sách có ích, đọc sách hay, thích đọc sách",
+  "en": "Reading is good: read good books, love to read",
+  "texts": [
+    {
+      "title": "马克介绍自己学习汉语的方法",
+      "paras": [
+        {
+          "zh": "大卫：你来中国才一年，汉语就说得这么流利，真厉害！",
+          "vi": "David: Cậu đến Trung Quốc mới một năm mà đã nói tiếng Trung lưu loát thế này, giỏi thật!",
+          "en": "David: You've only been in China a year and your Chinese is already so fluent. Impressive!"
+        },
+        {
+          "zh": "马克：谢谢！其实我的语法不太好，很多句子说得都不太准确。",
+          "vi": "Mark: Cảm ơn! Thật ra ngữ pháp của tớ không tốt lắm, nhiều câu nói chưa chính xác.",
+          "en": "Mark: Thanks! Actually my grammar isn't very good, and a lot of my sentences aren't quite right."
+        },
+        {
+          "zh": "大卫：但是我看你跟中国人交流没什么问题，你是怎么做到的？",
+          "vi": "David: Nhưng tớ thấy cậu giao tiếp với người Trung Quốc chẳng có vấn đề gì, cậu làm thế nào vậy?",
+          "en": "David: But you seem to have no problem talking to Chinese people. How did you do it?"
+        },
+        {
+          "zh": "马克：平时多交一些中国朋友，经常和他们聊天儿，听说能力自然就能得到很大的提高。另外，我建议你坚持看中文报纸，这样能学到很多新词语。",
+          "vi": "Mark: Bình thường kết bạn nhiều với người Trung Quốc, thường xuyên trò chuyện với họ, khả năng nghe nói tự nhiên sẽ được nâng cao rất nhiều. Ngoài ra, tớ khuyên cậu kiên trì đọc báo tiếng Trung, như vậy có thể học được nhiều từ mới.",
+          "en": "Mark: Make lots of Chinese friends and chat with them often, and your listening and speaking will naturally improve a lot. Also, I suggest you keep reading Chinese newspapers; you'll learn lots of new words that way."
+        },
+        {
+          "zh": "大卫：你太厉害了！连中文报纸都看得懂。",
+          "vi": "David: Cậu giỏi quá! Đến cả báo tiếng Trung cũng đọc hiểu được.",
+          "en": "David: You're amazing! You can even read Chinese newspapers."
+        },
+        {
+          "zh": "马克：刚开始肯定有困难，不过遇到不认识的词语，你可以查词典，然后写在本子上，有空儿就拿出来复习一下，慢慢地{de}就会发现中文报纸也没那么难了。",
+          "vi": "Mark: Lúc mới bắt đầu chắc chắn có khó khăn, nhưng gặp từ không biết, cậu có thể tra từ điển rồi ghi vào sổ, lúc rảnh lấy ra ôn lại, dần dần sẽ thấy báo tiếng Trung cũng không khó đến thế.",
+          "en": "Mark: It's definitely hard at first, but when you come across words you don't know, look them up in the dictionary and write them in a notebook. Take it out and review whenever you're free, and gradually you'll find Chinese newspapers aren't that hard."
+        }
+      ],
+      "words": [
+        {
+          "zh": "流利",
+          "py": "liúlì",
+          "pos": "tt.",
+          "vi": "lưu loát, trôi chảy",
+          "en": "fluent"
+        },
+        {
+          "zh": "厉害",
+          "py": "lìhai",
+          "pos": "tt.",
+          "vi": "lợi hại",
+          "en": "impressive, formidable"
+        },
+        {
+          "zh": "语法",
+          "py": "yǔfǎ",
+          "pos": "dt.",
+          "vi": "ngữ pháp",
+          "en": "grammar"
+        },
+        {
+          "zh": "准确",
+          "py": "zhǔnquè",
+          "pos": "tt.",
+          "vi": "chính xác, đúng",
+          "en": "accurate"
+        },
+        {
+          "zh": "词语",
+          "py": "cíyǔ",
+          "pos": "dt.",
+          "vi": "từ ngữ, cách diễn đạt",
+          "en": "words and expressions"
+        },
+        {
+          "zh": "连",
+          "py": "lián",
+          "pos": "giới.",
+          "vi": "ngay cả",
+          "en": "even"
+        }
+      ],
+      "names": [
+        {
+          "zh": "大卫",
+          "py": "Dàwèi",
+          "vi": "David (tên người)",
+          "en": "David"
+        }
+      ]
+    },
+    {
+      "title": "小夏和小雨聊考试的情况",
+      "paras": [
+        {
+          "zh": "小夏：考试结束了，你对自己的成绩满意吗？",
+          "vi": "Tiểu Hạ: Thi xong rồi, cậu có hài lòng với điểm của mình không?",
+          "en": "Xiao Xia: The exam's over. Are you happy with your results?"
+        },
+        {
+          "zh": "小雨：说真的，我不太满意。这次阅读考试的题太多了，我没做完。",
+          "vi": "Tiểu Vũ: Nói thật, tớ không hài lòng lắm. Bài thi đọc lần này nhiều câu quá, tớ làm không xong.",
+          "en": "Xiaoyu: To be honest, not really. There were too many questions in the reading exam and I didn't finish."
+        },
+        {
+          "zh": "小夏：两个小时的时间应该来得及吧？",
+          "vi": "Tiểu Hạ: Hai tiếng đồng hồ chắc là kịp chứ?",
+          "en": "Xiao Xia: Two hours should have been enough time, surely?"
+        },
+        {
+          "zh": "小雨：这次主要是因为我先做了比较难、比较复杂的题，结果花了太多时间，后面简单的题我虽然会，可是时间来不及，最后只好放弃了。",
+          "vi": "Tiểu Vũ: Lần này chủ yếu là vì tớ làm những câu khá khó, khá phức tạp trước, kết quả mất quá nhiều thời gian, những câu đơn giản phía sau tớ tuy biết làm nhưng không kịp thời gian, cuối cùng đành bỏ.",
+          "en": "Xiaoyu: This time it was mainly because I did the harder, more complicated questions first and spent too long on them. I could do the easy ones at the end, but there wasn't time, so I had to give up on them."
+        },
+        {
+          "zh": "小夏：其实我考得也不怎么样。有几个填空题不会做，有几个选择题，实在想不出来该选哪个，就随便猜了一个答案，结果一个都没猜对。",
+          "vi": "Tiểu Hạ: Thật ra tớ thi cũng chẳng ra sao. Có mấy câu điền vào chỗ trống không biết làm, có mấy câu trắc nghiệm thật sự không nghĩ ra nên chọn cái nào, bèn đoán bừa một đáp án, kết quả chẳng đoán đúng câu nào.",
+          "en": "Xiao Xia: Actually I didn't do very well either. There were a few fill-in-the-blank questions I couldn't do, and some multiple-choice questions where I really couldn't work out which to choose, so I just guessed, and I didn't get a single one right."
+        },
+        {
+          "zh": "小雨：看来要想考好，不但要认真复习，还得{děi}注意考试的方法，否则，会做的题也没时间做了。",
+          "vi": "Tiểu Vũ: Xem ra muốn thi tốt không những phải ôn tập nghiêm túc mà còn phải chú ý phương pháp làm bài, nếu không thì câu biết làm cũng không có thời gian làm.",
+          "en": "Xiaoyu: It seems that to do well, you not only have to revise properly but also pay attention to exam technique; otherwise you won't even have time for the questions you can do."
+        }
+      ],
+      "words": [
+        {
+          "zh": "阅读",
+          "py": "yuèdú",
+          "pos": "đgt.",
+          "vi": "đọc",
+          "en": "to read"
+        },
+        {
+          "zh": "来得及",
+          "py": "láidejí",
+          "pos": "đgt.",
+          "vi": "kịp, còn kịp",
+          "en": "to be in time"
+        },
+        {
+          "zh": "复杂",
+          "py": "fùzá",
+          "pos": "tt.",
+          "vi": "phức tạp, rắc rối",
+          "en": "complicated"
+        },
+        {
+          "zh": "只好",
+          "py": "zhǐhǎo",
+          "pos": "phó.",
+          "vi": "đành phải, buộc phải",
+          "en": "to have no choice but"
+        },
+        {
+          "zh": "填空",
+          "py": "tián kòng",
+          "pos": "đgt.",
+          "vi": "điền vào chỗ trống",
+          "en": "to fill in the blanks"
+        },
+        {
+          "zh": "猜",
+          "py": "cāi",
+          "pos": "đgt.",
+          "vi": "đoán",
+          "en": "to guess"
+        },
+        {
+          "zh": "否则",
+          "py": "fǒuzé",
+          "pos": "liên.",
+          "vi": "nếu không thì, bằng không",
+          "en": "otherwise"
+        }
+      ]
+    },
+    {
+      "title": "小李告诉小林阅读的好处",
+      "paras": [
+        {
+          "zh": "小林：你的客厅里怎么到处是书啊？这些书你都喜欢看吗？",
+          "vi": "Tiểu Lâm: Phòng khách nhà cậu sao chỗ nào cũng là sách thế? Những sách này cậu đều thích đọc à?",
+          "en": "Xiao Lin: Why are there books everywhere in your living room? Do you like reading all of them?"
+        },
+        {
+          "zh": "小李：当然，我每天都要看书。无论是普通杂志，还是著名小说，只要打开它们，就会发现，世界上有那么多有意思的事情，有那么多不一样的生活。",
+          "vi": "Tiểu Lý: Đương nhiên, ngày nào tớ cũng đọc sách. Dù là tạp chí bình thường hay tiểu thuyết nổi tiếng, chỉ cần mở chúng ra là sẽ phát hiện trên thế giới có bao nhiêu điều thú vị, có bao nhiêu cuộc sống khác nhau.",
+          "en": "Xiao Li: Of course. I read every day. Whether it's an ordinary magazine or a famous novel, as soon as you open it you discover how many interesting things and different lives there are in the world."
+        },
+        {
+          "zh": "小林：想不到你工作那么忙，还能每天坚持阅读。",
+          "vi": "Tiểu Lâm: Không ngờ cậu bận việc như vậy mà vẫn kiên trì đọc sách mỗi ngày.",
+          "en": "Xiao Lin: I'm surprised that with such a busy job you still manage to read every day."
+        },
+        {
+          "zh": "小李：如果3分钟读一页书，半个小时就可以读10页。每天花半个小时来读书，一个月就可以读300页，差不多就是一本书了。",
+          "vi": "Tiểu Lý: Nếu 3 phút đọc một trang sách thì nửa tiếng có thể đọc 10 trang. Mỗi ngày dành nửa tiếng đọc sách, một tháng có thể đọc 300 trang, gần bằng một cuốn sách rồi.",
+          "en": "Xiao Li: If you read a page every 3 minutes, you can read 10 pages in half an hour. Spend half an hour a day reading and you'll get through 300 pages a month; that's about a whole book."
+        },
+        {
+          "zh": "小林：是啊，一个真正爱看书的人总能找出时间来阅读。",
+          "vi": "Tiểu Lâm: Đúng vậy, một người thật sự thích đọc sách luôn tìm ra thời gian để đọc.",
+          "en": "Xiao Lin: Yes, someone who truly loves reading can always find time for it."
+        },
+        {
+          "zh": "小李：坚持阅读，除了能增加知识外，还能帮助我减轻压力，人也会变得轻松起来。",
+          "vi": "Tiểu Lý: Kiên trì đọc sách, ngoài việc tăng thêm kiến thức, còn có thể giúp tớ giảm áp lực, con người cũng trở nên thoải mái hơn.",
+          "en": "Xiao Li: Reading regularly not only increases my knowledge but also helps me relieve stress and feel more relaxed."
+        }
+      ],
+      "words": [
+        {
+          "zh": "客厅",
+          "py": "kètīng",
+          "pos": "dt.",
+          "vi": "phòng khách",
+          "en": "living room"
+        },
+        {
+          "zh": "无论",
+          "py": "wúlùn",
+          "pos": "liên.",
+          "vi": "bất kể",
+          "en": "no matter"
+        },
+        {
+          "zh": "杂志",
+          "py": "zázhì",
+          "pos": "dt.",
+          "vi": "tạp chí",
+          "en": "magazine"
+        },
+        {
+          "zh": "著名",
+          "py": "zhùmíng",
+          "pos": "tt.",
+          "vi": "nổi tiếng",
+          "en": "famous"
+        },
+        {
+          "zh": "页",
+          "py": "yè",
+          "pos": "lượng.",
+          "vi": "trang",
+          "en": "page"
+        },
+        {
+          "zh": "增加",
+          "py": "zēngjiā",
+          "pos": "đgt.",
+          "vi": "tăng thêm",
+          "en": "to increase"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "根据调查，阅读能力好的人，不但容易找到工作，而且工资也比较高。怎么才能有效提高自己的阅读能力呢？做读书笔记就是其中一种好方法。读书笔记有很多种，最简单的就是把自己喜欢或者觉得有用的词语和句子记下来。另外，在看完一篇文章或一本书之后，还可以把它的主要内容和自己的想法写下来。然而，你不能完全相信书本上的内容，要有自己的看法和判断。坚持做读书笔记，对提高阅读能力有很大帮助。",
+          "vi": "Theo khảo sát, người có khả năng đọc tốt không những dễ tìm việc mà lương cũng khá cao. Làm thế nào mới có thể nâng cao khả năng đọc của bản thân một cách hiệu quả? Ghi chép khi đọc sách là một trong những cách hay. Ghi chép đọc sách có nhiều kiểu, đơn giản nhất là ghi lại những từ ngữ và câu mình thích hoặc thấy hữu ích. Ngoài ra, sau khi đọc xong một bài văn hay một cuốn sách, còn có thể viết lại nội dung chính và suy nghĩ của mình. Tuy nhiên, bạn không thể hoàn toàn tin vào nội dung trong sách, phải có quan điểm và đánh giá của riêng mình. Kiên trì ghi chép khi đọc sách giúp ích rất nhiều cho việc nâng cao khả năng đọc.",
+          "en": "According to surveys, people with good reading skills not only find jobs more easily but also earn more. How can you improve your reading effectively? Keeping reading notes is one good way. There are many kinds; the simplest is to write down words and sentences you like or find useful. Also, after finishing an article or book, you can write down its main content and your own thoughts. However, you shouldn't completely believe everything in books; you need your own views and judgement. Keeping reading notes regularly is a great help in improving your reading."
+        }
+      ],
+      "words": [
+        {
+          "zh": "文章",
+          "py": "wénzhāng",
+          "pos": "dt.",
+          "vi": "bài văn, bài báo",
+          "en": "article, essay"
+        },
+        {
+          "zh": "之",
+          "py": "zhī",
+          "pos": "trợ.",
+          "vi": "được dùng để nối từ bổ nghĩa và từ được bổ nghĩa",
+          "en": "(structural particle) of"
+        },
+        {
+          "zh": "内容",
+          "py": "nèiróng",
+          "pos": "dt.",
+          "vi": "nội dung",
+          "en": "content"
+        },
+        {
+          "zh": "然而",
+          "py": "rán'ér",
+          "pos": "liên.",
+          "vi": "nhưng, song",
+          "en": "however"
+        },
+        {
+          "zh": "看法",
+          "py": "kànfǎ",
+          "pos": "dt.",
+          "vi": "quan điểm, cách nhìn",
+          "en": "view, opinion"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "“读书好{hǎo}，读好{hǎo}书，好{hào}读书”。虽然这句话只用了三个相同的汉字，但是不同的顺序却表示了不同的意思。首先，“读书好{hǎo}”说的是读书有很多好处；其次，每个人的时间都是有限的，不可能把世界上每一本书都读完，所以要读好{hǎo}的书；最后，“好{hào}读书”就是要养成阅读的习惯，使读书真正成为自己的兴趣爱好。阅读有许多好处，它能丰富你的知识，让你找到解决问题的办法；同时，它还会丰富你的情感，使你的生活更精彩。所以，让阅读成为你的习惯吧！",
+          "vi": "“Đọc sách có lợi, đọc sách hay, thích đọc sách”. Tuy câu này chỉ dùng ba chữ Hán giống nhau nhưng thứ tự khác nhau lại biểu thị ý nghĩa khác nhau. Trước hết, “đọc sách có lợi” nói về việc đọc sách có nhiều lợi ích; thứ hai, thời gian của mỗi người đều có hạn, không thể đọc hết mọi cuốn sách trên thế giới, nên phải đọc sách hay; cuối cùng, “thích đọc sách” là phải hình thành thói quen đọc, khiến việc đọc sách thật sự trở thành sở thích của mình. Đọc sách có nhiều lợi ích, nó có thể làm phong phú kiến thức của bạn, giúp bạn tìm ra cách giải quyết vấn đề; đồng thời nó còn làm phong phú tình cảm của bạn, khiến cuộc sống của bạn thêm tuyệt vời. Vì vậy, hãy để việc đọc trở thành thói quen của bạn!",
+          "en": "“Reading is good, read good books, love reading.” Although this saying uses only three characters, their different order gives different meanings. First, “reading is good” means reading has many benefits; second, everyone's time is limited and you can't read every book in the world, so you should read good books; finally, “love reading” means forming a reading habit so that reading truly becomes your hobby. Reading has many benefits: it enriches your knowledge and helps you find ways to solve problems; at the same time it enriches your emotions and makes your life more wonderful. So make reading your habit!"
+        }
+      ],
+      "words": [
+        {
+          "zh": "相同",
+          "py": "xiāngtóng",
+          "pos": "tt.",
+          "vi": "giống nhau, như nhau",
+          "en": "same, identical"
+        },
+        {
+          "zh": "顺序",
+          "py": "shùnxù",
+          "pos": "dt.",
+          "vi": "trật tự, thứ tự",
+          "en": "order, sequence"
+        },
+        {
+          "zh": "表示",
+          "py": "biǎoshì",
+          "pos": "đgt.",
+          "vi": "có ý nghĩa, biểu thị",
+          "en": "to express, to mean"
+        },
+        {
+          "zh": "养成",
+          "py": "yǎngchéng",
+          "pos": "đgt.",
+          "vi": "hình thành/tạo (thói quen)",
+          "en": "to form (a habit)"
+        },
+        {
+          "zh": "同时",
+          "py": "tóngshí",
+          "pos": "liên.",
+          "vi": "đồng thời, hơn nữa",
+          "en": "at the same time, moreover"
+        },
+        {
+          "zh": "精彩",
+          "py": "jīngcǎi",
+          "pos": "tt.",
+          "vi": "tuyệt vời, xuất sắc",
+          "en": "wonderful"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "马克为什么能顺利地{de}跟中国人交流？他有哪些建议？",
+        "label": "课文1",
+        "a": "因为他【平时多交中国朋友，经常和他们聊天儿】。他建议【坚持看中文报纸，遇到不认识的词语就查词典，写在本子上，有空儿就复习】。",
+        "vi": "Vì bình thường cậu ấy kết bạn nhiều với người Trung Quốc, thường xuyên trò chuyện với họ. Cậu ấy khuyên kiên trì đọc báo tiếng Trung, gặp từ không biết thì tra từ điển, ghi vào sổ, rảnh thì ôn lại.",
+        "en": "Because he makes lots of Chinese friends and chats with them often. He suggests reading Chinese newspapers regularly, looking up unknown words, writing them down and reviewing them when free."
+      },
+      {
+        "q": "大卫认为对学习汉语的外国人来说，做什么特别难？",
+        "label": "课文1",
+        "a": "他认为【看中文报纸】特别难。",
+        "vi": "Cậu ấy cho rằng đọc báo tiếng Trung đặc biệt khó.",
+        "en": "He thinks reading Chinese newspapers is especially hard."
+      },
+      {
+        "q": "你认为小雨下次考试可能会用什么答题方法？",
+        "label": "课文2",
+        "a": "她可能会【先做简单的题，再做比较难、比较复杂的题】。",
+        "vi": "Cô ấy có thể sẽ làm câu đơn giản trước, rồi mới làm câu khó, phức tạp.",
+        "en": "She'll probably do the easy questions first and the harder, more complicated ones afterwards.",
+        "sample": true
+      },
+      {
+        "q": "要想考好，应该注意哪些方面？为什么？",
+        "label": "课文2",
+        "a": "【不但要认真复习，还得{děi}注意考试的方法】，否则，会做的题也没时间做了。",
+        "vi": "Không những phải ôn tập nghiêm túc mà còn phải chú ý phương pháp làm bài, nếu không câu biết làm cũng không có thời gian làm.",
+        "en": "You need to revise properly and also pay attention to exam technique; otherwise you won't have time even for the questions you can do."
+      },
+      {
+        "q": "小李家的客厅有什么特点？小李有什么好习惯？",
+        "label": "课文3",
+        "a": "小李家的客厅里【到处是书】。他有【每天看书】的好习惯。",
+        "vi": "Phòng khách nhà Tiểu Lý chỗ nào cũng là sách. Cậu ấy có thói quen tốt là đọc sách mỗi ngày.",
+        "en": "There are books everywhere in Xiao Li's living room. He has the good habit of reading every day."
+      },
+      {
+        "q": "坚持阅读能给人带来哪些好处？",
+        "label": "课文3",
+        "a": "坚持阅读【除了能增加知识外，还能帮助人减轻压力，人也会变得轻松起来】。",
+        "vi": "Kiên trì đọc sách ngoài tăng thêm kiến thức còn giúp giảm áp lực, con người cũng thoải mái hơn.",
+        "en": "Reading regularly increases your knowledge and also helps relieve stress, making you more relaxed."
+      },
+      {
+        "q": "哪种方法可以提高阅读能力？请你再说一种有效的方法。",
+        "label": "课文4",
+        "a": "【做读书笔记】可以提高阅读能力。另外，【每天坚持读一点儿中文报纸或者杂志】也是一种有效的方法。",
+        "vi": "Ghi chép khi đọc sách có thể nâng cao khả năng đọc. Ngoài ra, mỗi ngày kiên trì đọc một chút báo hoặc tạp chí tiếng Trung cũng là cách hiệu quả.",
+        "en": "Keeping reading notes improves reading skills. Reading a little Chinese newspaper or magazine every day is another effective way.",
+        "sample": true
+      },
+      {
+        "q": "“书里的知识都是正确的”，这句话对吗？为什么？",
+        "label": "课文4",
+        "a": "【不对】。因为【你不能完全相信书本上的内容，要有自己的看法和判断】。",
+        "vi": "Không đúng. Vì bạn không thể hoàn toàn tin vào nội dung trong sách, phải có quan điểm và đánh giá của riêng mình.",
+        "en": "No. You can't completely believe everything in books; you need your own views and judgement."
+      },
+      {
+        "q": "我们应该选择读什么样的书？为什么？",
+        "label": "课文5",
+        "a": "我们应该【读好{hǎo}的书】，因为【每个人的时间都是有限的，不可能把世界上每一本书都读完】。",
+        "vi": "Chúng ta nên đọc sách hay, vì thời gian của mỗi người có hạn, không thể đọc hết mọi cuốn sách trên thế giới.",
+        "en": "We should read good books, because everyone's time is limited and we can't read every book in the world."
+      },
+      {
+        "q": "通过学习“读书好{hǎo}，读好{hǎo}书，好{hào}读书”这句话，说说汉语有哪些特点。",
+        "label": "课文5",
+        "a": "【相同的汉字，不同的顺序，可以表示不同的意思；同一个汉字也可能有不同的读音和意思】。",
+        "vi": "Cùng những chữ Hán giống nhau nhưng thứ tự khác nhau có thể biểu thị ý nghĩa khác nhau; cùng một chữ Hán cũng có thể có cách đọc và ý nghĩa khác nhau.",
+        "en": "The same characters in a different order can mean different things, and the same character can have different pronunciations and meanings.",
+        "sample": true
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "连",
+      "uses": [
+        {
+          "vi": "Giới từ 连 thường được dùng trong cấu trúc “连……也/都……” để nhấn mạnh (ngay cả, đến cả). Với cấu trúc này, người nói giải thích rõ tình huống khác bằng cách nhấn mạnh một ví dụ có tính cực đoan (ở mức tột cùng). Theo sau 连 có thể là chủ ngữ.",
+          "en": "The preposition 连 is used in the pattern 连……也/都…… for emphasis: 'even'. The speaker highlights an extreme example to make a point about the general situation. What follows 连 can be the subject.",
+          "ex": [
+            {
+              "zh": "如果【连】你自己【都】不喜欢自己，又怎么能让别人喜欢你呢？",
+              "vi": "Nếu đến chính bạn cũng không thích bản thân mình thì làm sao khiến người khác thích bạn được?",
+              "en": "If even you don't like yourself, how can you expect others to like you?"
+            },
+            {
+              "zh": "广告越来越多，几乎无处不在。不只是电视上有广告，公共汽车、地铁上也有很多广告，【连】我住的楼的电梯里【都】有三个广告。",
+              "vi": "Quảng cáo ngày càng nhiều, gần như không đâu là không có. Không chỉ trên tivi có quảng cáo, trên xe buýt, tàu điện ngầm cũng có rất nhiều, ngay cả trong thang máy tòa nhà tôi ở cũng có tới ba cái quảng cáo.",
+              "en": "There are more and more ads; they're almost everywhere. It's not just TV: buses and the subway are full of them, and even the lift in my building has three ads."
+            }
+          ]
+        },
+        {
+          "vi": "Theo sau 连 cũng có thể là tân ngữ (được đặt phía trước).",
+          "en": "What follows 连 can also be an object that has been moved to the front.",
+          "ex": [
+            {
+              "zh": "你太厉害了！【连】中文报纸【都】看得懂。",
+              "vi": "Bạn giỏi quá! Đến cả báo tiếng Trung cũng đọc hiểu được.",
+              "en": "You're amazing! You can even read Chinese newspapers."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，小孩子更拿不动了。",
+            "hint": "连",
+            "a": "【这个箱子连大人都拿不动】，小孩子更拿不动了。",
+            "vi": "Cái thùng này ngay cả người lớn cũng không xách nổi, trẻ con càng không xách nổi.",
+            "en": "Even adults can't lift this box, let alone a child.",
+            "sample": true
+          },
+          {
+            "q": "____，我们更解决不了了。",
+            "hint": "连",
+            "a": "【这个问题连老师都解决不了】，我们更解决不了了。",
+            "vi": "Vấn đề này ngay cả thầy giáo cũng không giải quyết được, chúng ta càng không giải quyết được.",
+            "en": "Even the teacher can't solve this problem, let alone us.",
+            "sample": true
+          },
+          {
+            "q": "安娜因为这件事很生气，____。",
+            "hint": "连",
+            "a": "安娜因为这件事很生气，【连饭都不想吃了】。",
+            "vi": "Anna rất tức giận vì chuyện này, đến cơm cũng không muốn ăn.",
+            "en": "Anna was so angry about this that she didn't even want to eat.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "否则",
+      "uses": [
+        {
+          "vi": "Liên từ 否则 có nghĩa là nếu không thì. Câu theo sau 否则 chỉ kết quả được suy ra từ câu phía trước hoặc đưa ra một lựa chọn khác.",
+          "en": "The conjunction 否则 means 'otherwise, or else'. The clause after it gives the result inferred from the previous clause, or offers an alternative.",
+          "ex": [
+            {
+              "zh": "他一定有重要的事找你，【否则】不会打这么多次电话来。",
+              "vi": "Chắc chắn anh ấy có việc quan trọng tìm bạn, nếu không thì đã không gọi điện nhiều lần như vậy.",
+              "en": "He must have something important to talk to you about, otherwise he wouldn't have called so many times."
+            },
+            {
+              "zh": "你最好下午四点前去公司找她，【否则】就明天早上再去。",
+              "vi": "Tốt nhất bạn đến công ty tìm cô ấy trước bốn giờ chiều, nếu không thì sáng mai hẵng đi.",
+              "en": "You'd better go to the company to see her before four this afternoon; otherwise, go tomorrow morning."
+            },
+            {
+              "zh": "看来要想考好，不但要认真复习，还得{děi}注意考试的方法，【否则】会做的题也没时间做了。",
+              "vi": "Xem ra muốn thi tốt thì không chỉ phải ôn tập nghiêm túc mà còn phải chú ý phương pháp làm bài, nếu không thì đến câu biết làm cũng không có thời gian làm.",
+              "en": "It seems that to do well in an exam you not only have to revise carefully but also pay attention to exam technique; otherwise you won't even have time for the questions you know how to answer."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "理想的广告不应该太长，____。",
+            "hint": "否则",
+            "a": "理想的广告不应该太长，【否则人们会觉得很烦】。",
+            "vi": "Quảng cáo lý tưởng không nên quá dài, nếu không người ta sẽ thấy rất phiền.",
+            "en": "An ideal advert shouldn't be too long, otherwise people will find it annoying.",
+            "sample": true
+          },
+          {
+            "q": "要想减肥成功，一定要坚持，____。",
+            "hint": "否则",
+            "a": "要想减肥成功，一定要坚持，【否则不会有效果】。",
+            "vi": "Muốn giảm cân thành công nhất định phải kiên trì, nếu không sẽ không có hiệu quả.",
+            "en": "To lose weight successfully you must keep at it, otherwise it won't work.",
+            "sample": true
+          },
+          {
+            "q": "去美国留学前应该先学好英语，____。",
+            "hint": "否则",
+            "a": "去美国留学前应该先学好英语，【否则到了那儿会遇到很多困难】。",
+            "vi": "Trước khi đi du học Mỹ nên học tốt tiếng Anh trước, nếu không đến đó sẽ gặp nhiều khó khăn.",
+            "en": "Before going to study in America you should learn English well first, otherwise you'll face lots of difficulties there.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "无论",
+      "uses": [
+        {
+          "vi": "Liên từ 无论 diễn tả kết quả, kết luận sẽ không thay đổi trong bất kỳ điều kiện nào, thường được dùng trong cấu trúc “无论……都/也……”. Theo sau 无论 có thể là các thành phần thể hiện sự lựa chọn hoặc đại từ nghi vấn (phiếm chỉ).",
+          "en": "The conjunction 无论 (no matter) means the result or conclusion won't change under any conditions. It is often used in 无论……都/也……. After 无论 come either alternatives to choose between or a question word used in a general sense.",
+          "ex": [
+            {
+              "zh": "【无论】是普通杂志，还是著名小说，只要打开它们，就会发现，世界上有那么多有意思的事情、有那么多不一样的生活。",
+              "vi": "Dù là tạp chí bình thường hay tiểu thuyết nổi tiếng, chỉ cần mở chúng ra là sẽ phát hiện thế giới có biết bao nhiêu điều thú vị, biết bao nhiêu cuộc sống khác nhau.",
+              "en": "Whether it's an ordinary magazine or a famous novel, as soon as you open it you'll discover how many interesting things and how many different lives there are in the world."
+            },
+            {
+              "zh": "【无论】做什么事【都】要注意方法，正确的方法可以让我们做得更好。",
+              "vi": "Dù làm việc gì cũng phải chú ý phương pháp, phương pháp đúng có thể giúp chúng ta làm tốt hơn.",
+              "en": "Whatever you do, pay attention to method. The right method helps us do better."
+            },
+            {
+              "zh": "这次比赛他已经打出了自己最好的水平，【无论】结果怎么样，我们【都】应该为他高兴。",
+              "vi": "Trận đấu lần này anh ấy đã thể hiện được phong độ tốt nhất của mình, dù kết quả thế nào chúng ta cũng nên vui cho anh ấy.",
+              "en": "He played at his very best in this match. Whatever the result, we should be happy for him."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "无论—不管",
+        "uses": [
+          {
+            "vi": "Giống nhau: 无论 và 不管 đều có thể được dùng làm liên từ, và thường kết hợp với 都/也, để chỉ kết quả, kết luận sẽ không thay đổi trong bất kỳ điều kiện nào. Theo sau hai từ này có thể là đại từ nghi vấn (phiếm chỉ) hoặc các thành phần thể hiện sự lựa chọn.",
+            "en": "Similarity: 无论 and 不管 are both conjunctions, often used with 都/也, meaning the result won't change under any conditions. Both can be followed by a question word used in a general sense, or by alternatives.",
+            "ex": [
+              {
+                "zh": "【无论】/【不管】干什么事情，最好都能提前做好计划。",
+                "vi": "Dù làm việc gì, tốt nhất đều nên lên kế hoạch trước.",
+                "en": "Whatever you're doing, it's best to plan ahead."
+              },
+              {
+                "zh": "【无论】/【不管】是烦恼的事，还是愉快的事，我每天都会在日记里记下来。",
+                "vi": "Dù là chuyện phiền muộn hay chuyện vui vẻ, ngày nào tôi cũng ghi lại trong nhật ký.",
+                "en": "Whether it's something upsetting or something happy, I write it down in my diary every day."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: 不管 thường được dùng trong văn nói; sau 不管 không được dùng các từ cổ mang sắc thái trang trọng như 如何, 是否. 无论 thường được dùng trong văn viết và có thể đi kèm với 如何, 是否.",
+            "en": "Difference 1: 不管 is mostly spoken and cannot be followed by formal classical words such as 如何 or 是否. 无论 is mostly written and can be followed by 如何, 是否.",
+            "ex": [
+              {
+                "zh": "【无论】如何，我都不会离开你。",
+                "vi": "Dù thế nào đi nữa, anh cũng sẽ không rời xa em.",
+                "en": "No matter what, I will never leave you."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: Có thể dùng hình thức khẳng định - phủ định ngay sau 不管. Khi dùng hình thức này sau 无论, người ta thường thêm 还是/跟/与 vào giữa thành phần khẳng định và phủ định.",
+            "en": "Difference 2: an affirmative-negative form can follow 不管 directly. After 无论, 还是/跟/与 is usually inserted between the affirmative and negative parts.",
+            "ex": [
+              {
+                "zh": "【不管】热不热，他总是穿这么多。",
+                "vi": "Dù nóng hay không, anh ấy lúc nào cũng mặc nhiều thế này.",
+                "en": "Hot or not, he always wears this much."
+              },
+              {
+                "zh": "【无论】/【不管】热还是不热，他总是穿这么多。",
+                "vi": "Dù trời nóng hay không nóng, anh ấy lúc nào cũng mặc nhiều thế này.",
+                "en": "Whether it's hot or not, he always wears this much."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "____别人说什么，我只相信自己眼睛看见的东西。",
+              "key": "无论 ✓ · 不管 ✓",
+              "a": "【无论】/【不管】别人说什么，我只相信自己眼睛看见的东西。",
+              "vi": "Bất kể người khác nói gì, tôi chỉ tin những gì mắt mình nhìn thấy.",
+              "en": "Whatever others say, I only believe what I see with my own eyes."
+            },
+            {
+              "q": "____去不去，最后都别忘了告诉我一声。",
+              "key": "无论 ✗ · 不管 ✓ (dạng khẳng định–phủ định)",
+              "a": "【不管】去不去，最后都别忘了告诉我一声。",
+              "vi": "Dù đi hay không, cuối cùng đừng quên báo cho tôi một tiếng.",
+              "en": "Whether you go or not, don't forget to let me know."
+            },
+            {
+              "q": "____是工作还是学习，“光说不练”都是不行的。",
+              "key": "无论 ✓ · 不管 ✓",
+              "a": "【无论】/【不管】是工作还是学习，“光说不练”都是不行的。",
+              "vi": "Dù là công việc hay học tập, “chỉ nói không làm” đều không được.",
+              "en": "Whether it's work or study, “all talk and no action” won't do."
+            },
+            {
+              "q": "虽然压力很大，但是为了我们共同的理想，____如何一定不能放弃。",
+              "key": "无论 ✓ · 不管 ✗ (đi với 如何)",
+              "a": "虽然压力很大，但是为了我们共同的理想，【无论】如何一定不能放弃。",
+              "vi": "Tuy áp lực rất lớn nhưng vì lý tưởng chung của chúng ta, dù thế nào cũng nhất định không được bỏ cuộc.",
+              "en": "The pressure is great, but for our shared dream we mustn't give up whatever happens."
+            },
+            {
+              "q": "阳光、空气和水，____是对动植物，还是对人来说，这三样东西都是不可缺少的。",
+              "key": "无论 ✓ · 不管 ✓",
+              "a": "阳光、空气和水，【无论】/【不管】是对动植物，还是对人来说，这三样东西都是不可缺少的。",
+              "vi": "Ánh nắng, không khí và nước, dù đối với động thực vật hay con người, ba thứ này đều không thể thiếu.",
+              "en": "Sunlight, air and water: whether for plants and animals or for people, these three things are indispensable."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，她都非常认真。",
+            "hint": "无论",
+            "a": "【无论做什么事情】，她都非常认真。",
+            "vi": "Dù làm việc gì cô ấy cũng rất nghiêm túc.",
+            "en": "Whatever she does, she's very conscientious.",
+            "sample": true
+          },
+          {
+            "q": "做事情如果不注意方法，____。",
+            "hint": "无论",
+            "a": "做事情如果不注意方法，【无论多努力也很难成功】。",
+            "vi": "Làm việc nếu không chú ý phương pháp thì dù cố gắng đến đâu cũng khó thành công.",
+            "en": "If you don't pay attention to method, however hard you try it'll be hard to succeed.",
+            "sample": true
+          },
+          {
+            "q": "____，我们都会为您免费送货。",
+            "hint": "无论",
+            "a": "【无论您住在哪儿】，我们都会为您免费送货。",
+            "vi": "Dù ông bà ở đâu, chúng tôi đều giao hàng miễn phí.",
+            "en": "Wherever you live, we'll deliver free of charge.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "然而",
+      "uses": [
+        {
+          "vi": "Liên từ 然而 thường được dùng trong văn viết và được đặt ở đầu vế câu sau (có thể có dấu phẩy) để chỉ sự chuyển ý (tuy nhiên, thế nhưng).",
+          "en": "The conjunction 然而 (however, yet) is mostly written. It opens the second half of a sentence (optionally followed by a comma) to show a contrast.",
+          "ex": [
+            {
+              "zh": "他虽然失败了很多次，【然而】一直没有放弃。",
+              "vi": "Tuy anh ấy đã thất bại rất nhiều lần nhưng chưa bao giờ bỏ cuộc.",
+              "en": "Although he failed many times, he never gave up."
+            },
+            {
+              "zh": "很多人觉得自己的生活是幸福的，【然而】每个人对幸福的看法却不完全相同。",
+              "vi": "Nhiều người cảm thấy cuộc sống của mình hạnh phúc, thế nhưng cách nhìn của mỗi người về hạnh phúc lại không hoàn toàn giống nhau.",
+              "en": "Many people feel their lives are happy, yet everyone's idea of happiness is not quite the same."
+            },
+            {
+              "zh": "另外，在看完一篇文章或一本书之后，还可以把它的主要内容和自己的想法写下来。【然而】，你不能完全相信书本上的内容，要有自己的看法和判断。",
+              "vi": "Ngoài ra, sau khi đọc xong một bài viết hay một cuốn sách, bạn còn có thể ghi lại nội dung chính và suy nghĩ của mình. Tuy nhiên, bạn không thể hoàn toàn tin vào nội dung trong sách, phải có quan điểm và nhận định của riêng mình.",
+              "en": "Also, after finishing an article or a book, you can write down its main points and your own thoughts. However, you can't completely trust what's in books; you need your own views and judgement."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "他从小就想成为一名警察，____。",
+            "hint": "然而",
+            "a": "他从小就想成为一名警察，【然而后来却当了一名老师】。",
+            "vi": "Từ nhỏ anh ấy đã muốn trở thành cảnh sát, nhưng sau này lại làm giáo viên.",
+            "en": "He wanted to be a policeman ever since he was little, but he ended up becoming a teacher.",
+            "sample": true
+          },
+          {
+            "q": "把简单的问题说复杂并不难，____。",
+            "hint": "然而",
+            "a": "把简单的问题说复杂并不难，【然而把复杂的问题说简单却很不容易】。",
+            "vi": "Nói vấn đề đơn giản thành phức tạp không khó, nhưng nói vấn đề phức tạp thành đơn giản lại rất không dễ.",
+            "en": "Making a simple problem sound complicated isn't hard; however, making a complicated problem sound simple is very difficult.",
+            "sample": true
+          },
+          {
+            "q": "有的人觉得只要有钱就会幸福，____。",
+            "hint": "然而",
+            "a": "有的人觉得只要有钱就会幸福，【然而很多富人过得并不愉快】。",
+            "vi": "Có người cho rằng chỉ cần có tiền là hạnh phúc, nhưng nhiều người giàu sống không hề vui vẻ.",
+            "en": "Some think that money alone brings happiness; however, many rich people aren't happy at all.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "同时",
+      "uses": [
+        {
+          "vi": "Liên từ 同时 có nghĩa là hơn nữa, đồng thời, thường được dùng kết hợp với 又/也/还.",
+          "en": "As a conjunction, 同时 means 'moreover, at the same time', adding a further point. It is often used with 又/也/还.",
+          "ex": [
+            {
+              "zh": "因为小孩子的想法没有那么复杂，所以他们总是很快乐。【同时】，小孩子也是最诚实的。",
+              "vi": "Vì suy nghĩ của trẻ con không phức tạp như vậy nên chúng lúc nào cũng vui vẻ. Đồng thời, trẻ con cũng là những người thật thà nhất.",
+              "en": "Because children's thoughts aren't so complicated, they're always happy. At the same time, children are also the most honest."
+            },
+            {
+              "zh": "阅读有许多好处，它能丰富你的知识，让你找到解决问题的办法；【同时】，它还会丰富你的情感，使你的生活更精彩。",
+              "vi": "Đọc sách có rất nhiều lợi ích, nó có thể làm phong phú kiến thức của bạn, giúp bạn tìm ra cách giải quyết vấn đề; đồng thời nó còn làm phong phú tình cảm của bạn, khiến cuộc sống của bạn thêm đặc sắc.",
+              "en": "Reading has many benefits: it broadens your knowledge and helps you find ways to solve problems; at the same time, it enriches your emotions and makes your life more colourful."
+            }
+          ]
+        },
+        {
+          "vi": "Danh từ 同时 chỉ các hành động xảy ra cùng lúc, thường được dùng trong cấu trúc “在……(的)同时”.",
+          "en": "As a noun, 同时 means actions happen at the same time. It is often used in the pattern 在……(的)同时 ('while …').",
+          "ex": [
+            {
+              "zh": "李教授讲的这个故事让人觉得好笑的【同时】，又让人觉得有些难过。",
+              "vi": "Câu chuyện giáo sư Lý kể vừa khiến người ta buồn cười, đồng thời lại khiến người ta thấy hơi buồn.",
+              "en": "The story Professor Li told was funny and, at the same time, a little sad."
+            },
+            {
+              "zh": "【在】学习汉语【的同时】，我还了解了中国文化，认识了很多中国朋友。",
+              "vi": "Trong lúc học tiếng Trung, tôi còn tìm hiểu được văn hóa Trung Quốc và quen được nhiều bạn bè Trung Quốc.",
+              "en": "While learning Chinese, I also got to know Chinese culture and made lots of Chinese friends."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "他是我们的老师，____。",
+            "hint": "同时",
+            "a": "他是我们的老师，【同时也是我们的好朋友】。",
+            "vi": "Thầy ấy là giáo viên của chúng tôi, đồng thời cũng là bạn tốt của chúng tôi.",
+            "en": "He's our teacher, and at the same time our good friend.",
+            "sample": true
+          },
+          {
+            "q": "她是著名的科学家，____。",
+            "hint": "同时",
+            "a": "她是著名的科学家，【同时还是一位作家】。",
+            "vi": "Bà ấy là nhà khoa học nổi tiếng, đồng thời còn là một nhà văn.",
+            "en": "She's a famous scientist and also a writer.",
+            "sample": true
+          },
+          {
+            "q": "____，还在一个公司工作。",
+            "hint": "在……同时",
+            "a": "【他在读研究生的同时】，还在一个公司工作。",
+            "vi": "Trong lúc học cao học, anh ấy còn làm việc ở một công ty.",
+            "en": "While doing his master's, he's also working at a company.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "马克的语气：\n我学习汉语已经一年了，刚来中国时我的汉语不太好，……",
+          "label": "课文1",
+          "a": "我学习汉语已经一年了，刚来中国时我的汉语不太好，现在我的语法也不太好，很多句子说得不太准确，但是跟中国人交流没什么问题。我平时多交一些中国朋友，经常和他们聊天儿，听说能力自然就提高了。另外，我坚持看中文报纸，遇到不认识的词语就查词典，然后写在本子上，有空儿就拿出来复习。",
+          "vi": "Tôi học tiếng Trung được một năm rồi, lúc mới đến Trung Quốc tiếng Trung của tôi không tốt lắm, bây giờ ngữ pháp vẫn chưa tốt, nhiều câu nói chưa chính xác, nhưng giao tiếp với người Trung Quốc không có vấn đề gì. Bình thường tôi kết bạn nhiều với người Trung Quốc, thường trò chuyện với họ, khả năng nghe nói tự nhiên được nâng cao. Ngoài ra tôi kiên trì đọc báo tiếng Trung, gặp từ không biết thì tra từ điển rồi ghi vào sổ, rảnh thì lấy ra ôn.",
+          "en": "I've been learning Chinese for a year. When I first came to China my Chinese wasn't good, and my grammar still isn't great, but I have no problem talking to Chinese people. I make lots of Chinese friends and chat with them, so my listening and speaking naturally improved. I also keep reading Chinese newspapers, look up words I don't know, write them down and review them when I'm free.",
+          "sample": true
+        },
+        {
+          "q": "小夏的语气：\n虽然这次阅读考试我考了80分，但是我还是不太满意。……",
+          "label": "课文2",
+          "a": "虽然这次阅读考试我考了80分，但是我还是不太满意。有几个填空题不会做，有几个选择题实在想不出来该选哪个，就随便猜了一个答案，结果一个都没猜对。小雨也考得不太好，她先做了比较难的题，结果后面简单的题没时间做了。看来要想考好，不但要认真复习，还得{děi}注意考试的方法。",
+          "vi": "Tuy bài thi đọc lần này tôi được 80 điểm nhưng tôi vẫn không hài lòng lắm. Có mấy câu điền chỗ trống không biết làm, mấy câu trắc nghiệm không nghĩ ra nên đoán bừa, kết quả chẳng đúng câu nào. Tiểu Vũ cũng thi không tốt, cô ấy làm câu khó trước nên câu dễ phía sau không có thời gian làm. Xem ra muốn thi tốt không những phải ôn tập nghiêm túc mà còn phải chú ý phương pháp làm bài.",
+          "en": "Although I got 80 in this reading exam, I'm still not very happy. There were some fill-in-the-blank questions I couldn't do and some multiple-choice questions where I just guessed and got none right. Xiaoyu didn't do well either: she did the hard questions first and ran out of time for the easy ones. It seems that to do well you need to revise properly and also pay attention to exam technique.",
+          "sample": true
+        },
+        {
+          "q": "小李的语气：\n通过阅读，我发现世界上有那么多不一样的生活，……",
+          "label": "课文3",
+          "a": "通过阅读，我发现世界上有那么多不一样的生活，所以我每天都要看书，无论是普通杂志，还是著名小说。虽然我工作很忙，但如果3分钟读一页书，每天花半个小时来读书，一个月就可以读300页，差不多就是一本书了。坚持阅读，除了能增加知识外，还能帮助我减轻压力。",
+          "vi": "Qua việc đọc, tôi phát hiện thế giới có bao nhiêu cuộc sống khác nhau, nên ngày nào tôi cũng đọc sách, dù là tạp chí bình thường hay tiểu thuyết nổi tiếng. Tuy công việc bận nhưng nếu 3 phút đọc một trang, mỗi ngày dành nửa tiếng đọc thì một tháng đọc được 300 trang, gần bằng một cuốn sách. Kiên trì đọc ngoài tăng kiến thức còn giúp tôi giảm áp lực.",
+          "en": "Through reading I've discovered how many different lives there are in the world, so I read every day, whether ordinary magazines or famous novels. I'm busy at work, but at 3 minutes a page, half an hour a day adds up to 300 pages a month, about a book. Reading regularly increases my knowledge and helps me relieve stress.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "著名",
+        "有限",
+        "复杂",
+        "顺序",
+        "增加"
+      ],
+      "items": [
+        {
+          "q": "为了保证您和他人的安全，请您按照“先下后上”的____上下车。",
+          "key": "顺序",
+          "a": "为了保证您和他人的安全，请您按照“先下后上”的【顺序】上下车。",
+          "vi": "Để đảm bảo an toàn cho quý khách và người khác, xin lên xuống xe theo thứ tự “xuống trước lên sau”.",
+          "en": "For your safety and that of others, please get on and off in the order “let people off first”."
+        },
+        {
+          "q": "科学的发展确实给生活带来了许多方便，但也给我们____了不少烦恼。",
+          "key": "增加",
+          "a": "科学的发展确实给生活带来了许多方便，但也给我们【增加】了不少烦恼。",
+          "vi": "Sự phát triển của khoa học quả thực mang lại cho cuộc sống nhiều tiện lợi, nhưng cũng làm tăng thêm cho chúng ta không ít phiền muộn.",
+          "en": "The development of science has certainly made life much more convenient, but it has also added quite a few worries."
+        },
+        {
+          "q": "虽然身高只有一米六零，但他却是世界上____的篮球运动员。",
+          "key": "著名",
+          "a": "虽然身高只有一米六零，但他却是世界上【著名】的篮球运动员。",
+          "vi": "Tuy chỉ cao 1m60 nhưng anh ấy lại là vận động viên bóng rổ nổi tiếng thế giới.",
+          "en": "Although he's only 1.60 metres tall, he's a world-famous basketball player."
+        },
+        {
+          "q": "这个问题有点儿____，你耐心听我给你解释一下，好吗？",
+          "key": "复杂",
+          "a": "这个问题有点儿【复杂】，你耐心听我给你解释一下，好吗？",
+          "vi": "Vấn đề này hơi phức tạp, bạn kiên nhẫn nghe tôi giải thích một chút được không?",
+          "en": "This problem is a bit complicated. Would you listen patiently while I explain?"
+        },
+        {
+          "q": "一个人的知识是____的，所以人与人之间需要交流，交流能使我们丰富知识、提高能力。",
+          "key": "有限",
+          "a": "一个人的知识是【有限】的，所以人与人之间需要交流，交流能使我们丰富知识、提高能力。",
+          "vi": "Kiến thức của một người là có hạn, nên giữa người với người cần giao lưu, giao lưu giúp chúng ta làm phong phú kiến thức, nâng cao năng lực.",
+          "en": "One person's knowledge is limited, so people need to communicate; communication enriches our knowledge and improves our abilities."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "准确",
+        "只好",
+        "厉害",
+        "词语",
+        "内容"
+      ],
+      "items": [
+        {
+          "q": "A：大夫，我的牙最近疼得____，不知道是怎么回事。\nB：你先躺这儿，张开嘴我看看。",
+          "key": "厉害",
+          "a": "A：大夫，我的牙最近疼得【厉害】，不知道是怎么回事。\nB：你先躺这儿，张开嘴我看看。",
+          "vi": "A: Bác sĩ ơi, dạo này răng tôi đau dữ lắm, không biết là bị sao.\nB: Anh nằm xuống đây trước, há miệng ra tôi xem.",
+          "en": "A: Doctor, my tooth has been hurting terribly lately. I don't know what's wrong.\nB: Lie down here and open your mouth so I can have a look."
+        },
+        {
+          "q": "A：你家的孩子真可爱，会说话了吗？\nB：会叫“爸爸”“妈妈”了，也能说一些简单的____。",
+          "key": "词语",
+          "a": "A：你家的孩子真可爱，会说话了吗？\nB：会叫“爸爸”“妈妈”了，也能说一些简单的【词语】。",
+          "vi": "A: Con nhà bạn đáng yêu thật, biết nói chưa?\nB: Biết gọi “bố” “mẹ” rồi, cũng nói được một số từ đơn giản.",
+          "en": "A: Your child is so cute. Can he talk yet?\nB: He can say “Daddy” and “Mummy”, and some simple words."
+        },
+        {
+          "q": "A：这是复习材料，复习要注意方法，要复习重要内容。\nB：时间可能来不及，不过____这样了，这些语法知识太难了。",
+          "key": "只好",
+          "a": "A：这是复习材料，复习要注意方法，要复习重要内容。\nB：时间可能来不及，不过【只好】这样了，这些语法知识太难了。",
+          "vi": "A: Đây là tài liệu ôn tập, ôn tập phải chú ý phương pháp, phải ôn nội dung quan trọng.\nB: Thời gian có thể không kịp, nhưng đành vậy thôi, những kiến thức ngữ pháp này khó quá.",
+          "en": "A: Here are the revision materials. Pay attention to method and focus on the important content.\nB: There may not be enough time, but it'll have to do. This grammar is too hard."
+        },
+        {
+          "q": "A：听说公司明年要搬，到时候我又得{děi}重新找房子了。\nB：这个消息____吗？我怎么不知道？",
+          "key": "准确",
+          "a": "A：听说公司明年要搬，到时候我又得{děi}重新找房子了。\nB：这个消息【准确】吗？我怎么不知道？",
+          "vi": "A: Nghe nói sang năm công ty chuyển địa điểm, đến lúc đó tôi lại phải tìm nhà mới.\nB: Tin này có chính xác không? Sao tôi không biết?",
+          "en": "A: I hear the company is moving next year. Then I'll have to find somewhere new to live again.\nB: Is that news reliable? Why didn't I know?"
+        },
+        {
+          "q": "A：你看过那位作家的小说吗？他的小说语言幽默，____丰富。\nB：那当然了，他在国内很受欢迎，他的小说已经被翻译成了好几种语言。",
+          "key": "内容",
+          "a": "A：你看过那位作家的小说吗？他的小说语言幽默，【内容】丰富。\nB：那当然了，他在国内很受欢迎，他的小说已经被翻译成了好几种语言。",
+          "vi": "A: Bạn đọc tiểu thuyết của nhà văn đó chưa? Ngôn ngữ trong tiểu thuyết của ông ấy hài hước, nội dung phong phú.\nB: Đương nhiên rồi, ông ấy rất được yêu thích trong nước, tiểu thuyết của ông đã được dịch ra nhiều thứ tiếng.",
+          "en": "A: Have you read that writer's novels? His language is humorous and the content is rich.\nB: Of course. He's very popular at home, and his novels have been translated into several languages."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 同",
+    "en": "Words sharing a character: 同",
+    "words": [
+      {
+        "zh": "同意",
+        "py": "tóngyì",
+        "vi": "đồng ý",
+        "en": "to agree"
+      },
+      {
+        "zh": "共同",
+        "py": "gòngtóng",
+        "vi": "chung",
+        "en": "common, shared"
+      },
+      {
+        "zh": "相同",
+        "py": "xiāngtóng",
+        "vi": "giống nhau",
+        "en": "same"
+      },
+      {
+        "zh": "同时",
+        "py": "tóngshí",
+        "vi": "đồng thời, cùng lúc",
+        "en": "at the same time"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "如果她再坚持一次请我帮忙，我就【同意】了，可是她没有。",
+        "vi": "Nếu cô ấy kiên trì nhờ tôi giúp thêm một lần nữa thì tôi đã đồng ý rồi, nhưng cô ấy không làm vậy.",
+        "en": "If she'd asked me for help one more time, I'd have agreed, but she didn't."
+      },
+      {
+        "zh": "夫妻之间只有浪漫的爱情是不够的，【共同】的理想和爱好也很重要。",
+        "vi": "Giữa vợ chồng chỉ có tình yêu lãng mạn là không đủ, lý tưởng và sở thích chung cũng rất quan trọng.",
+        "en": "Between husband and wife, romantic love alone isn't enough; shared ideals and hobbies are also important."
+      },
+      {
+        "zh": "他很年轻，可是遇到问题时，却比【相同】年龄的人更冷静。",
+        "vi": "Anh ấy còn rất trẻ, nhưng khi gặp vấn đề lại bình tĩnh hơn những người cùng tuổi.",
+        "en": "He's very young, but when problems arise he's calmer than people his age."
+      },
+      {
+        "zh": "我哥哥今年26岁，在读硕士研究生的【同时】，还在一家公司工作。",
+        "vi": "Anh tôi năm nay 26 tuổi, trong lúc học thạc sĩ còn làm việc ở một công ty.",
+        "en": "My brother is 26; while doing his master's, he also works at a company."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "同意",
+        "共同",
+        "相同",
+        "同时"
+      ],
+      "items": [
+        {
+          "q": "幽默是成功者的____特点之一，也是值得我们好好学习的一种生活态度。",
+          "key": "共同",
+          "a": "幽默是成功者的【共同】特点之一，也是值得我们好好学习的一种生活态度。",
+          "vi": "Hài hước là một trong những đặc điểm chung của người thành công, cũng là một thái độ sống đáng để chúng ta học hỏi.",
+          "en": "Humour is one of the traits successful people share, and an attitude to life well worth learning from."
+        },
+        {
+          "q": "A：网上买衣服没法试穿，大小不合适怎么办？\nB：没关系，号码不合适的话，店家一般都会____换的。",
+          "key": "同意",
+          "a": "A：网上买衣服没法试穿，大小不合适怎么办？\nB：没关系，号码不合适的话，店家一般都会【同意】换的。",
+          "vi": "A: Mua quần áo trên mạng không thử được, rộng chật không vừa thì làm sao?\nB: Không sao, nếu cỡ không vừa thì người bán thường đồng ý đổi.",
+          "en": "A: You can't try clothes on when buying online. What if they don't fit?\nB: No problem. If the size is wrong, sellers usually agree to exchange them."
+        },
+        {
+          "q": "医生建议大家冬季在选择合适的锻炼方法的____，应该注意运动量不要太大。",
+          "key": "同时",
+          "a": "医生建议大家冬季在选择合适的锻炼方法的【同时】，应该注意运动量不要太大。",
+          "vi": "Bác sĩ khuyên mọi người vào mùa đông, đồng thời với việc chọn cách tập luyện phù hợp, nên chú ý lượng vận động không quá lớn.",
+          "en": "Doctors advise that in winter, while choosing a suitable form of exercise, people should take care not to overdo it."
+        },
+        {
+          "q": "中国小孩子的小名一般都比较好听好记，而且很多都是两个____的字，比如“乐乐”“笑笑”“聪聪”等。",
+          "key": "相同",
+          "a": "中国小孩子的小名一般都比较好听好记，而且很多都是两个【相同】的字，比如“乐乐”“笑笑”“聪聪”等。",
+          "vi": "Tên ở nhà của trẻ em Trung Quốc thường khá dễ nghe dễ nhớ, hơn nữa nhiều tên là hai chữ giống nhau, ví dụ “Lạc Lạc”, “Tiếu Tiếu”, “Thông Thông”…",
+          "en": "Chinese children's nicknames are usually pleasant and easy to remember, and many consist of two identical characters, such as Lele, Xiaoxiao and Congcong."
+        }
+      ]
+    }
+  }
+}

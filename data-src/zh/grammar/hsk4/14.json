@@ -1,0 +1,1016 @@
+{
+  "n": 14,
+  "zh": "保护地球母亲",
+  "vi": "Bảo vệ Mẹ Trái đất",
+  "en": "Protect Mother Earth",
+  "texts": [
+    {
+      "title": "李进要出差，王静和李进在聊天儿",
+      "paras": [
+        {
+          "zh": "王静：这是明天你出差要带的毛巾、牙膏和牙刷，把它们放到箱子里吧。",
+          "vi": "Vương Tịnh: Đây là khăn mặt, kem đánh răng và bàn chải anh mang đi công tác ngày mai, cho vào vali đi.",
+          "en": "Wang Jing: Here are the towel, toothpaste and toothbrush for your business trip tomorrow. Put them in your suitcase."
+        },
+        {
+          "zh": "李进：不用拿这些，宾馆都会免费提供的。再说，箱子已经够重的了！",
+          "vi": "Lý Tiến: Không cần mang mấy thứ này, khách sạn đều cung cấp miễn phí. Hơn nữa vali đã đủ nặng rồi!",
+          "en": "Li Jin: There's no need to take these; the hotel will provide them free. Besides, the suitcase is heavy enough already!"
+        },
+        {
+          "zh": "王静：我当然知道宾馆里有。你不是一直说要保护环境吗？现在就从身边的小事做起吧。",
+          "vi": "Vương Tịnh: Em đương nhiên biết khách sạn có. Chẳng phải anh luôn nói phải bảo vệ môi trường sao? Bây giờ hãy bắt đầu từ những việc nhỏ quanh mình đi.",
+          "en": "Wang Jing: Of course I know the hotel has them. Aren't you always saying we should protect the environment? Start with the little things now."
+        },
+        {
+          "zh": "李进：行，没问题。我明天上午10点的飞机，你能开车把我送到机场吗？",
+          "vi": "Lý Tiến: Được, không vấn đề gì. Anh bay lúc 10 giờ sáng mai, em lái xe đưa anh ra sân bay được không?",
+          "en": "Li Jin: OK, fine. My flight is at 10 tomorrow morning. Can you drive me to the airport?"
+        },
+        {
+          "zh": "王静：那个时间路上堵车多严重啊！你还是坐地铁去机场吧。这样不仅省油钱，而且还不会污染空气。",
+          "vi": "Vương Tịnh: Giờ đó trên đường tắc nghiêm trọng lắm! Anh cứ đi tàu điện ngầm ra sân bay đi. Như vậy không những tiết kiệm tiền xăng mà còn không làm ô nhiễm không khí.",
+          "en": "Wang Jing: The traffic is terrible at that time! You'd better take the subway to the airport. That way you'll save on petrol and won't pollute the air."
+        },
+        {
+          "zh": "李进：好，那就听你的。",
+          "vi": "Lý Tiến: Được, vậy nghe em.",
+          "en": "Li Jin: All right, I'll do as you say."
+        }
+      ],
+      "words": [
+        {
+          "zh": "出差",
+          "py": "chū chāi",
+          "pos": "đgt.",
+          "vi": "đi công tác",
+          "en": "to go on a business trip"
+        },
+        {
+          "zh": "毛巾",
+          "py": "máojīn",
+          "pos": "dt.",
+          "vi": "khăn lau",
+          "en": "towel"
+        },
+        {
+          "zh": "牙膏",
+          "py": "yágāo",
+          "pos": "dt.",
+          "vi": "kem đánh răng",
+          "en": "toothpaste"
+        },
+        {
+          "zh": "重",
+          "py": "zhòng",
+          "pos": "tt.",
+          "vi": "nặng",
+          "en": "heavy"
+        },
+        {
+          "zh": "行",
+          "py": "xíng",
+          "pos": "đgt.",
+          "vi": "được, đồng ý",
+          "en": "OK, all right"
+        },
+        {
+          "zh": "省",
+          "py": "shěng",
+          "pos": "đgt.",
+          "vi": "tiết kiệm",
+          "en": "to save"
+        },
+        {
+          "zh": "污染",
+          "py": "wūrǎn",
+          "pos": "đgt.",
+          "vi": "làm ô nhiễm",
+          "en": "to pollute"
+        }
+      ]
+    },
+    {
+      "title": "经理和服务员在谈工作",
+      "paras": [
+        {
+          "zh": "经理：小王，卫生间怎么那么脏啊？这会给客人留下不好的印象，快去打扫一下。",
+          "vi": "Giám đốc: Tiểu Vương, sao nhà vệ sinh bẩn thế? Thế này sẽ để lại ấn tượng không tốt cho khách, mau đi dọn dẹp đi.",
+          "en": "Manager: Xiao Wang, why is the toilet so dirty? It'll give customers a bad impression. Go and clean it quickly."
+        },
+        {
+          "zh": "服务员：经理，实在抱歉。今天店里太忙了，我还没来得及打扫。",
+          "vi": "Nhân viên phục vụ: Thưa giám đốc, thật sự xin lỗi. Hôm nay quán đông quá, tôi chưa kịp dọn.",
+          "en": "Waiter: I'm really sorry, sir. We've been so busy today that I haven't had time to clean it."
+        },
+        {
+          "zh": "经理：那张桌子下面还有一些空饮料瓶子和纸盒子。",
+          "vi": "Giám đốc: Dưới cái bàn kia còn mấy chai nước rỗng và hộp giấy.",
+          "en": "Manager: There are some empty drink bottles and paper boxes under that table too."
+        },
+        {
+          "zh": "服务员：好的，我马上就去把它们扔掉。",
+          "vi": "Nhân viên phục vụ: Vâng, tôi đi vứt chúng ngay.",
+          "en": "Waiter: OK, I'll throw them away right now."
+        },
+        {
+          "zh": "经理：以后你一定得{děi}注意这个问题，不管客人多多，生意多忙，我们都要保证餐厅干净卫生。",
+          "vi": "Giám đốc: Sau này cậu nhất định phải chú ý vấn đề này, dù khách đông đến đâu, làm ăn bận đến đâu, chúng ta đều phải đảm bảo nhà hàng sạch sẽ vệ sinh.",
+          "en": "Manager: From now on you must pay attention to this. However many customers there are and however busy we are, we must keep the restaurant clean and hygienic."
+        },
+        {
+          "zh": "服务员：经理您放心，我一定以最快的速度完成。不过咱们真的应该再多招聘几个服务员了。",
+          "vi": "Nhân viên phục vụ: Giám đốc yên tâm, tôi nhất định sẽ hoàn thành với tốc độ nhanh nhất. Nhưng chúng ta thật sự nên tuyển thêm mấy nhân viên phục vụ nữa.",
+          "en": "Waiter: Don't worry, sir, I'll get it done as fast as I can. But we really should hire a few more waiters."
+        }
+      ],
+      "words": [
+        {
+          "zh": "卫生间",
+          "py": "wèishēngjiān",
+          "pos": "dt.",
+          "vi": "nhà vệ sinh",
+          "en": "toilet, bathroom"
+        },
+        {
+          "zh": "脏",
+          "py": "zāng",
+          "pos": "tt.",
+          "vi": "bẩn, bẩn thỉu",
+          "en": "dirty"
+        },
+        {
+          "zh": "抱歉",
+          "py": "bàoqiàn",
+          "pos": "đgt.",
+          "vi": "xin lỗi",
+          "en": "to be sorry"
+        },
+        {
+          "zh": "空",
+          "py": "kōng",
+          "pos": "tt.",
+          "vi": "trống, rỗng, không",
+          "en": "empty"
+        },
+        {
+          "zh": "盒子",
+          "py": "hézi",
+          "pos": "dt.",
+          "vi": "hộp",
+          "en": "box"
+        },
+        {
+          "zh": "扔",
+          "py": "rēng",
+          "pos": "đgt.",
+          "vi": "vứt bỏ",
+          "en": "to throw away"
+        },
+        {
+          "zh": "以",
+          "py": "yǐ",
+          "pos": "giới.",
+          "vi": "dựa vào, bằng",
+          "en": "with, by"
+        },
+        {
+          "zh": "速度",
+          "py": "sùdù",
+          "pos": "dt.",
+          "vi": "tốc độ",
+          "en": "speed"
+        }
+      ]
+    },
+    {
+      "title": "孙月和王静在聊关于环保的事情",
+      "paras": [
+        {
+          "zh": "孙月：早上听新闻说明天有一个叫“地球一小时”的活动，你对这个活动了解吗？",
+          "vi": "Tôn Nguyệt: Sáng nay nghe tin tức nói ngày mai có một hoạt động tên là “Giờ Trái đất”, cậu có biết về hoạt động này không?",
+          "en": "Sun Yue: I heard on the news this morning that there's an event called “Earth Hour” tomorrow. Do you know about it?"
+        },
+        {
+          "zh": "王静：这个活动年年都有，最早是从2007年开始的。明天晚上很多人都会关灯一小时，支持这个活动。你没看到门口的通知吗？我们公司也参加。",
+          "vi": "Vương Tịnh: Hoạt động này năm nào cũng có, bắt đầu sớm nhất từ năm 2007. Tối mai nhiều người sẽ tắt đèn một tiếng để ủng hộ hoạt động này. Cậu không thấy thông báo ở cửa à? Công ty mình cũng tham gia.",
+          "en": "Wang Jing: It happens every year; it started in 2007. Tomorrow evening lots of people will switch off their lights for an hour to support it. Didn't you see the notice by the door? Our company is taking part too."
+        },
+        {
+          "zh": "孙月：真的吗？太好了！既然明天晚上公司会关灯停电，那么我们肯定不用加班了。",
+          "vi": "Tôn Nguyệt: Thật à? Tốt quá! Đã tối mai công ty tắt đèn cắt điện thì chắc chắn chúng mình không phải tăng ca rồi.",
+          "en": "Sun Yue: Really? Great! Since the company will turn off the lights and cut the power tomorrow evening, we definitely won't have to work overtime."
+        },
+        {
+          "zh": "王静：看你得意的样子！还以为你高兴是为了支持环保，原来是因为不用加班啊！",
+          "vi": "Vương Tịnh: Nhìn cái vẻ đắc ý của cậu kìa! Còn tưởng cậu vui vì ủng hộ bảo vệ môi trường, hóa ra là vì không phải tăng ca!",
+          "en": "Wang Jing: Look how pleased you are! I thought you were happy because you support the environment, but it's because you don't have to work late!"
+        },
+        {
+          "zh": "孙月：环境保护我当然也支持了！对了，为什么会有这么一个活动啊？",
+          "vi": "Tôn Nguyệt: Bảo vệ môi trường tớ đương nhiên cũng ủng hộ chứ! À phải, sao lại có một hoạt động như vậy nhỉ?",
+          "en": "Sun Yue: Of course I support protecting the environment too! By the way, why is there such an event?"
+        },
+        {
+          "zh": "王静：其实目的挺简单的，就是提醒人们节约用电，希望引起人们对气候变暖问题的关注。",
+          "vi": "Vương Tịnh: Thật ra mục đích khá đơn giản, chính là nhắc mọi người tiết kiệm điện, mong thu hút sự quan tâm của mọi người đến vấn đề khí hậu ấm lên.",
+          "en": "Wang Jing: The aim is actually quite simple: to remind people to save electricity and draw attention to global warming."
+        }
+      ],
+      "words": [
+        {
+          "zh": "地球",
+          "py": "dìqiú",
+          "pos": "dt.",
+          "vi": "trái đất",
+          "en": "the Earth"
+        },
+        {
+          "zh": "既然",
+          "py": "jìrán",
+          "pos": "liên.",
+          "vi": "vì, đã... thì...",
+          "en": "since, now that"
+        },
+        {
+          "zh": "停",
+          "py": "tíng",
+          "pos": "đgt.",
+          "vi": "ngừng, cúp, cắt",
+          "en": "to stop, to cut off"
+        },
+        {
+          "zh": "得意",
+          "py": "déyì",
+          "pos": "tt.",
+          "vi": "hể hả, đắc chí",
+          "en": "pleased with oneself"
+        },
+        {
+          "zh": "目的",
+          "py": "mùdì",
+          "pos": "dt.",
+          "vi": "mục đích",
+          "en": "purpose, aim"
+        },
+        {
+          "zh": "暖",
+          "py": "nuǎn",
+          "pos": "tt.",
+          "vi": "ấm, ấm áp",
+          "en": "warm"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "塑料袋给人们的生活带来方便，受到人们的普遍欢迎，可是，它的大量使用也带来了严重的环境污染问题。于是，一些国家规定，超市、商场不能为顾客提供免费塑料袋，并且鼓励大家购买可以多次使用的购物袋。我们每个人都有责任保护环境，因此，请大家节约使用塑料袋，或者购物时自备购物袋，甚至拒绝使用塑料袋。虽然这是一件很小的事，但这样做可以减少塑料袋的使用数量，对环境保护有很大的作用。",
+          "vi": "Túi nilông mang lại tiện lợi cho cuộc sống, được mọi người ưa chuộng rộng rãi, nhưng việc sử dụng với số lượng lớn cũng gây ra vấn đề ô nhiễm môi trường nghiêm trọng. Vì vậy, một số nước quy định siêu thị, trung tâm thương mại không được cung cấp túi nilông miễn phí cho khách hàng, đồng thời khuyến khích mọi người mua túi mua sắm dùng được nhiều lần. Mỗi người chúng ta đều có trách nhiệm bảo vệ môi trường, vì vậy xin mọi người tiết kiệm túi nilông, hoặc khi mua sắm tự mang túi, thậm chí từ chối dùng túi nilông. Tuy đây là một việc rất nhỏ, nhưng làm vậy có thể giảm số lượng túi nilông được sử dụng, có tác dụng rất lớn đối với việc bảo vệ môi trường.",
+          "en": "Plastic bags make life convenient and are very popular, but their massive use has also caused serious environmental pollution. So some countries have ruled that supermarkets and malls may not give customers free plastic bags, and encourage people to buy reusable shopping bags. All of us have a responsibility to protect the environment, so please use plastic bags sparingly, bring your own shopping bag, or even refuse plastic bags altogether. It's a small thing, but it can reduce the number of plastic bags used and makes a big difference to protecting the environment."
+        }
+      ],
+      "words": [
+        {
+          "zh": "塑料袋",
+          "py": "sùliàodài",
+          "pos": "dt.",
+          "vi": "túi nilông, túi nhựa",
+          "en": "plastic bag"
+        },
+        {
+          "zh": "于是",
+          "py": "yúshì",
+          "pos": "liên.",
+          "vi": "thế là",
+          "en": "so, thereupon"
+        },
+        {
+          "zh": "鼓励",
+          "py": "gǔlì",
+          "pos": "đgt.",
+          "vi": "khuyến khích",
+          "en": "to encourage"
+        },
+        {
+          "zh": "拒绝",
+          "py": "jùjué",
+          "pos": "đgt.",
+          "vi": "từ chối",
+          "en": "to refuse"
+        },
+        {
+          "zh": "减少",
+          "py": "jiǎnshǎo",
+          "pos": "đgt.",
+          "vi": "giảm bớt",
+          "en": "to reduce"
+        },
+        {
+          "zh": "数量",
+          "py": "shùliàng",
+          "pos": "dt.",
+          "vi": "số lượng",
+          "en": "quantity"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "保护地球环境，并不是一件离我们很远、很难做到的事情。实际上，我们只需注意一下身边的小事就可以。例如，夏天把空调的温度开得高一些，出门时记得关空调和电脑，这样可以节约用电；少开车，多骑车或者乘坐地铁和公共汽车，这样能降低空气污染；还有养成把垃圾丢进垃圾桶的习惯什么的。这些是我们每个人都能够做到的小事，但却有实实在在的效果。地球是我们共同的家，只有大家共同努力，减少污染、保护环境，才能使我们的家变得更美丽。",
+          "vi": "Bảo vệ môi trường trái đất không phải là việc xa vời hay khó làm. Thực tế, chúng ta chỉ cần chú ý một chút đến những việc nhỏ quanh mình là được. Ví dụ, mùa hè để nhiệt độ điều hòa cao hơn một chút, khi ra khỏi nhà nhớ tắt điều hòa và máy tính, như vậy có thể tiết kiệm điện; ít lái xe, đi xe đạp nhiều hơn hoặc đi tàu điện ngầm và xe buýt, như vậy có thể giảm ô nhiễm không khí; còn có hình thành thói quen bỏ rác vào thùng rác… Đây là những việc nhỏ mà ai cũng làm được, nhưng lại có hiệu quả thiết thực. Trái đất là ngôi nhà chung của chúng ta, chỉ khi mọi người cùng cố gắng, giảm ô nhiễm, bảo vệ môi trường thì mới khiến ngôi nhà của chúng ta đẹp hơn.",
+          "en": "Protecting the Earth's environment isn't something far away or hard to do. In fact, we just need to pay attention to small things around us. For example, set the air conditioning a bit higher in summer, and remember to turn off the air conditioning and computer when you go out, to save electricity; drive less and cycle more, or take the subway and bus, to reduce air pollution; and get into the habit of putting rubbish in the bin, and so on. These are small things anyone can do, but they have real effects. The Earth is our shared home; only if we all work together to reduce pollution and protect the environment can we make our home more beautiful."
+        }
+      ],
+      "words": [
+        {
+          "zh": "温度",
+          "py": "wēndù",
+          "pos": "dt.",
+          "vi": "nhiệt độ",
+          "en": "temperature"
+        },
+        {
+          "zh": "乘坐",
+          "py": "chéngzuò",
+          "pos": "đgt.",
+          "vi": "đi, đáp (xe buýt...)",
+          "en": "to ride, to take (transport)"
+        },
+        {
+          "zh": "丢",
+          "py": "diū",
+          "pos": "đgt.",
+          "vi": "ném, vứt",
+          "en": "to throw, to drop"
+        },
+        {
+          "zh": "垃圾桶",
+          "py": "lājītǒng",
+          "pos": "dt.",
+          "vi": "thùng rác",
+          "en": "rubbish bin"
+        },
+        {
+          "zh": "美丽",
+          "py": "měilì",
+          "pos": "tt.",
+          "vi": "đẹp",
+          "en": "beautiful"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "李进开始为什么不想带毛巾、牙膏和牙刷？后来为什么又带了？",
+        "label": "课文1",
+        "a": "开始不想带是因为【宾馆都会免费提供，而且箱子已经够重的了】。后来带了是因为【王静说要保护环境，从身边的小事做起】。",
+        "vi": "Lúc đầu không muốn mang vì khách sạn đều cung cấp miễn phí, hơn nữa vali đã đủ nặng. Sau mang vì Vương Tịnh nói phải bảo vệ môi trường, bắt đầu từ việc nhỏ quanh mình.",
+        "en": "At first he didn't want to because the hotel provides them free and his suitcase was heavy enough. He took them later because Wang Jing said they should protect the environment, starting with small things."
+      },
+      {
+        "q": "王静为什么建议李进坐地铁去机场？",
+        "label": "课文1",
+        "a": "因为【那个时间路上堵车很严重，而且坐地铁不仅省油钱，还不会污染空气】。",
+        "vi": "Vì giờ đó đường tắc nghiêm trọng, hơn nữa đi tàu điện ngầm không những tiết kiệm tiền xăng mà còn không gây ô nhiễm không khí.",
+        "en": "Because the traffic is bad at that time, and taking the subway saves petrol money and doesn't pollute the air."
+      },
+      {
+        "q": "经理希望小王做什么？店里哪些地方需要打扫？",
+        "label": "课文2",
+        "a": "经理希望小王【快去打扫一下】。【卫生间】和【那张桌子下面】需要打扫。",
+        "vi": "Giám đốc mong Tiểu Vương mau đi dọn dẹp. Nhà vệ sinh và dưới cái bàn kia cần dọn.",
+        "en": "The manager wants Xiao Wang to clean up quickly. The toilet and the area under that table need cleaning."
+      },
+      {
+        "q": "经理有什么要求？小王打算怎么做？",
+        "label": "课文2",
+        "a": "经理要求【不管客人多多，生意多忙，都要保证餐厅干净卫生】。小王打算【以最快的速度完成】。",
+        "vi": "Giám đốc yêu cầu dù khách đông đến đâu, làm ăn bận thế nào cũng phải đảm bảo nhà hàng sạch sẽ. Tiểu Vương định hoàn thành với tốc độ nhanh nhất.",
+        "en": "The manager requires the restaurant to be kept clean however busy it is. Xiao Wang plans to do it as fast as possible."
+      },
+      {
+        "q": "明天晚上孙月的公司会做什么？孙月为什么很高兴？",
+        "label": "课文3",
+        "a": "公司会【关灯停电一小时，参加“地球一小时”活动】。孙月很高兴是因为【她不用加班了】。",
+        "vi": "Công ty sẽ tắt đèn cắt điện một tiếng, tham gia hoạt động “Giờ Trái đất”. Tôn Nguyệt vui vì không phải tăng ca.",
+        "en": "The company will switch off the lights for an hour for Earth Hour. Sun Yue is happy because she won't have to work overtime."
+      },
+      {
+        "q": "“地球一小时”是个什么活动？这个活动的目的是什么？",
+        "label": "课文3",
+        "a": "是【每年很多人关灯一小时的活动，最早从2007年开始】。目的是【提醒人们节约用电，引起人们对气候变暖问题的关注】。",
+        "vi": "Là hoạt động hằng năm nhiều người tắt đèn một tiếng, bắt đầu từ năm 2007. Mục đích là nhắc mọi người tiết kiệm điện, thu hút sự quan tâm đến vấn đề khí hậu ấm lên.",
+        "en": "It's an annual event, begun in 2007, in which lots of people switch off their lights for an hour. Its aim is to remind people to save electricity and draw attention to global warming."
+      },
+      {
+        "q": "塑料袋有什么好处？有什么坏处？",
+        "label": "课文4",
+        "a": "好处是【给人们的生活带来方便】；坏处是【大量使用带来了严重的环境污染问题】。",
+        "vi": "Lợi ích là mang lại tiện lợi cho cuộc sống; tác hại là sử dụng số lượng lớn gây ô nhiễm môi trường nghiêm trọng.",
+        "en": "They make life convenient, but their massive use causes serious environmental pollution."
+      },
+      {
+        "q": "怎样解决使用塑料袋带来的污染问题？",
+        "label": "课文4",
+        "a": "【节约使用塑料袋，购物时自备购物袋，甚至拒绝使用塑料袋】。",
+        "vi": "Tiết kiệm túi nilông, mua sắm tự mang túi, thậm chí từ chối dùng túi nilông.",
+        "en": "Use plastic bags sparingly, bring your own shopping bag, or even refuse plastic bags."
+      },
+      {
+        "q": "我们需要注意哪些事情来保护地球环境？",
+        "label": "课文5",
+        "a": "【夏天把空调温度开得高一些，出门时关空调和电脑，少开车，多骑车或者乘坐地铁和公共汽车，把垃圾丢进垃圾桶】。",
+        "vi": "Mùa hè để điều hòa nhiệt độ cao hơn, ra ngoài tắt điều hòa và máy tính, ít lái xe, đi xe đạp hoặc tàu điện ngầm, xe buýt nhiều hơn, bỏ rác vào thùng rác.",
+        "en": "Set the air conditioning higher in summer, turn off the AC and computer when going out, drive less and cycle or take public transport more, and put rubbish in the bin."
+      },
+      {
+        "q": "怎样才能使地球变得更美丽？",
+        "label": "课文5",
+        "a": "【只有大家共同努力，减少污染、保护环境】，才能使地球变得更美丽。",
+        "vi": "Chỉ khi mọi người cùng nỗ lực, giảm ô nhiễm, bảo vệ môi trường thì mới khiến trái đất đẹp hơn.",
+        "en": "Only if everyone works together to reduce pollution and protect the environment can the Earth become more beautiful."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "够",
+      "uses": [
+        {
+          "vi": "Động từ 够 có nghĩa là đủ về số lượng.",
+          "en": "As a verb, 够 means 'to be enough' in quantity.",
+          "ex": [
+            {
+              "zh": "客人来了，中国人一定要把家里最好吃的东西拿出来请客人吃，并且让客人吃【够】、吃饱。",
+              "vi": "Khi có khách đến, người Trung Quốc nhất định phải mang những món ngon nhất trong nhà ra mời khách, và để khách ăn đủ, ăn no.",
+              "en": "When guests come, Chinese people always bring out the best food in the house for them and make sure they eat their fill."
+            },
+            {
+              "zh": "医生提醒我们，睡觉时间太长并不好，有时甚至会引起头疼，一般睡【够】八小时就可以了。",
+              "vi": "Bác sĩ nhắc nhở chúng ta, ngủ quá nhiều không hề tốt, có khi còn gây đau đầu, thường ngủ đủ tám tiếng là được.",
+              "en": "Doctors remind us that sleeping too long isn't good and can even cause headaches. Eight hours is usually enough."
+            }
+          ]
+        },
+        {
+          "vi": "Phó từ 够 có nghĩa là mức độ đã đạt đến một tiêu chuẩn nhất định (đủ, khá). Cấu trúc “够 + Tính từ” được dùng trong câu khẳng định, theo sau tính từ thường có 的.",
+          "en": "As an adverb, 够 means a degree has reached a certain standard: 'quite, really, enough'. In affirmative sentences the pattern 够 + adjective is usually followed by 的.",
+          "ex": [
+            {
+              "zh": "不用拿这些，宾馆都会免费提供的。再说，箱子已经【够】重【的】了！",
+              "vi": "Không cần mang mấy thứ này, khách sạn đều cung cấp miễn phí. Vả lại, vali đã đủ nặng rồi!",
+              "en": "You don't need to bring these; the hotel provides them free. Besides, the suitcase is heavy enough already!"
+            },
+            {
+              "zh": "有的人害怕失败，无法接受失败。这不仅是因为他们不【够】勇敢，还因为他们对自己要求太高。",
+              "vi": "Có người sợ thất bại, không thể chấp nhận thất bại. Đó không chỉ vì họ không đủ dũng cảm mà còn vì họ đòi hỏi bản thân quá cao.",
+              "en": "Some people are afraid of failure and can't accept it. That's not only because they aren't brave enough, but also because they demand too much of themselves."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话或句子",
+        "items": [
+          {
+            "q": "A：一共两百三十九块七。您付现金还是刷卡？\nB：____，还是刷卡吧。",
+            "hint": "够",
+            "a": "A：一共两百三十九块七。您付现金还是刷卡？\nB：【我带的现金不够】，还是刷卡吧。",
+            "vi": "A: Tổng cộng hai trăm ba mươi chín tệ bảy hào. Anh trả tiền mặt hay quẹt thẻ?\nB: Tiền mặt tôi mang không đủ, quẹt thẻ vậy.",
+            "en": "A: That's 239.70 altogether. Cash or card?\nB: I haven't brought enough cash, so card, please.",
+            "sample": true
+          },
+          {
+            "q": "A：你来得____，正好8点。\nB：那就好，我还以为迟到了。",
+            "hint": "够……的",
+            "a": "A：你来得【够准时的】，正好8点。\nB：那就好，我还以为迟到了。",
+            "vi": "A: Bạn đến đúng giờ đấy, vừa đúng 8 giờ.\nB: Thế thì tốt, tôi còn tưởng đến muộn.",
+            "en": "A: You're right on time: exactly 8 o'clock.\nB: Good, I thought I was late.",
+            "sample": true
+          },
+          {
+            "q": "这些菜____，咱们俩肯定吃不了。",
+            "hint": "够",
+            "a": "这些菜【够五个人吃的了】，咱们俩肯定吃不了。",
+            "vi": "Chỗ món này đủ cho năm người ăn, hai chúng ta chắc chắn ăn không hết.",
+            "en": "There's enough food here for five people. The two of us will never finish it.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "以",
+      "uses": [
+        {
+          "vi": "Giới từ 以 có nghĩa là dựa vào, bằng, lấy và thường được dùng trong cấu trúc “以…… + Động từ”.",
+          "en": "The preposition 以 means 'with, by, by means of' and is often used in the pattern 以…… + verb.",
+          "ex": [
+            {
+              "zh": "经理您放心，我一定【以】最快的速度完成。",
+              "vi": "Giám đốc cứ yên tâm, tôi nhất định sẽ hoàn thành với tốc độ nhanh nhất.",
+              "en": "Don't worry, boss, I'll get it done as fast as I can."
+            },
+            {
+              "zh": "事情做到“差不多”就觉得满意的人往往不会成功，只有【以】严格的标准来要求自己才会让自己变得更优秀。",
+              "vi": "Người làm việc đến mức “tàm tạm” đã thấy hài lòng thường sẽ không thành công, chỉ khi đòi hỏi bản thân bằng tiêu chuẩn nghiêm khắc mới khiến mình trở nên xuất sắc hơn.",
+              "en": "People who are satisfied with doing things “more or less” rarely succeed. Only by holding yourself to strict standards can you become better."
+            }
+          ]
+        },
+        {
+          "vi": "Cấu trúc “以……为……” có nghĩa là xem… như…, xem… là…",
+          "en": "The pattern 以……为…… means 'to take … as …, to regard … as …'.",
+          "ex": [
+            {
+              "zh": "我们应该【以】那些敢说真话的人【为】镜子，这样才能及时发现自己的缺点。",
+              "vi": "Chúng ta nên lấy những người dám nói thật làm tấm gương, như vậy mới có thể kịp thời phát hiện ra khuyết điểm của mình.",
+              "en": "We should take people who dare to tell the truth as our mirror; only then can we spot our own shortcomings in time."
+            }
+          ]
+        },
+        {
+          "vi": "Liên từ 以 chỉ mục đích, có nghĩa là để, nhằm. 以 thường được dùng ở đầu vế câu sau và chủ ngữ của hai vế câu phải giống nhau.",
+          "en": "As a conjunction, 以 expresses purpose: 'in order to, so as to'. It usually opens the second clause, and both clauses must share the same subject.",
+          "ex": [
+            {
+              "zh": "如果是十分重要的朋友，中国人往往会请他们去饭店或餐厅吃饭，【以】表示对客人的尊重和礼貌。",
+              "vi": "Nếu là bạn bè vô cùng quan trọng, người Trung Quốc thường mời họ đến khách sạn hoặc nhà hàng ăn cơm, để thể hiện sự tôn trọng và lịch sự với khách.",
+              "en": "If it's a very important friend, Chinese people often invite them to a hotel or restaurant for a meal, to show respect and courtesy to their guest."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，解决这个问题还有点儿困难。",
+            "hint": "以",
+            "a": "【以我现在的能力】，解决这个问题还有点儿困难。",
+            "vi": "Với năng lực hiện tại của tôi, giải quyết vấn đề này vẫn hơi khó.",
+            "en": "With my current abilities, solving this problem is still a bit difficult.",
+            "sample": true
+          },
+          {
+            "q": "汉语普通话____。",
+            "hint": "以……为……",
+            "a": "汉语普通话【以北京语音为标准音】。",
+            "vi": "Tiếng phổ thông Trung Quốc lấy ngữ âm Bắc Kinh làm âm chuẩn.",
+            "en": "Standard Mandarin takes Beijing pronunciation as its standard.",
+            "sample": true
+          },
+          {
+            "q": "我觉得应该降低公园门票价格，____。",
+            "hint": "以",
+            "a": "我觉得应该降低公园门票价格，【以吸引更多的游客】。",
+            "vi": "Tôi thấy nên giảm giá vé vào công viên để thu hút nhiều du khách hơn.",
+            "en": "I think the park should lower its ticket prices to attract more visitors.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "既然",
+      "uses": [
+        {
+          "vi": "Liên từ 既然 được dùng ở vế đầu của câu để diễn tả ý vì sự thật đã là như vậy (đã… thì…). Vế câu sau thường có các từ như 就, 也, 还... được dùng kết hợp với 既然 để chỉ kết luận được rút ra dựa vào tình huống được đề cập trước đó.",
+          "en": "The conjunction 既然 ('since, now that') opens the first clause, meaning 'given that this is the case'. The second clause often has 就, 也, 还, etc., to draw a conclusion from that situation.",
+          "ex": [
+            {
+              "zh": "A：你【既然】不愿意打球，为什么还要打？\nB：我是不得不打啊，因为这些天我又胖了好几斤。",
+              "vi": "A: Bạn đã không muốn chơi bóng thì sao còn chơi?\nB: Mình bắt buộc phải chơi chứ, vì mấy hôm nay mình lại tăng mấy cân rồi.",
+              "en": "A: If you don't want to play, why are you playing?\nB: I have to, because I've put on a few more pounds these past few days."
+            },
+            {
+              "zh": "A：真抱歉，明天我得{děi}出差，不能参加明天的会议了。\nB：【既然】这样，【就】只好安排在下周了。",
+              "vi": "A: Thật xin lỗi, mai tôi phải đi công tác, không thể tham gia cuộc họp ngày mai được.\nB: Đã vậy thì đành sắp xếp sang tuần sau thôi.",
+              "en": "A: I'm really sorry, I have to go on a business trip tomorrow, so I can't make tomorrow's meeting.\nB: In that case, we'll just have to schedule it for next week."
+            },
+            {
+              "zh": "【既然】明天晚上公司会关灯停电，那么我们肯定不用加班了。",
+              "vi": "Đã là tối mai công ty sẽ tắt đèn ngắt điện thì chắc chắn chúng ta không phải tăng ca rồi.",
+              "en": "Since the company is turning off the lights and cutting the power tomorrow evening, we definitely won't have to work overtime."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话或句子",
+        "items": [
+          {
+            "q": "A：这里的景色确实很不错。阳光好，空气新鲜，来这儿散步真舒服。\nB：____，以后我们可以常来。",
+            "hint": "既然",
+            "a": "A：这里的景色确实很不错。阳光好，空气新鲜，来这儿散步真舒服。\nB：【既然你这么喜欢这儿】，以后我们可以常来。",
+            "vi": "A: Phong cảnh ở đây đúng là rất đẹp. Nắng đẹp, không khí trong lành, đến đây đi dạo thật dễ chịu.\nB: Đã bạn thích nơi này như vậy thì sau này chúng ta có thể thường xuyên đến.",
+            "en": "A: The scenery here really is lovely. It's sunny, the air is fresh, and it's so pleasant to walk here.\nB: Since you like it so much, we can come often.",
+            "sample": true
+          },
+          {
+            "q": "我刚才看了一下，一共二十个人，有十五个人同意这个计划，____，那我们就通过这个计划了。",
+            "hint": "既然",
+            "a": "我刚才看了一下，一共二十个人，有十五个人同意这个计划，【既然大部分人都同意】，那我们就通过这个计划了。",
+            "vi": "Tôi vừa xem qua, tổng cộng hai mươi người, có mười lăm người đồng ý kế hoạch này, đã phần lớn mọi người đồng ý thì chúng ta thông qua kế hoạch này.",
+            "en": "I've just checked: of twenty people, fifteen agree with this plan. Since most people agree, we'll approve it.",
+            "sample": true
+          },
+          {
+            "q": "有些事情过去了就是过去了，再也不能回头。____，那么就把那些过去的事情放在心里，当成一种回忆，然后勇敢地{de}抬起头向前看，走好以后的路。",
+            "hint": "既然",
+            "a": "有些事情过去了就是过去了，再也不能回头。【既然不能改变过去】，那么就把那些过去的事情放在心里，当成一种回忆，然后勇敢地{de}抬起头向前看，走好以后的路。",
+            "vi": "Có những chuyện qua rồi là qua, không thể quay lại nữa. Đã không thể thay đổi quá khứ thì hãy cất những chuyện đã qua trong lòng, coi như một kỷ niệm, rồi dũng cảm ngẩng đầu nhìn về phía trước, đi tốt con đường sau này.",
+            "en": "Some things are in the past and can never be undone. Since we can't change the past, let's keep it in our hearts as a memory, then bravely look ahead and walk the road before us well.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "于是",
+      "uses": [
+        {
+          "vi": "Liên từ 于是 được dùng ở vế câu sau để chỉ sự việc xảy ra ngay sau sự việc được đề cập ở vế câu trước (thế là, vì vậy). 于是 thường bao hàm quan hệ tiếp nối.",
+          "en": "The conjunction 于是 ('so, thereupon') is used in the second clause to show that something happened right after, and as a follow-on from, what was said in the first clause.",
+          "ex": [
+            {
+              "zh": "听爷爷奶奶说，我妹妹出生那天，正好下了一场大雪，【于是】我爸妈就给她取名叫夏雪。",
+              "vi": "Nghe ông bà kể, hôm em gái tôi chào đời đúng lúc có một trận tuyết lớn, thế là bố mẹ tôi đặt tên em là Hạ Tuyết.",
+              "en": "My grandparents say it happened to snow heavily the day my little sister was born, so my parents named her Xia Xue."
+            },
+            {
+              "zh": "他是一位著名的记者，五年里，他去了亚洲许多国家，尝遍了各地的美食。回国后，他用一年的时间整理材料，【于是】就有了这本关于亚洲美食的书。",
+              "vi": "Ông ấy là một phóng viên nổi tiếng, trong năm năm đã đi nhiều nước châu Á, nếm hết món ngon các nơi. Về nước, ông dành một năm sắp xếp tư liệu, thế là có cuốn sách về ẩm thực châu Á này.",
+              "en": "He's a famous journalist. Over five years he visited many Asian countries and tasted the best food everywhere. Back home, he spent a year organising his material, and that's how this book on Asian food came about."
+            },
+            {
+              "zh": "……可是，它的大量使用也带来了严重的环境污染问题。【于是】，一些国家规定，超市、商场不能为顾客提供免费塑料袋，并且鼓励大家购买可以多次使用的购物袋。",
+              "vi": "…Nhưng việc sử dụng nó với số lượng lớn cũng gây ra vấn đề ô nhiễm môi trường nghiêm trọng. Vì vậy, một số nước quy định siêu thị, trung tâm thương mại không được cung cấp túi nhựa miễn phí cho khách, đồng thời khuyến khích mọi người mua túi mua sắm dùng được nhiều lần.",
+              "en": "…But its widespread use has also caused serious environmental pollution. So some countries have ruled that supermarkets and malls may not give customers free plastic bags, and they encourage people to buy reusable shopping bags."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "于是—因此",
+        "uses": [
+          {
+            "vi": "Giống nhau: 于是 và 因此 đều là liên từ, có thể được dùng trong cấu trúc “A, 于是/因此 B” để diễn tả ý do A dẫn đến B.",
+            "en": "Similarity: 于是 and 因此 are both conjunctions and can be used in 'A, 于是/因此 B' to mean that A leads to B.",
+            "ex": [
+              {
+                "zh": "小时候，他经常生病，【于是】/【因此】每天都去跑步锻炼身体。",
+                "vi": "Hồi nhỏ cậu ấy thường xuyên bị ốm, vì vậy ngày nào cũng đi chạy bộ rèn luyện thân thể.",
+                "en": "As a child he was often ill, so he went running every day to get fit."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau: Trong trường hợp trên, 于是 nhấn mạnh A xảy ra trước và B xảy ra sau, còn 因此 nhấn mạnh A là nguyên nhân và B là kết quả.",
+            "en": "Difference: 于是 stresses that A happened first and B followed; 因此 stresses that A is the cause and B the result.",
+            "ex": [
+              {
+                "zh": "大家都同意寒假去旅行，【于是】，我们开始讨论去哪里旅行的问题。",
+                "vi": "Mọi người đều đồng ý nghỉ đông đi du lịch, thế là chúng tôi bắt đầu bàn xem đi đâu.",
+                "en": "Everyone agreed to travel over the winter holiday, so we started discussing where to go."
+              },
+              {
+                "zh": "他三岁跟父亲母亲一起来到这儿，就再也没离开过这里。【因此】，他对这个地方感情很深。",
+                "vi": "Anh ấy ba tuổi đã cùng bố mẹ đến đây, rồi chưa từng rời khỏi nơi này. Vì vậy anh ấy có tình cảm rất sâu đậm với nơi này.",
+                "en": "He came here with his parents at three and has never left since. That's why he feels so deeply attached to this place."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "有些年轻人申请了信用卡，但在购物时却没有考虑自己的经济能力，最后不能按时还银行的钱，____出现严重的信用问题。",
+              "key": "于是 ✓ · 因此 ✓",
+              "a": "有些年轻人申请了信用卡，但在购物时却没有考虑自己的经济能力，最后不能按时还银行的钱，【于是】/【因此】出现严重的信用问题。",
+              "vi": "Có người trẻ làm thẻ tín dụng nhưng khi mua sắm không cân nhắc khả năng kinh tế, cuối cùng không trả được tiền ngân hàng đúng hạn, thế là nảy sinh vấn đề tín dụng nghiêm trọng.",
+              "en": "Some young people get credit cards but don't consider their means when shopping, can't repay the bank on time, and so end up with serious credit problems."
+            },
+            {
+              "q": "习惯是不容易改变的，____，在孩子小的时候，父母要帮他们养成好的生活、学习习惯。",
+              "key": "于是 ✗ · 因此 ✓ (quan hệ nhân quả)",
+              "a": "习惯是不容易改变的，【因此】，在孩子小的时候，父母要帮他们养成好的生活、学习习惯。",
+              "vi": "Thói quen không dễ thay đổi, vì vậy khi con còn nhỏ, bố mẹ phải giúp con hình thành thói quen sinh hoạt, học tập tốt.",
+              "en": "Habits aren't easy to change, so parents should help their children form good living and study habits while they're young."
+            },
+            {
+              "q": "不少人刚开始运动时，会感觉十分无聊，____很快就放弃了。",
+              "key": "于是 ✓ · 因此 ✓",
+              "a": "不少人刚开始运动时，会感觉十分无聊，【于是】/【因此】很快就放弃了。",
+              "vi": "Không ít người lúc mới tập thể dục thấy rất chán nên nhanh chóng bỏ cuộc.",
+              "en": "Many people find exercise very boring at first, so they soon give up."
+            },
+            {
+              "q": "那是1994年的冬天，那场雪下得特别大。大家都很激动，____都跑到外面去玩儿雪了。",
+              "key": "于是 ✓ (việc sau nối tiếp việc trước) · 因此 ✗",
+              "a": "那是1994年的冬天，那场雪下得特别大。大家都很激动，【于是】都跑到外面去玩儿雪了。",
+              "vi": "Đó là mùa đông năm 1994, trận tuyết đó rơi rất dày. Mọi người đều rất phấn khích, thế là chạy hết ra ngoài chơi tuyết.",
+              "en": "It was the winter of 1994, and it snowed especially heavily. Everyone was excited, so they all ran outside to play in the snow."
+            },
+            {
+              "q": "生活往往不会按照我们的计划来进行。____，光有计划还不行，还需要我们能及时地{de}对原来的计划做出改变。",
+              "key": "于是 ✗ · 因此 ✓ (quan hệ nhân quả)",
+              "a": "生活往往不会按照我们的计划来进行。【因此】，光有计划还不行，还需要我们能及时地{de}对原来的计划做出改变。",
+              "vi": "Cuộc sống thường không diễn ra theo kế hoạch của chúng ta. Vì vậy chỉ có kế hoạch thôi thì chưa đủ, còn cần chúng ta kịp thời thay đổi kế hoạch ban đầu.",
+              "en": "Life often doesn't go according to our plans. So a plan alone isn't enough; we also need to be able to change our original plans in time."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "我约了朋友在商场门口见面，我早到了一会儿，____。",
+            "hint": "于是",
+            "a": "我约了朋友在商场门口见面，我早到了一会儿，【于是就先进去逛了逛】。",
+            "vi": "Tôi hẹn bạn gặp ở cửa trung tâm thương mại, tôi đến sớm một chút nên vào trong dạo trước.",
+            "en": "I'd arranged to meet a friend at the mall entrance. I arrived a bit early, so I went in to look around first.",
+            "sample": true
+          },
+          {
+            "q": "最近几年，笔记本电脑的价格大大降低，____。",
+            "hint": "于是",
+            "a": "最近几年，笔记本电脑的价格大大降低，【于是买笔记本电脑的人越来越多了】。",
+            "vi": "Mấy năm gần đây giá máy tính xách tay giảm mạnh, thế là người mua máy tính xách tay ngày càng nhiều.",
+            "en": "In recent years laptop prices have fallen sharply, so more and more people are buying them.",
+            "sample": true
+          },
+          {
+            "q": "学习一种语言不是简单的事情，许多人在开始学的时候觉得很困难，____。",
+            "hint": "于是",
+            "a": "学习一种语言不是简单的事情，许多人在开始学的时候觉得很困难，【于是就放弃了】。",
+            "vi": "Học một ngôn ngữ không phải chuyện đơn giản, nhiều người lúc mới học thấy rất khó nên bỏ cuộc.",
+            "en": "Learning a language isn't easy. Many people find it hard at the start and so they give up.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "什么的",
+      "uses": [
+        {
+          "vi": "Trợ từ 什么的 được dùng sau sự vật được liệt kê để chỉ còn có những trường hợp khác (vân vân, các thứ). 什么的 thường được sử dụng trong văn nói.",
+          "en": "The particle 什么的 comes after a list of examples to mean there are other similar things: 'and so on, and things like that'. It is mostly spoken.",
+          "ex": [
+            {
+              "zh": "既然你不喜欢新闻专业，那就考虑考虑其他专业吧，中文、国际关系【什么的】，我和你爸都不反对。",
+              "vi": "Đã không thích ngành báo chí thì con cân nhắc các ngành khác đi, tiếng Trung, quan hệ quốc tế chẳng hạn, bố mẹ đều không phản đối.",
+              "en": "Since you don't like journalism, think about other majors, like Chinese or international relations. Your dad and I won't object."
+            },
+            {
+              "zh": "A：我们去趟超市吧，明天出去玩儿得{děi}买点儿饼干和面包。\nB：好，还有矿泉水、果汁【什么的】。",
+              "vi": "A: Mình đi siêu thị một chuyến đi, mai đi chơi phải mua ít bánh quy với bánh mì.\nB: Được, còn nước khoáng, nước hoa quả các thứ nữa.",
+              "en": "A: Let's pop to the supermarket. We need to buy some biscuits and bread for our outing tomorrow.\nB: OK, and mineral water, juice and so on."
+            },
+            {
+              "zh": "实际上，我们只需注意一下身边的小事就可以。例如，夏天把空调的温度开得高一些，出门时记得关空调和电脑，这样可以节约用电；少开车，多骑车或者乘坐地铁和公共汽车，这样能降低空气污染；还有养成把垃圾丢进垃圾桶的习惯【什么的】。",
+              "vi": "Thật ra chúng ta chỉ cần chú ý những việc nhỏ quanh mình là được. Ví dụ, mùa hè để nhiệt độ điều hòa cao hơn một chút, khi ra ngoài nhớ tắt điều hòa và máy tính để tiết kiệm điện; ít lái xe, đi xe đạp hoặc đi tàu điện ngầm, xe buýt nhiều hơn để giảm ô nhiễm không khí; còn có tạo thói quen bỏ rác vào thùng rác v.v.",
+              "en": "Actually, we just need to pay attention to small things around us. For example, set the air conditioner a bit higher in summer and remember to switch it and the computer off when you go out, to save electricity; drive less and cycle or take the subway and bus more, to reduce air pollution; get into the habit of putting rubbish in the bin, and so on."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "我们有很多共同的爱好，经常一起____。",
+            "hint": "什么的",
+            "a": "我们有很多共同的爱好，经常一起【打球、唱歌、做菜什么的】。",
+            "vi": "Chúng tôi có nhiều sở thích chung, thường cùng nhau chơi bóng, hát, nấu ăn…",
+            "en": "We have lots of hobbies in common and often play ball, sing, cook and so on together.",
+            "sample": true
+          },
+          {
+            "q": "很多东西是用钱买不到的，比如____。",
+            "hint": "什么的",
+            "a": "很多东西是用钱买不到的，比如【时间、感情、健康什么的】。",
+            "vi": "Nhiều thứ không thể mua bằng tiền, ví dụ thời gian, tình cảm, sức khỏe…",
+            "en": "Many things can't be bought with money, such as time, feelings, health and so on.",
+            "sample": true
+          },
+          {
+            "q": "现在手机的作用越来越大，人们可以用它来____。",
+            "hint": "什么的",
+            "a": "现在手机的作用越来越大，人们可以用它来【打电话、发短信、上网、购物什么的】。",
+            "vi": "Bây giờ tác dụng của điện thoại ngày càng lớn, người ta có thể dùng nó để gọi điện, nhắn tin, lên mạng, mua sắm…",
+            "en": "Mobile phones are becoming more and more useful: people can use them to call, text, go online, shop and so on.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "李进的语气：\n我明天要出差，妻子帮我把毛巾、牙膏和牙刷都放到了箱子里。……",
+          "label": "课文1",
+          "a": "我明天要出差，妻子帮我把毛巾、牙膏和牙刷都放到了箱子里。我说宾馆都会免费提供，再说箱子已经够重的了。可是她说要保护环境，就要从身边的小事做起。我明天上午10点的飞机，本来想让她开车送我去机场，可她说那个时间堵车很严重，让我坐地铁去，这样不仅省油钱，而且还不会污染空气。",
+          "vi": "Ngày mai tôi đi công tác, vợ tôi giúp tôi cho khăn mặt, kem đánh răng và bàn chải vào vali. Tôi nói khách sạn đều cung cấp miễn phí, hơn nữa vali đã đủ nặng. Nhưng cô ấy nói muốn bảo vệ môi trường thì phải bắt đầu từ việc nhỏ quanh mình. Tôi bay lúc 10 giờ sáng mai, lúc đầu định nhờ cô ấy lái xe đưa ra sân bay, nhưng cô ấy nói giờ đó tắc đường nghiêm trọng, bảo tôi đi tàu điện ngầm, như vậy vừa tiết kiệm tiền xăng vừa không làm ô nhiễm không khí.",
+          "en": "I'm going on a business trip tomorrow, and my wife packed a towel, toothpaste and toothbrush in my suitcase. I said the hotel provides them free and my suitcase was heavy enough, but she said protecting the environment starts with small things. My flight is at 10 tomorrow morning; I wanted her to drive me to the airport, but she said the traffic would be bad and told me to take the subway, which saves petrol and doesn't pollute the air.",
+          "sample": true
+        },
+        {
+          "q": "小王的语气：\n今天店里太忙了，卫生间很脏，我也没来得及打扫。……",
+          "label": "课文2",
+          "a": "今天店里太忙了，卫生间很脏，我也没来得及打扫。经理说这会给客人留下不好的印象，让我快去打扫一下，还让我把桌子下面的空饮料瓶子和纸盒子扔掉。经理要求不管客人多多，生意多忙，都要保证餐厅干净卫生。我一定以最快的速度完成。不过我觉得我们应该再多招聘几个服务员了。",
+          "vi": "Hôm nay quán đông quá, nhà vệ sinh rất bẩn mà tôi chưa kịp dọn. Giám đốc nói thế này sẽ để lại ấn tượng không tốt cho khách, bảo tôi mau đi dọn, còn bảo tôi vứt chai nước rỗng và hộp giấy dưới bàn đi. Giám đốc yêu cầu dù khách đông thế nào, làm ăn bận ra sao cũng phải đảm bảo nhà hàng sạch sẽ. Tôi nhất định sẽ làm xong nhanh nhất. Nhưng tôi thấy chúng tôi nên tuyển thêm mấy nhân viên phục vụ.",
+          "en": "We were so busy today that the toilet got dirty and I didn't have time to clean it. The manager said it would give customers a bad impression and told me to clean it quickly, and to throw away the empty bottles and boxes under the table. He insists the restaurant must be kept clean however busy we are. I'll do it as fast as I can, but I think we should hire a few more waiters.",
+          "sample": true
+        },
+        {
+          "q": "孙月的语气：\n早上听新闻说明天有一个叫“地球一小时”的活动，……",
+          "label": "课文3",
+          "a": "早上听新闻说明天有一个叫“地球一小时”的活动。王静告诉我，这个活动年年都有，最早是从2007年开始的，明天晚上很多人都会关灯一小时，我们公司也参加。既然明天晚上公司会关灯停电，那么我们肯定不用加班了。这个活动的目的就是提醒人们节约用电，希望引起人们对气候变暖问题的关注。",
+          "vi": "Sáng nay nghe tin tức nói ngày mai có hoạt động tên là “Giờ Trái đất”. Vương Tịnh nói với tôi hoạt động này năm nào cũng có, bắt đầu từ năm 2007, tối mai nhiều người sẽ tắt đèn một tiếng, công ty chúng tôi cũng tham gia. Đã tối mai công ty tắt đèn cắt điện thì chắc chắn chúng tôi không phải tăng ca. Mục đích của hoạt động này là nhắc mọi người tiết kiệm điện, thu hút sự quan tâm đến vấn đề khí hậu ấm lên.",
+          "en": "I heard on the morning news that there's an event called Earth Hour tomorrow. Wang Jing told me it happens every year, starting in 2007, and that tomorrow evening lots of people will switch off their lights for an hour; our company is taking part too. Since the company will cut the power tomorrow evening, we definitely won't have to work overtime. The event aims to remind people to save electricity and draw attention to global warming.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "拒绝",
+        "鼓励",
+        "得意",
+        "省",
+        "重{zhòng}"
+      ],
+      "items": [
+        {
+          "q": "为了____大家少抽烟，人们将每年的4月7日定为“世界无烟日”。",
+          "key": "鼓励",
+          "a": "为了【鼓励】大家少抽烟，人们将每年的4月7日定为“世界无烟日”。",
+          "vi": "Để khuyến khích mọi người hút thuốc ít đi, người ta lấy ngày 7 tháng 4 hằng năm làm “Ngày thế giới không thuốc lá”.",
+          "en": "To encourage people to smoke less, April 7th each year has been designated “World No-Smoking Day”."
+        },
+        {
+          "q": "有的人总是不好意思____朋友的要求，害怕这样会影响两个人的感情。",
+          "key": "拒绝",
+          "a": "有的人总是不好意思【拒绝】朋友的要求，害怕这样会影响两个人的感情。",
+          "vi": "Có người luôn ngại từ chối yêu cầu của bạn bè, sợ như vậy ảnh hưởng đến tình cảm hai người.",
+          "en": "Some people always feel awkward refusing friends' requests, afraid it'll damage their friendship."
+        },
+        {
+          "q": "按照规定，您只能免费带20公斤的行李，超____的部分每公斤加收全部票价的1.5%。",
+          "key": "重",
+          "a": "按照规定，您只能免费带20公斤的行李，超【重】的部分每公斤加收全部票价的1.5%。",
+          "vi": "Theo quy định, quý khách chỉ được mang miễn phí 20 kg hành lý, phần quá cân mỗi kg thu thêm 1,5% giá vé.",
+          "en": "According to the rules, you may only take 20 kg of luggage free; excess weight is charged at 1.5% of the full fare per kilo."
+        },
+        {
+          "q": "不要因一时的成功而____，也不要因一时的失败而伤心，因为那些都已经过去，重要的是怎样过好将来的生活。",
+          "key": "得意",
+          "a": "不要因一时的成功而【得意】，也不要因一时的失败而伤心，因为那些都已经过去，重要的是怎样过好将来的生活。",
+          "vi": "Đừng vì thành công nhất thời mà đắc ý, cũng đừng vì thất bại nhất thời mà đau lòng, vì những điều đó đều đã qua, quan trọng là sống tốt cuộc sống tương lai thế nào.",
+          "en": "Don't be smug about a passing success or sad about a passing failure; they're in the past. What matters is how to live well in the future."
+        },
+        {
+          "q": "山东____烟台市是中国著名的“苹果之都”。由于气候等自然条件较好，那儿的苹果个儿大，味道香甜，颜色也漂亮。",
+          "key": "省",
+          "a": "山东【省】烟台市是中国著名的“苹果之都”。由于气候等自然条件较好，那儿的苹果个儿大，味道香甜，颜色也漂亮。",
+          "vi": "Thành phố Yên Đài tỉnh Sơn Đông là “thủ phủ táo” nổi tiếng của Trung Quốc. Do khí hậu và điều kiện tự nhiên khá tốt, táo ở đó quả to, vị thơm ngọt, màu sắc cũng đẹp.",
+          "en": "Yantai in Shandong Province is China's famous “apple capital”. Thanks to its good climate and natural conditions, its apples are big, sweet and fragrant, and nicely coloured."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "扔",
+        "丢",
+        "行",
+        "出差",
+        "抱歉"
+      ],
+      "items": [
+        {
+          "q": "A：打扰一下，请问李老师在吗？\nB：他____了。你找他有事吗？",
+          "key": "出差",
+          "a": "A：打扰一下，请问李老师在吗？\nB：他【出差】了。你找他有事吗？",
+          "vi": "A: Làm phiền một chút, xin hỏi thầy Lý có ở đây không?\nB: Thầy đi công tác rồi. Bạn tìm thầy có việc gì không?",
+          "en": "A: Excuse me, is Mr. Li here?\nB: He's away on a business trip. Do you need him for something?"
+        },
+        {
+          "q": "A：喂，你还在逛街吗？我的钥匙____了，进不了门，你快回来吧。\nB：好，我马上就回去。",
+          "key": "丢",
+          "a": "A：喂，你还在逛街吗？我的钥匙【丢】了，进不了门，你快回来吧。\nB：好，我马上就回去。",
+          "vi": "A: A lô, bạn vẫn đang dạo phố à? Tôi mất chìa khóa rồi, không vào nhà được, bạn mau về đi.\nB: Được, tôi về ngay.",
+          "en": "A: Hello, are you still out shopping? I've lost my keys and can't get in. Come back quickly.\nB: OK, I'll be right back."
+        },
+        {
+          "q": "A：实在____，我来晚了。今天路上有点儿堵。\nB：没关系，请坐。你喝果汁还是咖啡？",
+          "key": "抱歉",
+          "a": "A：实在【抱歉】，我来晚了。今天路上有点儿堵。\nB：没关系，请坐。你喝果汁还是咖啡？",
+          "vi": "A: Thật sự xin lỗi, tôi đến muộn. Hôm nay đường hơi tắc.\nB: Không sao, mời ngồi. Bạn uống nước hoa quả hay cà phê?",
+          "en": "A: I'm really sorry I'm late. The traffic was a bit heavy today.\nB: That's fine, have a seat. Juice or coffee?"
+        },
+        {
+          "q": "A：垃圾桶又满了，你去____一下垃圾吧。\nB：好的，看完这个节目我就去。",
+          "key": "扔",
+          "a": "A：垃圾桶又满了，你去【扔】一下垃圾吧。\nB：好的，看完这个节目我就去。",
+          "vi": "A: Thùng rác lại đầy rồi, bạn đi đổ rác đi.\nB: Được, xem xong chương trình này tôi đi.",
+          "en": "A: The bin is full again. Go and take the rubbish out.\nB: OK, I'll go as soon as this programme's finished."
+        },
+        {
+          "q": "A：马上就要毕业了，你准备在学校附近租房子吗？\nB：学校附近房子太贵。离学校远点儿没关系，只要离地铁或者公交车站近就____。",
+          "key": "行",
+          "a": "A：马上就要毕业了，你准备在学校附近租房子吗？\nB：学校附近房子太贵。离学校远点儿没关系，只要离地铁或者公交车站近就【行】。",
+          "vi": "A: Sắp tốt nghiệp rồi, bạn định thuê nhà gần trường à?\nB: Nhà gần trường đắt quá. Xa trường một chút không sao, chỉ cần gần ga tàu điện ngầm hoặc bến xe buýt là được.",
+          "en": "A: We're about to graduate. Are you going to rent somewhere near the school?\nB: Places near the school are too expensive. It doesn't matter if it's a bit far, as long as it's near a subway or bus stop."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 度",
+    "en": "Words sharing a character: 度",
+    "words": [
+      {
+        "zh": "速度",
+        "py": "sùdù",
+        "vi": "tốc độ",
+        "en": "speed"
+      },
+      {
+        "zh": "温度",
+        "py": "wēndù",
+        "vi": "nhiệt độ",
+        "en": "temperature"
+      },
+      {
+        "zh": "态度",
+        "py": "tàidù",
+        "vi": "thái độ",
+        "en": "attitude"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "现在火车的【速度】非常快，有时乘坐火车甚至比乘坐飞机更节约时间，因为一般来说，去火车站比去机场的距离要近得多。",
+        "vi": "Bây giờ tốc độ tàu hỏa rất nhanh, có lúc đi tàu hỏa thậm chí tiết kiệm thời gian hơn đi máy bay, vì nói chung đến ga tàu gần hơn đến sân bay nhiều.",
+        "en": "Trains are very fast now, and sometimes taking the train even saves more time than flying, because railway stations are generally much closer than airports."
+      },
+      {
+        "zh": "很多人习惯在早上锻炼身体，但室外锻炼并不是越早越好，尤其是冬天，日出前【温度】较低，并不适合运动。",
+        "vi": "Nhiều người quen tập thể dục buổi sáng, nhưng tập ngoài trời không phải càng sớm càng tốt, nhất là mùa đông, trước khi mặt trời mọc nhiệt độ khá thấp, không thích hợp vận động.",
+        "en": "Many people like to exercise in the morning, but outdoor exercise isn't better the earlier it is, especially in winter, when it's cold before sunrise and not suitable for exercise."
+      },
+      {
+        "zh": "人们都希望生活会向着{zhe}好的方向变化，当我们开始改变自己的【态度】时，这种变化就开始发生了。",
+        "vi": "Ai cũng mong cuộc sống thay đổi theo hướng tốt đẹp, khi chúng ta bắt đầu thay đổi thái độ của mình thì sự thay đổi đó đã bắt đầu xảy ra.",
+        "en": "Everyone hopes life will change for the better, and when we start changing our attitude, that change has already begun."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "速度",
+        "温度",
+        "态度"
+      ],
+      "items": [
+        {
+          "q": "这个月底，我和丈夫准备开车去长白山，那边____比较低，所以要提前准备几件厚一些的衣服。",
+          "key": "温度",
+          "a": "这个月底，我和丈夫准备开车去长白山，那边【温度】比较低，所以要提前准备几件厚一些的衣服。",
+          "vi": "Cuối tháng này tôi và chồng định lái xe đi núi Trường Bạch, nhiệt độ ở đó khá thấp nên phải chuẩn bị trước mấy bộ quần áo dày.",
+          "en": "At the end of this month my husband and I are driving to Changbai Mountain. It's quite cold there, so we need to pack some warmer clothes."
+        },
+        {
+          "q": "A：小张，你有什么意见？\nB：按照现在的____，想要在规定时间内完成计划，好像有点儿困难。",
+          "key": "速度",
+          "a": "A：小张，你有什么意见？\nB：按照现在的【速度】，想要在规定时间内完成计划，好像有点儿困难。",
+          "vi": "A: Tiểu Trương, bạn có ý kiến gì không?\nB: Theo tốc độ hiện tại, muốn hoàn thành kế hoạch trong thời gian quy định có vẻ hơi khó.",
+          "en": "A: Xiao Zhang, what do you think?\nB: At the current speed, it looks a bit difficult to finish the plan in the time allowed."
+        },
+        {
+          "q": "幽默是一种积极的生活____，不但可以减轻你工作上的压力，还可以拉近人与人之间的距离。",
+          "key": "态度",
+          "a": "幽默是一种积极的生活【态度】，不但可以减轻你工作上的压力，还可以拉近人与人之间的距离。",
+          "vi": "Hài hước là một thái độ sống tích cực, không những có thể giảm áp lực công việc mà còn kéo gần khoảng cách giữa người với người.",
+          "en": "Humour is a positive attitude to life. It can not only relieve pressure at work but also bring people closer together."
+        }
+      ]
+    }
+  }
+}

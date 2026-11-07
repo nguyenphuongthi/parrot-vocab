@@ -1,0 +1,1047 @@
+{
+  "n": 35,
+  "zh": "植物会出汗。",
+  "vi": "Thực vật cũng đổ mồ hôi.",
+  "en": "Plants sweat.",
+  "texts": [
+    {
+      "title": "植物会出汗",
+      "paras": [
+        {
+          "zh": "炎热的夏天，踢完一场球赛，每个队员都已经是汗如雨下。如果这个时候，能到大树下歇一歇，喝口凉开水，吃个冰激凌，放松放松肌肉，缓解一下疲劳，那一定是件美事，可以很快恢复活力。不过，你知道吗，我们之所以能在大树下享受这种湿润荫凉，也是因为大树在“出汗”呢！",
+          "vi": "Mùa hè nóng bức, đá xong một trận bóng, cầu thủ nào cũng đã mồ hôi đầm đìa như mưa. Nếu lúc này được đến dưới gốc cây lớn nghỉ một lát, uống ngụm nước sôi để nguội, ăn một cây kem, thả lỏng cơ bắp, giảm bớt mệt mỏi, thì chắc chắn là một chuyện tuyệt vời, có thể nhanh chóng lấy lại sức sống. Nhưng bạn có biết không, sở dĩ chúng ta có thể tận hưởng bóng mát ẩm dịu dưới gốc cây lớn, cũng là vì cây lớn đang “đổ mồ hôi” đấy!",
+          "en": "On a hot summer's day, after a football match, every player is pouring with sweat. If you can rest under a big tree, have a drink of cool boiled water, eat an ice cream, relax your muscles and ease your tiredness, that's bound to be wonderful, and you'll soon get your energy back. But did you know that the reason we can enjoy this cool, moist shade under a big tree is that the tree is “sweating”!"
+        },
+        {
+          "zh": "人体要保持相对稳定的温度，一旦温度上升，大脑就会指挥我们的身体赶快出汗，这时所有汗腺开始工作，汗水就从毛孔里冒了出来。大树出的“汗”，通常是从叶片的气孔里冒出来的，不过，这种“出汗”可不是为{wèi}了降低温度，而是为{wèi}了运输养分。",
+          "vi": "Cơ thể con người phải giữ nhiệt độ tương đối ổn định, một khi nhiệt độ tăng lên, não bộ sẽ chỉ huy cơ thể nhanh chóng đổ mồ hôi, lúc này tất cả các tuyến mồ hôi bắt đầu làm việc, mồ hôi từ lỗ chân lông toát ra. “Mồ hôi” của cây lớn thường toát ra từ các khí khổng trên lá, nhưng kiểu “đổ mồ hôi” này không phải để hạ nhiệt độ, mà là để vận chuyển chất dinh dưỡng.",
+          "en": "The human body has to keep a relatively stable temperature. As soon as the temperature rises, the brain tells the body to sweat quickly; all the sweat glands start working and sweat comes out of the pores. A big tree's “sweat” usually comes out of the stomata on its leaves, but this “sweating” isn't to lower its temperature; it's to transport nutrients."
+        },
+        {
+          "zh": "我们都知道这样的常识——植物的根会吸收养分和水分，但是你有没有想过，植物是怎么控制这些成分，把它们运输到十几米甚至上百米的树梢的呢？",
+          "vi": "Chúng ta đều biết kiến thức thông thường này — rễ cây sẽ hấp thu chất dinh dưỡng và nước, nhưng bạn đã bao giờ nghĩ xem thực vật làm thế nào để điều khiển những thành phần này, vận chuyển chúng lên tận ngọn cây cao mười mấy mét thậm chí cả trăm mét chưa?",
+          "en": "We all know that the roots of plants absorb nutrients and water. But have you ever wondered how plants control these substances and transport them to treetops a dozen or even a hundred metres high?"
+        },
+        {
+          "zh": "最初人们认为{wéi}大树是通过毛细作用来提水的。所谓“毛细作用”，简单来说，就是水会顺着{zhe}很细很细的管子向上“爬”，我们在家可以用一个比较细的玻璃管体验一下。玻璃管越细，水爬升的高度就越高。可是，经过测验计算发现，以大树输送管道的尺寸产生的毛细作用，根本无法把水分送到几十米高的地方。",
+          "vi": "Ban đầu người ta cho rằng cây lớn lấy nước lên nhờ hiện tượng mao dẫn. Cái gọi là “hiện tượng mao dẫn”, nói đơn giản là nước sẽ men theo những ống rất rất nhỏ mà “bò” lên trên, ở nhà chúng ta có thể dùng một ống thủy tinh khá nhỏ để thử nghiệm. Ống thủy tinh càng nhỏ, nước bò lên càng cao. Thế nhưng, qua kiểm tra tính toán đã phát hiện, hiện tượng mao dẫn sinh ra với kích thước ống dẫn của cây lớn hoàn toàn không thể đưa nước lên chỗ cao mấy chục mét.",
+          "en": "At first people thought big trees drew water up by capillary action. “Capillary action”, simply put, means that water “climbs” up very, very thin tubes; you can try it at home with a fairly thin glass tube. The thinner the tube, the higher the water climbs. But measurements and calculations showed that the capillary action produced by the size of a tree's vessels couldn't possibly lift water dozens of metres."
+        },
+        {
+          "zh": "实际上，大树利用的是枝干顶端的那些叶片。叶子通过不停地{de}向空气中释放水汽，迫使树干中的水分自动前来补充，这样节节传递，就像是把树根吸收的水分给抽了上来。因为跟蒸腾作用有关，这种特殊的提升力就被称为{wéi}“蒸腾拉力”。不过，这个大树内部的供{gōng}水系统具体的运转状况是怎么样的，它们遵守的是一种什么样的秩序，为什么会产生如此巨大的拉力，到目前还是个谜。",
+          "vi": "Thực tế, cây lớn tận dụng những chiếc lá ở đầu cành. Lá không ngừng giải phóng hơi nước vào không khí, buộc nước trong thân cây tự động đến bổ sung, cứ thế truyền từng đoạn một, giống như hút nước mà rễ cây hấp thu lên vậy. Vì liên quan đến sự thoát hơi nước nên lực nâng đặc biệt này được gọi là “lực kéo thoát hơi nước”. Nhưng hệ thống cung cấp nước bên trong cây lớn vận hành cụ thể như thế nào, chúng tuân theo một trật tự ra sao, vì sao lại sinh ra lực kéo lớn đến vậy, đến nay vẫn còn là một bí ẩn.",
+          "en": "In fact, trees make use of the leaves at the tips of their branches. The leaves constantly release water vapour into the air, forcing water in the trunk to move up automatically to replace it; passed along section by section, it's as if the water absorbed by the roots were being sucked up. Because it's linked to transpiration, this special lifting force is called “transpiration pull”. But how exactly the tree's internal water-supply system works, what kind of order it follows and why it produces such enormous pull remain a mystery to this day."
+        }
+      ],
+      "source": "改编自《科学松鼠会》，作者：史军",
+      "words": [
+        {
+          "zh": "炎热",
+          "py": "yánrè",
+          "pos": "tt.",
+          "vi": "nóng bức",
+          "en": "scorching hot",
+          "x": true
+        },
+        {
+          "zh": "歇",
+          "py": "xiē",
+          "pos": "đgt.",
+          "vi": "nghỉ ngơi",
+          "en": "to rest"
+        },
+        {
+          "zh": "开水",
+          "py": "kāishuǐ",
+          "pos": "dt.",
+          "vi": "nước sôi",
+          "en": "boiled water"
+        },
+        {
+          "zh": "冰激凌",
+          "py": "bīngjīlíng",
+          "pos": "dt.",
+          "vi": "kem",
+          "en": "ice cream"
+        },
+        {
+          "zh": "肌肉",
+          "py": "jīròu",
+          "pos": "dt.",
+          "vi": "bắp thịt, cơ",
+          "en": "muscle"
+        },
+        {
+          "zh": "恢复",
+          "py": "huīfù",
+          "pos": "đgt.",
+          "vi": "phục hồi, lấy lại",
+          "en": "to recover, to restore"
+        },
+        {
+          "zh": "湿润",
+          "py": "shīrùn",
+          "pos": "tt.",
+          "vi": "ẩm ướt",
+          "en": "moist, humid"
+        },
+        {
+          "zh": "荫凉",
+          "py": "yìnliáng",
+          "pos": "tt.",
+          "vi": "râm mát",
+          "en": "shady and cool",
+          "x": true
+        },
+        {
+          "zh": "指挥",
+          "py": "zhǐhuī",
+          "pos": "đgt.",
+          "vi": "chỉ huy, điều khiển, ra lệnh",
+          "en": "to command, to direct"
+        },
+        {
+          "zh": "赶快",
+          "py": "gǎnkuài",
+          "pos": "phó.",
+          "vi": "mau mau, nhanh",
+          "en": "quickly, at once"
+        },
+        {
+          "zh": "汗腺",
+          "py": "hànxiàn",
+          "pos": "dt.",
+          "vi": "tuyến mồ hôi",
+          "en": "sweat gland",
+          "x": true
+        },
+        {
+          "zh": "毛孔",
+          "py": "máokǒng",
+          "pos": "dt.",
+          "vi": "lỗ chân lông",
+          "en": "pore",
+          "x": true
+        },
+        {
+          "zh": "冒",
+          "py": "mào",
+          "pos": "đgt.",
+          "vi": "bốc lên, toát ra, phả ra",
+          "en": "to emit, to give off",
+          "x": true
+        },
+        {
+          "zh": "片",
+          "py": "piàn",
+          "pos": "dt.",
+          "vi": "tấm, mảnh",
+          "en": "flat piece, slice"
+        },
+        {
+          "zh": "常识",
+          "py": "chángshí",
+          "pos": "dt.",
+          "vi": "kiến thức thông thường",
+          "en": "common knowledge"
+        },
+        {
+          "zh": "根",
+          "py": "gēn",
+          "pos": "dt.",
+          "vi": "rễ cây",
+          "en": "root"
+        },
+        {
+          "zh": "吸收",
+          "py": "xīshōu",
+          "pos": "đgt.",
+          "vi": "hấp thu, hút",
+          "en": "to absorb"
+        },
+        {
+          "zh": "控制",
+          "py": "kòngzhì",
+          "pos": "đgt.",
+          "vi": "kiểm soát, điều khiển",
+          "en": "to control"
+        },
+        {
+          "zh": "成分",
+          "py": "chéngfèn",
+          "pos": "dt.",
+          "vi": "thành phần",
+          "en": "component, ingredient"
+        },
+        {
+          "zh": "梢",
+          "py": "shāo",
+          "pos": "dt.",
+          "vi": "ngọn (cây)",
+          "en": "tip (of a branch), treetop",
+          "x": true
+        },
+        {
+          "zh": "管子",
+          "py": "guǎnzi",
+          "pos": "dt.",
+          "vi": "ống, ống dẫn",
+          "en": "tube, pipe"
+        },
+        {
+          "zh": "玻璃",
+          "py": "bōli",
+          "pos": "dt.",
+          "vi": "pha-lê, thủy tinh, kính",
+          "en": "glass"
+        },
+        {
+          "zh": "测验",
+          "py": "cèyàn",
+          "pos": "đgt.",
+          "vi": "kiểm tra",
+          "en": "to test, to measure"
+        },
+        {
+          "zh": "根本",
+          "py": "gēnběn",
+          "pos": "phó.",
+          "vi": "(thường dùng trong câu phủ định) tuyệt nhiên, không hề",
+          "en": "(usually in negatives) at all, simply"
+        },
+        {
+          "zh": "枝干",
+          "py": "zhīgàn",
+          "pos": "dt.",
+          "vi": "cành cây",
+          "en": "branches and trunk",
+          "x": true
+        },
+        {
+          "zh": "释放",
+          "py": "shìfàng",
+          "pos": "đgt.",
+          "vi": "phóng thích, tỏa ra",
+          "en": "to release",
+          "x": true
+        },
+        {
+          "zh": "自动",
+          "py": "zìdòng",
+          "pos": "phó.",
+          "vi": "tự động, tự",
+          "en": "automatically"
+        },
+        {
+          "zh": "补充",
+          "py": "bǔchōng",
+          "pos": "đgt.",
+          "vi": "cung cấp thêm, bổ sung",
+          "en": "to replenish, to supplement"
+        },
+        {
+          "zh": "抽",
+          "py": "chōu",
+          "pos": "đgt.",
+          "vi": "rút ra, hút, bơm",
+          "en": "to draw, to pump",
+          "x": true
+        },
+        {
+          "zh": "蒸腾",
+          "py": "zhēngténg",
+          "pos": "đgt.",
+          "vi": "bốc hơi",
+          "en": "to evaporate; transpiration",
+          "x": true
+        },
+        {
+          "zh": "特殊",
+          "py": "tèshū",
+          "pos": "tt.",
+          "vi": "đặc biệt, đặc thù",
+          "en": "special, particular"
+        },
+        {
+          "zh": "内部",
+          "py": "nèibù",
+          "pos": "dt.",
+          "vi": "nội bộ, bên trong",
+          "en": "interior, inside"
+        },
+        {
+          "zh": "系统",
+          "py": "xìtǒng",
+          "pos": "dt.",
+          "vi": "hệ thống",
+          "en": "system"
+        },
+        {
+          "zh": "状况",
+          "py": "zhuàngkuàng",
+          "pos": "dt.",
+          "vi": "tình hình, tình trạng",
+          "en": "condition, situation"
+        },
+        {
+          "zh": "秩序",
+          "py": "zhìxù",
+          "pos": "dt.",
+          "vi": "trật tự",
+          "en": "order"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "赶快",
+      "uses": [
+        {
+          "vi": "赶快 là phó từ, có nghĩa là “tranh thủ thời gian, đẩy nhanh tốc độ” (mau, nhanh lên).",
+          "en": "赶快 is an adverb meaning “to make the most of the time and speed up” (quickly, hurry up and …).",
+          "ex": [
+            {
+              "zh": "我下个月要搬家，得{děi}【赶快】找房子。",
+              "vi": "Tháng sau tôi phải chuyển nhà, phải mau chóng tìm nhà.",
+              "en": "I'm moving next month, so I need to find somewhere quickly."
+            },
+            {
+              "zh": "这份材料下午开会要用，你【赶快】把它复印一下。",
+              "vi": "Tài liệu này chiều họp phải dùng, anh mau đi photo đi.",
+              "en": "We need this document for the meeting this afternoon — photocopy it quickly."
+            },
+            {
+              "zh": "……一旦温度上升，大脑就会指挥我们的身体【赶快】出汗，……",
+              "vi": "… một khi nhiệt độ tăng lên, não bộ sẽ chỉ huy cơ thể nhanh chóng đổ mồ hôi, …",
+              "en": "… as soon as the temperature rises, the brain tells the body to sweat quickly …"
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "____，要不该赶上堵车了。",
+            "hint": "赶快",
+            "a": "【我们赶快出发吧】，要不该赶上堵车了。",
+            "vi": "Chúng ta mau xuất phát đi, không thì sẽ gặp tắc đường đấy.",
+            "en": "Let's set off quickly, or we'll get caught in the traffic.",
+            "sample": true
+          },
+          {
+            "q": "A：____。\nB：好，我马上就收拾好了。",
+            "hint": "赶快",
+            "a": "A：【快八点了，你赶快收拾一下，我们要出门了】。\nB：好，我马上就收拾好了。",
+            "vi": "A: Sắp tám giờ rồi, em mau thu dọn đi, chúng ta phải ra ngoài rồi.\nB: Vâng, em thu dọn xong ngay đây.",
+            "en": "A: It's nearly eight. Hurry up and get ready — we need to go out.\nB: OK, I'll be ready in a minute.",
+            "sample": true
+          },
+          {
+            "q": "A：你怎么还在玩儿游戏？火车票预定了吗？\nB：____。",
+            "hint": "赶快",
+            "a": "A：你怎么还在玩儿游戏？火车票预定了吗？\nB：【哎呀，我忘了，我赶快上网订】。",
+            "vi": "A: Sao bạn vẫn còn chơi game? Đã đặt vé tàu chưa?\nB: Ôi, tôi quên mất, tôi lên mạng đặt ngay đây.",
+            "en": "A: Why are you still playing games? Have you booked the train tickets?\nB: Oh no, I forgot! I'll book them online right away.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "片",
+      "uses": [
+        {
+          "vi": "片 là danh từ, chỉ vật phẳng và mỏng, thường không quá lớn (miếng, mảnh, tấm).",
+          "en": "片 is a noun meaning something flat and thin, usually not very big (piece, slice, flake).",
+          "ex": [
+            {
+              "zh": "瓶子里装着{zhe}满满的石头、玻璃碎片和沙子。",
+              "vi": "Trong chai chứa đầy đá, mảnh thủy tinh vỡ và cát.",
+              "en": "The bottle was full of stones, broken glass and sand."
+            },
+            {
+              "zh": "大树出的“汗”，通常是从叶【片】的气孔里冒出来的，……",
+              "vi": "“Mồ hôi” của cây lớn thường toát ra từ các khí khổng trên lá, …",
+              "en": "A big tree's “sweat” usually comes out of the stomata on its leaves …"
+            }
+          ]
+        },
+        {
+          "vi": "片 còn là lượng từ, dùng cho vật thành mảnh, thành tấm; cũng dùng cho âm thanh, cảnh sắc… (miếng, viên, vùng, tràng).",
+          "en": "片 is also a measure word for flat pieces, and for sounds, scenery, etc. (slice, tablet, stretch, burst).",
+          "ex": [
+            {
+              "zh": "窗外有一棵大树，秋风中，叶子一【片】【片】地{de}掉落下来。",
+              "vi": "Ngoài cửa sổ có một cây lớn, trong gió thu, lá rơi xuống từng chiếc từng chiếc.",
+              "en": "There's a big tree outside the window; in the autumn wind its leaves fall one by one."
+            },
+            {
+              "zh": "同学们听了，发出一【片】热烈的欢呼声。",
+              "vi": "Các bạn học nghe xong, vang lên một tràng reo hò nhiệt liệt.",
+              "en": "When the students heard this, they burst into enthusiastic cheers."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "A：我来切{qiē}菜吧，土豆怎么切{qiē}？\nB：____。",
+            "hint": "片（名词）",
+            "a": "A：我来切{qiē}菜吧，土豆怎么切{qiē}？\nB：【切{qiē}成薄{báo}片就行】。",
+            "vi": "A: Để tôi thái rau cho, khoai tây thái thế nào?\nB: Thái thành lát mỏng là được.",
+            "en": "A: Let me do the chopping. How should I cut the potatoes?\nB: Just slice them thinly.",
+            "sample": true
+          },
+          {
+            "q": "今天早上我吃了____。",
+            "hint": "片（量词）",
+            "a": "今天早上我吃了【两片面包和一个鸡蛋】。",
+            "vi": "Sáng nay tôi ăn hai lát bánh mì và một quả trứng gà.",
+            "en": "This morning I had two slices of bread and an egg.",
+            "sample": true
+          },
+          {
+            "q": "A：这药怎么吃？\nB：____。",
+            "hint": "片（量词）",
+            "a": "A：这药怎么吃？\nB：【一天三次，每次两片】。",
+            "vi": "A: Thuốc này uống thế nào?\nB: Một ngày ba lần, mỗi lần hai viên.",
+            "en": "A: How should I take this medicine?\nB: Two tablets, three times a day.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "根本",
+      "uses": [
+        {
+          "vi": "根本 là danh từ, chỉ bộ phận quan trọng nhất của sự vật (căn bản, gốc rễ).",
+          "en": "根本 is a noun meaning the most important part of something (the root, the foundation).",
+          "ex": [
+            {
+              "zh": "教育是国家的【根本】。",
+              "vi": "Giáo dục là gốc rễ của quốc gia.",
+              "en": "Education is the foundation of a nation."
+            },
+            {
+              "zh": "这个办法只能救急，不能从【根本】上解决问题。",
+              "vi": "Cách này chỉ có thể giải quyết tình thế cấp bách, không thể giải quyết vấn đề tận gốc.",
+              "en": "This method can only deal with the emergency; it can't solve the problem at its root."
+            }
+          ]
+        },
+        {
+          "vi": "根本 còn là tính từ, có nghĩa là “chủ yếu, quan trọng nhất, có tác dụng quyết định” (căn bản, cơ bản).",
+          "en": "根本 is also an adjective meaning “main, most important, decisive” (fundamental, basic).",
+          "ex": [
+            {
+              "zh": "谈判还算顺利，一些【根本】的问题都谈好了。",
+              "vi": "Cuộc đàm phán khá suôn sẻ, một số vấn đề căn bản đều đã bàn xong.",
+              "en": "The negotiations went fairly smoothly; some of the fundamental issues have been agreed."
+            },
+            {
+              "zh": "政府工作应从人民的【根本】利益出发。",
+              "vi": "Công việc của chính phủ nên xuất phát từ lợi ích căn bản của nhân dân.",
+              "en": "Government work should start from the fundamental interests of the people."
+            }
+          ]
+        },
+        {
+          "vi": "根本 cũng là phó từ, biểu thị từ đầu đến cuối, trước sau như một, phần nhiều dùng trong câu phủ định (hoàn toàn, căn bản không).",
+          "en": "根本 is also an adverb meaning from start to finish, all along; it's mostly used in negative sentences (not … at all).",
+          "ex": [
+            {
+              "zh": "有时候我会梦见参加考试，可是却发现自己【根本】读不懂考试的题目。",
+              "vi": "Có lúc tôi mơ thấy mình đi thi, nhưng lại phát hiện mình hoàn toàn đọc không hiểu đề thi.",
+              "en": "Sometimes I dream I'm sitting an exam, only to find I can't understand the questions at all."
+            },
+            {
+              "zh": "可是，经过测验计算发现，以大树输送管道的尺寸产生的毛细作用，【根本】无法把水分送到几十米高的地方。",
+              "vi": "Thế nhưng, qua kiểm tra tính toán đã phát hiện, hiện tượng mao dẫn sinh ra với kích thước ống dẫn của cây lớn hoàn toàn không thể đưa nước lên chỗ cao mấy chục mét.",
+              "en": "But measurements and calculations showed that capillary action in tubes the size of a tree's vessels couldn't possibly lift water dozens of metres."
+            }
+          ]
+        },
+        {
+          "vi": "Khi làm phó từ, 根本 còn biểu thị triệt để, hoàn toàn.",
+          "en": "As an adverb, 根本 can also mean thoroughly, completely.",
+          "ex": [
+            {
+              "zh": "事情已经【根本】解决了。",
+              "vi": "Sự việc đã được giải quyết triệt để rồi.",
+              "en": "The matter has been completely resolved."
+            },
+            {
+              "zh": "他【根本】就是在故意找我们的麻烦。",
+              "vi": "Anh ta hoàn toàn là đang cố tình gây phiền phức cho chúng ta.",
+              "en": "He's simply going out of his way to cause us trouble."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "A：你觉得他说的话有道理吗？\nB：____。",
+            "hint": "根本",
+            "a": "A：你觉得他说的话有道理吗？\nB：【他说的根本没有道理】。",
+            "vi": "A: Bạn thấy lời anh ta nói có lý không?\nB: Anh ta nói hoàn toàn không có lý.",
+            "en": "A: Do you think what he said makes sense?\nB: It makes no sense at all.",
+            "sample": true
+          },
+          {
+            "q": "搬家要整理的东西太多了，____。",
+            "hint": "根本",
+            "a": "搬家要整理的东西太多了，【一个人根本收拾不完】。",
+            "vi": "Chuyển nhà có quá nhiều đồ phải sắp xếp, một mình hoàn toàn không dọn xong được.",
+            "en": "There's so much to sort out for the move; one person couldn't possibly finish it.",
+            "sample": true
+          },
+          {
+            "q": "秦国人在赵国四处散布谣言，说秦军最怕赵括，____。",
+            "hint": "根本",
+            "a": "秦国人在赵国四处散布谣言，说秦军最怕赵括，【根本不怕廉颇】。",
+            "vi": "Người nước Tần tung tin đồn khắp nước Triệu, nói rằng quân Tần sợ nhất Triệu Quát, căn bản không sợ Liêm Pha.",
+            "en": "The Qin spread rumours all over Zhao that the Qin army feared Zhao Kuo most and wasn't afraid of Lian Po at all.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "特殊—特别",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: khi làm tính từ, 特殊 và 特别 đều có nghĩa khác với thông thường.",
+          "en": "Similarity: as adjectives, 特殊 and 特别 both mean different from the ordinary.",
+          "ex": [
+            {
+              "zh": "对我来说，他是一个【特殊】/【特别】的人。",
+              "vi": "Đối với tôi, anh ấy là một người đặc biệt.",
+              "en": "To me, he's someone special."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 1: 特殊 phần nhiều dùng trong văn viết; 特别 dùng được cả trong khẩu ngữ và văn viết.",
+          "en": "Difference 1: 特殊 is mostly written; 特别 is used in both speech and writing.",
+          "ex": [
+            {
+              "zh": "因为跟蒸腾作用有关，这种【特殊】的提升力就被称为{wéi}“蒸腾拉力”。",
+              "vi": "Vì liên quan đến sự thoát hơi nước nên lực nâng đặc biệt này được gọi là “lực kéo thoát hơi nước”.",
+              "en": "Because it's linked to transpiration, this special lifting force is called “transpiration pull”."
+            },
+            {
+              "zh": "她穿衣服总是很【特别】。",
+              "vi": "Cô ấy ăn mặc lúc nào cũng rất đặc biệt.",
+              "en": "She always dresses very distinctively."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: 特殊 không có cách dùng này; 特别 còn có thể làm phó từ, có nghĩa là “格外” (đặc biệt, vô cùng).",
+          "en": "Difference 2: 特别 can also be an adverb meaning 格外 (especially, particularly); 特殊 has no such use.",
+          "ex": [
+            {
+              "zh": "我【特别】喜欢学中文，尤其是汉字。",
+              "vi": "Tôi đặc biệt thích học tiếng Trung, nhất là chữ Hán.",
+              "en": "I especially like learning Chinese, particularly the characters."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "治疗这种病需要一种____的药。",
+            "key": "特殊 ✓ · 特别 ✓",
+            "a": "治疗这种病需要一种【特殊】/【特别】的药。",
+            "vi": "Chữa bệnh này cần một loại thuốc đặc biệt.",
+            "en": "Treating this disease requires a special drug."
+          },
+          {
+            "q": "这种情况比较____，我原来没见过。",
+            "key": "特殊 ✓ · 特别 ✓",
+            "a": "这种情况比较【特殊】/【特别】，我原来没见过。",
+            "vi": "Tình huống này khá đặc biệt, trước đây tôi chưa từng gặp.",
+            "en": "This situation is rather unusual; I've never seen it before."
+          },
+          {
+            "q": "我喜欢北京，____是北京的秋天。",
+            "key": "特殊 ✗ · 特别 ✓ (phó từ: nhất là)",
+            "a": "我喜欢北京，【特别】是北京的秋天。",
+            "vi": "Tôi thích Bắc Kinh, đặc biệt là mùa thu Bắc Kinh.",
+            "en": "I like Beijing, especially Beijing in autumn."
+          },
+          {
+            "q": "夏天运动后在大树下坐一会儿，喝口凉开水，____舒服。",
+            "key": "特殊 ✗ · 特别 ✓ (phó từ: vô cùng)",
+            "a": "夏天运动后在大树下坐一会儿，喝口凉开水，【特别】舒服。",
+            "vi": "Mùa hè vận động xong ngồi dưới gốc cây lớn một lát, uống ngụm nước nguội, cực kỳ dễ chịu.",
+            "en": "After exercising in summer, sitting under a big tree for a while with a drink of cool water is especially pleasant."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "感觉/缓解",
+            "疲劳"
+          ],
+          "vi": "cảm thấy mệt mỏi / giảm bớt mệt mỏi",
+          "en": "feel tired / ease fatigue"
+        },
+        {
+          "zh": [
+            "指挥",
+            "士兵/军队"
+          ],
+          "vi": "chỉ huy binh lính / quân đội",
+          "en": "command soldiers / an army"
+        },
+        {
+          "zh": [
+            "补充",
+            "信息/营养/人员/资金"
+          ],
+          "vi": "bổ sung thông tin / dinh dưỡng / nhân sự / vốn",
+          "en": "add information / nutrition / staff / funds"
+        },
+        {
+          "zh": [
+            "遵守/破坏",
+            "秩序"
+          ],
+          "vi": "tuân thủ / phá hoại trật tự",
+          "en": "keep / disrupt order"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "有效/直接/大量/完全",
+            "吸收"
+          ],
+          "vi": "hấp thu hiệu quả / trực tiếp / với số lượng lớn / hoàn toàn",
+          "en": "absorb effectively / directly / in large quantities / completely"
+        },
+        {
+          "zh": [
+            "自动",
+            "离开/辞职/打开/燃烧"
+          ],
+          "vi": "tự rời đi / tự xin nghỉ việc / tự động mở ra / tự bốc cháy",
+          "en": "leave of one's own accord / resign voluntarily / open automatically / burn spontaneously"
+        }
+      ]
+    },
+    {
+      "a": "中心语",
+      "b": "补语",
+      "rows": [
+        {
+          "zh": [
+            "歇",
+            "一会儿/两天"
+          ],
+          "vi": "nghỉ một lát / nghỉ hai ngày",
+          "en": "rest for a while / for a couple of days"
+        },
+        {
+          "zh": [
+            "恢复",
+            "过来/得很快"
+          ],
+          "vi": "hồi phục lại / hồi phục rất nhanh",
+          "en": "recover / recover quickly"
+        }
+      ]
+    },
+    {
+      "a": "数量词",
+      "b": "名词",
+      "rows": [
+        {
+          "zh": [
+            "一壶/杯/瓶",
+            "开水"
+          ],
+          "vi": "một ấm / cốc / bình nước sôi",
+          "en": "a pot / glass / bottle of boiled water"
+        },
+        {
+          "zh": [
+            "一片",
+            "面包/西瓜/药/草地/树林/天空/欢笑声"
+          ],
+          "vi": "một lát bánh mì / miếng dưa hấu / viên thuốc / bãi cỏ / cánh rừng / khoảng trời / tràng cười vui",
+          "en": "a slice of bread / of watermelon / a tablet / a stretch of grass / woodland / sky / a burst of laughter"
+        },
+        {
+          "zh": [
+            "一根/支",
+            "管子"
+          ],
+          "vi": "một cái ống",
+          "en": "a tube, a pipe"
+        },
+        {
+          "zh": [
+            "一块",
+            "玻璃"
+          ],
+          "vi": "một tấm kính",
+          "en": "a pane of glass"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "测验",
+        "根本",
+        "内部",
+        "疲劳",
+        "系统",
+        "自动"
+      ],
+      "items": [
+        {
+          "q": "有时候，睡觉并不一定能缓解____。",
+          "key": "疲劳",
+          "a": "有时候，睡觉并不一定能缓解【疲劳】。",
+          "vi": "Có lúc ngủ chưa chắc đã giảm được mệt mỏi.",
+          "en": "Sometimes sleeping doesn't necessarily relieve tiredness."
+        },
+        {
+          "q": "你的电脑太慢了，应该去给____做一下升级。",
+          "key": "系统",
+          "a": "你的电脑太慢了，应该去给【系统】做一下升级。",
+          "vi": "Máy tính của bạn chậm quá, nên nâng cấp hệ thống đi.",
+          "en": "Your computer's too slow; you should upgrade the system."
+        },
+        {
+          "q": "其实他是位盲人，____看不见你的动作。",
+          "key": "根本",
+          "a": "其实他是位盲人，【根本】看不见你的动作。",
+          "vi": "Thật ra ông ấy là người khiếm thị, hoàn toàn không nhìn thấy động tác của bạn.",
+          "en": "Actually he's blind; he can't see your gestures at all."
+        },
+        {
+          "q": "楼下新装了一台____售货机。",
+          "key": "自动",
+          "a": "楼下新装了一台【自动】售货机。",
+          "vi": "Dưới tầng mới lắp một máy bán hàng tự động.",
+          "en": "A new vending machine has been installed downstairs."
+        },
+        {
+          "q": "一位心理学家找来两个7岁的孩子进行一项心理____。",
+          "key": "测验",
+          "a": "一位心理学家找来两个7岁的孩子进行一项心理【测验】。",
+          "vi": "Một nhà tâm lý học tìm hai đứa trẻ 7 tuổi để tiến hành một bài kiểm tra tâm lý.",
+          "en": "A psychologist got two seven-year-olds to do a psychological test."
+        },
+        {
+          "q": "这是我们公司____的问题，我们自己来解决吧。",
+          "key": "内部",
+          "a": "这是我们公司【内部】的问题，我们自己来解决吧。",
+          "vi": "Đây là vấn đề nội bộ của công ty chúng tôi, để chúng tôi tự giải quyết.",
+          "en": "This is an internal matter for our company; we'll sort it out ourselves."
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "这是你第几次错了？！怎么不____教训呢？",
+          "opts": [
+            "A. 吸取",
+            "B. 吸收"
+          ],
+          "key": "A",
+          "a": "这是你第几次错了？！怎么不【吸取】教训呢？",
+          "vi": "Đây là lần thứ mấy bạn sai rồi?! Sao không rút ra bài học?",
+          "en": "How many times have you got this wrong now?! Why don't you learn your lesson?"
+        },
+        {
+          "q": "你太激动了，最好____一下你的情绪。",
+          "opts": [
+            "A. 限制",
+            "B. 控制"
+          ],
+          "key": "B",
+          "a": "你太激动了，最好【控制】一下你的情绪。",
+          "vi": "Bạn kích động quá, tốt nhất nên kiềm chế cảm xúc một chút.",
+          "en": "You're too worked up; you'd better get your emotions under control."
+        },
+        {
+          "q": "是他____提出要去参加这次比赛的。",
+          "opts": [
+            "A. 自动",
+            "B. 主动"
+          ],
+          "key": "B",
+          "a": "是他【主动】提出要去参加这次比赛的。",
+          "vi": "Chính cậu ấy chủ động đề nghị đi tham gia cuộc thi lần này.",
+          "en": "It was he who volunteered to take part in this competition."
+        },
+        {
+          "q": "今天的比赛____良好，没有球迷闹事。",
+          "opts": [
+            "A. 秩序",
+            "B. 规则"
+          ],
+          "key": "A",
+          "a": "今天的比赛【秩序】良好，没有球迷闹事。",
+          "vi": "Trận đấu hôm nay trật tự tốt, không có cổ động viên gây rối.",
+          "en": "Today's match was orderly; there was no trouble from the fans."
+        }
+      ]
+    },
+    {
+      "title": "画线连接可以搭配的词语",
+      "bank": [
+        "玻璃",
+        "开水",
+        "天空",
+        "管子",
+        "水分",
+        "秩序",
+        "状况",
+        "疲劳"
+      ],
+      "items": [
+        {
+          "q": "一壶 ____",
+          "key": "开水",
+          "a": "一壶【开水】",
+          "vi": "một ấm nước sôi",
+          "en": "a pot of boiled water"
+        },
+        {
+          "q": "一根 ____",
+          "key": "管子",
+          "a": "一根【管子】",
+          "vi": "một cái ống",
+          "en": "a pipe"
+        },
+        {
+          "q": "一块 ____",
+          "key": "玻璃",
+          "a": "一块【玻璃】",
+          "vi": "một tấm kính",
+          "en": "a pane of glass"
+        },
+        {
+          "q": "一片 ____",
+          "key": "天空",
+          "a": "一片【天空】",
+          "vi": "một khoảng trời",
+          "en": "a stretch of sky"
+        },
+        {
+          "q": "恢复 ____",
+          "key": "疲劳",
+          "a": "恢复【疲劳】",
+          "vi": "hồi phục sau mệt mỏi",
+          "en": "recover from fatigue"
+        },
+        {
+          "q": "了解 ____",
+          "key": "状况",
+          "a": "了解【状况】",
+          "vi": "tìm hiểu tình hình",
+          "en": "find out the situation"
+        },
+        {
+          "q": "补充 ____",
+          "key": "水分",
+          "a": "补充【水分】",
+          "vi": "bổ sung nước",
+          "en": "rehydrate"
+        },
+        {
+          "q": "遵守 ____",
+          "key": "秩序",
+          "a": "遵守【秩序】",
+          "vi": "tuân thủ trật tự",
+          "en": "keep order"
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "运动之后",
+          "hint": "歇、肌肉、恢复、湿润",
+          "a": "炎热的夏天踢完球，到大树下【歇】一歇，放松放松【肌肉】，可以很快【恢复】活力。我们之所以能在大树下享受【湿润】荫凉，是因为大树在“出汗”。",
+          "vi": "Mùa hè nóng bức đá bóng xong, đến dưới gốc cây lớn nghỉ một lát, thả lỏng cơ bắp, có thể nhanh chóng lấy lại sức sống. Sở dĩ chúng ta có thể tận hưởng bóng mát ẩm dịu dưới gốc cây lớn là vì cây đang “đổ mồ hôi”.",
+          "en": "After a football match on a hot summer's day, resting under a big tree and relaxing your muscles helps you recover quickly. We can enjoy the cool, moist shade there because the tree is “sweating”.",
+          "sample": true
+        },
+        {
+          "q": "人出汗与大树“出汗”",
+          "hint": "指挥、赶快、片、运输",
+          "a": "温度上升时，大脑会【指挥】身体【赶快】出汗，降低温度。大树的“汗”是从叶【片】的气孔里冒出来的，不是为{wèi}了降温，而是为{wèi}了【运输】养分。",
+          "vi": "Khi nhiệt độ tăng, não bộ chỉ huy cơ thể nhanh chóng đổ mồ hôi để hạ nhiệt. “Mồ hôi” của cây toát ra từ khí khổng trên lá, không phải để hạ nhiệt mà là để vận chuyển chất dinh dưỡng.",
+          "en": "When the temperature rises, the brain tells the body to sweat quickly to cool down. A tree's “sweat” comes out of the stomata on its leaves, not to cool it but to transport nutrients.",
+          "sample": true
+        },
+        {
+          "q": "大树怎么“出汗”",
+          "hint": "吸收、控制、管子、根本、自动、特殊、状况、秩序",
+          "a": "植物的根会【吸收】养分和水分，那植物怎么【控制】这些成分并运到树梢呢？人们以为是毛细作用，水会顺着{zhe}很细的【管子】往上爬，但计算发现，毛细作用【根本】无法把水送到几十米高的地方。实际上，叶子不停地{de}释放水汽，迫使树干中的水分【自动】补充上来，这种【特殊】的力叫“蒸腾拉力”。不过，大树供{gōng}水系统的具体【状况】和【秩序】还是个谜。",
+          "vi": "Rễ cây hấp thu chất dinh dưỡng và nước, vậy thực vật kiểm soát các thành phần này và đưa lên ngọn cây như thế nào? Người ta tưởng là nhờ hiện tượng mao dẫn, nước men theo những ống rất nhỏ bò lên, nhưng tính toán phát hiện hiện tượng mao dẫn hoàn toàn không thể đưa nước lên cao mấy chục mét. Thực tế, lá không ngừng giải phóng hơi nước, buộc nước trong thân cây tự động bổ sung lên, lực đặc biệt này gọi là “lực kéo thoát hơi nước”. Nhưng tình trạng cụ thể và trật tự của hệ thống cung cấp nước trong cây vẫn là một bí ẩn.",
+          "en": "Roots absorb nutrients and water, but how do plants control these substances and carry them to the treetops? People thought it was capillary action — water climbing up very thin tubes — but calculations showed it couldn't possibly lift water dozens of metres. In fact, leaves keep releasing water vapour, forcing water in the trunk to move up automatically; this special force is called “transpiration pull”. How the tree's water-supply system actually works, and the order it follows, is still a mystery.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "动物 · 植物",
+    "vi": "Động vật · Thực vật",
+    "en": "Animals · Plants",
+    "words": [
+      {
+        "zh": "老鼠",
+        "py": "lǎoshǔ",
+        "vi": "chuột",
+        "en": "mouse, rat"
+      },
+      {
+        "zh": "蜜蜂",
+        "py": "mìfēng",
+        "vi": "ong mật",
+        "en": "bee"
+      },
+      {
+        "zh": "蛇",
+        "py": "shé",
+        "vi": "rắn",
+        "en": "snake"
+      },
+      {
+        "zh": "狮子",
+        "py": "shīzi",
+        "vi": "sư tử",
+        "en": "lion"
+      },
+      {
+        "zh": "兔子",
+        "py": "tùzi",
+        "vi": "thỏ",
+        "en": "rabbit"
+      },
+      {
+        "zh": "大象",
+        "py": "dàxiàng",
+        "vi": "voi",
+        "en": "elephant"
+      },
+      {
+        "zh": "猴子",
+        "py": "hóuzi",
+        "vi": "khỉ",
+        "en": "monkey"
+      },
+      {
+        "zh": "猪",
+        "py": "zhū",
+        "vi": "lợn",
+        "en": "pig"
+      },
+      {
+        "zh": "蝴蝶",
+        "py": "húdié",
+        "vi": "bươm bướm",
+        "en": "butterfly"
+      },
+      {
+        "zh": "昆虫",
+        "py": "kūnchóng",
+        "vi": "côn trùng",
+        "en": "insect"
+      },
+      {
+        "zh": "小麦",
+        "py": "xiǎomài",
+        "vi": "lúa mì",
+        "en": "wheat"
+      },
+      {
+        "zh": "竹子",
+        "py": "zhúzi",
+        "vi": "cây tre, trúc",
+        "en": "bamboo"
+      },
+      {
+        "zh": "根",
+        "py": "gēn",
+        "vi": "rễ",
+        "en": "root"
+      },
+      {
+        "zh": "果实",
+        "py": "guǒshí",
+        "vi": "quả, trái",
+        "en": "fruit"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "猫和____是天敌。",
+          "key": "老鼠",
+          "a": "猫和【老鼠】是天敌。",
+          "vi": "Mèo và chuột là kẻ thù tự nhiên.",
+          "en": "Cats and mice are natural enemies."
+        },
+        {
+          "q": "“蜂拥而至”这个成语是形容很多人像____似的一拥而来。",
+          "key": "蜜蜂",
+          "a": "“蜂拥而至”这个成语是形容很多人像【蜜蜂】似的一拥而来。",
+          "vi": "Thành ngữ “ùn ùn kéo đến” dùng để miêu tả rất nhiều người ùa đến như bầy ong.",
+          "en": "The idiom 蜂拥而至 describes lots of people swarming in like bees."
+        },
+        {
+          "q": "冬天，一位农夫在路边看到一条快要冻死的____，觉得它很可怜。",
+          "key": "蛇",
+          "a": "冬天，一位农夫在路边看到一条快要冻死的【蛇】，觉得它很可怜。",
+          "vi": "Mùa đông, một người nông dân thấy một con rắn sắp chết cóng bên đường, cảm thấy nó rất đáng thương.",
+          "en": "One winter, a farmer saw a snake by the road that was almost frozen to death and felt sorry for it."
+        },
+        {
+          "q": "____是世界上产量第二的粮食，仅次于玉米。",
+          "key": "小麦",
+          "a": "【小麦】是世界上产量第二的粮食，仅次于玉米。",
+          "vi": "Lúa mì là loại lương thực có sản lượng đứng thứ hai thế giới, chỉ sau ngô.",
+          "en": "Wheat is the world's second most produced grain, after maize."
+        }
+      ]
+    }
+  }
+}

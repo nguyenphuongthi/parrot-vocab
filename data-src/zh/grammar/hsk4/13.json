@@ -1,0 +1,1037 @@
+{
+  "n": 13,
+  "zh": "喝着茶看京剧",
+  "vi": "Uống trà trong lúc xem Kinh kịch",
+  "en": "Watching Peking opera over tea",
+  "texts": [
+    {
+      "title": "小雨和小夏在聊小夏的爷爷表演京剧的情况",
+      "paras": [
+        {
+          "zh": "小雨：小夏，你爷爷京剧唱得真专业，我还以为他是京剧演员呢。",
+          "vi": "Tiểu Vũ: Tiểu Hạ, ông cậu hát Kinh kịch chuyên nghiệp thật, tớ còn tưởng ông là diễn viên Kinh kịch cơ.",
+          "en": "Xiaoyu: Xiao Xia, your grandpa sings Peking opera so professionally. I thought he was a Peking opera actor."
+        },
+        {
+          "zh": "小夏：对啊，他本来就是京剧演员，年轻时在我们那儿很有名，深受观众们的喜爱。",
+          "vi": "Tiểu Hạ: Đúng vậy, ông vốn là diễn viên Kinh kịch, hồi trẻ rất nổi tiếng ở quê tớ, được khán giả rất yêu mến.",
+          "en": "Xiao Xia: He is! He was a Peking opera actor, famous where we come from when he was young, and very popular with audiences."
+        },
+        {
+          "zh": "小雨：你爷爷一定对京剧有着{zhe}很深厚的感情。",
+          "vi": "Tiểu Vũ: Ông cậu chắc chắn có tình cảm rất sâu nặng với Kinh kịch.",
+          "en": "Xiaoyu: Your grandpa must have a deep love for Peking opera."
+        },
+        {
+          "zh": "小夏：是呀，他8岁就开始上台演出，到现在大概唱了60多年了，他对这门艺术的喜爱从来没有改变过。",
+          "vi": "Tiểu Hạ: Đúng thế, ông 8 tuổi đã bắt đầu lên sân khấu biểu diễn, đến giờ khoảng hơn 60 năm rồi, tình yêu của ông với môn nghệ thuật này chưa bao giờ thay đổi.",
+          "en": "Xiao Xia: Yes. He started performing on stage at 8 and has been singing for about 60 years now. His love for this art has never changed."
+        },
+        {
+          "zh": "小雨：这么说你喜欢听京剧也是受了你爷爷的影响？",
+          "vi": "Tiểu Vũ: Nói vậy thì cậu thích nghe Kinh kịch cũng là do chịu ảnh hưởng của ông à?",
+          "en": "Xiaoyu: So you like Peking opera because of your grandpa's influence?"
+        },
+        {
+          "zh": "小夏：我小时候经常去看他的演出。平时他还给我讲很多京剧里的历史故事，让我学到了很多知识。",
+          "vi": "Tiểu Hạ: Hồi nhỏ tớ thường đi xem ông biểu diễn. Bình thường ông còn kể cho tớ nghe nhiều câu chuyện lịch sử trong Kinh kịch, giúp tớ học được nhiều kiến thức.",
+          "en": "Xiao Xia: When I was little I often went to see him perform. He also told me lots of historical stories from Peking opera, and I learned a lot."
+        }
+      ],
+      "words": [
+        {
+          "zh": "京剧",
+          "py": "jīngjù",
+          "pos": "dt.",
+          "vi": "Kinh kịch",
+          "en": "Peking opera"
+        },
+        {
+          "zh": "演员",
+          "py": "yǎnyuán",
+          "pos": "dt.",
+          "vi": "diễn viên",
+          "en": "actor, performer"
+        },
+        {
+          "zh": "观众",
+          "py": "guānzhòng",
+          "pos": "dt.",
+          "vi": "khán giả",
+          "en": "audience"
+        },
+        {
+          "zh": "厚",
+          "py": "hòu",
+          "pos": "tt.",
+          "vi": "dày, sâu nặng",
+          "en": "thick, deep"
+        },
+        {
+          "zh": "演出",
+          "py": "yǎnchū",
+          "pos": "đgt.",
+          "vi": "biểu diễn",
+          "en": "to perform"
+        },
+        {
+          "zh": "大概",
+          "py": "dàgài",
+          "pos": "phó.",
+          "vi": "khoảng chừng, có lẽ",
+          "en": "about, probably"
+        }
+      ]
+    },
+    {
+      "title": "小雨和马克在聊京剧",
+      "paras": [
+        {
+          "zh": "小雨：真没想到你一个来自美国的外国留学生，能把京剧唱得这么好。",
+          "vi": "Tiểu Vũ: Thật không ngờ cậu, một lưu học sinh đến từ Mỹ, lại hát Kinh kịch hay như vậy.",
+          "en": "Xiaoyu: I never expected you, an international student from America, to sing Peking opera so well."
+        },
+        {
+          "zh": "马克：我常常跟着{zhe}电视学唱京剧，然后一遍一遍地{de}练习，偶尔跟中国人一起唱上几句。",
+          "vi": "Mark: Tớ thường hát theo tivi để học Kinh kịch, rồi luyện đi luyện lại, thỉnh thoảng cùng người Trung Quốc hát vài câu.",
+          "en": "Mark: I often learn by singing along with the TV and practise over and over, and occasionally sing a few lines with Chinese people."
+        },
+        {
+          "zh": "小雨：难道你从来没有接受过京剧方面的专门教育吗？",
+          "vi": "Tiểu Vũ: Lẽ nào cậu chưa từng được đào tạo chuyên môn về Kinh kịch sao?",
+          "en": "Xiaoyu: Do you mean you've never had any formal training in Peking opera?"
+        },
+        {
+          "zh": "马克：别吃惊，因为我以前学习过音乐，有一些音乐基础，又对京剧这种表演艺术非常感兴趣，所以能比较容易地{de}学会它的唱法。",
+          "vi": "Mark: Đừng ngạc nhiên, vì trước đây tớ từng học âm nhạc, có chút nền tảng âm nhạc, lại rất hứng thú với loại hình nghệ thuật biểu diễn Kinh kịch, nên có thể học cách hát khá dễ dàng.",
+          "en": "Mark: Don't be surprised. I studied music before, so I have some musical foundation, and I'm really interested in Peking opera as a performing art, so I could learn the singing style fairly easily."
+        },
+        {
+          "zh": "小雨：你真厉害！竟然连很多中国人都听不懂的京剧也能学会。我还是比较喜欢听流行音乐。",
+          "vi": "Tiểu Vũ: Cậu giỏi thật! Đến Kinh kịch mà nhiều người Trung Quốc còn nghe không hiểu cậu cũng học được. Tớ thì vẫn thích nghe nhạc thịnh hành hơn.",
+          "en": "Xiaoyu: You're amazing! You've even learned Peking opera, which lots of Chinese people can't understand. I still prefer pop music."
+        },
+        {
+          "zh": "马克：那是你不了解京剧的唱法。在音乐方面，京剧给了我很多新的想法。我还把京剧的一些特点增加到了自己的音乐中，达到了很好的效果。",
+          "vi": "Mark: Đó là vì cậu không hiểu cách hát Kinh kịch. Về mặt âm nhạc, Kinh kịch cho tớ nhiều ý tưởng mới. Tớ còn đưa một số đặc điểm của Kinh kịch vào âm nhạc của mình, đạt hiệu quả rất tốt.",
+          "en": "Mark: That's because you don't understand how Peking opera is sung. Musically, it's given me lots of new ideas. I've even added some of its features to my own music, with great results."
+        }
+      ],
+      "words": [
+        {
+          "zh": "来自",
+          "py": "láizì",
+          "pos": "đgt.",
+          "vi": "đến từ",
+          "en": "to come from"
+        },
+        {
+          "zh": "遍",
+          "py": "biàn",
+          "pos": "lượng.",
+          "vi": "(chỉ một hành động từ lúc bắt đầu đến khi kết thúc) lần, lượt",
+          "en": "time (a complete action from start to finish)"
+        },
+        {
+          "zh": "偶尔",
+          "py": "ǒu'ěr",
+          "pos": "phó.",
+          "vi": "thỉnh thoảng",
+          "en": "occasionally"
+        },
+        {
+          "zh": "吃惊",
+          "py": "chī jīng",
+          "pos": "đgt.",
+          "vi": "kinh ngạc",
+          "en": "to be surprised"
+        },
+        {
+          "zh": "基础",
+          "py": "jīchǔ",
+          "pos": "dt.",
+          "vi": "nền tảng, căn bản",
+          "en": "foundation, basis"
+        },
+        {
+          "zh": "表演",
+          "py": "biǎoyǎn",
+          "pos": "đgt.",
+          "vi": "biểu diễn, trình diễn",
+          "en": "to perform"
+        }
+      ]
+    },
+    {
+      "title": "李老师和校长在谈工作",
+      "paras": [
+        {
+          "zh": "李老师：校长，因为外国留学生不了解中国文化，有时候会影响他们和中国人之间的正常交流，甚至还可能引起误会，带来麻烦，所以我们想申请举办一次中国传统文化节活动。",
+          "vi": "Thầy Lý: Thưa hiệu trưởng, vì lưu học sinh nước ngoài không hiểu văn hóa Trung Quốc nên đôi khi ảnh hưởng đến giao tiếp bình thường giữa họ với người Trung Quốc, thậm chí có thể gây hiểu lầm, phiền phức, vì vậy chúng tôi muốn xin tổ chức một lễ hội văn hóa truyền thống Trung Quốc.",
+          "en": "Mr. Li: Principal, because international students don't understand Chinese culture, it sometimes affects their normal communication with Chinese people and can even cause misunderstandings and trouble. So we'd like to apply to hold a traditional Chinese culture festival."
+        },
+        {
+          "zh": "校长：你们的想法很好，举办文化节活动，一方面能让各国学生更好地{de}了解中国，另一方面也能为学生们提供互相交流和学习的机会。",
+          "vi": "Hiệu trưởng: Ý tưởng của các anh rất hay, tổ chức lễ hội văn hóa một mặt giúp sinh viên các nước hiểu Trung Quốc hơn, mặt khác cũng tạo cơ hội để sinh viên giao lưu, học hỏi lẫn nhau.",
+          "en": "Principal: That's a great idea. A culture festival will help students from all countries understand China better, and also give them a chance to communicate and learn from each other."
+        },
+        {
+          "zh": "李老师：谢谢您的支持！",
+          "vi": "Thầy Lý: Cảm ơn sự ủng hộ của thầy!",
+          "en": "Mr. Li: Thank you for your support!"
+        },
+        {
+          "zh": "校长：上次的春游活动你们办得非常有趣，大家都玩儿得很开心，这次活动继续由你负责，相信也一定会很成功。",
+          "vi": "Hiệu trưởng: Chuyến du xuân lần trước các anh tổ chức rất thú vị, mọi người đều chơi rất vui, lần này vẫn do anh phụ trách, tôi tin chắc cũng sẽ rất thành công.",
+          "en": "Principal: Your spring outing last time was great fun and everyone enjoyed it. You'll be in charge again this time, and I'm sure it'll be a great success."
+        },
+        {
+          "zh": "李老师：我们回去就开会讨论，星期五之前把详细的计划书发给您。",
+          "vi": "Thầy Lý: Chúng tôi về sẽ họp thảo luận ngay, trước thứ sáu gửi bản kế hoạch chi tiết cho thầy.",
+          "en": "Mr. Li: We'll hold a meeting to discuss it as soon as we get back and send you a detailed plan before Friday."
+        },
+        {
+          "zh": "校长：好的，准备过程中有什么问题，你们可以直接来找我。",
+          "vi": "Hiệu trưởng: Được, trong quá trình chuẩn bị có vấn đề gì, các anh cứ trực tiếp đến tìm tôi.",
+          "en": "Principal: Good. If any problems come up during the preparations, come straight to me."
+        }
+      ],
+      "words": [
+        {
+          "zh": "正常",
+          "py": "zhèngcháng",
+          "pos": "tt.",
+          "vi": "bình thường, thông thường",
+          "en": "normal"
+        },
+        {
+          "zh": "申请",
+          "py": "shēnqǐng",
+          "pos": "đgt.",
+          "vi": "xin",
+          "en": "to apply"
+        },
+        {
+          "zh": "有趣",
+          "py": "yǒuqù",
+          "pos": "tt.",
+          "vi": "thú vị, lý thú",
+          "en": "interesting, fun"
+        },
+        {
+          "zh": "开心",
+          "py": "kāixīn",
+          "pos": "tt.",
+          "vi": "vui vẻ",
+          "en": "happy"
+        },
+        {
+          "zh": "继续",
+          "py": "jìxù",
+          "pos": "đgt.",
+          "vi": "tiếp tục",
+          "en": "to continue"
+        },
+        {
+          "zh": "由",
+          "py": "yóu",
+          "pos": "giới.",
+          "vi": "do",
+          "en": "by (the person responsible)"
+        },
+        {
+          "zh": "讨论",
+          "py": "tǎolùn",
+          "pos": "đgt.",
+          "vi": "thảo luận, bàn bạc",
+          "en": "to discuss"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "筷子在中国大约已经有3000多年的历史了。对外国人来说，使用筷子吃饭并不容易，所以，国外的一些中国餐厅在放筷子的纸袋上会提供使用筷子的详细说明。不过，如果你认为每个中国人都会正确使用筷子，那就错了。有人在互联网上专门进行过调查，结果发现每六个中国人中就有一个使用筷子的方法是错误的。如果你想正确使用筷子，那就好好练习吧。",
+          "vi": "Đũa ở Trung Quốc đã có khoảng hơn 3000 năm lịch sử. Đối với người nước ngoài, dùng đũa ăn cơm không hề dễ, vì vậy một số nhà hàng Trung Quốc ở nước ngoài in hướng dẫn chi tiết cách dùng đũa trên túi giấy đựng đũa. Nhưng nếu bạn cho rằng người Trung Quốc nào cũng biết dùng đũa đúng cách thì nhầm rồi. Có người từng tiến hành khảo sát trên Internet, kết quả phát hiện cứ sáu người Trung Quốc thì có một người dùng đũa sai cách. Nếu bạn muốn dùng đũa đúng cách thì hãy luyện tập thật tốt nhé.",
+          "en": "Chopsticks have a history of about 3,000 years in China. For foreigners, eating with chopsticks isn't easy, so some Chinese restaurants abroad print detailed instructions on the paper sleeves. But if you think every Chinese person uses chopsticks correctly, you're wrong. Someone carried out a survey on the internet and found that one in six Chinese people hold their chopsticks the wrong way. If you want to use chopsticks properly, practise hard!"
+        }
+      ],
+      "words": [
+        {
+          "zh": "大约",
+          "py": "dàyuē",
+          "pos": "phó.",
+          "vi": "khoảng chừng, ước chừng",
+          "en": "about, approximately"
+        },
+        {
+          "zh": "餐厅",
+          "py": "cāntīng",
+          "pos": "dt.",
+          "vi": "nhà hàng",
+          "en": "restaurant"
+        },
+        {
+          "zh": "纸袋",
+          "py": "zhǐdài",
+          "pos": "dt.",
+          "vi": "túi giấy",
+          "en": "paper bag"
+        },
+        {
+          "zh": "袋（子）",
+          "py": "dài(zi)",
+          "pos": "dt.",
+          "vi": "túi",
+          "en": "bag"
+        },
+        {
+          "zh": "互联网",
+          "py": "hùliánwǎng",
+          "pos": "dt.",
+          "vi": "mạng Internet",
+          "en": "internet"
+        },
+        {
+          "zh": "进行",
+          "py": "jìnxíng",
+          "pos": "đgt.",
+          "vi": "tiến hành, thực hiện",
+          "en": "to carry out"
+        },
+        {
+          "zh": "错误",
+          "py": "cuòwù",
+          "pos": "tt.",
+          "vi": "sai",
+          "en": "wrong, mistaken"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "茶在中国有几千年的历史，是中国最常见的饮料。最早的时候，茶只是被当作一种药，而不是饮料。后来，随着人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。在中国，喝茶是一种十分普遍的生活习惯。对很多中国人来说，喝茶已成为他们生活中不可缺少的一部分。但是有的饮料虽然名字叫“茶”，却并不是真正的茶。比如广东省的人爱喝的“凉茶”，它的味道稍微有点儿苦，其实是一种用中药做成的饮料。",
+          "vi": "Trà ở Trung Quốc có lịch sử mấy nghìn năm, là đồ uống phổ biến nhất ở Trung Quốc. Thời gian đầu, trà chỉ được coi là một loại thuốc chứ không phải đồ uống. Về sau, cùng với việc con người hiểu biết về trà ngày càng sâu, dần dần bắt đầu coi nó là thức uống giải khát, từ đó mới dần có văn hóa trà Trung Quốc. Ở Trung Quốc, uống trà là một thói quen sinh hoạt vô cùng phổ biến. Đối với nhiều người Trung Quốc, uống trà đã trở thành một phần không thể thiếu trong cuộc sống. Nhưng có những đồ uống tuy tên gọi là “trà” lại không phải trà thật. Ví dụ “trà mát” mà người tỉnh Quảng Đông thích uống, vị hơi đắng, thật ra là một loại đồ uống làm từ thuốc Đông y.",
+          "en": "Tea has a history of several thousand years in China and is the most common drink there. At first, tea was regarded only as a medicine, not a drink. Later, as people's understanding of tea deepened, they gradually began to treat it as a thirst-quenching drink, and so China's tea culture slowly developed. In China, drinking tea is a very common habit; for many Chinese people it has become an indispensable part of life. But some drinks called “tea” aren't really tea at all. For example, the “cool tea” that people in Guangdong love has a slightly bitter taste; it's actually a drink made from traditional Chinese medicine."
+        }
+      ],
+      "words": [
+        {
+          "zh": "随着",
+          "py": "suízhe",
+          "pos": "giới.",
+          "vi": "cùng với",
+          "en": "along with, as"
+        },
+        {
+          "zh": "十分",
+          "py": "shífēn",
+          "pos": "phó.",
+          "vi": "rất, vô cùng",
+          "en": "very"
+        },
+        {
+          "zh": "普遍",
+          "py": "pǔbiàn",
+          "pos": "tt.",
+          "vi": "phổ biến",
+          "en": "common, widespread"
+        },
+        {
+          "zh": "部分",
+          "py": "bùfen",
+          "pos": "dt.",
+          "vi": "phần, bộ phận",
+          "en": "part"
+        },
+        {
+          "zh": "稍微",
+          "py": "shāowēi",
+          "pos": "phó.",
+          "vi": "hơi",
+          "en": "slightly"
+        },
+        {
+          "zh": "苦",
+          "py": "kǔ",
+          "pos": "tt.",
+          "vi": "đắng",
+          "en": "bitter"
+        },
+        {
+          "zh": "省",
+          "py": "shěng",
+          "pos": "dt.",
+          "vi": "tỉnh",
+          "en": "province"
+        }
+      ],
+      "names": [
+        {
+          "zh": "广东省",
+          "py": "Guǎngdōng Shěng",
+          "vi": "tỉnh Quảng Đông (Trung Quốc)",
+          "en": "Guangdong Province (China)"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "小夏的爷爷多大年纪了？京剧唱得怎么样？唱了多长时间了？",
+        "label": "课文1",
+        "a": "他【大概68岁左右】（8岁开始上台，唱了60多年）。他京剧【唱得很专业】，【唱了60多年了】。",
+        "vi": "Ông khoảng hơn 68 tuổi (8 tuổi lên sân khấu, hát hơn 60 năm). Ông hát Kinh kịch rất chuyên nghiệp, đã hát hơn 60 năm.",
+        "en": "He's probably about 68 or older (he started on stage at 8 and has sung for over 60 years). He sings very professionally and has done so for more than 60 years.",
+        "sample": true
+      },
+      {
+        "q": "小夏受了爷爷哪些影响？",
+        "label": "课文1",
+        "a": "她【喜欢听京剧】，小时候经常去看爷爷的演出，爷爷还给她讲很多京剧里的历史故事，让她【学到了很多知识】。",
+        "vi": "Cô ấy thích nghe Kinh kịch, hồi nhỏ thường đi xem ông biểu diễn, ông còn kể nhiều chuyện lịch sử trong Kinh kịch giúp cô học được nhiều kiến thức.",
+        "en": "She likes Peking opera; she often watched her grandpa perform as a child, and he told her many historical stories from it, which taught her a lot."
+      },
+      {
+        "q": "马克学过京剧吗？他怎么学的？他为什么京剧唱得那么好？",
+        "label": "课文2",
+        "a": "他【没有接受过京剧方面的专门教育】。他【跟着{zhe}电视学唱，一遍一遍地{de}练习】。因为他【以前学习过音乐，有一些音乐基础，又对京剧非常感兴趣】。",
+        "vi": "Cậu ấy chưa từng được đào tạo chuyên môn về Kinh kịch. Cậu học hát theo tivi, luyện đi luyện lại. Vì trước đây cậu từng học âm nhạc, có nền tảng âm nhạc, lại rất hứng thú với Kinh kịch.",
+        "en": "He's never had formal training. He learned by singing along with the TV and practising over and over. He sings well because he studied music before, has a musical foundation and is very interested in Peking opera."
+      },
+      {
+        "q": "京剧给了马克哪些新的想法？",
+        "label": "课文2",
+        "a": "在音乐方面，京剧给了他很多新的想法，他【把京剧的一些特点增加到了自己的音乐中】。",
+        "vi": "Về âm nhạc, Kinh kịch cho cậu ấy nhiều ý tưởng mới, cậu đưa một số đặc điểm của Kinh kịch vào âm nhạc của mình.",
+        "en": "Musically, it gave him many new ideas; he added some features of Peking opera to his own music."
+      },
+      {
+        "q": "为什么李老师想申请举办中国传统文化节活动？",
+        "label": "课文3",
+        "a": "因为【外国留学生不了解中国文化，有时候会影响他们和中国人之间的正常交流，甚至还可能引起误会，带来麻烦】。",
+        "vi": "Vì lưu học sinh không hiểu văn hóa Trung Quốc, đôi khi ảnh hưởng đến giao tiếp bình thường với người Trung Quốc, thậm chí có thể gây hiểu lầm, phiền phức.",
+        "en": "Because international students don't understand Chinese culture, which sometimes affects their normal communication with Chinese people and can even cause misunderstandings and trouble."
+      },
+      {
+        "q": "为什么校长决定这次活动继续由李老师负责？",
+        "label": "课文3",
+        "a": "因为【上次的春游活动李老师办得非常有趣，大家都玩儿得很开心】。",
+        "vi": "Vì chuyến du xuân lần trước thầy Lý tổ chức rất thú vị, mọi người đều chơi rất vui.",
+        "en": "Because the spring outing Mr. Li organized last time was great fun and everyone enjoyed it."
+      },
+      {
+        "q": "为什么国外的中国餐厅会提供使用筷子的详细说明？",
+        "label": "课文4",
+        "a": "因为【对外国人来说，使用筷子吃饭并不容易】。",
+        "vi": "Vì đối với người nước ngoài, dùng đũa ăn cơm không hề dễ.",
+        "en": "Because for foreigners, eating with chopsticks isn't easy."
+      },
+      {
+        "q": "关于中国人使用筷子的调查结果是什么？",
+        "label": "课文4",
+        "a": "【每六个中国人中就有一个使用筷子的方法是错误的】。",
+        "vi": "Cứ sáu người Trung Quốc thì có một người dùng đũa sai cách.",
+        "en": "One in six Chinese people use chopsticks the wrong way."
+      },
+      {
+        "q": "茶开始时被用来做什么？后来呢？",
+        "label": "课文5",
+        "a": "最早的时候，茶【只是被当作一种药】。后来，人们【慢慢开始把它当作解渴的饮料】。",
+        "vi": "Thời gian đầu trà chỉ được coi là một loại thuốc. Về sau người ta dần coi nó là đồ uống giải khát.",
+        "en": "At first tea was used only as a medicine. Later people gradually began to drink it to quench their thirst."
+      },
+      {
+        "q": "广东人爱喝的凉茶是一种什么样的饮料？",
+        "label": "课文5",
+        "a": "它的味道【稍微有点儿苦】，其实是【一种用中药做成的饮料】，并不是真正的茶。",
+        "vi": "Nó có vị hơi đắng, thật ra là một loại đồ uống làm từ thuốc Đông y, không phải trà thật.",
+        "en": "It tastes slightly bitter and is actually a drink made from Chinese medicine, not real tea."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "大概",
+      "uses": [
+        {
+          "vi": "大概 được dùng làm phó từ để chỉ sự phỏng đoán gần đúng về số lượng, thời gian hoặc chỉ sự suy đoán tình huống, cho biết khả năng xảy ra sự việc nào đó là rất cao. 大概 cũng có thể được dùng làm tính từ với nghĩa là không chính xác lắm, chung chung.",
+          "en": "As an adverb, 大概 gives a rough estimate of a number or time, or a guess about a situation that is quite likely: 'about, probably'. As an adjective it means 'rough, general, not detailed'.",
+          "ex": [
+            {
+              "zh": "他8岁就开始上台演出，到现在【大概】唱了60多年了，他对这门艺术的喜爱从来没有改变过。",
+              "vi": "Ông ấy 8 tuổi đã bắt đầu lên sân khấu biểu diễn, đến nay chắc đã hát hơn 60 năm rồi, tình yêu của ông với môn nghệ thuật này chưa bao giờ thay đổi.",
+              "en": "He started performing on stage at eight and has been singing for probably more than 60 years now. His love for this art has never changed."
+            },
+            {
+              "zh": "你的这个关于举办传统文化节活动的计划，我想校长【大概】会同意。",
+              "vi": "Kế hoạch tổ chức lễ hội văn hóa truyền thống này của bạn, tôi nghĩ hiệu trưởng chắc sẽ đồng ý.",
+              "en": "This plan of yours to hold a traditional culture festival, I think the principal will probably agree to it."
+            },
+            {
+              "zh": "经过这段时间的学习，他的汉语水平提高了不少，不但可以听懂一些较短的句子，还可以进行简单的交流，现在即使不用翻译也能理解【大概】的意思了。",
+              "vi": "Sau thời gian học này, trình độ tiếng Trung của anh ấy đã tiến bộ khá nhiều, không chỉ nghe hiểu được những câu ngắn mà còn có thể giao tiếp đơn giản, giờ dù không cần phiên dịch cũng hiểu được ý chung.",
+              "en": "After this period of study his Chinese has improved a lot. He can understand some short sentences and hold simple conversations, and now he can get the general meaning even without an interpreter."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "大概—也许",
+        "uses": [
+          {
+            "vi": "Giống nhau: 大概 và 也许 đều là phó từ chỉ sự suy đoán hoặc phỏng đoán về tình huống nào đó.",
+            "en": "Similarity: 大概 and 也许 are both adverbs expressing a guess or estimate about a situation.",
+            "ex": [
+              {
+                "zh": "他总说自己特别喜欢看书，可是这本书他看了一个月才看到第5页，【大概】/【也许】是因为工作太忙了吧。但我觉得一个真正爱看书的人总能找出时间来阅读。",
+                "vi": "Anh ấy luôn nói mình rất thích đọc sách, vậy mà cuốn sách này đọc một tháng mới đến trang 5, chắc là do công việc bận quá. Nhưng tôi thấy một người thật sự yêu sách thì lúc nào cũng tìm ra thời gian để đọc.",
+                "en": "He always says he loves reading, yet after a month he's only on page 5 of this book, probably because he's too busy with work. But I think someone who really loves books can always find time to read."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: Trong trường hợp trên, 大概 diễn tả sự phán đoán ở mức độ mạnh hơn và mang ý khẳng định nhiều hơn, còn 也许 chỉ sự suy đoán và khả năng xảy ra sự việc ở mức độ thấp hơn.",
+            "en": "Difference 1: 大概 expresses a stronger, more confident judgement; 也许 ('maybe, perhaps') is a guess with a lower likelihood.",
+            "ex": [
+              {
+                "zh": "老张这个人一直很准时，开会从来不迟到。今天到现在还没来，【大概】是有什么事情，你打个电话问问他吧。",
+                "vi": "Ông Trương xưa nay rất đúng giờ, đi họp chưa bao giờ đến muộn. Hôm nay giờ này vẫn chưa đến, chắc là có việc gì đó, bạn gọi điện hỏi ông ấy xem.",
+                "en": "Lao Zhang is always punctual and never late for meetings. He still isn't here today, so something has probably come up. Give him a call."
+              },
+              {
+                "zh": "这次电影艺术节【也许】会在北京举行。",
+                "vi": "Liên hoan nghệ thuật điện ảnh lần này có lẽ sẽ được tổ chức ở Bắc Kinh.",
+                "en": "This film festival may be held in Beijing."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: 大概 có thể diễn tả sự phỏng đoán về số lượng; 也许 không dùng được như vậy.",
+            "en": "Difference 2: 大概 can estimate a quantity; 也许 cannot.",
+            "ex": [
+              {
+                "zh": "【大概】有三分之二的人反对这样做。",
+                "vi": "Khoảng hai phần ba số người phản đối làm như vậy.",
+                "en": "About two-thirds of people are against doing it this way."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 3: 也许 có thể cho biết người nói không chắc chắn về dự định tương lai của mình; 大概 không dùng được như vậy.",
+            "en": "Difference 3: 也许 can show the speaker is unsure about their own future plans; 大概 cannot.",
+            "ex": [
+              {
+                "zh": "我原来想学习法律，不过后来我发现自己对新闻更感兴趣，【也许】以后我会成为一名记者。",
+                "vi": "Lúc đầu tôi muốn học luật, nhưng sau đó tôi phát hiện mình hứng thú với báo chí hơn, có lẽ sau này tôi sẽ trở thành phóng viên.",
+                "en": "I originally wanted to study law, but later I found I was more interested in journalism. Maybe I'll become a journalist one day."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 4: 大概 cũng có thể được dùng làm tính từ với nghĩa là không chính xác lắm, chung chung; 也许 không dùng được như vậy.",
+            "en": "Difference 4: 大概 can also be an adjective meaning 'rough, general'; 也许 cannot.",
+            "ex": [
+              {
+                "zh": "不管做什么事情，最好提前做计划，不用安排得特别详细，但必须有一个【大概】的想法。",
+                "vi": "Dù làm việc gì, tốt nhất nên lên kế hoạch trước, không cần sắp xếp quá chi tiết nhưng phải có một ý tưởng chung.",
+                "en": "Whatever you do, it's best to plan ahead. You don't need every detail worked out, but you must have a rough idea."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "这次调查发现，超过70%的儿童更愿意让爸爸给自己读书。为什么会出现这种情况？____是因为父亲平时陪孩子玩儿的时间太少。",
+              "key": "大概 ✓ · 也许 ✓",
+              "a": "这次调查发现，超过70%的儿童更愿意让爸爸给自己读书。为什么会出现这种情况？【大概】/【也许】是因为父亲平时陪孩子玩儿的时间太少。",
+              "vi": "Khảo sát lần này phát hiện hơn 70% trẻ em thích được bố đọc sách cho nghe hơn. Vì sao lại như vậy? Có lẽ là vì bình thường bố ít thời gian chơi với con.",
+              "en": "This survey found that over 70% of children prefer their dads to read to them. Why? Probably because fathers usually spend too little time playing with their children."
+            },
+            {
+              "q": "穷人的孩子早当家，他们____没有很多钱，却可能比富人家的孩子经历得更多。",
+              "key": "大概 ✗ · 也许 ✓",
+              "a": "穷人的孩子早当家，他们【也许】没有很多钱，却可能比富人家的孩子经历得更多。",
+              "vi": "Con nhà nghèo sớm phải lo việc nhà, có lẽ chúng không có nhiều tiền nhưng có thể trải nghiệm nhiều hơn con nhà giàu.",
+              "en": "Poor children grow up quickly. They may not have much money, but they may experience more than rich children."
+            },
+            {
+              "q": "师傅，我去机场。____要多长时间？半小时能到吗？",
+              "key": "大概 ✓ (ước lượng số lượng) · 也许 ✗",
+              "a": "师傅，我去机场。【大概】要多长时间？半小时能到吗？",
+              "vi": "Bác tài, tôi ra sân bay. Khoảng bao lâu? Nửa tiếng đến được không?",
+              "en": "To the airport, please. About how long will it take? Can we get there in half an hour?"
+            },
+            {
+              "q": "小孩儿的脾气变化很快。刚才还对你哭个不停，____一下子就没事了，好像什么都没发生过。",
+              "key": "大概 ✗ · 也许 ✓",
+              "a": "小孩儿的脾气变化很快。刚才还对你哭个不停，【也许】一下子就没事了，好像什么都没发生过。",
+              "vi": "Tính khí trẻ con thay đổi rất nhanh. Vừa nãy còn khóc mãi với bạn, có khi chỉ một lát là không sao nữa, như chưa từng có chuyện gì.",
+              "en": "Children's moods change quickly. One moment they're crying non-stop, and the next they may be fine, as if nothing had happened."
+            },
+            {
+              "q": "您最近在拍哪部电影？能谈谈电影的____内容吗？",
+              "key": "大概 ✓ (tính từ) · 也许 ✗",
+              "a": "您最近在拍哪部电影？能谈谈电影的【大概】内容吗？",
+              "vi": "Dạo này anh đang quay bộ phim nào? Có thể nói qua nội dung chính của phim không?",
+              "en": "Which film are you shooting at the moment? Could you tell us roughly what it's about?"
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成对话或句子",
+        "items": [
+          {
+            "q": "A：师傅，我去火车站。____？\nB：现在不堵车，估计二十分钟就能到。",
+            "hint": "大概",
+            "a": "A：师傅，我去火车站。【大概要多长时间】？\nB：现在不堵车，估计二十分钟就能到。",
+            "vi": "A: Bác tài, tôi đi ga tàu. Khoảng bao lâu thì đến?\nB: Bây giờ không tắc đường, chắc hai mươi phút là đến.",
+            "en": "A: To the railway station, please. About how long will it take?\nB: There's no traffic now; I reckon about twenty minutes.",
+            "sample": true
+          },
+          {
+            "q": "A：请问附近有银行吗？\nB：有一个交通银行，____。",
+            "hint": "大概",
+            "a": "A：请问附近有银行吗？\nB：有一个交通银行，【大概走五分钟就到了】。",
+            "vi": "A: Xin hỏi gần đây có ngân hàng không?\nB: Có ngân hàng Giao thông, đi bộ khoảng năm phút là đến.",
+            "en": "A: Excuse me, is there a bank nearby?\nB: There's a Bank of Communications, about five minutes' walk away.",
+            "sample": true
+          },
+          {
+            "q": "读书应该有选择，有些书只要快速阅读____，有些书却需要多花些时间来仔细阅读。",
+            "hint": "大概",
+            "a": "读书应该有选择，有些书只要快速阅读【了解大概的意思就可以了】，有些书却需要多花些时间来仔细阅读。",
+            "vi": "Đọc sách nên có chọn lọc, có những cuốn chỉ cần đọc nhanh nắm ý chính là được, có những cuốn lại cần dành nhiều thời gian đọc kỹ.",
+            "en": "You should be selective in your reading: some books only need a quick read to get the general idea, while others need more time to read carefully.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "偶尔",
+      "uses": [
+        {
+          "vi": "Phó từ 偶尔 chỉ tình huống xảy ra với tần suất rất thấp (thỉnh thoảng, đôi khi).",
+          "en": "The adverb 偶尔 means something happens very rarely: 'occasionally, once in a while'.",
+          "ex": [
+            {
+              "zh": "我常常跟着电视学唱京剧，然后一遍一遍地{de}练习，【偶尔】跟中国人一起唱上几句。",
+              "vi": "Tôi thường học hát Kinh kịch theo tivi, rồi luyện đi luyện lại, thỉnh thoảng hát vài câu cùng người Trung Quốc.",
+              "en": "I often learn Peking opera singing from the TV and practise it over and over, and occasionally sing a few lines with Chinese people."
+            },
+            {
+              "zh": "我们调查的近7000名上班族中，有64%的人经常加班，28%【偶尔】加班，而每次加班时间超过两小时的竟然有59%。",
+              "vi": "Trong gần 7000 người đi làm mà chúng tôi khảo sát, 64% thường xuyên tăng ca, 28% thỉnh thoảng tăng ca, còn số người mỗi lần tăng ca quá hai tiếng lại lên tới 59%.",
+              "en": "Of the nearly 7,000 office workers we surveyed, 64% often work overtime and 28% do so occasionally, and a surprising 59% work more than two hours of overtime each time."
+            },
+            {
+              "zh": "三叶草的叶子一般为三个，但【偶尔】也会出现四个叶子的，这种四个叶子的叫“四叶草”，因为很少见，所以有人说，找到这种“四叶草”的人会得到幸福。",
+              "vi": "Cỏ ba lá thường có ba lá, nhưng thỉnh thoảng cũng có cây bốn lá, loại bốn lá này gọi là “cỏ bốn lá”, vì rất hiếm gặp nên có người nói ai tìm được “cỏ bốn lá” sẽ gặp hạnh phúc.",
+              "en": "Clover usually has three leaves, but occasionally one with four appears. These are called “four-leaf clovers”, and because they're so rare, some say whoever finds one will be happy."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "为了减肥，我几乎每天晚上都坚持跑步，____。",
+            "hint": "偶尔",
+            "a": "为了减肥，我几乎每天晚上都坚持跑步，【偶尔也会去游泳】。",
+            "vi": "Để giảm cân, gần như tối nào tôi cũng kiên trì chạy bộ, thỉnh thoảng cũng đi bơi.",
+            "en": "To lose weight, I go running almost every evening, and occasionally I go swimming too.",
+            "sample": true
+          },
+          {
+            "q": "我平时上班忙，很少有时间运动。但是周末我会约朋友们见面，一块儿去打篮球或者踢足球，____。",
+            "hint": "偶尔",
+            "a": "我平时上班忙，很少有时间运动。但是周末我会约朋友们见面，一块儿去打篮球或者踢足球，【偶尔也去爬山】。",
+            "vi": "Bình thường tôi bận đi làm, ít có thời gian vận động. Nhưng cuối tuần tôi hẹn bạn bè gặp nhau, cùng chơi bóng rổ hoặc đá bóng, thỉnh thoảng cũng đi leo núi.",
+            "en": "I'm busy at work and rarely have time to exercise. But at weekends I meet friends to play basketball or football, and occasionally we go hiking.",
+            "sample": true
+          },
+          {
+            "q": "她和丈夫很少在家吃饭。平时上班的时候两个人都在公司吃，周末不上班的时候就一起去饭馆儿吃，____。",
+            "hint": "偶尔",
+            "a": "她和丈夫很少在家吃饭。平时上班的时候两个人都在公司吃，周末不上班的时候就一起去饭馆儿吃，【偶尔才在家做一次饭】。",
+            "vi": "Cô ấy và chồng ít khi ăn cơm ở nhà. Ngày thường đi làm thì cả hai ăn ở công ty, cuối tuần thì cùng đi ăn nhà hàng, thỉnh thoảng mới nấu ở nhà một bữa.",
+            "en": "She and her husband rarely eat at home. On workdays they both eat at the office, at weekends they go to restaurants, and only occasionally do they cook at home.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "由",
+      "uses": [
+        {
+          "vi": "Giới từ 由 cho biết người đảm nhận công việc nào đó (do, bởi).",
+          "en": "The preposition 由 introduces the person responsible for doing something: 'by, (up) to'.",
+          "ex": [
+            {
+              "zh": "按照规定，这件事情应该【由】王大{dài}夫{fu}负责。",
+              "vi": "Theo quy định, việc này phải do bác sĩ Vương phụ trách.",
+              "en": "According to the rules, Dr Wang should be in charge of this."
+            },
+            {
+              "zh": "“幽默”这个词最早是【由】林语堂先生翻译过来的。",
+              "vi": "Từ “幽默” (hài hước) ban đầu là do ông Lâm Ngữ Đường dịch sang.",
+              "en": "The word “幽默” (humour) was first translated into Chinese by Lin Yutang."
+            },
+            {
+              "zh": "上次的春游活动你们办得非常有趣，大家都玩儿得很开心，这次活动继续【由】你负责，相信也一定会很成功。",
+              "vi": "Chuyến dã ngoại mùa xuân lần trước các bạn tổ chức rất thú vị, mọi người đều chơi rất vui, hoạt động lần này tiếp tục do bạn phụ trách, tin rằng chắc chắn cũng sẽ rất thành công.",
+              "en": "The spring outing you organised last time was great fun and everyone enjoyed it. You'll be in charge of this one too, and I'm sure it'll be a success."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话或句子",
+        "items": [
+          {
+            "q": "A：这件事不是马经理专门负责吗？\nB：他已经离开公司了，现在____。",
+            "hint": "由",
+            "a": "A：这件事不是马经理专门负责吗？\nB：他已经离开公司了，现在【由王经理负责】。",
+            "vi": "A: Việc này chẳng phải do giám đốc Mã chuyên phụ trách sao?\nB: Ông ấy đã rời công ty rồi, bây giờ do giám đốc Vương phụ trách.",
+            "en": "A: Isn't Manager Ma in charge of this?\nB: He's left the company. Manager Wang is in charge now.",
+            "sample": true
+          },
+          {
+            "q": "这篇文章是介绍京剧的，____。前一部分介绍京剧的发展历史，第二部分主要谈京剧的发展方向。",
+            "hint": "由",
+            "a": "这篇文章是介绍京剧的，【由两部分组成】。前一部分介绍京剧的发展历史，第二部分主要谈京剧的发展方向。",
+            "vi": "Bài văn này giới thiệu về Kinh kịch, gồm hai phần. Phần đầu giới thiệu lịch sử phát triển, phần thứ hai chủ yếu bàn về hướng phát triển của Kinh kịch.",
+            "en": "This article introduces Peking opera and consists of two parts. The first covers its history; the second mainly discusses its future direction.",
+            "sample": true
+          },
+          {
+            "q": "上次的秋游活动小夏组织得不错，大家都玩儿得很高兴，这次____。",
+            "hint": "由",
+            "a": "上次的秋游活动小夏组织得不错，大家都玩儿得很高兴，这次【还由小夏来组织吧】。",
+            "vi": "Chuyến du thu lần trước Tiểu Hạ tổ chức khá tốt, mọi người đều chơi rất vui, lần này vẫn để Tiểu Hạ tổ chức đi.",
+            "en": "Xiao Xia organized the autumn outing well last time and everyone had fun, so let's have Xiao Xia organize it again.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "进行",
+      "uses": [
+        {
+          "vi": "Động từ 进行 có nghĩa là thực hiện hoạt động hay công việc nào đó (tiến hành). 进行 thường được dùng trước động từ có hai âm tiết diễn tả hành động mang tính chính thức, nghiêm túc. Thông thường, những động từ diễn tả hành động tạm thời hoặc liên quan đến cuộc sống hàng ngày không được dùng với 进行.",
+          "en": "The verb 进行 means 'to carry out, conduct' an activity or piece of work. It usually goes before a two-syllable verb describing a formal, serious action; verbs for brief actions or everyday activities are not used with 进行.",
+          "ex": [
+            {
+              "zh": "大家请注意，现在休息十五分钟，十点半会议继续【进行】。",
+              "vi": "Mọi người chú ý, bây giờ nghỉ mười lăm phút, mười giờ rưỡi cuộc họp sẽ tiếp tục.",
+              "en": "Attention please, everyone: we'll now take a fifteen-minute break, and the meeting will resume at ten thirty."
+            },
+            {
+              "zh": "有人在互联网上专门【进行】过调查，结果发现每六个中国人中就有一个使用筷子的方法是错误的。",
+              "vi": "Có người đã từng tiến hành khảo sát riêng trên Internet, kết quả phát hiện cứ sáu người Trung Quốc thì có một người cầm đũa sai cách.",
+              "en": "Someone once carried out a survey online and found that one in every six Chinese people holds chopsticks the wrong way."
+            },
+            {
+              "zh": "成功的语言学习者，在学习方面往往都是积极主动的，他们会主动与他人【进行】交流，并且请别人帮助他们改错。",
+              "vi": "Những người học ngoại ngữ thành công thường tích cực chủ động trong việc học, họ chủ động giao tiếp với người khác và nhờ người khác giúp mình sửa lỗi.",
+              "en": "Successful language learners tend to be active and take the initiative. They make a point of talking with others and ask people to help correct their mistakes."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话或句子",
+        "items": [
+          {
+            "q": "A：都六点了，会议怎么还没结束？\nB：____。",
+            "hint": "进行",
+            "a": "A：都六点了，会议怎么还没结束？\nB：【还有两个问题没讨论完，会议还要继续进行】。",
+            "vi": "A: Sáu giờ rồi, sao cuộc họp vẫn chưa kết thúc?\nB: Còn hai vấn đề chưa thảo luận xong, cuộc họp vẫn phải tiếp tục.",
+            "en": "A: It's six already. Why hasn't the meeting finished?\nB: There are still two issues to discuss, so the meeting has to continue.",
+            "sample": true
+          },
+          {
+            "q": "A：听说你要申请去国外留学，准备得怎么样了？\nB：____。",
+            "hint": "进行",
+            "a": "A：听说你要申请去国外留学，准备得怎么样了？\nB：【一切都在按计划顺利进行】。",
+            "vi": "A: Nghe nói bạn định xin đi du học nước ngoài, chuẩn bị đến đâu rồi?\nB: Mọi việc đều đang tiến hành thuận lợi theo kế hoạch.",
+            "en": "A: I hear you're applying to study abroad. How are your preparations going?\nB: Everything is going smoothly according to plan.",
+            "sample": true
+          },
+          {
+            "q": "____。结果发现，在接受调查的学生中，有超过80%的人希望自己能有机会出国留学，但这其中只有大约20%的人开始申请国外学校。",
+            "hint": "进行",
+            "a": "【有人对大学生进行了一次调查】。结果发现，在接受调查的学生中，有超过80%的人希望自己能有机会出国留学，但这其中只有大约20%的人开始申请国外学校。",
+            "vi": "Có người đã tiến hành một cuộc khảo sát với sinh viên. Kết quả phát hiện trong số sinh viên được khảo sát, hơn 80% mong có cơ hội đi du học, nhưng trong đó chỉ khoảng 20% bắt đầu nộp đơn vào trường nước ngoài.",
+            "en": "Someone carried out a survey of university students. It found that over 80% of those surveyed hoped to study abroad, but only about 20% had started applying to foreign universities.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "随着",
+      "uses": [
+        {
+          "vi": "Giới từ 随着 chỉ một sự việc là điều kiện để một sự việc khác xảy ra (cùng với, theo đà). Theo sau 随着 thường là động từ có hai âm tiết kèm từ bổ nghĩa.",
+          "en": "The preposition 随着 ('along with, as') shows that one thing is the condition for another to happen. It is usually followed by a two-syllable verb with a modifier.",
+          "ex": [
+            {
+              "zh": "【随着】社会的发展，京剧也在改变，以适应不同年龄观众的需要。",
+              "vi": "Cùng với sự phát triển của xã hội, Kinh kịch cũng đang thay đổi để đáp ứng nhu cầu của khán giả ở các độ tuổi khác nhau.",
+              "en": "As society develops, Peking opera is changing too, to suit the needs of audiences of different ages."
+            },
+            {
+              "zh": "有些人喜欢为自己的生活做长远的计划。但是，【随着】年龄的增长，他们会发现生活总是在不停地{de}变化，生活往往不会按照我们的计划来进行。",
+              "vi": "Có người thích lập kế hoạch lâu dài cho cuộc sống của mình. Nhưng theo năm tháng, họ sẽ nhận ra cuộc sống luôn thay đổi không ngừng, và thường không diễn ra theo kế hoạch của chúng ta.",
+              "en": "Some people like to make long-term plans for their lives. But as they get older, they find that life is always changing and rarely goes according to plan."
+            },
+            {
+              "zh": "最早的时候，茶只是被当{dàng}作一种药，而不是饮料。后来，【随着】人们对茶的认识的加深，慢慢开始把它当{dàng}作解渴的饮料，这才慢慢有了中国的茶文化。",
+              "vi": "Thời xa xưa, trà chỉ được coi là một loại thuốc chứ không phải đồ uống. Về sau, cùng với việc con người hiểu biết về trà ngày càng sâu, dần dần bắt đầu coi nó là đồ uống giải khát, từ đó mới dần có văn hóa trà Trung Quốc.",
+              "en": "At first, tea was regarded only as a medicine, not a drink. Later, as people came to know more about it, they gradually began treating it as a drink to quench thirst, and that's how Chinese tea culture slowly came about."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，越来越多的人喜欢在网上写日记。",
+            "hint": "随着",
+            "a": "【随着互联网的发展】，越来越多的人喜欢在网上写日记。",
+            "vi": "Cùng với sự phát triển của Internet, ngày càng nhiều người thích viết nhật ký trên mạng.",
+            "en": "With the development of the internet, more and more people like to keep diaries online.",
+            "sample": true
+          },
+          {
+            "q": "____，美的标准一直在变。过去有的时候人们以胖为美，现在的人以瘦为美。",
+            "hint": "随着",
+            "a": "【随着时代的变化】，美的标准一直在变。过去有的时候人们以胖为美，现在的人以瘦为美。",
+            "vi": "Cùng với sự thay đổi của thời đại, tiêu chuẩn cái đẹp luôn thay đổi. Có thời người ta lấy béo làm đẹp, bây giờ người ta lấy gầy làm đẹp.",
+            "en": "As times change, so do standards of beauty. At one time people considered plumpness beautiful; now people consider slimness beautiful.",
+            "sample": true
+          },
+          {
+            "q": "小时候，我们往往会有许多浪漫的理想。但是____，我们天天忙于工作和生活，那些梦慢慢地{de}离我们远去了。",
+            "hint": "随着",
+            "a": "小时候，我们往往会有许多浪漫的理想。但是【随着年龄的增长】，我们天天忙于工作和生活，那些梦慢慢地{de}离我们远去了。",
+            "vi": "Hồi nhỏ chúng ta thường có nhiều ước mơ lãng mạn. Nhưng cùng với tuổi tác tăng lên, ngày ngày bận rộn với công việc và cuộc sống, những giấc mơ đó dần rời xa chúng ta.",
+            "en": "As children we often have many romantic dreams. But as we grow older and get busy with work and life every day, those dreams slowly drift away.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "小夏的语气：\n我爷爷对京剧有着{zhe}很深厚的感情。……",
+          "label": "课文1",
+          "a": "我爷爷对京剧有着{zhe}很深厚的感情。他本来就是京剧演员，年轻时在我们那儿很有名，深受观众们的喜爱。他8岁就开始上台演出，到现在大概唱了60多年了。我小时候经常去看他的演出，平时他还给我讲很多京剧里的历史故事，让我学到了很多知识。",
+          "vi": "Ông tôi có tình cảm rất sâu nặng với Kinh kịch. Ông vốn là diễn viên Kinh kịch, hồi trẻ rất nổi tiếng ở quê tôi, được khán giả yêu mến. Ông 8 tuổi đã lên sân khấu, đến giờ khoảng hơn 60 năm rồi. Hồi nhỏ tôi thường đi xem ông biểu diễn, ông còn kể cho tôi nhiều câu chuyện lịch sử trong Kinh kịch, giúp tôi học được nhiều kiến thức.",
+          "en": "My grandpa has a deep love for Peking opera. He was a Peking opera actor, famous where we're from and loved by audiences. He started on stage at 8 and has sung for about 60 years. As a child I often watched him perform, and he told me lots of historical stories from the opera, which taught me a lot.",
+          "sample": true
+        },
+        {
+          "q": "马克的语气：\n我从来没有接受过京剧方面的专门教育，……",
+          "label": "课文2",
+          "a": "我从来没有接受过京剧方面的专门教育，我常常跟着{zhe}电视学唱京剧，然后一遍一遍地{de}练习，偶尔跟中国人一起唱上几句。因为我以前学习过音乐，有一些音乐基础，又对京剧非常感兴趣，所以能比较容易地{de}学会它的唱法。我还把京剧的一些特点增加到了自己的音乐中，达到了很好的效果。",
+          "vi": "Tôi chưa từng được đào tạo chuyên môn về Kinh kịch, tôi thường học hát theo tivi rồi luyện đi luyện lại, thỉnh thoảng hát vài câu cùng người Trung Quốc. Vì trước đây tôi từng học âm nhạc, có nền tảng âm nhạc, lại rất hứng thú với Kinh kịch, nên học cách hát khá dễ. Tôi còn đưa một số đặc điểm của Kinh kịch vào âm nhạc của mình, đạt hiệu quả rất tốt.",
+          "en": "I've never had formal training in Peking opera. I learned by singing along with the TV and practising over and over, and occasionally sang a few lines with Chinese people. I studied music before, so I had a foundation and a strong interest, which made it fairly easy to learn. I've also added some features of Peking opera to my own music, with great results.",
+          "sample": true
+        },
+        {
+          "q": "校长的语气：\n李老师想申请举办一次中国文化节活动。……",
+          "label": "课文3",
+          "a": "李老师想申请举办一次中国文化节活动。我觉得他们的想法很好，举办文化节活动，一方面能让各国学生更好地{de}了解中国，另一方面也能为学生们提供互相交流和学习的机会。上次的春游活动他们办得非常有趣，所以这次活动继续由李老师负责。他们星期五之前会把详细的计划书发给我。",
+          "vi": "Thầy Lý muốn xin tổ chức một lễ hội văn hóa Trung Quốc. Tôi thấy ý tưởng của họ rất hay, tổ chức lễ hội văn hóa một mặt giúp sinh viên các nước hiểu Trung Quốc hơn, mặt khác tạo cơ hội giao lưu học hỏi. Chuyến du xuân lần trước họ tổ chức rất thú vị, nên lần này vẫn do thầy Lý phụ trách. Trước thứ sáu họ sẽ gửi kế hoạch chi tiết cho tôi.",
+          "en": "Mr. Li wants to apply to hold a Chinese culture festival. I think it's a great idea: it'll help students from all countries understand China better and give them a chance to communicate and learn from each other. Their spring outing last time was great fun, so Mr. Li will be in charge again. They'll send me a detailed plan before Friday.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "演出",
+        "演员",
+        "表演",
+        "普遍",
+        "苦"
+      ],
+      "items": [
+        {
+          "q": "今天的晚会太精彩了，特别是那些外国留学生____的中国功夫，动作既标准又好看，非常棒。",
+          "key": "表演",
+          "a": "今天的晚会太精彩了，特别是那些外国留学生【表演】的中国功夫，动作既标准又好看，非常棒。",
+          "vi": "Buổi dạ hội hôm nay tuyệt quá, đặc biệt là màn võ thuật Trung Quốc do các lưu học sinh biểu diễn, động tác vừa chuẩn vừa đẹp, rất tuyệt.",
+          "en": "Tonight's party was wonderful, especially the Chinese kung fu performed by the international students. Their movements were precise and beautiful. Fantastic."
+        },
+        {
+          "q": "这次____举办得非常成功，吸引了不少当地的观众。",
+          "key": "演出",
+          "a": "这次【演出】举办得非常成功，吸引了不少当地的观众。",
+          "vi": "Buổi biểu diễn lần này tổ chức rất thành công, thu hút không ít khán giả địa phương.",
+          "en": "This performance was a great success and attracted lots of local audiences."
+        },
+        {
+          "q": "凉茶虽然味道____，但对身体很有好处。另外，凉茶热着{zhe}喝效果也很不错。",
+          "key": "苦",
+          "a": "凉茶虽然味道【苦】，但对身体很有好处。另外，凉茶热着{zhe}喝效果也很不错。",
+          "vi": "Trà mát tuy vị đắng nhưng rất tốt cho sức khỏe. Ngoài ra, uống trà mát khi còn nóng hiệu quả cũng rất tốt.",
+          "en": "Cool tea tastes bitter, but it's very good for you. It also works well drunk hot."
+        },
+        {
+          "q": "每天晚上，公园里都有一群老人在唱京剧。他们很喜欢唱京剧，虽然不是专业的____，不过，他们唱得不错，听起来很有味道。",
+          "key": "演员",
+          "a": "每天晚上，公园里都有一群老人在唱京剧。他们很喜欢唱京剧，虽然不是专业的【演员】，不过，他们唱得不错，听起来很有味道。",
+          "vi": "Tối nào trong công viên cũng có một nhóm cụ già hát Kinh kịch. Họ rất thích hát Kinh kịch, tuy không phải diễn viên chuyên nghiệp nhưng hát khá hay, nghe rất có hồn.",
+          "en": "Every evening a group of old people sing Peking opera in the park. They love it; they're not professional performers, but they sing well and it sounds lovely."
+        },
+        {
+          "q": "很多大学生毕业后，选择的第一个职业，往往和自己的专业没什么关系，这种情况现在越来越____。",
+          "key": "普遍",
+          "a": "很多大学生毕业后，选择的第一个职业，往往和自己的专业没什么关系，这种情况现在越来越【普遍】。",
+          "vi": "Nhiều sinh viên sau khi tốt nghiệp, công việc đầu tiên họ chọn thường chẳng liên quan gì đến chuyên ngành, tình trạng này bây giờ ngày càng phổ biến.",
+          "en": "Many graduates choose a first job that has little to do with their major, and this is becoming more and more common."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "稍微",
+        "基础",
+        "厚",
+        "遍",
+        "继续"
+      ],
+      "items": [
+        {
+          "q": "A：这本小说这么____，什么时候才能看完啊？\nB：每天晚上看十几页，差不多一个月就可以看完。",
+          "key": "厚",
+          "a": "A：这本小说这么【厚】，什么时候才能看完啊？\nB：每天晚上看十几页，差不多一个月就可以看完。",
+          "vi": "A: Cuốn tiểu thuyết này dày thế, bao giờ mới đọc xong được?\nB: Mỗi tối đọc mười mấy trang, khoảng một tháng là đọc xong.",
+          "en": "A: This novel is so thick. When will I ever finish it?\nB: Read a dozen or so pages every evening and you'll finish in about a month."
+        },
+        {
+          "q": "A：你学得可真快！\nB：我小时候学过两年的舞，有点儿____。",
+          "key": "基础",
+          "a": "A：你学得可真快！\nB：我小时候学过两年的舞，有点儿【基础】。",
+          "vi": "A: Bạn học nhanh thật!\nB: Hồi nhỏ tôi từng học múa hai năm, có chút nền tảng.",
+          "en": "A: You learn so fast!\nB: I did two years of dance as a child, so I have a bit of a foundation."
+        },
+        {
+          "q": "A：材料整理好了没？\nB：差不多了，我再检查一____就给您送过去。",
+          "key": "遍",
+          "a": "A：材料整理好了没？\nB：差不多了，我再检查一【遍】就给您送过去。",
+          "vi": "A: Tài liệu sắp xếp xong chưa?\nB: Gần xong rồi, tôi kiểm tra lại một lượt rồi mang qua cho anh.",
+          "en": "A: Have you sorted out the materials?\nB: Nearly. I'll check them through once more and bring them over."
+        },
+        {
+          "q": "A：你想好了没？是____读书还是参加工作？\nB：我考虑过了，我想先工作两年，然后再考研究生。",
+          "key": "继续",
+          "a": "A：你想好了没？是【继续】读书还是参加工作？\nB：我考虑过了，我想先工作两年，然后再考研究生。",
+          "vi": "A: Bạn nghĩ xong chưa? Tiếp tục học hay đi làm?\nB: Tôi cân nhắc rồi, tôi muốn đi làm hai năm trước rồi mới thi cao học.",
+          "en": "A: Have you decided? Will you carry on studying or start work?\nB: I've thought about it. I want to work for two years first, then apply for a master's."
+        },
+        {
+          "q": "A：孙小姐，我们大概什么时候出发？\nB：大家先回房间____休息一下，半个小时后我们楼下集合。",
+          "key": "稍微",
+          "a": "A：孙小姐，我们大概什么时候出发？\nB：大家先回房间【稍微】休息一下，半个小时后我们楼下集合。",
+          "vi": "A: Cô Tôn ơi, khoảng mấy giờ chúng ta xuất phát?\nB: Mọi người về phòng nghỉ ngơi một chút, nửa tiếng sau chúng ta tập trung dưới lầu.",
+          "en": "A: Miss Sun, roughly when are we setting off?\nB: Go back to your rooms and rest a little first. We'll meet downstairs in half an hour."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 量",
+    "en": "Words sharing a character: 量",
+    "words": [
+      {
+        "zh": "商量",
+        "py": "shāngliang",
+        "vi": "bàn bạc",
+        "en": "to discuss"
+      },
+      {
+        "zh": "数量",
+        "py": "shùliàng",
+        "vi": "số lượng",
+        "en": "quantity"
+      },
+      {
+        "zh": "质量",
+        "py": "zhìliàng",
+        "vi": "chất lượng",
+        "en": "quality"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "我认真考虑了一个晚上，也打电话和父母【商量】过了，最后还是决定不去那家公司了。我想继续留在北京，看看还有没有别的机会。",
+        "vi": "Tôi suy nghĩ kỹ cả một buổi tối, cũng đã gọi điện bàn bạc với bố mẹ, cuối cùng vẫn quyết định không đến công ty đó. Tôi muốn tiếp tục ở lại Bắc Kinh, xem còn cơ hội nào khác không.",
+        "en": "I thought it over carefully all evening and discussed it with my parents on the phone, and in the end decided not to join that company. I want to stay in Beijing and see if there are other opportunities."
+      },
+      {
+        "zh": "广告虽然给我们带来很多方便，但【数量】太多也会让人觉得讨厌。",
+        "vi": "Quảng cáo tuy mang lại cho chúng ta nhiều tiện lợi, nhưng số lượng quá nhiều cũng khiến người ta thấy khó chịu.",
+        "en": "Adverts bring us a lot of convenience, but too many of them can be annoying."
+      },
+      {
+        "zh": "如果一个星期内发现有任何【质量】问题，我们都可以免费为您换货，但是购物小票一定不能丢。",
+        "vi": "Nếu trong vòng một tuần phát hiện có bất kỳ vấn đề chất lượng nào, chúng tôi đều có thể đổi hàng miễn phí cho quý khách, nhưng nhất định không được làm mất hóa đơn mua hàng.",
+        "en": "If you find any quality problems within a week, we'll exchange the item free of charge, but you mustn't lose the receipt."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "商量",
+        "数量",
+        "质量"
+      ],
+      "items": [
+        {
+          "q": "大熊猫样子非常可爱，深受人们喜爱。但是____不多，全世界一共才有一千多只。",
+          "key": "数量",
+          "a": "大熊猫样子非常可爱，深受人们喜爱。但是【数量】不多，全世界一共才有一千多只。",
+          "vi": "Gấu trúc trông rất đáng yêu, được mọi người rất yêu thích. Nhưng số lượng không nhiều, cả thế giới chỉ có hơn một nghìn con.",
+          "en": "Giant pandas look really cute and are much loved. But there aren't many of them: only just over a thousand in the whole world."
+        },
+        {
+          "q": "了解顾客的实际需要十分重要，一样东西，不管它____多好、多便宜，如果顾客完全不需要它，我们就很难把它卖出去。",
+          "key": "质量",
+          "a": "了解顾客的实际需要十分重要，一样东西，不管它【质量】多好、多便宜，如果顾客完全不需要它，我们就很难把它卖出去。",
+          "vi": "Hiểu nhu cầu thực tế của khách hàng vô cùng quan trọng, một món đồ dù chất lượng tốt đến đâu, rẻ đến đâu, nếu khách hoàn toàn không cần thì chúng ta rất khó bán được.",
+          "en": "Understanding customers' real needs is very important. However good or cheap something is, if customers don't need it at all, we'll find it hard to sell."
+        },
+        {
+          "q": "A：你们两个怎么样了？打算什么时候结婚？\nB：我们____过了，就明年十月一号。",
+          "key": "商量",
+          "a": "A：你们两个怎么样了？打算什么时候结婚？\nB：我们【商量】过了，就明年十月一号。",
+          "vi": "A: Hai bạn thế nào rồi? Định bao giờ cưới?\nB: Chúng tôi bàn rồi, ngày 1 tháng 10 năm sau.",
+          "en": "A: How are you two getting on? When are you planning to get married?\nB: We've talked it over: October 1st next year."
+        }
+      ]
+    }
+  }
+}

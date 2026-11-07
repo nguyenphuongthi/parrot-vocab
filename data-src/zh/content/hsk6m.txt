@@ -1,0 +1,161 @@
+# 词|pinyin|hán việt|nghĩa VI|meaning EN|例句|câu dịch VI|sentence EN|tag
+侮辱|wǔrǔ|vũ nhục|lăng mạ, sỉ nhục|to insult|你这样说是对我的侮辱。|Bạn nói như vậy là sỉ nhục tôi.|Saying that is an insult to me.|是字句
+舞蹈|wǔdǎo|vũ đạo|múa, vũ đạo|dance|她从小学习舞蹈，跳得非常好。|Cô ấy học múa từ nhỏ, nhảy rất đẹp.|She's studied dance since childhood and dances beautifully.|程度补语
+务必|wùbì|vụ tất|nhất thiết phải|must|明天的会议请务必准时参加。|Cuộc họp ngày mai xin nhất thiết tham dự đúng giờ.|Please be sure to attend tomorrow's meeting on time.|祈使句
+物美价廉|wù měi jià lián|vật mỹ giá liêm|hàng tốt giá rẻ|good and cheap|这家商店的东西物美价廉。|Đồ ở cửa hàng này hàng tốt giá rẻ.|This store's goods are good quality and cheap.|陈述句
+物业|wùyè|vật nghiệp|ban quản lý tòa nhà; bất động sản|property management|家里的水管坏了，快给物业打电话。|Ống nước trong nhà hỏng rồi, mau gọi cho ban quản lý.|The pipes at home are broken—call property management.|介词短语
+物资|wùzī|vật tư|vật tư|supplies|救援物资已经送到了灾区。|Vật tư cứu trợ đã được chuyển đến vùng thiên tai.|Relief supplies have reached the disaster area.|结果补语
+误差|wùchā|ngộ sai|sai số|error|这台仪器的测量误差非常小。|Sai số đo của thiết bị này rất nhỏ.|This instrument's measurement error is very small.|形容词谓语
+误解|wùjiě|ngộ giải|hiểu lầm|to misunderstand|我想你误解了我的意思。|Tôi nghĩ bạn đã hiểu lầm ý tôi.|I think you misunderstood me.|了
+夕阳|xīyáng|tịch dương|hoàng hôn, mặt trời lặn|setting sun|夕阳下的海边美极了。|Bờ biển dưới ánh hoàng hôn đẹp tuyệt vời.|The seaside at sunset is stunning.|程度补语
+昔日|xīrì|tích nhật|ngày xưa|in the past|昔日的小渔村如今变成了现代化的城市。|Làng chài nhỏ ngày xưa nay đã thành một thành phố hiện đại.|The fishing village of old is now a modern city.|结果补语
+牺牲|xīshēng|hy sinh|hy sinh|to sacrifice|为了家庭，她牺牲了自己的事业。|Vì gia đình, bà ấy đã hy sinh sự nghiệp của mình.|She sacrificed her career for her family.|目的
+溪|xī|khê|suối|stream|山下有一条清澈的小溪。|Dưới chân núi có một con suối trong vắt.|There's a clear stream at the foot of the mountain.|存现句
+熄灭|xīmiè|tức diệt|tắt (lửa, đèn)|to go out|大火终于被熄灭了。|Đám cháy lớn cuối cùng đã được dập tắt.|The fire was finally put out.|被字句
+膝盖|xīgài|tất cái|đầu gối|knee|他跑步的时候摔了一跤，膝盖受伤了。|Anh ấy bị ngã khi chạy, đầu gối bị thương.|He fell while running and hurt his knee.|时间状语
+习俗|xísú|tập tục|tập tục|custom|每个民族都有自己的传统习俗。|Mỗi dân tộc đều có tập tục truyền thống riêng.|Every ethnic group has its own traditional customs.|有字句
+袭击|xíjī|tập kích|tấn công, tập kích|to attack|这个地区昨天遭到了台风的袭击。|Hôm qua khu vực này bị bão tấn công.|This area was hit by a typhoon yesterday.|了
+媳妇|xífù|tức phụ|con dâu; vợ|daughter-in-law; wife|她是一个孝顺的好媳妇。|Cô ấy là một người con dâu hiếu thảo.|She's a dutiful daughter-in-law.|是字句
+喜闻乐见|xǐ wén lè jiàn|hỷ văn lạc kiến|được ưa thích|popular|相声是老百姓喜闻乐见的艺术形式。|Tấu nói là hình thức nghệ thuật được người dân ưa thích.|Crosstalk is an art form ordinary people love.|是字句
+喜悦|xǐyuè|hỷ duyệt|vui mừng|joyful|她脸上洋溢着喜悦的笑容。|Trên mặt cô ấy rạng rỡ nụ cười vui mừng.|Her face beamed with joy.|着
+系列|xìliè|hệ liệt|loạt, chuỗi|series|这家公司推出了一系列新产品。|Công ty này đã tung ra một loạt sản phẩm mới.|This company has launched a series of new products.|了
+细胞|xìbāo|tế bào|tế bào|cell|人体是由很多细胞组成的。|Cơ thể người được cấu tạo từ rất nhiều tế bào.|The human body is made up of many cells.|是…的
+细菌|xìjūn|tế khuẩn|vi khuẩn|bacteria|饭前洗手可以减少细菌的传播。|Rửa tay trước khi ăn có thể giảm sự lây lan vi khuẩn.|Washing hands before meals reduces the spread of germs.|能愿动词
+细致|xìzhì|tế trí|tỉ mỉ, kỹ lưỡng|meticulous|她工作非常细致，很少出错。|Cô ấy làm việc rất tỉ mỉ, hiếm khi mắc lỗi.|She works very meticulously and rarely makes mistakes.|形容词谓语
+峡谷|xiágǔ|hạp cốc|hẻm núi|canyon|这条峡谷的风景非常壮观。|Phong cảnh hẻm núi này vô cùng hùng vĩ.|The scenery in this canyon is spectacular.|形容词谓语
+狭隘|xiá'ài|hiệp ải|hẹp hòi|narrow-minded|他的心胸太狭隘了，容不下别人。|Lòng dạ anh ta quá hẹp hòi, không dung được người khác.|He's too narrow-minded to tolerate others.|可能补语
+狭窄|xiázhǎi|hiệp trách|chật hẹp|narrow|这条胡同非常狭窄，车开不进去。|Con ngõ này rất chật hẹp, xe không vào được.|This alley is so narrow cars can't get in.|可能补语
+霞|xiá|hà|ráng (mây)|rosy clouds|傍晚，天边出现了美丽的晚霞。|Chiều tối, chân trời xuất hiện ráng chiều tuyệt đẹp.|At dusk, a beautiful sunset glow appeared on the horizon.|存现句
+下属|xiàshǔ|hạ thuộc|cấp dưới|subordinate|他对下属要求很严格。|Ông ấy yêu cầu cấp dưới rất nghiêm khắc.|He's very strict with his subordinates.|介词短语
+先进|xiānjìn|tiên tiến|tiên tiến|advanced|这家医院的设备非常先进。|Thiết bị của bệnh viện này vô cùng tiên tiến.|This hospital's equipment is very advanced.|形容词谓语
+先前|xiānqián|tiên tiền|trước đây|previously|他比先前瘦了很多。|Anh ấy gầy hơn trước nhiều.|He's much thinner than before.|比较句
+纤维|xiānwéi|tiêm duy|sợi, chất xơ|fiber|多吃含纤维的食物对身体有好处。|Ăn nhiều thực phẩm giàu chất xơ có lợi cho sức khỏe.|Eating more fiber is good for your health.|介词短语
+掀起|xiānqǐ|hân khởi|nhấc lên; dấy lên|to lift; to set off|这部电影在全国掀起了一股热潮。|Bộ phim này đã dấy lên một làn sóng trên toàn quốc.|This film set off a craze nationwide.|介词短语
+鲜明|xiānmíng|tiên minh|tươi sáng; rõ ràng|bright; distinct|这两种观点形成了鲜明的对比。|Hai quan điểm này tạo thành sự tương phản rõ rệt.|These two views stand in sharp contrast.|了
+闲话|xiánhuà|nhàn thoại|chuyện phiếm; lời ra tiếng vào|chitchat; gossip|别在背后说别人的闲话。|Đừng nói xấu sau lưng người khác.|Don't gossip behind people's backs.|祈使句
+贤惠|xiánhuì|hiền huệ|hiền thục, đảm đang|virtuous (of a woman)|他的妻子非常贤惠。|Vợ anh ấy rất hiền thục đảm đang.|His wife is very kind and capable.|形容词谓语
+弦|xián|huyền|dây đàn; dây cung|string|吉他的弦断了一根。|Đàn ghi-ta đứt mất một dây.|One of the guitar strings broke.|了
+衔接|xiánjiē|hàm tiếp|nối tiếp, liên kết|to link up|这两段话衔接得不太自然。|Hai đoạn này nối tiếp nhau không được tự nhiên lắm.|The transition between these two paragraphs isn't very smooth.|程度补语
+嫌|xián|hiềm|chê, ghét|to dislike|他嫌这件衣服太贵，没有买。|Anh ấy chê bộ quần áo này đắt quá nên không mua.|He thought the clothes were too expensive and didn't buy them.|承接
+嫌疑|xiányí|hiềm nghi|hiềm nghi, nghi vấn|suspicion|警察认为他有很大的作案嫌疑。|Cảnh sát cho rằng hắn có nhiều nghi vấn gây án.|The police think he's a prime suspect.|有字句
+显著|xiǎnzhù|hiển trứ|rõ rệt, nổi bật|remarkable|经过治疗，他的病情有了显著的好转。|Qua điều trị, bệnh tình của anh ấy đã chuyển biến tốt rõ rệt.|After treatment, his condition improved markedly.|有字句
+现场|xiànchǎng|hiện trường|hiện trường; tại chỗ|scene; on-site|警察很快赶到了事故现场。|Cảnh sát nhanh chóng có mặt tại hiện trường vụ tai nạn.|The police quickly arrived at the scene of the accident.|结果补语
+现成|xiànchéng|hiện thành|có sẵn|ready-made|冰箱里有现成的菜，热一下就能吃。|Trong tủ lạnh có sẵn đồ ăn, hâm nóng là ăn được.|There's food in the fridge—just heat it up and eat.|存现句
+现状|xiànzhuàng|hiện trạng|hiện trạng|current situation|我们不能满足于现状。|Chúng ta không thể thỏa mãn với hiện trạng.|We can't be satisfied with the status quo.|能愿动词
+线索|xiànsuǒ|tuyến tác|manh mối|clue|警察找到了一条重要的线索。|Cảnh sát đã tìm được một manh mối quan trọng.|The police found an important clue.|结果补语
+宪法|xiànfǎ|hiến pháp|hiến pháp|constitution|宪法是国家的根本大法。|Hiến pháp là đạo luật cơ bản của quốc gia.|The constitution is the fundamental law of the state.|是字句
+陷害|xiànhài|hãm hại|hãm hại|to frame|他被人陷害，坐了三年牢。|Anh ấy bị người ta hãm hại, ngồi tù ba năm.|He was framed and spent three years in prison.|被字句
+陷阱|xiànjǐng|hãm tỉnh|cạm bẫy|trap|小心，这可能是一个陷阱。|Cẩn thận, đây có thể là một cái bẫy.|Careful, this might be a trap.|是字句
+陷入|xiànrù|hãm nhập|rơi vào|to fall into|公司陷入了严重的经济困难。|Công ty đã rơi vào khó khăn kinh tế nghiêm trọng.|The company has fallen into serious financial difficulties.|了
+馅儿|xiànr|hãm nhi|nhân (bánh)|filling|你喜欢吃什么馅儿的饺子？|Bạn thích ăn sủi cảo nhân gì?|What kind of dumpling filling do you like?|特指问句
+乡镇|xiāngzhèn|hương trấn|thị trấn, xã|townships and towns|他在一个小乡镇当老师。|Anh ấy làm giáo viên ở một thị trấn nhỏ.|He's a teacher in a small township.|介词短语
+相差|xiāngchà|tương sai|chênh lệch|to differ|他们俩的年龄相差十岁。|Tuổi hai người họ chênh nhau mười tuổi.|There's a ten-year age gap between them.|陈述句
+相等|xiāngděng|tương đẳng|bằng nhau|equal|这两个数相等。|Hai số này bằng nhau.|These two numbers are equal.|形容词谓语
+相辅相成|xiāng fǔ xiāng chéng|tương phụ tương thành|bổ trợ cho nhau|to complement each other|学习和实践是相辅相成的。|Học tập và thực hành bổ trợ lẫn nhau.|Study and practice complement each other.|是…的
+相声|xiàngsheng|tướng thanh|tấu nói|comic dialogue|爷爷最喜欢听相声了。|Ông thích nhất là nghe tấu nói.|Grandpa loves listening to crosstalk.|陈述句
+相应|xiāngyìng|tương ứng|tương ứng|corresponding|权利和义务是相应的。|Quyền lợi và nghĩa vụ đi đôi với nhau.|Rights and obligations go hand in hand.|是…的
+镶嵌|xiāngqiàn|tương khảm|khảm, nạm|to inlay|这枚戒指上镶嵌着一颗钻石。|Chiếc nhẫn này có nạm một viên kim cương.|This ring is set with a diamond.|着
+响亮|xiǎngliàng|hưởng lượng|vang dội|loud and clear|他的回答声音非常响亮。|Giọng trả lời của cậu ấy vô cùng vang dội.|His answer rang out loud and clear.|形容词谓语
+响应|xiǎngyìng|hưởng ứng|hưởng ứng|to respond|大家积极响应学校的号召，参加了植树活动。|Mọi người tích cực hưởng ứng lời kêu gọi của trường, tham gia trồng cây.|Everyone responded to the school's call and took part in tree planting.|承接
+想方设法|xiǎng fāng shè fǎ|tưởng phương thiết pháp|tìm mọi cách|to try every means|他想方设法帮我解决了问题。|Anh ấy tìm mọi cách giúp tôi giải quyết vấn đề.|He tried every possible way to help me solve the problem.|了
+向导|xiàngdǎo|hướng đạo|người dẫn đường|guide|我们请了一位当地人做向导。|Chúng tôi thuê một người địa phương làm người dẫn đường.|We hired a local as our guide.|兼语句
+向来|xiànglái|hướng lai|xưa nay|always|他向来说话算数。|Anh ấy xưa nay nói là giữ lời.|He has always kept his word.|陈述句
+向往|xiàngwǎng|hướng vãng|mong ước, hướng về|to yearn for|我一直很向往去西藏旅行。|Tôi luôn mong ước được đi du lịch Tây Tạng.|I've always longed to travel to Tibet.|陈述句
+巷|xiàng|hạng|ngõ, hẻm|lane|他家住在一条安静的小巷里。|Nhà anh ấy ở trong một con hẻm nhỏ yên tĩnh.|He lives in a quiet little lane.|介词短语
+肖像|xiàoxiàng|tiếu tượng|chân dung|portrait|墙上挂着一幅爷爷的肖像。|Trên tường treo một bức chân dung của ông.|A portrait of Grandpa hangs on the wall.|存现句
+消除|xiāochú|tiêu trừ|xóa bỏ, loại bỏ|to eliminate|我们要想办法消除误会。|Chúng ta phải tìm cách xóa bỏ hiểu lầm.|We need to find a way to clear up the misunderstanding.|能愿动词
+消毒|xiāodú|tiêu độc|khử trùng|to disinfect|医生用酒精给伤口消毒。|Bác sĩ dùng cồn khử trùng vết thương.|The doctor disinfected the wound with alcohol.|介词短语
+消防|xiāofáng|tiêu phòng|phòng cháy chữa cháy|firefighting|消防车很快就赶到了现场。|Xe cứu hỏa nhanh chóng có mặt tại hiện trường.|The fire engines arrived at the scene quickly.|结果补语
+消耗|xiāohào|tiêu hao|tiêu hao|to consume|跑步可以消耗大量的热量。|Chạy bộ có thể tiêu hao lượng lớn calo.|Running burns a lot of calories.|能愿动词
+消灭|xiāomiè|tiêu diệt|tiêu diệt|to wipe out|我们要消灭家里的蚊子。|Chúng ta phải diệt muỗi trong nhà.|We need to get rid of the mosquitoes at home.|能愿动词
+销毁|xiāohuǐ|tiêu hủy|tiêu hủy|to destroy|这批假货已经全部被销毁了。|Lô hàng giả này đã bị tiêu hủy toàn bộ.|This batch of counterfeit goods has all been destroyed.|被字句
+潇洒|xiāosǎ|tiêu sái|phóng khoáng, phong độ|free and easy; dashing|他穿上西装，显得特别潇洒。|Anh ấy mặc vest vào trông đặc biệt phong độ.|He looks especially dashing in a suit.|形容词谓语
+小心翼翼|xiǎoxīn yìyì|tiểu tâm dực dực|cẩn thận từng li|very carefully|她小心翼翼地把花瓶放在桌子上。|Cô ấy cẩn thận từng li đặt bình hoa lên bàn.|She carefully placed the vase on the table.|把字句
+效益|xiàoyì|hiệu ích|hiệu quả, lợi ích|benefit|这家企业的经济效益越来越好。|Hiệu quả kinh tế của doanh nghiệp này ngày càng tốt.|This company's economic performance keeps improving.|越…越
+协会|xiéhuì|hiệp hội|hiệp hội|association|他是作家协会的会员。|Ông ấy là hội viên hội nhà văn.|He's a member of the writers' association.|是字句
+协商|xiéshāng|hiệp thương|hiệp thương, bàn bạc|to consult|这件事我们可以协商解决。|Việc này chúng ta có thể bàn bạc để giải quyết.|We can resolve this through discussion.|能愿动词
+协调|xiétiáo|hiệp điệu|phối hợp, điều phối|to coordinate|他负责协调各部门的工作。|Anh ấy phụ trách điều phối công việc các bộ phận.|He's in charge of coordinating the work of all departments.|介词短语
+协议|xiéyì|hiệp nghị|thỏa thuận|agreement|双方终于达成了协议。|Hai bên cuối cùng đã đạt được thỏa thuận.|The two sides finally reached an agreement.|了
+协助|xiézhù|hiệp trợ|hỗ trợ|to assist|他协助警察抓住了小偷。|Anh ấy hỗ trợ cảnh sát bắt được tên trộm.|He helped the police catch the thief.|兼语句
+携带|xiédài|huề đái|mang theo|to carry|乘坐飞机不能携带打火机。|Đi máy bay không được mang theo bật lửa.|You can't bring lighters on a plane.|能愿动词
+泄露|xièlòu|tiết lộ|tiết lộ, rò rỉ|to leak|公司的机密被人泄露了。|Bí mật của công ty đã bị người ta tiết lộ.|The company's secrets were leaked.|被字句
+泄气|xièqì|tiết khí|nản chí, xì hơi|to lose heart|一次失败不算什么，千万别泄气。|Thất bại một lần chẳng là gì, tuyệt đối đừng nản chí.|One failure is nothing—don't lose heart.|祈使句
+屑|xiè|tiết|vụn|crumbs|桌子上都是面包屑。|Trên bàn toàn là vụn bánh mì.|The table is covered in breadcrumbs.|存现句
+谢绝|xièjué|tạ tuyệt|khéo từ chối|to decline politely|这里谢绝参观。|Nơi đây miễn tham quan.|No visitors allowed here.|陈述句
+心得|xīndé|tâm đắc|điều tâm đắc, kinh nghiệm rút ra|insights|请你谈谈学习汉语的心得。|Mời bạn chia sẻ kinh nghiệm học tiếng Trung.|Please share what you've learned from studying Chinese.|祈使句
+心甘情愿|xīn gān qíng yuàn|tâm cam tình nguyện|cam tâm tình nguyện|willingly|为了孩子，她心甘情愿地付出一切。|Vì con, bà ấy cam tâm tình nguyện hy sinh tất cả.|She willingly gives everything for her child.|目的
+心灵|xīnlíng|tâm linh|tâm hồn|soul, heart|音乐可以净化人的心灵。|Âm nhạc có thể thanh lọc tâm hồn con người.|Music can purify the soul.|能愿动词
+心态|xīntài|tâm thái|tâm thái, trạng thái tâm lý|mentality|保持良好的心态很重要。|Giữ một tâm thái tốt rất quan trọng.|Maintaining a good attitude is very important.|形容词谓语
+心疼|xīnténg|tâm đông|xót, thương; tiếc|to love dearly; to feel sorry|看到孩子受伤，妈妈很心疼。|Thấy con bị thương, mẹ rất xót.|Seeing her child hurt, the mother was heartbroken.|形容词谓语
+心血|xīnxuè|tâm huyết|tâm huyết|painstaking effort|这本书凝聚了他十年的心血。|Quyển sách này ngưng tụ mười năm tâm huyết của ông ấy.|This book represents ten years of his hard work.|了
+心眼儿|xīnyǎnr|tâm nhãn nhi|lòng dạ, bụng dạ|heart, mind|她心眼儿好，总是帮助别人。|Cô ấy tốt bụng, lúc nào cũng giúp đỡ người khác.|She's kind-hearted and always helps others.|形容词谓语
+辛勤|xīnqín|tân cần|cần cù, chăm chỉ|hardworking|感谢老师们的辛勤工作。|Cảm ơn sự làm việc cần mẫn của các thầy cô.|Thank you, teachers, for your hard work.|定语
+欣慰|xīnwèi|hân úy|vui mừng, an lòng|gratified|看到孩子长大成才，父母感到很欣慰。|Thấy con khôn lớn thành tài, bố mẹ cảm thấy rất vui lòng.|Parents feel gratified to see their children grow up successful.|形容词谓语
+欣欣向荣|xīnxīn xiàng róng|hân hân hướng vinh|phồn vinh, thịnh vượng|thriving|这个城市一片欣欣向荣的景象。|Thành phố này một cảnh tượng phồn vinh.|This city is flourishing.|是字句
+新陈代谢|xīn chén dài xiè|tân trần đại tạ|trao đổi chất|metabolism|运动可以加快新陈代谢。|Vận động có thể đẩy nhanh quá trình trao đổi chất.|Exercise can speed up your metabolism.|能愿动词
+新郎|xīnláng|tân lang|chú rể|bridegroom|新郎和新娘正在给客人敬酒。|Cô dâu chú rể đang mời rượu khách.|The bride and groom are toasting the guests.|进行态
+新娘|xīnniáng|tân nương|cô dâu|bride|今天的新娘真漂亮！|Cô dâu hôm nay đẹp quá!|The bride looks beautiful today!|感叹句
+新颖|xīnyǐng|tân dĩnh|mới lạ, độc đáo|novel, original|这个设计很新颖。|Thiết kế này rất mới lạ.|This design is very original.|形容词谓语
+薪水|xīnshuǐ|tân thủy|tiền lương|salary|这份工作薪水不高，但是很稳定。|Công việc này lương không cao nhưng rất ổn định.|This job doesn't pay much, but it's stable.|转折
+信赖|xìnlài|tín lại|tin cậy|to trust|他是一个值得信赖的朋友。|Anh ấy là một người bạn đáng tin cậy.|He's a trustworthy friend.|是字句
+信念|xìnniàn|tín niệm|niềm tin|belief|是坚定的信念支持他走到了今天。|Chính niềm tin vững chắc đã giúp anh ấy đi đến ngày hôm nay.|It was firm conviction that carried him this far.|是…的
+信仰|xìnyǎng|tín ngưỡng|tín ngưỡng|faith|我们应该尊重别人的宗教信仰。|Chúng ta nên tôn trọng tín ngưỡng tôn giáo của người khác.|We should respect other people's religious beliefs.|能愿动词
+信誉|xìnyù|tín dự|uy tín|reputation|这家公司很讲信誉。|Công ty này rất coi trọng uy tín.|This company values its reputation highly.|陈述句
+腥|xīng|tinh|tanh|fishy|这条鱼有点儿腥，多放点儿姜吧。|Con cá này hơi tanh, cho thêm chút gừng đi.|This fish is a bit fishy—add more ginger.|吧
+刑事|xíngshì|hình sự|hình sự|criminal|他因为犯罪被追究刑事责任。|Anh ta bị truy cứu trách nhiệm hình sự vì phạm tội.|He faces criminal charges for his crime.|被字句
+形态|xíngtài|hình thái|hình thái|form|这种动物的形态非常奇特。|Hình thái của loài động vật này rất kỳ lạ.|This animal has a very peculiar form.|形容词谓语
+兴高采烈|xìng gāo cǎi liè|hứng cao thải liệt|hớn hở, phấn khởi|in high spirits|孩子们兴高采烈地去公园玩儿了。|Bọn trẻ hớn hở đi công viên chơi.|The children went off to the park in high spirits.|连动句
+兴隆|xīnglóng|hưng long|thịnh vượng, phát đạt|prosperous|祝你生意兴隆！|Chúc bạn buôn bán phát đạt!|May your business prosper!|感叹句
+兴旺|xīngwàng|hưng vượng|hưng thịnh|flourishing|他们家的生意越来越兴旺。|Việc làm ăn của nhà họ ngày càng hưng thịnh.|Their family business is thriving more and more.|越…越
+兴致勃勃|xìngzhì bóbó|hứng trí bột bột|hứng thú dạt dào|full of enthusiasm|大家兴致勃勃地讨论着周末的旅行计划。|Mọi người hào hứng thảo luận kế hoạch du lịch cuối tuần.|Everyone eagerly discussed their weekend travel plans.|着
+性感|xìnggǎn|tính cảm|gợi cảm|sexy|这位女演员被认为是最性感的明星之一。|Nữ diễn viên này được coi là một trong những ngôi sao gợi cảm nhất.|This actress is considered one of the sexiest stars.|被字句
+性命|xìngmìng|tính mệnh|tính mạng|life|是医生救了他的性命。|Chính bác sĩ đã cứu tính mạng anh ấy.|It was the doctor who saved his life.|是…的
+性能|xìngnéng|tính năng|tính năng|performance|这辆车的性能非常好。|Tính năng của chiếc xe này rất tốt.|This car performs very well.|形容词谓语
+凶恶|xiōng'è|hung ác|hung ác|ferocious|那只狗看起来很凶恶，大家都不敢靠近。|Con chó đó trông rất hung dữ, mọi người đều không dám lại gần.|That dog looks vicious, and no one dares approach it.|能愿动词
+凶手|xiōngshǒu|hung thủ|hung thủ|murderer|警察终于抓到了凶手。|Cảnh sát cuối cùng đã bắt được hung thủ.|The police finally caught the murderer.|结果补语
+汹涌|xiōngyǒng|hung dũng|cuồn cuộn, dữ dội|turbulent|海浪汹涌，船不能出海。|Sóng biển cuồn cuộn, thuyền không thể ra khơi.|The waves are rough, so boats can't go out.|因果
+胸怀|xiōnghuái|hung hoài|tấm lòng, lòng dạ|breadth of mind|他有宽广的胸怀，从不计较小事。|Anh ấy có tấm lòng rộng lượng, chưa bao giờ so đo chuyện nhỏ.|He's broad-minded and never fusses over trifles.|有字句
+胸膛|xiōngtáng|hung đường|lồng ngực|chest|他挺起胸膛，自信地走上了台。|Anh ấy ưỡn ngực tự tin bước lên sân khấu.|He puffed out his chest and walked confidently on stage.|承接
+雄厚|xiónghòu|hùng hậu|hùng hậu|abundant|这家公司的资金非常雄厚。|Nguồn vốn của công ty này rất hùng hậu.|This company has very substantial capital.|形容词谓语
+雄伟|xióngwěi|hùng vĩ|hùng vĩ|majestic|长城非常雄伟。|Vạn Lý Trường Thành vô cùng hùng vĩ.|The Great Wall is truly majestic.|形容词谓语
+修复|xiūfù|tu phục|tu sửa, phục hồi|to restore|这座古庙已经修复好了。|Ngôi đền cổ này đã được tu sửa xong.|This ancient temple has been restored.|结果补语
+修建|xiūjiàn|tu kiến|xây dựng|to build|这里正在修建一座新的机场。|Ở đây đang xây dựng một sân bay mới.|A new airport is being built here.|进行态
+修养|xiūyǎng|tu dưỡng|sự tu dưỡng, giáo dưỡng|self-cultivation|他是一个很有修养的人。|Anh ấy là một người rất có giáo dưỡng.|He's a very cultivated person.|是字句
+羞耻|xiūchǐ|tu sỉ|xấu hổ, nhục|shame|做了错事，他感到很羞耻。|Làm sai, anh ấy thấy rất xấu hổ.|Having done wrong, he felt deeply ashamed.|形容词谓语
+绣|xiù|tú|thêu|to embroider|奶奶在手帕上绣了一朵花。|Bà thêu một bông hoa lên chiếc khăn tay.|Grandma embroidered a flower on the handkerchief.|介词短语
+嗅觉|xiùjué|khứu giác|khứu giác|sense of smell|狗的嗅觉比人灵敏得多。|Khứu giác của chó nhạy hơn người nhiều.|A dog's sense of smell is far keener than a human's.|比较句
+须知|xūzhī|tu tri|điều cần biết; nên biết|notice; one should know|出发前请仔细阅读旅游须知。|Trước khi xuất phát xin đọc kỹ những điều cần biết khi du lịch.|Please read the travel notes carefully before departure.|时间状语
+虚假|xūjiǎ|hư giả|giả dối|false|这个广告内容虚假，欺骗消费者。|Nội dung quảng cáo này giả dối, lừa gạt người tiêu dùng.|This ad is false and deceives consumers.|并列
+虚荣|xūróng|hư vinh|hư vinh|vanity|她很爱虚荣，总是买名牌。|Cô ấy rất ham hư vinh, lúc nào cũng mua hàng hiệu.|She's very vain and always buys designer brands.|形容词谓语
+虚伪|xūwěi|hư ngụy|giả dối, đạo đức giả|hypocritical|我讨厌虚伪的人。|Tôi ghét những người giả dối.|I hate hypocrites.|陈述句
+需求|xūqiú|nhu cầu|nhu cầu|demand|市场对这种产品的需求越来越大。|Nhu cầu thị trường với sản phẩm này ngày càng lớn.|Market demand for this product keeps growing.|越…越
+许可|xǔkě|hứa khả|cho phép|to permit|没有得到许可，不能进入这个房间。|Không được phép thì không được vào phòng này.|You can't enter this room without permission.|假设
+序言|xùyán|tự ngôn|lời tựa|preface|这本书的序言是一位著名作家写的。|Lời tựa của cuốn sách này do một nhà văn nổi tiếng viết.|The preface to this book was written by a famous author.|是…的
+酗酒|xùjiǔ|húng tửu|nghiện rượu, say xỉn|heavy drinking|酗酒对身体的伤害很大。|Nghiện rượu gây hại rất lớn cho cơ thể.|Heavy drinking does great harm to your body.|介词短语
+宣誓|xuānshì|tuyên thệ|tuyên thệ|to swear an oath|新总统在就职典礼上宣誓。|Tân tổng thống tuyên thệ tại lễ nhậm chức.|The new president took the oath of office at the inauguration.|介词短语
+宣扬|xuānyáng|tuyên dương|tuyên truyền, đề cao|to publicize|我们应该宣扬正确的价值观。|Chúng ta nên đề cao những giá trị đúng đắn.|We should promote the right values.|能愿动词
+喧哗|xuānhuá|huyên hoa|ồn ào|to make a racket|图书馆内请勿大声喧哗。|Trong thư viện xin đừng làm ồn.|Please don't make noise in the library.|祈使句
+悬挂|xuánguà|huyền quải|treo|to hang|国旗高高地悬挂在空中。|Lá quốc kỳ được treo cao trên không trung.|The national flag hangs high in the air.|介词短语
+悬念|xuánniàn|huyền niệm|tình tiết gay cấn, hồi hộp|suspense|这部电影充满了悬念。|Bộ phim này đầy tình tiết hồi hộp.|This film is full of suspense.|介词短语
+悬殊|xuánshū|huyền thù|chênh lệch lớn|vastly different|两个队的实力相差悬殊。|Thực lực hai đội chênh lệch rất lớn.|The two teams are vastly different in strength.|陈述句
+悬崖峭壁|xuányá qiàobì|huyền nhai tiễu bích|vách đá dựng đứng|sheer cliffs|山的两边都是悬崖峭壁。|Hai bên núi đều là vách đá dựng đứng.|Both sides of the mountain are sheer cliffs.|是字句
+旋律|xuánlǜ|toàn luật|giai điệu|melody|这首歌的旋律非常优美。|Giai điệu của bài hát này vô cùng du dương.|This song's melody is beautiful.|形容词谓语
+旋转|xuánzhuǎn|toàn chuyển|xoay, quay|to rotate|地球围绕着太阳旋转。|Trái đất quay quanh mặt trời.|The earth revolves around the sun.|着
+选拔|xuǎnbá|tuyển bạt|tuyển chọn|to select|学校正在选拔参加比赛的选手。|Nhà trường đang tuyển chọn tuyển thủ tham gia cuộc thi.|The school is selecting contestants for the competition.|进行态
+选举|xuǎnjǔ|tuyển cử|bầu cử|to elect; election|明年这个国家要举行总统选举。|Năm sau nước này sẽ tổ chức bầu cử tổng thống.|This country will hold a presidential election next year.|将要
+选手|xuǎnshǒu|tuyển thủ|tuyển thủ, thí sinh|contestant|这次比赛共有一百名选手参加。|Cuộc thi lần này có tổng cộng một trăm thí sinh tham gia.|A total of one hundred contestants are taking part.|有字句
+炫耀|xuànyào|huyễn diệu|khoe khoang|to show off|他总是向别人炫耀自己的新车。|Anh ta lúc nào cũng khoe chiếc xe mới với người khác.|He's always showing off his new car to people.|介词短语
+削|xiāo|tước|gọt|to peel|妈妈正在给我削苹果。|Mẹ đang gọt táo cho tôi.|Mom is peeling an apple for me.|进行态
+削弱|xuēruò|tước nhược|làm suy yếu|to weaken|这个决定削弱了公司的竞争力。|Quyết định này đã làm suy yếu sức cạnh tranh của công ty.|This decision weakened the company's competitiveness.|了
+学说|xuéshuō|học thuyết|học thuyết|theory|达尔文的进化论是一个重要的学说。|Thuyết tiến hóa của Darwin là một học thuyết quan trọng.|Darwin's theory of evolution is an important doctrine.|是字句
+学位|xuéwèi|học vị|học vị|degree|他获得了北京大学的博士学位。|Anh ấy nhận học vị tiến sĩ của Đại học Bắc Kinh.|He received a doctorate from Peking University.|了
+雪上加霜|xuě shàng jiā shuāng|tuyết thượng gia sương|họa vô đơn chí|to make things worse|他刚失业，又生病了，真是雪上加霜。|Anh ấy vừa mất việc lại bị ốm, đúng là họa vô đơn chí.|He just lost his job and then fell ill—it never rains but it pours.|承接
+血压|xuèyā|huyết áp|huyết áp|blood pressure|爷爷的血压有点儿高，要少吃盐。|Huyết áp ông hơi cao, phải ăn ít muối.|Grandpa's blood pressure is a bit high, so he should eat less salt.|能愿动词
+熏陶|xūntáo|huân đào|hun đúc, ảnh hưởng|to nurture|在父母的熏陶下，他从小就爱上了音乐。|Dưới sự hun đúc của cha mẹ, từ nhỏ anh ấy đã yêu âm nhạc.|Influenced by his parents, he fell in love with music as a child.|介词短语
+寻觅|xúnmì|tầm mịch|tìm kiếm|to seek|他一直在寻觅自己的人生伴侣。|Anh ấy vẫn luôn tìm kiếm người bạn đời của mình.|He's been searching for his life partner.|进行态
+巡逻|xúnluó|tuần la|tuần tra|to patrol|警察每天晚上都在这一带巡逻。|Cảnh sát tối nào cũng tuần tra khu vực này.|Police patrol this area every night.|介词短语
+循环|xúnhuán|tuần hoàn|tuần hoàn|to circulate|运动可以促进血液循环。|Vận động có thể thúc đẩy tuần hoàn máu.|Exercise promotes blood circulation.|能愿动词
+循序渐进|xún xù jiàn jìn|tuần tự tiệm tiến|tuần tự từng bước|step by step|学习要循序渐进，不能急于求成。|Học tập phải tuần tự từng bước, không thể nóng vội.|Learning should proceed step by step—don't rush it.|能愿动词
+压迫|yāpò|áp bách|áp bức|to oppress|人民反抗压迫，追求自由。|Nhân dân chống lại áp bức, theo đuổi tự do.|The people resisted oppression and pursued freedom.|并列
+压岁钱|yāsuìqián|áp tuế tiền|tiền mừng tuổi|New Year money|过年的时候，孩子们都能收到压岁钱。|Dịp Tết, bọn trẻ đều nhận được tiền mừng tuổi.|At New Year, children all receive lucky money.|时间状语
+压缩|yāsuō|áp súc|nén; cắt giảm|to compress|这个文件太大了，需要压缩一下。|Tệp này lớn quá, cần nén lại một chút.|This file is too big and needs compressing.|能愿动词

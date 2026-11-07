@@ -1,0 +1,966 @@
+{
+  "n": 10,
+  "zh": "争论的奇迹",
+  "vi": "Kỳ tích của cuộc tranh luận",
+  "en": "The miracle of an argument",
+  "texts": [
+    {
+      "title": "争论的奇迹",
+      "paras": [
+        {
+          "zh": "1872年的一天，在美国加利福尼亚州的一个酒店里，斯坦福与科恩围绕“马奔跑时蹄子是否着{zháo}地”进行了辩论。斯坦福认为，马奔跑得那么快，在跳起时四蹄应该都是不落地的；而科恩认为，马要是四蹄都不着{zháo}地，那不是成了青蛙啦？应该是始终有一蹄着{zháo}地。两人各执一词，争论得脸红脖子粗，谁也说服不了谁。于是他们就请英国摄影师麦布里奇来判断，可麦布里奇也弄不清楚。不过摄影师毕竟是摄影师，主意还是有的。他们一起来到一个操场，在一条跑道的一边等距离放上24个照相机，照相机对准跑道；在跑道另一边打24个洞，分别插进24根木棍，木棍上系{jì}着{zhe}细线，细线穿过跑道，接上相机快门。",
+          "vi": "Một ngày năm 1872, trong một khách sạn ở bang California nước Mỹ, Stanford và Cohen tranh luận xoay quanh vấn đề “khi ngựa chạy, móng có chạm đất hay không”. Stanford cho rằng ngựa chạy nhanh như vậy, khi bật lên thì cả bốn móng đều không chạm đất; còn Cohen cho rằng nếu cả bốn móng ngựa đều không chạm đất thì chẳng phải thành con ếch rồi sao? Phải là luôn có một móng chạm đất. Hai người mỗi người một ý, cãi nhau đỏ mặt tía tai, chẳng ai thuyết phục được ai. Thế là họ mời nhiếp ảnh gia người Anh Muybridge đến phân xử, nhưng Muybridge cũng không làm rõ được. Tuy nhiên nhiếp ảnh gia rốt cuộc vẫn là nhiếp ảnh gia, ý tưởng thì vẫn có. Họ cùng đến một sân vận động, đặt 24 chiếc máy ảnh cách đều nhau ở một bên đường chạy, máy ảnh hướng thẳng vào đường chạy; ở bên kia đường chạy đào 24 cái lỗ, cắm lần lượt 24 cây gậy gỗ, trên gậy buộc sợi dây mảnh, dây mảnh vắt ngang đường chạy, nối với nút chụp của máy ảnh.",
+          "en": "One day in 1872, in a hotel in California, USA, Stanford and Cohen had a debate about whether a horse's hooves touch the ground when it runs. Stanford believed that a horse runs so fast that when it leaps, all four hooves are off the ground; Cohen argued that if all four hooves were off the ground, wouldn't it be a frog? There must always be one hoof on the ground. Each stuck to his own view; they argued until they were red in the face, and neither could convince the other. So they asked the English photographer Muybridge to judge, but he couldn't work it out either. Still, a photographer is a photographer, and he had an idea. They went to a sports ground and set up 24 cameras at equal intervals along one side of a track, aimed at the track; on the other side they dug 24 holes and put a wooden stick in each. Thin threads were tied to the sticks, stretched across the track and attached to the camera shutters."
+        },
+        {
+          "zh": "一切都准备好了，麦布里奇让一匹马从跑道的一头飞奔到另一头，马一边跑，一边按顺序撞断拦路的24根细线，相{xiàng}机连续拍下了24张相{xiàng}片，相邻两张相{xiàng}片的差{chā}距都很小。相{xiàng}片显示：马奔跑时始终有一蹄着{zháo}地，科恩赢了。",
+          "vi": "Mọi thứ đã chuẩn bị xong, Muybridge cho một con ngựa phi từ đầu này đến đầu kia đường chạy, ngựa vừa chạy vừa lần lượt làm đứt 24 sợi dây chắn ngang đường, máy ảnh liên tục chụp được 24 tấm ảnh, sự khác biệt giữa hai tấm ảnh liền kề đều rất nhỏ. Ảnh cho thấy: khi ngựa chạy luôn có một móng chạm đất, Cohen đã thắng.",
+          "en": "When everything was ready, Muybridge had a horse gallop from one end of the track to the other. As it ran, it broke the 24 threads across its path one after another, and the cameras took 24 photos in succession, with very little difference between neighbouring shots. The photos showed that a running horse always has one hoof on the ground. Cohen had won."
+        },
+        {
+          "zh": "事后，有人无意识地{de}快速拉动那一长串相{xiàng}片，“奇迹”出现了：各张相{xiàng}片中静止的马连成了一匹运动的马，相{xiàng}片“活”了。这就是电影最早的样子。",
+          "vi": "Sau đó, có người vô tình kéo nhanh chuỗi ảnh dài ấy, “kỳ tích” đã xuất hiện: những con ngựa đứng yên trong từng tấm ảnh nối liền thành một con ngựa đang chuyển động, bức ảnh đã “sống” dậy. Đây chính là hình dạng sớm nhất của điện ảnh.",
+          "en": "Afterwards, someone happened to pull the long strip of photos quickly, and a “miracle” occurred: the still horses in each picture joined up into a single moving horse. The photos “came to life”. This was the earliest form of cinema."
+        },
+        {
+          "zh": "经过艰苦的试验，电影拍摄技术逐渐改进、成熟。1895年12月28日，法国人卢米埃尔兄弟在巴黎第一次向公众播放了短片《火车到站》，这一天后来成为{wéi}电影产生的纪念日，兄弟俩也成为{wéi}历史上最早的电影导演。",
+          "vi": "Trải qua những thử nghiệm gian khổ, kỹ thuật quay phim dần dần được cải tiến, hoàn thiện. Ngày 28 tháng 12 năm 1895, anh em người Pháp Lumière lần đầu tiên chiếu cho công chúng xem bộ phim ngắn “Tàu hỏa vào ga” tại Paris, ngày này về sau trở thành ngày kỷ niệm sự ra đời của điện ảnh, hai anh em cũng trở thành những đạo diễn điện ảnh sớm nhất trong lịch sử.",
+          "en": "After painstaking experiments, film technology gradually improved and matured. On 28 December 1895, the French Lumière brothers showed the short film “The Arrival of a Train” to the public for the first time in Paris. That day later became the anniversary of the birth of cinema, and the brothers became the first film directors in history."
+        },
+        {
+          "zh": "留心生活的每一瞬间，并为{wèi}之争论，适时请求帮助、认真研究，或许重大发现就在你的眼前。",
+          "vi": "Hãy để tâm đến từng khoảnh khắc của cuộc sống, tranh luận vì nó, kịp thời nhờ sự giúp đỡ, nghiêm túc nghiên cứu, có lẽ phát hiện trọng đại đang ở ngay trước mắt bạn.",
+          "en": "Pay attention to every moment of life, argue about it, ask for help when needed and study it carefully, and perhaps a major discovery will be right before your eyes."
+        }
+      ],
+      "source": "改编自《小故事 大道理》，作者：胡晓",
+      "words": [
+        {
+          "zh": "争论",
+          "py": "zhēnglùn",
+          "pos": "đgt.",
+          "vi": "tranh luận",
+          "en": "to argue, to debate"
+        },
+        {
+          "zh": "奇迹",
+          "py": "qíjì",
+          "pos": "dt.",
+          "vi": "kỳ tích",
+          "en": "miracle"
+        },
+        {
+          "zh": "围绕",
+          "py": "wéirào",
+          "pos": "đgt.",
+          "vi": "xoay quanh",
+          "en": "to revolve around, to centre on"
+        },
+        {
+          "zh": "奔跑",
+          "py": "bēnpǎo",
+          "pos": "đgt.",
+          "vi": "chạy nhanh",
+          "en": "to run, to gallop",
+          "x": true
+        },
+        {
+          "zh": "蹄(子)",
+          "py": "tí (zi)",
+          "pos": "dt.",
+          "vi": "móng guốc",
+          "en": "hoof",
+          "x": true
+        },
+        {
+          "zh": "辩论",
+          "py": "biànlùn",
+          "pos": "đgt.",
+          "vi": "biện luận, tranh luận",
+          "en": "to debate"
+        },
+        {
+          "zh": "青蛙",
+          "py": "qīngwā",
+          "pos": "dt.",
+          "vi": "ếch, nhái",
+          "en": "frog",
+          "x": true
+        },
+        {
+          "zh": "啦",
+          "py": "la",
+          "pos": "trợ.",
+          "vi": "(hợp âm của “了 (le)” và “啊 (a)”, biểu thị sự cảm thán, sự chất vấn…) đấy, à, nhé",
+          "en": "particle (了 + 啊) expressing exclamation or question"
+        },
+        {
+          "zh": "始终",
+          "py": "shǐzhōng",
+          "pos": "phó.",
+          "vi": "từ đầu đến cuối",
+          "en": "from beginning to end, always"
+        },
+        {
+          "zh": "脖子",
+          "py": "bózi",
+          "pos": "dt.",
+          "vi": "(cái) cổ",
+          "en": "neck"
+        },
+        {
+          "zh": "说服",
+          "py": "shuōfú",
+          "pos": "đgt.",
+          "vi": "thuyết phục",
+          "en": "to persuade"
+        },
+        {
+          "zh": "摄影师",
+          "py": "shèyǐngshī",
+          "pos": "dt.",
+          "vi": "nhà nhiếp ảnh",
+          "en": "photographer"
+        },
+        {
+          "zh": "毕竟",
+          "py": "bìjìng",
+          "pos": "phó.",
+          "vi": "rốt cuộc, cuối cùng, suy cho cùng",
+          "en": "after all"
+        },
+        {
+          "zh": "操场",
+          "py": "cāochǎng",
+          "pos": "dt.",
+          "vi": "sân thể thao, bãi tập",
+          "en": "sports ground"
+        },
+        {
+          "zh": "洞",
+          "py": "dòng",
+          "pos": "dt.",
+          "vi": "hốc, lỗ",
+          "en": "hole"
+        },
+        {
+          "zh": "插",
+          "py": "chā",
+          "pos": "đgt.",
+          "vi": "cắm (vào)",
+          "en": "to insert"
+        },
+        {
+          "zh": "棍",
+          "py": "gùn",
+          "pos": "dt.",
+          "vi": "gậy",
+          "en": "stick",
+          "x": true
+        },
+        {
+          "zh": "系",
+          "py": "jì",
+          "pos": "đgt.",
+          "vi": "cột, buộc",
+          "en": "to tie"
+        },
+        {
+          "zh": "匹",
+          "py": "pǐ",
+          "pos": "lượng.",
+          "vi": "(dùng cho ngựa) con",
+          "en": "measure word for horses"
+        },
+        {
+          "zh": "拦",
+          "py": "lán",
+          "pos": "đgt.",
+          "vi": "chặn, cản",
+          "en": "to block"
+        },
+        {
+          "zh": "拍",
+          "py": "pāi",
+          "pos": "đgt.",
+          "vi": "quay (phim), chụp (ảnh)",
+          "en": "to shoot (a film), to take (a photo)"
+        },
+        {
+          "zh": "差距",
+          "py": "chājù",
+          "pos": "dt.",
+          "vi": "sự chênh lệch, sự khác nhau",
+          "en": "gap, difference"
+        },
+        {
+          "zh": "显示",
+          "py": "xiǎnshì",
+          "pos": "đgt.",
+          "vi": "thể hiện, cho thấy",
+          "en": "to show, to display"
+        },
+        {
+          "zh": "意识",
+          "py": "yìshi",
+          "pos": "dt./đgt.",
+          "vi": "ý thức; nhận thức rõ",
+          "en": "consciousness; to be aware of",
+          "x": true
+        },
+        {
+          "zh": "艰苦",
+          "py": "jiānkǔ",
+          "pos": "tt.",
+          "vi": "gian khổ",
+          "en": "arduous"
+        },
+        {
+          "zh": "试验",
+          "py": "shìyàn",
+          "pos": "dt./đgt.",
+          "vi": "sự thử nghiệm; thử nghiệm",
+          "en": "experiment; to test",
+          "x": true
+        },
+        {
+          "zh": "逐渐",
+          "py": "zhújiàn",
+          "pos": "phó.",
+          "vi": "dần dần",
+          "en": "gradually"
+        },
+        {
+          "zh": "改进",
+          "py": "gǎijìn",
+          "pos": "đgt.",
+          "vi": "cải thiện, cải tiến",
+          "en": "to improve"
+        },
+        {
+          "zh": "成熟",
+          "py": "chéngshú",
+          "pos": "đgt./tt.",
+          "vi": "chín muồi; hoàn thiện",
+          "en": "to ripen; mature"
+        },
+        {
+          "zh": "兄弟",
+          "py": "xiōngdì",
+          "pos": "dt.",
+          "vi": "anh em",
+          "en": "brothers"
+        },
+        {
+          "zh": "播放",
+          "py": "bōfàng",
+          "pos": "đgt.",
+          "vi": "phát sóng, chiếu",
+          "en": "to broadcast, to show"
+        },
+        {
+          "zh": "纪念",
+          "py": "jìniàn",
+          "pos": "đgt.",
+          "vi": "kỷ niệm, tưởng niệm",
+          "en": "to commemorate"
+        },
+        {
+          "zh": "导演",
+          "py": "dǎoyǎn",
+          "pos": "dt./đgt.",
+          "vi": "nhà đạo diễn; đạo diễn",
+          "en": "director; to direct"
+        },
+        {
+          "zh": "瞬间",
+          "py": "shùnjiān",
+          "pos": "dt.",
+          "vi": "chốc lát, khoảnh khắc",
+          "en": "instant, moment",
+          "x": true
+        },
+        {
+          "zh": "请求",
+          "py": "qǐngqiú",
+          "pos": "đgt./dt.",
+          "vi": "yêu cầu, đề nghị; lời thỉnh cầu",
+          "en": "to request; request"
+        },
+        {
+          "zh": "或许",
+          "py": "huòxǔ",
+          "pos": "phó.",
+          "vi": "có lẽ, có thể",
+          "en": "perhaps"
+        },
+        {
+          "zh": "重大",
+          "py": "zhòngdà",
+          "pos": "tt.",
+          "vi": "trọng đại, to lớn",
+          "en": "major, significant"
+        }
+      ],
+      "names": [
+        {
+          "zh": "加利福尼亚州",
+          "py": "Jiālìfúníyà Zhōu",
+          "vi": "bang California",
+          "en": "California"
+        },
+        {
+          "zh": "斯坦福",
+          "py": "Sītǎnfú",
+          "vi": "Leland Stanford",
+          "en": "Leland Stanford"
+        },
+        {
+          "zh": "科恩",
+          "py": "Kē'ēn",
+          "vi": "Cohen",
+          "en": "Cohen"
+        },
+        {
+          "zh": "麦布里奇",
+          "py": "Màibùlǐqí",
+          "vi": "Eadweard Muybridge",
+          "en": "Eadweard Muybridge"
+        },
+        {
+          "zh": "卢米埃尔",
+          "py": "Lúmǐ'āi'ěr",
+          "vi": "Lumière",
+          "en": "Lumière"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "毕竟",
+      "uses": [
+        {
+          "vi": "毕竟 là phó từ, có nghĩa “到底, 终于” (rốt cuộc, cuối cùng vẫn).",
+          "en": "毕竟 is an adverb meaning 到底 or 终于 (after all, in the end).",
+          "ex": [
+            {
+              "zh": "虽然我们遇到了很多困难，但【毕竟】完成了任务。",
+              "vi": "Tuy chúng tôi gặp rất nhiều khó khăn nhưng rốt cuộc cũng đã hoàn thành nhiệm vụ.",
+              "en": "Although we ran into many difficulties, we did complete the task in the end."
+            },
+            {
+              "zh": "不过摄影师【毕竟】是摄影师，主意还是有的。",
+              "vi": "Nhưng nhiếp ảnh gia dù sao vẫn là nhiếp ảnh gia, ông vẫn nghĩ ra cách.",
+              "en": "But a photographer is a photographer after all, and he still came up with an idea."
+            }
+          ]
+        },
+        {
+          "vi": "毕竟 cũng dùng để chỉ ra phần quan trọng nhất hoặc đúng đắn nhất, thường dùng cùng với câu biểu thị “(dù thế nào thì) kết luận vẫn là như vậy” (dù sao thì, suy cho cùng).",
+          "en": "毕竟 is also used to point out the most important or correct part, often together with a sentence meaning “(whatever happens) the conclusion is this” (after all, ultimately).",
+          "ex": [
+            {
+              "zh": "生活中总有无法解决的问题，【毕竟】不是所有的对错都能讲清楚，甚至可能根本就没有真正的对与错。",
+              "vi": "Trong cuộc sống luôn có những vấn đề không thể giải quyết, suy cho cùng không phải chuyện đúng sai nào cũng nói rõ được, thậm chí có khi chẳng có đúng sai thật sự.",
+              "en": "There are always problems in life that can't be solved. After all, not every question of right and wrong can be settled, and there may not even be any real right or wrong."
+            },
+            {
+              "zh": "他不高兴是正常的，【毕竟】没有人能在摔得头破血{xuè}流的时候，还高兴得起来。",
+              "vi": "Anh ấy không vui là chuyện bình thường, dù sao cũng chẳng ai có thể vui nổi khi ngã đến đầu rơi máu chảy.",
+              "en": "It's natural that he's upset. After all, nobody can be cheerful after a fall that leaves them battered and bleeding."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "你们毕竟是好朋友，____。",
+            "hint": "毕竟",
+            "a": "你们毕竟是好朋友，【有什么误会说清楚就好了】。",
+            "vi": "Các bạn dù sao cũng là bạn thân, có hiểu lầm gì nói rõ ra là được.",
+            "en": "You're good friends after all. Whatever the misunderstanding, just talk it through.",
+            "sample": true
+          },
+          {
+            "q": "A：这孩子真是太淘气了！我快被他烦死了！\nB：____。",
+            "hint": "毕竟",
+            "a": "A：这孩子真是太淘气了！我快被他烦死了！\nB：【他毕竟还是个孩子，你别太生气了】。",
+            "vi": "A: Thằng bé này nghịch quá! Tôi sắp phát điên vì nó rồi!\nB: Dù sao nó vẫn còn là trẻ con, bạn đừng giận quá.",
+            "en": "A: This kid is so naughty! He's driving me mad!\nB: He's only a child, after all. Don't get too angry.",
+            "sample": true
+          },
+          {
+            "q": "A：他最近脾气真是太差了，一点儿小事就发火！\nB：____。",
+            "hint": "毕竟",
+            "a": "A：他最近脾气真是太差了，一点儿小事就发火！\nB：【他毕竟刚丢了工作，心情不好，你多理解他吧】。",
+            "vi": "A: Dạo này tính khí anh ấy tệ quá, chuyện nhỏ xíu cũng nổi giận!\nB: Dù sao anh ấy cũng vừa mất việc, tâm trạng không tốt, bạn thông cảm cho anh ấy nhé.",
+            "en": "A: He's been really bad-tempered lately, flying off the handle at the slightest thing!\nB: He's just lost his job, after all, and he's in a bad mood. Try to understand.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "逐渐",
+      "uses": [
+        {
+          "vi": "逐渐 là phó từ, biểu thị mức độ hoặc số lượng tăng lên hay giảm đi từng chút một (dần dần).",
+          "en": "逐渐 is an adverb indicating that a degree or amount increases or decreases little by little (gradually).",
+          "ex": [
+            {
+              "zh": "食物越来越少，老人不得不【逐渐】限制猴子的食量。",
+              "vi": "Thức ăn ngày càng ít, ông lão đành phải dần dần hạn chế khẩu phần ăn của lũ khỉ.",
+              "en": "As the food grew scarcer, the old man had to gradually limit how much the monkeys ate."
+            },
+            {
+              "zh": "这项运动首先在亚太地区流行，并【逐渐】受到世界各地人们的欢迎。",
+              "vi": "Môn thể thao này trước tiên thịnh hành ở khu vực châu Á – Thái Bình Dương, rồi dần dần được mọi người khắp thế giới yêu thích.",
+              "en": "This sport first became popular in the Asia-Pacific region and was gradually taken up by people all over the world."
+            },
+            {
+              "zh": "经过艰苦的试验，电影拍摄技术【逐渐】改进、成熟。",
+              "vi": "Trải qua những thử nghiệm gian khổ, kỹ thuật quay phim dần dần được cải tiến và hoàn thiện.",
+              "en": "Through painstaking experiments, film-making technology was gradually improved and perfected."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "A：刚来北京的时候，你习惯吗？\nB：____。",
+            "hint": "逐渐",
+            "a": "A：刚来北京的时候，你习惯吗？\nB：【刚开始不太习惯，后来逐渐就习惯了】。",
+            "vi": "A: Lúc mới đến Bắc Kinh, bạn có quen không?\nB: Lúc đầu không quen lắm, sau đó dần dần quen.",
+            "en": "A: Were you used to things when you first came to Beijing?\nB: Not really at first, but I gradually got used to it.",
+            "sample": true
+          },
+          {
+            "q": "茶首先在中国出现，____。",
+            "hint": "逐渐",
+            "a": "茶首先在中国出现，【后来逐渐传到了世界各地】。",
+            "vi": "Trà xuất hiện đầu tiên ở Trung Quốc, sau đó dần dần truyền đi khắp thế giới.",
+            "en": "Tea first appeared in China and later gradually spread around the world.",
+            "sample": true
+          },
+          {
+            "q": "A：____。\nB：我觉得你说得对，就这么办吧。",
+            "hint": "逐渐",
+            "a": "A：【我觉得训练量应该逐渐增加，不能一下子加太多】。\nB：我觉得你说得对，就这么办吧。",
+            "vi": "A: Tôi thấy lượng tập luyện nên tăng dần dần, không thể tăng quá nhiều ngay một lúc.\nB: Tôi thấy bạn nói đúng, cứ làm vậy đi.",
+            "en": "A: I think we should increase the training gradually, not too much all at once.\nB: I think you're right. Let's do that.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "或许",
+      "uses": [
+        {
+          "vi": "或许 là phó từ, có nghĩa “也许, 有可能” (có lẽ, có thể).",
+          "en": "或许 is an adverb meaning 也许 or 有可能 (perhaps, maybe).",
+          "ex": [
+            {
+              "zh": "虽然以前她不支持你，但【或许】这次会有变化。",
+              "vi": "Tuy trước đây cô ấy không ủng hộ bạn, nhưng có lẽ lần này sẽ khác.",
+              "en": "She didn't support you before, but maybe this time things will be different."
+            },
+            {
+              "zh": "【或许】正是因为这一点一滴的努力，你就会走在别人的前面。",
+              "vi": "Có lẽ chính nhờ những nỗ lực từng chút một này mà bạn sẽ đi trước người khác.",
+              "en": "Perhaps it's precisely these small, steady efforts that will put you ahead of others."
+            },
+            {
+              "zh": "留心生活的每一瞬间，并为之争论，适时请求帮助、认真研究，【或许】重大发现就在你的眼前。",
+              "vi": "Để ý từng khoảnh khắc trong cuộc sống, tranh luận về nó, kịp thời nhờ giúp đỡ và nghiêm túc nghiên cứu, có lẽ phát hiện quan trọng đang ở ngay trước mắt bạn.",
+              "en": "Pay attention to every moment in life, argue about it, ask for help when needed and study it seriously, and perhaps a major discovery will be right before your eyes."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "他的妻子前几年瘫痪了，____。",
+            "hint": "或许",
+            "a": "他的妻子前几年瘫痪了，【或许这就是他很少出门的原因】。",
+            "vi": "Vợ anh ấy mấy năm trước bị liệt, có lẽ đó là lý do anh ấy ít ra ngoài.",
+            "en": "His wife was paralysed a few years ago; perhaps that's why he rarely goes out.",
+            "sample": true
+          },
+          {
+            "q": "A：你猜这场比赛的结果会怎么样？\nB：____。",
+            "hint": "或许",
+            "a": "A：你猜这场比赛的结果会怎么样？\nB：【很难说，或许会是平局】。",
+            "vi": "A: Bạn đoán kết quả trận đấu này sẽ thế nào?\nB: Khó nói lắm, có lẽ sẽ hòa.",
+            "en": "A: How do you think this match will turn out?\nB: Hard to say. It might be a draw.",
+            "sample": true
+          },
+          {
+            "q": "A：____。\nB：希望是这样，那我们再等五分钟。",
+            "hint": "或许",
+            "a": "A：【他或许是遇到堵车了，马上就会到的】。\nB：希望是这样，那我们再等五分钟。",
+            "vi": "A: Có lẽ anh ấy bị kẹt xe, sẽ đến ngay thôi.\nB: Mong là vậy, thế chúng ta đợi thêm năm phút.",
+            "en": "A: He's probably stuck in traffic. He'll be here soon.\nB: I hope so. Let's wait another five minutes.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "显示—显得",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: 显示 và 显得 đều là động từ, đều có nghĩa thể hiện ra, khiến người khác nhìn ra được, nhưng thường không thể thay thế cho nhau.",
+          "en": "Similarity: 显示 and 显得 are both verbs meaning to show or let others see something, but they generally can't replace each other.",
+          "ex": []
+        },
+        {
+          "vi": "Khác nhau 1: 显示 chỉ việc thể hiện ra một thái độ, năng lực hay tình hình nào đó (cho thấy, hiển thị); 显得 chỉ việc thể hiện ra một đặc tính nào đó (trông, tỏ ra).",
+          "en": "Difference 1: 显示 refers to showing an attitude, ability or situation (to show, to display); 显得 refers to showing a certain quality (to look, to seem).",
+          "ex": [
+            {
+              "zh": "相片【显示】：马奔跑时始终有一蹄着{zháo}地。",
+              "vi": "Ảnh chụp cho thấy: khi ngựa chạy, luôn có một vó chạm đất.",
+              "en": "The photos showed that when a horse runs, one hoof is always on the ground."
+            },
+            {
+              "zh": "几年不见，他【显得】成熟多了。",
+              "vi": "Mấy năm không gặp, trông anh ấy chín chắn hơn nhiều.",
+              "en": "I hadn't seen him for a few years, and he seemed much more mature."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: 显示 thường kết hợp với danh từ hoặc câu nhỏ; 显得 thường kết hợp với tính từ.",
+          "en": "Difference 2: 显示 usually goes with nouns or clauses; 显得 usually goes with adjectives.",
+          "ex": [
+            {
+              "zh": "这次活动的组织【显示】出了他的才能。",
+              "vi": "Việc tổ chức hoạt động lần này đã cho thấy tài năng của anh ấy.",
+              "en": "The way this event was organized showed his talent."
+            },
+            {
+              "zh": "中秋节那天，月亮【显得】格外明亮。",
+              "vi": "Hôm Tết Trung thu, mặt trăng trông đặc biệt sáng.",
+              "en": "On the night of the Mid-Autumn Festival, the moon looked especially bright."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "他最近怎么了？总是____不太高兴。",
+            "key": "显示 ✗ · 显得 ✓ (đi với tính từ)",
+            "a": "他最近怎么了？总是【显得】不太高兴。",
+            "vi": "Dạo này anh ấy sao vậy? Lúc nào cũng có vẻ không vui.",
+            "en": "What's up with him lately? He always seems a bit unhappy."
+          },
+          {
+            "q": "调查____，只有37%的人愿意回到没有手机的时代。",
+            "key": "显示 ✓ (đi với phân câu) · 显得 ✗",
+            "a": "调查【显示】，只有37%的人愿意回到没有手机的时代。",
+            "vi": "Điều tra cho thấy chỉ có 37% số người sẵn lòng quay về thời đại không có điện thoại di động.",
+            "en": "The survey shows that only 37% of people would be willing to go back to an age without mobile phones."
+          },
+          {
+            "q": "节日的北京____更加美丽。",
+            "key": "显示 ✗ · 显得 ✓",
+            "a": "节日的北京【显得】更加美丽。",
+            "vi": "Bắc Kinh ngày lễ trông càng đẹp hơn.",
+            "en": "Beijing looks even more beautiful during the festival."
+          },
+          {
+            "q": "你得{děi}____出自己的本领，公司才会愿意用你。",
+            "key": "显示 ✓ (đi với danh từ) · 显得 ✗",
+            "a": "你得{děi}【显示】出自己的本领，公司才会愿意用你。",
+            "vi": "Bạn phải thể hiện được năng lực của mình thì công ty mới muốn tuyển bạn.",
+            "en": "You have to show what you can do before the company will want to hire you."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "拍",
+            "手/桌子/照片/电影"
+          ],
+          "vi": "vỗ tay / đập bàn / chụp ảnh / quay phim",
+          "en": "clap one's hands / slap the table / take photos / shoot a film"
+        },
+        {
+          "zh": [
+            "改进",
+            "工作/方法/态度"
+          ],
+          "vi": "cải tiến công việc / phương pháp / thái độ",
+          "en": "improve one's work / methods / attitude"
+        }
+      ]
+    },
+    {
+      "a": "定语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "艰苦（的）",
+            "条件/生活"
+          ],
+          "vi": "điều kiện / cuộc sống gian khổ",
+          "en": "hard conditions / a hard life"
+        },
+        {
+          "zh": [
+            "成熟的",
+            "瓜果/人/经验/看法/条件"
+          ],
+          "vi": "dưa trái chín / người chín chắn / kinh nghiệm dày dặn / quan điểm chín chắn / điều kiện chín muồi",
+          "en": "ripe fruit / a mature person / seasoned experience / well-considered views / ripe conditions"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "围绕（着）重点",
+            "进行讨论"
+          ],
+          "vi": "thảo luận xoay quanh trọng tâm",
+          "en": "discuss around the key points"
+        },
+        {
+          "zh": [
+            "始终",
+            "坚持/保持"
+          ],
+          "vi": "luôn kiên trì / luôn giữ vững",
+          "en": "always persist / always maintain"
+        }
+      ]
+    },
+    {
+      "a": "中心语",
+      "b": "补语",
+      "rows": [
+        {
+          "zh": [
+            "插",
+            "进（去）/到……/在……"
+          ],
+          "vi": "cắm vào / cắm tới… / cắm ở…",
+          "en": "insert / stick into… / stick in…"
+        },
+        {
+          "zh": [
+            "拦",
+            "住/在……"
+          ],
+          "vi": "chặn lại / chặn ở…",
+          "en": "stop / block at…"
+        }
+      ]
+    },
+    {
+      "a": "数量词",
+      "b": "名词",
+      "rows": [
+        {
+          "zh": [
+            "一匹",
+            "马"
+          ],
+          "vi": "một con ngựa",
+          "en": "a horse"
+        },
+        {
+          "zh": [
+            "一场",
+            "争论/辩论"
+          ],
+          "vi": "một cuộc tranh luận / một cuộc tranh biện",
+          "en": "an argument / a debate"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "插",
+        "系{jì}",
+        "拦",
+        "拍",
+        "说服",
+        "围绕"
+      ],
+      "items": [
+        {
+          "q": "你今天____这条领带吧，比较正式。",
+          "key": "系",
+          "a": "你今天【系{jì}】这条领带吧，比较正式。",
+          "vi": "Hôm nay anh thắt chiếc cà vạt này đi, trông trang trọng hơn.",
+          "en": "Wear this tie today; it's more formal."
+        },
+        {
+          "q": "地球为{wèi}什么会____太阳转，一直是科学家们很感兴趣的问题。",
+          "key": "围绕",
+          "a": "地球为{wèi}什么会【围绕】太阳转，一直是科学家们很感兴趣的问题。",
+          "vi": "Vì sao trái đất quay quanh mặt trời luôn là vấn đề các nhà khoa học rất quan tâm.",
+          "en": "Why the earth revolves around the sun has long fascinated scientists."
+        },
+        {
+          "q": "如果不是他在中间____了一手，事情不会变成现在这样。",
+          "key": "插",
+          "a": "如果不是他在中间【插】了一手，事情不会变成现在这样。",
+          "vi": "Nếu không phải anh ta nhúng tay vào giữa chừng, sự việc đã không thành ra thế này.",
+          "en": "If he hadn't meddled, things wouldn't have turned out like this."
+        },
+        {
+          "q": "这位导演____过二十几部电影，得过好几项国际大奖。",
+          "key": "拍",
+          "a": "这位导演【拍】过二十几部电影，得过好几项国际大奖。",
+          "vi": "Vị đạo diễn này đã quay hơn hai mươi bộ phim, từng đoạt nhiều giải thưởng quốc tế lớn.",
+          "en": "This director has made over twenty films and won several major international awards."
+        },
+        {
+          "q": "我始终没有办法____他接受这个结论。",
+          "key": "说服",
+          "a": "我始终没有办法【说服】他接受这个结论。",
+          "vi": "Tôi vẫn không có cách nào thuyết phục anh ấy chấp nhận kết luận này.",
+          "en": "I just couldn't persuade him to accept this conclusion."
+        },
+        {
+          "q": "前面不知道发生了什么事，路被____住了。",
+          "key": "拦",
+          "a": "前面不知道发生了什么事，路被【拦】住了。",
+          "vi": "Phía trước không biết xảy ra chuyện gì, đường bị chặn lại rồi.",
+          "en": "I don't know what's happened up ahead, but the road's been blocked."
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "在昨天举行的____赛上，他的表现得到了大家的好评。",
+          "opts": [
+            "A. 争论",
+            "B. 辩论"
+          ],
+          "key": "B",
+          "a": "在昨天举行的【辩论】赛上，他的表现得到了大家的好评。",
+          "vi": "Trong cuộc thi hùng biện tổ chức hôm qua, phần thể hiện của anh ấy được mọi người khen ngợi.",
+          "en": "In yesterday's debating contest, his performance was widely praised."
+        },
+        {
+          "q": "毕业二十年以来，我们____保持着{zhe}联系。",
+          "opts": [
+            "A. 始终",
+            "B. 终于"
+          ],
+          "key": "A",
+          "a": "毕业二十年以来，我们【始终】保持着{zhe}联系。",
+          "vi": "Hai mươi năm kể từ khi tốt nghiệp, chúng tôi vẫn luôn giữ liên lạc.",
+          "en": "In the twenty years since we graduated, we've always kept in touch."
+        },
+        {
+          "q": "我们之间还有很大的____，我要向他学习，更加努力。",
+          "opts": [
+            "A. 差距",
+            "B. 距离"
+          ],
+          "key": "A",
+          "a": "我们之间还有很大的【差{chā}距】，我要向他学习，更加努力。",
+          "vi": "Giữa chúng tôi vẫn còn khoảng cách rất lớn, tôi phải học hỏi anh ấy, cố gắng hơn nữa.",
+          "en": "There's still a big gap between us. I need to learn from him and work harder."
+        },
+        {
+          "q": "吃中餐____西餐都可以，只是我不能吃太辣的。",
+          "opts": [
+            "A. 或许",
+            "B. 或者"
+          ],
+          "key": "B",
+          "a": "吃中餐【或者】西餐都可以，只是我不能吃太辣的。",
+          "vi": "Ăn món Trung hay món Tây đều được, chỉ là tôi không ăn được đồ quá cay.",
+          "en": "Chinese or Western food is fine; I just can't eat anything too spicy."
+        }
+      ]
+    },
+    {
+      "title": "给括号里的词选择适当的位置",
+      "items": [
+        {
+          "q": "我A都十八岁B，能照顾好C自己，您就放心D吧。",
+          "hint": "啦",
+          "key": "B",
+          "a": "我都十八岁【啦】，能照顾好自己，您就放心吧。",
+          "vi": "Con mười tám tuổi rồi, có thể tự chăm sóc bản thân, mẹ cứ yên tâm đi.",
+          "en": "I'm eighteen now, I can look after myself. Don't worry."
+        },
+        {
+          "q": "A是秋天了，B再热C也不会D像夏天那样。",
+          "hint": "毕竟",
+          "key": "A",
+          "a": "【毕竟】是秋天了，再热也不会像夏天那样。",
+          "vi": "Dù sao cũng là mùa thu rồi, nóng mấy cũng không như mùa hè.",
+          "en": "It's autumn after all; however hot it gets, it won't be like summer."
+        },
+        {
+          "q": "这是A已经B经过很多人C证明的D经验。",
+          "hint": "成熟",
+          "key": "D",
+          "a": "这是已经经过很多人证明的【成熟】经验。",
+          "vi": "Đây là kinh nghiệm đã chín muồi, được nhiều người chứng minh.",
+          "en": "This is well-established experience that has been proven by many people."
+        },
+        {
+          "q": "真心A希望B您能同意我的C，D帮我这个忙！",
+          "hint": "请求",
+          "key": "C",
+          "a": "真心希望您能同意我的【请求】，帮我这个忙！",
+          "vi": "Thật lòng mong ngài đồng ý với lời thỉnh cầu của tôi, giúp tôi việc này!",
+          "en": "I sincerely hope you'll agree to my request and help me with this!"
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "斯坦福与科恩的辩论",
+          "hint": "围绕、始终、说服",
+          "a": "1872年，斯坦福与科恩【围绕】“马奔跑时蹄子是否着{zháo}地”进行了辩论。斯坦福认为马跳起时四蹄都不落地，科恩认为马【始终】有一蹄着{zháo}地。两人谁也【说服】不了谁。",
+          "vi": "Năm 1872, Stanford và Cohen tranh luận xoay quanh vấn đề “khi ngựa chạy móng có chạm đất hay không”. Stanford cho rằng khi ngựa bật lên cả bốn móng đều không chạm đất, Cohen cho rằng ngựa luôn có một móng chạm đất. Hai người không ai thuyết phục được ai.",
+          "en": "In 1872 Stanford and Cohen debated whether a running horse's hooves touch the ground. Stanford thought all four hooves left the ground when it leapt; Cohen thought one hoof was always on the ground. Neither could convince the other.",
+          "sample": true
+        },
+        {
+          "q": "麦布里奇的办法",
+          "hint": "操场、插、系、显示",
+          "a": "他们请摄影师麦布里奇来判断。他在【操场】跑道的一边放上24个照相机，另一边【插】进24根木棍，木棍上【系{jì}】着{zhe}细线，接上相机快门。马跑过时撞断细线，相机拍下了24张相{xiàng}片。相{xiàng}片【显示】：马奔跑时始终有一蹄着{zháo}地。",
+          "vi": "Họ mời nhiếp ảnh gia Muybridge phân xử. Ông đặt 24 máy ảnh ở một bên đường chạy trong sân vận động, bên kia cắm 24 cây gậy gỗ, trên gậy buộc dây mảnh nối với nút chụp. Ngựa chạy qua làm đứt dây, máy ảnh chụp được 24 tấm ảnh. Ảnh cho thấy khi ngựa chạy luôn có một móng chạm đất.",
+          "en": "They asked the photographer Muybridge to judge. He set up 24 cameras along one side of a track at a sports ground and put 24 sticks on the other side, with threads tied to them and attached to the shutters. The running horse broke the threads and the cameras took 24 photos, which showed a running horse always has one hoof on the ground.",
+          "sample": true
+        },
+        {
+          "q": "电影的产生",
+          "hint": "奇迹、逐渐、播放、纪念",
+          "a": "有人快速拉动那串相{xiàng}片，“【奇迹】”出现了：相{xiàng}片“活”了。后来电影拍摄技术【逐渐】成熟。1895年12月28日，卢米埃尔兄弟第一次向公众【播放】了短片，这一天成为{wéi}电影产生的【纪念】日。",
+          "vi": "Có người kéo nhanh chuỗi ảnh đó, “kỳ tích” xuất hiện: bức ảnh “sống” dậy. Về sau kỹ thuật quay phim dần dần hoàn thiện. Ngày 28 tháng 12 năm 1895, anh em Lumière lần đầu tiên chiếu phim ngắn cho công chúng, ngày này trở thành ngày kỷ niệm sự ra đời của điện ảnh.",
+          "en": "Someone pulled the strip of photos quickly and a “miracle” happened: the pictures came to life. Film technology gradually matured, and on 28 December 1895 the Lumière brothers showed a short film to the public for the first time; that day became the anniversary of the birth of cinema.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "服饰",
+    "vi": "Trang phục",
+    "en": "Clothing and accessories",
+    "words": [
+      {
+        "zh": "围巾",
+        "py": "wéijīn",
+        "vi": "khăn quàng cổ",
+        "en": "scarf"
+      },
+      {
+        "zh": "领带",
+        "py": "lǐngdài",
+        "vi": "cà vạt",
+        "en": "tie"
+      },
+      {
+        "zh": "手套",
+        "py": "shǒutào",
+        "vi": "găng tay",
+        "en": "gloves"
+      },
+      {
+        "zh": "牛仔裤",
+        "py": "niúzǎikù",
+        "vi": "quần bò, quần jeans",
+        "en": "jeans"
+      },
+      {
+        "zh": "丝绸",
+        "py": "sīchóu",
+        "vi": "lụa",
+        "en": "silk"
+      },
+      {
+        "zh": "布",
+        "py": "bù",
+        "vi": "vải",
+        "en": "cloth"
+      },
+      {
+        "zh": "耳环",
+        "py": "ěrhuán",
+        "vi": "hoa tai",
+        "en": "earring"
+      },
+      {
+        "zh": "戒指",
+        "py": "jièzhi",
+        "vi": "nhẫn",
+        "en": "ring"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "天气太冷了，你系{jì}条____再出去吧。",
+          "key": "围巾",
+          "a": "天气太冷了，你系{jì}条【围巾】再出去吧。",
+          "vi": "Trời lạnh quá, bạn quàng khăn rồi hãy ra ngoài.",
+          "en": "It's freezing. Put a scarf on before you go out."
+        },
+        {
+          "q": "我们去年买的那双____你放在哪儿了？",
+          "key": "手套",
+          "a": "我们去年买的那双【手套】你放在哪儿了？",
+          "vi": "Đôi găng tay chúng ta mua năm ngoái bạn để đâu rồi?",
+          "en": "Where did you put the gloves we bought last year?"
+        },
+        {
+          "q": "今天不上班，不用穿西服，终于可以穿____了。",
+          "key": "牛仔裤",
+          "a": "今天不上班，不用穿西服，终于可以穿【牛仔裤】了。",
+          "vi": "Hôm nay không đi làm, không cần mặc vest, cuối cùng cũng được mặc quần bò.",
+          "en": "No work today, so no suit; I can finally wear jeans."
+        },
+        {
+          "q": "您觉得这条____怎么样？当生日礼物送给您先生很合适。",
+          "key": "领带",
+          "a": "您觉得这条【领带】怎么样？当生日礼物送给您先生很合适。",
+          "vi": "Chị thấy chiếc cà vạt này thế nào? Làm quà sinh nhật tặng chồng chị rất hợp.",
+          "en": "What do you think of this tie? It'd make a perfect birthday present for your husband."
+        }
+      ]
+    }
+  }
+}

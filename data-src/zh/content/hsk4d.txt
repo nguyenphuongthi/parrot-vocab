@@ -1,0 +1,151 @@
+# 词|pinyin|hán việt|nghĩa VI|meaning EN|例句|câu dịch VI|sentence EN|tag
+温度|wēndù|ôn độ|nhiệt độ|temperature|今天的温度比昨天高了三度。|Nhiệt độ hôm nay cao hơn hôm qua ba độ.|Today's temperature is three degrees higher than yesterday's.|比较句
+文章|wénzhāng|văn chương|bài văn, bài viết|article, essay|这篇文章是一位著名作家写的。|Bài viết này do một nhà văn nổi tiếng viết.|This article was written by a famous writer.|是…的
+污染|wūrǎn|ô nhiễm|ô nhiễm; làm ô nhiễm|pollution; to pollute|这条河被工厂的污水污染了。|Con sông này bị nước thải nhà máy làm ô nhiễm.|This river has been polluted by factory waste water.|被字句
+无|wú|vô|không, không có|without, no|这件事跟我无关，你去问别人吧。|Việc này không liên quan đến tôi, bạn đi hỏi người khác đi.|This has nothing to do with me—go ask someone else.|吧
+无聊|wúliáo|vô liêu|chán, buồn chán|bored, boring|一个人在家待着真无聊。|Ở nhà một mình thật chán.|Staying home alone is so boring.|形容词谓语
+无论|wúlùn|vô luận|bất kể, dù|no matter|无论多忙，他每天都给父母打电话。|Dù bận đến đâu, ngày nào anh ấy cũng gọi điện cho bố mẹ.|No matter how busy he is, he calls his parents every day.|条件
+误会|wùhuì|ngộ hội|hiểu lầm|misunderstanding; to misunderstand|你误会我的意思了，我不是这么想的。|Bạn hiểu lầm ý tôi rồi, tôi không nghĩ vậy.|You've misunderstood me—that's not what I meant.|了
+西红柿|xīhóngshì|tây hồng thị|cà chua|tomato|西红柿炒鸡蛋是一道很有名的家常菜。|Cà chua xào trứng là một món ăn gia đình rất nổi tiếng.|Stir-fried tomato and egg is a well-known home-style dish.|是字句
+吸引|xīyǐn|hấp dẫn|thu hút, hấp dẫn|to attract|这里美丽的风景吸引了很多游客。|Phong cảnh đẹp ở đây đã thu hút rất nhiều du khách.|The beautiful scenery here attracts many tourists.|了
+咸|xián|hàm|mặn|salty|这个菜太咸了，你放了多少盐？|Món này mặn quá, bạn cho bao nhiêu muối vậy?|This dish is too salty—how much salt did you put in?|特指问句
+现金|xiànjīn|hiện kim|tiền mặt|cash|现在很多人出门都不带现金了。|Bây giờ nhiều người ra ngoài không mang tiền mặt nữa.|Nowadays many people don't carry cash when they go out.|了
+羡慕|xiànmù|tiện mộ|ngưỡng mộ, ghen tị|to envy, to admire|我真羡慕你能去那么多国家旅游。|Tôi thật ghen tị với bạn được đi du lịch nhiều nước như vậy.|I really envy you for traveling to so many countries.|陈述句
+相反|xiāngfǎn|tương phản|ngược lại|opposite; on the contrary|他不但没生气，相反还很高兴。|Anh ấy không những không giận mà ngược lại còn rất vui.|Far from being angry, he was actually quite happy.|递进
+相同|xiāngtóng|tương đồng|giống nhau|same, identical|我们俩的爱好完全相同。|Sở thích của hai chúng tôi hoàn toàn giống nhau.|The two of us have exactly the same hobbies.|形容词谓语
+香|xiāng|hương|thơm; ngon (ăn ngon miệng)|fragrant; tasty|厨房里什么东西这么香？|Trong bếp có gì mà thơm thế?|What smells so good in the kitchen?|特指问句
+详细|xiángxì|tường tế|tỉ mỉ, chi tiết|detailed|请你把事情的经过详细地说一遍。|Bạn hãy kể lại chi tiết diễn biến sự việc một lượt.|Please describe in detail what happened.|把字句
+响|xiǎng|hưởng|kêu, reo, vang|to ring, to sound|上课铃响了，大家快进教室吧。|Chuông vào lớp reo rồi, mọi người mau vào lớp đi.|The bell has rung—everyone hurry into the classroom.|了
+橡皮|xiàngpí|tượng bì|cục tẩy|eraser|我写错字了，能借我用一下你的橡皮吗？|Tôi viết sai chữ rồi, có thể cho tôi mượn cục tẩy của bạn không?|I wrote a character wrong—can I borrow your eraser?|双宾语
+消息|xiāoxi|tiêu tức|tin tức, tin|news, message|我告诉你一个好消息，我找到工作了！|Tôi báo cho bạn một tin vui, tôi tìm được việc rồi!|I've got good news—I found a job!|双宾语
+小吃|xiǎochī|tiểu cật|đồ ăn vặt, món ăn nhẹ|snack, street food|这条街上有很多有名的北京小吃。|Trên con phố này có rất nhiều món ăn vặt nổi tiếng của Bắc Kinh.|There are many famous Beijing snacks on this street.|存现句
+小伙子|xiǎohuǒzi|tiểu hỏa tử|chàng trai, cậu thanh niên|young man|那个小伙子又高又帅。|Chàng trai kia vừa cao vừa đẹp trai.|That young man is tall and handsome.|并列
+小说|xiǎoshuō|tiểu thuyết|tiểu thuyết|novel|这本小说被翻译成了二十多种语言。|Cuốn tiểu thuyết này đã được dịch ra hơn hai mươi thứ tiếng.|This novel has been translated into more than twenty languages.|被字句
+笑话|xiàohua|tiếu thoại|chuyện cười; chê cười|joke; to laugh at|他给我们讲了一个笑话，大家都笑了。|Anh ấy kể cho chúng tôi một chuyện cười, mọi người đều bật cười.|He told us a joke and everyone laughed.|介词短语
+效果|xiàoguǒ|hiệu quả|hiệu quả|effect, result|这种药效果很好，吃了两天就不咳嗽了。|Loại thuốc này rất hiệu quả, uống hai ngày là hết ho.|This medicine works well—after two days my cough was gone.|形容词谓语
+心情|xīnqíng|tâm tình|tâm trạng|mood|天气好的时候，我的心情也会变好。|Khi thời tiết đẹp, tâm trạng tôi cũng tốt lên.|When the weather is nice, my mood improves too.|时间状语
+辛苦|xīnkǔ|tân khổ|vất vả|hard, toilsome|你们辛苦了，快坐下休息一会儿吧。|Các bạn vất vả rồi, mau ngồi xuống nghỉ một lát đi.|You've worked hard—sit down and rest a while.|吧
+信封|xìnfēng|tín phong|phong bì|envelope|请在信封上写清楚地址。|Hãy ghi rõ địa chỉ lên phong bì.|Please write the address clearly on the envelope.|结果补语
+信息|xìnxī|tín tức|thông tin|information|现在我们可以在网上找到各种信息。|Bây giờ chúng ta có thể tìm thấy đủ loại thông tin trên mạng.|Nowadays we can find all kinds of information online.|能愿动词
+信心|xìnxīn|tín tâm|lòng tin, sự tự tin|confidence|我对这次比赛很有信心。|Tôi rất tự tin vào cuộc thi lần này.|I'm very confident about this competition.|介词短语
+醒|xǐng|tỉnh|tỉnh dậy, thức|to wake up|我今天早上五点就醒了，再也睡不着了。|Sáng nay năm giờ tôi đã tỉnh, không ngủ lại được nữa.|I woke up at five this morning and couldn't get back to sleep.|可能补语
+兴奋|xīngfèn|hưng phấn|phấn khích, hưng phấn|excited|明天要去旅游了，孩子们兴奋得睡不着觉。|Mai được đi du lịch, bọn trẻ phấn khích đến mức không ngủ được.|The kids are too excited to sleep because they're going on a trip tomorrow.|程度补语
+幸福|xìngfú|hạnh phúc|hạnh phúc|happiness; happy|祝你们永远幸福！|Chúc hai bạn mãi mãi hạnh phúc!|Wishing you eternal happiness!|感叹句
+性别|xìngbié|tính biệt|giới tính|gender|请在这里填写你的姓名和性别。|Hãy điền họ tên và giới tính của bạn ở đây.|Please fill in your name and gender here.|祈使句
+性格|xìnggé|tính cách|tính cách|personality|她性格很开朗，大家都喜欢跟她聊天。|Tính cách cô ấy rất cởi mở, mọi người đều thích nói chuyện với cô ấy.|She's very outgoing, and everyone likes chatting with her.|因果
+修理|xiūlǐ|tu lý|sửa chữa|to repair|我的自行车坏了，得拿去修理。|Xe đạp của tôi hỏng rồi, phải mang đi sửa.|My bike is broken; I need to take it to be repaired.|连动句
+许多|xǔduō|hứa đa|rất nhiều|many, a lot of|许多人都来参加了他的婚礼。|Rất nhiều người đã đến dự đám cưới của anh ấy.|Many people came to his wedding.|了
+学期|xuéqī|học kỳ|học kỳ|semester|这个学期我选了五门课。|Học kỳ này tôi chọn năm môn học.|I'm taking five courses this semester.|了
+压力|yālì|áp lực|áp lực|pressure, stress|最近工作压力太大，我常常睡不好觉。|Dạo này áp lực công việc lớn quá, tôi thường ngủ không ngon.|Work stress has been high lately, and I often sleep badly.|因果
+牙膏|yágāo|nha cao|kem đánh răng|toothpaste|牙膏用完了，记得去超市买一支。|Kem đánh răng hết rồi, nhớ đi siêu thị mua một tuýp.|We're out of toothpaste—remember to buy some at the supermarket.|连动句
+亚洲|Yàzhōu|á châu|châu Á|Asia|中国是亚洲面积最大的国家之一。|Trung Quốc là một trong những nước có diện tích lớn nhất châu Á.|China is one of the largest countries in Asia.|是字句
+呀|ya|nha|à, nhỉ (trợ từ ngữ khí)|particle (like 啊)|你怎么现在才来呀？|Sao bây giờ bạn mới đến vậy?|Why are you only getting here now?|特指问句
+严格|yángé|nghiêm cách|nghiêm khắc, nghiêm ngặt|strict|我们的老师对学生要求很严格。|Giáo viên của chúng tôi yêu cầu học sinh rất nghiêm khắc.|Our teacher is very strict with students.|介词短语
+严重|yánzhòng|nghiêm trọng|nghiêm trọng|serious|他的病比我们想的严重得多。|Bệnh của anh ấy nghiêm trọng hơn chúng tôi nghĩ nhiều.|His illness is much more serious than we thought.|比较句
+研究|yánjiū|nghiên cứu|nghiên cứu|to research; research|她正在研究中国古代历史。|Cô ấy đang nghiên cứu lịch sử cổ đại Trung Quốc.|She is researching ancient Chinese history.|进行态
+盐|yán|diêm|muối|salt|汤里再放一点儿盐吧。|Cho thêm chút muối vào canh đi.|Add a little more salt to the soup.|吧
+眼镜|yǎnjìng|nhãn kính|kính mắt|glasses|我的眼镜不见了，你看见了吗？|Kính của tôi không thấy đâu nữa, bạn có nhìn thấy không?|My glasses are missing—have you seen them?|吗问句
+演出|yǎnchū|diễn xuất|biểu diễn, buổi diễn|to perform; performance|今天晚上的演出几点开始？|Buổi biểu diễn tối nay mấy giờ bắt đầu?|What time does tonight's performance start?|特指问句
+演员|yǎnyuán|diễn viên|diễn viên|actor, actress|她从小就想当一名电影演员。|Cô ấy từ nhỏ đã muốn làm diễn viên điện ảnh.|She's wanted to be a film actress since she was little.|能愿动词
+阳光|yángguāng|dương quang|ánh nắng; tươi sáng|sunshine; sunny (personality)|阳光从窗户照进来，房间里暖暖的。|Ánh nắng chiếu qua cửa sổ, căn phòng ấm áp.|Sunlight shines in through the window, and the room is warm.|趋向补语
+养成|yǎngchéng|dưỡng thành|hình thành, tập thành (thói quen)|to form (a habit)|从小就要养成良好的习惯。|Từ nhỏ đã phải tập thành thói quen tốt.|Good habits should be formed from childhood.|能愿动词
+样子|yàngzi|dạng tử|dáng vẻ, kiểu dáng|appearance, style|看他的样子，好像很累。|Nhìn dáng vẻ anh ấy, hình như rất mệt.|Judging by how he looks, he seems very tired.|陈述句
+邀请|yāoqǐng|yêu thỉnh|mời; lời mời|to invite; invitation|谢谢你邀请我参加你的生日聚会。|Cảm ơn bạn đã mời tôi dự tiệc sinh nhật của bạn.|Thanks for inviting me to your birthday party.|兼语句
+要是|yàoshi|yếu thị|nếu, nếu như|if|要是明天下雨，我们就不去了。|Nếu mai trời mưa thì chúng ta không đi nữa.|If it rains tomorrow, we won't go.|假设
+钥匙|yàoshi|thược thi|chìa khóa|key|我把钥匙忘在办公室了。|Tôi để quên chìa khóa ở văn phòng rồi.|I left my keys at the office.|把字句
+也许|yěxǔ|dã hứa|có lẽ|perhaps|也许他还不知道这个消息。|Có lẽ anh ấy vẫn chưa biết tin này.|Maybe he doesn't know the news yet.|陈述句
+叶子|yèzi|diệp tử|lá cây|leaf|秋天到了，树上的叶子都黄了。|Mùa thu đến rồi, lá trên cây đều vàng cả.|Autumn is here, and the leaves on the trees have turned yellow.|了
+页|yè|hiệt|trang|page|请大家打开书，翻到第三十页。|Mời mọi người mở sách, lật đến trang ba mươi.|Everyone please open your books to page thirty.|祈使句
+一切|yīqiè|nhất thiết|tất cả, mọi thứ|everything|一切都准备好了，我们出发吧。|Mọi thứ đã chuẩn bị xong, chúng ta xuất phát thôi.|Everything's ready—let's set off.|吧
+以|yǐ|dĩ|lấy, dùng; để|with, by; in order to|他以第一名的成绩考上了大学。|Anh ấy đỗ đại học với thành tích thủ khoa.|He got into university with the top score.|介词短语
+以为|yǐwéi|dĩ vi|tưởng rằng|to think (mistakenly)|我以为你已经回国了，原来你还在这儿。|Tôi tưởng bạn đã về nước rồi, hóa ra bạn vẫn ở đây.|I thought you'd gone back home—turns out you're still here.|转折
+艺术|yìshù|nghệ thuật|nghệ thuật|art|她对中国传统艺术特别感兴趣。|Cô ấy đặc biệt hứng thú với nghệ thuật truyền thống Trung Quốc.|She's especially interested in traditional Chinese art.|介词短语
+意见|yìjiàn|ý kiến|ý kiến|opinion|对于这个计划，你有什么意见？|Đối với kế hoạch này, bạn có ý kiến gì không?|What's your opinion of this plan?|介词短语
+因此|yīncǐ|nhân thử|vì vậy, do đó|therefore|他每天坚持锻炼，因此身体很好。|Anh ấy kiên trì tập thể dục hằng ngày, vì vậy sức khỏe rất tốt.|He exercises every day, so he's very healthy.|因果
+引起|yǐnqǐ|dẫn khởi|gây ra, dẫn đến|to cause|这件事引起了大家的注意。|Việc này đã gây sự chú ý của mọi người.|This incident attracted everyone's attention.|了
+印象|yìnxiàng|ấn tượng|ấn tượng|impression|北京给我留下了很深的印象。|Bắc Kinh đã để lại cho tôi ấn tượng rất sâu sắc.|Beijing left a deep impression on me.|双宾语
+赢|yíng|doanh|thắng|to win|这场比赛我们一定要赢！|Trận đấu này chúng ta nhất định phải thắng!|We must win this match!|能愿动词
+应聘|yìngpìn|ứng sính|ứng tuyển|to apply for a job|昨天我去一家公司应聘了。|Hôm qua tôi đã đi ứng tuyển ở một công ty.|Yesterday I went to apply for a job at a company.|连动句
+永远|yǒngyuǎn|vĩnh viễn|mãi mãi|forever|我永远不会忘记你对我的帮助。|Tôi mãi mãi sẽ không quên sự giúp đỡ của bạn.|I'll never forget how you helped me.|定语
+勇敢|yǒnggǎn|dũng cảm|dũng cảm|brave|她是一个勇敢的女孩子，什么都不怕。|Cô ấy là một cô gái dũng cảm, không sợ gì cả.|She's a brave girl who's afraid of nothing.|强调
+优点|yōudiǎn|ưu điểm|ưu điểm|strength, merit|他最大的优点是做事认真。|Ưu điểm lớn nhất của anh ấy là làm việc nghiêm túc.|His greatest strength is that he's conscientious.|是字句
+优秀|yōuxiù|ưu tú|xuất sắc, ưu tú|excellent|她是我们班最优秀的学生。|Cô ấy là học sinh xuất sắc nhất lớp chúng tôi.|She's the best student in our class.|是字句
+幽默|yōumò|u mặc|hài hước|humorous|我们的汉语老师说话很幽默。|Giáo viên tiếng Trung của chúng tôi nói chuyện rất hài hước.|Our Chinese teacher is very humorous.|形容词谓语
+尤其|yóuqí|vưu kỳ|đặc biệt là|especially|我喜欢运动，尤其喜欢游泳。|Tôi thích thể thao, đặc biệt là bơi lội.|I like sports, especially swimming.|递进
+由|yóu|do|do, bởi; từ|by; from|这次活动由我们班负责。|Hoạt động lần này do lớp chúng tôi phụ trách.|Our class is in charge of this event.|介词短语
+由于|yóuyú|do vu|do, bởi vì|due to|由于天气原因，航班取消了。|Do thời tiết, chuyến bay đã bị hủy.|The flight was canceled due to the weather.|因果
+邮局|yóujú|bưu cục|bưu điện|post office|邮局几点开门？|Bưu điện mấy giờ mở cửa?|What time does the post office open?|特指问句
+友好|yǒuhǎo|hữu hảo|thân thiện, hữu nghị|friendly|这里的人对外国人非常友好。|Người ở đây rất thân thiện với người nước ngoài.|People here are very friendly to foreigners.|介词短语
+友谊|yǒuyì|hữu nghị|tình bạn, tình hữu nghị|friendship|我们的友谊已经有二十年了。|Tình bạn của chúng tôi đã được hai mươi năm rồi.|Our friendship has lasted twenty years.|了
+有趣|yǒuqù|hữu thú|thú vị|interesting|这个故事真有趣，再讲一个吧！|Câu chuyện này thú vị thật, kể thêm một cái nữa đi!|What a fun story—tell another one!|吧
+于是|yúshì|vu thị|thế là, vì vậy|thereupon, so|外面下起了大雨，于是我们决定在家看电影。|Bên ngoài mưa to, thế là chúng tôi quyết định ở nhà xem phim.|It started pouring outside, so we decided to watch a movie at home.|承接
+愉快|yúkuài|du khoái|vui vẻ, vui sướng|pleasant, happy|祝你周末愉快！|Chúc bạn cuối tuần vui vẻ!|Have a nice weekend!|感叹句
+与|yǔ|dữ|và, với|and, with|这个问题与我们的生活关系很大。|Vấn đề này có liên quan mật thiết đến cuộc sống của chúng ta.|This issue is closely related to our lives.|介词短语
+羽毛球|yǔmáoqiú|vũ mao cầu|cầu lông|badminton|下班以后我常常去打羽毛球。|Tan làm tôi thường đi đánh cầu lông.|I often play badminton after work.|时间状语
+语法|yǔfǎ|ngữ pháp|ngữ pháp|grammar|汉语语法比英语语法简单吗？|Ngữ pháp tiếng Trung có đơn giản hơn ngữ pháp tiếng Anh không?|Is Chinese grammar simpler than English grammar?|比较句
+语言|yǔyán|ngôn ngữ|ngôn ngữ|language|学习一门语言需要很长时间。|Học một ngôn ngữ cần rất nhiều thời gian.|Learning a language takes a long time.|陈述句
+预习|yùxí|dự tập|chuẩn bị bài trước|to preview (a lesson)|上课以前一定要先预习生词。|Trước khi lên lớp nhất định phải xem trước từ mới.|Be sure to preview the new words before class.|时间状语
+原来|yuánlái|nguyên lai|hóa ra; vốn dĩ, ban đầu|so it turns out; originally|原来是你啊，我还以为是谁呢！|Hóa ra là bạn à, tôi còn tưởng là ai chứ!|Oh, it's you—I wondered who it was!|感叹句
+原谅|yuánliàng|nguyên lượng|tha thứ|to forgive|请原谅我昨天说的话。|Xin hãy tha thứ cho những lời tôi nói hôm qua.|Please forgive what I said yesterday.|祈使句
+原因|yuányīn|nguyên nhân|nguyên nhân|reason|你知道他辞职的原因吗？|Bạn có biết lý do anh ấy nghỉ việc không?|Do you know why he quit?|定语
+约会|yuēhuì|ước hội|cuộc hẹn, hẹn hò|date, appointment|今天晚上我有个约会，不能加班了。|Tối nay tôi có hẹn, không làm thêm giờ được.|I have a date tonight, so I can't work overtime.|有字句
+阅读|yuèdú|duyệt độc|đọc|to read|阅读能帮助我们学到很多知识。|Đọc sách có thể giúp chúng ta học được nhiều kiến thức.|Reading helps us gain a lot of knowledge.|兼语句
+云|yún|vân|mây|cloud|天上一片云也没有。|Trên trời không có lấy một đám mây.|There isn't a single cloud in the sky.|强调
+允许|yǔnxǔ|doãn hứa|cho phép|to permit|这里不允许停车。|Ở đây không cho phép đỗ xe.|Parking isn't allowed here.|陈述句
+杂志|zázhì|tạp chí|tạp chí|magazine|我每个月都会买几本杂志看。|Tháng nào tôi cũng mua vài quyển tạp chí để đọc.|I buy a few magazines to read every month.|连动句
+仔细|zǐxì|tử tế|cẩn thận, kỹ lưỡng|careful|考试的时候要仔细看题。|Khi thi phải đọc đề thật kỹ.|Read the questions carefully during the exam.|时间状语
+咱们|zánmen|cha môn|chúng ta|we (including listener)|时间不早了，咱们走吧。|Muộn rồi, chúng ta đi thôi.|It's getting late—let's go.|吧
+暂时|zànshí|tạm thời|tạm thời|temporarily|经理暂时不在，你有什么事可以跟我说。|Giám đốc tạm thời không có ở đây, bạn có việc gì có thể nói với tôi.|The manager is out for the moment; you can tell me what you need.|介词短语
+脏|zāng|tạng|bẩn|dirty|你的衣服脏了，快换一件吧。|Quần áo của bạn bẩn rồi, mau thay bộ khác đi.|Your clothes are dirty—go change.|吧
+责任|zérèn|trách nhiệm|trách nhiệm|responsibility|这件事是我的责任，跟他没关系。|Việc này là trách nhiệm của tôi, không liên quan đến anh ấy.|This is my responsibility; it has nothing to do with him.|是字句
+增加|zēngjiā|tăng gia|tăng thêm|to increase|今年来中国旅游的人增加了很多。|Năm nay số người đến Trung Quốc du lịch tăng lên nhiều.|The number of tourists to China has increased a lot this year.|了
+占线|zhànxiàn|chiếm tuyến|máy bận (điện thoại)|(phone line) busy|我给他打了好几次电话，一直占线。|Tôi gọi cho anh ấy mấy lần liền, máy lúc nào cũng bận.|I called him several times, but the line was always busy.|时量动量
+长城|Chángchéng|trường thành|Vạn Lý Trường Thành|the Great Wall|不到长城非好汉。|Chưa đến Trường Thành chưa phải hảo hán.|You're not a real hero until you've been to the Great Wall.|条件
+长江|Cháng Jiāng|trường giang|sông Trường Giang|the Yangtze River|长江是中国最长的河。|Trường Giang là con sông dài nhất Trung Quốc.|The Yangtze is the longest river in China.|是字句
+招聘|zhāopìn|chiêu sính|tuyển dụng|to recruit|我们公司正在招聘几名翻译。|Công ty chúng tôi đang tuyển mấy phiên dịch viên.|Our company is hiring several translators.|进行态
+照|zhào|chiếu|chụp (ảnh); chiếu; soi|to take (photos); to shine; to reflect|我们在长城上照了很多照片。|Chúng tôi đã chụp rất nhiều ảnh trên Trường Thành.|We took lots of photos on the Great Wall.|介词短语
+真正|zhēnzhèng|chân chính|thật sự, chân chính|real, true|真正的朋友会在你困难的时候帮助你。|Người bạn thật sự sẽ giúp bạn khi bạn gặp khó khăn.|A true friend helps you when you're in trouble.|定语
+整理|zhěnglǐ|chỉnh lý|sắp xếp, thu dọn|to arrange, to sort out|我花了一个下午整理房间。|Tôi mất cả buổi chiều để dọn dẹp phòng.|I spent the whole afternoon tidying my room.|时量动量
+正常|zhèngcháng|chính thường|bình thường|normal|检查结果显示一切正常。|Kết quả kiểm tra cho thấy mọi thứ đều bình thường.|The test results show everything is normal.|形容词谓语
+正好|zhènghǎo|chính hảo|vừa đúng, vừa vặn|just right; happen to|你来得正好，我正想给你打电话呢。|Bạn đến đúng lúc lắm, tôi đang định gọi điện cho bạn đây.|You came at just the right time—I was about to call you.|程度补语
+正确|zhèngquè|chính xác|đúng, chính xác|correct|请选出正确的答案。|Hãy chọn ra đáp án đúng.|Please choose the correct answer.|结果补语
+正式|zhèngshì|chính thức|chính thức; trang trọng|formal, official|明天我就正式开始上班了。|Ngày mai tôi chính thức bắt đầu đi làm.|Tomorrow I officially start work.|将要
+证明|zhèngmíng|chứng minh|chứng minh; giấy chứng nhận|to prove; certificate|事实证明他说的是对的。|Sự thật chứng minh những gì anh ấy nói là đúng.|The facts proved he was right.|陈述句
+之|zhī|chi|của (văn viết)|of (literary)|这是我最喜欢的城市之一。|Đây là một trong những thành phố tôi thích nhất.|This is one of my favorite cities.|是字句
+支持|zhīchí|chi trì|ủng hộ|to support|不管你做什么决定，我都支持你。|Dù bạn quyết định thế nào, tôi đều ủng hộ bạn.|Whatever you decide, I'll support you.|条件
+只好|zhǐhǎo|chỉ hảo|đành phải|to have to, can only|最后一班车已经开走了，我们只好走回去。|Chuyến xe cuối cùng đã chạy rồi, chúng tôi đành phải đi bộ về.|The last bus had left, so we had to walk back.|因果
+只要|zhǐyào|chỉ yếu|chỉ cần|as long as|只要你努力，就一定能成功。|Chỉ cần bạn cố gắng thì nhất định sẽ thành công.|As long as you work hard, you'll definitely succeed.|条件
+知识|zhīshi|tri thức|kiến thức, tri thức|knowledge|读书可以让我们学到很多知识。|Đọc sách giúp chúng ta học được nhiều kiến thức.|Reading lets us gain a lot of knowledge.|兼语句
+直接|zhíjiē|trực tiếp|trực tiếp|direct|有问题你可以直接问我。|Có vấn đề gì bạn có thể hỏi thẳng tôi.|If you have questions, you can ask me directly.|能愿动词
+值得|zhíde|trị đắc|đáng, xứng đáng|to be worth|这本书很值得一读。|Quyển sách này rất đáng đọc.|This book is well worth reading.|形容词谓语
+职业|zhíyè|chức nghiệp|nghề nghiệp|occupation|老师是一个受人尊重的职业。|Giáo viên là một nghề được mọi người tôn trọng.|Teaching is a respected profession.|是字句
+植物|zhíwù|thực vật|thực vật|plant|阳台上种着各种各样的植物。|Trên ban công trồng đủ loại cây.|All kinds of plants are growing on the balcony.|存现句
+指|zhǐ|chỉ|chỉ, trỏ; ngón tay|to point; finger|他用手指着地图上的一个城市。|Anh ấy lấy tay chỉ vào một thành phố trên bản đồ.|He pointed at a city on the map.|着
+至少|zhìshǎo|chí thiểu|ít nhất|at least|从这儿到机场至少要一个小时。|Từ đây đến sân bay ít nhất mất một tiếng.|It takes at least an hour to get from here to the airport.|介词短语
+质量|zhìliàng|chất lượng|chất lượng|quality|这家店的东西质量很好，价格也不贵。|Đồ ở cửa hàng này chất lượng tốt, giá cũng không đắt.|The goods at this shop are good quality and not expensive.|并列
+重|zhòng|trọng|nặng|heavy|这个箱子太重了，我一个人搬不动。|Cái thùng này nặng quá, một mình tôi khiêng không nổi.|This box is too heavy for me to move alone.|可能补语
+重点|zhòngdiǎn|trọng điểm|trọng điểm|key point|老师把考试的重点都讲了一遍。|Thầy giáo đã giảng lại một lượt các trọng điểm của bài thi.|The teacher went over all the key points for the exam.|把字句
+重视|zhòngshì|trọng thị|coi trọng|to value|中国人很重视孩子的教育。|Người Trung Quốc rất coi trọng việc giáo dục con cái.|Chinese people place great value on children's education.|陈述句
+重新|chóngxīn|trùng tân|làm lại, lại từ đầu|again, anew|这篇文章写得不好，我要重新写一遍。|Bài văn này viết không tốt, tôi phải viết lại một lượt.|This essay isn't good—I need to rewrite it.|能愿动词
+周围|zhōuwéi|chu vi|xung quanh|surroundings|我家周围有很多商店和饭馆。|Xung quanh nhà tôi có rất nhiều cửa hàng và quán ăn.|There are lots of shops and restaurants around my home.|存现句
+主意|zhǔyi|chủ ý|ý kiến, chủ ý|idea|这是个好主意，我们就这么办吧。|Đây là ý hay, chúng ta cứ làm thế đi.|That's a good idea—let's do it that way.|吧
+祝贺|zhùhè|chúc hạ|chúc mừng|to congratulate|祝贺你考上了理想的大学！|Chúc mừng bạn đã đỗ vào trường đại học mơ ước!|Congratulations on getting into your dream university!|感叹句
+著名|zhùmíng|trứ danh|nổi tiếng, trứ danh|famous|这位著名的作家写过很多小说。|Nhà văn nổi tiếng này đã viết rất nhiều tiểu thuyết.|This famous author has written many novels.|过
+专门|zhuānmén|chuyên môn|chuyên, riêng (để)|specially|这是我专门为你准备的礼物。|Đây là món quà tôi chuẩn bị riêng cho bạn.|This is a gift I prepared especially for you.|定语
+专业|zhuānyè|chuyên nghiệp|chuyên ngành|major, specialty|你在大学学的是什么专业？|Ở đại học bạn học chuyên ngành gì?|What did you major in at university?|是…的
+转|zhuǎn|chuyển|chuyển, rẽ|to turn; to transfer|到了前面的路口往左转。|Đến ngã tư phía trước thì rẽ trái.|Turn left at the intersection ahead.|介词短语
+赚|zhuàn|trám|kiếm (tiền)|to earn|他每个月赚的钱都给了父母。|Tiền kiếm được mỗi tháng anh ấy đều đưa cho bố mẹ.|He gives all the money he earns each month to his parents.|定语
+准确|zhǔnquè|chuẩn xác|chính xác|accurate|天气预报不一定完全准确。|Dự báo thời tiết không nhất định hoàn toàn chính xác.|Weather forecasts aren't always completely accurate.|陈述句
+准时|zhǔnshí|chuẩn thời|đúng giờ|punctual|明天的会议请大家准时参加。|Cuộc họp ngày mai mời mọi người tham dự đúng giờ.|Everyone please be on time for tomorrow's meeting.|祈使句
+自然|zìrán|tự nhiên|tự nhiên; thiên nhiên|natural; nature|我们应该保护大自然。|Chúng ta nên bảo vệ thiên nhiên.|We should protect nature.|能愿动词
+自信|zìxìn|tự tín|tự tin|self-confident|面试的时候一定要自信一点儿。|Khi phỏng vấn nhất định phải tự tin một chút.|Be a bit more confident in the interview.|时间状语
+总结|zǒngjié|tổng kết|tổng kết|to sum up; summary|每次考试以后，我都会总结一下经验。|Sau mỗi kỳ thi, tôi đều tổng kết lại kinh nghiệm.|After every exam, I sum up what I've learned.|时间状语
+租|zū|tô|thuê|to rent|我们在学校附近租了一套房子。|Chúng tôi đã thuê một căn nhà gần trường.|We rented an apartment near the school.|介词短语
+最好|zuìhǎo|tối hảo|tốt nhất (là)|had better|天气不好，你最好别出门了。|Thời tiết xấu, tốt nhất bạn đừng ra ngoài.|The weather's bad—you'd better not go out.|能愿动词
+尊重|zūnzhòng|tôn trọng|tôn trọng|to respect|我们要尊重别人的选择。|Chúng ta phải tôn trọng lựa chọn của người khác.|We should respect other people's choices.|能愿动词
+左右|zuǒyòu|tả hữu|khoảng, chừng|about, approximately|他看起来三十岁左右。|Trông anh ấy khoảng ba mươi tuổi.|He looks about thirty.|陈述句
+作家|zuòjiā|tác gia|nhà văn|writer|我长大以后想当一名作家。|Lớn lên tôi muốn trở thành nhà văn.|When I grow up, I want to be a writer.|时间状语
+作用|zuòyòng|tác dụng|tác dụng, vai trò|effect, function|运动对健康有很大的作用。|Vận động có tác dụng rất lớn đối với sức khỏe.|Exercise has a big effect on health.|介词短语
+作者|zuòzhě|tác giả|tác giả|author|这本书的作者是谁？|Tác giả của quyển sách này là ai?|Who's the author of this book?|特指问句
+座|zuò|tọa|tòa, ngọn (lượng từ cho núi, nhà, cầu)|measure word for mountains, buildings|城市中间有一座很高的山。|Giữa thành phố có một ngọn núi rất cao.|There's a tall mountain in the middle of the city.|存现句
+座位|zuòwèi|tọa vị|chỗ ngồi|seat|请问，这个座位有人吗？|Xin hỏi, chỗ này có ai ngồi chưa?|Excuse me, is this seat taken?|有字句

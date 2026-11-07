@@ -1,0 +1,1080 @@
+{
+  "n": 20,
+  "zh": "路上的风景",
+  "vi": "Quang cảnh dọc đường",
+  "en": "Scenery along the way",
+  "texts": [
+    {
+      "title": "小张去北京，朋友送小张去机场",
+      "paras": [
+        {
+          "zh": "朋友：该加油了，去机场的路上有加油站吗？",
+          "vi": "Bạn: Phải đổ xăng rồi, trên đường ra sân bay có trạm xăng không?",
+          "en": "Friend: We need petrol. Is there a petrol station on the way to the airport?"
+        },
+        {
+          "zh": "小张：我记得过了长江大桥往右一拐就有一个，大概有四五公里远。",
+          "vi": "Tiểu Trương: Tôi nhớ qua cầu Trường Giang rẽ phải là có một trạm, khoảng bốn năm kilômét.",
+          "en": "Xiao Zhang: I remember there's one just after you cross the Yangtze River Bridge and turn right, about four or five kilometres away."
+        },
+        {
+          "zh": "朋友：好，那我就放心了，别开着{zhe}开着{zhe}没油了。你去北京的航班是几点的？时间来得及吗？",
+          "vi": "Bạn: Được, vậy tôi yên tâm rồi, kẻo đang lái lại hết xăng. Chuyến bay đi Bắc Kinh của bạn mấy giờ? Thời gian có kịp không?",
+          "en": "Friend: Good, that's a relief. I don't want to run out of petrol halfway. What time is your flight to Beijing? Will we make it?"
+        },
+        {
+          "zh": "小张：航班本来是十点的，后来机场网站上通知推迟了一个小时，所以九点半以前到就应该没问题。",
+          "vi": "Tiểu Trương: Chuyến bay vốn là mười giờ, sau đó trang web sân bay thông báo hoãn một tiếng, nên trước chín rưỡi đến là không có vấn đề gì.",
+          "en": "Xiao Zhang: The flight was originally at ten, but the airport website announced it's been delayed an hour, so if we get there before half past nine it should be fine."
+        },
+        {
+          "zh": "朋友：刚才我还有点儿担心来不及呢。一会儿加完油，往西走五百米就能上高速公路。走高速公路大约半个小时就到了。",
+          "vi": "Bạn: Lúc nãy tôi còn hơi lo không kịp. Lát nữa đổ xăng xong, đi về phía tây năm trăm mét là lên được đường cao tốc. Đi cao tốc khoảng nửa tiếng là đến.",
+          "en": "Friend: I was a bit worried we wouldn't make it. After we fill up, it's 500 metres west to the motorway. Taking the motorway, it's about half an hour."
+        },
+        {
+          "zh": "小张：一会儿我自己进去换登机牌，你就不用送我了，等我到了首都机场再给你发短信。",
+          "vi": "Tiểu Trương: Lát nữa tôi tự vào đổi thẻ lên máy bay, bạn không cần tiễn tôi nữa, đợi tôi đến sân bay Thủ Đô rồi nhắn tin cho bạn.",
+          "en": "Xiao Zhang: I'll go in and get my boarding pass myself in a bit; you don't need to see me off. I'll text you when I get to Capital Airport."
+        }
+      ],
+      "words": [
+        {
+          "zh": "加油站",
+          "py": "jiāyóuzhàn",
+          "pos": "dt.",
+          "vi": "trạm xăng dầu",
+          "en": "petrol station"
+        },
+        {
+          "zh": "航班",
+          "py": "hángbān",
+          "pos": "dt.",
+          "vi": "chuyến bay",
+          "en": "flight"
+        },
+        {
+          "zh": "推迟",
+          "py": "tuīchí",
+          "pos": "đgt.",
+          "vi": "hoãn lại",
+          "en": "to postpone, to delay"
+        },
+        {
+          "zh": "高速公路",
+          "py": "gāosù gōnglù",
+          "pos": "dt.",
+          "vi": "đường cao tốc",
+          "en": "motorway, expressway"
+        },
+        {
+          "zh": "登机牌",
+          "py": "dēngjīpái",
+          "pos": "dt.",
+          "vi": "thẻ lên máy bay",
+          "en": "boarding pass"
+        },
+        {
+          "zh": "首都",
+          "py": "shǒudū",
+          "pos": "dt.",
+          "vi": "thủ đô",
+          "en": "capital"
+        }
+      ],
+      "names": [
+        {
+          "zh": "长江",
+          "py": "Chángjiāng",
+          "vi": "sông Trường Giang (sông dài nhất ở Trung Quốc)",
+          "en": "the Yangtze River"
+        },
+        {
+          "zh": "长江大桥",
+          "py": "Chángjiāng Dàqiáo",
+          "vi": "cầu Trường Giang (ở Nam Kinh)",
+          "en": "Yangtze River Bridge (in Nanjing)"
+        },
+        {
+          "zh": "首都机场",
+          "py": "Shǒudū Jīchǎng",
+          "vi": "sân bay Thủ Đô",
+          "en": "Capital Airport"
+        }
+      ]
+    },
+    {
+      "title": "孙月和丈夫计划放寒假带女儿去旅行",
+      "paras": [
+        {
+          "zh": "孙月：女儿下个星期就要放寒假{jià}了，到时候咱们带她去旅游，放松放松，怎么样？",
+          "vi": "Tôn Nguyệt: Tuần sau con gái được nghỉ đông rồi, đến lúc đó mình đưa con đi du lịch, thư giãn một chút, thế nào?",
+          "en": "Sun Yue: Our daughter's winter holiday starts next week. How about taking her on a trip to relax?"
+        },
+        {
+          "zh": "丈夫：平时女儿那么多课，总是说想去旅行，但是没时间，怪可怜的。这次放假{jià}咱们带她去哪儿玩儿比较好呢？",
+          "vi": "Chồng: Bình thường con nhiều tiết học như vậy, lúc nào cũng nói muốn đi du lịch mà không có thời gian, tội nghiệp lắm. Lần nghỉ này mình đưa con đi đâu chơi thì hay?",
+          "en": "Husband: She has so many classes normally and always says she wants to travel but has no time. Poor thing. Where shall we take her these holidays?"
+        },
+        {
+          "zh": "孙月：去年我同事带她儿子去广西玩儿了一趟，听说很不错，我们就去广西吧。",
+          "vi": "Tôn Nguyệt: Năm ngoái đồng nghiệp em đưa con trai đi Quảng Tây chơi một chuyến, nghe nói rất tuyệt, mình đi Quảng Tây đi.",
+          "en": "Sun Yue: Last year a colleague of mine took her son to Guangxi and said it was great. Let's go to Guangxi."
+        },
+        {
+          "zh": "丈夫：好啊，那里的气候和北方很不同，即使是冬天，也非常暖和，还能吃到许多新鲜的水果。等女儿一回来我就告诉她这个好消息。",
+          "vi": "Chồng: Được đấy, khí hậu ở đó rất khác miền Bắc, dù là mùa đông cũng rất ấm áp, còn được ăn nhiều hoa quả tươi. Đợi con về anh sẽ báo ngay tin vui này.",
+          "en": "Husband: Good idea. The climate there is very different from the north: even in winter it's really warm, and you can eat lots of fresh fruit. I'll tell her the good news as soon as she gets home."
+        },
+        {
+          "zh": "孙月：先别着{zháo}急说。中午我们不是要去对面的饭店吃烤鸭，祝贺她考试成绩都合格吗？那时候再告诉她，不是更好？",
+          "vi": "Tôn Nguyệt: Đừng vội nói. Chẳng phải trưa nay mình đi nhà hàng đối diện ăn vịt quay, chúc mừng con thi đều đạt sao? Đến lúc đó hãy nói với con, chẳng phải hay hơn à?",
+          "en": "Sun Yue: Don't tell her yet. Aren't we going to the restaurant opposite for roast duck at lunchtime to celebrate her passing all her exams? Wouldn't it be better to tell her then?"
+        },
+        {
+          "zh": "丈夫：好主意，到时她知道了肯定特别开心。",
+          "vi": "Chồng: Ý hay đấy, đến lúc đó con biết chắc chắn sẽ rất vui.",
+          "en": "Husband: Good idea. She'll be thrilled when she finds out."
+        }
+      ],
+      "words": [
+        {
+          "zh": "旅行",
+          "py": "lǚxíng",
+          "pos": "đgt.",
+          "vi": "du lịch",
+          "en": "to travel"
+        },
+        {
+          "zh": "怪",
+          "py": "guài",
+          "pos": "phó.",
+          "vi": "rất, vô cùng",
+          "en": "rather, quite",
+          "x": true
+        },
+        {
+          "zh": "可怜",
+          "py": "kělián",
+          "pos": "tt.",
+          "vi": "đáng thương, tội nghiệp",
+          "en": "pitiful"
+        },
+        {
+          "zh": "对面",
+          "py": "duìmiàn",
+          "pos": "dt.",
+          "vi": "đối diện, trước mặt",
+          "en": "opposite"
+        },
+        {
+          "zh": "烤鸭",
+          "py": "kǎoyā",
+          "pos": "dt.",
+          "vi": "vịt quay",
+          "en": "roast duck"
+        },
+        {
+          "zh": "祝贺",
+          "py": "zhùhè",
+          "pos": "đgt.",
+          "vi": "chúc mừng",
+          "en": "to congratulate"
+        },
+        {
+          "zh": "合格",
+          "py": "hégé",
+          "pos": "tt.",
+          "vi": "đạt tiêu chuẩn, đạt yêu cầu",
+          "en": "qualified, up to standard"
+        }
+      ],
+      "names": [
+        {
+          "zh": "广西",
+          "py": "Guǎngxī",
+          "vi": "Quảng Tây (Trung Quốc)",
+          "en": "Guangxi (China)"
+        }
+      ]
+    },
+    {
+      "title": "安娜向马克介绍去丽江旅行的经验",
+      "paras": [
+        {
+          "zh": "马克：这么多照片，都是你这次去丽江旅行时照的？那里的自然风景可真美！",
+          "vi": "Mark: Nhiều ảnh thế này, đều là cậu chụp lần đi du lịch Lệ Giang này à? Phong cảnh thiên nhiên ở đó đẹp thật!",
+          "en": "Mark: So many photos! Did you take them all on your trip to Lijiang? The natural scenery there is gorgeous!"
+        },
+        {
+          "zh": "安娜：是啊，小城四季的风景都很美，而且环境保护得也很好，因此每年都吸引着{zhe}成千上万的游客去那儿旅游。",
+          "vi": "Anna: Đúng vậy, phong cảnh bốn mùa ở thị trấn nhỏ đó đều rất đẹp, hơn nữa môi trường được bảo vệ rất tốt, vì vậy năm nào cũng thu hút hàng nghìn hàng vạn du khách đến đó du lịch.",
+          "en": "Anna: Yes. The scenery in that little town is beautiful in every season, and the environment is well protected, so it attracts tens of thousands of tourists every year."
+        },
+        {
+          "zh": "马克：这张照片上和你干杯的那个人是少数民族吗？她打扮得真漂亮。",
+          "vi": "Mark: Người cạn ly với cậu trong tấm ảnh này là người dân tộc thiểu số à? Cô ấy trang điểm đẹp thật.",
+          "en": "Mark: The person clinking glasses with you in this photo: is she from an ethnic minority? She's beautifully dressed."
+        },
+        {
+          "zh": "安娜：她是我们的导游，不是少数民族。一路上她给我们讲了很多有趣的笑话。有一次我把存包的钥匙丢了，最后还是她帮我找到的。这张照片就是找到钥匙后，我们一起照的。",
+          "vi": "Anna: Cô ấy là hướng dẫn viên của bọn tớ, không phải người dân tộc thiểu số. Suốt dọc đường cô ấy kể cho bọn tớ nghe nhiều chuyện cười thú vị. Có lần tớ làm mất chìa khóa tủ gửi đồ, cuối cùng vẫn là cô ấy giúp tớ tìm được. Tấm ảnh này chính là chụp chung sau khi tìm thấy chìa khóa.",
+          "en": "Anna: She was our guide, not from an ethnic minority. She told us lots of funny jokes along the way. Once I lost the key to my left-luggage locker, and in the end she helped me find it. We took this photo together after we found it."
+        },
+        {
+          "zh": "马克：明年我有机会也去那儿看看，到时把你的导游介绍给我吧。究竟哪个季节去丽江旅游比较好呢？",
+          "vi": "Mark: Sang năm có dịp tớ cũng đến đó xem, đến lúc đó giới thiệu hướng dẫn viên của cậu cho tớ nhé. Rốt cuộc mùa nào đi du lịch Lệ Giang thì tốt?",
+          "en": "Mark: Next year I'd like to go there too if I get the chance. Introduce me to your guide then. Which season is actually best for visiting Lijiang?"
+        },
+        {
+          "zh": "安娜：那儿最美的季节是春天和秋天，不过那时候人比较多。稍微好一点儿的时间是每年12月到第二年3月。这段时间去丽江的话，无论交通还是吃、住都很便宜。",
+          "vi": "Anna: Mùa đẹp nhất ở đó là mùa xuân và mùa thu, nhưng lúc đó khá đông người. Thời gian tốt hơn một chút là từ tháng 12 đến tháng 3 năm sau. Đi Lệ Giang vào thời gian này thì dù đi lại hay ăn ở đều rất rẻ.",
+          "en": "Anna: The most beautiful seasons are spring and autumn, but it's crowded then. A slightly better time is from December to March. If you go then, transport, food and accommodation are all cheap."
+        }
+      ],
+      "words": [
+        {
+          "zh": "干杯",
+          "py": "gān bēi",
+          "pos": "đgt.",
+          "vi": "cạn ly",
+          "en": "to toast, cheers"
+        },
+        {
+          "zh": "民族",
+          "py": "mínzú",
+          "pos": "dt.",
+          "vi": "dân tộc",
+          "en": "ethnic group"
+        },
+        {
+          "zh": "打扮",
+          "py": "dǎban",
+          "pos": "đgt.",
+          "vi": "trang điểm",
+          "en": "to dress up"
+        },
+        {
+          "zh": "笑话",
+          "py": "xiàohua",
+          "pos": "dt.",
+          "vi": "truyện cười",
+          "en": "joke"
+        },
+        {
+          "zh": "存",
+          "py": "cún",
+          "pos": "đgt.",
+          "vi": "gửi",
+          "en": "to deposit, to leave (luggage)"
+        },
+        {
+          "zh": "钥匙",
+          "py": "yàoshi",
+          "pos": "dt.",
+          "vi": "chìa khóa",
+          "en": "key"
+        },
+        {
+          "zh": "究竟",
+          "py": "jiūjìng",
+          "pos": "phó.",
+          "vi": "(được dùng trong câu hỏi để nhấn mạnh) rốt cuộc",
+          "en": "(in questions) actually, exactly"
+        }
+      ],
+      "names": [
+        {
+          "zh": "丽江",
+          "py": "Lìjiāng",
+          "vi": "Lệ Giang (Trung Quốc)",
+          "en": "Lijiang (China)"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "中国南北距离约5500公里，因此南北气候有很大区别。每年三四月份的时候，如果从北方坐火车到南方去旅游，一路上你会发现，不同的地方有不同的风景：窗外的树一棵一棵地{de}变绿，北方也许还下着{zhe}雪，南方却已经到处都是绿色了。南方菜很有特点，特别是汤，味道鲜美，很多北方人都喜欢喝。另外，南方和北方的语言也有很大不同。比如你跟上海人对话时，会发现上海话听起来就像外语一样。虽然上海人也会讲普通话，可是仔细听，还是有上海味儿。",
+          "vi": "Trung Quốc từ nam đến bắc cách nhau khoảng 5500 kilômét, vì vậy khí hậu hai miền có sự khác biệt rất lớn. Hằng năm vào khoảng tháng ba tháng tư, nếu đi tàu hỏa từ miền Bắc xuống miền Nam du lịch, dọc đường bạn sẽ thấy nơi khác nhau có phong cảnh khác nhau: cây ngoài cửa sổ từng cây từng cây xanh dần lên, miền Bắc có lẽ vẫn còn tuyết rơi, miền Nam thì đã đâu đâu cũng là màu xanh. Món ăn miền Nam rất đặc sắc, nhất là canh, vị tươi ngon, nhiều người miền Bắc rất thích uống. Ngoài ra, ngôn ngữ miền Nam và miền Bắc cũng rất khác nhau. Ví dụ khi bạn nói chuyện với người Thượng Hải, sẽ thấy tiếng Thượng Hải nghe cứ như tiếng nước ngoài. Tuy người Thượng Hải cũng nói tiếng phổ thông, nhưng nghe kỹ vẫn có giọng Thượng Hải.",
+          "en": "China is about 5,500 kilometres from north to south, so the climate differs greatly between them. Around March and April, if you take the train from the north to the south, you'll notice the scenery changing along the way: the trees outside the window turn green one after another; while it may still be snowing in the north, everything in the south is already green. Southern food is very distinctive, especially the soups, which are delicious and popular with many northerners. Also, the languages of the south and north differ a lot. For example, when you talk to people from Shanghai, you'll find Shanghainese sounds like a foreign language. Although Shanghai people also speak Mandarin, listen carefully and you'll still hear a Shanghai accent."
+        }
+      ],
+      "words": [
+        {
+          "zh": "棵",
+          "py": "kē",
+          "pos": "lượng.",
+          "vi": "(được dùng cho thực vật) cây, ngọn",
+          "en": "measure word for trees and plants"
+        },
+        {
+          "zh": "汤",
+          "py": "tāng",
+          "pos": "dt.",
+          "vi": "canh, súp",
+          "en": "soup"
+        },
+        {
+          "zh": "对话",
+          "py": "duìhuà",
+          "pos": "đgt.",
+          "vi": "đối thoại, tiếp xúc",
+          "en": "to converse"
+        },
+        {
+          "zh": "普通话",
+          "py": "pǔtōnghuà",
+          "pos": "dt.",
+          "vi": "tiếng phổ thông, tiếng Quan thoại",
+          "en": "Mandarin"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "一个人有时间一定要去旅行，旅行不仅能丰富一个人的经历，而且是很好的减压方法。但对我来说，最重要的是旅行能让我有机会尝到各地有名的小吃。放假{jià}的时候，我会收拾好行李，带上地图，买张火车票，向目的地出发。说起吃的东西，给我印象最深的是湖南菜。湖南菜的特点就是辣，与其他地方的辣不同，湖南菜的辣主要是咸辣、香辣和酸辣。虽然全国各地都有湖南饭馆儿，但最好还是直接去那里尝一尝。每次旅行结束后，我都会精神百倍地{de}开始我的工作。",
+          "vi": "Một người có thời gian nhất định phải đi du lịch, du lịch không những làm phong phú trải nghiệm của một người mà còn là cách giảm áp lực rất tốt. Nhưng đối với tôi, điều quan trọng nhất là du lịch giúp tôi có cơ hội nếm các món ăn vặt nổi tiếng của các nơi. Khi được nghỉ, tôi sẽ thu xếp hành lý, mang theo bản đồ, mua vé tàu, xuất phát đến nơi muốn đến. Nói đến đồ ăn, ấn tượng sâu sắc nhất đối với tôi là món Hồ Nam. Đặc điểm của món Hồ Nam là cay, khác với cái cay ở nơi khác, cái cay của món Hồ Nam chủ yếu là cay mặn, cay thơm và cay chua. Tuy khắp cả nước đều có quán ăn Hồ Nam, nhưng tốt nhất vẫn là đến tận nơi nếm thử. Mỗi lần du lịch xong, tôi đều bắt đầu công việc với tinh thần phấn chấn gấp trăm lần.",
+          "en": "Anyone who has the time should travel. Travel not only enriches your experience but is also a great way to relieve stress. But for me, the most important thing is that it gives me the chance to taste famous local snacks everywhere. When I'm on holiday, I pack my bags, take a map, buy a train ticket and set off for my destination. Speaking of food, what impressed me most was Hunan cuisine. Its hallmark is spiciness, but different from elsewhere: Hunan spiciness is mainly salty-spicy, fragrant-spicy and sour-spicy. Although there are Hunan restaurants all over the country, it's best to go there and taste it yourself. After every trip, I return to work full of energy."
+        }
+      ],
+      "words": [
+        {
+          "zh": "小吃",
+          "py": "xiǎochī",
+          "pos": "dt.",
+          "vi": "món ăn vặt",
+          "en": "snack"
+        },
+        {
+          "zh": "收拾",
+          "py": "shōushi",
+          "pos": "đgt.",
+          "vi": "thu dọn, thu xếp",
+          "en": "to pack, to tidy"
+        },
+        {
+          "zh": "出发",
+          "py": "chūfā",
+          "pos": "đgt.",
+          "vi": "xuất phát, khởi hành",
+          "en": "to set off"
+        },
+        {
+          "zh": "辣",
+          "py": "là",
+          "pos": "tt.",
+          "vi": "cay",
+          "en": "spicy"
+        },
+        {
+          "zh": "香",
+          "py": "xiāng",
+          "pos": "tt.",
+          "vi": "thơm",
+          "en": "fragrant"
+        },
+        {
+          "zh": "酸",
+          "py": "suān",
+          "pos": "tt.",
+          "vi": "chua",
+          "en": "sour"
+        }
+      ],
+      "names": [
+        {
+          "zh": "湖南",
+          "py": "Húnán",
+          "vi": "Hồ Nam (Trung Quốc)",
+          "en": "Hunan (China)"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "朋友因为什么事情担心？他和小张是怎么解决的？",
+        "label": "课文1",
+        "a": "朋友担心【车没油了】，还担心【时间来不及】。小张告诉他【过了长江大桥往右一拐就有一个加油站】，而且【航班推迟了一个小时，九点半以前到就没问题】。",
+        "vi": "Người bạn lo xe hết xăng, còn lo không kịp giờ. Tiểu Trương bảo qua cầu Trường Giang rẽ phải là có trạm xăng, hơn nữa chuyến bay hoãn một tiếng, trước chín rưỡi đến là không sao.",
+        "en": "The friend was worried about running out of petrol and not making it in time. Xiao Zhang told him there's a petrol station just after the bridge, and the flight was delayed an hour, so arriving before 9:30 would be fine."
+      },
+      {
+        "q": "小张坐的航班时间发生了什么变化？她和朋友大约多长时间能到达机场？",
+        "label": "课文1",
+        "a": "航班本来是十点的，后来【推迟了一个小时】。走高速公路【大约半个小时】就能到机场。",
+        "vi": "Chuyến bay vốn lúc mười giờ, sau đó hoãn một tiếng. Đi cao tốc khoảng nửa tiếng là đến sân bay.",
+        "en": "The flight was originally at ten but was delayed by an hour. By motorway, it's about half an hour to the airport."
+      },
+      {
+        "q": "孙月和丈夫为什么想带女儿去旅行？他们准备去哪儿旅行？",
+        "label": "课文2",
+        "a": "因为【女儿平时课多，总是说想去旅行，但是没时间】。他们准备去【广西】。",
+        "vi": "Vì bình thường con gái nhiều tiết học, luôn nói muốn đi du lịch mà không có thời gian. Họ định đi Quảng Tây.",
+        "en": "Because their daughter has lots of classes and always says she wants to travel but has no time. They plan to go to Guangxi."
+      },
+      {
+        "q": "他们想在什么时候告诉女儿去旅行这个消息？为什么？",
+        "label": "课文2",
+        "a": "他们想【中午在对面的饭店吃烤鸭，祝贺她考试成绩都合格的时候】告诉她，因为【那时候告诉她更好，她会特别开心】。",
+        "vi": "Họ muốn nói với con lúc trưa ăn vịt quay ở nhà hàng đối diện chúc mừng con thi đều đạt, vì nói lúc đó hay hơn, con sẽ rất vui.",
+        "en": "They want to tell her at lunch, when they go for roast duck at the restaurant opposite to celebrate her passing her exams, because it'll be a nicer surprise and she'll be thrilled."
+      },
+      {
+        "q": "安娜这次去丽江找的那个导游怎么样？",
+        "label": "课文3",
+        "a": "那个导游【一路上给他们讲了很多有趣的笑话，还帮安娜找到了丢了的钥匙】。",
+        "vi": "Hướng dẫn viên đó dọc đường kể nhiều chuyện cười thú vị, còn giúp Anna tìm lại chìa khóa bị mất.",
+        "en": "The guide told them lots of funny jokes along the way and helped Anna find the key she'd lost."
+      },
+      {
+        "q": "为什么丽江值得去旅游？什么时候去那里旅游最好？",
+        "label": "课文3",
+        "a": "因为【小城四季的风景都很美，而且环境保护得也很好】。最美的季节是【春天和秋天】，不过人比较多；【每年12月到第二年3月】去的话，交通和吃、住都很便宜。",
+        "vi": "Vì phong cảnh bốn mùa ở thị trấn đều đẹp, môi trường được bảo vệ tốt. Mùa đẹp nhất là xuân và thu nhưng đông người; đi từ tháng 12 đến tháng 3 năm sau thì đi lại, ăn ở đều rẻ.",
+        "en": "Because the town's scenery is beautiful all year round and the environment is well protected. Spring and autumn are most beautiful but crowded; from December to March, transport, food and lodging are all cheap."
+      },
+      {
+        "q": "要是你三四月份从北方坐火车到南方旅行，路上的风景会有哪些变化？为什么？",
+        "label": "课文4",
+        "a": "【窗外的树一棵一棵地{de}变绿，北方也许还下着{zhe}雪，南方却已经到处都是绿色了】。因为【中国南北距离很远，南北气候有很大区别】。",
+        "vi": "Cây ngoài cửa sổ từng cây xanh dần lên, miền Bắc có lẽ vẫn còn tuyết, miền Nam thì đâu đâu cũng xanh. Vì Trung Quốc nam bắc cách nhau rất xa, khí hậu hai miền khác nhau nhiều.",
+        "en": "The trees outside the window turn green one by one; the north may still have snow while the south is already green everywhere. Because China is so long from north to south, the climates differ greatly."
+      },
+      {
+        "q": "一个北方人跟上海人对话时，可能会遇到什么问题？",
+        "label": "课文4",
+        "a": "他会发现【上海话听起来就像外语一样】，听不懂。",
+        "vi": "Người đó sẽ thấy tiếng Thượng Hải nghe như tiếng nước ngoài, không hiểu được.",
+        "en": "They'll find Shanghainese sounds like a foreign language and won't understand it."
+      },
+      {
+        "q": "对“我”来说，旅行有哪些好处？",
+        "label": "课文5",
+        "a": "旅行【不仅能丰富一个人的经历，而且是很好的减压方法】；最重要的是【能让“我”有机会尝到各地有名的小吃】。",
+        "vi": "Du lịch không những làm phong phú trải nghiệm mà còn là cách giảm áp lực rất tốt; quan trọng nhất là giúp “tôi” có cơ hội nếm các món ăn vặt nổi tiếng các nơi.",
+        "en": "Travel enriches your experience and relieves stress; most importantly, it lets “me” taste famous local snacks everywhere."
+      },
+      {
+        "q": "旅行中什么东西给“我”的印象最深？它有哪些特点？",
+        "label": "课文5",
+        "a": "【湖南菜】给“我”的印象最深。湖南菜的特点就是【辣，主要是咸辣、香辣和酸辣】。",
+        "vi": "Món Hồ Nam để lại ấn tượng sâu nhất. Đặc điểm của món Hồ Nam là cay, chủ yếu là cay mặn, cay thơm và cay chua.",
+        "en": "Hunan cuisine impressed “me” most. Its hallmark is spiciness, mainly salty-spicy, fragrant-spicy and sour-spicy."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "动词+着+动词+着",
+      "py": "dòngcí + zhe + dòngcí + zhe",
+      "uses": [
+        {
+          "vi": "Trong cấu trúc “Động từ + 着 + Động từ được lặp lại + 着”, động từ thường chỉ có một âm tiết. Người ta thường sử dụng một động từ khác sau cấu trúc này để chỉ hành động khác xảy ra khi hành động được đề cập phía trước đang tiếp diễn (đang… thì…).",
+          "en": "In the pattern verb + 着 + same verb + 着, the verb is usually one syllable. It is usually followed by another verb, meaning that while the first action is going on, another action happens: 'while (doing) …, (suddenly) …'.",
+          "ex": [
+            {
+              "zh": "好，那我就放心了，别【开着开着】没油了。",
+              "vi": "Được, vậy tôi yên tâm rồi, đừng để đang lái thì hết xăng nhé.",
+              "en": "OK, then I can relax. Just don't run out of petrol halfway."
+            },
+            {
+              "zh": "她【讲着讲着】自己就先笑了，而大家却不明白她到底为什么笑。",
+              "vi": "Cô ấy đang kể thì tự mình bật cười trước, còn mọi người lại không hiểu rốt cuộc cô ấy cười gì.",
+              "en": "She was telling the story when she started laughing herself, while everyone else had no idea what she was laughing at."
+            },
+            {
+              "zh": "晚上躺在草地上看星星的感觉非常棒，有时候【躺着躺着】就安静地{de}睡着{zháo}了。",
+              "vi": "Buổi tối nằm trên bãi cỏ ngắm sao cảm giác tuyệt vời lắm, có khi nằm một lúc là ngủ thiếp đi lúc nào không hay.",
+              "en": "Lying on the grass at night looking at the stars feels wonderful. Sometimes you lie there until you quietly drift off to sleep."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "小时候的记忆总是那么美好，____。",
+            "hint": "Động từ + 着 + Động từ + 着",
+            "a": "小时候的记忆总是那么美好，【我想着{zhe}想着{zhe}就笑了】。",
+            "vi": "Ký ức tuổi thơ lúc nào cũng đẹp đẽ như vậy, tôi nghĩ mãi nghĩ mãi rồi bật cười.",
+            "en": "Childhood memories are always so lovely; thinking about them, I started smiling.",
+            "sample": true
+          },
+          {
+            "q": "那天的羊肉饺子太好吃了，____。",
+            "hint": "Động từ + 着 + Động từ + 着",
+            "a": "那天的羊肉饺子太好吃了，【我吃着{zhe}吃着{zhe}就吃了三十个】。",
+            "vi": "Sủi cảo thịt cừu hôm đó ngon quá, tôi ăn mãi ăn mãi hết ba mươi cái.",
+            "en": "The lamb dumplings that day were so good that before I knew it I'd eaten thirty.",
+            "sample": true
+          },
+          {
+            "q": "这篇小说写得太无聊了，____。",
+            "hint": "Động từ + 着 + Động từ + 着",
+            "a": "这篇小说写得太无聊了，【我看着{zhe}看着{zhe}就睡着{zháo}了】。",
+            "vi": "Cuốn tiểu thuyết này viết chán quá, tôi đọc mãi đọc mãi rồi ngủ thiếp đi.",
+            "en": "This novel is so boring that I fell asleep reading it.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "一……就……",
+      "uses": [
+        {
+          "vi": "Cấu trúc “一……就……” (vừa… thì/đã…) có thể được dùng để chỉ hai sự việc xảy ra nối tiếp nhau. Chủ ngữ của hai sự việc này có thể giống hoặc không giống nhau.",
+          "en": "The pattern 一……就…… ('as soon as … then …') shows two things happening one right after the other. The two subjects may be the same or different.",
+          "ex": [
+            {
+              "zh": "100年前，塑料【一】出现【就】受到人们的普遍欢迎。",
+              "vi": "100 năm trước, nhựa vừa xuất hiện đã được mọi người hoan nghênh rộng rãi.",
+              "en": "A hundred years ago, as soon as plastic appeared it became popular everywhere."
+            },
+            {
+              "zh": "等女儿【一】回来我【就】告诉她这个好消息。",
+              "vi": "Đợi con gái vừa về là tôi sẽ báo cho nó tin vui này.",
+              "en": "As soon as my daughter gets back, I'll tell her the good news."
+            }
+          ]
+        },
+        {
+          "vi": "Cấu trúc “一……就……” còn mang nghĩa là hễ… thì/là… Theo sau 一 là điều kiện, theo sau 就 là tình huống sẽ xảy ra trong điều kiện đó. Chủ ngữ của hai thành phần này có thể giống hoặc khác nhau.",
+          "en": "一……就…… can also mean 'whenever … then …': what follows 一 is the condition, and what follows 就 is what happens under it. The subjects may be the same or different.",
+          "ex": [
+            {
+              "zh": "儿子小时候【一】说话【就】脸红，回答老师问题的时候声音也很小，我当时很为他担心。",
+              "vi": "Hồi nhỏ con trai tôi hễ nói chuyện là đỏ mặt, trả lời câu hỏi của cô giáo giọng cũng rất nhỏ, khi đó tôi rất lo cho nó.",
+              "en": "When my son was little, he blushed whenever he spoke and answered the teacher's questions very quietly. I was really worried about him then."
+            },
+            {
+              "zh": "父母必须让孩子从小就知道，不是所有的东西【一】哭【就】能得到。",
+              "vi": "Bố mẹ phải để con biết từ nhỏ rằng không phải thứ gì cứ khóc là có được.",
+              "en": "Parents must let children know from an early age that they can't get everything just by crying."
+            },
+            {
+              "zh": "妈妈【一】进房间，他【就】把手机装了起来。",
+              "vi": "Mẹ vừa bước vào phòng là cậu ấy cất ngay điện thoại đi.",
+              "en": "As soon as his mum came into the room, he put his phone away."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "明天我要去上海出差，____。",
+            "hint": "一……就……",
+            "a": "明天我要去上海出差，【一到上海就给你打电话】。",
+            "vi": "Ngày mai tôi đi Thượng Hải công tác, vừa đến Thượng Hải là gọi điện cho bạn ngay.",
+            "en": "I'm going to Shanghai on business tomorrow. I'll call you as soon as I arrive.",
+            "sample": true
+          },
+          {
+            "q": "张阿姨还是不适应北方的气候，____。",
+            "hint": "一……就……",
+            "a": "张阿姨还是不适应北方的气候，【一到冬天就生病】。",
+            "vi": "Dì Trương vẫn chưa quen khí hậu miền Bắc, cứ đến mùa đông là ốm.",
+            "en": "Auntie Zhang still isn't used to the northern climate; she gets ill as soon as winter comes.",
+            "sample": true
+          },
+          {
+            "q": "马经理上午去开会了，____。",
+            "hint": "一……就……",
+            "a": "马经理上午去开会了，【一回来我就让他给您打电话】。",
+            "vi": "Sáng nay giám đốc Mã đi họp rồi, ông ấy vừa về tôi sẽ bảo ông ấy gọi điện cho anh ngay.",
+            "en": "Manager Ma has gone to a meeting this morning. As soon as he's back I'll ask him to call you.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "究竟",
+      "uses": [
+        {
+          "vi": "Phó từ 究竟 được dùng trong câu hỏi hay câu có đại từ nghi vấn để chỉ sự truy vấn và làm mạnh thêm ngữ khí nghi vấn (rốt cuộc, cuối cùng). 究竟 thường được sử dụng trong văn viết. Nếu chủ ngữ là đại từ nghi vấn thì 究竟 chỉ có thể được đặt trước chủ ngữ.",
+          "en": "The adverb 究竟 ('after all, exactly, on earth') is used in questions or sentences with a question word to press for an answer and strengthen the question. It is mostly written. If the subject is a question word, 究竟 must go before it.",
+          "ex": [
+            {
+              "zh": "【究竟】哪个季节去丽江旅游比较好呢？",
+              "vi": "Rốt cuộc mùa nào đi du lịch Lệ Giang thì tốt hơn nhỉ?",
+              "en": "So which season is actually best for a trip to Lijiang?"
+            },
+            {
+              "zh": "随着科学技术的发展，很多问题已经得到解决。但有些问题我们仍然无法回答，例如，生命【究竟】从哪里来？",
+              "vi": "Cùng với sự phát triển của khoa học kỹ thuật, nhiều vấn đề đã được giải quyết. Nhưng có những câu hỏi chúng ta vẫn chưa thể trả lời, ví dụ như rốt cuộc sự sống từ đâu mà có?",
+              "en": "With the development of science and technology, many problems have been solved. But there are still questions we can't answer, for example, where exactly does life come from?"
+            },
+            {
+              "zh": "学习时，不仅要知道答案是什么，还要弄清楚答案【究竟】是怎么得{dé}来的，只有这样，才能把问题真正弄懂。",
+              "vi": "Khi học, không chỉ cần biết đáp án là gì mà còn phải làm rõ rốt cuộc đáp án đó có được bằng cách nào, chỉ như vậy mới thật sự hiểu được vấn đề.",
+              "en": "When studying, you need to know not only what the answer is but also exactly how it was reached. Only then do you really understand the problem."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "究竟—到底",
+        "uses": [
+          {
+            "vi": "Giống nhau: 究竟 và 到底 đều là phó từ, được dùng trong câu hỏi hoặc câu có đại từ nghi vấn để chỉ sự truy vấn và làm mạnh thêm ngữ khí nghi vấn. Nếu chủ ngữ là đại từ nghi vấn thì 究竟 và 到底 chỉ có thể được đặt trước chủ ngữ.",
+            "en": "Similarity: 究竟 and 到底 are both adverbs used in questions or sentences with question words to press for an answer. If the subject is a question word, both must go before it.",
+            "ex": [
+              {
+                "zh": "无论做什么事情，只有试过才知道【究竟】/【到底】能不能成功。",
+                "vi": "Dù làm việc gì, chỉ khi thử rồi mới biết rốt cuộc có thành công được hay không.",
+                "en": "Whatever you do, only by trying will you know whether you can actually succeed."
+              },
+              {
+                "zh": "人的一生中，【究竟】什么是最重要的？",
+                "vi": "Trong cuộc đời một con người, rốt cuộc điều gì là quan trọng nhất?",
+                "en": "What, after all, is the most important thing in a person's life?"
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau: 到底 có thể được dùng làm động từ với nghĩa là liên tục đến chỗ kết thúc hay đến điểm cuối. 究竟 không dùng được như vậy.",
+            "en": "Difference: 到底 can be a verb meaning 'to the very end'; 究竟 cannot.",
+            "ex": [
+              {
+                "zh": "你耐心点儿！这个电影得{děi}看【到底】，才能知道那件事情的原因。",
+                "vi": "Bạn kiên nhẫn chút đi! Bộ phim này phải xem đến cuối mới biết nguyên nhân của chuyện đó.",
+                "en": "Be patient! You have to watch this film to the end to find out why that happened."
+              },
+              {
+                "zh": "我们已经做了这么多努力了，一定要把这个计划坚持【到底】，现在放弃太可惜了。",
+                "vi": "Chúng ta đã nỗ lực nhiều như vậy rồi, nhất định phải kiên trì kế hoạch này đến cùng, bây giờ bỏ cuộc thì tiếc quá.",
+                "en": "We've already put in so much effort. We must see this plan through to the end; giving up now would be a real shame."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "这场比赛太精彩了，你猜____谁能先进球？",
+              "key": "究竟 ✓ · 到底 ✓",
+              "a": "这场比赛太精彩了，你猜【究竟】/【到底】谁能先进球？",
+              "vi": "Trận đấu này hay quá, bạn đoán xem rốt cuộc ai sẽ ghi bàn trước?",
+              "en": "This match is so exciting. Who do you think will actually score first?"
+            },
+            {
+              "q": "她决心一定要将减肥进行____。",
+              "key": "究竟 ✗ · 到底 ✓ (làm động từ)",
+              "a": "她决心一定要将减肥进行【到底】。",
+              "vi": "Cô ấy quyết tâm nhất định phải giảm cân đến cùng.",
+              "en": "She's determined to see her diet through to the end."
+            },
+            {
+              "q": "这个题我做了三遍，可每次算出来的答案都不一样，真奇怪，____是哪儿出问题了？",
+              "key": "究竟 ✓ · 到底 ✓",
+              "a": "这个题我做了三遍，可每次算出来的答案都不一样，真奇怪，【究竟】/【到底】是哪儿出问题了？",
+              "vi": "Bài này tôi làm ba lần mà mỗi lần ra đáp án khác nhau, lạ thật, rốt cuộc là sai ở đâu?",
+              "en": "I've done this question three times and got a different answer each time. Strange. Where on earth is the mistake?"
+            },
+            {
+              "q": "无论做什么事情都不会很容易就成功，只有坚持____，才会有希望。",
+              "key": "究竟 ✗ · 到底 ✓ (làm động từ)",
+              "a": "无论做什么事情都不会很容易就成功，只有坚持【到底】，才会有希望。",
+              "vi": "Dù làm việc gì cũng không dễ dàng thành công, chỉ có kiên trì đến cùng mới có hy vọng.",
+              "en": "Nothing succeeds easily; only by persevering to the end is there hope."
+            },
+            {
+              "q": "生气多是由误会引起的，因此当你觉得自己要生气的时候，最好先弄清楚____是怎么回事。",
+              "key": "究竟 ✓ · 到底 ✓",
+              "a": "生气多是由误会引起的，因此当你觉得自己要生气的时候，最好先弄清楚【究竟】/【到底】是怎么回事。",
+              "vi": "Tức giận phần lớn là do hiểu lầm gây ra, vì vậy khi thấy mình sắp nổi giận, tốt nhất nên làm rõ rốt cuộc là chuyện gì trước.",
+              "en": "Anger is mostly caused by misunderstandings, so when you feel yourself getting angry, it's best to first find out what's really going on."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，不同的人可能有不同的理解。",
+            "hint": "究竟",
+            "a": "【幸福究竟是什么】，不同的人可能有不同的理解。",
+            "vi": "Hạnh phúc rốt cuộc là gì, những người khác nhau có thể có cách hiểu khác nhau.",
+            "en": "What exactly happiness is, different people may understand differently.",
+            "sample": true
+          },
+          {
+            "q": "我想试试网站上说的这个方法，____。",
+            "hint": "究竟",
+            "a": "我想试试网站上说的这个方法，【看看它究竟有没有效果】。",
+            "vi": "Tôi muốn thử cách mà trang web nói, xem rốt cuộc nó có hiệu quả không.",
+            "en": "I want to try the method the website describes and see whether it actually works.",
+            "sample": true
+          },
+          {
+            "q": "最近每天来店里的顾客不超过20个，____。",
+            "hint": "究竟",
+            "a": "最近每天来店里的顾客不超过20个，【究竟是什么原因呢】。",
+            "vi": "Dạo này mỗi ngày khách đến cửa hàng không quá 20 người, rốt cuộc là vì nguyên nhân gì?",
+            "en": "Lately no more than 20 customers a day have come into the shop. What on earth is the reason?",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "起来",
+      "uses": [
+        {
+          "vi": "Động từ 起来 có thể được dùng sau động từ khác để làm bổ ngữ chỉ phương hướng, diễn tả hướng của hành động là từ dưới lên trên. 起来 cũng có thể có nghĩa mở rộng là diễn tả hành động bắt đầu và tiếp diễn, hoặc cho biết người nói đánh giá người/sự vật từ phương diện nào đó.",
+          "en": "起来 can follow another verb as a directional complement meaning 'up'. In extended uses it can mean an action starts and continues, or show the speaker judging someone or something from a certain angle ('… seems / sounds / looks …').",
+          "ex": [
+            {
+              "zh": "你先把桌子上的东西拿【起来】，我擦完之后你再放下来。",
+              "vi": "Bạn nhấc đồ trên bàn lên trước đi, tôi lau xong rồi bạn đặt xuống lại.",
+              "en": "Pick up the things on the table first, and once I've wiped it you can put them back down."
+            },
+            {
+              "zh": "邻居小王最近一定遇到了很多开心的事，你听，他又唱【起来】了。",
+              "vi": "Anh Vương hàng xóm dạo này chắc gặp nhiều chuyện vui lắm, bạn nghe xem, anh ấy lại bắt đầu hát rồi.",
+              "en": "Our neighbour Xiao Wang must have had lots of good things happen lately. Listen, he's started singing again."
+            },
+            {
+              "zh": "比如你跟上海人对话时，会发现上海话听【起来】就像外语一样。",
+              "vi": "Ví dụ khi nói chuyện với người Thượng Hải, bạn sẽ phát hiện tiếng Thượng Hải nghe cứ như ngoại ngữ vậy.",
+              "en": "For example, when you talk with people from Shanghai, you'll find Shanghainese sounds just like a foreign language."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "我本来以为做生意很简单，____。",
+            "hint": "起来",
+            "a": "我本来以为做生意很简单，【可是做起来才发现并不容易】。",
+            "vi": "Lúc đầu tôi tưởng làm ăn rất đơn giản, nhưng bắt tay vào làm mới thấy không hề dễ.",
+            "en": "I thought doing business would be simple, but once I started I found it wasn't easy at all.",
+            "sample": true
+          },
+          {
+            "q": "公园里每天都有很多老人唱京剧，____。",
+            "hint": "起来",
+            "a": "公园里每天都有很多老人唱京剧，【听起来很有味道】。",
+            "vi": "Trong công viên ngày nào cũng có nhiều cụ già hát Kinh kịch, nghe rất có hồn.",
+            "en": "Every day lots of old people sing Peking opera in the park, and it sounds lovely.",
+            "sample": true
+          },
+          {
+            "q": "他的汉语语法虽然有点儿小错误，____。",
+            "hint": "起来",
+            "a": "他的汉语语法虽然有点儿小错误，【但是说起来很流利】。",
+            "vi": "Ngữ pháp tiếng Trung của anh ấy tuy có vài lỗi nhỏ, nhưng nói rất lưu loát.",
+            "en": "Although his Chinese grammar has a few small mistakes, he speaks very fluently.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "动词+起",
+      "py": "dòngcí + qǐ",
+      "uses": [
+        {
+          "vi": "Cấu trúc “Động từ + 起” chỉ hành động liên quan đến sự vật nào đó (nhắc đến, kể về); thường thì động từ này nằm trong số ít động từ có tân ngữ đi kèm như 说, 谈, 讲, 问, 提, 聊, 回忆... Theo sau cấu trúc trên thường là danh từ.",
+          "en": "The pattern verb + 起 means the action concerns a certain topic: 'to talk about, bring up'. The verb is usually one of a few transitive verbs such as 说, 谈, 讲, 问, 提, 聊, 回忆, and the pattern is usually followed by a noun.",
+          "ex": [
+            {
+              "zh": "【说起】吃的东西，给我印象最深的是湖南菜。",
+              "vi": "Nói đến đồ ăn thì món để lại ấn tượng sâu sắc nhất với tôi là món Hồ Nam.",
+              "en": "Speaking of food, the one that made the deepest impression on me was Hunan cuisine."
+            },
+            {
+              "zh": "【聊起】那场网球比赛，他们俩就兴奋得停不下来了。",
+              "vi": "Vừa nhắc đến trận quần vợt đó là hai người họ hào hứng nói mãi không dừng được.",
+              "en": "Once they started talking about that tennis match, the two of them got so excited they couldn't stop."
+            },
+            {
+              "zh": "要是有人【问起】那件事，你就告诉他你还没接到通知，也不清楚怎么回事。",
+              "vi": "Nếu có ai hỏi đến chuyện đó, bạn cứ nói là bạn chưa nhận được thông báo, cũng không rõ chuyện gì.",
+              "en": "If anyone asks about that, just tell them you haven't been notified yet and don't know what's going on."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，大家总是有说不完的话。",
+            "hint": "Động từ + 起",
+            "a": "【一聊起大学时的生活】，大家总是有说不完的话。",
+            "vi": "Cứ nói đến cuộc sống thời đại học là mọi người nói mãi không hết chuyện.",
+            "en": "Whenever we start talking about university days, there's always endless to say.",
+            "sample": true
+          },
+          {
+            "q": "看着{zhe}这些可爱的孩子，____。",
+            "hint": "Động từ + 起",
+            "a": "看着{zhe}这些可爱的孩子，【我想起了自己的童年】。",
+            "vi": "Nhìn những đứa trẻ đáng yêu này, tôi nhớ lại tuổi thơ của mình.",
+            "en": "Watching these lovely children, I remember my own childhood.",
+            "sample": true
+          },
+          {
+            "q": "尽管已经过去十多年了，____。",
+            "hint": "Động từ + 起",
+            "a": "尽管已经过去十多年了，【每次谈起那件事，他还是很激动】。",
+            "vi": "Dù đã qua hơn mười năm, mỗi lần nói đến chuyện đó anh ấy vẫn rất xúc động.",
+            "en": "Although more than ten years have passed, every time that matter comes up he still gets very emotional.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "小张的语气：\n你别担心，航班本来是十点，……",
+          "label": "课文1",
+          "a": "你别担心，航班本来是十点，后来机场网站上通知推迟了一个小时，所以九点半以前到就应该没问题。过了长江大桥往右一拐就有一个加油站，加完油往西走五百米就能上高速公路，走高速公路大约半个小时就到了。一会儿我自己进去换登机牌，你就不用送我了，等我到了首都机场再给你发短信。",
+          "vi": "Bạn đừng lo, chuyến bay vốn là mười giờ, sau đó trang web sân bay thông báo hoãn một tiếng, nên trước chín rưỡi đến là không sao. Qua cầu Trường Giang rẽ phải là có trạm xăng, đổ xăng xong đi về phía tây năm trăm mét là lên cao tốc, đi cao tốc khoảng nửa tiếng là đến. Lát nữa tôi tự vào đổi thẻ lên máy bay, bạn không cần tiễn, đến sân bay Thủ Đô tôi sẽ nhắn tin cho bạn.",
+          "en": "Don't worry. The flight was originally at ten, but the airport website says it's delayed an hour, so arriving before 9:30 is fine. There's a petrol station just after the Yangtze River Bridge, then it's 500 metres west to the motorway and about half an hour from there. I'll get my boarding pass myself; you needn't see me off. I'll text you when I reach Capital Airport.",
+          "sample": true
+        },
+        {
+          "q": "丈夫的语气：\n你看咱们的女儿多辛苦啊，平时有那么多课，……",
+          "label": "课文2",
+          "a": "你看咱们的女儿多辛苦啊，平时有那么多课，总是说想去旅行，但是没时间，怪可怜的。这次放寒假{jià}我们打算带她去广西，那里即使是冬天也非常暖和，还能吃到许多新鲜的水果。中午我们要去对面的饭店吃烤鸭，祝贺她考试成绩都合格，那时候再告诉她这个好消息，她肯定特别开心。",
+          "vi": "Em xem con gái mình vất vả biết bao, bình thường nhiều tiết học như vậy, lúc nào cũng nói muốn đi du lịch mà không có thời gian, tội nghiệp lắm. Kỳ nghỉ đông này mình định đưa con đi Quảng Tây, ở đó dù mùa đông cũng rất ấm, còn được ăn nhiều hoa quả tươi. Trưa nay mình đi nhà hàng đối diện ăn vịt quay chúc mừng con thi đạt, lúc đó báo tin vui này, con chắc chắn sẽ rất vui.",
+          "en": "Look how hard our daughter works: she has so many classes and always says she wants to travel but has no time. Poor thing. This winter holiday we're taking her to Guangxi, which is warm even in winter, with lots of fresh fruit. At lunch we're going to the restaurant opposite for roast duck to celebrate her passing her exams, and we'll tell her the good news then. She'll be thrilled.",
+          "sample": true
+        },
+        {
+          "q": "安娜的语气：\n这是我这次去丽江旅行时的照片，……",
+          "label": "课文3",
+          "a": "这是我这次去丽江旅行时的照片。小城四季的风景都很美，而且环境保护得也很好，每年都吸引着{zhe}成千上万的游客。照片上和我干杯的是我们的导游，她一路上给我们讲了很多有趣的笑话，还帮我找到了丢了的钥匙。那儿最美的季节是春天和秋天，不过人比较多；每年12月到第二年3月去的话，交通和吃、住都很便宜。",
+          "vi": "Đây là ảnh tôi chụp lần đi du lịch Lệ Giang này. Phong cảnh bốn mùa ở thị trấn nhỏ đều đẹp, môi trường được bảo vệ tốt, năm nào cũng thu hút hàng vạn du khách. Người cạn ly với tôi trong ảnh là hướng dẫn viên, dọc đường cô ấy kể nhiều chuyện cười thú vị, còn giúp tôi tìm lại chìa khóa bị mất. Mùa đẹp nhất ở đó là xuân và thu nhưng khá đông; đi từ tháng 12 đến tháng 3 năm sau thì đi lại, ăn ở đều rẻ.",
+          "en": "These are photos from my trip to Lijiang. The little town is beautiful in every season and well protected, attracting tens of thousands of visitors every year. The person toasting with me is our guide; she told us lots of jokes and helped me find a key I'd lost. Spring and autumn are the most beautiful seasons but crowded; from December to March, transport, food and lodging are cheap.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "合格",
+        "航班",
+        "对话",
+        "可怜",
+        "旅行"
+      ],
+      "items": [
+        {
+          "q": "乘客，您好！我们很抱歉地{de}通知您，由于天气原因，您乘坐的CA1864____推迟起飞。",
+          "key": "航班",
+          "a": "乘客，您好！我们很抱歉地{de}通知您，由于天气原因，您乘坐的CA1864【航班】推迟起飞。",
+          "vi": "Kính chào quý khách! Chúng tôi rất tiếc phải thông báo, do thời tiết, chuyến bay CA1864 quý khách đi sẽ hoãn cất cánh.",
+          "en": "Dear passengers, we regret to inform you that due to the weather, flight CA1864 has been delayed."
+        },
+        {
+          "q": "我走在回家的路上，突然发现商店门口有一只____的小狗，我心里一软，就把它抱回了家。",
+          "key": "可怜",
+          "a": "我走在回家的路上，突然发现商店门口有一只【可怜】的小狗，我心里一软，就把它抱回了家。",
+          "vi": "Trên đường về nhà, tôi đột nhiên thấy trước cửa hàng có một chú chó con tội nghiệp, lòng tôi mềm lại, bèn bế nó về nhà.",
+          "en": "On my way home, I suddenly saw a poor little dog outside a shop. My heart softened and I carried it home."
+        },
+        {
+          "q": "欢迎大家来到美丽的海南，____中有任何事您都可以找我商量，希望我的服务能让您满意。",
+          "key": "旅行",
+          "a": "欢迎大家来到美丽的海南，【旅行】中有任何事您都可以找我商量，希望我的服务能让您满意。",
+          "vi": "Chào mừng mọi người đến với Hải Nam xinh đẹp, trong chuyến du lịch có bất cứ việc gì quý khách đều có thể tìm tôi bàn bạc, mong dịch vụ của tôi khiến quý khách hài lòng.",
+          "en": "Welcome to beautiful Hainan! If anything comes up during your trip, come and talk to me. I hope you'll be satisfied with my service."
+        },
+        {
+          "q": "“活到老，学到老”。在现代社会中，我们必须坚持学习。努力获得新的知识，才能适应社会的发展速度，做一个____的现代人。",
+          "key": "合格",
+          "a": "“活到老，学到老”。在现代社会中，我们必须坚持学习。努力获得新的知识，才能适应社会的发展速度，做一个【合格】的现代人。",
+          "vi": "“Sống đến già, học đến già”. Trong xã hội hiện đại, chúng ta phải kiên trì học tập. Cố gắng tiếp thu kiến thức mới mới có thể thích ứng với tốc độ phát triển của xã hội, làm một người hiện đại đạt chuẩn.",
+          "en": "“Live and learn.” In modern society we must keep learning. Only by acquiring new knowledge can we keep pace with society and be fit for the modern world."
+        },
+        {
+          "q": "上午来应聘的那个小伙子是学电子技术的，成绩很优秀，通过面试时和他的____，感觉他的性格也不错，我觉得他挺适合这份工作的。",
+          "key": "对话",
+          "a": "上午来应聘的那个小伙子是学电子技术的，成绩很优秀，通过面试时和他的【对话】，感觉他的性格也不错，我觉得他挺适合这份工作的。",
+          "vi": "Chàng trai đến ứng tuyển sáng nay học kỹ thuật điện tử, thành tích rất xuất sắc, qua cuộc trò chuyện lúc phỏng vấn thấy tính cách cậu ấy cũng tốt, tôi thấy cậu ấy khá phù hợp với công việc này.",
+          "en": "The young man who came for the interview this morning studied electronics and has excellent grades. From our conversation in the interview, he seems to have a nice personality too. I think he's well suited to the job."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "祝贺",
+        "笑话",
+        "打扮",
+        "普通话",
+        "推迟"
+      ],
+      "items": [
+        {
+          "q": "A：你的____水平考试考得怎么样？\nB：我这次没考，因为我错过了报名时间，只能等下次了。",
+          "key": "普通话",
+          "a": "A：你的【普通话】水平考试考得怎么样？\nB：我这次没考，因为我错过了报名时间，只能等下次了。",
+          "vi": "A: Kỳ thi trình độ tiếng phổ thông của bạn thế nào?\nB: Lần này tôi không thi, vì tôi lỡ thời gian đăng ký, đành đợi lần sau.",
+          "en": "A: How did your Mandarin proficiency test go?\nB: I didn't take it this time. I missed the registration deadline, so I'll have to wait till next time."
+        },
+        {
+          "q": "A：今晚我穿这条裙子怎么样？今年最流行的。\nB：很漂亮，不过我觉得这种____参加正式的舞会可能还是不太合适。",
+          "key": "打扮",
+          "a": "A：今晚我穿这条裙子怎么样？今年最流行的。\nB：很漂亮，不过我觉得这种【打扮】参加正式的舞会可能还是不太合适。",
+          "vi": "A: Tối nay tôi mặc chiếc váy này thế nào? Mốt nhất năm nay đấy.\nB: Rất đẹp, nhưng tôi thấy cách ăn mặc này đi dạ hội trang trọng có lẽ không hợp lắm.",
+          "en": "A: How do I look in this dress tonight? It's this year's most fashionable.\nB: Very pretty, but I don't think this look is quite right for a formal dance."
+        },
+        {
+          "q": "A：小高，听说你出国的时间____了？\nB：是的，我的签证还没有办好，大概得{děi}10月底才能走。",
+          "key": "推迟",
+          "a": "A：小高，听说你出国的时间【推迟】了？\nB：是的，我的签证还没有办好，大概得{děi}10月底才能走。",
+          "vi": "A: Tiểu Cao, nghe nói thời gian bạn ra nước ngoài bị hoãn rồi à?\nB: Đúng vậy, thị thực của tôi vẫn chưa làm xong, chắc phải cuối tháng 10 mới đi được.",
+          "en": "A: Xiao Gao, I hear your departure abroad has been postponed?\nB: Yes, my visa isn't sorted yet. I probably won't leave until the end of October."
+        },
+        {
+          "q": "A：这次活动非常成功，我们顺利完成了公司交给的任务。\nB：辛苦了，____你们！来，干一杯！",
+          "key": "祝贺",
+          "a": "A：这次活动非常成功，我们顺利完成了公司交给的任务。\nB：辛苦了，【祝贺】你们！来，干一杯！",
+          "vi": "A: Hoạt động lần này rất thành công, chúng tôi đã hoàn thành suôn sẻ nhiệm vụ công ty giao.\nB: Vất vả rồi, chúc mừng các bạn! Nào, cạn ly!",
+          "en": "A: The event was a great success. We completed the task the company gave us smoothly.\nB: Well done, congratulations! Come on, cheers!"
+        },
+        {
+          "q": "A：你这一肚子的____，都是从哪儿听来的？\nB：有个网站上有很多，看到有趣的我就记下来。我把网址发给你，你也去看看吧。",
+          "key": "笑话",
+          "a": "A：你这一肚子的【笑话】，都是从哪儿听来的？\nB：有个网站上有很多，看到有趣的我就记下来。我把网址发给你，你也去看看吧。",
+          "vi": "A: Cả bụng chuyện cười của bạn đều nghe ở đâu thế?\nB: Có một trang web có rất nhiều, thấy chuyện nào thú vị tôi ghi lại. Tôi gửi địa chỉ web cho bạn, bạn cũng vào xem đi.",
+          "en": "A: Where did you hear all these jokes?\nB: There's a website with loads. When I see a funny one I write it down. I'll send you the link so you can have a look too."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 格",
+    "en": "Words sharing a character: 格",
+    "words": [
+      {
+        "zh": "性格",
+        "py": "xìnggé",
+        "vi": "tính cách",
+        "en": "personality"
+      },
+      {
+        "zh": "价格",
+        "py": "jiàgé",
+        "vi": "giá cả",
+        "en": "price"
+      },
+      {
+        "zh": "表格",
+        "py": "biǎogé",
+        "vi": "mẫu đơn",
+        "en": "form"
+      },
+      {
+        "zh": "合格",
+        "py": "hégé",
+        "vi": "đạt tiêu chuẩn",
+        "en": "qualified"
+      },
+      {
+        "zh": "严格",
+        "py": "yángé",
+        "vi": "nghiêm khắc",
+        "en": "strict"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "我的【性格】很像我父亲，我的理想就是做一个像父亲那样的医生。",
+        "vi": "Tính cách của tôi rất giống bố, lý tưởng của tôi là trở thành một bác sĩ như bố.",
+        "en": "My personality is very like my father's, and my dream is to be a doctor like him."
+      },
+      {
+        "zh": "我想租一个窗户向南、阳光好的房间，附近最好有超市和医院。当然，【价格】也要合适。",
+        "vi": "Tôi muốn thuê một căn phòng cửa sổ hướng nam, nhiều nắng, gần đó tốt nhất có siêu thị và bệnh viện. Đương nhiên giá cả cũng phải hợp lý.",
+        "en": "I want to rent a sunny room with a south-facing window, ideally near a supermarket and a hospital. Of course, the price must be reasonable too."
+      },
+      {
+        "zh": "如果您想办信用卡的话，得{děi}先填一下这张【表格】。",
+        "vi": "Nếu anh muốn làm thẻ tín dụng thì phải điền mẫu đơn này trước.",
+        "en": "If you'd like to apply for a credit card, you'll need to fill in this form first."
+      },
+      {
+        "zh": "一个【合格】的公司管理者，一定要允许其他人有反对意见。",
+        "vi": "Một người quản lý công ty đạt chuẩn nhất định phải cho phép người khác có ý kiến phản đối.",
+        "en": "A competent company manager must allow other people to disagree."
+      },
+      {
+        "zh": "【严格】地{de}说，地球应该叫“水球”，这是因为从地图上看，大约71%的地方都是蓝色的海洋。",
+        "vi": "Nói một cách chính xác, trái đất nên gọi là “quả cầu nước”, vì nhìn trên bản đồ khoảng 71% diện tích là đại dương xanh.",
+        "en": "Strictly speaking, the Earth should be called “Water”, because on a map about 71% of it is blue ocean."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "严格",
+        "表格",
+        "合格",
+        "性格",
+        "价格"
+      ],
+      "items": [
+        {
+          "q": "抱歉，这张____您填得不对，请稍等一下，我再拿一张新的给您，请您重新填写一下。",
+          "key": "表格",
+          "a": "抱歉，这张【表格】您填得不对，请稍等一下，我再拿一张新的给您，请您重新填写一下。",
+          "vi": "Xin lỗi, mẫu đơn này anh điền không đúng, xin đợi một chút, tôi lấy tờ mới cho anh, phiền anh điền lại.",
+          "en": "Sorry, you've filled in this form incorrectly. Please wait a moment and I'll get you a new one to fill in again."
+        },
+        {
+          "q": "只要他这次考试的成绩都____，就可以进入高级班学习。",
+          "key": "合格",
+          "a": "只要他这次考试的成绩都【合格】，就可以进入高级班学习。",
+          "vi": "Chỉ cần lần thi này điểm của cậu ấy đều đạt là có thể vào học lớp cao cấp.",
+          "en": "As long as he passes all his exams this time, he can move up to the advanced class."
+        },
+        {
+          "q": "这家酒店除了房间有点儿小以外，其他方面都还不错，房间里很干净，可以免费上网，____也比较低，对学生来说非常合适。",
+          "key": "价格",
+          "a": "这家酒店除了房间有点儿小以外，其他方面都还不错，房间里很干净，可以免费上网，【价格】也比较低，对学生来说非常合适。",
+          "vi": "Khách sạn này ngoài phòng hơi nhỏ ra thì các mặt khác đều khá tốt, phòng rất sạch, được lên mạng miễn phí, giá cũng khá thấp, rất hợp với sinh viên.",
+          "en": "Apart from the rooms being a bit small, this hotel is quite good: the rooms are clean, there's free internet and the price is low. It's ideal for students."
+        },
+        {
+          "q": "他平时就对自己要求很____，尤其是赛前那个星期，他每天都会把全部动作练习好几遍，希望在比赛中做到最好。",
+          "key": "严格",
+          "a": "他平时就对自己要求很【严格】，尤其是赛前那个星期，他每天都会把全部动作练习好几遍，希望在比赛中做到最好。",
+          "vi": "Bình thường anh ấy đã rất nghiêm khắc với bản thân, nhất là tuần trước khi thi, ngày nào cũng luyện tất cả động tác mấy lần, mong đạt kết quả tốt nhất trong cuộc thi.",
+          "en": "He's always strict with himself, especially the week before a competition, when he practises every move several times a day, hoping to do his best."
+        },
+        {
+          "q": "他们两个是在国外旅游的时候认识的，他们俩的____都差不多，聊天儿也挺聊得来，所以很快就成了好朋友。",
+          "key": "性格",
+          "a": "他们两个是在国外旅游的时候认识的，他们俩的【性格】都差不多，聊天儿也挺聊得来，所以很快就成了好朋友。",
+          "vi": "Hai người họ quen nhau khi đi du lịch nước ngoài, tính cách của họ khá giống nhau, nói chuyện cũng rất hợp, nên nhanh chóng trở thành bạn thân.",
+          "en": "The two of them met while travelling abroad. They have similar personalities and get on well, so they soon became good friends."
+        }
+      ]
+    }
+  }
+}

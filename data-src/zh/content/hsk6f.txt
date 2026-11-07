@@ -1,0 +1,161 @@
+# 词|pinyin|hán việt|nghĩa VI|meaning EN|例句|câu dịch VI|sentence EN|tag
+话筒|huàtǒng|thoại đồng|micro; ống nghe|microphone; receiver|主持人把话筒递给了下一位嘉宾。|Người dẫn chương trình chuyển micro cho vị khách mời tiếp theo.|The host passed the microphone to the next guest.|把字句
+欢乐|huānlè|hoan lạc|vui vẻ, hân hoan|joyful|节日的广场上充满了欢乐的气氛。|Quảng trường ngày lễ tràn ngập bầu không khí vui vẻ.|The square is filled with a festive, joyful atmosphere.|介词短语
+环节|huánjié|hoàn tiết|khâu, mắt xích|link, stage|这是整个计划中最重要的一个环节。|Đây là khâu quan trọng nhất trong toàn bộ kế hoạch.|This is the most important link in the entire plan.|是字句
+缓和|huǎnhé|hoãn hòa|dịu đi, làm dịu|to ease|经过谈判，两国的关系有所缓和。|Qua đàm phán, quan hệ hai nước đã dịu đi phần nào.|After negotiations, relations between the two countries eased somewhat.|介词短语
+患者|huànzhě|hoạn giả|người bệnh|patient|医生每天要看上百位患者。|Bác sĩ mỗi ngày phải khám hơn trăm bệnh nhân.|The doctor sees over a hundred patients a day.|能愿动词
+荒凉|huāngliáng|hoang lương|hoang vắng|desolate|这里过去是一片荒凉的沙漠。|Nơi đây trước kia là một vùng sa mạc hoang vắng.|This place used to be a desolate desert.|是字句
+荒谬|huāngmiù|hoang mậu|hoang đường, phi lý|absurd|他的说法太荒谬了，没有人相信。|Cách nói của anh ta quá hoang đường, không ai tin.|His claim is so absurd that nobody believes it.|因果
+荒唐|huāngtáng|hoang đường|hoang đường, vô lý|preposterous|你怎么能做出这么荒唐的事？|Sao bạn có thể làm ra chuyện hoang đường như vậy?|How could you do something so ridiculous?|反问句
+皇帝|huángdì|hoàng đế|hoàng đế|emperor|秦始皇是中国历史上第一个皇帝。|Tần Thủy Hoàng là vị hoàng đế đầu tiên trong lịch sử Trung Quốc.|Qin Shi Huang was the first emperor in Chinese history.|是字句
+皇后|huánghòu|hoàng hậu|hoàng hậu|empress|皇后在宫里住了一辈子。|Hoàng hậu sống cả đời trong cung.|The empress lived her whole life in the palace.|介词短语
+黄昏|huánghūn|hoàng hôn|hoàng hôn|dusk|黄昏的时候，我们在海边散步。|Lúc hoàng hôn, chúng tôi đi dạo bên bờ biển.|At dusk, we took a walk by the sea.|时间状语
+恍然大悟|huǎngrán dà wù|hoảng nhiên đại ngộ|bỗng nhiên hiểu ra|to suddenly realize|听了老师的解释，我才恍然大悟。|Nghe thầy giải thích, tôi mới bừng tỉnh hiểu ra.|Only after the teacher explained did it suddenly dawn on me.|承接
+晃|huàng|hoảng|lắc, đung đưa|to sway|风很大，树枝晃来晃去。|Gió rất to, cành cây đung đưa qua lại.|The wind is strong, and the branches are swaying back and forth.|趋向补语
+挥霍|huīhuò|huy hoắc|phung phí|to squander|他把父母留下的钱都挥霍光了。|Anh ta đã phung phí hết số tiền bố mẹ để lại.|He squandered all the money his parents left him.|把字句
+辉煌|huīhuáng|huy hoàng|huy hoàng, rực rỡ|glorious|这个城市有着辉煌的历史。|Thành phố này có một lịch sử huy hoàng.|This city has a glorious history.|着
+回报|huíbào|hồi báo|đền đáp, báo đáp|to repay; return|付出总会有回报的。|Cho đi rồi sẽ có đền đáp.|Effort always pays off.|有字句
+回避|huíbì|hồi tị|né tránh|to avoid|他总是回避这个问题。|Anh ấy luôn né tránh vấn đề này.|He always avoids this question.|陈述句
+回顾|huígù|hồi cố|nhìn lại, hồi tưởng|to look back|回顾过去的一年，我们取得了很多成绩。|Nhìn lại một năm qua, chúng ta đã đạt được nhiều thành tích.|Looking back on the past year, we've achieved a great deal.|了
+回收|huíshōu|hồi thu|thu hồi, tái chế|to recycle|这些塑料瓶可以回收利用。|Những chai nhựa này có thể thu hồi tái sử dụng.|These plastic bottles can be recycled.|能愿动词
+悔恨|huǐhèn|hối hận|hối hận, ân hận|remorse|他悔恨自己当初没有听父母的话。|Anh ấy ân hận vì hồi đó không nghe lời bố mẹ.|He regrets not listening to his parents back then.|陈述句
+毁灭|huǐmiè|hủy diệt|hủy diệt|to destroy|战争毁灭了这座美丽的城市。|Chiến tranh đã hủy diệt thành phố xinh đẹp này.|War destroyed this beautiful city.|了
+汇报|huìbào|hội báo|báo cáo (lên cấp trên)|to report|我要向经理汇报工作情况。|Tôi phải báo cáo tình hình công việc với giám đốc.|I need to report on my work to the manager.|介词短语
+会晤|huìwù|hội ngộ|hội đàm, gặp mặt (chính thức)|to meet formally|两国领导人在北京会晤。|Lãnh đạo hai nước hội đàm tại Bắc Kinh.|The two countries' leaders met in Beijing.|介词短语
+贿赂|huìlù|hối lộ|hối lộ|to bribe|这位官员因为接受贿赂被抓了。|Vị quan chức này bị bắt vì nhận hối lộ.|This official was arrested for taking bribes.|被字句
+昏迷|hūnmí|hôn mê|hôn mê|to be in a coma|他出了车祸以后一直昏迷不醒。|Sau tai nạn xe anh ấy vẫn hôn mê bất tỉnh.|He's been in a coma since the car accident.|时间状语
+荤|hūn|huân|món mặn (thịt cá)|meat dish|他不吃荤，只吃素。|Anh ấy không ăn mặn, chỉ ăn chay.|He doesn't eat meat—only vegetarian food.|陈述句
+浑身|húnshēn|hồn thân|toàn thân, khắp người|all over|淋了一场雨，他浑身都湿透了。|Dầm một trận mưa, anh ấy ướt sũng cả người.|Caught in the rain, he was soaked from head to toe.|结果补语
+混合|hùnhé|hỗn hợp|trộn lẫn, hỗn hợp|to mix|把面粉和水混合在一起。|Trộn bột mì và nước lại với nhau.|Mix the flour and water together.|把字句
+混乱|hùnluàn|hỗn loạn|hỗn loạn|chaotic|地震发生后，城市里一片混乱。|Sau khi động đất xảy ra, trong thành phố một cảnh hỗn loạn.|After the earthquake, the city was in chaos.|时间状语
+混淆|hùnxiáo|hỗn hào|lẫn lộn, nhầm lẫn|to confuse|这两个词的意思很容易混淆。|Nghĩa của hai từ này rất dễ nhầm lẫn.|These two words are easily confused.|形容词谓语
+混浊|hùnzhuó|hỗn trọc|đục|turbid|下过雨后，河水变得很混浊。|Sau mưa, nước sông trở nên rất đục.|After the rain, the river water turned muddy.|结果补语
+活该|huógāi|hoạt cai|đáng đời|serves sb right|谁让你不听话，活该！|Ai bảo bạn không nghe lời, đáng đời!|That's what you get for not listening!|感叹句
+活力|huólì|hoạt lực|sức sống|vitality|年轻人总是充满活力。|Người trẻ luôn tràn đầy sức sống.|Young people are always full of energy.|介词短语
+火箭|huǒjiàn|hỏa tiễn|tên lửa (vũ trụ)|rocket|火箭成功地把卫星送上了太空。|Tên lửa đã đưa vệ tinh lên vũ trụ thành công.|The rocket successfully put the satellite into space.|把字句
+火焰|huǒyàn|hỏa diễm|ngọn lửa|flame|火焰越烧越旺，消防员赶紧灭火。|Ngọn lửa càng cháy càng dữ, lính cứu hỏa vội vàng dập lửa.|The flames grew fiercer, and firefighters rushed to put them out.|越…越
+火药|huǒyào|hỏa dược|thuốc súng|gunpowder|火药是中国古代的四大发明之一。|Thuốc súng là một trong bốn phát minh lớn của Trung Quốc cổ đại.|Gunpowder is one of ancient China's Four Great Inventions.|是字句
+货币|huòbì|hóa tệ|tiền tệ|currency|人民币是中国的法定货币。|Nhân dân tệ là đồng tiền pháp định của Trung Quốc.|The RMB is China's legal currency.|是字句
+讥笑|jīxiào|cơ tiếu|chế nhạo|to sneer at|他的口音常常被同学讥笑。|Giọng nói của cậu ấy thường bị bạn học chế nhạo.|His accent is often mocked by his classmates.|被字句
+饥饿|jī'è|cơ ngạ|đói khát|hunger|世界上还有很多人生活在饥饿之中。|Trên thế giới vẫn còn rất nhiều người sống trong đói khát.|Many people in the world still live in hunger.|介词短语
+机动|jīdòng|cơ động|cơ động, linh hoạt|motorized; flexible|这笔钱作为机动资金，以备不时之需。|Khoản tiền này làm quỹ dự phòng, phòng khi cần đến.|This money is kept as a contingency fund for emergencies.|目的
+机构|jīgòu|cơ cấu|cơ quan, tổ chức|organization|这是一家国际援助机构。|Đây là một tổ chức viện trợ quốc tế.|This is an international aid organization.|是字句
+机灵|jīling|cơ linh|lanh lợi|clever, quick-witted|这个孩子很机灵，一学就会。|Đứa bé này rất lanh lợi, học một lần là biết.|This child is very sharp and learns things right away.|承接
+机密|jīmì|cơ mật|cơ mật, bí mật|secret|这是公司的商业机密，不能对外公开。|Đây là bí mật kinh doanh của công ty, không được công khai ra ngoài.|This is a company trade secret and can't be disclosed.|能愿动词
+机械|jīxiè|cơ giới|máy móc; máy móc, cứng nhắc|machinery; mechanical|学语言不能机械地背单词。|Học ngôn ngữ không được học thuộc từ vựng một cách máy móc.|You can't learn a language by rote memorization of words.|能愿动词
+机遇|jīyù|cơ ngộ|cơ hội, thời cơ|opportunity|机遇总是留给有准备的人。|Cơ hội luôn dành cho người có chuẩn bị.|Opportunity favors the prepared.|介词短语
+机智|jīzhì|cơ trí|nhanh trí, lanh trí|quick-witted|他机智地回答了记者的问题。|Anh ấy nhanh trí trả lời câu hỏi của phóng viên.|He answered the reporter's question with quick wit.|陈述句
+基地|jīdì|cơ địa|căn cứ|base|这里是中国最大的航天基地之一。|Đây là một trong những căn cứ hàng không vũ trụ lớn nhất Trung Quốc.|This is one of China's largest space bases.|是字句
+基金|jījīn|cơ kim|quỹ|fund|这个基金专门帮助贫困学生上学。|Quỹ này chuyên giúp học sinh nghèo đến trường.|This fund is dedicated to helping poor students attend school.|兼语句
+基因|jīyīn|cơ nhân|gen|gene|长相很大程度上是由基因决定的。|Ngoại hình phần lớn do gen quyết định.|Appearance is largely determined by genes.|是…的
+激发|jīfā|kích phát|khơi dậy|to arouse|老师的鼓励激发了我学习的兴趣。|Lời khuyến khích của thầy đã khơi dậy hứng thú học tập của tôi.|My teacher's encouragement sparked my interest in learning.|了
+激励|jīlì|kích lệ|khích lệ|to motivate|这个故事激励了很多年轻人。|Câu chuyện này đã khích lệ rất nhiều người trẻ.|This story has inspired many young people.|了
+激情|jīqíng|kích tình|niềm đam mê, nhiệt huyết|passion|他对工作充满了激情。|Anh ấy tràn đầy nhiệt huyết với công việc.|He's passionate about his work.|介词短语
+及早|jízǎo|cập tảo|sớm, kịp thời|as early as possible|有病要及早治疗。|Có bệnh phải điều trị sớm.|Illness should be treated early.|能愿动词
+吉祥|jíxiáng|cát tường|cát tường, may mắn|auspicious|在中国，红色代表吉祥。|Ở Trung Quốc, màu đỏ tượng trưng cho may mắn.|In China, red stands for good luck.|介词短语
+级别|jíbié|cấp biệt|cấp bậc|rank, level|他在公司里的级别比我高。|Cấp bậc của anh ấy trong công ty cao hơn tôi.|He's higher-ranked than me at the company.|比较句
+极端|jíduān|cực đoan|cực đoan; cực kỳ|extreme|看问题不能太极端。|Nhìn nhận vấn đề không được quá cực đoan.|Don't take such an extreme view of things.|能愿动词
+极限|jíxiàn|cực hạn|giới hạn tột cùng|limit|他已经挑战了自己的极限。|Anh ấy đã thử thách giới hạn của bản thân.|He has pushed himself to his limits.|了
+即便|jíbiàn|tức tiện|cho dù|even if|即便失败了，我也不后悔。|Cho dù thất bại, tôi cũng không hối hận.|Even if I fail, I won't regret it.|让步
+即将|jíjiāng|tức tương|sắp, sắp sửa|about to|列车即将到达北京站。|Đoàn tàu sắp đến ga Bắc Kinh.|The train is about to arrive at Beijing Station.|将要
+急功近利|jí gōng jìn lì|cấp công cận lợi|hám lợi trước mắt|eager for quick gains|做事不能急功近利，要看长远。|Làm việc không được hám lợi trước mắt, phải nhìn xa.|Don't chase quick gains—take the long view.|能愿动词
+急剧|jíjù|cấp kịch|gấp, đột ngột|rapid, sudden|最近气温急剧下降。|Gần đây nhiệt độ giảm đột ngột.|Temperatures have dropped sharply recently.|陈述句
+急切|jíqiè|cấp thiết|nóng lòng, sốt ruột|eager|他急切地想知道考试结果。|Anh ấy nóng lòng muốn biết kết quả thi.|He's eager to know his exam results.|陈述句
+急于求成|jíyú qiú chéng|cấp vu cầu thành|nóng vội muốn thành công|impatient for success|学习外语不能急于求成。|Học ngoại ngữ không thể nóng vội.|You can't rush learning a foreign language.|能愿动词
+急躁|jízào|cấp táo|nóng nảy|impetuous|他的性格太急躁，容易跟人吵架。|Tính anh ấy quá nóng nảy, dễ cãi nhau với người khác.|He's so hot-tempered that he easily gets into arguments.|形容词谓语
+疾病|jíbìng|tật bệnh|bệnh tật|disease|多运动可以预防很多疾病。|Vận động nhiều có thể phòng ngừa nhiều bệnh tật.|Regular exercise can prevent many illnesses.|能愿动词
+集团|jítuán|tập đoàn|tập đoàn|group, conglomerate|他在一家大集团公司工作。|Anh ấy làm việc ở một tập đoàn lớn.|He works for a large conglomerate.|介词短语
+嫉妒|jídù|tật đố|ghen tị, đố kỵ|to be jealous|她嫉妒同事比自己漂亮。|Cô ấy ghen tị vì đồng nghiệp xinh hơn mình.|She's jealous that her colleague is prettier than she is.|比较句
+籍贯|jíguàn|tịch quán|nguyên quán, quê quán|native place|请在表格上填写你的籍贯。|Hãy điền nguyên quán của bạn vào mẫu đơn.|Please fill in your place of origin on the form.|介词短语
+计较|jìjiào|kế giảo|so đo, tính toán|to fuss about|朋友之间不要太计较。|Bạn bè với nhau đừng so đo quá.|Friends shouldn't be petty with each other.|祈使句
+记性|jìxing|ký tính|trí nhớ|memory|我的记性越来越差了，总是忘东西。|Trí nhớ của tôi ngày càng kém, cứ hay quên đồ.|My memory keeps getting worse—I'm always forgetting things.|越…越
+记载|jìzǎi|ký tái|ghi chép, ghi lại|to record|这本书详细记载了当时的历史。|Quyển sách này ghi chép chi tiết lịch sử thời đó.|This book records the history of that time in detail.|了
+纪要|jìyào|kỷ yếu|biên bản tóm tắt|minutes|请把会议纪要发给每位参会者。|Hãy gửi biên bản cuộc họp cho mỗi người tham dự.|Please send the meeting minutes to every attendee.|把字句
+技巧|jìqiǎo|kỹ xảo|kỹ xảo, kỹ năng|technique|写作也需要一定的技巧。|Viết văn cũng cần có kỹ năng nhất định.|Writing also requires a certain amount of technique.|能愿动词
+忌讳|jìhuì|kỵ húy|kiêng kỵ|taboo|中国人送礼忌讳送钟。|Người Trung Quốc kiêng tặng đồng hồ.|Chinese people consider it taboo to give clocks as gifts.|陈述句
+季度|jìdù|quý độ|quý (ba tháng)|quarter|公司第三季度的利润增长了百分之十。|Lợi nhuận quý ba của công ty tăng mười phần trăm.|The company's third-quarter profits rose ten percent.|了
+季军|jìjūn|quý quân|hạng ba|third place|他在比赛中获得了季军。|Anh ấy giành hạng ba trong cuộc thi.|He came in third in the competition.|介词短语
+迹象|jìxiàng|tích tượng|dấu hiệu|sign|种种迹象表明，经济正在好转。|Nhiều dấu hiệu cho thấy kinh tế đang chuyển biến tốt.|All signs indicate the economy is improving.|进行态
+继承|jìchéng|kế thừa|kế thừa, thừa kế|to inherit|我们要继承和发扬优秀的传统文化。|Chúng ta phải kế thừa và phát huy văn hóa truyền thống ưu tú.|We should inherit and carry forward our fine traditional culture.|并列
+寄托|jìtuō|ký thác|gửi gắm|to place (hopes) on|父母把所有的希望都寄托在孩子身上。|Cha mẹ gửi gắm tất cả hy vọng vào con cái.|Parents place all their hopes on their children.|把字句
+寂静|jìjìng|tịch tĩnh|tĩnh lặng|silent|深夜的街道一片寂静。|Đường phố đêm khuya im ắng.|The streets are silent late at night.|陈述句
+加工|jiāgōng|gia công|gia công, chế biến|to process|这些水果被加工成了果汁。|Những trái cây này được chế biến thành nước ép.|These fruits were processed into juice.|被字句
+加剧|jiājù|gia kịch|trở nên gay gắt, tăng lên|to intensify|两国之间的矛盾进一步加剧了。|Mâu thuẫn giữa hai nước càng thêm gay gắt.|Tensions between the two countries intensified further.|了
+佳肴|jiāyáo|giai hào|món ngon|delicacy|桌上摆满了各种美味佳肴。|Trên bàn bày đầy đủ các món ngon.|The table is laden with all kinds of delicacies.|存现句
+家常|jiācháng|gia thường|chuyện thường ngày trong nhà|everyday family life|两个老朋友坐在一起聊家常。|Hai người bạn cũ ngồi cùng nhau chuyện trò việc nhà.|The two old friends sat chatting about everyday life.|连动句
+家伙|jiāhuo|gia hỏa|gã, thằng cha|guy, fellow|这个家伙真有意思！|Gã này thú vị thật!|This guy is really something!|感叹句
+家属|jiāshǔ|gia thuộc|người nhà, thân nhân|family member|手术以前，医生跟病人家属谈了话。|Trước ca phẫu thuật, bác sĩ đã nói chuyện với người nhà bệnh nhân.|Before the surgery, the doctor spoke with the patient's family.|时间状语
+家喻户晓|jiā yù hù xiǎo|gia dụ hộ hiểu|nhà nhà đều biết|known to every household|这个故事在中国家喻户晓。|Câu chuyện này ở Trung Quốc nhà nhà đều biết.|This story is known to every household in China.|介词短语
+夹杂|jiāzá|giáp tạp|lẫn, xen lẫn|to be mixed with|他说普通话夹杂着浓重的方言口音。|Anh ấy nói tiếng phổ thông lẫn giọng địa phương đậm đặc.|His Mandarin is mixed with a heavy dialect accent.|着
+尖端|jiānduān|tiêm đoan|mũi nhọn; tối tân|tip; cutting-edge|这家公司掌握了很多尖端技术。|Công ty này nắm giữ nhiều công nghệ tối tân.|This company possesses a lot of cutting-edge technology.|了
+尖锐|jiānruì|tiêm nhuệ|sắc nhọn; gay gắt|sharp; pointed|记者提出了一个很尖锐的问题。|Phóng viên đã đặt ra một câu hỏi rất gay gắt.|The reporter asked a very pointed question.|了
+坚定|jiāndìng|kiên định|kiên định|firm|他坚定地说：“我一定能成功！”|Anh ấy kiên định nói: "Tôi nhất định sẽ thành công!"|He said firmly, "I will definitely succeed!"|陈述句
+坚固|jiāngù|kiên cố|kiên cố, vững chắc|sturdy|这座桥非常坚固，已经用了一百年。|Cây cầu này rất kiên cố, đã dùng một trăm năm.|This bridge is very sturdy—it's been in use for a hundred years.|时量动量
+坚韧|jiānrèn|kiên nhận|dẻo dai, bền bỉ|tenacious|她有着坚韧的性格，从不轻易放弃。|Cô ấy có tính cách bền bỉ, không bao giờ dễ dàng từ bỏ.|She has a tenacious character and never gives up easily.|着
+坚实|jiānshí|kiên thực|vững chắc|solid|大学四年为他的事业打下了坚实的基础。|Bốn năm đại học đã đặt nền móng vững chắc cho sự nghiệp của anh ấy.|Four years of university laid a solid foundation for his career.|介词短语
+坚硬|jiānyìng|kiên ngạnh|cứng rắn|hard|这种石头非常坚硬。|Loại đá này vô cùng cứng.|This kind of stone is extremely hard.|形容词谓语
+间谍|jiàndié|gián điệp|gián điệp|spy|这部电影讲的是一个间谍的故事。|Bộ phim này kể về câu chuyện của một điệp viên.|This film tells the story of a spy.|定语
+间隔|jiàngé|gián cách|khoảng cách, cách quãng|interval|这路公交车发车的间隔是十分钟。|Khoảng cách giữa các chuyến của tuyến xe buýt này là mười phút.|Buses on this route run at ten-minute intervals.|是字句
+间接|jiànjiē|gián tiếp|gián tiếp|indirect|我是间接听到这个消息的。|Tôi nghe tin này một cách gián tiếp.|I heard this news indirectly.|是…的
+艰难|jiānnán|gian nan|gian nan|arduous|他们在艰难的条件下完成了任务。|Họ đã hoàn thành nhiệm vụ trong điều kiện gian nan.|They completed the mission under difficult conditions.|介词短语
+监督|jiāndū|giám đốc|giám sát|to supervise|政府的工作需要人民的监督。|Công việc của chính phủ cần sự giám sát của nhân dân.|The government's work needs to be overseen by the people.|能愿动词
+监视|jiānshì|giám thị|theo dõi, giám sát|to monitor|警察一直在暗中监视他。|Cảnh sát vẫn luôn âm thầm theo dõi hắn.|The police have been secretly watching him.|进行态
+监狱|jiānyù|giám ngục|nhà tù|prison|他在监狱里待了十年。|Hắn đã ngồi tù mười năm.|He spent ten years in prison.|时量动量
+煎|jiān|tiễn|rán, chiên; sắc (thuốc)|to fry; to decoct|妈妈早上给我煎了两个鸡蛋。|Sáng nay mẹ rán cho tôi hai quả trứng.|Mom fried me two eggs this morning.|介词短语
+拣|jiǎn|giản|chọn, lựa; nhặt|to pick|你拣自己喜欢的买吧。|Bạn chọn cái mình thích mà mua đi.|Pick the ones you like and buy them.|吧
+检讨|jiǎntǎo|kiểm thảo|tự kiểm điểm|self-criticism; to review|他写了一份检讨，承认了自己的错误。|Anh ấy viết một bản kiểm điểm, thừa nhận sai lầm của mình.|He wrote a self-criticism admitting his mistakes.|承接
+检验|jiǎnyàn|kiểm nghiệm|kiểm nghiệm|to test|实践是检验真理的唯一标准。|Thực tiễn là tiêu chuẩn duy nhất để kiểm nghiệm chân lý.|Practice is the sole criterion for testing truth.|是字句
+剪彩|jiǎncǎi|tiễn thải|cắt băng khánh thành|to cut the ribbon|市长亲自为新图书馆剪彩。|Thị trưởng đích thân cắt băng khánh thành thư viện mới.|The mayor personally cut the ribbon for the new library.|介词短语
+简化|jiǎnhuà|giản hóa|giản hóa, đơn giản hóa|to simplify|政府简化了办事的手续。|Chính phủ đã đơn giản hóa thủ tục hành chính.|The government simplified administrative procedures.|了
+简陋|jiǎnlòu|giản lậu|đơn sơ, sơ sài|crude, simple|虽然条件简陋，但大家学习都很认真。|Tuy điều kiện đơn sơ nhưng mọi người học rất chăm chỉ.|Although conditions were basic, everyone studied seriously.|转折
+简体字|jiǎntǐzì|giản thể tự|chữ giản thể|simplified characters|中国大陆使用的是简体字。|Trung Quốc đại lục sử dụng chữ giản thể.|Mainland China uses simplified characters.|是字句
+简要|jiǎnyào|giản yếu|ngắn gọn, tóm tắt|concise|请简要介绍一下你的工作经历。|Xin giới thiệu ngắn gọn kinh nghiệm làm việc của bạn.|Please briefly describe your work experience.|祈使句
+见多识广|jiàn duō shí guǎng|kiến đa thức quảng|hiểu biết rộng|experienced and knowledgeable|他去过很多国家，见多识广。|Ông ấy đã đi nhiều nước, hiểu biết rộng.|He's been to many countries and is very worldly.|过
+见解|jiànjiě|kiến giải|kiến giải, quan điểm|opinion, view|他对这个问题有独到的见解。|Anh ấy có kiến giải độc đáo về vấn đề này.|He has unique insights into this issue.|有字句
+见闻|jiànwén|kiến văn|những điều mắt thấy tai nghe|what one sees and hears|他给我们讲了很多旅行中的见闻。|Anh ấy kể cho chúng tôi nghe nhiều điều mắt thấy tai nghe trong chuyến đi.|He told us many stories from his travels.|介词短语
+见义勇为|jiàn yì yǒng wéi|kiến nghĩa dũng vi|thấy việc nghĩa thì dũng cảm làm|to act bravely for a just cause|他见义勇为，救了一个落水的孩子。|Anh ấy dũng cảm làm việc nghĩa, cứu một đứa trẻ bị rơi xuống nước.|He bravely rescued a child who had fallen into the water.|了
+剑|jiàn|kiếm|thanh kiếm|sword|他从小就跟师傅学习剑术。|Từ nhỏ anh ấy đã theo thầy học kiếm thuật.|He's studied swordsmanship with a master since childhood.|介词短语
+健全|jiànquán|kiện toàn|kiện toàn, hoàn thiện|sound, complete|我们需要建立健全的管理制度。|Chúng ta cần xây dựng chế độ quản lý hoàn thiện.|We need to establish a sound management system.|能愿动词
+舰艇|jiàntǐng|hạm đĩnh|tàu chiến|warship|几艘舰艇正在海上进行演习。|Mấy chiếc tàu chiến đang diễn tập trên biển.|Several warships are conducting exercises at sea.|进行态
+践踏|jiàntà|tiễn đạp|giẫm đạp; chà đạp|to trample|请不要践踏草坪。|Xin đừng giẫm lên bãi cỏ.|Please keep off the grass.|祈使句
+溅|jiàn|tiễn|bắn, văng (nước)|to splash|汽车开过，溅了我一身水。|Xe ô tô chạy qua làm nước bắn ướt cả người tôi.|A car drove past and splashed water all over me.|双宾语
+鉴别|jiànbié|giám biệt|phân biệt, giám định|to distinguish|你能鉴别这幅画是真的还是假的吗？|Bạn có thể phân biệt bức tranh này thật hay giả không?|Can you tell whether this painting is real or fake?|选择问句
+鉴定|jiàndìng|giám định|giám định|to appraise|专家鉴定这是一件明代的瓷器。|Chuyên gia giám định đây là đồ sứ thời Minh.|Experts appraised this as a Ming dynasty porcelain piece.|是字句
+鉴于|jiànyú|giám vu|xét thấy, căn cứ vào|in view of|鉴于天气原因，比赛推迟举行。|Xét do thời tiết, trận đấu được hoãn lại.|In view of the weather, the match has been postponed.|因果
+将近|jiāngjìn|tương cận|gần, xấp xỉ|nearly|他在这家公司工作了将近二十年。|Anh ấy đã làm ở công ty này gần hai mươi năm.|He's worked at this company for nearly twenty years.|时量动量
+将就|jiāngjiu|tương tựu|tạm được, tạm chấp nhận|to make do|房间有点儿小，你就将就一下吧。|Phòng hơi nhỏ, bạn cứ tạm chịu vậy nhé.|The room is a bit small—please make do.|吧
+将军|jiāngjūn|tướng quân|tướng quân, tướng|general|这位将军带领士兵打了很多胜仗。|Vị tướng này đã dẫn binh sĩ đánh nhiều trận thắng.|This general led his troops to many victories.|兼语句
+僵硬|jiāngyìng|cương ngạnh|cứng đờ|stiff|在外面站了太久，我的腿都冻僵硬了。|Đứng bên ngoài lâu quá, chân tôi cóng cứng cả rồi.|I stood outside so long my legs went stiff with cold.|结果补语
+奖励|jiǎnglì|tưởng lệ|khen thưởng|to reward|公司奖励了表现优秀的员工。|Công ty đã khen thưởng những nhân viên xuất sắc.|The company rewarded outstanding employees.|了
+奖赏|jiǎngshǎng|tưởng thưởng|phần thưởng|reward|这是对你努力工作的奖赏。|Đây là phần thưởng cho sự làm việc chăm chỉ của bạn.|This is your reward for working hard.|是字句
+桨|jiǎng|tưởng|mái chèo|oar|他用力划着桨，小船很快就到了对岸。|Anh ấy ra sức khua mái chèo, chiếc thuyền nhỏ nhanh chóng sang bờ bên kia.|He rowed hard, and the little boat soon reached the other shore.|承接
+降临|jiànglín|giáng lâm|đến, giáng xuống|to arrive, to befall|夜幕降临，城市的灯都亮了。|Màn đêm buông xuống, đèn thành phố đều sáng lên.|Night fell, and the city lights came on.|承接
+交叉|jiāochā|giao xoa|giao nhau, đan chéo|to intersect|两条路在这里交叉。|Hai con đường giao nhau ở đây.|The two roads intersect here.|介词短语
+交代|jiāodài|giao đại|dặn dò; bàn giao; khai báo|to explain; to hand over; to confess|经理走之前把工作都交代给了我。|Trước khi đi, giám đốc đã bàn giao hết công việc cho tôi.|Before leaving, the manager handed all the work over to me.|把字句
+交涉|jiāoshè|giao thiệp|giao thiệp, đàm phán|to negotiate|我们跟对方交涉了很久，问题终于解决了。|Chúng tôi đàm phán với đối phương rất lâu, cuối cùng vấn đề cũng được giải quyết.|We negotiated with them for a long time, and the problem was finally solved.|时量动量
+交易|jiāoyì|giao dịch|giao dịch|transaction|这笔交易让公司赚了很多钱。|Thương vụ này giúp công ty kiếm được nhiều tiền.|This deal made the company a lot of money.|兼语句
+娇气|jiāoqì|kiều khí|yếu ớt, được nuông chiều|delicate, fragile|这孩子太娇气了，一点儿苦都吃不了。|Đứa trẻ này được nuông chiều quá, chẳng chịu được chút khổ nào.|This kid is so pampered he can't take any hardship.|可能补语
+焦点|jiāodiǎn|tiêu điểm|tiêu điểm|focus|这件事成为了大家讨论的焦点。|Việc này đã trở thành tiêu điểm thảo luận của mọi người.|This matter has become the focus of everyone's discussion.|了
+焦急|jiāojí|tiêu cấp|sốt ruột, lo lắng|anxious|孩子还没回家，妈妈焦急地等在门口。|Con vẫn chưa về, mẹ sốt ruột đứng đợi ở cửa.|The child isn't home yet, and Mom is waiting anxiously at the door.|陈述句
+角落|jiǎoluò|giác lạc|góc|corner|他一个人坐在教室的角落里。|Cậu ấy ngồi một mình ở góc lớp học.|He's sitting alone in the corner of the classroom.|介词短语
+搅拌|jiǎobàn|giảo bạn|khuấy, trộn|to stir|把牛奶和鸡蛋搅拌均匀。|Khuấy đều sữa và trứng.|Stir the milk and eggs until well mixed.|把字句
+缴纳|jiǎonà|giao nạp|nộp (thuế, phí)|to pay (taxes)|每个公民都有缴纳税款的义务。|Mỗi công dân đều có nghĩa vụ nộp thuế.|Every citizen is obliged to pay taxes.|有字句
+觉悟|juéwù|giác ngộ|giác ngộ, nhận thức|awareness|人们的环保觉悟越来越高了。|Ý thức bảo vệ môi trường của mọi người ngày càng cao.|People's environmental awareness is getting higher and higher.|越…越
+觉醒|juéxǐng|giác tỉnh|thức tỉnh|to awaken|这次失败让他彻底觉醒了。|Lần thất bại này khiến anh ấy hoàn toàn thức tỉnh.|This failure woke him up completely.|兼语句
+较量|jiàoliàng|giảo lượng|so tài, đọ sức|to compete|两个队在决赛中进行了一场激烈的较量。|Hai đội đã có một cuộc đọ sức kịch liệt trong trận chung kết.|The two teams fought a fierce battle in the final.|介词短语
+教养|jiàoyǎng|giáo dưỡng|giáo dưỡng|upbringing|从一个人的言行可以看出他的教养。|Từ lời nói việc làm của một người có thể thấy được sự giáo dưỡng của họ.|You can tell a person's upbringing from their words and actions.|能愿动词
+阶层|jiēcéng|giai tầng|tầng lớp|social class|社会各个阶层的人都来参加了活动。|Người thuộc mọi tầng lớp xã hội đều đến tham gia hoạt động.|People from all walks of life came to the event.|连动句
+皆|jiē|giai|đều, tất cả|all|这是人人皆知的事实。|Đây là sự thật ai ai cũng biết.|This is a fact everyone knows.|是字句
+接连|jiēlián|tiếp liên|liên tiếp|in succession|他接连三次考试都得了第一。|Cậu ấy liên tiếp ba kỳ thi đều đứng nhất.|He came first in three exams in a row.|时量动量
+揭露|jiēlù|yết lộ|vạch trần|to expose|记者揭露了这家公司的违法行为。|Phóng viên đã vạch trần hành vi phạm pháp của công ty này.|The journalist exposed the company's illegal activities.|了
+节制|jiézhì|tiết chế|tiết chế, kiềm chế|to control|喝酒要有节制。|Uống rượu phải có chừng mực.|Drink in moderation.|能愿动词
+节奏|jiézòu|tiết tấu|nhịp điệu, tiết tấu|rhythm|大城市的生活节奏很快。|Nhịp sống ở thành phố lớn rất nhanh.|Life in big cities moves at a fast pace.|形容词谓语
+杰出|jiéchū|kiệt xuất|kiệt xuất|outstanding|他是一位杰出的科学家。|Ông ấy là một nhà khoa học kiệt xuất.|He's an outstanding scientist.|是字句
+结晶|jiéjīng|kết tinh|kết tinh|crystallization|这部作品是作者多年心血的结晶。|Tác phẩm này là kết tinh tâm huyết nhiều năm của tác giả.|This work is the fruit of the author's years of effort.|是字句
+结局|jiéjú|kết cục|kết cục, kết thúc|ending|这部电影的结局让人很意外。|Kết thúc của bộ phim này khiến người ta rất bất ngờ.|The film's ending was a real surprise.|兼语句
+结算|jiésuàn|kết toán|thanh toán, quyết toán|to settle accounts|我们每个月底结算一次。|Chúng tôi quyết toán một lần vào cuối mỗi tháng.|We settle accounts at the end of each month.|时量动量
+截止|jiézhǐ|tiệt chỉ|hết hạn|to close (deadline)|报名到本周五截止。|Hạn đăng ký kết thúc vào thứ Sáu tuần này.|Registration closes this Friday.|介词短语
+截至|jiézhì|tiệt chí|tính đến|up to (a time)|截至昨天，已经有五百人报名了。|Tính đến hôm qua, đã có năm trăm người đăng ký.|As of yesterday, five hundred people had signed up.|了
+竭尽全力|jié jìn quán lì|kiệt tận toàn lực|dốc hết sức lực|to do one's utmost|我会竭尽全力完成这个任务。|Tôi sẽ dốc hết sức để hoàn thành nhiệm vụ này.|I'll do my utmost to complete this task.|能愿动词
+解除|jiěchú|giải trừ|giải trừ, hủy bỏ|to remove, to cancel|公司解除了和他的劳动合同。|Công ty đã chấm dứt hợp đồng lao động với anh ta.|The company terminated his employment contract.|了
+解放|jiěfàng|giải phóng|giải phóng|to liberate|洗衣机把人们从繁重的家务中解放了出来。|Máy giặt đã giải phóng con người khỏi việc nhà nặng nhọc.|The washing machine freed people from heavy housework.|把字句

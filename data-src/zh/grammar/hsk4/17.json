@@ -1,0 +1,1076 @@
+{
+  "n": 17,
+  "zh": "人与自然",
+  "vi": "Con người và thiên nhiên",
+  "en": "People and nature",
+  "texts": [
+    {
+      "title": "小夏和安娜在聊天气",
+      "paras": [
+        {
+          "zh": "小夏：最近天气越来越凉快了，风一刮，草地上就会有一层厚厚的黄叶，看来秋天已经到了。",
+          "vi": "Tiểu Hạ: Dạo này thời tiết ngày càng mát mẻ, gió vừa thổi là trên bãi cỏ có một lớp lá vàng dày, xem ra mùa thu đã đến rồi.",
+          "en": "Xiao Xia: The weather is getting cooler and cooler. As soon as the wind blows, the grass is covered with a thick layer of yellow leaves. It looks like autumn is here."
+        },
+        {
+          "zh": "安娜：这几天香山特别热闹，随着气温的降低，那里许多植物的叶子都由绿变黄或者变红，吸引了很多游客参观，咱们今天也去看看吧。",
+          "vi": "Anna: Mấy hôm nay Hương Sơn đặc biệt náo nhiệt, cùng với nhiệt độ giảm xuống, lá của nhiều loài cây ở đó đều chuyển từ xanh sang vàng hoặc đỏ, thu hút rất nhiều du khách tham quan, hôm nay chúng mình cũng đi xem đi.",
+          "en": "Anna: Xiangshan is really busy these days. As the temperature drops, the leaves of many plants there turn from green to yellow or red, attracting lots of visitors. Let's go and see today."
+        },
+        {
+          "zh": "小夏：你看天上的云，今天肯定有大雨。再说，香山上看红叶的人太多了。咱们改天去长城吧，广播里说那里也有不少专门看红叶的好地方。",
+          "vi": "Tiểu Hạ: Cậu nhìn mây trên trời kìa, hôm nay chắc chắn có mưa to. Hơn nữa, người lên Hương Sơn ngắm lá đỏ đông quá. Chúng mình hôm khác đi Trường Thành đi, đài phát thanh nói ở đó cũng có nhiều chỗ ngắm lá đỏ đẹp.",
+          "en": "Xiao Xia: Look at the clouds; it's definitely going to pour today. Besides, there are too many people at Xiangshan looking at the red leaves. Let's go to the Great Wall another day. The radio says there are lots of good spots for red leaves there too."
+        },
+        {
+          "zh": "安娜：真可惜，我还想多照点儿香山的照片呢。去长城倒是一个好主意，那我们明天去吧。",
+          "vi": "Anna: Tiếc thật, tớ còn muốn chụp nhiều ảnh Hương Sơn. Đi Trường Thành cũng là ý hay, vậy mai chúng mình đi nhé.",
+          "en": "Anna: What a pity, I wanted to take lots of photos of Xiangshan. The Great Wall is a good idea, though. Let's go tomorrow."
+        },
+        {
+          "zh": "小夏：明天恐怕也不行，明天是我爸的生日。",
+          "vi": "Tiểu Hạ: Ngày mai e là cũng không được, mai là sinh nhật bố tớ.",
+          "en": "Xiao Xia: I'm afraid tomorrow's no good either; it's my dad's birthday."
+        },
+        {
+          "zh": "安娜：没关系，那我们再约时间。",
+          "vi": "Anna: Không sao, vậy chúng mình hẹn lúc khác.",
+          "en": "Anna: Never mind, we'll arrange another time."
+        }
+      ],
+      "words": [
+        {
+          "zh": "凉快",
+          "py": "liángkuai",
+          "pos": "tt.",
+          "vi": "mát mẻ",
+          "en": "cool"
+        },
+        {
+          "zh": "热闹",
+          "py": "rènao",
+          "pos": "tt.",
+          "vi": "náo nhiệt",
+          "en": "lively, bustling"
+        },
+        {
+          "zh": "云",
+          "py": "yún",
+          "pos": "dt.",
+          "vi": "mây",
+          "en": "cloud"
+        },
+        {
+          "zh": "广播",
+          "py": "guǎngbō",
+          "pos": "dt.",
+          "vi": "chương trình phát thanh/truyền hình",
+          "en": "broadcast, radio"
+        },
+        {
+          "zh": "照",
+          "py": "zhào",
+          "pos": "đgt.",
+          "vi": "chụp (ảnh)",
+          "en": "to take (photos)"
+        },
+        {
+          "zh": "倒",
+          "py": "dào",
+          "pos": "phó.",
+          "vi": "(được dùng để chỉ sự tương phản) nhưng, lại",
+          "en": "(contrast) though, actually"
+        }
+      ],
+      "names": [
+        {
+          "zh": "安娜",
+          "py": "Ānnà",
+          "vi": "Anna (tên người)",
+          "en": "Anna (a name)"
+        },
+        {
+          "zh": "香山",
+          "py": "Xiāng Shān",
+          "vi": "Hương Sơn (ở Bắc Kinh)",
+          "en": "Xiangshan (Fragrant Hills, Beijing)"
+        },
+        {
+          "zh": "长城",
+          "py": "Chángchéng",
+          "vi": "Trường Thành",
+          "en": "the Great Wall"
+        }
+      ]
+    },
+    {
+      "title": "小林和小李在聊小李的狗",
+      "paras": [
+        {
+          "zh": "小林：你的这只大黑狗毛真漂亮，而且这么聪明，每次见了都想抱一抱它。",
+          "vi": "Tiểu Lâm: Con chó đen to này của cậu lông đẹp thật, lại thông minh như vậy, lần nào gặp tớ cũng muốn bế nó.",
+          "en": "Xiao Lin: Your big black dog has beautiful fur, and it's so clever. Every time I see it I want to give it a cuddle."
+        },
+        {
+          "zh": "小李：狗是很聪明的动物，只要稍微花点儿时间教教它，它就能学会很多东西。",
+          "vi": "Tiểu Lý: Chó là loài động vật rất thông minh, chỉ cần bỏ chút thời gian dạy nó là nó học được nhiều thứ.",
+          "en": "Xiao Li: Dogs are very clever animals. If you spend just a little time teaching them, they can learn lots of things."
+        },
+        {
+          "zh": "小林：听你这么一说，我现在也想养一只狗了。每次你让它干什么，它就像能听懂你的话一样去做。你教它是不是用了什么特别的方法？",
+          "vi": "Tiểu Lâm: Nghe cậu nói vậy, giờ tớ cũng muốn nuôi một con chó rồi. Mỗi lần cậu bảo nó làm gì, nó cứ như hiểu được lời cậu mà làm theo. Cậu dạy nó có dùng phương pháp gì đặc biệt không?",
+          "en": "Xiao Lin: Hearing you say that, now I want a dog too. Whenever you tell it to do something, it does it as if it understands you. Did you use some special method to teach it?"
+        },
+        {
+          "zh": "小李：要让它完成一些任务，只教一次是不够的，应该耐心地{de}一遍一遍地{de}教给它，使它熟悉，然后它就会严格按照你的要求做了。",
+          "vi": "Tiểu Lý: Muốn nó hoàn thành một số nhiệm vụ thì dạy một lần là không đủ, phải kiên nhẫn dạy đi dạy lại nhiều lần cho nó quen, sau đó nó sẽ làm nghiêm chỉnh theo yêu cầu của cậu.",
+          "en": "Xiao Li: To get it to do certain tasks, teaching once isn't enough. You have to teach it patiently over and over until it's familiar, and then it'll do exactly as you ask."
+        },
+        {
+          "zh": "小林：看来没有想的那么容易。",
+          "vi": "Tiểu Lâm: Xem ra không dễ như mình nghĩ.",
+          "en": "Xiao Lin: It seems it's not as easy as I thought."
+        },
+        {
+          "zh": "小李：狗是我们的好朋友，它能听懂人的话，明白人的心情。在你心里难受的时候，它会一直陪着{zhe}你。",
+          "vi": "Tiểu Lý: Chó là bạn tốt của chúng ta, nó hiểu được lời người nói, hiểu được tâm trạng con người. Lúc cậu buồn, nó sẽ luôn ở bên cậu.",
+          "en": "Xiao Li: Dogs are our good friends. They understand what people say and how they feel. When you're feeling down, it'll always be there for you."
+        }
+      ],
+      "words": [
+        {
+          "zh": "毛",
+          "py": "máo",
+          "pos": "dt.",
+          "vi": "lông",
+          "en": "fur, hair"
+        },
+        {
+          "zh": "抱",
+          "py": "bào",
+          "pos": "đgt.",
+          "vi": "bế, bồng, ôm",
+          "en": "to hold, to hug"
+        },
+        {
+          "zh": "干",
+          "py": "gàn",
+          "pos": "đgt.",
+          "vi": "làm",
+          "en": "to do"
+        },
+        {
+          "zh": "严格",
+          "py": "yángé",
+          "pos": "tt.",
+          "vi": "nghiêm khắc, nghiêm ngặt",
+          "en": "strict"
+        },
+        {
+          "zh": "难受",
+          "py": "nánshòu",
+          "pos": "tt.",
+          "vi": "bực bội, buồn rầu",
+          "en": "unwell, upset"
+        }
+      ]
+    },
+    {
+      "title": "马克和小夏在聊动物",
+      "paras": [
+        {
+          "zh": "马克：上个月我去了趟北京动物园，那里约有500种动物，听导游说北京动物园是亚洲最大的动物园之一。",
+          "vi": "Mark: Tháng trước tớ đi một chuyến sở thú Bắc Kinh, ở đó có khoảng 500 loài động vật, nghe hướng dẫn viên nói sở thú Bắc Kinh là một trong những sở thú lớn nhất châu Á.",
+          "en": "Mark: Last month I went to Beijing Zoo. There are about 500 species there, and the guide said it's one of the largest zoos in Asia."
+        },
+        {
+          "zh": "小夏：去年放暑假的时候，我也去过一次，我在那儿看了马、熊猫、老虎等动物。我特别喜欢熊猫，可惜它们当时大多在睡觉。",
+          "vi": "Tiểu Hạ: Nghỉ hè năm ngoái tớ cũng đi một lần, tớ xem ngựa, gấu trúc, hổ… ở đó. Tớ đặc biệt thích gấu trúc, tiếc là lúc đó chúng phần lớn đang ngủ.",
+          "en": "Xiao Xia: I went once during last summer's holidays too. I saw horses, pandas, tigers and other animals. I especially love pandas, but unfortunately most of them were asleep at the time."
+        },
+        {
+          "zh": "马克：我去的那天正赶上六一儿童节，许多父母带着{zhe}孩子去动物园。入口处排队的人很多，动物园里热闹极了。熊猫们也变得特别活泼，我还给它们照了不少照片呢。",
+          "vi": "Mark: Hôm tớ đi đúng vào ngày Quốc tế thiếu nhi 1/6, nhiều bố mẹ dẫn con đi sở thú. Ở cổng vào rất nhiều người xếp hàng, trong sở thú náo nhiệt vô cùng. Lũ gấu trúc cũng trở nên đặc biệt hoạt bát, tớ còn chụp cho chúng không ít ảnh.",
+          "en": "Mark: The day I went happened to be Children's Day, June 1st, and lots of parents took their children to the zoo. There was a long queue at the entrance and the zoo was really lively. The pandas were especially playful, and I took lots of photos of them."
+        },
+        {
+          "zh": "小夏：大熊猫身子胖胖的，样子可爱极了。",
+          "vi": "Tiểu Hạ: Gấu trúc thân hình tròn trịa, trông đáng yêu cực kỳ.",
+          "en": "Xiao Xia: Giant pandas are so chubby. They look adorable."
+        },
+        {
+          "zh": "马克：不过，它们数量不多，现在全世界一共才有一千多只吧。",
+          "vi": "Mark: Nhưng số lượng của chúng không nhiều, bây giờ cả thế giới chỉ có khoảng hơn một nghìn con.",
+          "en": "Mark: But there aren't many of them; there are only about a thousand in the whole world now."
+        },
+        {
+          "zh": "小夏：以前只有中国有大熊猫，为了表示友好，从1957年开始，中国把大熊猫作为礼物送给其他一些国家。现在，很多国家的人们在本国都能看到大熊猫了。",
+          "vi": "Tiểu Hạ: Trước đây chỉ có Trung Quốc có gấu trúc, để thể hiện tình hữu nghị, từ năm 1957, Trung Quốc lấy gấu trúc làm quà tặng cho một số nước khác. Bây giờ người dân nhiều nước có thể xem gấu trúc ngay tại nước mình.",
+          "en": "Xiao Xia: Pandas used to live only in China. As a gesture of friendship, starting in 1957 China gave pandas as gifts to some other countries. Now people in many countries can see pandas in their own country."
+        }
+      ],
+      "words": [
+        {
+          "zh": "趟",
+          "py": "tàng",
+          "pos": "lượng.",
+          "vi": "lần, chuyến (chỉ số lần đi lại)",
+          "en": "measure word for trips"
+        },
+        {
+          "zh": "放暑假",
+          "py": "fàng shǔjià",
+          "vi": "nghỉ hè",
+          "en": "to have the summer holiday"
+        },
+        {
+          "zh": "老虎",
+          "py": "lǎohǔ",
+          "pos": "dt.",
+          "vi": "hổ, cọp",
+          "en": "tiger"
+        },
+        {
+          "zh": "入口",
+          "py": "rùkǒu",
+          "pos": "dt.",
+          "vi": "cổng vào",
+          "en": "entrance"
+        },
+        {
+          "zh": "排队",
+          "py": "pái duì",
+          "pos": "đgt.",
+          "vi": "xếp hàng",
+          "en": "to queue"
+        },
+        {
+          "zh": "活泼",
+          "py": "huópō",
+          "pos": "tt.",
+          "vi": "hoạt bát, nhanh nhẹn",
+          "en": "lively"
+        }
+      ],
+      "names": [
+        {
+          "zh": "亚洲",
+          "py": "Yàzhōu",
+          "vi": "châu Á",
+          "en": "Asia"
+        },
+        {
+          "zh": "六一儿童节",
+          "py": "Liùyī Értóngjié",
+          "vi": "ngày Quốc tế thiếu nhi",
+          "en": "International Children's Day (June 1st)"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "不仅社会上的人与人之间有竞争，森林里的各种植物之间也有竞争，这一点儿也不奇怪。植物会为了阳光、空气和水而竞争。一些高大的植物往往能获得更多的阳光、空气和水，而剩下的一些比较低矮的植物就只能长{zhǎng}在这些高大植物的下面。由于气候条件不同，世界各地植物叶子的样子也很不相同。在暖和、水分比较多的地方，叶子往往长{zhǎng}得又大又厚；在阳光特别厉害、水分少的地方，叶子就会长{zhǎng}得又细又长。",
+          "vi": "Không chỉ giữa người với người trong xã hội có cạnh tranh, giữa các loài cây trong rừng cũng có cạnh tranh, điều này chẳng có gì lạ. Cây cối sẽ cạnh tranh vì ánh nắng, không khí và nước. Một số cây cao lớn thường có thể nhận được nhiều ánh nắng, không khí và nước hơn, còn một số cây thấp bé còn lại chỉ có thể mọc bên dưới những cây cao lớn này. Do điều kiện khí hậu khác nhau nên hình dạng lá cây ở các nơi trên thế giới cũng rất khác nhau. Ở những nơi ấm áp, nhiều nước, lá thường mọc vừa to vừa dày; ở những nơi nắng gắt, ít nước, lá sẽ mọc vừa mảnh vừa dài.",
+          "en": "Not only is there competition between people in society; there's also competition between the plants in a forest, and that's not at all surprising. Plants compete for sunlight, air and water. Tall plants can usually get more sunlight, air and water, while the remaining shorter plants can only grow beneath them. Because of different climates, leaves look very different around the world. In warm, wet places, leaves tend to be big and thick; in places with strong sun and little water, leaves grow thin and long."
+        }
+      ],
+      "words": [
+        {
+          "zh": "社会",
+          "py": "shèhuì",
+          "pos": "dt.",
+          "vi": "xã hội",
+          "en": "society"
+        },
+        {
+          "zh": "竞争",
+          "py": "jìngzhēng",
+          "pos": "đgt.",
+          "vi": "cạnh tranh",
+          "en": "to compete"
+        },
+        {
+          "zh": "森林",
+          "py": "sēnlín",
+          "pos": "dt.",
+          "vi": "rừng rậm",
+          "en": "forest"
+        },
+        {
+          "zh": "剩",
+          "py": "shèng",
+          "pos": "đgt.",
+          "vi": "còn lại",
+          "en": "to remain, to be left over"
+        },
+        {
+          "zh": "暖和",
+          "py": "nuǎnhuo",
+          "pos": "tt.",
+          "vi": "ấm áp",
+          "en": "warm"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "地球上大约71%的地方是蓝色的海洋，在美丽的海底世界里，生活着{zhe}各种各样的植物和动物。我们小时候都听过美人鱼的故事，其实真正的海底世界比故事里写的更美。科学研究发现，海洋底部看上去非常安静，然而却不是一点儿声音也没有，海底的动物们一直在“说话”，只不过人的耳朵是听不到的。另外，就算在几公里深的海底也仍然能看到东西，许多鱼会发出各种颜色的亮光，像一个个排列起来的灯，美极了，就像在梦里一样。",
+          "vi": "Khoảng 71% bề mặt trái đất là đại dương xanh thẳm, trong thế giới đáy biển tuyệt đẹp có đủ loại thực vật và động vật sinh sống. Hồi nhỏ chúng ta đều từng nghe chuyện nàng tiên cá, thật ra thế giới đáy biển thật còn đẹp hơn trong truyện. Nghiên cứu khoa học phát hiện, đáy đại dương trông có vẻ rất yên tĩnh, nhưng không phải hoàn toàn không có âm thanh, các loài động vật dưới đáy biển luôn “nói chuyện”, chỉ là tai người không nghe thấy. Ngoài ra, dù ở đáy biển sâu mấy kilômét vẫn có thể nhìn thấy đồ vật, nhiều loài cá phát ra ánh sáng đủ màu, như từng ngọn đèn xếp thành hàng, đẹp vô cùng, cứ như trong mơ vậy.",
+          "en": "About 71% of the Earth is blue ocean, and all kinds of plants and animals live in the beautiful undersea world. We all heard the story of the mermaid as children, but the real undersea world is even more beautiful than in stories. Scientific research has found that although the ocean floor looks very quiet, it isn't completely silent: the animals down there are always “talking”, it's just that human ears can't hear them. Also, even several kilometres down, you can still see things: many fish give off light of all colours, like rows of lamps. It's extremely beautiful, just like a dream."
+        }
+      ],
+      "words": [
+        {
+          "zh": "海洋",
+          "py": "hǎiyáng",
+          "pos": "dt.",
+          "vi": "biển, đại dương",
+          "en": "ocean"
+        },
+        {
+          "zh": "底",
+          "py": "dǐ",
+          "pos": "dt.",
+          "vi": "đáy",
+          "en": "bottom"
+        },
+        {
+          "zh": "美人鱼",
+          "py": "měirényú",
+          "pos": "dt.",
+          "vi": "người cá, nàng tiên cá",
+          "en": "mermaid",
+          "x": true
+        },
+        {
+          "zh": "公里",
+          "py": "gōnglǐ",
+          "pos": "lượng.",
+          "vi": "kilômét",
+          "en": "kilometre"
+        },
+        {
+          "zh": "仍然",
+          "py": "réngrán",
+          "pos": "phó.",
+          "vi": "vẫn",
+          "en": "still"
+        },
+        {
+          "zh": "排列",
+          "py": "páiliè",
+          "pos": "đgt.",
+          "vi": "sắp xếp (theo thứ tự)",
+          "en": "to arrange in order"
+        },
+        {
+          "zh": "梦",
+          "py": "mèng",
+          "pos": "dt.",
+          "vi": "giấc mơ",
+          "en": "dream"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "现在是什么季节？天气怎么样？",
+        "label": "课文1",
+        "a": "现在是【秋天】，天气【越来越凉快了】。",
+        "vi": "Bây giờ là mùa thu, thời tiết ngày càng mát mẻ.",
+        "en": "It's autumn, and it's getting cooler and cooler."
+      },
+      {
+        "q": "安娜打算做什么？小夏为什么不同意？小夏有什么建议？",
+        "label": "课文1",
+        "a": "安娜打算【去香山看红叶】。小夏不同意是因为【今天肯定有大雨，而且香山上看红叶的人太多了】。小夏建议【改天去长城看红叶】。",
+        "vi": "Anna định đi Hương Sơn ngắm lá đỏ. Tiểu Hạ không đồng ý vì hôm nay chắc chắn có mưa to, hơn nữa người lên Hương Sơn ngắm lá đỏ đông quá. Tiểu Hạ đề nghị hôm khác đi Trường Thành ngắm lá đỏ.",
+        "en": "Anna wants to see the red leaves at Xiangshan. Xiao Xia disagrees because it's going to pour and it's too crowded. He suggests going to the Great Wall another day."
+      },
+      {
+        "q": "小林为什么喜欢小李的狗？他为什么也想养狗？",
+        "label": "课文2",
+        "a": "因为小李的狗【毛很漂亮，而且很聪明】。他也想养狗是因为【狗只要稍微花点儿时间教教，就能学会很多东西】。",
+        "vi": "Vì chó của Tiểu Lý lông rất đẹp, lại rất thông minh. Cậu ấy cũng muốn nuôi chó vì chó chỉ cần bỏ chút thời gian dạy là học được nhiều thứ.",
+        "en": "Because Xiao Li's dog has beautiful fur and is very clever. He wants one too because dogs can learn lots of things with just a little teaching."
+      },
+      {
+        "q": "教狗完成一些任务可以用什么方法？",
+        "label": "课文2",
+        "a": "【应该耐心地{de}一遍一遍地{de}教给它，使它熟悉】，然后它就会严格按照你的要求做了。",
+        "vi": "Phải kiên nhẫn dạy đi dạy lại cho nó quen, sau đó nó sẽ làm nghiêm chỉnh theo yêu cầu.",
+        "en": "Teach it patiently over and over until it's familiar; then it'll do exactly as you ask."
+      },
+      {
+        "q": "马克什么时候去的北京动物园？他去那儿做什么了？",
+        "label": "课文3",
+        "a": "他【上个月六一儿童节那天】去的。他在那儿【看了熊猫，还给它们照了不少照片】。",
+        "vi": "Cậu ấy đi vào ngày Quốc tế thiếu nhi 1/6 tháng trước. Ở đó cậu xem gấu trúc, còn chụp cho chúng không ít ảnh.",
+        "en": "He went last month on Children's Day. He watched the pandas and took lots of photos of them."
+      },
+      {
+        "q": "请介绍一下小夏最喜欢的动物。",
+        "label": "课文3",
+        "a": "小夏最喜欢【大熊猫】。大熊猫身子胖胖的，样子很可爱，【数量不多，全世界一共才有一千多只】。从1957年开始，中国把大熊猫作为礼物送给其他一些国家。",
+        "vi": "Tiểu Hạ thích nhất gấu trúc. Gấu trúc thân hình tròn trịa, trông rất đáng yêu, số lượng không nhiều, cả thế giới chỉ có hơn một nghìn con. Từ năm 1957, Trung Quốc lấy gấu trúc làm quà tặng cho một số nước khác.",
+        "en": "Xiao Xia's favourite is the giant panda. They're chubby and cute, but there are only about a thousand in the world. Since 1957 China has given pandas to other countries as gifts."
+      },
+      {
+        "q": "植物之间会竞争吗？它们会为了什么而竞争？",
+        "label": "课文4",
+        "a": "【会】。植物会【为了阳光、空气和水而竞争】。",
+        "vi": "Có. Cây cối cạnh tranh vì ánh nắng, không khí và nước.",
+        "en": "Yes. Plants compete for sunlight, air and water."
+      },
+      {
+        "q": "为什么世界各地植物叶子的样子会不同？有什么不同？",
+        "label": "课文4",
+        "a": "因为【气候条件不同】。在暖和、水分比较多的地方，叶子【往往长{zhǎng}得又大又厚】；在阳光特别厉害、水分少的地方，叶子【会长{zhǎng}得又细又长】。",
+        "vi": "Vì điều kiện khí hậu khác nhau. Ở nơi ấm áp nhiều nước, lá thường to và dày; ở nơi nắng gắt ít nước, lá mảnh và dài.",
+        "en": "Because climates differ. In warm, wet places leaves tend to be big and thick; in sunny, dry places they grow thin and long."
+      },
+      {
+        "q": "海洋在地球上占多大比例？海底世界里有什么？",
+        "label": "课文5",
+        "a": "海洋占地球上【大约71%】的地方。海底世界里生活着{zhe}【各种各样的植物和动物】。",
+        "vi": "Đại dương chiếm khoảng 71% bề mặt trái đất. Thế giới đáy biển có đủ loại thực vật và động vật sinh sống.",
+        "en": "Oceans cover about 71% of the Earth. All kinds of plants and animals live on the sea floor."
+      },
+      {
+        "q": "科学研究发现，在海洋底部能听到什么？能看到什么？",
+        "label": "课文5",
+        "a": "海底的动物们一直在“说话”，【只不过人的耳朵是听不到的】。就算在几公里深的海底也仍然能看到东西，【许多鱼会发出各种颜色的亮光】。",
+        "vi": "Động vật đáy biển luôn “nói chuyện”, chỉ là tai người không nghe thấy. Dù ở đáy biển sâu mấy kilômét vẫn nhìn thấy được, nhiều loài cá phát ra ánh sáng đủ màu.",
+        "en": "The animals are always “talking”, though human ears can't hear them. Even several kilometres down you can still see things, as many fish give off light of all colours."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "倒",
+      "py": "dào",
+      "uses": [
+        {
+          "vi": "Động từ 倒 có nghĩa là đổ/rót thứ gì ra khỏi vật chứa.",
+          "en": "As a verb, 倒 (dào) means 'to pour' something out of a container.",
+          "ex": [
+            {
+              "zh": "麻烦你给我【倒{dào}】杯咖啡吧，困死我了。",
+              "vi": "Phiền bạn rót cho tôi cốc cà phê nhé, tôi buồn ngủ chết mất.",
+              "en": "Could you pour me a cup of coffee? I'm dead tired."
+            },
+            {
+              "zh": "你怎么咳嗽得这么厉害？我给你【倒{dào}】杯水吧。",
+              "vi": "Sao bạn ho dữ thế? Để tôi rót cho bạn cốc nước nhé.",
+              "en": "Why are you coughing so badly? Let me pour you a glass of water."
+            }
+          ]
+        },
+        {
+          "vi": "Phó từ 倒 diễn tả ý trái ngược với dự đoán, hàm chứa ngữ khí trách móc hoặc chỉ sự nhượng bộ. Đôi lúc người ta dùng 倒是 thay vì 倒.",
+          "en": "As an adverb, 倒 expresses something contrary to expectation, a reproachful tone, or a concession. 倒是 is sometimes used instead.",
+          "ex": [
+            {
+              "zh": "我以为坐出租车会快些，没想到【倒{dào}】比骑车还慢。",
+              "vi": "Tôi cứ tưởng đi taxi sẽ nhanh hơn, không ngờ lại còn chậm hơn đi xe đạp. (trái với dự đoán)",
+              "en": "I thought a taxi would be quicker, but it turned out even slower than cycling. (contrary to expectation)"
+            },
+            {
+              "zh": "你说得【倒{dào}是】容易，做起来可就难了！",
+              "vi": "Bạn nói thì dễ lắm, làm mới khó đấy! (ngữ khí trách móc)",
+              "en": "That's easy for you to say; actually doing it is hard! (reproachful)"
+            },
+            {
+              "zh": "去长城【倒{dào}是】一个好主意，就是太远了。",
+              "vi": "Đi Vạn Lý Trường Thành thì cũng là ý hay, chỉ có điều xa quá. (nhượng bộ)",
+              "en": "Going to the Great Wall is a good idea, it's just too far. (concession)"
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话或句子",
+        "items": [
+          {
+            "q": "A：____。\nB：好的。你想喝红茶还是绿茶？",
+            "hint": "倒{dào}",
+            "a": "A：【我有点儿渴了，麻烦你给我倒杯茶吧】。\nB：好的。你想喝红茶还是绿茶？",
+            "vi": "A: Tôi hơi khát, phiền bạn rót giúp tôi cốc trà.\nB: Được. Bạn muốn uống trà đen hay trà xanh?",
+            "en": "A: I'm a bit thirsty. Could you pour me a cup of tea?\nB: Sure. Black tea or green tea?",
+            "sample": true
+          },
+          {
+            "q": "我的房间不大，____。",
+            "hint": "倒{dào}",
+            "a": "我的房间不大，【倒是很干净】。",
+            "vi": "Phòng của tôi không rộng, nhưng lại rất sạch sẽ.",
+            "en": "My room isn't big, but it's very clean.",
+            "sample": true
+          },
+          {
+            "q": "A：您儿子跟我聊天儿时告诉我，他想大学毕业后就去当演员。\nB：他____。",
+            "hint": "倒{dào}是",
+            "a": "A：您儿子跟我聊天儿时告诉我，他想大学毕业后就去当演员。\nB：他【想得倒是挺好，可是哪有那么容易啊】。",
+            "vi": "A: Con trai anh lúc nói chuyện với tôi bảo là muốn tốt nghiệp đại học xong đi làm diễn viên.\nB: Nó nghĩ thì hay đấy, nhưng đâu có dễ như vậy.",
+            "en": "A: Your son told me while we were chatting that he wants to become an actor after university.\nB: That's all very well, but it's not that easy.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "干",
+      "py": "gàn",
+      "uses": [
+        {
+          "vi": "Động từ 干 (gàn) (làm) diễn tả ý dấn thân vào sự nghiệp, công việc hay hoạt động nào đó.",
+          "en": "The verb 干 (gàn) means 'to do, to work at' a career, job or activity.",
+          "ex": [
+            {
+              "zh": "每次你让它【干{gàn}】什么，它就像能听懂你的话一样去做。",
+              "vi": "Mỗi lần bạn bảo nó làm gì, nó đều làm như thể nghe hiểu được lời bạn.",
+              "en": "Every time you tell it to do something, it does it as if it understands you."
+            },
+            {
+              "zh": "A：你这篇报道写得很好，以后要继续努力。\nB：谢谢您，我一定会好好儿【干{gàn}】的。",
+              "vi": "A: Bài phóng sự này bạn viết rất tốt, sau này phải tiếp tục cố gắng nhé.\nB: Cảm ơn anh, tôi nhất định sẽ làm việc thật tốt.",
+              "en": "A: This report of yours is very well written. Keep up the good work.\nB: Thank you. I'll definitely work hard."
+            },
+            {
+              "zh": "【干{gàn}】工作的时候一定要认真、仔细，要注意到计划上的每一个地方，否则就很容易出问题。",
+              "vi": "Khi làm việc nhất định phải nghiêm túc, cẩn thận, phải chú ý đến từng chỗ trong kế hoạch, nếu không sẽ rất dễ xảy ra vấn đề.",
+              "en": "When you're working you must be serious and careful and pay attention to every part of the plan; otherwise problems arise easily."
+            }
+          ]
+        },
+        {
+          "vi": "Lưu ý: Khi được đọc là gān, 干 là tính từ, có nghĩa là khô. 干(儿) (gānr) là danh từ, có nghĩa là thực phẩm khô.",
+          "en": "Note: read gān, 干 is an adjective meaning 'dry'. 干(儿) (gānr) is a noun meaning 'dried food'.",
+          "ex": [
+            {
+              "zh": "A：妈，帮我拿条毛巾，外面雨真大啊！\nB：又忘记带伞了吧？头发都湿了，先把头发擦【干{gān}】，别感冒了。",
+              "vi": "A: Mẹ ơi, lấy giúp con cái khăn, bên ngoài mưa to quá!\nB: Lại quên mang ô rồi phải không? Tóc ướt hết rồi, lau khô tóc trước đi, kẻo cảm lạnh.",
+              "en": "A: Mum, can you get me a towel? It's pouring outside!\nB: Forgot your umbrella again? Your hair's soaked. Dry it first so you don't catch cold."
+            },
+            {
+              "zh": "A：这牛肉【干{gān}】味道真不错，在哪儿买的？\nB：不是我买的，是我男朋友从老家寄过来的。",
+              "vi": "A: Thịt bò khô này ngon thật, mua ở đâu thế?\nB: Không phải tôi mua, là bạn trai tôi gửi từ quê lên.",
+              "en": "A: This beef jerky is really tasty. Where did you buy it?\nB: I didn't buy it; my boyfriend sent it from his hometown."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话或句子",
+        "items": [
+          {
+            "q": "A：____？要我帮忙吗？\nB：我想在这面墙上挂一张中国地图，那面墙上挂一张世界地图。",
+            "hint": "干",
+            "a": "A：【你在干什么呢】？要我帮忙吗？\nB：我想在这面墙上挂一张中国地图，那面墙上挂一张世界地图。",
+            "vi": "A: Bạn đang làm gì thế? Cần tôi giúp không?\nB: Tôi muốn treo một tấm bản đồ Trung Quốc ở bức tường này, bức tường kia treo bản đồ thế giới.",
+            "en": "A: What are you doing? Do you need a hand?\nB: I want to hang a map of China on this wall and a world map on that one.",
+            "sample": true
+          },
+          {
+            "q": "新来的服务员____，来吃饭的客人都十分满意。",
+            "hint": "干",
+            "a": "新来的服务员【干得非常好】，来吃饭的客人都十分满意。",
+            "vi": "Nhân viên phục vụ mới đến làm rất tốt, khách đến ăn đều rất hài lòng.",
+            "en": "The new waiter is doing really well; all the diners are very satisfied.",
+            "sample": true
+          },
+          {
+            "q": "你们有时间的话多帮帮小王，他手里的工作又多又难，____。",
+            "hint": "干",
+            "a": "你们有时间的话多帮帮小王，他手里的工作又多又难，【他一个人干不完】。",
+            "vi": "Các bạn có thời gian thì giúp Tiểu Vương nhiều hơn, công việc trong tay cậu ấy vừa nhiều vừa khó, một mình cậu ấy làm không xuể.",
+            "en": "If you have time, help Xiao Wang out. He has so much hard work on his plate that he can't do it all himself.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "趟",
+      "uses": [
+        {
+          "vi": "Lượng từ 趟 chỉ số lần đi lại (chuyến).",
+          "en": "The measure word 趟 counts round trips: 'a trip, a time (going somewhere)'.",
+          "ex": [
+            {
+              "zh": "上个月我去了【趟】北京动物园，那里约有500种动物。",
+              "vi": "Tháng trước tôi đi một chuyến đến vườn thú Bắc Kinh, ở đó có khoảng 500 loài động vật.",
+              "en": "Last month I made a trip to Beijing Zoo. It has about 500 species of animals."
+            },
+            {
+              "zh": "我要出【趟】差{chāi}，你能帮我照顾一下我的小狗吗？",
+              "vi": "Tôi phải đi công tác một chuyến, bạn có thể giúp tôi trông chú chó nhỏ không?",
+              "en": "I have to go on a business trip. Could you look after my puppy for me?"
+            },
+            {
+              "zh": "A：马上就要放暑假了，你有什么安排吗？\nB：我打算先回一【趟】家，看看我奶奶，然后回学校准备研究生考试。",
+              "vi": "A: Sắp nghỉ hè rồi, bạn có dự định gì không?\nB: Mình định về nhà một chuyến thăm bà nội trước, rồi quay lại trường chuẩn bị thi cao học.",
+              "en": "A: The summer holiday's almost here. Do you have any plans?\nB: I'm going to go home first to see my grandma, then come back to school to prepare for the graduate entrance exam."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "趟—次",
+        "uses": [
+          {
+            "vi": "Giống nhau: 趟 và 次 đều chỉ số lần xảy ra của hành động và thông thường có thể thay thế cho nhau. Cả hai từ này được dùng với các động từ diễn tả hành động đi đi lại lại như 来 (đến), 去 (đi), 走 (đi bộ), 跑 (chạy), 接 (đón), 送 (tiễn)...",
+            "en": "Similarity: 趟 and 次 both count how many times an action happens and are usually interchangeable with verbs of coming and going such as 来, 去, 走, 跑, 接, 送.",
+            "ex": [
+              {
+                "zh": "今年寒假我去广东玩儿了一【趟】/【次】。",
+                "vi": "Kỳ nghỉ đông năm nay tôi đã đi Quảng Đông chơi một chuyến.",
+                "en": "This winter holiday I made a trip to Guangdong."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: Trong trường hợp trên, 趟 diễn tả ý đi tới đi lui, chỉ được dùng với những động từ diễn tả hành động hay hoạt động đi đi lại lại; còn 次 chỉ số lần lặp lại của hành động, không nhấn mạnh ý đi tới đi lui.",
+            "en": "Difference 1: 趟 means one trip there and back and is only used with verbs of coming and going; 次 counts repetitions of an action without stressing the there-and-back idea.",
+            "ex": [
+              {
+                "zh": "回来的路上我顺便去了【趟】银行。",
+                "vi": "Trên đường về tôi tiện ghé ngân hàng một chuyến.",
+                "en": "On the way back I stopped by the bank."
+              },
+              {
+                "zh": "小时候，爷爷差不多每个月都带我去看一【次】京剧。",
+                "vi": "Hồi nhỏ, gần như tháng nào ông nội cũng đưa tôi đi xem Kinh kịch một lần.",
+                "en": "When I was little, Grandpa took me to see Peking opera almost once a month."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: 次 cũng có thể được dùng với các động từ diễn tả những hoạt động khác để chỉ số lần thực hiện, chẳng hạn 问 (hỏi), 说 (nói), 看 (xem), 讨论 (thảo luận)... 趟 không dùng được như vậy.",
+            "en": "Difference 2: 次 can also count other actions such as 问 (ask), 说 (say), 看 (watch), 讨论 (discuss). 趟 cannot.",
+            "ex": [
+              {
+                "zh": "你这么着{zháo}急去哪儿啊？我刚才叫了你两【次】，你都没听到。",
+                "vi": "Bạn vội vàng đi đâu thế? Lúc nãy tôi gọi bạn hai lần mà bạn đều không nghe thấy.",
+                "en": "Where are you rushing off to? I called you twice just now and you didn't hear either time."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 3: 趟 cũng có thể được dùng cho xe buýt hay tàu hỏa chạy theo lịch trình và tuyến cố định, tương tự 辆 (lượng từ cho xe cộ) và 列 (lượng từ cho tàu hỏa). 次 không dùng được như vậy.",
+            "en": "Difference 3: 趟 can also be the measure word for scheduled buses or trains on a fixed route, like 辆 (vehicles) and 列 (trains). 次 cannot.",
+            "ex": [
+              {
+                "zh": "附近有好几【趟】公共汽车都能到我工作的公司。",
+                "vi": "Gần đây có mấy tuyến xe buýt đều đến được công ty tôi làm.",
+                "en": "Several bus routes nearby go to the company where I work."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "去年放暑假的时候，我去了一____北京动物园。",
+              "key": "趟 ✓ · 次 ✓",
+              "a": "去年放暑假的时候，我去了一【趟】/【次】北京动物园。",
+              "vi": "Nghỉ hè năm ngoái tôi đã đi sở thú Bắc Kinh một lần.",
+              "en": "During last summer's holidays I went to Beijing Zoo once."
+            },
+            {
+              "q": "我们去____超市吧，明天出去玩儿得{děi}买点儿饼干和面包。",
+              "key": "趟 ✓ (chuyến đi về) · 次 ✗",
+              "a": "我们去【趟】超市吧，明天出去玩儿得{děi}买点儿饼干和面包。",
+              "vi": "Chúng ta đi siêu thị một chuyến đi, mai đi chơi phải mua ít bánh quy và bánh mì.",
+              "en": "Let's pop to the supermarket. We need to buy some biscuits and bread for our trip tomorrow."
+            },
+            {
+              "q": "中午我给你打了好几____电话，你怎么都不接呢？",
+              "key": "趟 ✗ · 次 ✓ (không phải đi lại)",
+              "a": "中午我给你打了好几【次】电话，你怎么都不接呢？",
+              "vi": "Trưa nay tôi gọi cho bạn mấy lần, sao bạn chẳng nghe máy?",
+              "en": "I called you several times at lunchtime. Why didn't you answer?"
+            },
+            {
+              "q": "他没赶上最后一____公共汽车，只好坐出租车回家了。",
+              "key": "趟 ✓ (chuyến xe) · 次 ✗",
+              "a": "他没赶上最后一【趟】公共汽车，只好坐出租车回家了。",
+              "vi": "Anh ấy không kịp chuyến xe buýt cuối cùng nên đành đi taxi về nhà.",
+              "en": "He missed the last bus and had to take a taxi home."
+            },
+            {
+              "q": "西红柿鸡蛋汤的做法很简单，我保证你一____就能学会。",
+              "key": "趟 ✗ · 次 ✓",
+              "a": "西红柿鸡蛋汤的做法很简单，我保证你一【次】就能学会。",
+              "vi": "Cách nấu canh cà chua trứng rất đơn giản, tôi đảm bảo bạn học một lần là biết.",
+              "en": "Tomato and egg soup is very easy to make. I promise you'll learn it in one go."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成对话或句子",
+        "items": [
+          {
+            "q": "A：____，你有什么要买的吗？\nB：买点儿饼干和巧克力回来吧。",
+            "hint": "趟",
+            "a": "A：【我去趟超市】，你有什么要买的吗？\nB：买点儿饼干和巧克力回来吧。",
+            "vi": "A: Tôi đi siêu thị một chuyến, bạn có gì cần mua không?\nB: Mua giúp ít bánh quy và sô-cô-la về nhé.",
+            "en": "A: I'm popping to the supermarket. Is there anything you need?\nB: Get some biscuits and chocolate, please.",
+            "sample": true
+          },
+          {
+            "q": "A：经理，____，我想请一天假{jià}可以吗？\nB：当然可以。怎么了？身体不舒服？",
+            "hint": "趟",
+            "a": "A：经理，【我明天得{děi}去趟医院】，我想请一天假{jià}可以吗？\nB：当然可以。怎么了？身体不舒服？",
+            "vi": "A: Thưa giám đốc, ngày mai tôi phải đi bệnh viện một chuyến, tôi xin nghỉ một ngày được không ạ?\nB: Đương nhiên được. Sao thế? Không khỏe à?",
+            "en": "A: Sir, I have to go to the hospital tomorrow. May I take a day off?\nB: Of course. What's wrong? Are you unwell?",
+            "sample": true
+          },
+          {
+            "q": "今年寒假____，那里的气候和北方不同，尽管现在是冬天，但那儿非常暖和，还能吃到许多新鲜的水果。",
+            "hint": "趟",
+            "a": "今年寒假【我去了趟海南】，那里的气候和北方不同，尽管现在是冬天，但那儿非常暖和，还能吃到许多新鲜的水果。",
+            "vi": "Nghỉ đông năm nay tôi đi Hải Nam một chuyến, khí hậu ở đó khác miền Bắc, dù bây giờ là mùa đông nhưng ở đó rất ấm áp, còn được ăn nhiều hoa quả tươi.",
+            "en": "This winter holiday I went to Hainan. The climate there is different from the north: although it's winter, it's very warm and you can eat lots of fresh fruit.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "为了……而……",
+      "uses": [
+        {
+          "vi": "Trong cấu trúc “为了……而……”, vế câu trước chỉ mục đích của hành động hay hoạt động trong vế câu sau (vì… mà…). Theo sau 为了 là từ hoặc cụm từ.",
+          "en": "In 为了……而……, the first part states the purpose of the action in the second part: 'to do … for the sake of …'. 为了 is followed by a word or phrase.",
+          "ex": [
+            {
+              "zh": "植物会【为了】阳光、空气和水【而】竞争。",
+              "vi": "Cây cối sẽ cạnh tranh nhau vì ánh nắng, không khí và nước.",
+              "en": "Plants compete for sunlight, air and water."
+            },
+            {
+              "zh": "北风与南风【为了】比谁更有能力【而】吵了起来。它们决定，谁能把人们身上的大衣脱掉，谁就赢了。",
+              "vi": "Gió bắc và gió nam cãi nhau để so xem ai giỏi hơn. Chúng quyết định ai làm cho người ta cởi được áo khoác ra thì người đó thắng.",
+              "en": "The North Wind and the South Wind started arguing over which of them was stronger. They decided that whoever could make people take off their coats would win."
+            },
+            {
+              "zh": "自然界中，不少动物和植物【为了】保护自己【而】改变身体的颜色或样子，使自己成为周围环境的一部分。",
+              "vi": "Trong thế giới tự nhiên, không ít động vật và thực vật thay đổi màu sắc hay hình dạng cơ thể để tự bảo vệ, khiến mình trở thành một phần của môi trường xung quanh.",
+              "en": "In nature, many animals and plants change their colour or shape to protect themselves, making themselves part of their surroundings."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "胖一点儿没关系，健康最重要。千万不要____。",
+            "hint": "为了……而……",
+            "a": "胖一点儿没关系，健康最重要。千万不要【为了减肥而不吃饭】。",
+            "vi": "Béo một chút không sao, sức khỏe quan trọng nhất. Nhất định đừng vì giảm cân mà nhịn ăn.",
+            "en": "A little extra weight doesn't matter; health matters most. Never skip meals to lose weight.",
+            "sample": true
+          },
+          {
+            "q": "我们不应该____，应该让钱为我们工作。",
+            "hint": "为了……而……",
+            "a": "我们不应该【为了钱而工作】，应该让钱为我们工作。",
+            "vi": "Chúng ta không nên vì tiền mà làm việc, nên để tiền làm việc cho chúng ta.",
+            "en": "We shouldn't work for money; we should make money work for us.",
+            "sample": true
+          },
+          {
+            "q": "不要____，找时间陪陪父母吧，或者给他们打个电话，不要等到来不及的时候才感到后悔。",
+            "hint": "为了……而……",
+            "a": "不要【为了工作而忘了家人】，找时间陪陪父母吧，或者给他们打个电话，不要等到来不及的时候才感到后悔。",
+            "vi": "Đừng vì công việc mà quên người thân, hãy dành thời gian ở bên bố mẹ, hoặc gọi điện cho họ, đừng đợi đến lúc không kịp mới thấy hối hận.",
+            "en": "Don't forget your family for the sake of work. Find time to be with your parents, or give them a call; don't wait until it's too late and then regret it.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "仍然",
+      "uses": [
+        {
+          "vi": "Phó từ 仍然 chỉ tình huống như cũ, không có sự thay đổi (vẫn, vẫn còn).",
+          "en": "The adverb 仍然 means things stay the same as before, without change: 'still'.",
+          "ex": [
+            {
+              "zh": "就算在几公里深的海底也【仍然】能看到东西。",
+              "vi": "Dù ở đáy biển sâu mấy cây số vẫn có thể nhìn thấy đồ vật.",
+              "en": "Even on the seabed several kilometres down, you can still see things."
+            },
+            {
+              "zh": "人比动物聪明，但动物【仍然】有很多值得人学习的地方。",
+              "vi": "Con người thông minh hơn động vật, nhưng động vật vẫn có nhiều điều đáng để con người học hỏi.",
+              "en": "Humans are cleverer than animals, but animals still have a lot that humans can learn from."
+            },
+            {
+              "zh": "足球决赛时，如果90分钟后【仍然】是0比0，按照规定，可以进行加时赛来决定输赢。",
+              "vi": "Trong trận chung kết bóng đá, nếu sau 90 phút tỉ số vẫn là 0-0 thì theo quy định có thể đá hiệp phụ để phân định thắng thua.",
+              "en": "In a football final, if it's still 0–0 after 90 minutes, the rules allow extra time to decide the winner."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "A：我又跟我丈夫谈了这件事，____。\nB：你再跟他好好儿商量一下。",
+            "hint": "仍然",
+            "a": "A：我又跟我丈夫谈了这件事，【他仍然不同意】。\nB：你再跟他好好儿商量一下。",
+            "vi": "A: Tôi lại nói chuyện này với chồng, anh ấy vẫn không đồng ý.\nB: Bạn bàn bạc lại với anh ấy cho kỹ.",
+            "en": "A: I talked to my husband about it again, but he still doesn't agree.\nB: Have another proper talk with him.",
+            "sample": true
+          },
+          {
+            "q": "尽管这只是一场误会，____。",
+            "hint": "仍然",
+            "a": "尽管这只是一场误会，【他仍然很生气】。",
+            "vi": "Dù đây chỉ là một sự hiểu lầm, anh ấy vẫn rất tức giận.",
+            "en": "Although it was only a misunderstanding, he's still very angry.",
+            "sample": true
+          },
+          {
+            "q": "一个70岁还有梦的老人，____；一个20岁就放弃了理想的人，心已经老了。",
+            "hint": "仍然",
+            "a": "一个70岁还有梦的老人，【心仍然很年轻】；一个20岁就放弃了理想的人，心已经老了。",
+            "vi": "Một ông lão 70 tuổi vẫn còn ước mơ thì tâm hồn vẫn rất trẻ; một người 20 tuổi đã từ bỏ lý tưởng thì tâm hồn đã già rồi.",
+            "en": "A 70-year-old who still has dreams is still young at heart; a 20-year-old who has given up their ideals is already old at heart.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "小夏的语气：\n最近天气越来越凉快了，……",
+          "label": "课文1",
+          "a": "最近天气越来越凉快了，看来秋天已经到了。安娜想去香山看红叶，可是我看天上的云，今天肯定有大雨，再说香山上看红叶的人太多了。我建议改天去长城，广播里说那里也有不少看红叶的好地方。安娜想明天去，可是明天是我爸的生日，所以我们决定再约时间。",
+          "vi": "Dạo này thời tiết ngày càng mát, xem ra mùa thu đã đến. Anna muốn đi Hương Sơn ngắm lá đỏ, nhưng tôi nhìn mây trên trời thấy hôm nay chắc chắn có mưa to, hơn nữa người lên Hương Sơn ngắm lá đỏ đông quá. Tôi đề nghị hôm khác đi Trường Thành, đài phát thanh nói ở đó cũng có nhiều chỗ ngắm lá đỏ đẹp. Anna muốn mai đi, nhưng mai là sinh nhật bố tôi, nên chúng tôi quyết định hẹn lúc khác.",
+          "en": "The weather is getting cooler; autumn seems to be here. Anna wanted to see the red leaves at Xiangshan, but from the clouds I could tell it was going to pour, and anyway it's too crowded there. I suggested the Great Wall another day, since the radio says there are good spots there too. Anna wanted to go tomorrow, but it's my dad's birthday, so we decided to arrange another time.",
+          "sample": true
+        },
+        {
+          "q": "小林的语气：\n小李家的大黑狗又聪明又漂亮，……",
+          "label": "课文2",
+          "a": "小李家的大黑狗又聪明又漂亮，每次见了我都想抱一抱它。小李说狗是很聪明的动物，只要稍微花点儿时间教教它，它就能学会很多东西。不过只教一次是不够的，应该耐心地{de}一遍一遍地{de}教给它。看来没有想的那么容易。小李说狗是我们的好朋友，能明白人的心情。",
+          "vi": "Con chó đen to nhà Tiểu Lý vừa thông minh vừa đẹp, lần nào gặp tôi cũng muốn bế nó. Tiểu Lý nói chó là động vật rất thông minh, chỉ cần bỏ chút thời gian dạy là nó học được nhiều thứ. Nhưng dạy một lần là không đủ, phải kiên nhẫn dạy đi dạy lại. Xem ra không dễ như tôi nghĩ. Tiểu Lý nói chó là bạn tốt của chúng ta, hiểu được tâm trạng con người.",
+          "en": "Xiao Li's big black dog is clever and beautiful; every time I see it I want to cuddle it. Xiao Li says dogs are very clever and can learn a lot with a little teaching, but once isn't enough; you have to teach them patiently over and over. It's not as easy as I thought. Xiao Li says dogs are our good friends and understand how we feel.",
+          "sample": true
+        },
+        {
+          "q": "马克的语气：\n上个月我去了趟北京动物园，……",
+          "label": "课文3",
+          "a": "上个月我去了趟北京动物园，那里约有500种动物，是亚洲最大的动物园之一。我去的那天正赶上六一儿童节，入口处排队的人很多，动物园里热闹极了。熊猫们也变得特别活泼，我还给它们照了不少照片。大熊猫数量不多，现在全世界一共才有一千多只。",
+          "vi": "Tháng trước tôi đi sở thú Bắc Kinh một chuyến, ở đó có khoảng 500 loài động vật, là một trong những sở thú lớn nhất châu Á. Hôm tôi đi đúng ngày Quốc tế thiếu nhi, cổng vào rất đông người xếp hàng, sở thú náo nhiệt vô cùng. Lũ gấu trúc cũng đặc biệt hoạt bát, tôi còn chụp cho chúng không ít ảnh. Gấu trúc số lượng không nhiều, cả thế giới chỉ có hơn một nghìn con.",
+          "en": "Last month I went to Beijing Zoo, which has about 500 species and is one of the biggest zoos in Asia. It happened to be Children's Day, so there was a long queue at the entrance and the zoo was really lively. The pandas were especially playful, and I took lots of photos. There aren't many pandas: only about a thousand in the whole world.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "广播",
+        "尊重",
+        "剩",
+        "照",
+        "底"
+      ],
+      "items": [
+        {
+          "q": "这本小说就____十几页了，我想看看最后到底怎么样了。",
+          "key": "剩",
+          "a": "这本小说就【剩】十几页了，我想看看最后到底怎么样了。",
+          "vi": "Cuốn tiểu thuyết này chỉ còn mười mấy trang, tôi muốn xem cuối cùng rốt cuộc thế nào.",
+          "en": "There are only a dozen or so pages left in this novel. I want to see how it ends."
+        },
+        {
+          "q": "刚才听____说明天可能会下大雨，足球比赛恐怕要推迟了。",
+          "key": "广播",
+          "a": "刚才听【广播】说明天可能会下大雨，足球比赛恐怕要推迟了。",
+          "vi": "Lúc nãy nghe đài nói ngày mai có thể mưa to, trận bóng e là phải hoãn.",
+          "en": "I just heard on the radio that it may pour tomorrow, so the football match will probably be postponed."
+        },
+        {
+          "q": "您看这个沙发怎么样？我们年____有活动，正在打折，比平时便宜了一千块。",
+          "key": "底",
+          "a": "您看这个沙发怎么样？我们年【底】有活动，正在打折，比平时便宜了一千块。",
+          "vi": "Chị xem chiếc sofa này thế nào? Cuối năm chúng tôi có chương trình, đang giảm giá, rẻ hơn bình thường một nghìn tệ.",
+          "en": "What do you think of this sofa? We have a year-end promotion on; it's a thousand yuan cheaper than usual."
+        },
+        {
+          "q": "不管男人还是女人，只要能在自己的工作中取得好的成绩，都应该赢得____。",
+          "key": "尊重",
+          "a": "不管男人还是女人，只要能在自己的工作中取得好的成绩，都应该赢得【尊重】。",
+          "vi": "Dù là đàn ông hay phụ nữ, chỉ cần đạt thành tích tốt trong công việc của mình đều đáng được tôn trọng.",
+          "en": "Whether man or woman, anyone who achieves good results in their work deserves respect."
+        },
+        {
+          "q": "很多自行车后面都有一个灯，虽然小，但用处却很大。每当后面汽车的灯光____到它时，它就会反光，这样就能提醒司机前方有人。",
+          "key": "照",
+          "a": "很多自行车后面都有一个灯，虽然小，但用处却很大。每当后面汽车的灯光【照】到它时，它就会反光，这样就能提醒司机前方有人。",
+          "vi": "Nhiều xe đạp phía sau có một cái đèn, tuy nhỏ nhưng tác dụng rất lớn. Mỗi khi đèn ô tô phía sau chiếu vào, nó sẽ phản quang, như vậy có thể nhắc tài xế phía trước có người.",
+          "en": "Many bicycles have a light on the back. It's small but very useful: whenever the headlights of a car behind shine on it, it reflects the light and warns the driver that someone is ahead."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "难受",
+        "暖和",
+        "活泼",
+        "凉快",
+        "热闹"
+      ],
+      "items": [
+        {
+          "q": "A：下了雨，____多了，前几天实在是太热了。\nB：是啊，前两天晚上热得都睡不着{zháo}，今天终于能睡个好觉了。",
+          "key": "凉快",
+          "a": "A：下了雨，【凉快】多了，前几天实在是太热了。\nB：是啊，前两天晚上热得都睡不着{zháo}，今天终于能睡个好觉了。",
+          "vi": "A: Mưa xuống mát hẳn, mấy hôm trước nóng quá.\nB: Đúng vậy, mấy tối trước nóng đến không ngủ được, hôm nay cuối cùng cũng ngủ ngon được.",
+          "en": "A: It's much cooler since the rain. It was far too hot the last few days.\nB: Yes, it was too hot to sleep the last couple of nights. At last I can get a good night's sleep."
+        },
+        {
+          "q": "A：你经常参加学校举办的舞会吗？\nB：不，我从来没参加过，我不太喜欢____。",
+          "key": "热闹",
+          "a": "A：你经常参加学校举办的舞会吗？\nB：不，我从来没参加过，我不太喜欢【热闹】。",
+          "vi": "A: Bạn có thường tham gia dạ hội do trường tổ chức không?\nB: Không, tôi chưa bao giờ tham gia, tôi không thích chỗ ồn ào lắm.",
+          "en": "A: Do you often go to the school dances?\nB: No, I've never been. I don't really like noisy crowds."
+        },
+        {
+          "q": "A：工作半天了，起来活动活动。\nB：好，坐久了确实有些____。",
+          "key": "难受",
+          "a": "A：工作半天了，起来活动活动。\nB：好，坐久了确实有些【难受】。",
+          "vi": "A: Làm việc nửa ngày rồi, đứng dậy vận động chút đi.\nB: Được, ngồi lâu đúng là hơi khó chịu.",
+          "en": "A: You've been working for hours. Get up and move around a bit.\nB: OK. Sitting for so long really is a bit uncomfortable."
+        },
+        {
+          "q": "A：小李，我给你介绍个女朋友吧，说说你有什么条件。\nB：我，我喜欢____可爱的女孩子。",
+          "key": "活泼",
+          "a": "A：小李，我给你介绍个女朋友吧，说说你有什么条件。\nB：我，我喜欢【活泼】可爱的女孩子。",
+          "vi": "A: Tiểu Lý, tôi giới thiệu bạn gái cho cậu nhé, nói xem cậu có điều kiện gì.\nB: Tôi, tôi thích cô gái hoạt bát đáng yêu.",
+          "en": "A: Xiao Li, let me introduce you to a girlfriend. Tell me what you're looking for.\nB: I, um, like lively, cute girls."
+        },
+        {
+          "q": "A：今天很____，外面一点儿也不冷，你不用穿这么多衣服。\nB：好的，那我脱掉一件。",
+          "key": "暖和",
+          "a": "A：今天很【暖和】，外面一点儿也不冷，你不用穿这么多衣服。\nB：好的，那我脱掉一件。",
+          "vi": "A: Hôm nay trời ấm, bên ngoài chẳng lạnh chút nào, bạn không cần mặc nhiều thế đâu.\nB: Được, vậy tôi cởi bớt một cái.",
+          "en": "A: It's warm today, not at all cold outside. You don't need to wear so many clothes.\nB: OK, I'll take one off."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 然",
+    "en": "Words sharing a character: 然",
+    "words": [
+      {
+        "zh": "既然",
+        "py": "jìrán",
+        "vi": "đã… thì",
+        "en": "since"
+      },
+      {
+        "zh": "竟然",
+        "py": "jìngrán",
+        "vi": "vậy mà, không ngờ",
+        "en": "unexpectedly"
+      },
+      {
+        "zh": "仍然",
+        "py": "réngrán",
+        "vi": "vẫn",
+        "en": "still"
+      },
+      {
+        "zh": "突然",
+        "py": "tūrán",
+        "vi": "đột nhiên",
+        "en": "suddenly"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "【既然】知道是你错了，那你就该主动向他道歉。",
+        "vi": "Đã biết là bạn sai thì bạn nên chủ động xin lỗi anh ấy.",
+        "en": "Since you know you were wrong, you should take the initiative and apologize to him."
+      },
+      {
+        "zh": "让人吃惊的是，这本小说的作者【竟然】是个十几岁的中学生，他写这本书时才上高中二年级。",
+        "vi": "Điều khiến người ta ngạc nhiên là tác giả cuốn tiểu thuyết này lại là một học sinh trung học mười mấy tuổi, lúc viết cuốn sách này cậu mới học lớp 11.",
+        "en": "What's surprising is that the author of this novel is a teenage schoolboy who was only in his second year of senior high when he wrote it."
+      },
+      {
+        "zh": "去年放暑假的时候我去了一趟云南。现在回忆起来，我【仍然】觉得那是一次愉快的旅行，非常难忘。",
+        "vi": "Nghỉ hè năm ngoái tôi đi Vân Nam một chuyến. Bây giờ nhớ lại, tôi vẫn thấy đó là một chuyến đi vui vẻ, rất khó quên.",
+        "en": "I went to Yunnan during last summer's holidays. Looking back now, I still think it was a delightful trip; it was unforgettable."
+      },
+      {
+        "zh": "那天的事情太【突然】了，李先生也没想到会弄成这个样子，他当时并不是故意的。",
+        "vi": "Chuyện hôm đó quá đột ngột, ông Lý cũng không ngờ lại thành ra như vậy, lúc đó ông ấy không hề cố ý.",
+        "en": "What happened that day was so sudden; Mr. Li never expected it to turn out like that. He didn't do it on purpose."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "既然",
+        "竟然",
+        "仍然",
+        "突然"
+      ],
+      "items": [
+        {
+          "q": "真是没想到，四年的大学生活____这么快就结束了！",
+          "key": "竟然",
+          "a": "真是没想到，四年的大学生活【竟然】这么快就结束了！",
+          "vi": "Thật không ngờ bốn năm đại học lại kết thúc nhanh như vậy!",
+          "en": "I really can't believe four years of university have gone by so quickly!"
+        },
+        {
+          "q": "A：刚才太危险了，那辆车怎么回事？\nB：不知道，____加速，估计是新手，刚学会开车。",
+          "key": "突然",
+          "a": "A：刚才太危险了，那辆车怎么回事？\nB：不知道，【突然】加速，估计是新手，刚学会开车。",
+          "vi": "A: Lúc nãy nguy hiểm quá, chiếc xe đó bị sao vậy?\nB: Không biết, đột nhiên tăng tốc, chắc là lái mới, vừa học lái xe.",
+          "en": "A: That was really dangerous. What was that car doing?\nB: No idea. It suddenly sped up. Probably a new driver who's just learned."
+        },
+        {
+          "q": "只要你不放弃努力，就____有希望。你总会找到一条合适的路，通往成功的目的地。",
+          "key": "仍然",
+          "a": "只要你不放弃努力，就【仍然】有希望。你总会找到一条合适的路，通往成功的目的地。",
+          "vi": "Chỉ cần bạn không từ bỏ nỗ lực thì vẫn còn hy vọng. Bạn rồi sẽ tìm được một con đường phù hợp dẫn đến đích thành công.",
+          "en": "As long as you don't give up, there's still hope. You'll find the right road to success in the end."
+        },
+        {
+          "q": "世界上有一种药是肯定买不到的，那就是“后悔药”。有些事情过去了就是过去了，再也不能回头。____不能重新来过，那么就把那些过去的事情放在心里，当成一种回忆，然后勇敢地{de}抬起头向前看，走好以后的路。",
+          "key": "既然",
+          "a": "世界上有一种药是肯定买不到的，那就是“后悔药”。有些事情过去了就是过去了，再也不能回头。【既然】不能重新来过，那么就把那些过去的事情放在心里，当成一种回忆，然后勇敢地{de}抬起头向前看，走好以后的路。",
+          "vi": "Trên đời có một loại thuốc chắc chắn không mua được, đó là “thuốc hối hận”. Có những chuyện qua rồi là qua, không thể quay lại. Đã không thể làm lại từ đầu thì hãy cất những chuyện đã qua trong lòng, coi như kỷ niệm, rồi dũng cảm ngẩng đầu nhìn về phía trước, đi tốt con đường sau này.",
+          "en": "There's one medicine in the world you can never buy: the “regret pill”. Some things are in the past and can't be undone. Since you can't start over, keep those things in your heart as memories, then bravely look ahead and walk the road before you well."
+        }
+      ]
+    }
+  }
+}

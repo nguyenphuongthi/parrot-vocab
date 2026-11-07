@@ -1,0 +1,1048 @@
+{
+  "n": 5,
+  "zh": "只买对的，不买贵的",
+  "vi": "Chỉ mua cái đúng, không mua cái đắt",
+  "en": "Buy what's right, not what's expensive",
+  "texts": [
+    {
+      "title": "王静在家具店买沙发",
+      "paras": [
+        {
+          "zh": "售货员：小姐，您好！您想买什么家具？需要我为您介绍一下吗？",
+          "vi": "Nhân viên bán hàng: Chào chị! Chị muốn mua đồ nội thất gì ạ? Có cần em giới thiệu cho chị không?",
+          "en": "Shop assistant: Hello, miss! What furniture are you looking for? Can I help you?"
+        },
+        {
+          "zh": "王静：谢谢，我想买沙发。",
+          "vi": "Vương Tịnh: Cảm ơn, tôi muốn mua ghế sofa.",
+          "en": "Wang Jing: Thanks, I'd like to buy a sofa."
+        },
+        {
+          "zh": "售货员：您看这个沙发怎么样？现在正在打折，比平时便宜了一千块。",
+          "vi": "Nhân viên bán hàng: Chị xem chiếc sofa này thế nào ạ? Bây giờ đang giảm giá, rẻ hơn bình thường một nghìn tệ.",
+          "en": "Shop assistant: What do you think of this sofa? It's on sale at the moment, a thousand yuan cheaper than usual."
+        },
+        {
+          "zh": "王静：价格还可以，就是不知道质量有没有保证。",
+          "vi": "Vương Tịnh: Giá cũng được, chỉ không biết chất lượng có đảm bảo không.",
+          "en": "Wang Jing: The price is all right, I just don't know if the quality is any good."
+        },
+        {
+          "zh": "售货员：您放心，质量肯定不“打折”，这种沙发是今年最流行的。有很多种颜色可以选择，您可以看一下。",
+          "vi": "Nhân viên bán hàng: Chị yên tâm, chất lượng chắc chắn không “giảm giá”, loại sofa này thịnh hành nhất năm nay. Có nhiều màu để chọn, chị có thể xem thử.",
+          "en": "Shop assistant: Don't worry, the quality definitely isn't “discounted”. This is the most popular sofa this year. It comes in lots of colours; have a look."
+        },
+        {
+          "zh": "王静：这个蓝色的看上去不错，就要这个吧。",
+          "vi": "Vương Tịnh: Cái màu xanh này trông được đấy, lấy cái này đi.",
+          "en": "Wang Jing: This blue one looks nice. I'll take it."
+        }
+      ],
+      "words": [
+        {
+          "zh": "家具",
+          "py": "jiājù",
+          "pos": "dt.",
+          "vi": "đồ dùng trong nhà",
+          "en": "furniture"
+        },
+        {
+          "zh": "沙发",
+          "py": "shāfā",
+          "pos": "dt.",
+          "vi": "ghế sô pha",
+          "en": "sofa"
+        },
+        {
+          "zh": "打折",
+          "py": "dǎ zhé",
+          "pos": "đgt.",
+          "vi": "giảm giá",
+          "en": "to give a discount"
+        },
+        {
+          "zh": "价格",
+          "py": "jiàgé",
+          "pos": "dt.",
+          "vi": "giá cả",
+          "en": "price"
+        },
+        {
+          "zh": "质量",
+          "py": "zhìliàng",
+          "pos": "dt.",
+          "vi": "chất lượng",
+          "en": "quality"
+        },
+        {
+          "zh": "肯定",
+          "py": "kěndìng",
+          "pos": "phó.",
+          "vi": "chắc chắn, nhất định",
+          "en": "certainly, definitely"
+        },
+        {
+          "zh": "流行",
+          "py": "liúxíng",
+          "pos": "đgt.",
+          "vi": "được nhiều người ưa chuộng",
+          "en": "to be popular, to be in fashion"
+        }
+      ]
+    },
+    {
+      "title": "王静和李进在商场买东西",
+      "paras": [
+        {
+          "zh": "王静：咱家的冰箱太旧了，商场正好打折，我们顺便也买一台吧。",
+          "vi": "Vương Tịnh: Tủ lạnh nhà mình cũ quá rồi, trung tâm thương mại vừa hay đang giảm giá, tiện thể mình mua luôn một cái đi.",
+          "en": "Wang Jing: Our fridge is really old. The mall happens to have a sale, so let's buy a new one while we're at it."
+        },
+        {
+          "zh": "李进：今天买的东西太多了。再说，这个月家里已经花了五千多了。",
+          "vi": "Lý Tiến: Hôm nay mua nhiều đồ quá rồi. Hơn nữa, tháng này nhà mình đã tiêu hơn năm nghìn rồi.",
+          "en": "Li Jin: We've bought too much today. Besides, we've already spent over five thousand this month."
+        },
+        {
+          "zh": "王静：这么多？你不会是记错了吧？",
+          "vi": "Vương Tịnh: Nhiều thế à? Không phải anh nhớ nhầm đấy chứ?",
+          "en": "Wang Jing: That much? You haven't got it wrong, have you?"
+        },
+        {
+          "zh": "李进：没错。上个星期光买沙发就花了两千多。",
+          "vi": "Lý Tiến: Không nhầm đâu. Tuần trước chỉ riêng mua sofa đã hết hơn hai nghìn.",
+          "en": "Li Jin: No. Last week the sofa alone cost over two thousand."
+        },
+        {
+          "zh": "王静：但是咱家的冰箱实在太旧了，制冷效果也不太好了，还是买个新的吧。",
+          "vi": "Vương Tịnh: Nhưng tủ lạnh nhà mình thật sự cũ quá rồi, làm lạnh cũng không tốt nữa, vẫn nên mua cái mới thôi.",
+          "en": "Wang Jing: But our fridge really is too old, and it doesn't keep things cold very well any more. We'd better buy a new one."
+        },
+        {
+          "zh": "李进：那好吧，我带的现金不够，用你的信用卡吧。",
+          "vi": "Lý Tiến: Thôi được, tiền mặt anh mang không đủ, dùng thẻ tín dụng của em nhé.",
+          "en": "Li Jin: All right then. I haven't brought enough cash, so let's use your credit card."
+        }
+      ],
+      "words": [
+        {
+          "zh": "顺便",
+          "py": "shùnbiàn",
+          "pos": "phó.",
+          "vi": "nhân tiện",
+          "en": "conveniently, while one is at it"
+        },
+        {
+          "zh": "台",
+          "py": "tái",
+          "pos": "lượng.",
+          "vi": "(dùng cho máy móc) cái, chiếc",
+          "en": "measure word for machines"
+        },
+        {
+          "zh": "光",
+          "py": "guāng",
+          "pos": "phó.",
+          "vi": "chỉ",
+          "en": "only, just"
+        },
+        {
+          "zh": "实在",
+          "py": "shízài",
+          "pos": "phó.",
+          "vi": "kỳ thực, quả thực",
+          "en": "really, truly"
+        },
+        {
+          "zh": "制冷",
+          "py": "zhìlěng",
+          "pos": "đgt.",
+          "vi": "làm lạnh, ướp lạnh",
+          "en": "to refrigerate, to cool",
+          "x": true
+        },
+        {
+          "zh": "效果",
+          "py": "xiàoguǒ",
+          "pos": "dt.",
+          "vi": "hiệu quả",
+          "en": "effect"
+        },
+        {
+          "zh": "现金",
+          "py": "xiànjīn",
+          "pos": "dt.",
+          "vi": "tiền mặt",
+          "en": "cash"
+        }
+      ]
+    },
+    {
+      "title": "李进和王静在超市买礼物",
+      "paras": [
+        {
+          "zh": "李进：李老师邀请咱们去他家做客，给他带点儿什么礼物好呢？",
+          "vi": "Lý Tiến: Thầy Lý mời chúng mình đến nhà chơi, mang quà gì cho thầy thì hay nhỉ?",
+          "en": "Li Jin: Mr. Li has invited us to his home. What sort of present should we bring him?"
+        },
+        {
+          "zh": "王静：他很喜欢葡萄酒，我们就给他买两瓶葡萄酒吧。",
+          "vi": "Vương Tịnh: Thầy rất thích rượu vang, mình mua tặng thầy hai chai rượu vang đi.",
+          "en": "Wang Jing: He loves wine. Let's buy him two bottles."
+        },
+        {
+          "zh": "李进：可是这里有这么多种，你知道哪种好吗？",
+          "vi": "Lý Tiến: Nhưng ở đây có nhiều loại thế, em biết loại nào ngon không?",
+          "en": "Li Jin: But there are so many kinds here. Do you know which is good?"
+        },
+        {
+          "zh": "王静：我觉得这种不错，你看它酒瓶做得都这么艺术。而且电视上经常有它的广告，我想味道应该不错。",
+          "vi": "Vương Tịnh: Em thấy loại này được, anh xem chai rượu của nó làm nghệ thuật thế này. Hơn nữa trên tivi thường có quảng cáo của nó, em nghĩ vị chắc là ngon.",
+          "en": "Wang Jing: I think this one's good. Look how artistic the bottle is. And it's often advertised on TV, so I reckon it must taste good."
+        },
+        {
+          "zh": "李进：广告只会介绍优点，却不会说它的缺点。实际上，很多东西并不像广告上说的那么好，所以不能完全相信广告。",
+          "vi": "Lý Tiến: Quảng cáo chỉ giới thiệu ưu điểm chứ không nói khuyết điểm. Thực tế nhiều thứ không hề tốt như quảng cáo nói, nên không thể hoàn toàn tin quảng cáo.",
+          "en": "Li Jin: Adverts only tell you the good points, never the bad ones. In fact, lots of things aren't nearly as good as the adverts say, so you can't completely trust them."
+        },
+        {
+          "zh": "王静：你说的也对。",
+          "vi": "Vương Tịnh: Anh nói cũng đúng.",
+          "en": "Wang Jing: You've got a point."
+        }
+      ],
+      "words": [
+        {
+          "zh": "邀请",
+          "py": "yāoqǐng",
+          "pos": "đgt.",
+          "vi": "mời",
+          "en": "to invite"
+        },
+        {
+          "zh": "葡萄",
+          "py": "pútao",
+          "pos": "dt.",
+          "vi": "quả nho",
+          "en": "grape"
+        },
+        {
+          "zh": "艺术",
+          "py": "yìshù",
+          "pos": "dt./tt.",
+          "vi": "nghệ thuật; có tính nghệ thuật",
+          "en": "art; artistic"
+        },
+        {
+          "zh": "广告",
+          "py": "guǎnggào",
+          "pos": "dt.",
+          "vi": "quảng cáo",
+          "en": "advertisement"
+        },
+        {
+          "zh": "味道",
+          "py": "wèidào",
+          "pos": "dt.",
+          "vi": "mùi vị",
+          "en": "taste, flavour"
+        },
+        {
+          "zh": "优点",
+          "py": "yōudiǎn",
+          "pos": "dt.",
+          "vi": "ưu điểm",
+          "en": "advantage, strong point"
+        },
+        {
+          "zh": "实际",
+          "py": "shíjì",
+          "pos": "dt.",
+          "vi": "thực tế",
+          "en": "reality"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "买衣服只考虑价格当然不好，但是只考虑买好看的也不一定对。我买衣服的标准是“只买对的，不买贵的”。第一，自己穿着{zhe}舒服；第二，衣服的质量要好，而且又不能太贵。对我来说，衣服的样子流行不流行并不是很重要。很多年龄大的人喜欢在打折的时候买便宜的衣服，但对那些衣服是不是适合自己却考虑得不多。这点是我理解不了的，因为如果不适合自己，即使花钱很少，也是一种浪费。",
+          "vi": "Mua quần áo chỉ cân nhắc giá cả đương nhiên không tốt, nhưng chỉ cân nhắc mua đồ đẹp cũng chưa chắc đã đúng. Tiêu chuẩn mua quần áo của tôi là “chỉ mua cái phù hợp, không mua cái đắt”. Thứ nhất, bản thân mặc thấy thoải mái; thứ hai, chất lượng quần áo phải tốt mà lại không được quá đắt. Đối với tôi, kiểu dáng quần áo có hợp thời hay không không hề quan trọng lắm. Nhiều người lớn tuổi thích mua quần áo rẻ khi giảm giá, nhưng lại ít cân nhắc xem quần áo đó có hợp với mình hay không. Điều này tôi không thể hiểu được, vì nếu không hợp với mình thì dù tiêu ít tiền cũng là một sự lãng phí.",
+          "en": "When buying clothes, considering only the price is of course not good, but considering only what looks nice isn't necessarily right either. My rule for buying clothes is “buy only what's right, not what's expensive.” First, they must be comfortable to wear; second, they must be good quality but not too expensive. For me, whether a style is fashionable or not doesn't really matter. Many older people like to buy cheap clothes in the sales, but give little thought to whether those clothes suit them. That's something I can't understand, because if something doesn't suit you, it's a waste even if it cost very little."
+        }
+      ],
+      "words": [
+        {
+          "zh": "考虑",
+          "py": "kǎolǜ",
+          "pos": "đgt.",
+          "vi": "suy xét, cân nhắc",
+          "en": "to consider"
+        },
+        {
+          "zh": "标准",
+          "py": "biāozhǔn",
+          "pos": "dt.",
+          "vi": "tiêu chuẩn, chuẩn mực",
+          "en": "standard, criterion"
+        },
+        {
+          "zh": "样子",
+          "py": "yàngzi",
+          "pos": "dt.",
+          "vi": "kiểu dáng",
+          "en": "style, appearance"
+        },
+        {
+          "zh": "年龄",
+          "py": "niánlíng",
+          "pos": "dt.",
+          "vi": "tuổi",
+          "en": "age"
+        },
+        {
+          "zh": "浪费",
+          "py": "làngfèi",
+          "pos": "đgt.",
+          "vi": "lãng phí, hoang phí",
+          "en": "to waste"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "现在网上购物变得越来越流行了，年轻人尤其喜欢在网上买东西。在网上几乎什么都可以买到，你可以上网买书、买衣服、买包，还可以买家具、买手机。网上购物能够受到人们的喜爱，原因主要有两个：首先，网上的东西很多，而且比去商店买便宜，这是吸引人们购买的主要原因。其次，人们可以在任何时间上网购买自己喜欢的东西，卖家可以把你买的东西寄到你办公室或者家里，非常方便。",
+          "vi": "Bây giờ mua sắm trên mạng ngày càng thịnh hành, người trẻ đặc biệt thích mua đồ trên mạng. Trên mạng hầu như cái gì cũng mua được, bạn có thể lên mạng mua sách, mua quần áo, mua túi, còn có thể mua đồ nội thất, mua điện thoại. Mua sắm trên mạng được mọi người yêu thích chủ yếu vì hai nguyên nhân: Thứ nhất, hàng trên mạng rất nhiều, lại rẻ hơn mua ở cửa hàng, đây là nguyên nhân chính thu hút người ta mua. Thứ hai, người ta có thể lên mạng mua thứ mình thích vào bất cứ lúc nào, người bán có thể gửi đồ bạn mua đến văn phòng hoặc nhà bạn, vô cùng tiện lợi.",
+          "en": "Online shopping is becoming more and more popular, and young people especially like buying things online. You can buy almost anything online: books, clothes, bags, even furniture and mobile phones. There are two main reasons why online shopping is so popular. First, there's a huge range of goods online, and they're cheaper than in shops; this is the main attraction. Second, people can buy what they like online at any time, and the seller can send it to your office or home, which is very convenient."
+        }
+      ],
+      "words": [
+        {
+          "zh": "购物",
+          "py": "gòu wù",
+          "vi": "mua sắm, mua hàng",
+          "en": "to shop"
+        },
+        {
+          "zh": "尤其",
+          "py": "yóuqí",
+          "pos": "phó.",
+          "vi": "đặc biệt là, nhất là",
+          "en": "especially"
+        },
+        {
+          "zh": "受到",
+          "py": "shòudào",
+          "pos": "đgt.",
+          "vi": "nhận được",
+          "en": "to receive, to be subject to"
+        },
+        {
+          "zh": "任何",
+          "py": "rènhé",
+          "pos": "đt.",
+          "vi": "bất cứ, bất kỳ",
+          "en": "any"
+        },
+        {
+          "zh": "寄",
+          "py": "jì",
+          "pos": "đgt.",
+          "vi": "gửi",
+          "en": "to send, to post"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "沙发的价格和质量怎么样？",
+        "label": "课文1",
+        "a": "沙发正在打折，【比平时便宜了一千块】。售货员说【质量肯定不“打折”】。",
+        "vi": "Sofa đang giảm giá, rẻ hơn bình thường một nghìn tệ. Nhân viên bán hàng nói chất lượng chắc chắn không “giảm”.",
+        "en": "The sofa is on sale, a thousand yuan cheaper than usual. The assistant says the quality definitely isn't “discounted”."
+      },
+      {
+        "q": "王静决定买哪个沙发？为什么？",
+        "label": "课文1",
+        "a": "她决定买【蓝色的】，因为【它看上去不错】。",
+        "vi": "Cô ấy quyết định mua cái màu xanh, vì trông nó đẹp.",
+        "en": "She decides to buy the blue one, because it looks nice."
+      },
+      {
+        "q": "王静为什么想买冰箱？",
+        "label": "课文2",
+        "a": "因为【家里的冰箱太旧了，制冷效果也不太好了】，而且商场正好打折。",
+        "vi": "Vì tủ lạnh nhà cô ấy quá cũ, làm lạnh cũng không tốt nữa, hơn nữa trung tâm thương mại vừa hay đang giảm giá.",
+        "en": "Because their fridge is too old and doesn't cool well any more, and the mall happens to have a sale."
+      },
+      {
+        "q": "李进开始为什么不同意买冰箱？后来为什么又同意了？",
+        "label": "课文2",
+        "a": "开始不同意是因为【今天买的东西太多了，这个月家里已经花了五千多了】。后来同意是因为【家里的冰箱实在太旧了】。",
+        "vi": "Lúc đầu không đồng ý vì hôm nay mua quá nhiều, tháng này nhà đã tiêu hơn năm nghìn. Sau đồng ý vì tủ lạnh nhà thật sự quá cũ.",
+        "en": "At first he disagreed because they'd bought too much today and had already spent over five thousand this month. He agreed later because their fridge really was too old."
+      },
+      {
+        "q": "王静和李进打算给李老师买什么礼物？王静为什么觉得“这种”不错？",
+        "label": "课文3",
+        "a": "他们打算买【两瓶葡萄酒】。王静觉得这种不错，因为【酒瓶做得很艺术，而且电视上经常有它的广告】。",
+        "vi": "Họ định mua hai chai rượu vang. Vương Tịnh thấy loại này được vì chai rượu làm rất nghệ thuật, hơn nữa trên tivi thường có quảng cáo.",
+        "en": "They plan to buy two bottles of wine. Wang Jing likes this kind because the bottle is very artistic and it's often advertised on TV."
+      },
+      {
+        "q": "为什么不能完全相信广告？",
+        "label": "课文3",
+        "a": "因为【广告只会介绍优点，却不会说缺点】，很多东西并不像广告上说的那么好。",
+        "vi": "Vì quảng cáo chỉ giới thiệu ưu điểm mà không nói khuyết điểm, nhiều thứ không hề tốt như quảng cáo nói.",
+        "en": "Because adverts only mention good points, never bad ones, and many things aren't as good as the adverts claim."
+      },
+      {
+        "q": "买衣服要考虑什么？“我”买衣服的标准是什么？",
+        "label": "课文4",
+        "a": "不能只考虑价格，也不能只考虑好看。“我”的标准是【“只买对的，不买贵的”】：第一，自己穿着{zhe}舒服；第二，质量要好，而且不能太贵。",
+        "vi": "Không thể chỉ xét giá cả, cũng không thể chỉ xét đẹp hay không. Tiêu chuẩn của “tôi” là “chỉ mua cái phù hợp, không mua cái đắt”: thứ nhất mặc thoải mái, thứ hai chất lượng tốt mà không quá đắt.",
+        "en": "You shouldn't consider only price or only looks. “My” rule is “buy what's right, not what's expensive”: first, comfortable to wear; second, good quality but not too expensive."
+      },
+      {
+        "q": "“我”不能理解什么？",
+        "label": "课文4",
+        "a": "很多年龄大的人喜欢在打折的时候买便宜的衣服，但【不太考虑那些衣服是不是适合自己】。",
+        "vi": "Nhiều người lớn tuổi thích mua quần áo rẻ khi giảm giá nhưng lại ít cân nhắc xem quần áo đó có hợp với mình không.",
+        "en": "Many older people like buying cheap clothes in the sales without considering whether they suit them."
+      },
+      {
+        "q": "在网上可以买哪些东西？",
+        "label": "课文5",
+        "a": "在网上几乎什么都可以买到，【可以买书、买衣服、买包，还可以买家具、买手机】。",
+        "vi": "Trên mạng hầu như mua được mọi thứ: sách, quần áo, túi, còn có đồ nội thất, điện thoại.",
+        "en": "You can buy almost anything online: books, clothes, bags, even furniture and mobile phones."
+      },
+      {
+        "q": "人们为什么喜欢在网上购物？",
+        "label": "课文5",
+        "a": "首先，【网上的东西很多，而且比去商店买便宜】；其次，【人们可以在任何时间购买，卖家还可以把东西寄到办公室或者家里，非常方便】。",
+        "vi": "Thứ nhất, hàng trên mạng nhiều lại rẻ hơn cửa hàng; thứ hai, có thể mua bất cứ lúc nào, người bán còn gửi hàng đến văn phòng hoặc nhà, rất tiện.",
+        "en": "First, there's a huge range and it's cheaper than in shops; second, you can buy at any time and the seller sends it to your office or home, which is very convenient."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "肯定",
+      "uses": [
+        {
+          "vi": "肯定 có thể được dùng làm phó từ với nghĩa là nhất định, không nghi ngờ.",
+          "en": "As an adverb, 肯定 means 'definitely, certainly'.",
+          "ex": [
+            {
+              "zh": "您放心，质量【肯定】不“打折”。",
+              "vi": "Anh cứ yên tâm, chất lượng chắc chắn không bị “giảm giá” đâu.",
+              "en": "Don't worry, the quality definitely isn't “discounted”."
+            },
+            {
+              "zh": "每天喝一点儿葡萄酒，对身体是有好处的。但是不能喝太多，喝太多酒【肯定】对身体不好。",
+              "vi": "Mỗi ngày uống một chút rượu vang thì có lợi cho sức khỏe. Nhưng không được uống nhiều quá, uống quá nhiều rượu chắc chắn không tốt cho cơ thể.",
+              "en": "A little wine every day is good for you. But you can't drink too much; drinking too much is definitely bad for your health."
+            }
+          ]
+        },
+        {
+          "vi": "肯定 cũng có thể được dùng làm tính từ và mang nghĩa là chắc chắn, rõ ràng.",
+          "en": "As an adjective, 肯定 means 'certain, definite'.",
+          "ex": [
+            {
+              "zh": "不能【肯定】的事、没发生过的事，最好不要说。",
+              "vi": "Những chuyện không chắc chắn, những chuyện chưa từng xảy ra thì tốt nhất đừng nói.",
+              "en": "Things you aren't sure of, or that never happened, are best left unsaid."
+            }
+          ]
+        },
+        {
+          "vi": "Khi làm tính từ, 肯定 còn có nghĩa là thừa nhận, khẳng định (đúng).",
+          "en": "As an adjective, 肯定 can also mean 'affirmative, positive'.",
+          "ex": [
+            {
+              "zh": "“你羡慕浪漫的爱情吗？”相信大部分人的回答都是【肯定】的。",
+              "vi": "“Bạn có ngưỡng mộ tình yêu lãng mạn không?” Tôi tin rằng câu trả lời của đa số mọi người đều là có.",
+              "en": "“Do you envy romantic love?” I'm sure most people's answer would be yes."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话",
+        "items": [
+          {
+            "q": "A：那个公园几点关门？\nB：可能是六点，也可能是六点半，____。",
+            "hint": "肯定",
+            "a": "A：那个公园几点关门？\nB：可能是六点，也可能是六点半，【我也不能肯定】。",
+            "vi": "A: Công viên đó mấy giờ đóng cửa?\nB: Có thể là sáu giờ, cũng có thể là sáu rưỡi, tôi cũng không chắc.",
+            "en": "A: What time does that park close?\nB: Maybe six, maybe half past six. I'm not sure.",
+            "sample": true
+          },
+          {
+            "q": "A：快点儿，不早了，咱们别迟到了。\nB：你放心，____。",
+            "hint": "肯定",
+            "a": "A：快点儿，不早了，咱们别迟到了。\nB：你放心，【肯定来得及】。",
+            "vi": "A: Nhanh lên, muộn rồi, chúng ta đừng đến muộn.\nB: Bạn yên tâm, chắc chắn kịp.",
+            "en": "A: Hurry up, it's getting late. Let's not be late.\nB: Don't worry, we'll definitely make it.",
+            "sample": true
+          },
+          {
+            "q": "A：那份调查下个月能完成吗？\nB：没问题，____。",
+            "hint": "肯定",
+            "a": "A：那份调查下个月能完成吗？\nB：没问题，【肯定能完成】。",
+            "vi": "A: Bản khảo sát đó tháng sau có hoàn thành được không?\nB: Không vấn đề gì, chắc chắn hoàn thành được.",
+            "en": "A: Can that survey be finished next month?\nB: No problem, it'll definitely be done.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "再说",
+      "uses": [
+        {
+          "vi": "再说 có thể được dùng làm động từ, diễn tả ý gác lại (việc gì) để giải quyết hay suy xét sau.",
+          "en": "As a verb, 再说 means 'to put something off and deal with or consider it later'.",
+          "ex": [
+            {
+              "zh": "现在的事，做了【再说】；以后的事，以后【再说】。",
+              "vi": "Việc bây giờ thì cứ làm đã rồi tính; việc sau này thì để sau hẵng hay.",
+              "en": "Do what needs doing now first; as for the future, we'll deal with it later."
+            },
+            {
+              "zh": "A：你不是很喜欢那件大衣吗？怎么不买了呢？\nB：我真的很喜欢，不过没我的号了，下次【再说】吧。",
+              "vi": "A: Không phải bạn rất thích cái áo khoác đó sao? Sao lại không mua nữa?\nB: Mình thích thật, có điều hết cỡ của mình rồi, để lần sau tính.",
+              "en": "A: Didn't you really like that coat? Why aren't you buying it?\nB: I really do like it, but they don't have my size. I'll think about it next time."
+            }
+          ]
+        },
+        {
+          "vi": "再说 cũng có thể được dùng làm liên từ để bổ sung một tình huống nữa cho những điều đã được đề cập trước đó (hơn nữa, vả lại).",
+          "en": "As a conjunction, 再说 adds a further reason to what has been said: 'besides, what's more'.",
+          "ex": [
+            {
+              "zh": "今天买的东西太多了。【再说】，这个月家里已经花了五千多了。",
+              "vi": "Hôm nay mua nhiều đồ quá rồi. Vả lại, tháng này nhà mình đã tiêu hơn năm nghìn rồi.",
+              "en": "We've bought too much today. Besides, the family has already spent over five thousand this month."
+            },
+            {
+              "zh": "A：你飞机几点的？怎么还不准备？\nB：晚上八点的，不用急，【再说】，我就去几天，不用带多少东西。",
+              "vi": "A: Máy bay của bạn mấy giờ? Sao vẫn chưa chuẩn bị?\nB: Tám giờ tối, không cần vội, vả lại mình chỉ đi mấy ngày, không cần mang nhiều đồ.",
+              "en": "A: What time is your flight? Why aren't you getting ready?\nB: Eight in the evening, no rush. Besides, I'm only going for a few days, so I don't need to take much."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "你身体不好，____你就别去了。",
+            "hint": "再说",
+            "a": "你身体不好，【再说外面又下着{zhe}雨】，你就别去了。",
+            "vi": "Bạn không khỏe, hơn nữa bên ngoài lại đang mưa, bạn đừng đi nữa.",
+            "en": "You're not well, and besides it's raining outside, so don't go.",
+            "sample": true
+          },
+          {
+            "q": "A：这个商场的衣服正在打折，咱们多买几件吧。\nB：钱不够了，____。",
+            "hint": "再说",
+            "a": "A：这个商场的衣服正在打折，咱们多买几件吧。\nB：钱不够了，【下次再说吧】。",
+            "vi": "A: Quần áo ở trung tâm này đang giảm giá, mình mua thêm mấy cái đi.\nB: Hết tiền rồi, để lần sau tính.",
+            "en": "A: The clothes in this mall are on sale. Let's buy a few more.\nB: We've run out of money. Let's leave it till next time.",
+            "sample": true
+          },
+          {
+            "q": "A：这次旅行你参加吗？\nB：我不想参加，因为我最近比较忙，____。",
+            "hint": "再说",
+            "a": "A：这次旅行你参加吗？\nB：我不想参加，因为我最近比较忙，【再说那个地方我已经去过了】。",
+            "vi": "A: Chuyến du lịch lần này bạn có tham gia không?\nB: Tôi không muốn tham gia, vì dạo này khá bận, hơn nữa nơi đó tôi đi rồi.",
+            "en": "A: Are you coming on this trip?\nB: No, I've been quite busy lately, and besides I've already been there.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "实际",
+      "uses": [
+        {
+          "vi": "实际 có thể được dùng làm danh từ để chỉ sự vật hay tình huống tồn tại khách quan (thực tế).",
+          "en": "As a noun, 实际 means 'reality': things or situations that objectively exist.",
+          "ex": [
+            {
+              "zh": "你们做计划应该联系【实际】。",
+              "vi": "Các bạn lập kế hoạch nên gắn với thực tế.",
+              "en": "When you make plans, you should take reality into account."
+            }
+          ]
+        },
+        {
+          "vi": "实际 cũng có thể được dùng làm tính từ và mang nghĩa là thực tế, cụ thể.",
+          "en": "As an adjective, 实际 means 'real, practical, concrete'.",
+          "ex": [
+            {
+              "zh": "A：听说你大学二年级的时候就开始在广告公司工作了。这样做不会影响你的学习吗？\nB：我认为不会，【实际】工作能让我更理解书本上的知识。",
+              "vi": "A: Nghe nói từ năm hai đại học bạn đã bắt đầu làm ở công ty quảng cáo. Làm vậy không ảnh hưởng đến việc học à?\nB: Mình nghĩ là không, công việc thực tế giúp mình hiểu rõ hơn kiến thức trong sách.",
+              "en": "A: I heard you started working at an advertising company in your second year of college. Didn't that affect your studies?\nB: I don't think so. Real work helps me understand what's in the books better."
+            }
+          ]
+        },
+        {
+          "vi": "Phó từ 实际上 có nghĩa là trong thực tế, thường được dùng để chuyển ý.",
+          "en": "The adverb 实际上 means 'in fact, actually', and usually introduces a contrast.",
+          "ex": [
+            {
+              "zh": "要想别人对你好，你得{děi}先对别人好。【实际上】，我们很多人做不到这一点。",
+              "vi": "Muốn người khác đối tốt với mình thì mình phải đối tốt với người khác trước. Trên thực tế, nhiều người trong chúng ta không làm được điều này.",
+              "en": "If you want others to treat you well, you have to treat them well first. In fact, many of us can't manage that."
+            },
+            {
+              "zh": "广告只会介绍优点，却不会说它的缺点。【实际上】，很多东西并不像广告上说的那么好，所以不能完全相信广告。",
+              "vi": "Quảng cáo chỉ giới thiệu ưu điểm mà không nói đến khuyết điểm. Thực tế, nhiều thứ không hề tốt như quảng cáo nói, nên không thể hoàn toàn tin vào quảng cáo.",
+              "en": "Ads only present the good points, never the shortcomings. In reality, many things aren't nearly as good as the ads say, so you can't fully trust them."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话或句子",
+        "items": [
+          {
+            "q": "A：小说里的爱情总是很吸引人，男的很帅，女的很漂亮，他们经常唱歌跳舞，一起去世界各地旅游。\nB：但这到底只是故事，____。",
+            "hint": "实际",
+            "a": "A：小说里的爱情总是很吸引人，男的很帅，女的很漂亮，他们经常唱歌跳舞，一起去世界各地旅游。\nB：但这到底只是故事，【跟实际生活不一样】。",
+            "vi": "A: Tình yêu trong tiểu thuyết luôn rất cuốn hút, chàng đẹp trai, nàng xinh đẹp, họ thường ca hát nhảy múa, cùng đi du lịch khắp thế giới.\nB: Nhưng suy cho cùng đó chỉ là truyện, khác với cuộc sống thực tế.",
+            "en": "A: Love in novels is always so appealing: he's handsome, she's beautiful, they sing and dance and travel the world together.\nB: But in the end it's just a story. Real life isn't like that.",
+            "sample": true
+          },
+          {
+            "q": "“光说不练”的意思是有些人只是嘴上说说，____。",
+            "hint": "实际上",
+            "a": "“光说不练”的意思是有些人只是嘴上说说，【实际上并不去做】。",
+            "vi": "“Chỉ nói không làm” nghĩa là có người chỉ nói ngoài miệng, thực tế không hề làm.",
+            "en": "“All talk and no action” means some people just talk about things but never actually do them.",
+            "sample": true
+          },
+          {
+            "q": "有些人喜欢不停地{de}换工作，他们总以为新工作一定比现在的好。____。",
+            "hint": "实际上",
+            "a": "有些人喜欢不停地{de}换工作，他们总以为新工作一定比现在的好。【实际上，新工作不一定更好】。",
+            "vi": "Có người thích đổi việc liên tục, họ luôn cho rằng công việc mới chắc chắn tốt hơn hiện tại. Thực tế, công việc mới chưa chắc đã tốt hơn.",
+            "en": "Some people keep changing jobs, always thinking the new job must be better. In fact, a new job isn't necessarily better.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "对……来说",
+      "uses": [
+        {
+          "vi": "对……来说 diễn tả ý nhìn nhận vấn đề từ góc độ nào đó (đối với…mà nói).",
+          "en": "对……来说 means looking at something from a certain point of view: 'for…, as far as … is concerned'.",
+          "ex": [
+            {
+              "zh": "【对】我【来说】，衣服的样子流行不流行并不是很重要。",
+              "vi": "Đối với tôi, kiểu dáng quần áo có hợp thời hay không không quan trọng lắm.",
+              "en": "For me, whether a style of clothing is in fashion isn't that important."
+            },
+            {
+              "zh": "【对】一个女人【来说】，漂亮、聪明都很重要，但其实更重要的是快乐。",
+              "vi": "Đối với một người phụ nữ, xinh đẹp hay thông minh đều quan trọng, nhưng thật ra quan trọng hơn cả là được vui vẻ.",
+              "en": "For a woman, beauty and intelligence both matter, but what matters even more is being happy."
+            },
+            {
+              "zh": "一杯水，【对】一条小鱼【来说】，可能很有帮助，它可以在里面游得很好。但是，【对】一条大鱼【来说】，一杯水是没有什么帮助的，它需要的是一条河。",
+              "vi": "Một cốc nước, đối với một con cá nhỏ, có thể rất hữu ích, nó có thể bơi thoải mái trong đó. Nhưng đối với một con cá lớn, một cốc nước chẳng giúp được gì, thứ nó cần là cả một dòng sông.",
+              "en": "A glass of water may be a great help to a little fish; it can swim around in it just fine. But for a big fish a glass of water is no help at all. What it needs is a river."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "出国留学____。",
+            "hint": "对……来说",
+            "a": "出国留学【对年轻人来说是一个很好的机会】。",
+            "vi": "Đi du học đối với người trẻ là một cơ hội rất tốt.",
+            "en": "Studying abroad is a great opportunity for young people.",
+            "sample": true
+          },
+          {
+            "q": "北京是个不错的地方，特别是____。",
+            "hint": "对……来说",
+            "a": "北京是个不错的地方，特别是【对喜欢历史的人来说】。",
+            "vi": "Bắc Kinh là một nơi khá tốt, đặc biệt là đối với người thích lịch sử.",
+            "en": "Beijing is a great place, especially for people who like history.",
+            "sample": true
+          },
+          {
+            "q": "妈妈总是为我结婚的事情着急，但是我觉得自己还很年轻，不想这么早结婚。____。",
+            "hint": "对……来说",
+            "a": "妈妈总是为我结婚的事情着急，但是我觉得自己还很年轻，不想这么早结婚。【对我来说，现在工作更重要】。",
+            "vi": "Mẹ lúc nào cũng sốt ruột chuyện tôi kết hôn, nhưng tôi thấy mình còn trẻ, không muốn kết hôn sớm như vậy. Đối với tôi, bây giờ công việc quan trọng hơn.",
+            "en": "My mother is always anxious about me getting married, but I feel I'm still young and don't want to marry so early. For me, work is more important right now.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "尤其",
+      "uses": [
+        {
+          "vi": "Phó từ 尤其 chỉ mức độ tăng thêm. Vế câu thứ nhất thường đưa ra một tình huống tổng thể, vế câu thứ hai dùng 尤其 để chỉ ra khía cạnh nổi bật nhất trong tình huống tổng thể đó.",
+          "en": "The adverb 尤其 (especially) goes one step further. The first clause usually states a general situation, and the second uses 尤其 to point out its most prominent part.",
+          "ex": [
+            {
+              "zh": "您女儿真可爱，长得真像您，【尤其】是眼睛。",
+              "vi": "Con gái chị đáng yêu quá, trông giống chị thật, nhất là đôi mắt.",
+              "en": "Your daughter is so cute, and she really looks like you, especially her eyes."
+            },
+            {
+              "zh": "现在网上购物变得越来越流行了，年轻人【尤其】喜欢在网上买东西。",
+              "vi": "Bây giờ mua sắm trên mạng ngày càng phổ biến, giới trẻ đặc biệt thích mua đồ trên mạng.",
+              "en": "Online shopping is getting more and more popular, and young people especially like buying things online."
+            },
+            {
+              "zh": "为了健康，我们应该每年都去医院做一次身体检查，【尤其】是那些四五十岁的人，这样可以早一些发现问题。",
+              "vi": "Vì sức khỏe, mỗi năm chúng ta nên đến bệnh viện khám sức khỏe một lần, nhất là những người bốn năm mươi tuổi, như vậy có thể sớm phát hiện vấn đề.",
+              "en": "For our health, we should all get a check-up at the hospital once a year, especially people in their forties and fifties, so that problems can be found earlier."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "尤其—特别",
+        "uses": [
+          {
+            "vi": "Giống nhau: 尤其 và 特别 đều có thể được dùng làm phó từ để chỉ khía cạnh nổi bật nhất trong tổng thể hoặc nổi bật nhất khi so sánh với các sự vật khác. Cả hai từ thường đứng ở phần sau của câu.",
+            "en": "Similarity: 尤其 and 特别 can both be adverbs pointing out the most prominent part of a whole, or what stands out compared with other things. Both usually appear in the latter part of the sentence.",
+            "ex": [
+              {
+                "zh": "我对音乐很感兴趣，【尤其】/【特别】是贝多芬的音乐，我喜欢极了。",
+                "vi": "Tôi rất hứng thú với âm nhạc, đặc biệt là nhạc của Beethoven, tôi thích vô cùng.",
+                "en": "I'm very interested in music, especially Beethoven's. I absolutely love it."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: Trong trường hợp trên, sau 尤其 có thể có hoặc không có 是; sau 特别 thường có 是.",
+            "en": "Difference 1: in the usage above, 尤其 may or may not be followed by 是, whereas 特别 is usually followed by 是.",
+            "ex": [
+              {
+                "zh": "这次活动办得很不错，【尤其】王老师讲的那个故事，给我留下很深的印象。",
+                "vi": "Hoạt động lần này tổ chức rất tốt, nhất là câu chuyện thầy Vương kể đã để lại cho tôi ấn tượng sâu sắc.",
+                "en": "The event was very well run, especially the story Teacher Wang told, which made a deep impression on me."
+              },
+              {
+                "zh": "这次活动办得很不错，【尤其】/【特别】是王老师讲的那个故事，给我留下很深的印象。",
+                "vi": "Hoạt động lần này tổ chức rất tốt, nhất là câu chuyện thầy Vương kể đã để lại cho tôi ấn tượng sâu sắc.",
+                "en": "The event was very well run, especially the story Teacher Wang told, which made a deep impression on me."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: Khi làm phó từ, 特别 còn có nghĩa là vô cùng, rất; 尤其 không có nghĩa này.",
+            "en": "Difference 2: as an adverb, 特别 can also mean 'extremely, very'; 尤其 cannot.",
+            "ex": [
+              {
+                "zh": "那本小说讲了一个爱情故事，很浪漫，让人【特别】感动。",
+                "vi": "Cuốn tiểu thuyết đó kể một câu chuyện tình yêu rất lãng mạn, khiến người ta vô cùng cảm động.",
+                "en": "That novel tells a love story. It's very romantic and incredibly moving."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 3: 特别 có thể được dùng làm tính từ với nghĩa là không giống những thứ còn lại, không bình thường; 尤其 không dùng được như vậy.",
+            "en": "Difference 3: 特别 can be an adjective meaning 'special, unusual'; 尤其 cannot.",
+            "ex": [
+              {
+                "zh": "如果您有什么【特别】要求或任何不清楚的地方，请和我们联系。",
+                "vi": "Nếu anh/chị có yêu cầu đặc biệt nào hoặc chỗ nào chưa rõ, xin hãy liên hệ với chúng tôi.",
+                "en": "If you have any special requests or anything is unclear, please contact us."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "考试做题前首先要想清楚问题的意思，____是在做数学题的时候。",
+              "key": "尤其 ✓ · 特别 ✓",
+              "a": "考试做题前首先要想清楚问题的意思，【尤其】/【特别】是在做数学题的时候。",
+              "vi": "Trước khi làm bài thi phải nghĩ rõ ý của câu hỏi, đặc biệt là khi làm bài toán.",
+              "en": "Before answering exam questions, first make sure you understand them, especially in maths."
+            },
+            {
+              "q": "她从来没有见过这么大的雪，____高兴，所以在外边玩儿了很长时间。",
+              "key": "尤其 ✗ · 特别 ✓ (nghĩa “rất”)",
+              "a": "她从来没有见过这么大的雪，【特别】高兴，所以在外边玩儿了很长时间。",
+              "vi": "Cô ấy chưa từng thấy tuyết lớn như vậy, vô cùng vui, nên chơi ở ngoài rất lâu.",
+              "en": "She'd never seen so much snow and was really excited, so she played outside for ages."
+            },
+            {
+              "q": "这家饭馆的面味道很____，在当地非常受欢迎。",
+              "key": "尤其 ✗ · 特别 ✓ (làm tính từ)",
+              "a": "这家饭馆的面味道很【特别】，在当地非常受欢迎。",
+              "vi": "Mì của quán này có vị rất đặc biệt, rất được ưa chuộng ở địa phương.",
+              "en": "The noodles at this restaurant have a really special taste and are very popular locally."
+            },
+            {
+              "q": "她换上了新买的那双鞋，穿了一条裙子，看上去____好看，又说又笑，好像变了一个人。",
+              "key": "尤其 ✗ · 特别 ✓",
+              "a": "她换上了新买的那双鞋，穿了一条裙子，看上去【特别】好看，又说又笑，好像变了一个人。",
+              "vi": "Cô ấy đi đôi giày mới mua, mặc một chiếc váy, trông đặc biệt xinh, vừa nói vừa cười, như thể biến thành người khác.",
+              "en": "She put on her new shoes and a skirt and looked really lovely, chatting and laughing as if she'd become a different person."
+            },
+            {
+              "q": "现在对历史感兴趣的人越来越少了，所以我写了几本书，希望能引起人们的注意，____年轻人。",
+              "key": "尤其 ✓ · 特别 (cần thêm 是)",
+              "a": "现在对历史感兴趣的人越来越少了，所以我写了几本书，希望能引起人们的注意，【尤其】/【特别是】年轻人。",
+              "vi": "Bây giờ người hứng thú với lịch sử ngày càng ít, nên tôi viết mấy cuốn sách, mong thu hút sự chú ý của mọi người, nhất là người trẻ.",
+              "en": "Fewer and fewer people are interested in history now, so I've written a few books hoping to attract attention, especially from young people."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "我特别喜欢运动，____。",
+            "hint": "尤其",
+            "a": "我特别喜欢运动，【尤其是游泳】。",
+            "vi": "Tôi rất thích thể thao, đặc biệt là bơi lội.",
+            "en": "I really love sport, especially swimming.",
+            "sample": true
+          },
+          {
+            "q": "这家店的面条做得很不错，____。",
+            "hint": "尤其",
+            "a": "这家店的面条做得很不错，【尤其是牛肉面】。",
+            "vi": "Mì của quán này làm rất ngon, nhất là mì bò.",
+            "en": "The noodles at this place are very good, especially the beef noodles.",
+            "sample": true
+          },
+          {
+            "q": "无论做什么事情，都要注意方法，____。",
+            "hint": "尤其",
+            "a": "无论做什么事情，都要注意方法，【尤其是遇到困难的时候】。",
+            "vi": "Dù làm việc gì cũng phải chú ý phương pháp, nhất là khi gặp khó khăn.",
+            "en": "Whatever you do, pay attention to method, especially when you run into difficulties.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "王静的语气：\n今天我去买沙发了。……",
+          "label": "课文1",
+          "a": "今天我去买沙发了。售货员给我介绍了一个沙发，现在正在打折，比平时便宜了一千块。我觉得价格还可以，就是不知道质量有没有保证。售货员说质量肯定不“打折”，这种沙发是今年最流行的，有很多种颜色。我觉得蓝色的看上去不错，就买了蓝色的。",
+          "vi": "Hôm nay tôi đi mua sofa. Nhân viên bán hàng giới thiệu cho tôi một chiếc đang giảm giá, rẻ hơn bình thường một nghìn tệ. Tôi thấy giá được, chỉ không biết chất lượng có đảm bảo không. Nhân viên nói chất lượng chắc chắn không “giảm”, loại sofa này thịnh hành nhất năm nay, có nhiều màu. Tôi thấy màu xanh trông đẹp nên mua cái màu xanh.",
+          "en": "Today I went to buy a sofa. The assistant showed me one that was on sale, a thousand yuan cheaper than usual. The price seemed fine, but I wasn't sure about the quality. The assistant said the quality definitely wasn't “discounted”; it's this year's most popular sofa and comes in many colours. The blue one looked nice, so I bought it.",
+          "sample": true
+        },
+        {
+          "q": "李进的语气：\n我们家的冰箱太旧了，……",
+          "label": "课文2",
+          "a": "我们家的冰箱太旧了，王静想趁商场打折买一台新的。我觉得今天买的东西太多了，再说，这个月家里已经花了五千多了，光买沙发就花了两千多。但是冰箱实在太旧了，制冷效果也不太好了，所以还是买了个新的。我带的现金不够，就用了王静的信用卡。",
+          "vi": "Tủ lạnh nhà chúng tôi quá cũ, Vương Tịnh muốn nhân dịp trung tâm thương mại giảm giá mua cái mới. Tôi thấy hôm nay mua nhiều đồ quá, hơn nữa tháng này nhà đã tiêu hơn năm nghìn, riêng sofa đã hơn hai nghìn. Nhưng tủ lạnh thật sự quá cũ, làm lạnh cũng không tốt, nên vẫn mua cái mới. Tiền mặt tôi mang không đủ nên dùng thẻ tín dụng của Vương Tịnh.",
+          "en": "Our fridge was too old, and Wang Jing wanted to buy a new one while the mall had a sale. I thought we'd bought too much today; besides, we'd already spent over five thousand this month, more than two thousand on the sofa alone. But the fridge really was too old and didn't cool well, so we bought a new one anyway. I didn't have enough cash, so we used Wang Jing's credit card.",
+          "sample": true
+        },
+        {
+          "q": "王静的语气：\n李老师邀请我们夫妻俩去他家做客，……",
+          "label": "课文3",
+          "a": "李老师邀请我们夫妻俩去他家做客，他很喜欢葡萄酒，所以我们想给他买两瓶葡萄酒。我觉得有一种不错，酒瓶做得很艺术，电视上也经常有它的广告。可是李进说，广告只会介绍优点，不会说缺点，很多东西并不像广告上说的那么好，不能完全相信广告。我觉得他说的也对。",
+          "vi": "Thầy Lý mời hai vợ chồng chúng tôi đến nhà chơi, thầy rất thích rượu vang nên chúng tôi muốn mua tặng thầy hai chai. Tôi thấy có một loại được, chai làm rất nghệ thuật, trên tivi cũng thường quảng cáo. Nhưng Lý Tiến nói quảng cáo chỉ giới thiệu ưu điểm, không nói khuyết điểm, nhiều thứ không tốt như quảng cáo nói, không thể hoàn toàn tin. Tôi thấy anh ấy nói cũng đúng.",
+          "en": "Mr. Li invited my husband and me to his home. He loves wine, so we wanted to buy him two bottles. I liked one kind with a very artistic bottle that's often advertised on TV. But Li Jin said adverts only show the good points, not the bad ones; many things aren't as good as advertised, so you can't trust them completely. I think he's right.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "受到",
+        "邀请",
+        "考虑",
+        "效果",
+        "任何"
+      ],
+      "items": [
+        {
+          "q": "____别人吃饭，最好提前几天联系。",
+          "key": "邀请",
+          "a": "【邀请】别人吃饭，最好提前几天联系。",
+          "vi": "Mời người khác đi ăn thì tốt nhất nên liên hệ trước mấy ngày.",
+          "en": "If you're inviting someone to dinner, it's best to get in touch a few days in advance."
+        },
+        {
+          "q": "女儿喜欢在电脑上看电影，可我还是更愿意去电影院看，因为我觉得电影院的____更好，那儿更吸引我。",
+          "key": "效果",
+          "a": "女儿喜欢在电脑上看电影，可我还是更愿意去电影院看，因为我觉得电影院的【效果】更好，那儿更吸引我。",
+          "vi": "Con gái thích xem phim trên máy tính, còn tôi vẫn thích ra rạp hơn, vì tôi thấy hiệu quả ở rạp tốt hơn, nơi đó hấp dẫn tôi hơn.",
+          "en": "My daughter likes watching films on her computer, but I still prefer the cinema, because I think the experience is better and it appeals to me more."
+        },
+        {
+          "q": "调查发现：购买我们电脑的人中，有75%是因为____我们广告的影响，有11%的人从来没看过我们的广告。",
+          "key": "受到",
+          "a": "调查发现：购买我们电脑的人中，有75%是因为【受到】我们广告的影响，有11%的人从来没看过我们的广告。",
+          "vi": "Khảo sát cho thấy: trong số người mua máy tính của chúng tôi, 75% là do chịu ảnh hưởng của quảng cáo, 11% chưa từng xem quảng cáo của chúng tôi.",
+          "en": "A survey found that 75% of people who bought our computers were influenced by our adverts, and 11% had never seen them."
+        },
+        {
+          "q": "我把我的手机号写给你，以后遇到____问题，你都可以和我联系，我会想办法帮你解决。",
+          "key": "任何",
+          "a": "我把我的手机号写给你，以后遇到【任何】问题，你都可以和我联系，我会想办法帮你解决。",
+          "vi": "Tôi viết số điện thoại cho bạn, sau này gặp bất cứ vấn đề gì bạn đều có thể liên hệ với tôi, tôi sẽ tìm cách giúp bạn giải quyết.",
+          "en": "I'll write down my mobile number for you. If you have any problems, get in touch and I'll find a way to help."
+        },
+        {
+          "q": "我认真____了一个晚上，最后还是决定不去那家公司了。我想留在北京，看看还有没有别的机会。",
+          "key": "考虑",
+          "a": "我认真【考虑】了一个晚上，最后还是决定不去那家公司了。我想留在北京，看看还有没有别的机会。",
+          "vi": "Tôi suy nghĩ nghiêm túc cả một buổi tối, cuối cùng vẫn quyết định không đến công ty đó. Tôi muốn ở lại Bắc Kinh xem còn cơ hội nào khác không.",
+          "en": "I thought it over carefully all evening and finally decided not to join that company. I want to stay in Beijing and see if there are other opportunities."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "顺便",
+        "打折",
+        "流行",
+        "台",
+        "家具"
+      ],
+      "items": [
+        {
+          "q": "A：这条红裙子你穿着{zhe}挺好看的。\nB：不过今年不怎么____这个颜色。",
+          "key": "流行",
+          "a": "A：这条红裙子你穿着{zhe}挺好看的。\nB：不过今年不怎么【流行】这个颜色。",
+          "vi": "A: Chiếc váy đỏ này bạn mặc rất đẹp.\nB: Nhưng năm nay màu này không thịnh hành lắm.",
+          "en": "A: That red skirt looks really good on you.\nB: But this colour isn't very fashionable this year."
+        },
+        {
+          "q": "A：小王，又去逛街了？买什么东西了？\nB：现在正是换季，好多商店都在____，你看，这些东西都比平时便宜了一半还多。",
+          "key": "打折",
+          "a": "A：小王，又去逛街了？买什么东西了？\nB：现在正是换季，好多商店都在【打折】，你看，这些东西都比平时便宜了一半还多。",
+          "vi": "A: Tiểu Vương, lại đi dạo phố à? Mua gì thế?\nB: Bây giờ đang giao mùa, nhiều cửa hàng đang giảm giá, bạn xem, mấy thứ này rẻ hơn bình thường hơn một nửa.",
+          "en": "A: Been shopping again, Xiao Wang? What did you buy?\nB: It's the change of season and lots of shops have sales. Look, these were all more than half price."
+        },
+        {
+          "q": "A：我想换____笔记本电脑，你知道哪种好吗？\nB：我也不太清楚，你先上网看看吧，多比较比较，然后再做决定。",
+          "key": "台",
+          "a": "A：我想换【台】笔记本电脑，你知道哪种好吗？\nB：我也不太清楚，你先上网看看吧，多比较比较，然后再做决定。",
+          "vi": "A: Tôi muốn đổi một chiếc laptop, bạn biết loại nào tốt không?\nB: Tôi cũng không rõ lắm, bạn lên mạng xem trước đi, so sánh nhiều rồi hãy quyết định.",
+          "en": "A: I want to get a new laptop. Do you know which kind is good?\nB: I'm not sure. Look online first, compare a few, then decide."
+        },
+        {
+          "q": "A：今天是小王请客？他有什么高兴事呀？\nB：他搬新家了，晚上请老同学们去家里吃饭，____看看他的新房子。",
+          "key": "顺便",
+          "a": "A：今天是小王请客？他有什么高兴事呀？\nB：他搬新家了，晚上请老同学们去家里吃饭，【顺便】看看他的新房子。",
+          "vi": "A: Hôm nay Tiểu Vương mời khách à? Cậu ấy có chuyện gì vui thế?\nB: Cậu ấy chuyển nhà mới, tối mời bạn học cũ đến nhà ăn cơm, tiện thể xem nhà mới.",
+          "en": "A: Is Xiao Wang treating us today? What's the happy occasion?\nB: He's moved house. He's invited his old classmates over for dinner tonight, and to see his new place while they're at it."
+        },
+        {
+          "q": "A：咱们这些____都旧了，这次搬家，我们换新的。\nB：沙发换颜色亮一点儿的，现在这个颜色太深。",
+          "key": "家具",
+          "a": "A：咱们这些【家具】都旧了，这次搬家，我们换新的。\nB：沙发换颜色亮一点儿的，现在这个颜色太深。",
+          "vi": "A: Đồ nội thất nhà mình đều cũ rồi, lần chuyển nhà này mình đổi đồ mới.\nB: Sofa đổi cái màu sáng hơn một chút, màu bây giờ tối quá.",
+          "en": "A: All our furniture is old. Let's get new things when we move.\nB: Let's get a lighter-coloured sofa. This one's too dark."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 准",
+    "en": "Words sharing a character: 准",
+    "words": [
+      {
+        "zh": "准时",
+        "py": "zhǔnshí",
+        "vi": "đúng giờ",
+        "en": "on time"
+      },
+      {
+        "zh": "准备",
+        "py": "zhǔnbèi",
+        "vi": "chuẩn bị",
+        "en": "to prepare"
+      },
+      {
+        "zh": "标准",
+        "py": "biāozhǔn",
+        "vi": "tiêu chuẩn",
+        "en": "standard"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "A：明天早上八点半在东门见，别迟到啊！\nB：放心吧，我一定【准时】到。",
+        "vi": "A: Tám rưỡi sáng mai gặp ở cổng đông, đừng đến muộn nhé!\nB: Yên tâm đi, tôi nhất định đến đúng giờ.",
+        "en": "A: See you at the east gate at half past eight tomorrow morning. Don't be late!\nB: Don't worry, I'll definitely be on time."
+      },
+      {
+        "zh": "同学们正在教室里学习，【准备】下星期的考试。班长跑进来大声说：“告诉大家一个好消息和一个坏消息。好消息是下星期不考试了！坏消息是下星期的考试，改到今天了。”",
+        "vi": "Các bạn đang học trong lớp, chuẩn bị cho kỳ thi tuần sau. Lớp trưởng chạy vào nói to: “Báo với mọi người một tin tốt và một tin xấu. Tin tốt là tuần sau không thi nữa! Tin xấu là bài thi tuần sau dời lên hôm nay.”",
+        "en": "The students were studying in the classroom, preparing for next week's exam. The class monitor ran in and announced, “I've got good news and bad news. The good news is there's no exam next week! The bad news is next week's exam has been moved to today.”"
+      },
+      {
+        "zh": "幸福的【标准】是不同的。有人觉得有房子和汽车就是幸福，有人认为找到真正的爱情就是幸福。",
+        "vi": "Tiêu chuẩn hạnh phúc là khác nhau. Có người thấy có nhà có xe là hạnh phúc, có người cho rằng tìm được tình yêu thật sự là hạnh phúc.",
+        "en": "Standards of happiness differ. Some think having a house and a car is happiness; others think finding true love is."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "准时",
+        "准备",
+        "标准"
+      ],
+      "items": [
+        {
+          "q": "美女的____一直在变，但是不管什么时候，最重要的都是健康。如果没有了健康，也就没有了美。",
+          "key": "标准",
+          "a": "美女的【标准】一直在变，但是不管什么时候，最重要的都是健康。如果没有了健康，也就没有了美。",
+          "vi": "Tiêu chuẩn người đẹp luôn thay đổi, nhưng dù lúc nào điều quan trọng nhất vẫn là sức khỏe. Không có sức khỏe thì cũng chẳng có cái đẹp.",
+          "en": "Standards of beauty keep changing, but at any time health matters most. Without health there is no beauty."
+        },
+        {
+          "q": "现在有个通知，十一月七日上午八点在图书馆三楼会议室开会，希望大家____参加。",
+          "key": "准时",
+          "a": "现在有个通知，十一月七日上午八点在图书馆三楼会议室开会，希望大家【准时】参加。",
+          "vi": "Có một thông báo: 8 giờ sáng ngày 7 tháng 11 họp ở phòng họp tầng ba thư viện, mong mọi người tham gia đúng giờ.",
+          "en": "Here's an announcement: there's a meeting at 8 a.m. on November 7th in the third-floor meeting room of the library. Please be on time."
+        },
+        {
+          "q": "各位乘客，前方到站是西直门。西直门是换乘车站，换乘车站乘客较多，请下车的乘客提前做好____。",
+          "key": "准备",
+          "a": "各位乘客，前方到站是西直门。西直门是换乘车站，换乘车站乘客较多，请下车的乘客提前做好【准备】。",
+          "vi": "Kính thưa quý khách, ga tiếp theo là Tây Trực Môn. Tây Trực Môn là ga trung chuyển, ga trung chuyển đông khách, quý khách xuống tàu xin chuẩn bị sẵn sàng.",
+          "en": "Passengers, the next station is Xizhimen, an interchange station. Interchange stations are busy, so passengers getting off please be ready in advance."
+        }
+      ]
+    }
+  }
+}

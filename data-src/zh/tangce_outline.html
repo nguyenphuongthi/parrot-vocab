@@ -1,0 +1,5161 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>唐风汉语-模拟考试</title>
+<link href="../css/simulation.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../js/words.js"></script>
+<script src="../js/jquery-1.7.1.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".tit_out").click(function(){
+			
+			var temp=$(this).attr('id');
+			$(".tit_out").removeClass("tit_out_focus");
+			$(this).addClass("tit_out_focus");
+			
+			//alert(temp);
+			$(".level_out").removeClass("tit_out_focus");
+			$("."+temp).addClass("tit_out_focus");
+		});
+			
+			
+		$(".level_out").click(function(){
+			
+			var temp=$(this).attr('name');
+			$(".level_out").removeClass("tit_out_focus");
+			$(this).addClass("tit_out_focus");
+			
+			//alert(temp);
+			$(".tit_out").removeClass("tit_out_focus");
+			$("#"+temp).addClass("tit_out_focus");
+		});
+			
+			
+		function getUrlParam(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
+            var r = window.location.search.substr(1).match(reg);  //匹配目标参数
+            if (r != null) return unescape(r[2]); return null; //返回参数值
+       	}
+
+		//alert(getUrlParam("level"));
+		var lnum = 4;
+		$("#level_"+lnum).click();
+	});
+
+</script>
+
+
+
+</head>
+
+<body class="emp_body">
+<div class="main_out">
+
+<!--顶部内容开始-->
+<div class="top_form">
+
+
+<!--菜单开始-->
+<div class="main_menu_out">
+
+</div>
+<!--菜单结束-->
+
+<!--Logo开始-->
+<div class="logo"></div>
+<!--Logo结束-->
+
+</div>
+<!--顶部内容结束-->
+
+<!--大图开始-->
+<div class="bigpic_small"></div>
+<!--大图结束-->
+
+<!--主要内容开始-->
+<div class="cont_out" style="min-height:360px;">
+<div style="clear:both;"></div>
+<!--列表开始-->
+<div class="type_ctit_out"><div class="type_ctit">HSK大纲词汇表</div></div>
+
+<div style="text-align:right; font-size:14px; color:#090; clear:both; line-height:30px; width:900px; margin:auto;">
+以下列表中只显示各级别的新增词。您可以使用ctrl+f键，查找词语。
+</div>
+
+
+<div class="level_bigout">
+	<div id="level_1" class="tit_out">
+    <strong>一级</strong><br />
+    （150个）
+    </div>
+    <div id="level_2" class="tit_out">
+    <strong>二级</strong><br />
+    （新增150个，共300个）
+    </div>
+    <div id="level_3" class="tit_out">
+    <strong>三级</strong><br />
+    （新增300个，共600个）
+    </div>
+    <div id="level_4" class="tit_out">
+    <strong>四级</strong><br />
+    （新增600个，共1200个）
+    </div>
+    <div id="level_5" class="tit_out">
+    <strong>五级</strong><br />
+    （新增1300个，共2500个）
+    </div>
+    <div id="level_6" class="tit_out">
+    <strong>六级</strong><br />
+    （新增2500个，共5000个）
+    </div>
+    <div style="clear:both"></div>
+    <div name="level_1" class="level_1 level_out">
+        <div>爱</div>
+		<div>八</div>
+		<div>爸爸</div>
+		<div>杯子</div>
+		<div>北京</div>
+		<div>本</div>
+		<div>不</div>
+		<div>不客气</div>
+		<div>菜</div>
+		<div>茶</div>
+		<div>吃</div>
+		<div>出租车</div>
+		<div>打电话</div>
+		<div>大</div>
+		<div>的</div>
+		<div>点</div>
+		<div>电脑</div>
+		<div>电视</div>
+		<div>电影</div>
+		<div>东西</div>
+		<div>都</div>
+		<div>读</div>
+		<div>对不起</div>
+		<div>多</div>
+		<div>多少</div>
+		<div>儿子</div>
+		<div>二</div>
+		<div>饭店</div>
+		<div>飞机</div>
+		<div>分钟</div>
+		<div>高兴</div>
+		<div>个</div>
+		<div>工作</div>
+		<div>狗</div>
+		<div>汉语</div>
+		<div>好</div>
+		<div>号</div>
+		<div>喝</div>
+		<div>和</div>
+		<div>很</div>
+		<div>后面</div>
+		<div>回</div>
+		<div>会</div>
+		<div>几</div>
+		<div>家</div>
+		<div>叫</div>
+		<div>今天</div>
+		<div>九</div>
+		<div>开</div>
+		<div>看</div>
+		<div>看见</div>
+		<div>块</div>
+		<div>来</div>
+		<div>老师</div>
+		<div>了</div>
+		<div>冷</div>
+		<div>里</div>
+		<div>六</div>
+		<div>妈妈</div>
+		<div>吗</div>
+		<div>买</div>
+		<div>猫</div>
+		<div>没关系</div>
+		<div>没有</div>
+		<div>米饭</div>
+		<div>名字</div>
+		<div>明天</div>
+		<div>哪</div>
+		<div>哪儿</div>
+		<div>那</div>
+		<div>呢</div>
+		<div>能</div>
+		<div>你</div>
+		<div>年</div>
+		<div>女儿</div>
+		<div>朋友</div>
+		<div>漂亮</div>
+		<div>苹果</div>
+		<div>七</div>
+		<div>前面</div>
+		<div>钱</div>
+		<div>请</div>
+		<div>去</div>
+		<div>热</div>
+		<div>人</div>
+		<div>认识</div>
+		<div>三</div>
+		<div>商店</div>
+		<div>上</div>
+		<div>上午</div>
+		<div>少</div>
+		<div>什么</div>
+		<div>十</div>
+		<div>时候</div>
+		<div>是</div>
+		<div>书</div>
+		<div>谁</div>
+		<div>水</div>
+		<div>水果</div>
+		<div>睡觉</div>
+		<div>说</div>
+		<div>四</div>
+		<div>岁</div>
+		<div>他</div>
+		<div>她</div>
+		<div>太</div>
+		<div>天气</div>
+		<div>听</div>
+		<div>同学</div>
+		<div>喂</div>
+		<div>我</div>
+		<div>我们</div>
+		<div>五</div>
+		<div>喜欢</div>
+		<div>下</div>
+		<div>下午</div>
+		<div>下雨</div>
+		<div>先生</div>
+		<div>现在</div>
+		<div>想</div>
+		<div>小</div>
+		<div>小姐</div>
+		<div>些</div>
+		<div>写</div>
+		<div>谢谢</div>
+		<div>星期</div>
+		<div>学生</div>
+		<div>学习</div>
+		<div>学校</div>
+		<div>一</div>
+		<div>一点儿</div>
+		<div>衣服</div>
+		<div>医生</div>
+		<div>医院</div>
+		<div>椅子</div>
+		<div>有</div>
+		<div>月</div>
+		<div>再见</div>
+		<div>在</div>
+		<div>怎么</div>
+		<div>怎么样</div>
+		<div>这</div>
+		<div>中国</div>
+		<div>中午</div>
+		<div>住</div>
+		<div>桌子</div>
+		<div>字</div>
+		<div>昨天</div>
+		<div>坐</div>
+		<div>做</div>	
+    </div>
+    
+    
+    <div name="level_2" class="level_2 level_out">
+        <div>吧</div>
+		<div>白</div>
+		<div>百</div>
+		<div>帮助</div>
+		<div>报纸</div>
+		<div>比</div>
+		<div>便宜</div>
+		<div>别</div>
+		<div>宾馆</div>
+		<div>唱歌</div>
+		<div>出</div>
+		<div>穿</div>
+		<div>次</div>
+		<div>从</div>
+		<div>错</div>
+		<div>打篮球</div>
+		<div>大家</div>
+		<div>到</div>
+		<div>得</div>
+		<div>等</div>
+		<div>弟弟</div>
+		<div>第一</div>
+		<div>懂</div>
+		<div>对</div>
+		<div>对</div>
+		<div>房间</div>
+		<div>非常</div>
+		<div>服务员</div>
+		<div>高</div>
+		<div>告诉</div>
+		<div>哥哥</div>
+		<div>给</div>
+		<div>公共汽车</div>
+		<div>公司</div>
+		<div>贵</div>
+		<div>过</div>
+		<div>还</div>
+		<div>孩子</div>
+		<div>好吃</div>
+		<div>黑</div>
+		<div>红</div>
+		<div>火车站</div>
+		<div>机场</div>
+		<div>鸡蛋</div>
+		<div>件</div>
+		<div>觉得</div>
+		<div>教室</div>
+		<div>姐姐</div>
+		<div>介绍</div>
+		<div>进</div>
+		<div>近</div>
+		<div>就</div>
+		<div>咖啡</div>
+		<div>开始</div>
+		<div>考试</div>
+		<div>可能</div>
+		<div>可以</div>
+		<div>课</div>
+		<div>快</div>
+		<div>快乐</div>
+		<div>累</div>
+		<div>离</div>
+		<div>两</div>
+		<div>零</div>
+		<div>路</div>
+		<div>旅游</div>
+		<div>卖</div>
+		<div>慢</div>
+		<div>忙</div>
+		<div>每</div>
+		<div>妹妹</div>
+		<div>门</div>
+		<div>面条</div>
+		<div>男</div>
+		<div>您</div>
+		<div>牛奶</div>
+		<div>女</div>
+		<div>旁边</div>
+		<div>跑步</div>
+		<div>票</div>
+		<div>妻子</div>
+		<div>起床</div>
+		<div>千</div>
+		<div>铅笔</div>
+		<div>晴</div>
+		<div>去年</div>
+		<div>让</div>
+		<div>日</div>
+		<div>上班</div>
+		<div>身体</div>
+		<div>生病</div>
+		<div>生日</div>
+		<div>时间</div>
+		<div>事情</div>
+		<div>手表</div>
+		<div>手机</div>
+		<div>说话</div>
+		<div>送</div>
+		<div>虽然……但是……</div>
+		<div>它</div>
+		<div>踢足球</div>
+		<div>题</div>
+		<div>跳舞</div>
+		<div>外</div>
+		<div>完</div>
+		<div>玩</div>
+		<div>晚上</div>
+		<div>往</div>
+		<div>为什么</div>
+		<div>问</div>
+		<div>问题</div>
+		<div>西瓜</div>
+		<div>希望</div>
+		<div>洗</div>
+		<div>小时</div>
+		<div>笑</div>
+		<div>新</div>
+		<div>姓</div>
+		<div>休息</div>
+		<div>雪</div>
+		<div>颜色</div>
+		<div>眼睛</div>
+		<div>羊肉</div>
+		<div>药</div>
+		<div>要</div>
+		<div>也</div>
+		<div>一起</div>
+		<div>一下</div>
+		<div>已经</div>
+		<div>意思</div>
+		<div>因为……所以……</div>
+		<div>阴</div>
+		<div>游泳</div>
+		<div>右边</div>
+		<div>鱼</div>
+		<div>远</div>
+		<div>运动</div>
+		<div>再</div>
+		<div>早上</div>
+		<div>长</div>
+		<div>丈夫</div>
+		<div>找</div>
+		<div>着</div>
+		<div>真</div>
+		<div>正在</div>
+		<div>知道</div>
+		<div>准备</div>
+		<div>走</div>
+		<div>最</div>
+		<div>左边</div>
+    </div>
+    
+    <div name="level_3" class="level_3 level_out">
+        <div>阿姨</div>
+		<div>啊</div>
+		<div>矮</div>
+		<div>爱好</div>
+		<div>安静</div>
+		<div>把</div>
+		<div>班</div>
+		<div>搬</div>
+		<div>办法</div>
+		<div>办公室</div>
+		<div>半</div>
+		<div>帮忙</div>
+		<div>包</div>
+		<div>饱</div>
+		<div>北方</div>
+		<div>被</div>
+		<div>鼻子</div>
+		<div>比较</div>
+		<div>比赛</div>
+		<div>笔记本</div>
+		<div>必须</div>
+		<div>变化</div>
+		<div>别人</div>
+		<div>冰箱</div>
+		<div>不但……而且……</div>
+		<div>菜单</div>
+		<div>参加</div>
+		<div>草</div>
+		<div>层</div>
+		<div>差</div>
+		<div>超市</div>
+		<div>衬衫</div>
+		<div>成绩</div>
+		<div>城市</div>
+		<div>迟到</div>
+		<div>除了</div>
+		<div>船</div>
+		<div>春</div>
+		<div>词典</div>
+		<div>聪明</div>
+		<div>打扫</div>
+		<div>打算</div>
+		<div>带</div>
+		<div>担心</div>
+		<div>蛋糕</div>
+		<div>当然</div>
+		<div>灯</div>
+		<div>地</div>
+		<div>地方</div>
+		<div>地铁</div>
+		<div>地图</div>
+		<div>电梯</div>
+		<div>电子邮件</div>
+		<div>东</div>
+		<div>冬</div>
+		<div>动物</div>
+		<div>短</div>
+		<div>段</div>
+		<div>锻炼</div>
+		<div>多么</div>
+		<div>饿</div>
+		<div>耳朵</div>
+		<div>发</div>
+		<div>发烧</div>
+		<div>发现</div>
+		<div>方便</div>
+		<div>放</div>
+		<div>放心</div>
+		<div>分</div>
+		<div>附近</div>
+		<div>复习</div>
+		<div>感冒</div>
+		<div>感兴趣</div>
+		<div>干净</div>
+		<div>刚才</div>
+		<div>个子</div>
+		<div>根据</div>
+		<div>跟</div>
+		<div>更</div>
+		<div>公斤</div>
+		<div>公园</div>
+		<div>故事</div>
+		<div>刮风</div>
+		<div>关</div>
+		<div>关系</div>
+		<div>关心</div>
+		<div>关于</div>
+		<div>国家</div>
+		<div>过</div>
+		<div>过去</div>
+		<div>还</div>
+		<div>还是</div>
+		<div>害怕</div>
+		<div>行李箱</div>
+		<div>黑板</div>
+		<div>后来</div>
+		<div>护照</div>
+		<div>花</div>
+		<div>画</div>
+		<div>坏</div>
+		<div>欢迎</div>
+		<div>环境</div>
+		<div>换</div>
+		<div>黄河</div>
+		<div>回答</div>
+		<div>会议</div>
+		<div>或者</div>
+		<div>机会</div>
+		<div>极</div>
+		<div>几乎</div>
+		<div>记得</div>
+		<div>季节</div>
+		<div>检查</div>
+		<div>简单</div>
+		<div>见面</div>
+		<div>健康</div>
+		<div>讲</div>
+		<div>角</div>
+		<div>脚</div>
+		<div>教</div>
+		<div>接</div>
+		<div>街道</div>
+		<div>节目</div>
+		<div>节日</div>
+		<div>结婚</div>
+		<div>结束</div>
+		<div>解决</div>
+		<div>借</div>
+		<div>经常</div>
+		<div>经过</div>
+		<div>经理</div>
+		<div>久</div>
+		<div>旧</div>
+		<div>句子</div>
+		<div>决定</div>
+		<div>可爱</div>
+		<div>渴</div>
+		<div>刻</div>
+		<div>客人</div>
+		<div>空调</div>
+		<div>口</div>
+		<div>哭</div>
+		<div>裤子</div>
+		<div>筷子</div>
+		<div>蓝</div>
+		<div>老</div>
+		<div>了解</div>
+		<div>离开</div>
+		<div>礼物</div>
+		<div>历史</div>
+		<div>脸</div>
+		<div>练习</div>
+		<div>辆</div>
+		<div>聊天</div>
+		<div>邻居</div>
+		<div>留学</div>
+		<div>楼</div>
+		<div>绿</div>
+		<div>马</div>
+		<div>马上</div>
+		<div>满意</div>
+		<div>帽子</div>
+		<div>米</div>
+		<div>面包</div>
+		<div>明白</div>
+		<div>拿</div>
+		<div>奶奶</div>
+		<div>南</div>
+		<div>难</div>
+		<div>难过</div>
+		<div>年级</div>
+		<div>年轻</div>
+		<div>鸟</div>
+		<div>努力</div>
+		<div>爬山</div>
+		<div>盘子</div>
+		<div>胖</div>
+		<div>皮鞋</div>
+		<div>啤酒</div>
+		<div>瓶子</div>
+		<div>其实</div>
+		<div>其他</div>
+		<div>奇怪</div>
+		<div>骑</div>
+		<div>起飞</div>
+		<div>起来</div>
+		<div>清楚</div>
+		<div>请假</div>
+		<div>秋</div>
+		<div>裙子</div>
+		<div>然后</div>
+		<div>热情</div>
+		<div>认为</div>
+		<div>认真</div>
+		<div>容易</div>
+		<div>如果</div>
+		<div>伞</div>
+		<div>上网</div>
+		<div>生气</div>
+		<div>声音</div>
+		<div>世界</div>
+		<div>试</div>
+		<div>瘦</div>
+		<div>叔叔</div>
+		<div>舒服</div>
+		<div>树</div>
+		<div>数学</div>
+		<div>刷牙</div>
+		<div>双</div>
+		<div>水平</div>
+		<div>司机</div>
+		<div>太阳</div>
+		<div>特别</div>
+		<div>疼</div>
+		<div>提高</div>
+		<div>体育</div>
+		<div>甜</div>
+		<div>条</div>
+		<div>同事</div>
+		<div>同意</div>
+		<div>头发</div>
+		<div>突然</div>
+		<div>图书馆</div>
+		<div>腿</div>
+		<div>完成</div>
+		<div>碗</div>
+		<div>万</div>
+		<div>忘记</div>
+		<div>为</div>
+		<div>为了</div>
+		<div>位</div>
+		<div>文化</div>
+		<div>西</div>
+		<div>习惯</div>
+		<div>洗手间</div>
+		<div>洗澡</div>
+		<div>夏</div>
+		<div>先</div>
+		<div>相信</div>
+		<div>香蕉</div>
+		<div>向</div>
+		<div>像</div>
+		<div>小心</div>
+		<div>校长</div>
+		<div>新闻</div>
+		<div>新鲜</div>
+		<div>信用卡</div>
+		<div>熊猫</div>
+		<div>需要</div>
+		<div>选择</div>
+		<div>要求</div>
+		<div>爷爷</div>
+		<div>一般</div>
+		<div>一边</div>
+		<div>一定</div>
+		<div>一共</div>
+		<div>一会儿</div>
+		<div>一样</div>
+		<div>一直</div>
+		<div>以前</div>
+		<div>音乐</div>
+		<div>银行</div>
+		<div>饮料</div>
+		<div>影响</div>
+		<div>应该</div>
+		<div>用</div>
+		<div>游戏</div>
+		<div>有名</div>
+		<div>又</div>
+		<div>遇到</div>
+		<div>元</div>
+		<div>愿意</div>
+		<div>月亮</div>
+		<div>越</div>
+		<div>站</div>
+		<div>张</div>
+		<div>长</div>
+		<div>照顾</div>
+		<div>照片</div>
+		<div>照相机</div>
+		<div>着急</div>
+		<div>只</div>
+		<div>只</div>
+		<div>只有……才……</div>
+		<div>中间</div>
+		<div>中文</div>
+		<div>终于</div>
+		<div>种</div>
+		<div>重要</div>
+		<div>周末</div>
+		<div>主要</div>
+		<div>注意</div>
+		<div>自行车</div>
+		<div>自己</div>
+		<div>总是</div>
+		<div>嘴</div>
+		<div>最后</div>
+		<div>最近</div>
+		<div>作业</div>
+    </div>
+    
+    <div name="level_4" class="level_4 level_out">
+        <div>爱情</div>
+		<div>安排</div>
+		<div>安全</div>
+		<div>按时</div>
+		<div>按照</div>
+		<div>百分之</div>
+		<div>棒</div>
+		<div>包子</div>
+		<div>保护</div>
+		<div>保证</div>
+		<div>报名</div>
+		<div>抱</div>
+		<div>抱歉</div>
+		<div>倍</div>
+		<div>本来</div>
+		<div>笨</div>
+		<div>比如</div>
+		<div>毕业</div>
+		<div>遍</div>
+		<div>标准</div>
+		<div>表格</div>
+		<div>表示</div>
+		<div>表演</div>
+		<div>表扬</div>
+		<div>饼干</div>
+		<div>并且</div>
+		<div>博士</div>
+		<div>不得不</div>
+		<div>不管</div>
+		<div>不过</div>
+		<div>不仅</div>
+		<div>部分</div>
+		<div>擦</div>
+		<div>猜</div>
+		<div>材料</div>
+		<div>参观</div>
+		<div>餐厅</div>
+		<div>厕所</div>
+		<div>差不多</div>
+		<div>尝</div>
+		<div>场</div>
+		<div>超过</div>
+		<div>成功</div>
+		<div>成为</div>
+		<div>诚实</div>
+		<div>乘坐</div>
+		<div>吃惊</div>
+		<div>抽烟</div>
+		<div>出差</div>
+		<div>出发</div>
+		<div>出生</div>
+		<div>出现</div>
+		<div>厨房</div>
+		<div>传真</div>
+		<div>窗户</div>
+		<div>词语</div>
+		<div>从来</div>
+		<div>粗心</div>
+		<div>存</div>
+		<div>错误</div>
+		<div>答案</div>
+		<div>打扮</div>
+		<div>打扰</div>
+		<div>打印</div>
+		<div>打招呼</div>
+		<div>打折</div>
+		<div>打针</div>
+		<div>大夫</div>
+		<div>大概</div>
+		<div>大使馆</div>
+		<div>大约</div>
+		<div>戴</div>
+		<div>弹钢琴</div>
+		<div>当</div>
+		<div>当时</div>
+		<div>刀</div>
+		<div>导游</div>
+		<div>倒</div>
+		<div>到处</div>
+		<div>到底</div>
+		<div>道歉</div>
+		<div>得</div>
+		<div>得意</div>
+		<div>登机牌</div>
+		<div>等</div>
+		<div>低</div>
+		<div>底</div>
+		<div>地点</div>
+		<div>地球</div>
+		<div>地址</div>
+		<div>掉</div>
+		<div>丢</div>
+		<div>动作</div>
+		<div>堵车</div>
+		<div>肚子</div>
+		<div>短信</div>
+		<div>对话</div>
+		<div>对面</div>
+		<div>对于</div>
+		<div>儿童</div>
+		<div>而</div>
+		<div>发生</div>
+		<div>发展</div>
+		<div>法律</div>
+		<div>翻译</div>
+		<div>烦恼</div>
+		<div>反对</div>
+		<div>方法</div>
+		<div>方面</div>
+		<div>方向</div>
+		<div>房东</div>
+		<div>放弃</div>
+		<div>放暑假</div>
+		<div>放松</div>
+		<div>份</div>
+		<div>丰富</div>
+		<div>否则</div>
+		<div>符合</div>
+		<div>父亲</div>
+		<div>付款</div>
+		<div>负责</div>
+		<div>复印</div>
+		<div>复杂</div>
+		<div>富</div>
+		<div>改变</div>
+		<div>赶</div>
+		<div>敢</div>
+		<div>感动</div>
+		<div>感觉</div>
+		<div>感情</div>
+		<div>感谢</div>
+		<div>干</div>
+		<div>干杯</div>
+		<div>刚</div>
+		<div>高速公路</div>
+		<div>胳膊</div>
+		<div>各</div>
+		<div>工资</div>
+		<div>公里</div>
+		<div>功夫</div>
+		<div>共同</div>
+		<div>购物</div>
+		<div>够</div>
+		<div>估计</div>
+		<div>鼓励</div>
+		<div>故意</div>
+		<div>顾客</div>
+		<div>挂</div>
+		<div>关键</div>
+		<div>观众</div>
+		<div>管理</div>
+		<div>光</div>
+		<div>广播</div>
+		<div>广告</div>
+		<div>逛</div>
+		<div>规定</div>
+		<div>国籍</div>
+		<div>国际</div>
+		<div>果汁</div>
+		<div>过程</div>
+		<div>海洋</div>
+		<div>害羞</div>
+		<div>寒假</div>
+		<div>汗</div>
+		<div>行</div>
+		<div>航班</div>
+		<div>好处</div>
+		<div>好像</div>
+		<div>号码</div>
+		<div>合格</div>
+		<div>合适</div>
+		<div>盒子</div>
+		<div>后悔</div>
+		<div>厚</div>
+		<div>互联网</div>
+		<div>互相</div>
+		<div>护士</div>
+		<div>怀疑</div>
+		<div>回忆</div>
+		<div>活动</div>
+		<div>活泼</div>
+		<div>火</div>
+		<div>获得</div>
+		<div>积极</div>
+		<div>积累</div>
+		<div>基础</div>
+		<div>激动</div>
+		<div>及时</div>
+		<div>即使</div>
+		<div>计划</div>
+		<div>记者</div>
+		<div>技术</div>
+		<div>既然</div>
+		<div>继续</div>
+		<div>寄</div>
+		<div>加班</div>
+		<div>加油站</div>
+		<div>家具</div>
+		<div>假</div>
+		<div>价格</div>
+		<div>坚持</div>
+		<div>减肥</div>
+		<div>减少</div>
+		<div>建议</div>
+		<div>将来</div>
+		<div>奖金</div>
+		<div>降低</div>
+		<div>降落</div>
+		<div>交</div>
+		<div>交流</div>
+		<div>交通</div>
+		<div>郊区</div>
+		<div>骄傲</div>
+		<div>饺子</div>
+		<div>教授</div>
+		<div>教育</div>
+		<div>接受</div>
+		<div>接着</div>
+		<div>节</div>
+		<div>节约</div>
+		<div>结果</div>
+		<div>解释</div>
+		<div>紧张</div>
+		<div>尽管</div>
+		<div>进行</div>
+		<div>禁止</div>
+		<div>京剧</div>
+		<div>经济</div>
+		<div>经历</div>
+		<div>经验</div>
+		<div>精彩</div>
+		<div>景色</div>
+		<div>警察</div>
+		<div>竞争</div>
+		<div>竟然</div>
+		<div>镜子</div>
+		<div>究竟</div>
+		<div>举</div>
+		<div>举办</div>
+		<div>举行</div>
+		<div>拒绝</div>
+		<div>距离</div>
+		<div>聚会</div>
+		<div>开玩笑</div>
+		<div>开心</div>
+		<div>看法</div>
+		<div>考虑</div>
+		<div>烤鸭</div>
+		<div>科学</div>
+		<div>棵</div>
+		<div>咳嗽</div>
+		<div>可怜</div>
+		<div>可是</div>
+		<div>可惜</div>
+		<div>客厅</div>
+		<div>肯定</div>
+		<div>空</div>
+		<div>空气</div>
+		<div>恐怕</div>
+		<div>苦</div>
+		<div>矿泉水</div>
+		<div>困</div>
+		<div>困难</div>
+		<div>垃圾桶</div>
+		<div>拉</div>
+		<div>辣</div>
+		<div>来不及</div>
+		<div>来得及</div>
+		<div>来自</div>
+		<div>懒</div>
+		<div>浪费</div>
+		<div>浪漫</div>
+		<div>老虎</div>
+		<div>冷静</div>
+		<div>礼拜天</div>
+		<div>礼貌</div>
+		<div>理发</div>
+		<div>理解</div>
+		<div>理想</div>
+		<div>力气</div>
+		<div>厉害</div>
+		<div>例如</div>
+		<div>连</div>
+		<div>联系</div>
+		<div>凉快</div>
+		<div>俩</div>
+		<div>零钱</div>
+		<div>另外</div>
+		<div>留</div>
+		<div>流行</div>
+		<div>流利</div>
+		<div>乱</div>
+		<div>旅行</div>
+		<div>律师</div>
+		<div>麻烦</div>
+		<div>马虎</div>
+		<div>满</div>
+		<div>毛</div>
+		<div>毛巾</div>
+		<div>美丽</div>
+		<div>梦</div>
+		<div>迷路</div>
+		<div>密码</div>
+		<div>免费</div>
+		<div>秒</div>
+		<div>民族</div>
+		<div>母亲</div>
+		<div>目的</div>
+		<div>耐心</div>
+		<div>难道</div>
+		<div>难受</div>
+		<div>内</div>
+		<div>内容</div>
+		<div>能力</div>
+		<div>年龄</div>
+		<div>弄</div>
+		<div>暖和</div>
+		<div>偶尔</div>
+		<div>排队</div>
+		<div>排列</div>
+		<div>判断</div>
+		<div>陪</div>
+		<div>批评</div>
+		<div>皮肤</div>
+		<div>脾气</div>
+		<div>篇</div>
+		<div>骗</div>
+		<div>乒乓球</div>
+		<div>平时</div>
+		<div>破</div>
+		<div>葡萄</div>
+		<div>普遍</div>
+		<div>普通话</div>
+		<div>其次</div>
+		<div>其中</div>
+		<div>气候</div>
+		<div>千万</div>
+		<div>签证</div>
+		<div>敲</div>
+		<div>桥</div>
+		<div>巧克力</div>
+		<div>亲戚</div>
+		<div>轻</div>
+		<div>轻松</div>
+		<div>情况</div>
+		<div>穷</div>
+		<div>区别</div>
+		<div>取</div>
+		<div>全部</div>
+		<div>缺点</div>
+		<div>缺少</div>
+		<div>却</div>
+		<div>确实</div>
+		<div>然而</div>
+		<div>热闹</div>
+		<div>任何</div>
+		<div>任务</div>
+		<div>扔</div>
+		<div>仍然</div>
+		<div>日记</div>
+		<div>入口</div>
+		<div>散步</div>
+		<div>森林</div>
+		<div>沙发</div>
+		<div>伤心</div>
+		<div>商量</div>
+		<div>稍微</div>
+		<div>勺子</div>
+		<div>社会</div>
+		<div>申请</div>
+		<div>深</div>
+		<div>甚至</div>
+		<div>生活</div>
+		<div>生命</div>
+		<div>生意</div>
+		<div>省</div>
+		<div>剩</div>
+		<div>失败</div>
+		<div>失望</div>
+		<div>师傅</div>
+		<div>十分</div>
+		<div>实际</div>
+		<div>实在</div>
+		<div>使</div>
+		<div>使用</div>
+		<div>世纪</div>
+		<div>是否</div>
+		<div>适合</div>
+		<div>适应</div>
+		<div>收</div>
+		<div>收入</div>
+		<div>收拾</div>
+		<div>首都</div>
+		<div>首先</div>
+		<div>受不了</div>
+		<div>受到</div>
+		<div>售货员</div>
+		<div>输</div>
+		<div>熟悉</div>
+		<div>数量</div>
+		<div>数字</div>
+		<div>帅</div>
+		<div>顺便</div>
+		<div>顺利</div>
+		<div>顺序</div>
+		<div>说明</div>
+		<div>硕士</div>
+		<div>死</div>
+		<div>速度</div>
+		<div>塑料袋</div>
+		<div>酸</div>
+		<div>随便</div>
+		<div>随着</div>
+		<div>孙子</div>
+		<div>所有</div>
+		<div>台</div>
+		<div>抬</div>
+		<div>态度</div>
+		<div>谈</div>
+		<div>汤</div>
+		<div>糖</div>
+		<div>躺</div>
+		<div>趟</div>
+		<div>讨论</div>
+		<div>讨厌</div>
+		<div>特点</div>
+		<div>提</div>
+		<div>提供</div>
+		<div>提前</div>
+		<div>提醒</div>
+		<div>填空</div>
+		<div>条件</div>
+		<div>调查</div>
+		<div>停</div>
+		<div>挺</div>
+		<div>通过</div>
+		<div>通知</div>
+		<div>同情</div>
+		<div>同时</div>
+		<div>推</div>
+		<div>推迟</div>
+		<div>脱</div>
+		<div>袜子</div>
+		<div>完全</div>
+		<div>网球</div>
+		<div>网站</div>
+		<div>往往</div>
+		<div>危险</div>
+		<div>卫生间</div>
+		<div>味道</div>
+		<div>温度</div>
+		<div>文章</div>
+		<div>污染</div>
+		<div>无</div>
+		<div>无聊</div>
+		<div>无论</div>
+		<div>误会</div>
+		<div>西红柿</div>
+		<div>吸引</div>
+		<div>咸</div>
+		<div>现金</div>
+		<div>羡慕</div>
+		<div>相反</div>
+		<div>相同</div>
+		<div>香</div>
+		<div>详细</div>
+		<div>响</div>
+		<div>橡皮</div>
+		<div>消息</div>
+		<div>小吃</div>
+		<div>小伙子</div>
+		<div>小说</div>
+		<div>笑话</div>
+		<div>效果</div>
+		<div>心情</div>
+		<div>辛苦</div>
+		<div>信封</div>
+		<div>信息</div>
+		<div>信心</div>
+		<div>醒</div>
+		<div>兴奋</div>
+		<div>幸福</div>
+		<div>性别</div>
+		<div>性格</div>
+		<div>修理</div>
+		<div>许多</div>
+		<div>学期</div>
+		<div>压力</div>
+		<div>牙膏</div>
+		<div>亚洲</div>
+		<div>呀</div>
+		<div>严格</div>
+		<div>严重</div>
+		<div>研究</div>
+		<div>盐</div>
+		<div>眼镜</div>
+		<div>演出</div>
+		<div>演员</div>
+		<div>阳光</div>
+		<div>养成</div>
+		<div>样子</div>
+		<div>邀请</div>
+		<div>要是</div>
+		<div>钥匙</div>
+		<div>也许</div>
+		<div>叶子</div>
+		<div>页</div>
+		<div>一切</div>
+		<div>以</div>
+		<div>以为</div>
+		<div>艺术</div>
+		<div>意见</div>
+		<div>因此</div>
+		<div>引起</div>
+		<div>印象</div>
+		<div>赢</div>
+		<div>应聘</div>
+		<div>永远</div>
+		<div>勇敢</div>
+		<div>优点</div>
+		<div>优秀</div>
+		<div>幽默</div>
+		<div>尤其</div>
+		<div>由</div>
+		<div>由于</div>
+		<div>邮局</div>
+		<div>友好</div>
+		<div>友谊</div>
+		<div>有趣</div>
+		<div>于是</div>
+		<div>愉快</div>
+		<div>与</div>
+		<div>羽毛球</div>
+		<div>语法</div>
+		<div>语言</div>
+		<div>预习</div>
+		<div>原来</div>
+		<div>原谅</div>
+		<div>原因</div>
+		<div>约会</div>
+		<div>阅读</div>
+		<div>云</div>
+		<div>允许</div>
+		<div>杂志</div>
+		<div>仔细</div>
+		<div>咱们</div>
+		<div>暂时</div>
+		<div>脏</div>
+		<div>责任</div>
+		<div>增加</div>
+		<div>占线</div>
+		<div>长城</div>
+		<div>长江</div>
+		<div>招聘</div>
+		<div>照</div>
+		<div>真正</div>
+		<div>整理</div>
+		<div>正常</div>
+		<div>正好</div>
+		<div>正确</div>
+		<div>正式</div>
+		<div>证明</div>
+		<div>之</div>
+		<div>支持</div>
+		<div>只好</div>
+		<div>只要</div>
+		<div>知识</div>
+		<div>直接</div>
+		<div>值得</div>
+		<div>职业</div>
+		<div>植物</div>
+		<div>指</div>
+		<div>至少</div>
+		<div>质量</div>
+		<div>重</div>
+		<div>重点</div>
+		<div>重视</div>
+		<div>重新</div>
+		<div>周围</div>
+		<div>主意</div>
+		<div>祝贺</div>
+		<div>著名</div>
+		<div>专门</div>
+		<div>专业</div>
+		<div>转</div>
+		<div>赚</div>
+		<div>准确</div>
+		<div>准时</div>
+		<div>自然</div>
+		<div>自信</div>
+		<div>总结</div>
+		<div>租</div>
+		<div>最好</div>
+		<div>尊重</div>
+		<div>左右</div>
+		<div>作家</div>
+		<div>作用</div>
+		<div>作者</div>
+		<div>座</div>
+		<div>座位</div>
+    </div>
+    
+    <div name="level_5" class="level_5 level_out">
+        <div>哎</div>
+		<div>唉</div>
+		<div>爱护</div>
+		<div>爱惜</div>
+		<div>爱心</div>
+		<div>安慰</div>
+		<div>安装</div>
+		<div>岸</div>
+		<div>暗</div>
+		<div>熬夜</div>
+		<div>把握</div>
+		<div>摆</div>
+		<div>办理</div>
+		<div>傍晚</div>
+		<div>包裹</div>
+		<div>包含</div>
+		<div>包括</div>
+		<div>薄</div>
+		<div>宝贝</div>
+		<div>宝贵</div>
+		<div>保持</div>
+		<div>保存</div>
+		<div>保留</div>
+		<div>保险</div>
+		<div>报到</div>
+		<div>报道</div>
+		<div>报告</div>
+		<div>报社</div>
+		<div>抱怨</div>
+		<div>悲观</div>
+		<div>背</div>
+		<div>背景</div>
+		<div>被子</div>
+		<div>本科</div>
+		<div>本领</div>
+		<div>本质</div>
+		<div>比例</div>
+		<div>彼此</div>
+		<div>必然</div>
+		<div>必要</div>
+		<div>毕竟</div>
+		<div>避免</div>
+		<div>编辑</div>
+		<div>鞭炮</div>
+		<div>便</div>
+		<div>辩论</div>
+		<div>标点</div>
+		<div>标志</div>
+		<div>表达</div>
+		<div>表面</div>
+		<div>表明</div>
+		<div>表情</div>
+		<div>表现</div>
+		<div>冰激凌</div>
+		<div>病毒</div>
+		<div>玻璃</div>
+		<div>播放</div>
+		<div>脖子</div>
+		<div>博物馆</div>
+		<div>补充</div>
+		<div>不安</div>
+		<div>不得了</div>
+		<div>不断</div>
+		<div>不见得</div>
+		<div>不耐烦</div>
+		<div>不然</div>
+		<div>不如</div>
+		<div>不要紧</div>
+		<div>不足</div>
+		<div>布</div>
+		<div>步骤</div>
+		<div>部门</div>
+		<div>财产</div>
+		<div>采访</div>
+		<div>采取</div>
+		<div>彩虹</div>
+		<div>踩</div>
+		<div>参考</div>
+		<div>参与</div>
+		<div>惭愧</div>
+		<div>操场</div>
+		<div>操心</div>
+		<div>册</div>
+		<div>测验</div>
+		<div>曾经</div>
+		<div>叉子</div>
+		<div>插</div>
+		<div>差距</div>
+		<div>拆</div>
+		<div>产品</div>
+		<div>产生</div>
+		<div>常识</div>
+		<div>抄</div>
+		<div>超级</div>
+		<div>朝</div>
+		<div>潮湿</div>
+		<div>吵</div>
+		<div>吵架</div>
+		<div>炒</div>
+		<div>车库</div>
+		<div>车厢</div>
+		<div>彻底</div>
+		<div>沉默</div>
+		<div>趁</div>
+		<div>称</div>
+		<div>称呼</div>
+		<div>称赞</div>
+		<div>成分</div>
+		<div>成果</div>
+		<div>成就</div>
+		<div>成立</div>
+		<div>成人</div>
+		<div>成熟</div>
+		<div>成语</div>
+		<div>成长</div>
+		<div>诚恳</div>
+		<div>承担</div>
+		<div>承认</div>
+		<div>承受</div>
+		<div>程度</div>
+		<div>程序</div>
+		<div>吃亏</div>
+		<div>池塘</div>
+		<div>迟早</div>
+		<div>持续</div>
+		<div>尺子</div>
+		<div>翅膀</div>
+		<div>冲</div>
+		<div>充电器</div>
+		<div>充分</div>
+		<div>充满</div>
+		<div>宠物</div>
+		<div>抽屉</div>
+		<div>抽象</div>
+		<div>丑</div>
+		<div>臭</div>
+		<div>出版</div>
+		<div>出口</div>
+		<div>出色</div>
+		<div>出示</div>
+		<div>出席</div>
+		<div>初级</div>
+		<div>除非</div>
+		<div>除夕</div>
+		<div>处理</div>
+		<div>传播</div>
+		<div>传染</div>
+		<div>传说</div>
+		<div>传统</div>
+		<div>窗帘</div>
+		<div>闯</div>
+		<div>创造</div>
+		<div>吹</div>
+		<div>词汇</div>
+		<div>辞职</div>
+		<div>此外</div>
+		<div>次要</div>
+		<div>刺激</div>
+		<div>匆忙</div>
+		<div>从此</div>
+		<div>从而</div>
+		<div>从前</div>
+		<div>从事</div>
+		<div>粗糙</div>
+		<div>促进</div>
+		<div>促使</div>
+		<div>醋</div>
+		<div>催</div>
+		<div>存在</div>
+		<div>措施</div>
+		<div>达到</div>
+		<div>答应</div>
+		<div>打工</div>
+		<div>打交道</div>
+		<div>打喷嚏</div>
+		<div>打听</div>
+		<div>大方</div>
+		<div>大厦</div>
+		<div>大象</div>
+		<div>大型</div>
+		<div>呆</div>
+		<div>代表</div>
+		<div>代替</div>
+		<div>贷款</div>
+		<div>待遇</div>
+		<div>担任</div>
+		<div>单纯</div>
+		<div>单独</div>
+		<div>单调</div>
+		<div>单位</div>
+		<div>单元</div>
+		<div>耽误</div>
+		<div>胆小鬼</div>
+		<div>淡</div>
+		<div>当地</div>
+		<div>当心</div>
+		<div>挡</div>
+		<div>导演</div>
+		<div>导致</div>
+		<div>岛屿</div>
+		<div>倒霉</div>
+		<div>到达</div>
+		<div>道德</div>
+		<div>道理</div>
+		<div>的确</div>
+		<div>登记</div>
+		<div>等待</div>
+		<div>等于</div>
+		<div>滴</div>
+		<div>敌人</div>
+		<div>地道</div>
+		<div>地理</div>
+		<div>地区</div>
+		<div>地毯</div>
+		<div>地位</div>
+		<div>地震</div>
+		<div>递</div>
+		<div>点心</div>
+		<div>电池</div>
+		<div>电台</div>
+		<div>钓</div>
+		<div>顶</div>
+		<div>动画片</div>
+		<div>冻</div>
+		<div>洞</div>
+		<div>豆腐</div>
+		<div>逗</div>
+		<div>独立</div>
+		<div>独特</div>
+		<div>度过</div>
+		<div>断</div>
+		<div>堆</div>
+		<div>对比</div>
+		<div>对待</div>
+		<div>对方</div>
+		<div>对手</div>
+		<div>对象</div>
+		<div>兑换</div>
+		<div>吨</div>
+		<div>蹲</div>
+		<div>顿</div>
+		<div>多亏</div>
+		<div>多余</div>
+		<div>朵</div>
+		<div>躲藏</div>
+		<div>恶劣</div>
+		<div>嗯</div>
+		<div>耳环</div>
+		<div>发表</div>
+		<div>发愁</div>
+		<div>发达</div>
+		<div>发抖</div>
+		<div>发挥</div>
+		<div>发明</div>
+		<div>发票</div>
+		<div>发言</div>
+		<div>罚款</div>
+		<div>法院</div>
+		<div>翻</div>
+		<div>繁荣</div>
+		<div>反而</div>
+		<div>反复</div>
+		<div>反应</div>
+		<div>反映</div>
+		<div>反正</div>
+		<div>范围</div>
+		<div>方</div>
+		<div>方案</div>
+		<div>方式</div>
+		<div>妨碍</div>
+		<div>仿佛</div>
+		<div>非</div>
+		<div>肥皂</div>
+		<div>废话</div>
+		<div>分别</div>
+		<div>分布</div>
+		<div>分配</div>
+		<div>分手</div>
+		<div>分析</div>
+		<div>纷纷</div>
+		<div>奋斗</div>
+		<div>风格</div>
+		<div>风景</div>
+		<div>风俗</div>
+		<div>风险</div>
+		<div>疯狂</div>
+		<div>讽刺</div>
+		<div>否定</div>
+		<div>否认</div>
+		<div>扶</div>
+		<div>服装</div>
+		<div>幅</div>
+		<div>辅导</div>
+		<div>妇女</div>
+		<div>复制</div>
+		<div>改革</div>
+		<div>改进</div>
+		<div>改善</div>
+		<div>改正</div>
+		<div>盖</div>
+		<div>概括</div>
+		<div>概念</div>
+		<div>赶紧</div>
+		<div>赶快</div>
+		<div>感激</div>
+		<div>感受</div>
+		<div>感想</div>
+		<div>干脆</div>
+		<div>干活儿</div>
+		<div>干燥</div>
+		<div>钢铁</div>
+		<div>高档</div>
+		<div>高级</div>
+		<div>搞</div>
+		<div>告别</div>
+		<div>格外</div>
+		<div>隔壁</div>
+		<div>个别</div>
+		<div>个人</div>
+		<div>个性</div>
+		<div>各自</div>
+		<div>根</div>
+		<div>根本</div>
+		<div>工厂</div>
+		<div>工程师</div>
+		<div>工具</div>
+		<div>工人</div>
+		<div>工业</div>
+		<div>公布</div>
+		<div>公开</div>
+		<div>公平</div>
+		<div>公寓</div>
+		<div>公元</div>
+		<div>公主</div>
+		<div>功能</div>
+		<div>恭喜</div>
+		<div>贡献</div>
+		<div>沟通</div>
+		<div>构成</div>
+		<div>姑姑</div>
+		<div>姑娘</div>
+		<div>古代</div>
+		<div>古典</div>
+		<div>股票</div>
+		<div>骨头</div>
+		<div>鼓舞</div>
+		<div>鼓掌</div>
+		<div>固定</div>
+		<div>挂号</div>
+		<div>乖</div>
+		<div>拐弯</div>
+		<div>怪不得</div>
+		<div>关闭</div>
+		<div>观察</div>
+		<div>观点</div>
+		<div>观念</div>
+		<div>官</div>
+		<div>管子</div>
+		<div>冠军</div>
+		<div>光滑</div>
+		<div>光临</div>
+		<div>光明</div>
+		<div>光盘</div>
+		<div>广场</div>
+		<div>广大</div>
+		<div>广泛</div>
+		<div>归纳</div>
+		<div>规矩</div>
+		<div>规律</div>
+		<div>规模</div>
+		<div>规则</div>
+		<div>柜台</div>
+		<div>滚</div>
+		<div>锅</div>
+		<div>国庆节</div>
+		<div>国王</div>
+		<div>果然</div>
+		<div>果实</div>
+		<div>过分</div>
+		<div>过敏</div>
+		<div>过期</div>
+		<div>哈</div>
+		<div>海关</div>
+		<div>海鲜</div>
+		<div>喊</div>
+		<div>行动</div>
+		<div>行人</div>
+		<div>行为</div>
+		<div>行业</div>
+		<div>豪华</div>
+		<div>好客</div>
+		<div>好奇</div>
+		<div>合法</div>
+		<div>合理</div>
+		<div>合同</div>
+		<div>合影</div>
+		<div>合作</div>
+		<div>何必</div>
+		<div>何况</div>
+		<div>和平</div>
+		<div>核心</div>
+		<div>恨</div>
+		<div>猴子</div>
+		<div>后背</div>
+		<div>后果</div>
+		<div>呼吸</div>
+		<div>忽然</div>
+		<div>忽视</div>
+		<div>胡说</div>
+		<div>胡同</div>
+		<div>壶</div>
+		<div>蝴蝶</div>
+		<div>糊涂</div>
+		<div>花生</div>
+		<div>划</div>
+		<div>华裔</div>
+		<div>滑</div>
+		<div>化学</div>
+		<div>话题</div>
+		<div>怀念</div>
+		<div>怀孕</div>
+		<div>缓解</div>
+		<div>幻想</div>
+		<div>慌张</div>
+		<div>黄金</div>
+		<div>灰</div>
+		<div>灰尘</div>
+		<div>灰心</div>
+		<div>挥</div>
+		<div>恢复</div>
+		<div>汇率</div>
+		<div>会计</div>
+		<div>婚礼</div>
+		<div>婚姻</div>
+		<div>活跃</div>
+		<div>火柴</div>
+		<div>伙伴</div>
+		<div>或许</div>
+		<div>机器</div>
+		<div>肌肉</div>
+		<div>基本</div>
+		<div>激烈</div>
+		<div>及格</div>
+		<div>极其</div>
+		<div>急忙</div>
+		<div>急诊</div>
+		<div>集合</div>
+		<div>集体</div>
+		<div>集中</div>
+		<div>计算</div>
+		<div>记录</div>
+		<div>记忆</div>
+		<div>纪录</div>
+		<div>纪律</div>
+		<div>纪念</div>
+		<div>寂寞</div>
+		<div>家庭</div>
+		<div>家务</div>
+		<div>家乡</div>
+		<div>嘉宾</div>
+		<div>夹子</div>
+		<div>甲</div>
+		<div>假如</div>
+		<div>假设</div>
+		<div>假装</div>
+		<div>价值</div>
+		<div>驾驶</div>
+		<div>嫁</div>
+		<div>坚决</div>
+		<div>坚强</div>
+		<div>肩膀</div>
+		<div>艰巨</div>
+		<div>艰苦</div>
+		<div>兼职</div>
+		<div>捡</div>
+		<div>剪刀</div>
+		<div>简历</div>
+		<div>简直</div>
+		<div>建立</div>
+		<div>建设</div>
+		<div>建筑</div>
+		<div>健身</div>
+		<div>键盘</div>
+		<div>讲究</div>
+		<div>讲座</div>
+		<div>酱油</div>
+		<div>交换</div>
+		<div>交际</div>
+		<div>交往</div>
+		<div>浇</div>
+		<div>胶水</div>
+		<div>角度</div>
+		<div>角色</div>
+		<div>狡猾</div>
+		<div>教材</div>
+		<div>教练</div>
+		<div>教训</div>
+		<div>阶段</div>
+		<div>接触</div>
+		<div>接待</div>
+		<div>接近</div>
+		<div>节省</div>
+		<div>结构</div>
+		<div>结合</div>
+		<div>结论</div>
+		<div>结实</div>
+		<div>结账</div>
+		<div>戒</div>
+		<div>戒指</div>
+		<div>届</div>
+		<div>借口</div>
+		<div>金属</div>
+		<div>紧急</div>
+		<div>谨慎</div>
+		<div>尽快</div>
+		<div>尽力</div>
+		<div>尽量</div>
+		<div>进步</div>
+		<div>进口</div>
+		<div>近代</div>
+		<div>经典</div>
+		<div>经商</div>
+		<div>经营</div>
+		<div>精力</div>
+		<div>精神</div>
+		<div>酒吧</div>
+		<div>救</div>
+		<div>救护车</div>
+		<div>舅舅</div>
+		<div>居然</div>
+		<div>桔子</div>
+		<div>巨大</div>
+		<div>具备</div>
+		<div>具体</div>
+		<div>俱乐部</div>
+		<div>据说</div>
+		<div>捐</div>
+		<div>决赛</div>
+		<div>决心</div>
+		<div>绝对</div>
+		<div>军事</div>
+		<div>均匀</div>
+		<div>卡车</div>
+		<div>开发</div>
+		<div>开放</div>
+		<div>开幕式</div>
+		<div>开水</div>
+		<div>砍</div>
+		<div>看不起</div>
+		<div>看望</div>
+		<div>靠</div>
+		<div>颗</div>
+		<div>可见</div>
+		<div>可靠</div>
+		<div>可怕</div>
+		<div>克</div>
+		<div>克服</div>
+		<div>刻苦</div>
+		<div>客观</div>
+		<div>课程</div>
+		<div>空间</div>
+		<div>空闲</div>
+		<div>控制</div>
+		<div>口味</div>
+		<div>夸</div>
+		<div>夸张</div>
+		<div>宽</div>
+		<div>昆虫</div>
+		<div>扩大</div>
+		<div>辣椒</div>
+		<div>拦</div>
+		<div>烂</div>
+		<div>朗读</div>
+		<div>劳动</div>
+		<div>劳驾</div>
+		<div>老百姓</div>
+		<div>老板</div>
+		<div>老婆</div>
+		<div>老实</div>
+		<div>老鼠</div>
+		<div>姥姥</div>
+		<div>乐观</div>
+		<div>乐器</div>
+		<div>了不起</div>
+		<div>雷</div>
+		<div>类型</div>
+		<div>冷淡</div>
+		<div>厘米</div>
+		<div>离婚</div>
+		<div>梨</div>
+		<div>理论</div>
+		<div>理由</div>
+		<div>力量</div>
+		<div>立即</div>
+		<div>立刻</div>
+		<div>利润</div>
+		<div>利息</div>
+		<div>利益</div>
+		<div>利用</div>
+		<div>连忙</div>
+		<div>连续</div>
+		<div>联合</div>
+		<div>恋爱</div>
+		<div>良好</div>
+		<div>粮食</div>
+		<div>亮</div>
+		<div>列车</div>
+		<div>临时</div>
+		<div>灵活</div>
+		<div>铃</div>
+		<div>零件</div>
+		<div>零食</div>
+		<div>领导</div>
+		<div>领域</div>
+		<div>浏览</div>
+		<div>流传</div>
+		<div>流泪</div>
+		<div>龙</div>
+		<div>漏</div>
+		<div>陆地</div>
+		<div>陆续</div>
+		<div>录取</div>
+		<div>录音</div>
+		<div>轮流</div>
+		<div>论文</div>
+		<div>逻辑</div>
+		<div>落后</div>
+		<div>骂</div>
+		<div>麦克风</div>
+		<div>馒头</div>
+		<div>满足</div>
+		<div>毛病</div>
+		<div>矛盾</div>
+		<div>冒险</div>
+		<div>贸易</div>
+		<div>眉毛</div>
+		<div>媒体</div>
+		<div>煤炭</div>
+		<div>美术</div>
+		<div>魅力</div>
+		<div>梦想</div>
+		<div>秘密</div>
+		<div>秘书</div>
+		<div>密切</div>
+		<div>蜜蜂</div>
+		<div>面对</div>
+		<div>面积</div>
+		<div>面临</div>
+		<div>苗条</div>
+		<div>描写</div>
+		<div>敏感</div>
+		<div>名牌</div>
+		<div>名片</div>
+		<div>名胜古迹</div>
+		<div>明确</div>
+		<div>明显</div>
+		<div>明星</div>
+		<div>命令</div>
+		<div>命运</div>
+		<div>摸</div>
+		<div>模仿</div>
+		<div>模糊</div>
+		<div>模特</div>
+		<div>摩托车</div>
+		<div>陌生</div>
+		<div>某</div>
+		<div>木头</div>
+		<div>目标</div>
+		<div>目录</div>
+		<div>目前</div>
+		<div>哪怕</div>
+		<div>难怪</div>
+		<div>难免</div>
+		<div>脑袋</div>
+		<div>内部</div>
+		<div>内科</div>
+		<div>嫩</div>
+		<div>能干</div>
+		<div>能源</div>
+		<div>年代</div>
+		<div>年纪</div>
+		<div>念</div>
+		<div>宁可</div>
+		<div>牛仔裤</div>
+		<div>农村</div>
+		<div>农民</div>
+		<div>农业</div>
+		<div>浓</div>
+		<div>女士</div>
+		<div>欧洲</div>
+		<div>偶然</div>
+		<div>拍</div>
+		<div>派</div>
+		<div>盼望</div>
+		<div>培训</div>
+		<div>培养</div>
+		<div>赔偿</div>
+		<div>佩服</div>
+		<div>配合</div>
+		<div>盆</div>
+		<div>碰</div>
+		<div>批</div>
+		<div>批准</div>
+		<div>披</div>
+		<div>疲劳</div>
+		<div>匹</div>
+		<div>片</div>
+		<div>片面</div>
+		<div>飘</div>
+		<div>拼音</div>
+		<div>频道</div>
+		<div>平</div>
+		<div>平安</div>
+		<div>平常</div>
+		<div>平等</div>
+		<div>平方</div>
+		<div>平衡</div>
+		<div>平静</div>
+		<div>平均</div>
+		<div>评价</div>
+		<div>凭</div>
+		<div>迫切</div>
+		<div>破产</div>
+		<div>破坏</div>
+		<div>期待</div>
+		<div>期间</div>
+		<div>其余</div>
+		<div>奇迹</div>
+		<div>企业</div>
+		<div>启发</div>
+		<div>气氛</div>
+		<div>汽油</div>
+		<div>谦虚</div>
+		<div>签</div>
+		<div>前途</div>
+		<div>浅</div>
+		<div>欠</div>
+		<div>枪</div>
+		<div>强烈</div>
+		<div>强调</div>
+		<div>墙</div>
+		<div>抢</div>
+		<div>悄悄</div>
+		<div>瞧</div>
+		<div>巧妙</div>
+		<div>切</div>
+		<div>亲爱</div>
+		<div>亲切</div>
+		<div>亲自</div>
+		<div>勤奋</div>
+		<div>青</div>
+		<div>青春</div>
+		<div>青少年</div>
+		<div>轻视</div>
+		<div>轻易</div>
+		<div>清淡</div>
+		<div>情景</div>
+		<div>情绪</div>
+		<div>请求</div>
+		<div>庆祝</div>
+		<div>球迷</div>
+		<div>趋势</div>
+		<div>取消</div>
+		<div>娶</div>
+		<div>去世</div>
+		<div>圈</div>
+		<div>权力</div>
+		<div>权利</div>
+		<div>全面</div>
+		<div>劝</div>
+		<div>缺乏</div>
+		<div>确定</div>
+		<div>确认</div>
+		<div>群</div>
+		<div>燃烧</div>
+		<div>绕</div>
+		<div>热爱</div>
+		<div>热烈</div>
+		<div>热心</div>
+		<div>人才</div>
+		<div>人口</div>
+		<div>人类</div>
+		<div>人民币</div>
+		<div>人生</div>
+		<div>人事</div>
+		<div>人物</div>
+		<div>人员</div>
+		<div>忍不住</div>
+		<div>日常</div>
+		<div>日程</div>
+		<div>日历</div>
+		<div>日期</div>
+		<div>日用品</div>
+		<div>日子</div>
+		<div>如何</div>
+		<div>如今</div>
+		<div>软</div>
+		<div>软件</div>
+		<div>弱</div>
+		<div>洒</div>
+		<div>嗓子</div>
+		<div>色彩</div>
+		<div>杀</div>
+		<div>沙漠</div>
+		<div>沙滩</div>
+		<div>傻</div>
+		<div>晒</div>
+		<div>删除</div>
+		<div>闪电</div>
+		<div>扇子</div>
+		<div>善良</div>
+		<div>善于</div>
+		<div>伤害</div>
+		<div>商品</div>
+		<div>商务</div>
+		<div>商业</div>
+		<div>上当</div>
+		<div>蛇</div>
+		<div>舍不得</div>
+		<div>设备</div>
+		<div>设计</div>
+		<div>设施</div>
+		<div>射击</div>
+		<div>摄影</div>
+		<div>伸</div>
+		<div>身材</div>
+		<div>身份</div>
+		<div>深刻</div>
+		<div>神话</div>
+		<div>神秘</div>
+		<div>升</div>
+		<div>生产</div>
+		<div>生动</div>
+		<div>生长</div>
+		<div>声调</div>
+		<div>绳子</div>
+		<div>省略</div>
+		<div>胜利</div>
+		<div>失眠</div>
+		<div>失去</div>
+		<div>失业</div>
+		<div>诗</div>
+		<div>狮子</div>
+		<div>湿润</div>
+		<div>石头</div>
+		<div>时差</div>
+		<div>时代</div>
+		<div>时刻</div>
+		<div>时髦</div>
+		<div>时期</div>
+		<div>时尚</div>
+		<div>实话</div>
+		<div>实践</div>
+		<div>实习</div>
+		<div>实现</div>
+		<div>实验</div>
+		<div>实用</div>
+		<div>食物</div>
+		<div>使劲儿</div>
+		<div>始终</div>
+		<div>士兵</div>
+		<div>市场</div>
+		<div>似的</div>
+		<div>似乎</div>
+		<div>事实</div>
+		<div>事物</div>
+		<div>事先</div>
+		<div>试卷</div>
+		<div>收获</div>
+		<div>收据</div>
+		<div>手工</div>
+		<div>手术</div>
+		<div>手套</div>
+		<div>手续</div>
+		<div>手指</div>
+		<div>首</div>
+		<div>寿命</div>
+		<div>受伤</div>
+		<div>书架</div>
+		<div>梳子</div>
+		<div>舒适</div>
+		<div>输入</div>
+		<div>蔬菜</div>
+		<div>熟练</div>
+		<div>属于</div>
+		<div>鼠标</div>
+		<div>数</div>
+		<div>数据</div>
+		<div>数码</div>
+		<div>摔倒</div>
+		<div>甩</div>
+		<div>双方</div>
+		<div>税</div>
+		<div>说不定</div>
+		<div>说服</div>
+		<div>丝绸</div>
+		<div>丝毫</div>
+		<div>私人</div>
+		<div>思考</div>
+		<div>思想</div>
+		<div>撕</div>
+		<div>搜索</div>
+		<div>随身</div>
+		<div>随时</div>
+		<div>随手</div>
+		<div>碎</div>
+		<div>损失</div>
+		<div>缩短</div>
+		<div>所</div>
+		<div>锁</div>
+		<div>台阶</div>
+		<div>太极拳</div>
+		<div>太太</div>
+		<div>谈判</div>
+		<div>坦率</div>
+		<div>烫</div>
+		<div>逃</div>
+		<div>逃避</div>
+		<div>桃</div>
+		<div>淘气</div>
+		<div>讨价还价</div>
+		<div>套</div>
+		<div>特色</div>
+		<div>特殊</div>
+		<div>特征</div>
+		<div>疼爱</div>
+		<div>提倡</div>
+		<div>提纲</div>
+		<div>提问</div>
+		<div>题目</div>
+		<div>体会</div>
+		<div>体贴</div>
+		<div>体现</div>
+		<div>体验</div>
+		<div>天空</div>
+		<div>天真</div>
+		<div>挑战</div>
+		<div>调皮</div>
+		<div>调整</div>
+		<div>通常</div>
+		<div>统一</div>
+		<div>痛苦</div>
+		<div>痛快</div>
+		<div>偷</div>
+		<div>投入</div>
+		<div>投资</div>
+		<div>透明</div>
+		<div>突出</div>
+		<div>土地</div>
+		<div>土豆</div>
+		<div>吐</div>
+		<div>兔子</div>
+		<div>团</div>
+		<div>推辞</div>
+		<div>推广</div>
+		<div>推荐</div>
+		<div>退</div>
+		<div>退步</div>
+		<div>退休</div>
+		<div>歪</div>
+		<div>外公</div>
+		<div>外交</div>
+		<div>完美</div>
+		<div>完善</div>
+		<div>完整</div>
+		<div>玩具</div>
+		<div>万一</div>
+		<div>王子</div>
+		<div>网络</div>
+		<div>往返</div>
+		<div>危害</div>
+		<div>威胁</div>
+		<div>微笑</div>
+		<div>违反</div>
+		<div>围巾</div>
+		<div>围绕</div>
+		<div>唯一</div>
+		<div>维修</div>
+		<div>伟大</div>
+		<div>尾巴</div>
+		<div>委屈</div>
+		<div>未必</div>
+		<div>未来</div>
+		<div>位于</div>
+		<div>位置</div>
+		<div>胃</div>
+		<div>胃口</div>
+		<div>温暖</div>
+		<div>温柔</div>
+		<div>文件</div>
+		<div>文具</div>
+		<div>文明</div>
+		<div>文学</div>
+		<div>文字</div>
+		<div>闻</div>
+		<div>吻</div>
+		<div>稳定</div>
+		<div>问候</div>
+		<div>卧室</div>
+		<div>握手</div>
+		<div>屋子</div>
+		<div>无奈</div>
+		<div>无数</div>
+		<div>无所谓</div>
+		<div>武术</div>
+		<div>勿</div>
+		<div>物理</div>
+		<div>物质</div>
+		<div>雾</div>
+		<div>吸取</div>
+		<div>吸收</div>
+		<div>戏剧</div>
+		<div>系</div>
+		<div>系领带</div>
+		<div>系统</div>
+		<div>细节</div>
+		<div>瞎</div>
+		<div>下载</div>
+		<div>吓</div>
+		<div>夏令营</div>
+		<div>鲜艳</div>
+		<div>显得</div>
+		<div>显然</div>
+		<div>显示</div>
+		<div>县</div>
+		<div>现代</div>
+		<div>现实</div>
+		<div>现象</div>
+		<div>限制</div>
+		<div>相处</div>
+		<div>相当</div>
+		<div>相对</div>
+		<div>相关</div>
+		<div>相似</div>
+		<div>香肠</div>
+		<div>享受</div>
+		<div>想念</div>
+		<div>想象</div>
+		<div>项</div>
+		<div>项链</div>
+		<div>项目</div>
+		<div>象棋</div>
+		<div>象征</div>
+		<div>消费</div>
+		<div>消化</div>
+		<div>消极</div>
+		<div>消失</div>
+		<div>销售</div>
+		<div>小麦</div>
+		<div>小气</div>
+		<div>孝顺</div>
+		<div>效率</div>
+		<div>歇</div>
+		<div>斜</div>
+		<div>写作</div>
+		<div>心理</div>
+		<div>心脏</div>
+		<div>欣赏</div>
+		<div>信号</div>
+		<div>信任</div>
+		<div>形成</div>
+		<div>形容</div>
+		<div>形式</div>
+		<div>形势</div>
+		<div>形象</div>
+		<div>形状</div>
+		<div>幸亏</div>
+		<div>幸运</div>
+		<div>性质</div>
+		<div>兄弟</div>
+		<div>胸</div>
+		<div>休闲</div>
+		<div>修改</div>
+		<div>宿舍</div>
+		<div>虚心</div>
+		<div>叙述</div>
+		<div>宣布</div>
+		<div>宣传</div>
+		<div>学历</div>
+		<div>学术</div>
+		<div>学问</div>
+		<div>血</div>
+		<div>寻找</div>
+		<div>询问</div>
+		<div>训练</div>
+		<div>迅速</div>
+		<div>押金</div>
+		<div>牙齿</div>
+		<div>延长</div>
+		<div>严肃</div>
+		<div>演讲</div>
+		<div>宴会</div>
+		<div>阳台</div>
+		<div>痒</div>
+		<div>样式</div>
+		<div>腰</div>
+		<div>摇</div>
+		<div>咬</div>
+		<div>要不</div>
+		<div>业务</div>
+		<div>业余</div>
+		<div>夜</div>
+		<div>一辈子</div>
+		<div>一旦</div>
+		<div>一律</div>
+		<div>一再</div>
+		<div>一致</div>
+		<div>依然</div>
+		<div>移动</div>
+		<div>移民</div>
+		<div>遗憾</div>
+		<div>疑问</div>
+		<div>乙</div>
+		<div>以及</div>
+		<div>以来</div>
+		<div>亿</div>
+		<div>义务</div>
+		<div>议论</div>
+		<div>意外</div>
+		<div>意义</div>
+		<div>因而</div>
+		<div>因素</div>
+		<div>银</div>
+		<div>印刷</div>
+		<div>英俊</div>
+		<div>英雄</div>
+		<div>迎接</div>
+		<div>营养</div>
+		<div>营业</div>
+		<div>影子</div>
+		<div>应付</div>
+		<div>应用</div>
+		<div>硬</div>
+		<div>硬件</div>
+		<div>拥抱</div>
+		<div>拥挤</div>
+		<div>勇气</div>
+		<div>用功</div>
+		<div>用途</div>
+		<div>优惠</div>
+		<div>优美</div>
+		<div>优势</div>
+		<div>悠久</div>
+		<div>犹豫</div>
+		<div>油炸</div>
+		<div>游览</div>
+		<div>有利</div>
+		<div>幼儿园</div>
+		<div>娱乐</div>
+		<div>与其</div>
+		<div>语气</div>
+		<div>玉米</div>
+		<div>预报</div>
+		<div>预订</div>
+		<div>预防</div>
+		<div>元旦</div>
+		<div>员工</div>
+		<div>原料</div>
+		<div>原则</div>
+		<div>圆</div>
+		<div>愿望</div>
+		<div>晕</div>
+		<div>运气</div>
+		<div>运输</div>
+		<div>运用</div>
+		<div>灾害</div>
+		<div>再三</div>
+		<div>在乎</div>
+		<div>在于</div>
+		<div>赞成</div>
+		<div>赞美</div>
+		<div>糟糕</div>
+		<div>造成</div>
+		<div>则</div>
+		<div>责备</div>
+		<div>摘</div>
+		<div>窄</div>
+		<div>粘贴</div>
+		<div>展开</div>
+		<div>展览</div>
+		<div>占</div>
+		<div>战争</div>
+		<div>长辈</div>
+		<div>长途</div>
+		<div>涨</div>
+		<div>掌握</div>
+		<div>账户</div>
+		<div>招待</div>
+		<div>召开</div>
+		<div>照常</div>
+		<div>哲学</div>
+		<div>着火</div>
+		<div>着凉</div>
+		<div>针对</div>
+		<div>珍惜</div>
+		<div>真实</div>
+		<div>诊断</div>
+		<div>阵</div>
+		<div>振动</div>
+		<div>争论</div>
+		<div>争取</div>
+		<div>征求</div>
+		<div>睁</div>
+		<div>整个</div>
+		<div>整齐</div>
+		<div>整体</div>
+		<div>正</div>
+		<div>证件</div>
+		<div>证据</div>
+		<div>政府</div>
+		<div>政治</div>
+		<div>挣</div>
+		<div>支</div>
+		<div>支票</div>
+		<div>执照</div>
+		<div>直</div>
+		<div>指导</div>
+		<div>指挥</div>
+		<div>至今</div>
+		<div>至于</div>
+		<div>志愿者</div>
+		<div>制定</div>
+		<div>制度</div>
+		<div>制造</div>
+		<div>制作</div>
+		<div>治疗</div>
+		<div>秩序</div>
+		<div>智慧</div>
+		<div>中介</div>
+		<div>中心</div>
+		<div>中旬</div>
+		<div>种类</div>
+		<div>重大</div>
+		<div>重复</div>
+		<div>重量</div>
+		<div>周到</div>
+		<div>猪</div>
+		<div>竹子</div>
+		<div>逐步</div>
+		<div>逐渐</div>
+		<div>主持</div>
+		<div>主动</div>
+		<div>主观</div>
+		<div>主人</div>
+		<div>主任</div>
+		<div>主题</div>
+		<div>主席</div>
+		<div>主张</div>
+		<div>煮</div>
+		<div>注册</div>
+		<div>祝福</div>
+		<div>抓</div>
+		<div>抓紧</div>
+		<div>专家</div>
+		<div>专心</div>
+		<div>转变</div>
+		<div>转告</div>
+		<div>装</div>
+		<div>装饰</div>
+		<div>装修</div>
+		<div>状况</div>
+		<div>状态</div>
+		<div>撞</div>
+		<div>追</div>
+		<div>追求</div>
+		<div>咨询</div>
+		<div>姿势</div>
+		<div>资格</div>
+		<div>资金</div>
+		<div>资料</div>
+		<div>资源</div>
+		<div>紫</div>
+		<div>自从</div>
+		<div>自动</div>
+		<div>自豪</div>
+		<div>自觉</div>
+		<div>自私</div>
+		<div>自由</div>
+		<div>自愿</div>
+		<div>字母</div>
+		<div>字幕</div>
+		<div>综合</div>
+		<div>总裁</div>
+		<div>总共</div>
+		<div>总理</div>
+		<div>总算</div>
+		<div>总统</div>
+		<div>总之</div>
+		<div>阻止</div>
+		<div>组</div>
+		<div>组成</div>
+		<div>组合</div>
+		<div>组织</div>
+		<div>最初</div>
+		<div>醉</div>
+		<div>尊敬</div>
+		<div>遵守</div>
+		<div>作品</div>
+		<div>作为</div>
+		<div>作文</div>
+    </div>
+    
+    <div name="level_6" class="level_6 level_out">
+        <div>挨</div>
+<div>癌症</div>
+<div>爱不释手</div>
+<div>爱戴</div>
+<div>暧昧</div>
+<div>安宁</div>
+<div>安详</div>
+<div>安置</div>
+<div>按摩</div>
+<div>案件</div>
+<div>案例</div>
+<div>暗示</div>
+<div>昂贵</div>
+<div>凹凸</div>
+<div>熬</div>
+<div>奥秘</div>
+<div>巴不得</div>
+<div>巴结</div>
+<div>扒</div>
+<div>疤</div>
+<div>拔苗助长</div>
+<div>把关</div>
+<div>把手</div>
+<div>罢工</div>
+<div>霸道</div>
+<div>掰</div>
+<div>摆脱</div>
+<div>败坏</div>
+<div>拜访</div>
+<div>拜年</div>
+<div>拜托</div>
+<div>颁布</div>
+<div>颁发</div>
+<div>斑</div>
+<div>版本</div>
+<div>半途而废</div>
+<div>伴侣</div>
+<div>伴随</div>
+<div>扮演</div>
+<div>绑架</div>
+<div>榜样</div>
+<div>磅</div>
+<div>包庇</div>
+<div>包袱</div>
+<div>包围</div>
+<div>包装</div>
+<div>薄弱</div>
+<div>饱和</div>
+<div>饱经沧桑</div>
+<div>保管</div>
+<div>保密</div>
+<div>保姆</div>
+<div>保守</div>
+<div>保卫</div>
+<div>保养</div>
+<div>保障</div>
+<div>保重</div>
+<div>报仇</div>
+<div>报酬</div>
+<div>报答</div>
+<div>报复</div>
+<div>报警</div>
+<div>报销</div>
+<div>抱负</div>
+<div>暴力</div>
+<div>暴露</div>
+<div>爆发</div>
+<div>爆炸</div>
+<div>卑鄙</div>
+<div>悲哀</div>
+<div>悲惨</div>
+<div>北极</div>
+<div>贝壳</div>
+<div>备份</div>
+<div>备忘录</div>
+<div>背叛</div>
+<div>背诵</div>
+<div>被动</div>
+<div>被告</div>
+<div>奔波</div>
+<div>奔驰</div>
+<div>本能</div>
+<div>本钱</div>
+<div>本人</div>
+<div>本身</div>
+<div>本事</div>
+<div>笨拙</div>
+<div>崩溃</div>
+<div>甭</div>
+<div>迸发</div>
+<div>蹦</div>
+<div>逼迫</div>
+<div>鼻涕</div>
+<div>比方</div>
+<div>比喻</div>
+<div>比重</div>
+<div>鄙视</div>
+<div>闭塞</div>
+<div>弊病</div>
+<div>弊端</div>
+<div>臂</div>
+<div>边疆</div>
+<div>边界</div>
+<div>边境</div>
+<div>边缘</div>
+<div>编织</div>
+<div>鞭策</div>
+<div>贬低</div>
+<div>贬义</div>
+<div>扁</div>
+<div>变故</div>
+<div>变迁</div>
+<div>变质</div>
+<div>便利</div>
+<div>便条</div>
+<div>便于</div>
+<div>遍布</div>
+<div>辨认</div>
+<div>辩护</div>
+<div>辩解</div>
+<div>辩证</div>
+<div>辫子</div>
+<div>标本</div>
+<div>标记</div>
+<div>标题</div>
+<div>表决</div>
+<div>表态</div>
+<div>表彰</div>
+<div>憋</div>
+<div>别扭</div>
+<div>别墅</div>
+<div>别致</div>
+<div>濒临</div>
+<div>冰雹</div>
+<div>丙</div>
+<div>并非</div>
+<div>并列</div>
+<div>拨</div>
+<div>波浪</div>
+<div>波涛</div>
+<div>剥削</div>
+<div>播种</div>
+<div>伯母</div>
+<div>博大精深</div>
+<div>博览会</div>
+<div>搏斗</div>
+<div>补偿</div>
+<div>补救</div>
+<div>补贴</div>
+<div>捕捉</div>
+<div>哺乳</div>
+<div>不得已</div>
+<div>不妨</div>
+<div>不敢当</div>
+<div>不顾</div>
+<div>不禁</div>
+<div>不堪</div>
+<div>不可思议</div>
+<div>不愧</div>
+<div>不料</div>
+<div>不免</div>
+<div>不时</div>
+<div>不惜</div>
+<div>不相上下</div>
+<div>不像话</div>
+<div>不屑一顾</div>
+<div>不言而喻</div>
+<div>不由得</div>
+<div>不择手段</div>
+<div>不止</div>
+<div>布告</div>
+<div>布局</div>
+<div>布置</div>
+<div>步伐</div>
+<div>部署</div>
+<div>部位</div>
+<div>才干</div>
+<div>财富</div>
+<div>财务</div>
+<div>财政</div>
+<div>裁缝</div>
+<div>裁判</div>
+<div>裁员</div>
+<div>采购</div>
+<div>采集</div>
+<div>采纳</div>
+<div>彩票</div>
+<div>参谋</div>
+<div>参照</div>
+<div>残疾</div>
+<div>残酷</div>
+<div>残留</div>
+<div>残忍</div>
+<div>灿烂</div>
+<div>仓促</div>
+<div>仓库</div>
+<div>苍白</div>
+<div>舱</div>
+<div>操劳</div>
+<div>操练</div>
+<div>操纵</div>
+<div>操作</div>
+<div>嘈杂</div>
+<div>草案</div>
+<div>草率</div>
+<div>侧面</div>
+<div>测量</div>
+<div>策划</div>
+<div>策略</div>
+<div>层出不穷</div>
+<div>层次</div>
+<div>插座</div>
+<div>查获</div>
+<div>岔</div>
+<div>刹车</div>
+<div>刹那</div>
+<div>诧异</div>
+<div>差别</div>
+<div>柴油</div>
+<div>搀</div>
+<div>馋</div>
+<div>缠绕</div>
+<div>产业</div>
+<div>阐述</div>
+<div>颤抖</div>
+<div>昌盛</div>
+<div>尝试</div>
+<div>偿还</div>
+<div>场合</div>
+<div>场面</div>
+<div>场所</div>
+<div>敞开</div>
+<div>畅通</div>
+<div>畅销</div>
+<div>倡导</div>
+<div>倡议</div>
+<div>钞票</div>
+<div>超越</div>
+<div>巢穴</div>
+<div>朝代</div>
+<div>朝气蓬勃</div>
+<div>嘲笑</div>
+<div>潮流</div>
+<div>撤退</div>
+<div>撤销</div>
+<div>沉淀</div>
+<div>沉闷</div>
+<div>沉思</div>
+<div>沉着</div>
+<div>沉重</div>
+<div>陈旧</div>
+<div>陈列</div>
+<div>陈述</div>
+<div>衬托</div>
+<div>称号</div>
+<div>称心如意</div>
+<div>成本</div>
+<div>成交</div>
+<div>成天</div>
+<div>成效</div>
+<div>成心</div>
+<div>成员</div>
+<div>呈现</div>
+<div>诚挚</div>
+<div>承办</div>
+<div>承包</div>
+<div>承诺</div>
+<div>城堡</div>
+<div>乘</div>
+<div>惩罚</div>
+<div>澄清</div>
+<div>橙</div>
+<div>秤</div>
+<div>吃苦</div>
+<div>吃力</div>
+<div>迟钝</div>
+<div>迟缓</div>
+<div>迟疑</div>
+<div>持久</div>
+<div>赤道</div>
+<div>赤字</div>
+<div>冲动</div>
+<div>冲击</div>
+<div>冲突</div>
+<div>充当</div>
+<div>充沛</div>
+<div>充实</div>
+<div>充足</div>
+<div>崇拜</div>
+<div>崇高</div>
+<div>崇敬</div>
+<div>稠密</div>
+<div>筹备</div>
+<div>丑恶</div>
+<div>出路</div>
+<div>出卖</div>
+<div>出身</div>
+<div>出神</div>
+<div>出息</div>
+<div>初步</div>
+<div>除</div>
+<div>储备</div>
+<div>储存</div>
+<div>储蓄</div>
+<div>处分</div>
+<div>处境</div>
+<div>处置</div>
+<div>畜牧</div>
+<div>触犯</div>
+<div>川流不息</div>
+<div>穿越</div>
+<div>传达</div>
+<div>传单</div>
+<div>传记</div>
+<div>传授</div>
+<div>船舶</div>
+<div>喘气</div>
+<div>串</div>
+<div>床单</div>
+<div>创立</div>
+<div>创新</div>
+<div>创业</div>
+<div>创作</div>
+<div>吹牛</div>
+<div>吹捧</div>
+<div>炊烟</div>
+<div>垂直</div>
+<div>锤</div>
+<div>纯粹</div>
+<div>纯洁</div>
+<div>慈善</div>
+<div>慈祥</div>
+<div>磁带</div>
+<div>雌雄</div>
+<div>次品</div>
+<div>次序</div>
+<div>刺</div>
+<div>从容</div>
+<div>丛</div>
+<div>凑合</div>
+<div>粗鲁</div>
+<div>窜</div>
+<div>摧残</div>
+<div>脆弱</div>
+<div>搓</div>
+<div>磋商</div>
+<div>挫折</div>
+<div>搭</div>
+<div>搭档</div>
+<div>搭配</div>
+<div>达成</div>
+<div>答辩</div>
+<div>答复</div>
+<div>打包</div>
+<div>打官司</div>
+<div>打击</div>
+<div>打架</div>
+<div>打量</div>
+<div>打猎</div>
+<div>打仗</div>
+<div>大不了</div>
+<div>大臣</div>
+<div>大伙儿</div>
+<div>大肆</div>
+<div>大体</div>
+<div>大意</div>
+<div>大致</div>
+<div>歹徒</div>
+<div>逮捕</div>
+<div>代价</div>
+<div>代理</div>
+<div>带领</div>
+<div>怠慢</div>
+<div>担保</div>
+<div>胆怯</div>
+<div>诞辰</div>
+<div>诞生</div>
+<div>淡季</div>
+<div>淡水</div>
+<div>弹性</div>
+<div>蛋白质</div>
+<div>当场</div>
+<div>当初</div>
+<div>当代</div>
+<div>当面</div>
+<div>当前</div>
+<div>当事人</div>
+<div>当务之急</div>
+<div>当选</div>
+<div>档案</div>
+<div>档次</div>
+<div>党</div>
+<div>导弹</div>
+<div>导航</div>
+<div>导向</div>
+<div>捣乱</div>
+<div>倒闭</div>
+<div>盗窃</div>
+<div>稻谷</div>
+<div>得不偿失</div>
+<div>得力</div>
+<div>得天独厚</div>
+<div>得罪</div>
+<div>灯笼</div>
+<div>登陆</div>
+<div>登录</div>
+<div>蹬</div>
+<div>等候</div>
+<div>等级</div>
+<div>瞪</div>
+<div>堤坝</div>
+<div>敌视</div>
+<div>抵达</div>
+<div>抵抗</div>
+<div>抵制</div>
+<div>地步</div>
+<div>地势</div>
+<div>地质</div>
+<div>递增</div>
+<div>颠簸</div>
+<div>颠倒</div>
+<div>典礼</div>
+<div>典型</div>
+<div>点缀</div>
+<div>电源</div>
+<div>垫</div>
+<div>惦记</div>
+<div>奠定</div>
+<div>叼</div>
+<div>雕刻</div>
+<div>雕塑</div>
+<div>吊</div>
+<div>跌</div>
+<div>丁</div>
+<div>叮嘱</div>
+<div>盯</div>
+<div>定期</div>
+<div>定义</div>
+<div>丢人</div>
+<div>丢三落四</div>
+<div>丢三落四</div>
+<div>东道主</div>
+<div>董事长</div>
+<div>动荡</div>
+<div>动机</div>
+<div>动静</div>
+<div>动力</div>
+<div>动脉</div>
+<div>动身</div>
+<div>动手</div>
+<div>动态</div>
+<div>动员</div>
+<div>冻结</div>
+<div>栋</div>
+<div>兜</div>
+<div>陡峭</div>
+<div>斗争</div>
+<div>督促</div>
+<div>毒品</div>
+<div>独裁</div>
+<div>堵塞</div>
+<div>赌博</div>
+<div>杜绝</div>
+<div>端</div>
+<div>端午节</div>
+<div>端正</div>
+<div>短促</div>
+<div>断定</div>
+<div>断绝</div>
+<div>堆积</div>
+<div>队伍</div>
+<div>对策</div>
+<div>对称</div>
+<div>对付</div>
+<div>对抗</div>
+<div>对立</div>
+<div>对联</div>
+<div>对应</div>
+<div>对照</div>
+<div>兑现</div>
+<div>顿时</div>
+<div>多元化</div>
+<div>哆嗦</div>
+<div>堕落</div>
+<div>额外</div>
+<div>恶化</div>
+<div>恶心</div>
+<div>遏制</div>
+<div>恩怨</div>
+<div>而已</div>
+<div>二氧化碳</div>
+<div>发布</div>
+<div>发财</div>
+<div>发呆</div>
+<div>发动</div>
+<div>发行</div>
+<div>发觉</div>
+<div>发射</div>
+<div>发誓</div>
+<div>发炎</div>
+<div>发扬</div>
+<div>发育</div>
+<div>法人</div>
+<div>番</div>
+<div>凡是</div>
+<div>繁华</div>
+<div>繁忙</div>
+<div>繁体字</div>
+<div>繁殖</div>
+<div>反驳</div>
+<div>反常</div>
+<div>反感</div>
+<div>反抗</div>
+<div>反馈</div>
+<div>反面</div>
+<div>反射</div>
+<div>反思</div>
+<div>反问</div>
+<div>反之</div>
+<div>泛滥</div>
+<div>范畴</div>
+<div>贩卖</div>
+<div>方位</div>
+<div>方言</div>
+<div>方圆</div>
+<div>方针</div>
+<div>防守</div>
+<div>防御</div>
+<div>防止</div>
+<div>防治</div>
+<div>访问</div>
+<div>纺织</div>
+<div>放大</div>
+<div>放射</div>
+<div>飞禽走兽</div>
+<div>飞翔</div>
+<div>飞跃</div>
+<div>非法</div>
+<div>肥沃</div>
+<div>诽谤</div>
+<div>肺</div>
+<div>废除</div>
+<div>废寝忘食</div>
+<div>废墟</div>
+<div>沸腾</div>
+<div>分辨</div>
+<div>分寸</div>
+<div>分红</div>
+<div>分解</div>
+<div>分量</div>
+<div>分裂</div>
+<div>分泌</div>
+<div>分明</div>
+<div>分歧</div>
+<div>分散</div>
+<div>吩咐</div>
+<div>坟墓</div>
+<div>粉末</div>
+<div>粉色</div>
+<div>粉碎</div>
+<div>愤怒</div>
+<div>丰满</div>
+<div>丰盛</div>
+<div>丰收</div>
+<div>风暴</div>
+<div>风度</div>
+<div>风光</div>
+<div>风气</div>
+<div>风趣</div>
+<div>风土人情</div>
+<div>风味</div>
+<div>封闭</div>
+<div>封建</div>
+<div>封锁</div>
+<div>锋利</div>
+<div>逢</div>
+<div>奉献</div>
+<div>否决</div>
+<div>夫妇</div>
+<div>夫人</div>
+<div>敷衍</div>
+<div>服从</div>
+<div>服气</div>
+<div>俘虏</div>
+<div>符号</div>
+<div>幅度</div>
+<div>辐射</div>
+<div>福利</div>
+<div>福气</div>
+<div>抚摸</div>
+<div>抚养</div>
+<div>俯视</div>
+<div>辅助</div>
+<div>腐败</div>
+<div>腐烂</div>
+<div>腐蚀</div>
+<div>腐朽</div>
+<div>负担</div>
+<div>附和</div>
+<div>附件</div>
+<div>附属</div>
+<div>复活</div>
+<div>复兴</div>
+<div>副</div>
+<div>赋予</div>
+<div>富裕</div>
+<div>腹泻</div>
+<div>覆盖</div>
+<div>改良</div>
+<div>钙</div>
+<div>盖章</div>
+<div>尴尬</div>
+<div>感慨</div>
+<div>感染</div>
+<div>干旱</div>
+<div>干劲</div>
+<div>干扰</div>
+<div>干涉</div>
+<div>干预</div>
+<div>纲领</div>
+<div>岗位</div>
+<div>港口</div>
+<div>港湾</div>
+<div>杠杆</div>
+<div>高超</div>
+<div>高潮</div>
+<div>高峰</div>
+<div>高明</div>
+<div>高尚</div>
+<div>高涨</div>
+<div>稿件</div>
+<div>告辞</div>
+<div>告诫</div>
+<div>疙瘩</div>
+<div>鸽子</div>
+<div>搁</div>
+<div>割</div>
+<div>歌颂</div>
+<div>革命</div>
+<div>格局</div>
+<div>格式</div>
+<div>隔阂</div>
+<div>隔离</div>
+<div>个体</div>
+<div>各抒己见</div>
+<div>给予</div>
+<div>根深蒂固</div>
+<div>根源</div>
+<div>跟前</div>
+<div>跟随</div>
+<div>跟踪</div>
+<div>耕地</div>
+<div>更新</div>
+<div>更正</div>
+<div>工艺品</div>
+<div>公安局</div>
+<div>公道</div>
+<div>公告</div>
+<div>公关</div>
+<div>公民</div>
+<div>公然</div>
+<div>公认</div>
+<div>公式</div>
+<div>公务</div>
+<div>公正</div>
+<div>公证</div>
+<div>功劳</div>
+<div>功效</div>
+<div>攻击</div>
+<div>攻克</div>
+<div>宫殿</div>
+<div>恭敬</div>
+<div>巩固</div>
+<div>共和国</div>
+<div>共计</div>
+<div>共鸣</div>
+<div>供不应求</div>
+<div>供给</div>
+<div>勾结</div>
+<div>钩子</div>
+<div>构思</div>
+<div>孤独</div>
+<div>孤立</div>
+<div>姑且</div>
+<div>辜负</div>
+<div>古董</div>
+<div>古怪</div>
+<div>股东</div>
+<div>股份</div>
+<div>骨干</div>
+<div>鼓动</div>
+<div>固然</div>
+<div>固体</div>
+<div>固有</div>
+<div>固执</div>
+<div>故乡</div>
+<div>故障</div>
+<div>顾虑</div>
+<div>顾问</div>
+<div>雇佣</div>
+<div>拐杖</div>
+<div>关怀</div>
+<div>关照</div>
+<div>观光</div>
+<div>官方</div>
+<div>管辖</div>
+<div>贯彻</div>
+<div>惯例</div>
+<div>灌溉</div>
+<div>罐</div>
+<div>光彩</div>
+<div>光辉</div>
+<div>光芒</div>
+<div>光荣</div>
+<div>广阔</div>
+<div>归根到底</div>
+<div>归还</div>
+<div>规范</div>
+<div>规格</div>
+<div>规划</div>
+<div>规章</div>
+<div>轨道</div>
+<div>贵族</div>
+<div>跪</div>
+<div>棍棒</div>
+<div>国防</div>
+<div>国务院</div>
+<div>果断</div>
+<div>过度</div>
+<div>过渡</div>
+<div>过奖</div>
+<div>过滤</div>
+<div>过失</div>
+<div>过问</div>
+<div>过瘾</div>
+<div>过于</div>
+<div>还原</div>
+<div>海拔</div>
+<div>海滨</div>
+<div>含糊</div>
+<div>含义</div>
+<div>寒暄</div>
+<div>罕见</div>
+<div>捍卫</div>
+<div>行列</div>
+<div>行政</div>
+<div>航行</div>
+<div>航空</div>
+<div>航天</div>
+<div>毫米</div>
+<div>毫无</div>
+<div>豪迈</div>
+<div>号召</div>
+<div>耗费</div>
+<div>呵</div>
+<div>合并</div>
+<div>合成</div>
+<div>合伙</div>
+<div>合算</div>
+<div>和蔼</div>
+<div>和解</div>
+<div>和睦</div>
+<div>和气</div>
+<div>和谐</div>
+<div>嗨</div>
+<div>嘿</div>
+<div>痕迹</div>
+<div>狠心</div>
+<div>恨不得</div>
+<div>哼</div>
+<div>横</div>
+<div>轰动</div>
+<div>烘</div>
+<div>宏观</div>
+<div>宏伟</div>
+<div>洪水</div>
+<div>哄</div>
+<div>喉咙</div>
+<div>吼</div>
+<div>后代</div>
+<div>后顾之忧</div>
+<div>后勤</div>
+<div>候选</div>
+<div>呼唤</div>
+<div>呼啸</div>
+<div>呼吁</div>
+<div>忽略</div>
+<div>胡乱</div>
+<div>胡须</div>
+<div>湖泊</div>
+<div>花瓣</div>
+<div>花蕾</div>
+<div>划分</div>
+<div>华丽</div>
+<div>华侨</div>
+<div>化肥</div>
+<div>化石</div>
+<div>化验</div>
+<div>化妆</div>
+<div>画蛇添足</div>
+<div>话筒</div>
+<div>欢乐</div>
+<div>环节</div>
+<div>缓和</div>
+<div>患者</div>
+<div>荒凉</div>
+<div>荒谬</div>
+<div>荒唐</div>
+<div>皇帝</div>
+<div>皇后</div>
+<div>黄昏</div>
+<div>恍然大悟</div>
+<div>晃</div>
+<div>挥霍</div>
+<div>辉煌</div>
+<div>回报</div>
+<div>回避</div>
+<div>回顾</div>
+<div>回收</div>
+<div>悔恨</div>
+<div>毁灭</div>
+<div>汇报</div>
+<div>会晤</div>
+<div>贿赂</div>
+<div>昏迷</div>
+<div>荤</div>
+<div>浑身</div>
+<div>混合</div>
+<div>混乱</div>
+<div>混淆</div>
+<div>混浊</div>
+<div>活该</div>
+<div>活力</div>
+<div>火箭</div>
+<div>火焰</div>
+<div>火药</div>
+<div>货币</div>
+<div>讥笑</div>
+<div>饥饿</div>
+<div>机动</div>
+<div>机构</div>
+<div>机灵</div>
+<div>机密</div>
+<div>机械</div>
+<div>机遇</div>
+<div>机智</div>
+<div>基地</div>
+<div>基金</div>
+<div>基因</div>
+<div>激发</div>
+<div>激励</div>
+<div>激情</div>
+<div>及早</div>
+<div>吉祥</div>
+<div>级别</div>
+<div>极端</div>
+<div>极限</div>
+<div>即便</div>
+<div>即将</div>
+<div>急功近利</div>
+<div>急剧</div>
+<div>急切</div>
+<div>急于求成</div>
+<div>急躁</div>
+<div>疾病</div>
+<div>集团</div>
+<div>嫉妒</div>
+<div>籍贯</div>
+<div>计较</div>
+<div>记性</div>
+<div>记载</div>
+<div>纪要</div>
+<div>技巧</div>
+<div>忌讳</div>
+<div>季度</div>
+<div>季军</div>
+<div>迹象</div>
+<div>继承</div>
+<div>寄托</div>
+<div>寂静</div>
+<div>加工</div>
+<div>加剧</div>
+<div>佳肴</div>
+<div>家常</div>
+<div>家伙</div>
+<div>家属</div>
+<div>家喻户晓</div>
+<div>夹杂</div>
+<div>尖端</div>
+<div>尖锐</div>
+<div>坚定</div>
+<div>坚固</div>
+<div>坚韧</div>
+<div>坚实</div>
+<div>坚硬</div>
+<div>间谍</div>
+<div>间隔</div>
+<div>间接</div>
+<div>艰难</div>
+<div>监督</div>
+<div>监视</div>
+<div>监狱</div>
+<div>煎</div>
+<div>拣</div>
+<div>检讨</div>
+<div>检验</div>
+<div>剪彩</div>
+<div>简化</div>
+<div>简陋</div>
+<div>简体字</div>
+<div>简要</div>
+<div>见多识广</div>
+<div>见解</div>
+<div>见闻</div>
+<div>见义勇为</div>
+<div>剑</div>
+<div>健全</div>
+<div>舰艇</div>
+<div>践踏</div>
+<div>溅</div>
+<div>鉴别</div>
+<div>鉴定</div>
+<div>鉴于</div>
+<div>将近</div>
+<div>将就</div>
+<div>将军</div>
+<div>僵硬</div>
+<div>奖励</div>
+<div>奖赏</div>
+<div>桨</div>
+<div>降临</div>
+<div>交叉</div>
+<div>交代</div>
+<div>交涉</div>
+<div>交易</div>
+<div>娇气</div>
+<div>焦点</div>
+<div>焦急</div>
+<div>角落</div>
+<div>搅拌</div>
+<div>缴纳</div>
+<div>觉悟</div>
+<div>觉醒</div>
+<div>较量</div>
+<div>教养</div>
+<div>阶层</div>
+<div>皆</div>
+<div>接连</div>
+<div>揭露</div>
+<div>节制</div>
+<div>节奏</div>
+<div>杰出</div>
+<div>结晶</div>
+<div>结局</div>
+<div>结算</div>
+<div>截止</div>
+<div>截至</div>
+<div>竭尽全力</div>
+<div>解除</div>
+<div>解放</div>
+<div>解雇</div>
+<div>解剖</div>
+<div>解散</div>
+<div>解体</div>
+<div>戒备</div>
+<div>界限</div>
+<div>借鉴</div>
+<div>借助</div>
+<div>金融</div>
+<div>津津有味</div>
+<div>紧迫</div>
+<div>锦上添花</div>
+<div>进而</div>
+<div>进攻</div>
+<div>进化</div>
+<div>进展</div>
+<div>近来</div>
+<div>晋升</div>
+<div>浸泡</div>
+<div>茎</div>
+<div>经费</div>
+<div>经纬</div>
+<div>惊动</div>
+<div>惊奇</div>
+<div>惊讶</div>
+<div>兢兢业业</div>
+<div>精打细算</div>
+<div>精华</div>
+<div>精简</div>
+<div>精密</div>
+<div>精确</div>
+<div>精通</div>
+<div>精心</div>
+<div>精益求精</div>
+<div>精致</div>
+<div>井</div>
+<div>颈椎</div>
+<div>警告</div>
+<div>警惕</div>
+<div>竞赛</div>
+<div>竞选</div>
+<div>敬礼</div>
+<div>敬业</div>
+<div>境界</div>
+<div>镜头</div>
+<div>纠纷</div>
+<div>纠正</div>
+<div>酒精</div>
+<div>救济</div>
+<div>就近</div>
+<div>就业</div>
+<div>就职</div>
+<div>拘留</div>
+<div>拘束</div>
+<div>居民</div>
+<div>居住</div>
+<div>鞠躬</div>
+<div>局部</div>
+<div>局面</div>
+<div>局势</div>
+<div>局限</div>
+<div>咀嚼</div>
+<div>沮丧</div>
+<div>举动</div>
+<div>举世瞩目</div>
+<div>举足轻重</div>
+<div>剧本</div>
+<div>剧烈</div>
+<div>据悉</div>
+<div>聚精会神</div>
+<div>卷</div>
+<div>决策</div>
+<div>绝望</div>
+<div>倔强</div>
+<div>军队</div>
+<div>君子</div>
+<div>卡通</div>
+<div>开采</div>
+<div>开除</div>
+<div>开阔</div>
+<div>开朗</div>
+<div>开明</div>
+<div>开辟</div>
+<div>开拓</div>
+<div>开展</div>
+<div>开支</div>
+<div>刊登</div>
+<div>刊物</div>
+<div>勘探</div>
+<div>侃侃而谈</div>
+<div>砍伐</div>
+<div>看待</div>
+<div>慷慨</div>
+<div>扛</div>
+<div>抗议</div>
+<div>考察</div>
+<div>考古</div>
+<div>考核</div>
+<div>考验</div>
+<div>靠拢</div>
+<div>科目</div>
+<div>磕</div>
+<div>可恶</div>
+<div>可观</div>
+<div>可行</div>
+<div>可口</div>
+<div>渴望</div>
+<div>克制</div>
+<div>刻不容缓</div>
+<div>客户</div>
+<div>课题</div>
+<div>恳切</div>
+<div>啃</div>
+<div>坑</div>
+<div>空白</div>
+<div>空洞</div>
+<div>空前绝后</div>
+<div>空隙</div>
+<div>空想</div>
+<div>空虚</div>
+<div>孔</div>
+<div>恐怖</div>
+<div>恐惧</div>
+<div>恐吓</div>
+<div>口气</div>
+<div>口腔</div>
+<div>口头</div>
+<div>口音</div>
+<div>扣</div>
+<div>枯萎</div>
+<div>枯燥</div>
+<div>哭泣</div>
+<div>苦尽甘来</div>
+<div>苦涩</div>
+<div>挎</div>
+<div>跨</div>
+<div>快活</div>
+<div>宽敞</div>
+<div>宽容</div>
+<div>款待</div>
+<div>款式</div>
+<div>筐</div>
+<div>旷课</div>
+<div>况且</div>
+<div>矿产</div>
+<div>框架</div>
+<div>亏待</div>
+<div>亏损</div>
+<div>捆绑</div>
+<div>扩充</div>
+<div>扩散</div>
+<div>扩张</div>
+<div>啦</div>
+<div>喇叭</div>
+<div>蜡烛</div>
+<div>来历</div>
+<div>来源</div>
+<div>栏目</div>
+<div>懒惰</div>
+<div>狼狈</div>
+<div>狼吞虎咽</div>
+<div>捞</div>
+<div>牢固</div>
+<div>牢骚</div>
+<div>唠叨</div>
+<div>乐谱</div>
+<div>乐趣</div>
+<div>乐意</div>
+<div>雷达</div>
+<div>类似</div>
+<div>冷酷</div>
+<div>冷落</div>
+<div>冷却</div>
+<div>愣</div>
+<div>黎明</div>
+<div>礼节</div>
+<div>礼尚往来</div>
+<div>里程碑</div>
+<div>理睬</div>
+<div>理所当然</div>
+<div>理直气壮</div>
+<div>理智</div>
+<div>力求</div>
+<div>力所能及</div>
+<div>力争</div>
+<div>历代</div>
+<div>历来</div>
+<div>立场</div>
+<div>立方</div>
+<div>立交桥</div>
+<div>立体</div>
+<div>立足</div>
+<div>利害</div>
+<div>例外</div>
+<div>粒</div>
+<div>连年</div>
+<div>连锁</div>
+<div>连同</div>
+<div>联欢</div>
+<div>联络</div>
+<div>联盟</div>
+<div>联想</div>
+<div>廉洁</div>
+<div>良心</div>
+<div>谅解</div>
+<div>晾</div>
+<div>辽阔</div>
+<div>列举</div>
+<div>临床</div>
+<div>淋</div>
+<div>吝啬</div>
+<div>伶俐</div>
+<div>灵感</div>
+<div>灵魂</div>
+<div>灵敏</div>
+<div>凌晨</div>
+<div>零星</div>
+<div>领会</div>
+<div>领事馆</div>
+<div>领土</div>
+<div>领悟</div>
+<div>领先</div>
+<div>领袖</div>
+<div>溜</div>
+<div>留恋</div>
+<div>留念</div>
+<div>留神</div>
+<div>流浪</div>
+<div>流露</div>
+<div>流氓</div>
+<div>流通</div>
+<div>聋哑</div>
+<div>笼罩</div>
+<div>隆重</div>
+<div>垄断</div>
+<div>搂</div>
+<div>炉灶</div>
+<div>掠夺</div>
+<div>轮船</div>
+<div>轮廓</div>
+<div>轮胎</div>
+<div>论坛</div>
+<div>论证</div>
+<div>啰唆</div>
+<div>络绎不绝</div>
+<div>落成</div>
+<div>落实</div>
+<div>屡次</div>
+<div>履行</div>
+<div>率领</div>
+<div>麻痹</div>
+<div>麻木</div>
+<div>麻醉</div>
+<div>码头</div>
+<div>蚂蚁</div>
+<div>嘛</div>
+<div>埋伏</div>
+<div>埋没</div>
+<div>埋怨</div>
+<div>埋葬</div>
+<div>迈</div>
+<div>脉搏</div>
+<div>蔓延</div>
+<div>漫画</div>
+<div>漫长</div>
+<div>慢性</div>
+<div>忙碌</div>
+<div>盲目</div>
+<div>茫茫</div>
+<div>茫然</div>
+<div>茂盛</div>
+<div>冒充</div>
+<div>冒犯</div>
+<div>枚</div>
+<div>媒介</div>
+<div>美观</div>
+<div>美满</div>
+<div>美妙</div>
+<div>萌芽</div>
+<div>猛烈</div>
+<div>眯</div>
+<div>弥补</div>
+<div>弥漫</div>
+<div>迷惑</div>
+<div>迷人</div>
+<div>迷信</div>
+<div>谜语</div>
+<div>密度</div>
+<div>密封</div>
+<div>棉花</div>
+<div>免得</div>
+<div>免疫</div>
+<div>勉励</div>
+<div>勉强</div>
+<div>面貌</div>
+<div>面子</div>
+<div>描绘</div>
+<div>瞄准</div>
+<div>渺小</div>
+<div>藐视</div>
+<div>灭亡</div>
+<div>蔑视</div>
+<div>民间</div>
+<div>民主</div>
+<div>敏捷</div>
+<div>敏锐</div>
+<div>名次</div>
+<div>名额</div>
+<div>名副其实</div>
+<div>名誉</div>
+<div>明明</div>
+<div>明智</div>
+<div>命名</div>
+<div>摸索</div>
+<div>模范</div>
+<div>模式</div>
+<div>模型</div>
+<div>模样</div>
+<div>膜</div>
+<div>摩擦</div>
+<div>磨合</div>
+<div>魔鬼</div>
+<div>魔术</div>
+<div>抹杀</div>
+<div>莫名其妙</div>
+<div>墨水儿</div>
+<div>默默</div>
+<div>谋求</div>
+<div>母语</div>
+<div>目睹</div>
+<div>目光</div>
+<div>沐浴</div>
+<div>拿手</div>
+<div>纳闷儿</div>
+<div>耐用</div>
+<div>南辕北辙</div>
+<div>难得</div>
+<div>难堪</div>
+<div>难能可贵</div>
+<div>恼火</div>
+<div>内涵</div>
+<div>内幕</div>
+<div>内在</div>
+<div>能量</div>
+<div>拟定</div>
+<div>逆行</div>
+<div>年度</div>
+<div>捏</div>
+<div>宁肯</div>
+<div>宁愿</div>
+<div>凝固</div>
+<div>凝聚</div>
+<div>凝视</div>
+<div>拧</div>
+<div>扭转</div>
+<div>纽扣儿</div>
+<div>农历</div>
+<div>浓厚</div>
+<div>奴隶</div>
+<div>虐待</div>
+<div>挪</div>
+<div>哦</div>
+<div>殴打</div>
+<div>呕吐</div>
+<div>偶像</div>
+<div>趴</div>
+<div>排斥</div>
+<div>排除</div>
+<div>排放</div>
+<div>排练</div>
+<div>徘徊</div>
+<div>派别</div>
+<div>派遣</div>
+<div>攀登</div>
+<div>盘旋</div>
+<div>判决</div>
+<div>畔</div>
+<div>庞大</div>
+<div>抛弃</div>
+<div>泡沫</div>
+<div>培育</div>
+<div>配备</div>
+<div>配偶</div>
+<div>配套</div>
+<div>盆地</div>
+<div>烹饪</div>
+<div>捧</div>
+<div>批发</div>
+<div>批判</div>
+<div>劈</div>
+<div>皮革</div>
+<div>疲惫</div>
+<div>疲倦</div>
+<div>屁股</div>
+<div>譬如</div>
+<div>偏差</div>
+<div>偏见</div>
+<div>偏僻</div>
+<div>偏偏</div>
+<div>片断</div>
+<div>片刻</div>
+<div>漂浮</div>
+<div>飘扬</div>
+<div>撇</div>
+<div>拼搏</div>
+<div>拼命</div>
+<div>贫乏</div>
+<div>贫困</div>
+<div>频繁</div>
+<div>频率</div>
+<div>品尝</div>
+<div>品德</div>
+<div>品质</div>
+<div>品种</div>
+<div>平凡</div>
+<div>平行</div>
+<div>平面</div>
+<div>平坦</div>
+<div>平庸</div>
+<div>平原</div>
+<div>评估</div>
+<div>评论</div>
+<div>屏幕</div>
+<div>屏障</div>
+<div>坡</div>
+<div>泼</div>
+<div>颇</div>
+<div>迫不及待</div>
+<div>迫害</div>
+<div>破例</div>
+<div>魄力</div>
+<div>扑</div>
+<div>铺</div>
+<div>朴实</div>
+<div>朴素</div>
+<div>普及</div>
+<div>瀑布</div>
+<div>曝光</div>
+<div>凄凉</div>
+<div>期望</div>
+<div>期限</div>
+<div>欺负</div>
+<div>欺骗</div>
+<div>齐全</div>
+<div>齐心协力</div>
+<div>奇妙</div>
+<div>歧视</div>
+<div>旗袍</div>
+<div>旗帜</div>
+<div>乞丐</div>
+<div>岂有此理</div>
+<div>企图</div>
+<div>启程</div>
+<div>启蒙</div>
+<div>启示</div>
+<div>启事</div>
+<div>起草</div>
+<div>起初</div>
+<div>起伏</div>
+<div>起哄</div>
+<div>起码</div>
+<div>起源</div>
+<div>气概</div>
+<div>气功</div>
+<div>气魄</div>
+<div>气色</div>
+<div>气势</div>
+<div>气味</div>
+<div>气象</div>
+<div>气压</div>
+<div>气质</div>
+<div>迄今为止</div>
+<div>器材</div>
+<div>器官</div>
+<div>掐</div>
+<div>洽谈</div>
+<div>恰当</div>
+<div>恰到好处</div>
+<div>恰巧</div>
+<div>千方百计</div>
+<div>迁就</div>
+<div>迁徙</div>
+<div>牵</div>
+<div>牵扯</div>
+<div>牵制</div>
+<div>谦逊</div>
+<div>签署</div>
+<div>前景</div>
+<div>前提</div>
+<div>潜力</div>
+<div>潜水</div>
+<div>潜移默化</div>
+<div>谴责</div>
+<div>强迫</div>
+<div>强制</div>
+<div>抢劫</div>
+<div>抢救</div>
+<div>桥梁</div>
+<div>窍门</div>
+<div>翘</div>
+<div>切实</div>
+<div>锲而不舍</div>
+<div>钦佩</div>
+<div>侵犯</div>
+<div>侵略</div>
+<div>亲密</div>
+<div>亲热</div>
+<div>勤俭</div>
+<div>勤劳</div>
+<div>倾听</div>
+<div>倾向</div>
+<div>倾斜</div>
+<div>清澈</div>
+<div>清晨</div>
+<div>清除</div>
+<div>清洁</div>
+<div>清理</div>
+<div>清晰</div>
+<div>清醒</div>
+<div>清真</div>
+<div>情报</div>
+<div>情节</div>
+<div>情理</div>
+<div>情形</div>
+<div>晴朗</div>
+<div>请柬</div>
+<div>请教</div>
+<div>请示</div>
+<div>请帖</div>
+<div>丘陵</div>
+<div>区分</div>
+<div>区域</div>
+<div>驱逐</div>
+<div>屈服</div>
+<div>渠道</div>
+<div>曲折</div>
+<div>曲子</div>
+<div>取缔</div>
+<div>趣味</div>
+<div>圈套</div>
+<div>权衡</div>
+<div>权威</div>
+<div>全局</div>
+<div>全力以赴</div>
+<div>拳头</div>
+<div>犬</div>
+<div>缺口</div>
+<div>缺席</div>
+<div>缺陷</div>
+<div>瘸</div>
+<div>确保</div>
+<div>确立</div>
+<div>确切</div>
+<div>确信</div>
+<div>群众</div>
+<div>染</div>
+<div>嚷</div>
+<div>让步</div>
+<div>饶恕</div>
+<div>扰乱</div>
+<div>惹祸</div>
+<div>热泪盈眶</div>
+<div>热门</div>
+<div>人道</div>
+<div>人格</div>
+<div>人工</div>
+<div>人家</div>
+<div>人间</div>
+<div>人士</div>
+<div>人为</div>
+<div>人性</div>
+<div>人质</div>
+<div>仁慈</div>
+<div>忍耐</div>
+<div>忍受</div>
+<div>认定</div>
+<div>认可</div>
+<div>任命</div>
+<div>任性</div>
+<div>任意</div>
+<div>任重道远</div>
+<div>仍旧</div>
+<div>日新月异</div>
+<div>日益</div>
+<div>荣幸</div>
+<div>荣誉</div>
+<div>容貌</div>
+<div>容纳</div>
+<div>容器</div>
+<div>容忍</div>
+<div>溶解</div>
+<div>融化</div>
+<div>融洽</div>
+<div>柔和</div>
+<div>揉</div>
+<div>儒家</div>
+<div>若干</div>
+<div>弱点</div>
+<div>撒谎</div>
+<div>散布</div>
+<div>散发</div>
+<div>散文</div>
+<div>丧失</div>
+<div>骚扰</div>
+<div>嫂子</div>
+<div>啥</div>
+<div>筛选</div>
+<div>山脉</div>
+<div>闪烁</div>
+<div>擅长</div>
+<div>擅自</div>
+<div>伤脑筋</div>
+<div>商标</div>
+<div>上级</div>
+<div>上进</div>
+<div>上任</div>
+<div>上瘾</div>
+<div>上游</div>
+<div>尚且</div>
+<div>捎</div>
+<div>梢</div>
+<div>哨</div>
+<div>奢侈</div>
+<div>舌头</div>
+<div>设立</div>
+<div>设想</div>
+<div>设置</div>
+<div>社区</div>
+<div>涉及</div>
+<div>摄氏度</div>
+<div>申报</div>
+<div>呻吟</div>
+<div>绅士</div>
+<div>深奥</div>
+<div>深沉</div>
+<div>深情厚谊</div>
+<div>神经</div>
+<div>神奇</div>
+<div>神气</div>
+<div>神圣</div>
+<div>神态</div>
+<div>神仙</div>
+<div>审查</div>
+<div>审理</div>
+<div>审美</div>
+<div>审判</div>
+<div>渗透</div>
+<div>慎重</div>
+<div>生存</div>
+<div>生机</div>
+<div>生理</div>
+<div>生疏</div>
+<div>生态</div>
+<div>生物</div>
+<div>生肖</div>
+<div>生效</div>
+<div>生锈</div>
+<div>生育</div>
+<div>声明</div>
+<div>声势</div>
+<div>声誉</div>
+<div>牲畜</div>
+<div>省会</div>
+<div>胜负</div>
+<div>盛</div>
+<div>盛产</div>
+<div>盛行</div>
+<div>盛开</div>
+<div>盛情</div>
+<div>尸体</div>
+<div>失事</div>
+<div>失误</div>
+<div>失踪</div>
+<div>师范</div>
+<div>施加</div>
+<div>施展</div>
+<div>十足</div>
+<div>石油</div>
+<div>时常</div>
+<div>时而</div>
+<div>时光</div>
+<div>时机</div>
+<div>时事</div>
+<div>识别</div>
+<div>实行</div>
+<div>实惠</div>
+<div>实力</div>
+<div>实施</div>
+<div>实事求是</div>
+<div>实质</div>
+<div>拾</div>
+<div>使命</div>
+<div>示范</div>
+<div>示威</div>
+<div>示意</div>
+<div>世代</div>
+<div>势必</div>
+<div>势力</div>
+<div>事故</div>
+<div>事迹</div>
+<div>事件</div>
+<div>事态</div>
+<div>事务</div>
+<div>事项</div>
+<div>事业</div>
+<div>试图</div>
+<div>试验</div>
+<div>视力</div>
+<div>视频</div>
+<div>视线</div>
+<div>视野</div>
+<div>是非</div>
+<div>适宜</div>
+<div>逝世</div>
+<div>释放</div>
+<div>收藏</div>
+<div>收缩</div>
+<div>收益</div>
+<div>收音机</div>
+<div>手法</div>
+<div>手势</div>
+<div>手艺</div>
+<div>守护</div>
+<div>首饰</div>
+<div>首要</div>
+<div>受罪</div>
+<div>授予</div>
+<div>书法</div>
+<div>书籍</div>
+<div>书记</div>
+<div>书面</div>
+<div>舒畅</div>
+<div>疏忽</div>
+<div>疏远</div>
+<div>束</div>
+<div>束缚</div>
+<div>树立</div>
+<div>竖</div>
+<div>数额</div>
+<div>耍</div>
+<div>衰老</div>
+<div>衰退</div>
+<div>涮火锅</div>
+<div>双胞胎</div>
+<div>爽快</div>
+<div>水利</div>
+<div>水龙头</div>
+<div>水泥</div>
+<div>瞬间</div>
+<div>司法</div>
+<div>司令</div>
+<div>私自</div>
+<div>思念</div>
+<div>思索</div>
+<div>思维</div>
+<div>斯文</div>
+<div>死亡</div>
+<div>四肢</div>
+<div>寺庙</div>
+<div>伺候</div>
+<div>饲养</div>
+<div>肆无忌惮</div>
+<div>耸</div>
+<div>艘</div>
+<div>苏醒</div>
+<div>俗话</div>
+<div>诉讼</div>
+<div>素食</div>
+<div>素质</div>
+<div>塑造</div>
+<div>算数</div>
+<div>随即</div>
+<div>随意</div>
+<div>岁月</div>
+<div>隧道</div>
+<div>损坏</div>
+<div>索取</div>
+<div>索性</div>
+<div>塌</div>
+<div>塔</div>
+<div>踏实</div>
+<div>台风</div>
+<div>太空</div>
+<div>泰斗</div>
+<div>贪婪</div>
+<div>贪污</div>
+<div>摊</div>
+<div>瘫痪</div>
+<div>坦白</div>
+<div>叹气</div>
+<div>探测</div>
+<div>探索</div>
+<div>探讨</div>
+<div>探望</div>
+<div>倘若</div>
+<div>掏</div>
+<div>滔滔不绝</div>
+<div>陶瓷</div>
+<div>陶醉</div>
+<div>淘汰</div>
+<div>讨好</div>
+<div>特定</div>
+<div>特意</div>
+<div>特长</div>
+<div>提拔</div>
+<div>提炼</div>
+<div>提示</div>
+<div>提议</div>
+<div>题材</div>
+<div>体裁</div>
+<div>体积</div>
+<div>体谅</div>
+<div>体面</div>
+<div>体系</div>
+<div>天才</div>
+<div>天赋</div>
+<div>天伦之乐</div>
+<div>天然气</div>
+<div>天生</div>
+<div>天堂</div>
+<div>天文</div>
+<div>田径</div>
+<div>田野</div>
+<div>舔</div>
+<div>挑拨</div>
+<div>挑剔</div>
+<div>挑衅</div>
+<div>条款</div>
+<div>条理</div>
+<div>条约</div>
+<div>调动</div>
+<div>调和</div>
+<div>调剂</div>
+<div>调节</div>
+<div>调解</div>
+<div>调料</div>
+<div>跳跃</div>
+<div>亭子</div>
+<div>停泊</div>
+<div>停顿</div>
+<div>停滞</div>
+<div>挺拔</div>
+<div>通货膨胀</div>
+<div>通缉</div>
+<div>通俗</div>
+<div>通讯</div>
+<div>通用</div>
+<div>同胞</div>
+<div>同志</div>
+<div>铜</div>
+<div>童话</div>
+<div>统筹兼顾</div>
+<div>统计</div>
+<div>统统</div>
+<div>统治</div>
+<div>投机</div>
+<div>投降</div>
+<div>投票</div>
+<div>投诉</div>
+<div>投掷</div>
+<div>透露</div>
+<div>秃</div>
+<div>突破</div>
+<div>图案</div>
+<div>徒弟</div>
+<div>途径</div>
+<div>涂抹</div>
+<div>土壤</div>
+<div>团结</div>
+<div>团体</div>
+<div>团圆</div>
+<div>推测</div>
+<div>推翻</div>
+<div>推理</div>
+<div>推论</div>
+<div>推销</div>
+<div>吞吞吐吐</div>
+<div>托运</div>
+<div>拖延</div>
+<div>脱离</div>
+<div>妥当</div>
+<div>妥善</div>
+<div>妥协</div>
+<div>椭圆</div>
+<div>唾弃</div>
+<div>挖掘</div>
+<div>哇</div>
+<div>娃娃</div>
+<div>瓦解</div>
+<div>歪曲</div>
+<div>外表</div>
+<div>外行</div>
+<div>外界</div>
+<div>外向</div>
+<div>丸</div>
+<div>完备</div>
+<div>完毕</div>
+<div>玩弄</div>
+<div>玩意儿</div>
+<div>顽固</div>
+<div>顽强</div>
+<div>挽回</div>
+<div>挽救</div>
+<div>惋惜</div>
+<div>万分</div>
+<div>往常</div>
+<div>往事</div>
+<div>妄想</div>
+<div>危机</div>
+<div>威风</div>
+<div>威力</div>
+<div>威望</div>
+<div>威信</div>
+<div>微不足道</div>
+<div>微观</div>
+<div>为难</div>
+<div>为期</div>
+<div>违背</div>
+<div>唯独</div>
+<div>维持</div>
+<div>维护</div>
+<div>维生素</div>
+<div>伪造</div>
+<div>委托</div>
+<div>委员</div>
+<div>卫星</div>
+<div>未免</div>
+<div>畏惧</div>
+<div>喂</div>
+<div>蔚蓝</div>
+<div>慰问</div>
+<div>温带</div>
+<div>温和</div>
+<div>文凭</div>
+<div>文物</div>
+<div>文献</div>
+<div>文雅</div>
+<div>文艺</div>
+<div>问世</div>
+<div>窝</div>
+<div>乌黑</div>
+<div>污蔑</div>
+<div>诬陷</div>
+<div>无比</div>
+<div>无偿</div>
+<div>无耻</div>
+<div>无动于衷</div>
+<div>无非</div>
+<div>无辜</div>
+<div>无精打采</div>
+<div>无赖</div>
+<div>无理取闹</div>
+<div>无能为力</div>
+<div>无穷无尽</div>
+<div>无微不至</div>
+<div>无忧无虑</div>
+<div>无知</div>
+<div>武器</div>
+<div>武侠</div>
+<div>武装</div>
+<div>侮辱</div>
+<div>舞蹈</div>
+<div>务必</div>
+<div>物美价廉</div>
+<div>物业</div>
+<div>物资</div>
+<div>误差</div>
+<div>误解</div>
+<div>夕阳</div>
+<div>昔日</div>
+<div>牺牲</div>
+<div>溪</div>
+<div>熄灭</div>
+<div>膝盖</div>
+<div>习俗</div>
+<div>袭击</div>
+<div>媳妇</div>
+<div>喜闻乐见</div>
+<div>喜悦</div>
+<div>系列</div>
+<div>细胞</div>
+<div>细菌</div>
+<div>细致</div>
+<div>峡谷</div>
+<div>狭隘</div>
+<div>狭窄</div>
+<div>霞</div>
+<div>下属</div>
+<div>先进</div>
+<div>先前</div>
+<div>纤维</div>
+<div>掀起</div>
+<div>鲜明</div>
+<div>闲话</div>
+<div>贤惠</div>
+<div>弦</div>
+<div>衔接</div>
+<div>嫌</div>
+<div>嫌疑</div>
+<div>显著</div>
+<div>现场</div>
+<div>现成</div>
+<div>现状</div>
+<div>线索</div>
+<div>宪法</div>
+<div>陷害</div>
+<div>陷阱</div>
+<div>陷入</div>
+<div>馅儿</div>
+<div>乡镇</div>
+<div>相差</div>
+<div>相等</div>
+<div>相辅相成</div>
+<div>相声</div>
+<div>相应</div>
+<div>镶嵌</div>
+<div>响亮</div>
+<div>响应</div>
+<div>想方设法</div>
+<div>向导</div>
+<div>向来</div>
+<div>向往</div>
+<div>巷</div>
+<div>肖像</div>
+<div>消除</div>
+<div>消毒</div>
+<div>消防</div>
+<div>消耗</div>
+<div>消灭</div>
+<div>销毁</div>
+<div>潇洒</div>
+<div>小心翼翼</div>
+<div>效益</div>
+<div>协会</div>
+<div>协商</div>
+<div>协调</div>
+<div>协议</div>
+<div>协助</div>
+<div>携带</div>
+<div>泄露</div>
+<div>泄气</div>
+<div>屑</div>
+<div>谢绝</div>
+<div>心得</div>
+<div>心甘情愿</div>
+<div>心灵</div>
+<div>心态</div>
+<div>心疼</div>
+<div>心血</div>
+<div>心眼儿</div>
+<div>辛勤</div>
+<div>欣慰</div>
+<div>欣欣向荣</div>
+<div>新陈代谢</div>
+<div>新郎</div>
+<div>新娘</div>
+<div>新颖</div>
+<div>薪水</div>
+<div>信赖</div>
+<div>信念</div>
+<div>信仰</div>
+<div>信誉</div>
+<div>腥</div>
+<div>刑事</div>
+<div>形态</div>
+<div>兴高采烈</div>
+<div>兴隆</div>
+<div>兴旺</div>
+<div>兴致勃勃</div>
+<div>性感</div>
+<div>性命</div>
+<div>性能</div>
+<div>凶恶</div>
+<div>凶手</div>
+<div>汹涌</div>
+<div>胸怀</div>
+<div>胸膛</div>
+<div>雄厚</div>
+<div>雄伟</div>
+<div>修复</div>
+<div>修建</div>
+<div>修养</div>
+<div>羞耻</div>
+<div>绣</div>
+<div>嗅觉</div>
+<div>须知</div>
+<div>虚假</div>
+<div>虚荣</div>
+<div>虚伪</div>
+<div>需求</div>
+<div>许可</div>
+<div>序言</div>
+<div>酗酒</div>
+<div>宣誓</div>
+<div>宣扬</div>
+<div>喧哗</div>
+<div>悬挂</div>
+<div>悬念</div>
+<div>悬殊</div>
+<div>悬崖峭壁</div>
+<div>旋律</div>
+<div>旋转</div>
+<div>选拔</div>
+<div>选举</div>
+<div>选手</div>
+<div>炫耀</div>
+<div>削</div>
+<div>削弱</div>
+<div>学说</div>
+<div>学位</div>
+<div>雪上加霜</div>
+<div>血压</div>
+<div>熏陶</div>
+<div>寻觅</div>
+<div>巡逻</div>
+<div>循环</div>
+<div>循序渐进</div>
+<div>压迫</div>
+<div>压岁钱</div>
+<div>压缩</div>
+<div>压抑</div>
+<div>压榨</div>
+<div>压制</div>
+<div>鸦雀无声</div>
+<div>亚军</div>
+<div>烟花爆竹</div>
+<div>淹没</div>
+<div>延期</div>
+<div>延伸</div>
+<div>延续</div>
+<div>严寒</div>
+<div>严禁</div>
+<div>严峻</div>
+<div>严厉</div>
+<div>严密</div>
+<div>言论</div>
+<div>岩石</div>
+<div>炎热</div>
+<div>沿海</div>
+<div>掩盖</div>
+<div>掩护</div>
+<div>掩饰</div>
+<div>眼光</div>
+<div>眼色</div>
+<div>眼神</div>
+<div>演变</div>
+<div>演习</div>
+<div>演绎</div>
+<div>演奏</div>
+<div>厌恶</div>
+<div>验收</div>
+<div>验证</div>
+<div>氧气</div>
+<div>样品</div>
+<div>侥幸</div>
+<div>谣言</div>
+<div>摇摆</div>
+<div>摇滚</div>
+<div>遥控</div>
+<div>遥远</div>
+<div>要点</div>
+<div>要命</div>
+<div>要素</div>
+<div>耀眼</div>
+<div>野蛮</div>
+<div>野心</div>
+<div>液体</div>
+<div>一度</div>
+<div>一帆风顺</div>
+<div>一贯</div>
+<div>一举两得</div>
+<div>一流</div>
+<div>一目了然</div>
+<div>一如既往</div>
+<div>一丝不苟</div>
+<div>一向</div>
+<div>衣裳</div>
+<div>依旧</div>
+<div>依据</div>
+<div>依靠</div>
+<div>依赖</div>
+<div>依托</div>
+<div>仪器</div>
+<div>仪式</div>
+<div>遗产</div>
+<div>遗传</div>
+<div>遗留</div>
+<div>遗失</div>
+<div>疑惑</div>
+<div>以便</div>
+<div>以免</div>
+<div>以往</div>
+<div>以至</div>
+<div>以致</div>
+<div>亦</div>
+<div>异常</div>
+<div>意料</div>
+<div>意识</div>
+<div>意图</div>
+<div>意味着</div>
+<div>意向</div>
+<div>意志</div>
+<div>毅力</div>
+<div>毅然</div>
+<div>翼</div>
+<div>阴谋</div>
+<div>音响</div>
+<div>引导</div>
+<div>引擎</div>
+<div>引用</div>
+<div>饮食</div>
+<div>隐蔽</div>
+<div>隐患</div>
+<div>隐瞒</div>
+<div>隐私</div>
+<div>隐约</div>
+<div>英明</div>
+<div>英勇</div>
+<div>婴儿</div>
+<div>迎面</div>
+<div>盈利</div>
+<div>应酬</div>
+<div>应邀</div>
+<div>拥护</div>
+<div>拥有</div>
+<div>庸俗</div>
+<div>永恒</div>
+<div>勇于</div>
+<div>涌现</div>
+<div>踊跃</div>
+<div>用户</div>
+<div>优胜劣汰</div>
+<div>优先</div>
+<div>优异</div>
+<div>优越</div>
+<div>忧郁</div>
+<div>犹如</div>
+<div>油腻</div>
+<div>油漆</div>
+<div>有条不紊</div>
+<div>幼稚</div>
+<div>诱惑</div>
+<div>渔民</div>
+<div>愚蠢</div>
+<div>愚昧</div>
+<div>舆论</div>
+<div>与日俱增</div>
+<div>宇宙</div>
+<div>羽绒服</div>
+<div>玉</div>
+<div>预料</div>
+<div>预期</div>
+<div>预算</div>
+<div>预先</div>
+<div>预言</div>
+<div>预兆</div>
+<div>欲望</div>
+<div>寓言</div>
+<div>愈</div>
+<div>冤枉</div>
+<div>元首</div>
+<div>元素</div>
+<div>元宵节</div>
+<div>园林</div>
+<div>原告</div>
+<div>原理</div>
+<div>原始</div>
+<div>原先</div>
+<div>圆满</div>
+<div>缘故</div>
+<div>源泉</div>
+<div>约束</div>
+<div>岳母</div>
+<div>孕育</div>
+<div>运行</div>
+<div>运算</div>
+<div>酝酿</div>
+<div>蕴藏</div>
+<div>熨</div>
+<div>杂技</div>
+<div>杂交</div>
+<div>砸</div>
+<div>咋</div>
+<div>灾难</div>
+<div>栽培</div>
+<div>宰</div>
+<div>再接再厉</div>
+<div>在意</div>
+<div>攒</div>
+<div>暂且</div>
+<div>赞叹</div>
+<div>赞助</div>
+<div>遭受</div>
+<div>遭殃</div>
+<div>遭遇</div>
+<div>糟蹋</div>
+<div>造型</div>
+<div>噪音</div>
+<div>责怪</div>
+<div>贼</div>
+<div>增添</div>
+<div>赠送</div>
+<div>扎</div>
+<div>扎实</div>
+<div>渣</div>
+<div>眨</div>
+<div>诈骗</div>
+<div>摘要</div>
+<div>债券</div>
+<div>沾光</div>
+<div>瞻仰</div>
+<div>斩钉截铁</div>
+<div>展示</div>
+<div>展望</div>
+<div>展现</div>
+<div>崭新</div>
+<div>占据</div>
+<div>占领</div>
+<div>战斗</div>
+<div>战略</div>
+<div>战术</div>
+<div>战役</div>
+<div>章程</div>
+<div>帐篷</div>
+<div>障碍</div>
+<div>招标</div>
+<div>招收</div>
+<div>沼泽</div>
+<div>照样</div>
+<div>照耀</div>
+<div>遮挡</div>
+<div>折</div>
+<div>折磨</div>
+<div>折腾</div>
+<div>着迷</div>
+<div>着手</div>
+<div>着想</div>
+<div>着重</div>
+<div>侦探</div>
+<div>珍贵</div>
+<div>珍稀</div>
+<div>珍珠</div>
+<div>真理</div>
+<div>真相</div>
+<div>真挚</div>
+<div>斟酌</div>
+<div>枕头</div>
+<div>阵地</div>
+<div>阵容</div>
+<div>振奋</div>
+<div>振兴</div>
+<div>震撼</div>
+<div>震惊</div>
+<div>镇定</div>
+<div>镇静</div>
+<div>争端</div>
+<div>争夺</div>
+<div>争气</div>
+<div>争先恐后</div>
+<div>争议</div>
+<div>征服</div>
+<div>征收</div>
+<div>蒸发</div>
+<div>整顿</div>
+<div>正当</div>
+<div>正负</div>
+<div>正规</div>
+<div>正经</div>
+<div>正气</div>
+<div>正义</div>
+<div>正月</div>
+<div>正宗</div>
+<div>证实</div>
+<div>证书</div>
+<div>郑重</div>
+<div>政策</div>
+<div>政权</div>
+<div>挣扎</div>
+<div>症状</div>
+<div>之际</div>
+<div>支撑</div>
+<div>支出</div>
+<div>支流</div>
+<div>支配</div>
+<div>支援</div>
+<div>支柱</div>
+<div>枝</div>
+<div>知觉</div>
+<div>知足常乐</div>
+<div>脂肪</div>
+<div>执行</div>
+<div>执着</div>
+<div>直播</div>
+<div>直径</div>
+<div>侄子</div>
+<div>值班</div>
+<div>职能</div>
+<div>职位</div>
+<div>职务</div>
+<div>殖民地</div>
+<div>指标</div>
+<div>指定</div>
+<div>指甲</div>
+<div>指令</div>
+<div>指南针</div>
+<div>指示</div>
+<div>指望</div>
+<div>指责</div>
+<div>志气</div>
+<div>制裁</div>
+<div>制服</div>
+<div>制约</div>
+<div>制止</div>
+<div>治安</div>
+<div>治理</div>
+<div>致辞</div>
+<div>致力</div>
+<div>致使</div>
+<div>智力</div>
+<div>智能</div>
+<div>智商</div>
+<div>滞留</div>
+<div>中断</div>
+<div>中立</div>
+<div>中央</div>
+<div>忠诚</div>
+<div>忠实</div>
+<div>终点</div>
+<div>终究</div>
+<div>终身</div>
+<div>终止</div>
+<div>衷心</div>
+<div>肿瘤</div>
+<div>种植</div>
+<div>种子</div>
+<div>种族</div>
+<div>众所周知</div>
+<div>重叠</div>
+<div>重心</div>
+<div>舟</div>
+<div>州</div>
+<div>周边</div>
+<div>周密</div>
+<div>周年</div>
+<div>周期</div>
+<div>周折</div>
+<div>周转</div>
+<div>粥</div>
+<div>昼夜</div>
+<div>皱纹</div>
+<div>株</div>
+<div>诸位</div>
+<div>逐年</div>
+<div>主办</div>
+<div>主导</div>
+<div>主管</div>
+<div>主流</div>
+<div>主权</div>
+<div>主义</div>
+<div>拄</div>
+<div>嘱咐</div>
+<div>助理</div>
+<div>助手</div>
+<div>住宅</div>
+<div>注射</div>
+<div>注视</div>
+<div>注释</div>
+<div>注重</div>
+<div>驻扎</div>
+<div>著作</div>
+<div>铸造</div>
+<div>拽</div>
+<div>专程</div>
+<div>专利</div>
+<div>专题</div>
+<div>专长</div>
+<div>砖</div>
+<div>转达</div>
+<div>转让</div>
+<div>转移</div>
+<div>转折</div>
+<div>庄稼</div>
+<div>庄严</div>
+<div>庄重</div>
+<div>装备</div>
+<div>装卸</div>
+<div>壮观</div>
+<div>壮丽</div>
+<div>壮烈</div>
+<div>幢</div>
+<div>追悼</div>
+<div>追究</div>
+<div>坠</div>
+<div>准则</div>
+<div>卓越</div>
+<div>琢磨</div>
+<div>姿态</div>
+<div>资本</div>
+<div>资产</div>
+<div>资深</div>
+<div>资助</div>
+<div>滋润</div>
+<div>滋味</div>
+<div>子弹</div>
+<div>自卑</div>
+<div>自发</div>
+<div>自力更生</div>
+<div>自满</div>
+<div>自主</div>
+<div>宗教</div>
+<div>宗旨</div>
+<div>棕色</div>
+<div>踪迹</div>
+<div>总而言之</div>
+<div>总和</div>
+<div>纵横</div>
+<div>走廊</div>
+<div>走漏</div>
+<div>走私</div>
+<div>揍</div>
+<div>租赁</div>
+<div>足以</div>
+<div>阻碍</div>
+<div>阻拦</div>
+<div>阻挠</div>
+<div>祖父</div>
+<div>祖国</div>
+<div>祖先</div>
+<div>钻石</div>
+<div>钻研</div>
+<div>嘴唇</div>
+<div>罪犯</div>
+<div>尊严</div>
+<div>遵循</div>
+<div>作弊</div>
+<div>作废</div>
+<div>作风</div>
+<div>作息</div>
+<div>座右铭</div>
+<div>做主</div>
+    </div>
+
+</div>
+
+
+    <!--列表结束-->
+</div>
+<!--主要内容结束-->
+
+<!--尾栏开始-->
+
+
+<!--尾栏开始-->
+<div class="end_form">
+	<a href="/privacy.action">隐私政策</a> | 
+	<a href="http://www.tangce.cn/about.html" target="_blank">关于我们</a> <br />
+	HSK考教结合系统v1.0 
+	<!-- |  <a href="#">站点地图</a> --><br />
+	版权所有 © 2006-2026 唐风汉语，保留所有权利。
+</div>
+
+
+<!--尾栏结束-->
+<!--尾栏结束-->
+
+</div>
+</body>
+</html>

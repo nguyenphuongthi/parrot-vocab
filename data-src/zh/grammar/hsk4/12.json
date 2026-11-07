@@ -1,0 +1,1049 @@
+{
+  "n": 12,
+  "zh": "用心发现世界",
+  "vi": "Khám phá thế giới bằng trái tim",
+  "en": "Discover the world with your heart",
+  "texts": [
+    {
+      "title": "王经理做生意遇到了困难",
+      "paras": [
+        {
+          "zh": "王经理：听说这次生意你到现在还没谈成。",
+          "vi": "Giám đốc Vương: Nghe nói thương vụ lần này đến giờ anh vẫn chưa đàm phán xong.",
+          "en": "Manager Wang: I hear you still haven't closed this deal."
+        },
+        {
+          "zh": "马经理：按我以前的经验，早应该谈成了，这次我也不知道哪儿出了问题。",
+          "vi": "Giám đốc Mã: Theo kinh nghiệm trước đây của tôi thì lẽ ra phải xong từ lâu rồi, lần này tôi cũng không biết có vấn đề ở đâu.",
+          "en": "Manager Ma: Going by my past experience, it should have been done long ago. I don't know what's gone wrong this time."
+        },
+        {
+          "zh": "王经理：有句话叫“规定和经验是死的，人是活的”。当“规定”和“经验”不能解决问题时，建议你改变一下自己的态度和想法。",
+          "vi": "Giám đốc Vương: Có câu “quy định và kinh nghiệm là cứng nhắc, con người thì linh hoạt”. Khi “quy định” và “kinh nghiệm” không giải quyết được vấn đề, tôi khuyên anh nên thay đổi thái độ và suy nghĩ của mình.",
+          "en": "Manager Wang: There's a saying: “Rules and experience are fixed, but people are flexible.” When rules and experience can't solve a problem, I suggest you change your attitude and way of thinking."
+        },
+        {
+          "zh": "马经理：很多时候，我都习惯根据过去的经验做事，可惜，经验不是全部都是对的。",
+          "vi": "Giám đốc Mã: Nhiều khi tôi quen làm việc dựa vào kinh nghiệm trước đây, tiếc là kinh nghiệm không phải lúc nào cũng đúng.",
+          "en": "Manager Ma: I'm often used to doing things based on past experience. Unfortunately, experience isn't always right."
+        },
+        {
+          "zh": "王经理：遇到不能解决的问题时，我们应该试着走走以前从来没走过的路，也许这样就能找到解决问题的方法了。",
+          "vi": "Giám đốc Vương: Khi gặp vấn đề không giải quyết được, chúng ta nên thử đi những con đường trước giờ chưa từng đi, có lẽ như vậy sẽ tìm được cách giải quyết.",
+          "en": "Manager Wang: When we meet a problem we can't solve, we should try a road we've never taken before. Maybe that way we'll find a solution."
+        },
+        {
+          "zh": "马经理：好，我再跟同事商量商量，希望能及时发现问题，并且准确地{de}找到解决问题的方法。",
+          "vi": "Giám đốc Mã: Được, tôi sẽ bàn bạc lại với đồng nghiệp, mong có thể kịp thời phát hiện vấn đề và tìm ra chính xác cách giải quyết.",
+          "en": "Manager Ma: OK, I'll discuss it with my colleagues again. I hope we can spot the problem in time and find exactly the right solution."
+        }
+      ],
+      "words": [
+        {
+          "zh": "规定",
+          "py": "guīdìng",
+          "pos": "dt.",
+          "vi": "quy định",
+          "en": "rule, regulation"
+        },
+        {
+          "zh": "死",
+          "py": "sǐ",
+          "pos": "tt.",
+          "vi": "cố định, cứng nhắc",
+          "en": "rigid, fixed"
+        },
+        {
+          "zh": "可惜",
+          "py": "kěxī",
+          "pos": "tt.",
+          "vi": "đáng tiếc",
+          "en": "regrettable, a pity"
+        },
+        {
+          "zh": "全部",
+          "py": "quánbù",
+          "pos": "dt.",
+          "vi": "toàn bộ, tất cả",
+          "en": "all, whole"
+        },
+        {
+          "zh": "也许",
+          "py": "yěxǔ",
+          "pos": "phó.",
+          "vi": "có lẽ, may ra",
+          "en": "perhaps, maybe"
+        },
+        {
+          "zh": "商量",
+          "py": "shāngliang",
+          "pos": "đgt.",
+          "vi": "thương lượng, bàn bạc",
+          "en": "to discuss, to consult"
+        },
+        {
+          "zh": "并且",
+          "py": "bìngqiě",
+          "pos": "liên.",
+          "vi": "đồng thời, và",
+          "en": "and, moreover"
+        }
+      ]
+    },
+    {
+      "title": "高老师告诉女儿洗衣服的方法",
+      "paras": [
+        {
+          "zh": "女儿：妈，您看我刚买的裤子，洗完以后颜色怎么变得这么难看呢？",
+          "vi": "Con gái: Mẹ ơi, mẹ xem cái quần con mới mua, giặt xong sao màu lại xấu thế này?",
+          "en": "Daughter: Mum, look at the trousers I just bought. Why has the colour gone so ugly after washing?"
+        },
+        {
+          "zh": "高老师：看来是掉颜色了，你洗的时候在水里加点儿盐就不会这样了。",
+          "vi": "Cô Cao: Xem ra là bị phai màu rồi, lúc giặt con cho chút muối vào nước thì sẽ không bị thế này.",
+          "en": "Ms. Gao: Looks like the colour has run. If you add a little salt to the water when you wash them, this won't happen."
+        },
+        {
+          "zh": "女儿：放盐？！盐不是用来做饭的吗？难道它还能让衣服不掉颜色？",
+          "vi": "Con gái: Cho muối á?! Muối chẳng phải để nấu ăn sao? Lẽ nào nó còn giúp quần áo không phai màu?",
+          "en": "Daughter: Salt?! Isn't salt for cooking? Can it really stop clothes losing their colour?"
+        },
+        {
+          "zh": "高老师：当然。有些衣服第一次洗的时候会掉颜色，其实，有很多方法可以解决这个问题。在水里加勺盐再洗是最简单的方法。用盐水来洗新衣服，这样穿得再久、洗的次数再多，衣服也不容易掉颜色。",
+          "vi": "Cô Cao: Đương nhiên. Có những bộ quần áo giặt lần đầu sẽ bị phai màu, thật ra có nhiều cách giải quyết vấn đề này. Cho một thìa muối vào nước rồi giặt là cách đơn giản nhất. Dùng nước muối giặt quần áo mới, như vậy dù mặc lâu đến đâu, giặt bao nhiêu lần, quần áo cũng không dễ phai màu.",
+          "en": "Ms. Gao: Of course. Some clothes lose colour the first time they're washed, but there are many ways to deal with it. Adding a spoonful of salt to the water is the simplest. If you wash new clothes in salt water, however long you wear them and however often you wash them, they won't fade easily."
+        },
+        {
+          "zh": "女儿：我第一次听说盐有保护衣服颜色的作用，生活中还真有不少课本上无法学到的知识。",
+          "vi": "Con gái: Lần đầu con nghe nói muối có tác dụng giữ màu quần áo, trong cuộc sống đúng là có không ít kiến thức không học được trong sách vở.",
+          "en": "Daughter: It's the first time I've heard that salt protects the colour of clothes. There really is a lot of knowledge in life that you can't learn from textbooks."
+        },
+        {
+          "zh": "高老师：实际上，很多问题的答案都可以从生活中找到。但这需要你用眼睛去发现，用心去总结。",
+          "vi": "Cô Cao: Thực tế, đáp án của nhiều vấn đề đều có thể tìm thấy trong cuộc sống. Nhưng điều này cần con dùng mắt để phát hiện, dùng tâm để tổng kết.",
+          "en": "Ms. Gao: In fact, the answers to many problems can be found in daily life. But you need to use your eyes to discover them and your heart to sum them up."
+        }
+      ],
+      "words": [
+        {
+          "zh": "盐",
+          "py": "yán",
+          "pos": "dt.",
+          "vi": "muối",
+          "en": "salt"
+        },
+        {
+          "zh": "勺",
+          "py": "sháo",
+          "pos": "dt.",
+          "vi": "cái muôi, cái thìa",
+          "en": "spoon"
+        },
+        {
+          "zh": "保护",
+          "py": "bǎohù",
+          "pos": "đgt.",
+          "vi": "bảo vệ",
+          "en": "to protect"
+        },
+        {
+          "zh": "作用",
+          "py": "zuòyòng",
+          "pos": "dt.",
+          "vi": "tác dụng",
+          "en": "effect, function"
+        },
+        {
+          "zh": "无法",
+          "py": "wúfǎ",
+          "pos": "đgt.",
+          "vi": "không thể, không có cách gì",
+          "en": "unable to"
+        },
+        {
+          "zh": "无",
+          "py": "wú",
+          "pos": "đgt.",
+          "vi": "không có, không",
+          "en": "to not have"
+        }
+      ]
+    },
+    {
+      "title": "高老师学习王教授的教育方法",
+      "paras": [
+        {
+          "zh": "高老师：王教授，今天听完您的这节课，我终于明白为什么您的课那么受学生欢迎了。",
+          "vi": "Cô Cao: Thưa giáo sư Vương, hôm nay nghe xong tiết học của thầy, cuối cùng tôi đã hiểu vì sao tiết học của thầy được sinh viên yêu thích như vậy.",
+          "en": "Ms. Gao: Professor Wang, after hearing your class today, I finally understand why your classes are so popular with students."
+        },
+        {
+          "zh": "王教授：谢谢！您能详细谈谈对我的课的看法吗？",
+          "vi": "Giáo sư Vương: Cảm ơn! Cô có thể nói chi tiết nhận xét về tiết học của tôi không?",
+          "en": "Professor Wang: Thank you! Could you tell me in detail what you thought of my class?"
+        },
+        {
+          "zh": "高老师：我发现您对学生特别了解，而且总是能用最简单的方法把复杂的问题解释清楚，让每个学生都能听懂，这一点真是值得我们好好儿学习。",
+          "vi": "Cô Cao: Tôi thấy thầy đặc biệt hiểu sinh viên, hơn nữa luôn dùng cách đơn giản nhất để giải thích rõ những vấn đề phức tạp, để sinh viên nào cũng hiểu được, điểm này thật sự đáng để chúng tôi học hỏi.",
+          "en": "Ms. Gao: I noticed you know your students especially well, and you always explain complicated problems in the simplest way so that every student understands. That's something we really should learn from."
+        },
+        {
+          "zh": "王教授：哪里哪里，这只是因为我对每个学生的能力水平比较了解。",
+          "vi": "Giáo sư Vương: Đâu có đâu có, chỉ là vì tôi khá hiểu năng lực trình độ của từng sinh viên thôi.",
+          "en": "Professor Wang: Not at all. It's just that I have a fairly good idea of each student's ability."
+        },
+        {
+          "zh": "高老师：那您认为对于老师来说，什么是最难做到的？",
+          "vi": "Cô Cao: Vậy thầy cho rằng đối với giáo viên, điều gì là khó làm được nhất?",
+          "en": "Ms. Gao: Then what do you think is the hardest thing for a teacher to achieve?"
+        },
+        {
+          "zh": "王教授：世界上没有完全相同的叶子，同样地{de}，世界上也没有完全一样的人。所以，在教育学生时，要根据学生的特点选择不同的方法，我想这应该是最不容易做到的。",
+          "vi": "Giáo sư Vương: Trên thế giới không có hai chiếc lá giống hệt nhau, cũng như vậy, trên thế giới không có hai người giống hệt nhau. Vì vậy, khi dạy dỗ học sinh, phải dựa vào đặc điểm của học sinh để chọn phương pháp khác nhau, tôi nghĩ đây chắc là điều khó làm được nhất.",
+          "en": "Professor Wang: No two leaves in the world are exactly alike, and in the same way no two people are exactly alike. So when educating students, you have to choose different methods according to their characteristics. I think that's the hardest thing to do."
+        }
+      ],
+      "words": [
+        {
+          "zh": "节",
+          "py": "jié",
+          "pos": "lượng.",
+          "vi": "tiết (học)",
+          "en": "measure word for class periods"
+        },
+        {
+          "zh": "详细",
+          "py": "xiángxì",
+          "pos": "tt.",
+          "vi": "chi tiết, tỉ mỉ",
+          "en": "detailed"
+        },
+        {
+          "zh": "解释",
+          "py": "jiěshì",
+          "pos": "đgt.",
+          "vi": "giải thích",
+          "en": "to explain"
+        },
+        {
+          "zh": "对于",
+          "py": "duìyú",
+          "pos": "giới.",
+          "vi": "đối với",
+          "en": "regarding, for"
+        },
+        {
+          "zh": "叶子",
+          "py": "yèzi",
+          "pos": "dt.",
+          "vi": "lá cây",
+          "en": "leaf"
+        },
+        {
+          "zh": "教育",
+          "py": "jiàoyù",
+          "pos": "đgt.",
+          "vi": "giáo dục, dạy dỗ",
+          "en": "to educate"
+        }
+      ],
+      "names": [
+        {
+          "zh": "王",
+          "py": "Wáng",
+          "vi": "Vương (họ)",
+          "en": "Wang (a surname)"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "人人都会使用语言，但是怎么用语言把话说好却是一门艺术。看一个人怎么说话，往往可以比较准确地{de}判断出他是一个什么样的人。有的人心里怎么想，嘴上就怎么说，即使是别人的缺点，他也会直接说出来，这样的人虽然很诚实，但是可能会引起别人的误会；有的人虽然也看到了别人的缺点，但却不会直接指出来，而是通过别的方法来提醒，让他认识到自己的缺点，这样的人会让人觉得更友好。",
+          "vi": "Ai cũng biết sử dụng ngôn ngữ, nhưng dùng ngôn ngữ thế nào để nói cho hay lại là một môn nghệ thuật. Nhìn cách một người nói chuyện, thường có thể đánh giá khá chính xác người đó là người như thế nào. Có người trong lòng nghĩ sao thì ngoài miệng nói vậy, dù là khuyết điểm của người khác cũng nói thẳng ra, người như vậy tuy rất thật thà nhưng có thể gây ra hiểu lầm cho người khác; có người tuy cũng thấy khuyết điểm của người khác nhưng không chỉ thẳng ra mà dùng cách khác để nhắc nhở, giúp người đó nhận ra khuyết điểm của mình, người như vậy sẽ khiến người ta thấy thân thiện hơn.",
+          "en": "Everyone can use language, but using it to speak well is an art. How someone talks can often tell you fairly accurately what kind of person they are. Some people say exactly what they think; even about other people's faults they speak directly. Such people are honest, but they may cause misunderstandings. Others also see people's faults but don't point them out directly; instead they find other ways to remind them so they realize their faults themselves. Such people come across as friendlier."
+        }
+      ],
+      "words": [
+        {
+          "zh": "使用",
+          "py": "shǐyòng",
+          "pos": "đgt.",
+          "vi": "sử dụng",
+          "en": "to use"
+        },
+        {
+          "zh": "语言",
+          "py": "yǔyán",
+          "pos": "dt.",
+          "vi": "ngôn ngữ",
+          "en": "language"
+        },
+        {
+          "zh": "直接",
+          "py": "zhíjiē",
+          "pos": "tt.",
+          "vi": "trực tiếp, thẳng",
+          "en": "direct"
+        },
+        {
+          "zh": "引起",
+          "py": "yǐnqǐ",
+          "pos": "đgt.",
+          "vi": "gây ra, dẫn đến",
+          "en": "to cause, to give rise to"
+        },
+        {
+          "zh": "误会",
+          "py": "wùhuì",
+          "pos": "dt.",
+          "vi": "sự hiểu lầm",
+          "en": "misunderstanding"
+        },
+        {
+          "zh": "友好",
+          "py": "yǒuhǎo",
+          "pos": "tt.",
+          "vi": "thân thiện",
+          "en": "friendly"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "无论做什么事情，都要注意方法，学习尤其是这样。使用正确的方法，我们做起事来能“事半功倍”，也就是说，能节约时间，用较少的力气，取得更好的效果。相反，如果方法不对，可能花五倍甚至十倍的时间都不能完成任务，结果变成了“事倍功半”。有一点需要提醒大家，别人的方法也许很有效，但是并不一定适合自己。因此，我们应该在听取别人意见的同时，仔细考虑一下，再根据不同的情况选择不同的方法，这样才能达到最好的效果。",
+          "vi": "Dù làm việc gì cũng phải chú ý phương pháp, học tập lại càng như vậy. Dùng phương pháp đúng, chúng ta làm việc sẽ “làm ít được nhiều”, nghĩa là có thể tiết kiệm thời gian, dùng ít sức hơn mà đạt hiệu quả tốt hơn. Ngược lại, nếu phương pháp không đúng, có thể mất gấp năm thậm chí gấp mười lần thời gian cũng không hoàn thành được nhiệm vụ, kết quả thành ra “làm nhiều được ít”. Có một điểm cần nhắc mọi người, phương pháp của người khác có thể rất hiệu quả, nhưng không nhất định phù hợp với mình. Vì vậy, chúng ta nên vừa lắng nghe ý kiến của người khác, vừa suy nghĩ kỹ, rồi dựa vào tình huống khác nhau để chọn phương pháp khác nhau, như vậy mới đạt được hiệu quả tốt nhất.",
+          "en": "Whatever you do, you must pay attention to method, and this is especially true of studying. With the right method we get “twice the result with half the effort”: we save time, use less energy and get better results. On the other hand, with the wrong method, even five or ten times as much time may not be enough to finish the task, and we end up with “twice the effort for half the result”. One thing to remember: other people's methods may work very well, but they won't necessarily suit you. So while listening to others' advice, we should think carefully and choose different methods for different situations; only then can we achieve the best results."
+        }
+      ],
+      "words": [
+        {
+          "zh": "事半功倍",
+          "py": "shì bàn gōng bèi",
+          "vi": "làm chơi ăn thật (làm ít được nhiều)",
+          "en": "twice the result with half the effort",
+          "x": true
+        },
+        {
+          "zh": "节约",
+          "py": "jiéyuē",
+          "pos": "đgt.",
+          "vi": "tiết kiệm",
+          "en": "to save, to economize"
+        },
+        {
+          "zh": "力气",
+          "py": "lìqi",
+          "pos": "dt.",
+          "vi": "sức lực, hơi sức",
+          "en": "strength, effort"
+        },
+        {
+          "zh": "相反",
+          "py": "xiāngfǎn",
+          "pos": "liên.",
+          "vi": "trái lại, ngược lại",
+          "en": "on the contrary"
+        },
+        {
+          "zh": "任务",
+          "py": "rènwu",
+          "pos": "dt.",
+          "vi": "nhiệm vụ",
+          "en": "task"
+        },
+        {
+          "zh": "意见",
+          "py": "yìjiàn",
+          "pos": "dt.",
+          "vi": "ý kiến",
+          "en": "opinion, suggestion"
+        },
+        {
+          "zh": "仔细",
+          "py": "zǐxì",
+          "pos": "tt.",
+          "vi": "thận trọng, kỹ lưỡng",
+          "en": "careful"
+        },
+        {
+          "zh": "达到",
+          "py": "dádào",
+          "pos": "đgt.",
+          "vi": "đạt được",
+          "en": "to reach, to achieve",
+          "x": true
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "说说你认为经验有没有用，为什么。",
+        "label": "课文1",
+        "a": "【经验有用，但不是全部都是对的】。当经验不能解决问题时，我们应该改变自己的态度和想法。",
+        "vi": "Kinh nghiệm có ích nhưng không phải lúc nào cũng đúng. Khi kinh nghiệm không giải quyết được vấn đề, chúng ta nên thay đổi thái độ và suy nghĩ.",
+        "en": "Experience is useful, but it isn't always right. When experience can't solve a problem, we should change our attitude and way of thinking.",
+        "sample": true
+      },
+      {
+        "q": "要是工作或学习遇到困难，你可能用什么方法去解决？",
+        "label": "课文1",
+        "a": "我会【试着走走以前从来没走过的路，或者跟同事、同学商量商量】。",
+        "vi": "Tôi sẽ thử đi con đường trước giờ chưa đi, hoặc bàn bạc với đồng nghiệp, bạn học.",
+        "en": "I'd try a road I've never taken before, or discuss it with colleagues or classmates.",
+        "sample": true
+      },
+      {
+        "q": "哪种方法可以保护衣服不掉颜色？说说你知道的别的方法。",
+        "label": "课文2",
+        "a": "【在水里加勺盐再洗】可以保护衣服不掉颜色。另外，【用冷水洗、不在太阳下晒】也是有效的方法。",
+        "vi": "Cho một thìa muối vào nước rồi giặt có thể giữ quần áo không phai màu. Ngoài ra, giặt bằng nước lạnh, không phơi dưới nắng gắt cũng là cách hiệu quả.",
+        "en": "Adding a spoonful of salt to the water stops clothes fading. Washing in cold water and not drying in strong sun also help.",
+        "sample": true
+      },
+      {
+        "q": "举例说明你从生活中还学到了哪些课本上学不到的知识。",
+        "label": "课文2",
+        "a": "比如，【我从妈妈那儿学会了怎么做饭、怎么跟别人交流，这些都是课本上学不到的】。",
+        "vi": "Ví dụ, tôi học được từ mẹ cách nấu ăn, cách giao tiếp với người khác, những điều này không học được trong sách vở.",
+        "en": "For example, I learned from my mum how to cook and how to get on with people; you can't learn those from textbooks.",
+        "sample": true
+      },
+      {
+        "q": "高老师认为王教授上课成功有哪些方面的原因？",
+        "label": "课文3",
+        "a": "因为王教授【对学生特别了解，而且总是能用最简单的方法把复杂的问题解释清楚，让每个学生都能听懂】。",
+        "vi": "Vì giáo sư Vương đặc biệt hiểu sinh viên, hơn nữa luôn dùng cách đơn giản nhất để giải thích rõ vấn đề phức tạp, để sinh viên nào cũng hiểu.",
+        "en": "Because Professor Wang knows his students especially well and always explains complicated problems in the simplest way so every student understands."
+      },
+      {
+        "q": "从“世界上没有完全相同的叶子”这句话，你可以学到什么？",
+        "label": "课文3",
+        "a": "【世界上也没有完全一样的人，所以要根据每个人的特点选择不同的方法】。",
+        "vi": "Trên thế giới cũng không có hai người giống hệt nhau, nên phải dựa vào đặc điểm của mỗi người để chọn phương pháp khác nhau.",
+        "en": "No two people are exactly alike either, so you should choose different methods according to each person's characteristics.",
+        "sample": true
+      },
+      {
+        "q": "课文中提到了几种说话方式？你喜欢哪一种？为什么？",
+        "label": "课文4",
+        "a": "提到了【两种】：一种是心里怎么想，嘴上就怎么说；另一种是不直接指出别人的缺点，而是通过别的方法来提醒。我喜欢【第二种】，因为【这样的人让人觉得更友好】。",
+        "vi": "Nhắc đến hai cách: một là nghĩ sao nói vậy; hai là không chỉ thẳng khuyết điểm của người khác mà dùng cách khác để nhắc. Tôi thích cách thứ hai vì người như vậy khiến người khác thấy thân thiện hơn.",
+        "en": "Two ways: one is saying exactly what you think; the other is not pointing out people's faults directly but reminding them in other ways. I prefer the second, because such people seem friendlier.",
+        "sample": true
+      },
+      {
+        "q": "根据课文，你可以知道人们的说话方式可能和什么有关系？",
+        "label": "课文4",
+        "a": "人们的说话方式可能和【他是一个什么样的人，也就是他的性格】有关系。",
+        "vi": "Cách nói chuyện của một người có thể liên quan đến việc người đó là người thế nào, tức là tính cách của họ.",
+        "en": "How people speak may be related to what kind of person they are, that is, their personality."
+      },
+      {
+        "q": "你认为你的学习方法是“事半功倍”还是“事倍功半”？",
+        "label": "课文5",
+        "a": "我觉得我的学习方法【还算“事半功倍”，不过还需要根据不同的情况改进】。",
+        "vi": "Tôi thấy phương pháp học của tôi cũng coi là “làm ít được nhiều”, nhưng vẫn cần cải tiến theo từng tình huống.",
+        "en": "I think my study method is more or less “twice the result with half the effort”, but it still needs adjusting for different situations.",
+        "sample": true
+      },
+      {
+        "q": "对于别人的意见，什么态度是正确的？",
+        "label": "课文5",
+        "a": "【在听取别人意见的同时，仔细考虑一下，再根据不同的情况选择不同的方法】。",
+        "vi": "Vừa lắng nghe ý kiến người khác vừa suy nghĩ kỹ, rồi dựa vào tình huống khác nhau mà chọn phương pháp khác nhau.",
+        "en": "Listen to others' advice while thinking it over carefully, then choose different methods for different situations."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "并且",
+      "uses": [
+        {
+          "vi": "Liên từ 并且 có thể được dùng để nối động từ, tính từ nhằm diễn tả vài hành động được thực hiện cùng lúc hoặc một số tính chất tồn tại cùng lúc. 并且 cũng được dùng để nối các câu và diễn tả ý hơn nữa.",
+          "en": "The conjunction 并且 (and, moreover) can link verbs or adjectives to show several actions happening together or several qualities existing together. It can also link sentences to add a further point.",
+          "ex": [
+            {
+              "zh": "他做事很认真，【并且】有丰富的经验，让他负责很合适。",
+              "vi": "Anh ấy làm việc rất nghiêm túc, hơn nữa lại có kinh nghiệm phong phú, để anh ấy phụ trách là rất phù hợp.",
+              "en": "He's very conscientious and has a lot of experience, so he's a good person to put in charge."
+            },
+            {
+              "zh": "这种植物开的花比普通的花大很多，【并且】特别漂亮。",
+              "vi": "Hoa của loại cây này to hơn hoa thường rất nhiều, hơn nữa lại đặc biệt đẹp.",
+              "en": "The flowers of this plant are much bigger than ordinary flowers, and especially beautiful too."
+            },
+            {
+              "zh": "这房子家具全，电视、空调、冰箱都很新，【并且】价格也便宜，真的很值得考虑。",
+              "vi": "Căn nhà này đầy đủ đồ đạc, tivi, điều hòa, tủ lạnh đều rất mới, hơn nữa giá cũng rẻ, thật sự rất đáng cân nhắc.",
+              "en": "This flat is fully furnished, the TV, air conditioner and fridge are all new, and the price is low too. It's really worth considering."
+            },
+            {
+              "zh": "好，我再跟同事商量商量，希望能及时发现问题，【并且】准确地{de}找到解决问题的方法。",
+              "vi": "Được, tôi sẽ bàn thêm với đồng nghiệp, hy vọng có thể kịp thời phát hiện vấn đề và tìm ra chính xác cách giải quyết.",
+              "en": "OK, I'll discuss it further with my colleagues. I hope we can spot the problem in time and find exactly the right way to solve it."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，所以我们只好留在家里了。",
+            "hint": "并且",
+            "a": "【外面刮着{zhe}大风，并且下起了雨】，所以我们只好留在家里了。",
+            "vi": "Bên ngoài gió to, lại còn mưa nữa, nên chúng tôi đành ở nhà.",
+            "en": "It was windy outside and it started to rain as well, so we had to stay at home.",
+            "sample": true
+          },
+          {
+            "q": "很多人都选择坐地铁上下班，____。",
+            "hint": "并且",
+            "a": "很多人都选择坐地铁上下班，【因为地铁又快又准时，并且不会堵车】。",
+            "vi": "Nhiều người chọn đi tàu điện ngầm đi làm, vì tàu điện ngầm vừa nhanh vừa đúng giờ, hơn nữa không bị tắc đường.",
+            "en": "Many people choose to commute by subway, because it's fast and punctual, and there are no traffic jams.",
+            "sample": true
+          },
+          {
+            "q": "____，最后就一定能获得成功。",
+            "hint": "并且",
+            "a": "【只要选择正确的方法，并且坚持下去】，最后就一定能获得成功。",
+            "vi": "Chỉ cần chọn đúng phương pháp và kiên trì đến cùng, cuối cùng nhất định sẽ thành công.",
+            "en": "As long as you choose the right method and stick with it, you'll definitely succeed in the end.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "再……也……",
+      "uses": [
+        {
+          "vi": "Cấu trúc “再……也……” thường được dùng trong câu đưa ra giả thuyết để chỉ sự nhượng bộ. 再 mang nghĩa là cho dù, dù thế nào đi nữa; theo sau nó có thể là động từ, tính từ, câu...",
+          "en": "The pattern 再……也…… is used in hypothetical sentences to express concession. 再 means 'no matter how (much)' and can be followed by a verb, an adjective or a clause.",
+          "ex": [
+            {
+              "zh": "事情已经发生了，你【再】后悔【也】无法改变，别伤心了。",
+              "vi": "Chuyện đã xảy ra rồi, bạn có hối hận thế nào cũng không thể thay đổi được, đừng buồn nữa.",
+              "en": "It's already happened. However much you regret it, you can't change it, so don't be sad."
+            },
+            {
+              "zh": "用盐水来洗新衣服，这样穿得【再】久、洗的次数【再】多，衣服【也】不容易掉颜色。",
+              "vi": "Dùng nước muối để giặt quần áo mới, như vậy dù mặc lâu đến đâu, giặt bao nhiêu lần đi nữa, quần áo cũng không dễ bị phai màu.",
+              "en": "Wash new clothes in salt water; that way, however long you wear them and however many times you wash them, the colour won't fade easily."
+            },
+            {
+              "zh": "如果我们有什么看法或者意见，不管别人【再】怎么不同意、不支持，【也】应该说出来，让别人知道我们的想法和态度。",
+              "vi": "Nếu chúng ta có quan điểm hay ý kiến gì, dù người khác có không đồng ý, không ủng hộ đến đâu thì cũng nên nói ra, để người khác biết suy nghĩ và thái độ của chúng ta.",
+              "en": "If we have a view or an opinion, then no matter how much others disagree or don't support us, we should speak up and let them know what we think and where we stand."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "如果一个人不积极、不努力，____。",
+            "hint": "再……也……",
+            "a": "如果一个人不积极、不努力，【再聪明也很难成功】。",
+            "vi": "Nếu một người không tích cực, không nỗ lực thì thông minh đến đâu cũng khó thành công.",
+            "en": "If a person isn't positive and doesn't work hard, however clever they are, it'll be hard to succeed.",
+            "sample": true
+          },
+          {
+            "q": "同学们只要平时认真学习，____。",
+            "hint": "再……也……",
+            "a": "同学们只要平时认真学习，【考试再难也不用担心】。",
+            "vi": "Các bạn chỉ cần bình thường học tập chăm chỉ thì bài thi khó đến đâu cũng không cần lo.",
+            "en": "As long as you study hard normally, you needn't worry however hard the exam is.",
+            "sample": true
+          },
+          {
+            "q": "有些事情过去了就过去了，不要后悔，____。",
+            "hint": "再……也……",
+            "a": "有些事情过去了就过去了，不要后悔，【你再后悔也没有用】。",
+            "vi": "Có những chuyện qua rồi thì để nó qua, đừng hối hận, bạn có hối hận thế nào cũng vô ích.",
+            "en": "Some things are in the past, so let them go. Don't regret them; however much you regret them, it's no use.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "对于",
+      "uses": [
+        {
+          "vi": "Giới từ 对于 cho biết đối tượng được đề cập đến trong tình huống nào đó hay qua thái độ của người nào đó (đối với, về). Cấu trúc “对于……” có thể được dùng ở trước hoặc sau chủ ngữ.",
+          "en": "The preposition 对于 ('regarding, for, towards') introduces the person or thing that an attitude or situation concerns. 对于…… can come before or after the subject.",
+          "ex": [
+            {
+              "zh": "【对于】这件事，我跟大家的看法不同。",
+              "vi": "Về chuyện này, tôi có cách nhìn khác với mọi người.",
+              "en": "On this matter, my view is different from everyone else's."
+            },
+            {
+              "zh": "【对于】中国人来说，春节是一年之中最重要的节日，春节的时候人们会举行各种各样的迎新年活动。",
+              "vi": "Đối với người Trung Quốc, Tết Xuân là ngày lễ quan trọng nhất trong năm, vào dịp Tết mọi người tổ chức đủ các hoạt động đón năm mới.",
+              "en": "For Chinese people, the Spring Festival is the most important holiday of the year. During it people hold all kinds of activities to welcome the new year."
+            },
+            {
+              "zh": "那您认为【对于】老师来说，什么是最难做到的？",
+              "vi": "Vậy theo ông, đối với giáo viên thì điều gì là khó làm được nhất?",
+              "en": "So in your opinion, what is the hardest thing for a teacher to achieve?"
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "对于—关于",
+        "uses": [
+          {
+            "vi": "Khác nhau 1: 对于 và 关于 đều là giới từ nhưng có nghĩa khác nhau. 对于 nêu rõ đối tượng (thường chịu sự tác động của hành động hay sự vật được đề cập đến trong tình huống nào đó); 关于 nêu rõ phạm vi, cho biết sự vật được nói đến.",
+            "en": "Difference 1: both are prepositions but mean different things. 对于 points to the target (often what an action acts on, or what a situation concerns); 关于 ('about, concerning') marks the scope, introducing the topic being talked about.",
+            "ex": [
+              {
+                "zh": "【对于】这次调查计划，经理特别满意。",
+                "vi": "Đối với kế hoạch điều tra lần này, giám đốc đặc biệt hài lòng.",
+                "en": "The manager is especially pleased with this survey plan."
+              },
+              {
+                "zh": "【关于】这次调查计划，经理说有很多不清楚的地方。",
+                "vi": "Về kế hoạch điều tra lần này, giám đốc nói có nhiều chỗ chưa rõ ràng.",
+                "en": "About this survey plan, the manager said there were a lot of unclear points."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: 对于 có thể đứng trước hoặc sau chủ ngữ. 关于 chỉ có thể được dùng trước chủ ngữ.",
+            "en": "Difference 2: 对于 can go before or after the subject; 关于 can only go before the subject.",
+            "ex": [
+              {
+                "zh": "【对于】每个需要帮助的人，他都会热情、耐心地{de}提供帮助。",
+                "vi": "Đối với mỗi người cần giúp đỡ, anh ấy đều nhiệt tình, kiên nhẫn giúp đỡ.",
+                "en": "He helps everyone who needs help warmly and patiently."
+              },
+              {
+                "zh": "他【对于】每个需要帮助的人都会热情、耐心地{de}提供帮助。",
+                "vi": "Anh ấy đối với mỗi người cần giúp đỡ đều nhiệt tình, kiên nhẫn giúp đỡ.",
+                "en": "He helps everyone who needs help warmly and patiently."
+              },
+              {
+                "zh": "【关于】什么是幸福，每个人都有自己不同的看法。",
+                "vi": "Về chuyện thế nào là hạnh phúc, mỗi người đều có cách nhìn khác nhau.",
+                "en": "As for what happiness is, everyone has their own view."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 3: “关于……” có thể xuất hiện trong tên sách hay bài báo. 对于 không dùng được như vậy.",
+            "en": "Difference 3: 关于…… can appear in the title of a book or article; 对于 cannot.",
+            "ex": [
+              {
+                "zh": "《【关于】中国经济的几个问题》",
+                "vi": "“Một số vấn đề về kinh tế Trung Quốc”",
+                "en": "“Some Issues Concerning the Chinese Economy”"
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "____这个问题，你应该再认真地{de}考虑一下。",
+              "key": "对于 ✓ · 关于 ✓",
+              "a": "【对于】/【关于】这个问题，你应该再认真地{de}考虑一下。",
+              "vi": "Về vấn đề này, bạn nên suy nghĩ nghiêm túc thêm một chút.",
+              "en": "You should think about this problem more carefully."
+            },
+            {
+              "q": "____这方面的情况，大家最好上网去查一查。",
+              "key": "对于 ✗ · 关于 ✓ (chỉ phạm vi)",
+              "a": "【关于】这方面的情况，大家最好上网去查一查。",
+              "vi": "Về tình hình mặt này, mọi người tốt nhất nên lên mạng tra thử.",
+              "en": "For information on this, you'd better look it up online."
+            },
+            {
+              "q": "____怎样提高中文阅读能力，这一学习方法实践证明是有效的。",
+              "key": "对于 ✗ · 关于 ✓",
+              "a": "【关于】怎样提高中文阅读能力，这一学习方法实践证明是有效的。",
+              "vi": "Về việc làm thế nào nâng cao khả năng đọc tiếng Trung, phương pháp học này đã được thực tế chứng minh là hiệu quả.",
+              "en": "As for how to improve Chinese reading, this method has been proved effective in practice."
+            },
+            {
+              "q": "现在人们____自然环境越来越注意保护了。",
+              "key": "对于 ✓ (sau chủ ngữ) · 关于 ✗",
+              "a": "现在人们【对于】自然环境越来越注意保护了。",
+              "vi": "Bây giờ mọi người ngày càng chú ý bảo vệ môi trường tự nhiên.",
+              "en": "People now pay more and more attention to protecting the natural environment."
+            },
+            {
+              "q": "昨天在报纸上看到一篇____这位明星的新闻，才知道她竟然还只是一位在校大学生。",
+              "key": "对于 ✗ · 关于 ✓",
+              "a": "昨天在报纸上看到一篇【关于】这位明星的新闻，才知道她竟然还只是一位在校大学生。",
+              "vi": "Hôm qua đọc trên báo một bài tin tức về ngôi sao này mới biết cô ấy vẫn chỉ là một sinh viên đang đi học.",
+              "en": "Yesterday I read a news item about this star in the paper and found out she's actually still a university student."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，她都非常认真。",
+            "hint": "对于",
+            "a": "【对于每一件工作】，她都非常认真。",
+            "vi": "Đối với mỗi công việc, cô ấy đều rất nghiêm túc.",
+            "en": "She's very conscientious about every task.",
+            "sample": true
+          },
+          {
+            "q": "____，他们很难做出决定。",
+            "hint": "对于",
+            "a": "【对于这么重要的问题】，他们很难做出决定。",
+            "vi": "Đối với vấn đề quan trọng như vậy, họ rất khó đưa ra quyết định.",
+            "en": "With such an important issue, it's hard for them to make a decision.",
+            "sample": true
+          },
+          {
+            "q": "____，这个阅读题有点儿难。",
+            "hint": "对于",
+            "a": "【对于刚学汉语的人来说】，这个阅读题有点儿难。",
+            "vi": "Đối với người mới học tiếng Trung, bài đọc này hơi khó.",
+            "en": "For someone who has just started learning Chinese, this reading question is a bit hard.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "名量词重叠",
+      "py": "míngliàngcí chóngdié",
+      "uses": [
+        {
+          "vi": "Sự lặp lại danh từ/lượng từ thường có dạng “AA”, có nghĩa là mỗi. Cấu trúc này có thể được dùng làm chủ ngữ, định ngữ của chủ ngữ và trạng ngữ nhưng không được dùng làm tân ngữ và định ngữ của tân ngữ.",
+          "en": "Reduplicating a noun or measure word in the form 'AA' means 'every'. It can be the subject, modify the subject, or be an adverbial, but cannot be the object or modify the object.",
+          "ex": [
+            {
+              "zh": "【人人】都会使用语言，但是怎么用语言把话说好却是一门艺术。",
+              "vi": "Ai cũng biết sử dụng ngôn ngữ, nhưng dùng ngôn ngữ thế nào để nói cho hay lại là cả một nghệ thuật.",
+              "en": "Everyone can use language, but how to use it to speak well is an art."
+            },
+            {
+              "zh": "白先生【天天】都去那家咖啡馆坐一会儿，因为他觉得，工作了一天，只有安静的地方才能让他得到放松。",
+              "vi": "Ngày nào ông Bạch cũng đến quán cà phê đó ngồi một lúc, vì ông thấy làm việc cả ngày rồi, chỉ có nơi yên tĩnh mới giúp ông thư giãn được.",
+              "en": "Mr Bai goes to sit in that café for a while every day, because he feels that after a day's work only a quiet place lets him relax."
+            },
+            {
+              "zh": "做好小事是完成大事的第一步，因此，【件件】小事都应该被看成是一次学习的机会。",
+              "vi": "Làm tốt việc nhỏ là bước đầu tiên để hoàn thành việc lớn, vì vậy mỗi việc nhỏ đều nên được xem là một cơ hội học hỏi.",
+              "en": "Doing small things well is the first step to accomplishing big things, so every small task should be seen as a chance to learn."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，就都可以变得越来越优秀。",
+            "hint": "人人",
+            "a": "【人人只要努力】，就都可以变得越来越优秀。",
+            "vi": "Chỉ cần ai cũng nỗ lực thì đều có thể ngày càng xuất sắc.",
+            "en": "As long as everyone works hard, they can all become better and better.",
+            "sample": true
+          },
+          {
+            "q": "这个作家的语言很幽默，____。",
+            "hint": "本本",
+            "a": "这个作家的语言很幽默，【他的书本本都很受欢迎】。",
+            "vi": "Ngôn ngữ của nhà văn này rất hài hước, cuốn sách nào của ông cũng được yêu thích.",
+            "en": "This writer's language is very humorous, and every one of his books is popular.",
+            "sample": true
+          },
+          {
+            "q": "____，这为找工作的毕业生提供了很多机会。",
+            "hint": "年年",
+            "a": "【这家公司年年都招聘新人】，这为找工作的毕业生提供了很多机会。",
+            "vi": "Công ty này năm nào cũng tuyển người mới, điều này mang lại nhiều cơ hội cho sinh viên mới tốt nghiệp đang tìm việc.",
+            "en": "This company recruits new staff every year, which gives graduates looking for work lots of opportunities.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "相反",
+      "uses": [
+        {
+          "vi": "Liên từ 相反 được dùng ở đầu hoặc giữa vế câu sau để chỉ sự chuyển ý hoặc diễn tả sự tăng tiến (ngược lại).",
+          "en": "As a conjunction, 相反 ('on the contrary') goes at the start or in the middle of the second clause to express a contrast or a further step.",
+          "ex": [
+            {
+              "zh": "如果还是使用以前的办法，不但不能解决任何问题，【相反】，会使问题变得更复杂。",
+              "vi": "Nếu vẫn dùng cách cũ thì không những không giải quyết được vấn đề gì, ngược lại còn khiến vấn đề trở nên phức tạp hơn.",
+              "en": "If we keep using the old method, not only will it fail to solve anything; on the contrary, it will make the problem more complicated."
+            },
+            {
+              "zh": "使用正确的方法，我们做起事来能“事半功倍”……【相反】，如果方法不对，可能花五倍甚至十倍的时间都不能完成任务，结果变成了“事倍功半”。",
+              "vi": "Dùng phương pháp đúng thì chúng ta làm việc sẽ “làm ít được nhiều”… Ngược lại, nếu phương pháp không đúng, có thể tốn gấp năm thậm chí gấp mười lần thời gian mà vẫn không hoàn thành nhiệm vụ, kết quả thành ra “làm nhiều được ít”.",
+              "en": "With the right method we get twice the result with half the effort… On the other hand, with the wrong method we may spend five or even ten times as long and still not finish, ending up with half the result for twice the effort."
+            }
+          ]
+        },
+        {
+          "vi": "Tính từ 相反 diễn tả rằng hai mặt của sự vật đối lập hay mâu thuẫn với nhau, có thể làm vị ngữ hoặc bổ nghĩa cho danh từ. Khi 相反 bổ nghĩa cho danh từ, theo sau nó phải có 的.",
+          "en": "As an adjective, 相反 means 'opposite, contrary'. It can be a predicate or modify a noun; when modifying a noun it must be followed by 的.",
+          "ex": [
+            {
+              "zh": "调查结果和他们想的几乎完全【相反】，他们不得不改变原来的计划。",
+              "vi": "Kết quả điều tra gần như hoàn toàn trái ngược với những gì họ nghĩ, họ buộc phải thay đổi kế hoạch ban đầu.",
+              "en": "The survey results were almost the complete opposite of what they expected, so they had to change their original plan."
+            },
+            {
+              "zh": "我本来以为任务能顺利完成，没想到事情正好向【相反】的方向发展。",
+              "vi": "Tôi cứ tưởng nhiệm vụ sẽ hoàn thành suôn sẻ, không ngờ sự việc lại phát triển theo hướng ngược lại.",
+              "en": "I thought the task would go smoothly; I never expected things to go in exactly the opposite direction."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "一个正确的选择，往往是成功的开始，____。",
+            "hint": "相反",
+            "a": "一个正确的选择，往往是成功的开始，【相反，一个错误的选择可能会让你离成功越来越远】。",
+            "vi": "Một lựa chọn đúng thường là khởi đầu của thành công, ngược lại, một lựa chọn sai có thể khiến bạn ngày càng xa thành công.",
+            "en": "A right choice is often the start of success; on the contrary, a wrong one may take you further and further from it.",
+            "sample": true
+          },
+          {
+            "q": "姐姐非常安静，很少说话，____。",
+            "hint": "相反",
+            "a": "姐姐非常安静，很少说话，【妹妹却相反，一刻也停不下来】。",
+            "vi": "Chị gái rất trầm tính, ít nói, em gái thì ngược lại, không lúc nào chịu yên.",
+            "en": "The older sister is very quiet and rarely speaks; the younger one is the opposite and never stops for a moment.",
+            "sample": true
+          },
+          {
+            "q": "老年人总是喜欢回忆自己的过去，____。",
+            "hint": "相反",
+            "a": "老年人总是喜欢回忆自己的过去，【相反，年轻人更喜欢想将来的事情】。",
+            "vi": "Người già luôn thích hồi tưởng quá khứ, ngược lại, người trẻ thích nghĩ về tương lai hơn.",
+            "en": "Old people always like to recall their past; young people, on the contrary, prefer to think about the future.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "王经理的语气：\n其实，规定和经验不完全是正确的。……",
+          "label": "课文1",
+          "a": "其实，规定和经验不完全是正确的。马经理这次的生意到现在还没谈成，他按以前的经验做事，不知道哪儿出了问题。我建议他改变一下自己的态度和想法，试着走走以前从来没走过的路，也许这样就能找到解决问题的方法了。",
+          "vi": "Thật ra quy định và kinh nghiệm không hoàn toàn đúng. Thương vụ lần này của giám đốc Mã đến giờ vẫn chưa xong, anh ấy làm theo kinh nghiệm cũ, không biết vấn đề ở đâu. Tôi khuyên anh ấy thay đổi thái độ và suy nghĩ, thử đi con đường trước đây chưa từng đi, có lẽ như vậy sẽ tìm được cách giải quyết.",
+          "en": "Actually, rules and experience aren't always right. Manager Ma still hasn't closed this deal; he's been relying on past experience and doesn't know what's wrong. I suggested he change his attitude and try a road he's never taken before; maybe that way he'll find a solution.",
+          "sample": true
+        },
+        {
+          "q": "高老师的语气：\n知识不是只在课本上，还在生活中。……",
+          "label": "课文2",
+          "a": "知识不是只在课本上，还在生活中。女儿刚买的裤子洗完以后掉颜色了，我告诉她，在水里加勺盐再洗，衣服就不容易掉颜色。她第一次听说盐有保护衣服颜色的作用。实际上，很多问题的答案都可以从生活中找到，但这需要用眼睛去发现，用心去总结。",
+          "vi": "Kiến thức không chỉ có trong sách vở mà còn trong cuộc sống. Cái quần con gái tôi mới mua giặt xong bị phai màu, tôi bảo nó cho một thìa muối vào nước rồi giặt thì quần áo sẽ không dễ phai màu. Lần đầu nó nghe nói muối có tác dụng giữ màu quần áo. Thực tế, đáp án của nhiều vấn đề có thể tìm thấy trong cuộc sống, nhưng cần dùng mắt để phát hiện, dùng tâm để tổng kết.",
+          "en": "Knowledge isn't only in textbooks but also in life. My daughter's new trousers faded after washing, so I told her that adding a spoonful of salt to the water stops clothes fading. It was the first time she'd heard that salt protects colours. In fact, the answers to many problems can be found in life, but you have to discover them with your eyes and sum them up with your heart.",
+          "sample": true
+        },
+        {
+          "q": "王教授的语气：\n世界上没有完全相同的叶子，学生也是这样。……",
+          "label": "课文3",
+          "a": "世界上没有完全相同的叶子，学生也是这样。高老师听了我的课，说我对学生特别了解，总是能用最简单的方法把复杂的问题解释清楚。其实这只是因为我对每个学生的能力水平比较了解。我觉得在教育学生时，要根据学生的特点选择不同的方法，这是最不容易做到的。",
+          "vi": "Trên thế giới không có chiếc lá nào giống hệt nhau, học sinh cũng vậy. Cô Cao nghe tiết học của tôi, nói tôi đặc biệt hiểu sinh viên, luôn dùng cách đơn giản nhất để giải thích rõ vấn đề phức tạp. Thật ra chỉ là vì tôi khá hiểu năng lực của từng sinh viên. Tôi thấy khi dạy học phải dựa vào đặc điểm của học sinh mà chọn phương pháp khác nhau, đây là điều khó làm được nhất.",
+          "en": "No two leaves are exactly alike, and neither are students. Ms. Gao attended my class and said I know my students well and always explain complicated problems simply. Really it's just that I know each student's level fairly well. I think that when educating students, you must choose methods to suit their characteristics, and that's the hardest thing to do.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "引起",
+        "也许",
+        "仔细",
+        "作用",
+        "可惜"
+      ],
+      "items": [
+        {
+          "q": "她表示要放弃这个去国外留学的机会，同学们都觉得很____。",
+          "key": "可惜",
+          "a": "她表示要放弃这个去国外留学的机会，同学们都觉得很【可惜】。",
+          "vi": "Cô ấy nói muốn từ bỏ cơ hội đi du học nước ngoài này, các bạn đều thấy rất tiếc.",
+          "en": "She said she was giving up this chance to study abroad, and her classmates all thought it a great pity."
+        },
+        {
+          "q": "如果你觉得心烦，可以吃点儿蛋糕或者巧克力，这些甜的东西____会给你带来好心情。",
+          "key": "也许",
+          "a": "如果你觉得心烦，可以吃点儿蛋糕或者巧克力，这些甜的东西【也许】会给你带来好心情。",
+          "vi": "Nếu bạn thấy bực bội, có thể ăn chút bánh ngọt hoặc sô-cô-la, những đồ ngọt này có lẽ sẽ mang lại tâm trạng tốt cho bạn.",
+          "en": "If you're feeling down, have some cake or chocolate. Sweet things may well put you in a better mood."
+        },
+        {
+          "q": "现在网上银行的____越来越大。有了它，网上购物就方便多了，还可以在网上交水费、电费等。",
+          "key": "作用",
+          "a": "现在网上银行的【作用】越来越大。有了它，网上购物就方便多了，还可以在网上交水费、电费等。",
+          "vi": "Bây giờ tác dụng của ngân hàng trực tuyến ngày càng lớn. Có nó, mua sắm trên mạng tiện hơn nhiều, còn có thể trả tiền nước, tiền điện trên mạng.",
+          "en": "Online banking is becoming more and more important. With it, online shopping is much more convenient, and you can pay water and electricity bills online."
+        },
+        {
+          "q": "你现在做出的每一个决定都有可能影响到你的将来。所以，做决定之前最好____考虑一下。",
+          "key": "仔细",
+          "a": "你现在做出的每一个决定都有可能影响到你的将来。所以，做决定之前最好【仔细】考虑一下。",
+          "vi": "Mỗi quyết định bạn đưa ra bây giờ đều có thể ảnh hưởng đến tương lai. Vì vậy trước khi quyết định tốt nhất nên suy nghĩ kỹ.",
+          "en": "Every decision you make now may affect your future, so you'd better think carefully before deciding."
+        },
+        {
+          "q": "事情的原因和结果往往是互相联系的。一定的原因会____一定的结果，有时候一件事情的结果可能又是另外一件事情的原因。",
+          "key": "引起",
+          "a": "事情的原因和结果往往是互相联系的。一定的原因会【引起】一定的结果，有时候一件事情的结果可能又是另外一件事情的原因。",
+          "vi": "Nguyên nhân và kết quả của sự việc thường có liên hệ với nhau. Nguyên nhân nhất định sẽ dẫn đến kết quả nhất định, đôi khi kết quả của việc này lại là nguyên nhân của việc khác.",
+          "en": "Causes and effects are often linked. A given cause leads to a given result, and sometimes the result of one thing is the cause of another."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "详细",
+        "解释",
+        "商量",
+        "力气",
+        "直接"
+      ],
+      "items": [
+        {
+          "q": "A：咱们在这儿休息一会儿吧，我没____爬了。\nB：一看就知道你不经常锻炼。",
+          "key": "力气",
+          "a": "A：咱们在这儿休息一会儿吧，我没【力气】爬了。\nB：一看就知道你不经常锻炼。",
+          "vi": "A: Chúng mình nghỉ ở đây một lát đi, tôi hết sức leo rồi.\nB: Nhìn là biết bạn không thường xuyên tập luyện.",
+          "en": "A: Let's rest here for a bit. I've no strength left to climb.\nB: It's obvious you don't exercise much."
+        },
+        {
+          "q": "A：刚才手机没电了，听说你打电话找我了，有什么事吗？\nB：大家在教室____晚会节目的事情呢，就差你了。",
+          "key": "商量",
+          "a": "A：刚才手机没电了，听说你打电话找我了，有什么事吗？\nB：大家在教室【商量】晚会节目的事情呢，就差你了。",
+          "vi": "A: Lúc nãy điện thoại hết pin, nghe nói bạn gọi tìm tôi, có việc gì thế?\nB: Mọi người đang ở lớp bàn chuyện tiết mục buổi dạ hội, chỉ thiếu mỗi bạn.",
+          "en": "A: My phone died just now. I hear you called. What's up?\nB: Everyone's in the classroom discussing the programme for the party. We're just waiting for you."
+        },
+        {
+          "q": "A：经理，新的计划发您信箱了，您看了吗？\nB：内容太简单，不够____，明天我们得{děi}再开会商量商量。",
+          "key": "详细",
+          "a": "A：经理，新的计划发您信箱了，您看了吗？\nB：内容太简单，不够【详细】，明天我们得{děi}再开会商量商量。",
+          "vi": "A: Thưa giám đốc, kế hoạch mới đã gửi vào hộp thư của anh rồi, anh xem chưa?\nB: Nội dung đơn giản quá, chưa đủ chi tiết, ngày mai chúng ta phải họp bàn lại.",
+          "en": "A: Sir, I've sent the new plan to your inbox. Have you read it?\nB: It's too simple and not detailed enough. We'll have to meet and discuss it again tomorrow."
+        },
+        {
+          "q": "A：你有没有李律师的电话号码？我想问他几个法律方面的问题。\nB：有，我发到你手机上，你____跟他联系就行。",
+          "key": "直接",
+          "a": "A：你有没有李律师的电话号码？我想问他几个法律方面的问题。\nB：有，我发到你手机上，你【直接】跟他联系就行。",
+          "vi": "A: Bạn có số điện thoại của luật sư Lý không? Tôi muốn hỏi ông ấy mấy vấn đề pháp luật.\nB: Có, tôi gửi vào điện thoại bạn, bạn cứ liên hệ trực tiếp với ông ấy là được.",
+          "en": "A: Do you have Lawyer Li's number? I want to ask him a few legal questions.\nB: Yes, I'll send it to your phone. Just contact him directly."
+        },
+        {
+          "q": "A：怎么样？事情解决了吧？\nB：对，我向那位顾客____了这次不能及时送货的原因，她表示可以理解。",
+          "key": "解释",
+          "a": "A：怎么样？事情解决了吧？\nB：对，我向那位顾客【解释】了这次不能及时送货的原因，她表示可以理解。",
+          "vi": "A: Thế nào? Việc giải quyết xong rồi chứ?\nB: Rồi, tôi đã giải thích với vị khách đó lý do lần này không giao hàng kịp, cô ấy nói có thể hiểu được.",
+          "en": "A: How did it go? Is it sorted out?\nB: Yes, I explained to the customer why we couldn't deliver on time, and she said she understood."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 用",
+    "en": "Words sharing a character: 用",
+    "words": [
+      {
+        "zh": "信用卡",
+        "py": "xìnyòngkǎ",
+        "vi": "thẻ tín dụng",
+        "en": "credit card"
+      },
+      {
+        "zh": "作用",
+        "py": "zuòyòng",
+        "vi": "tác dụng",
+        "en": "effect, function"
+      },
+      {
+        "zh": "使用",
+        "py": "shǐyòng",
+        "vi": "sử dụng",
+        "en": "to use"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "有些年轻人申请了【信用卡】，但在购物时却没有考虑自己的经济能力，最后不能按时还银行的钱。",
+        "vi": "Có những người trẻ làm thẻ tín dụng nhưng khi mua sắm lại không cân nhắc khả năng kinh tế của mình, cuối cùng không trả được tiền ngân hàng đúng hạn.",
+        "en": "Some young people apply for credit cards but don't consider their means when shopping, and in the end can't repay the bank on time."
+      },
+      {
+        "zh": "有些故事不仅能给人带来快乐，还有教育的【作用】，能使人们重新认识到一些问题。",
+        "vi": "Có những câu chuyện không những mang lại niềm vui mà còn có tác dụng giáo dục, giúp mọi người nhận thức lại một số vấn đề.",
+        "en": "Some stories not only bring people joy but also have an educational effect, helping them see certain problems in a new light."
+      },
+      {
+        "zh": "医生提醒人们，在【使用】感冒药之前，一定要仔细阅读说明书。",
+        "vi": "Bác sĩ nhắc mọi người, trước khi dùng thuốc cảm nhất định phải đọc kỹ hướng dẫn sử dụng.",
+        "en": "Doctors remind people to read the instructions carefully before using cold medicine."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "信用卡",
+        "作用",
+        "使用"
+      ],
+      "items": [
+        {
+          "q": "很多葡萄酒的瓶子都是深色的，这是因为太阳光会让酒的味道发生改变，而深色酒瓶能起到保护____。",
+          "key": "作用",
+          "a": "很多葡萄酒的瓶子都是深色的，这是因为太阳光会让酒的味道发生改变，而深色酒瓶能起到保护【作用】。",
+          "vi": "Nhiều chai rượu vang có màu tối, đó là vì ánh nắng sẽ làm thay đổi mùi vị rượu, còn chai màu tối có tác dụng bảo vệ.",
+          "en": "Many wine bottles are dark because sunlight changes the taste of the wine, and dark bottles protect it."
+        },
+        {
+          "q": "A：我的钱包怎么不见了？钱和____都在里面呢。\nB：你先别着急，仔细回忆一下，你最后在哪儿用过它？",
+          "key": "信用卡",
+          "a": "A：我的钱包怎么不见了？钱和【信用卡】都在里面呢。\nB：你先别着急，仔细回忆一下，你最后在哪儿用过它？",
+          "vi": "A: Ví của tôi đâu mất rồi? Tiền và thẻ tín dụng đều ở trong đó.\nB: Bạn đừng vội, nhớ kỹ lại xem, lần cuối bạn dùng nó ở đâu?",
+          "en": "A: Where's my wallet gone? My money and credit card are in it.\nB: Don't panic. Think carefully: where did you last use it?"
+        },
+        {
+          "q": "新闻往往____数字来说明问题，所以这些数字必须是准确的，只有这样，才能证明新闻的“真”，才是对读者负责。",
+          "key": "使用",
+          "a": "新闻往往【使用】数字来说明问题，所以这些数字必须是准确的，只有这样，才能证明新闻的“真”，才是对读者负责。",
+          "vi": "Tin tức thường dùng con số để nói rõ vấn đề, nên những con số này phải chính xác, chỉ có như vậy mới chứng minh được tính “thật” của tin tức, mới là có trách nhiệm với người đọc.",
+          "en": "News reports often use numbers to illustrate a point, so the numbers must be accurate; only then can the report prove it's “true” and be responsible to its readers."
+        }
+      ]
+    }
+  }
+}

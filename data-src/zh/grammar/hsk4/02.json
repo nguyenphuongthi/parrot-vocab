@@ -1,0 +1,1081 @@
+{
+  "n": 2,
+  "zh": "真正的朋友",
+  "vi": "Người bạn chân chính",
+  "en": "True friends",
+  "texts": [
+    {
+      "title": "小夏和马克聊马克的中国朋友",
+      "paras": [
+        {
+          "zh": "小夏：来中国快一年了，你适应这儿的生活了吗？",
+          "vi": "Tiểu Hạ: Đến Trung Quốc sắp được một năm rồi, cậu đã quen với cuộc sống ở đây chưa?",
+          "en": "Xiao Xia: You've been in China almost a year. Have you got used to life here?"
+        },
+        {
+          "zh": "马克：开始有点儿不习惯，后来就慢慢适应了，最近我还交了一个中国朋友。",
+          "vi": "Mark: Lúc đầu hơi không quen, sau đó dần dần thích nghi, dạo này tớ còn kết bạn với một người Trung Quốc.",
+          "en": "Mark: At first I wasn't really used to it, but I gradually adapted. Recently I've even made a Chinese friend."
+        },
+        {
+          "zh": "小夏：那就好，快给我讲讲你新交的中国朋友。",
+          "vi": "Tiểu Hạ: Thế thì tốt, mau kể cho tớ nghe về người bạn Trung Quốc mới quen của cậu đi.",
+          "en": "Xiao Xia: That's great. Tell me about your new Chinese friend."
+        },
+        {
+          "zh": "马克：我们是在图书馆认识的。平时我们常常一起看书、逛街、踢足球。有时候他还给我发一些幽默短信。",
+          "vi": "Mark: Bọn tớ quen nhau ở thư viện. Bình thường bọn tớ hay cùng đọc sách, đi dạo phố, đá bóng. Có lúc cậu ấy còn gửi cho tớ mấy tin nhắn hài hước.",
+          "en": "Mark: We met in the library. We often read, go shopping and play football together. Sometimes he sends me funny text messages too."
+        },
+        {
+          "zh": "小夏：你的这个朋友真不错！下次介绍我们认识认识，怎么样？",
+          "vi": "Tiểu Hạ: Người bạn này của cậu tốt thật! Lần sau giới thiệu bọn mình làm quen nhé, thế nào?",
+          "en": "Xiao Xia: Your friend sounds great! Introduce us next time, OK?"
+        },
+        {
+          "zh": "马克：没问题！我们下午要去踢足球，正好一起去吧。",
+          "vi": "Mark: Không vấn đề gì! Chiều nay bọn tớ đi đá bóng, vừa hay cùng đi luôn.",
+          "en": "Mark: No problem! We're going to play football this afternoon. Why don't you come along?"
+        }
+      ],
+      "words": [
+        {
+          "zh": "适应",
+          "py": "shìyìng",
+          "pos": "đgt.",
+          "vi": "thích nghi",
+          "en": "to adapt, to get used to"
+        },
+        {
+          "zh": "交",
+          "py": "jiāo",
+          "pos": "đgt.",
+          "vi": "kết giao",
+          "en": "to make (friends)"
+        },
+        {
+          "zh": "平时",
+          "py": "píngshí",
+          "pos": "dt.",
+          "vi": "lúc thường, ngày thường",
+          "en": "usually, normally"
+        },
+        {
+          "zh": "逛",
+          "py": "guàng",
+          "pos": "đgt.",
+          "vi": "đi dạo",
+          "en": "to stroll, to go around"
+        },
+        {
+          "zh": "短信",
+          "py": "duǎnxìn",
+          "pos": "dt.",
+          "vi": "tin nhắn",
+          "en": "text message"
+        },
+        {
+          "zh": "正好",
+          "py": "zhènghǎo",
+          "pos": "phó.",
+          "vi": "đúng lúc, được dịp, gặp dịp",
+          "en": "just right; as it happens"
+        }
+      ],
+      "names": [
+        {
+          "zh": "夏",
+          "py": "Xià",
+          "vi": "Hạ (họ)",
+          "en": "Xia (a surname)"
+        },
+        {
+          "zh": "马克",
+          "py": "Mǎkè",
+          "vi": "Mark",
+          "en": "Mark"
+        }
+      ]
+    },
+    {
+      "title": "小李和小林聊同学聚会的事情",
+      "paras": [
+        {
+          "zh": "小李：星期天同学聚会，你能来吗？",
+          "vi": "Tiểu Lý: Chủ nhật họp lớp, cậu đến được không?",
+          "en": "Xiao Li: There's a class reunion on Sunday. Can you come?"
+        },
+        {
+          "zh": "小林：能来。班里同学你联系得怎么样了？来多少人？",
+          "vi": "Tiểu Lâm: Đến được. Cậu liên hệ với các bạn trong lớp thế nào rồi? Bao nhiêu người đến?",
+          "en": "Xiao Lin: Yes, I can. How are you getting on contacting our classmates? How many are coming?"
+        },
+        {
+          "zh": "小李：差不多一半儿吧，张远还专门从国外飞回来呢。",
+          "vi": "Tiểu Lý: Khoảng một nửa, Trương Viễn còn đặc biệt từ nước ngoài bay về đấy.",
+          "en": "Xiao Li: About half. Zhang Yuan is even flying back from abroad specially."
+        },
+        {
+          "zh": "小林：是吗？毕业都快十年了，真想大家啊！对了，今天早上，我在地铁站遇到了王静，她毕业后就去上海工作了，她这次是来旅游的。",
+          "vi": "Tiểu Lâm: Thật à? Tốt nghiệp sắp mười năm rồi, nhớ mọi người quá! À phải rồi, sáng nay tớ gặp Vương Tịnh ở ga tàu điện ngầm, tốt nghiệp xong cô ấy đi Thượng Hải làm việc, lần này cô ấy đến du lịch.",
+          "en": "Xiao Lin: Really? It's been almost ten years since graduation. I really miss everyone! Oh, by the way, I ran into Wang Jing at the subway station this morning. She went to work in Shanghai after graduating, and she's here on holiday."
+        },
+        {
+          "zh": "小李：那太好了！麻烦你跟她联系一下，请她一起来参加同学聚会。聚会就在学校门口那个饭店，六点半。别迟到啊！",
+          "vi": "Tiểu Lý: Thế thì tốt quá! Phiền cậu liên hệ với cô ấy, mời cô ấy cùng đến họp lớp. Buổi họp ở nhà hàng trước cổng trường, sáu rưỡi. Đừng đến muộn nhé!",
+          "en": "Xiao Li: That's great! Could you get in touch with her and invite her to the reunion too? It's at the restaurant by the school gate, at half past six. Don't be late!"
+        },
+        {
+          "zh": "小林：放心吧。星期天六点半见！",
+          "vi": "Tiểu Lâm: Yên tâm đi. Sáu rưỡi chủ nhật gặp nhé!",
+          "en": "Xiao Lin: Don't worry. See you at half past six on Sunday!"
+        }
+      ],
+      "words": [
+        {
+          "zh": "聚会",
+          "py": "jùhuì",
+          "pos": "đgt./dt.",
+          "vi": "gặp gỡ; cuộc họp mặt",
+          "en": "to get together; gathering"
+        },
+        {
+          "zh": "联系",
+          "py": "liánxì",
+          "pos": "đgt.",
+          "vi": "liên hệ",
+          "en": "to contact, to get in touch"
+        },
+        {
+          "zh": "差不多",
+          "py": "chàbuduō",
+          "pos": "phó.",
+          "vi": "gần như, hầu như",
+          "en": "almost, about"
+        },
+        {
+          "zh": "专门",
+          "py": "zhuānmén",
+          "pos": "phó.",
+          "vi": "đặc biệt, riêng biệt",
+          "en": "specially"
+        },
+        {
+          "zh": "毕业",
+          "py": "bì yè",
+          "pos": "đgt.",
+          "vi": "tốt nghiệp",
+          "en": "to graduate"
+        },
+        {
+          "zh": "麻烦",
+          "py": "máfan",
+          "pos": "đgt.",
+          "vi": "làm phiền",
+          "en": "to trouble, to bother"
+        }
+      ],
+      "names": [
+        {
+          "zh": "林",
+          "py": "Lín",
+          "vi": "Lâm (họ)",
+          "en": "Lin (a surname)"
+        },
+        {
+          "zh": "张远",
+          "py": "Zhāng Yuǎn",
+          "vi": "Trương Viễn (tên người)",
+          "en": "Zhang Yuan (a name)"
+        },
+        {
+          "zh": "上海",
+          "py": "Shànghǎi",
+          "vi": "Thượng Hải (một thành phố của Trung Quốc)",
+          "en": "Shanghai"
+        }
+      ]
+    },
+    {
+      "title": "孙月和王静聊她们的朋友",
+      "paras": [
+        {
+          "zh": "孙月：这是什么时候的照片？你真年轻！",
+          "vi": "Tôn Nguyệt: Đây là ảnh hồi nào thế? Trông cậu trẻ quá!",
+          "en": "Sun Yue: When was this photo taken? You look so young!"
+        },
+        {
+          "zh": "王静：这是上大学时的照片。一看到这张照片，我就想起过去那段快乐的日子，好像重新回到了校园。",
+          "vi": "Vương Tịnh: Đây là ảnh hồi học đại học. Cứ nhìn thấy tấm ảnh này là tớ lại nhớ đến quãng thời gian vui vẻ ngày trước, như thể được quay lại sân trường lần nữa.",
+          "en": "Wang Jing: This is from my university days. Whenever I see this photo, I remember those happy days, as if I were back on campus again."
+        },
+        {
+          "zh": "孙月：旁边这个人一定是你的好朋友吧？你们现在还联系吗？",
+          "vi": "Tôn Nguyệt: Người bên cạnh chắc là bạn thân của cậu nhỉ? Bây giờ các cậu còn liên lạc không?",
+          "en": "Sun Yue: The person next to you must be your good friend. Are you still in touch?"
+        },
+        {
+          "zh": "王静：当然了，尽管已经毕业这么多年，我们还是经常联系的，每次都有说不完的话。",
+          "vi": "Vương Tịnh: Đương nhiên rồi, dù đã tốt nghiệp nhiều năm như vậy, bọn tớ vẫn thường xuyên liên lạc, lần nào cũng nói mãi không hết chuyện.",
+          "en": "Wang Jing: Of course. Even though we graduated so many years ago, we're still often in touch, and every time we have endless things to talk about."
+        },
+        {
+          "zh": "孙月：真羡慕你！我上大学时最好的朋友去了南方工作，我们俩已经好久没联系了。我一会儿就给她打个电话。",
+          "vi": "Tôn Nguyệt: Ngưỡng mộ cậu thật! Người bạn thân nhất hồi đại học của tớ đi làm ở miền Nam, hai đứa lâu lắm rồi không liên lạc. Lát nữa tớ sẽ gọi điện cho cô ấy.",
+          "en": "Sun Yue: I really envy you! My best friend from university went to work in the south, and we haven't been in touch for ages. I'll call her in a moment."
+        },
+        {
+          "zh": "王静：对。要知道，能有一个真正的朋友，有一段真正的友谊，是多么不容易！",
+          "vi": "Vương Tịnh: Đúng đấy. Phải biết rằng có được một người bạn thật sự, một tình bạn thật sự, là không dễ dàng chút nào!",
+          "en": "Wang Jing: Yes, do. You know, having a true friend and a true friendship is far from easy!"
+        }
+      ],
+      "words": [
+        {
+          "zh": "好像",
+          "py": "hǎoxiàng",
+          "pos": "phó.",
+          "vi": "giống như, dường như",
+          "en": "as if, to seem"
+        },
+        {
+          "zh": "重新",
+          "py": "chóngxīn",
+          "pos": "phó.",
+          "vi": "lần nữa, lại một lần nữa",
+          "en": "again, anew"
+        },
+        {
+          "zh": "尽管",
+          "py": "jǐnguǎn",
+          "pos": "liên.",
+          "vi": "cho dù, mặc dù",
+          "en": "although, even though"
+        },
+        {
+          "zh": "真正",
+          "py": "zhēnzhèng",
+          "pos": "tt.",
+          "vi": "chân chính, thật sự",
+          "en": "true, real"
+        },
+        {
+          "zh": "友谊",
+          "py": "yǒuyì",
+          "pos": "dt.",
+          "vi": "tình bạn",
+          "en": "friendship"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "每个人都需要朋友，朋友可以丰富我们的生活。离开朋友，我们的生活一定会非常无聊。那么，怎样才能交到更多的朋友呢？当然，要有好脾气。一个脾气不好的人虽然不一定让人讨厌，但是却很难跟人交朋友。因为没有人会喜欢跟一个总是容易生气的人在一起。我们还要经常跟周围的人交流。交流能让人们互相了解，如果有共同的兴趣、爱好或者习惯，就更容易成为朋友了。",
+          "vi": "Ai cũng cần có bạn, bạn bè có thể làm phong phú cuộc sống của chúng ta. Không có bạn bè, cuộc sống của chúng ta chắc chắn sẽ rất nhàm chán. Vậy làm thế nào mới kết được nhiều bạn hơn? Đương nhiên phải có tính khí tốt. Một người tính khí không tốt tuy không nhất định khiến người khác ghét, nhưng lại rất khó kết bạn. Bởi vì không ai thích ở cùng một người lúc nào cũng dễ nổi nóng. Chúng ta còn phải thường xuyên giao lưu với những người xung quanh. Giao lưu có thể giúp mọi người hiểu nhau, nếu có chung hứng thú, sở thích hoặc thói quen thì càng dễ trở thành bạn bè.",
+          "en": "Everyone needs friends; friends can enrich our lives. Without friends, life would surely be very dull. So how can we make more friends? Of course, you need a good temper. A bad-tempered person isn't necessarily disliked, but finds it very hard to make friends, because nobody likes being with someone who's always quick to get angry. We should also communicate often with the people around us. Communication helps people understand each other, and if they share interests, hobbies or habits, it's even easier to become friends."
+        }
+      ],
+      "words": [
+        {
+          "zh": "丰富",
+          "py": "fēngfù",
+          "pos": "đgt.",
+          "vi": "làm phong phú",
+          "en": "to enrich"
+        },
+        {
+          "zh": "无聊",
+          "py": "wúliáo",
+          "pos": "tt.",
+          "vi": "vô vị, nhàm chán",
+          "en": "boring, dull"
+        },
+        {
+          "zh": "讨厌",
+          "py": "tǎoyàn",
+          "pos": "đgt.",
+          "vi": "ghét, không thích",
+          "en": "to dislike, to hate"
+        },
+        {
+          "zh": "却",
+          "py": "què",
+          "pos": "phó.",
+          "vi": "lại, nhưng mà",
+          "en": "but, yet"
+        },
+        {
+          "zh": "周围",
+          "py": "zhōuwéi",
+          "pos": "dt.",
+          "vi": "xung quanh",
+          "en": "surroundings, around"
+        },
+        {
+          "zh": "交流",
+          "py": "jiāoliú",
+          "pos": "đgt.",
+          "vi": "giao lưu, trao đổi",
+          "en": "to communicate, to exchange"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "人的一生可以什么也没有，但不能没有朋友，而且必须要有自己真正的朋友。什么是真正的朋友？不同的人会有不同的理解。有些人觉得朋友就是能和自己一起快乐的人；有些人觉得朋友应该像镜子，能帮自己看到缺点。而我的理解是：当你遇到困难的时候，真正的朋友会站出来，及时给你帮助；当你无聊或者难过的时候，真正的朋友会陪在你身边，想办法让你感到幸福。",
+          "vi": "Một đời người có thể chẳng có gì, nhưng không thể không có bạn bè, hơn nữa phải có những người bạn thật sự của mình. Thế nào là bạn thật sự? Những người khác nhau sẽ có cách hiểu khác nhau. Có người thấy bạn bè là người có thể cùng mình vui vẻ; có người thấy bạn bè nên giống như tấm gương, giúp mình nhìn ra khuyết điểm. Còn cách hiểu của tôi là: khi bạn gặp khó khăn, người bạn thật sự sẽ đứng ra kịp thời giúp đỡ bạn; khi bạn buồn chán hoặc đau lòng, người bạn thật sự sẽ ở bên cạnh bạn, tìm cách khiến bạn cảm thấy hạnh phúc.",
+          "en": "In life you can do without everything else, but not without friends, and you must have true friends of your own. What is a true friend? Different people understand it differently. Some think a friend is someone you can have fun with; some think a friend should be like a mirror, helping you see your faults. My understanding is this: when you run into difficulties, a true friend will step forward and help you in time; when you're bored or upset, a true friend will stay by your side and find a way to make you feel happy."
+        }
+      ],
+      "words": [
+        {
+          "zh": "理解",
+          "py": "lǐjiě",
+          "pos": "đgt.",
+          "vi": "hiểu",
+          "en": "to understand"
+        },
+        {
+          "zh": "镜子",
+          "py": "jìngzi",
+          "pos": "dt.",
+          "vi": "gương, gương soi",
+          "en": "mirror"
+        },
+        {
+          "zh": "而",
+          "py": "ér",
+          "pos": "liên.",
+          "vi": "(chỉ sự tương phản) trong khi đó, mà",
+          "en": "while, whereas"
+        },
+        {
+          "zh": "当",
+          "py": "dāng",
+          "pos": "giới.",
+          "vi": "khi",
+          "en": "when"
+        },
+        {
+          "zh": "困难",
+          "py": "kùnnan",
+          "pos": "dt.",
+          "vi": "khó khăn",
+          "en": "difficulty"
+        },
+        {
+          "zh": "及时",
+          "py": "jíshí",
+          "pos": "phó.",
+          "vi": "đúng lúc, kịp thời",
+          "en": "in time, promptly"
+        },
+        {
+          "zh": "陪",
+          "py": "péi",
+          "pos": "đgt.",
+          "vi": "đi cùng, ở bên cạnh",
+          "en": "to accompany, to keep company"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "马克刚来中国的时候适应这儿的生活吗？现在呢？",
+        "label": "课文1",
+        "a": "他刚来的时候【有点儿不习惯】，后来【慢慢适应了】。",
+        "vi": "Lúc mới đến cậu ấy hơi không quen, sau đó dần dần thích nghi được.",
+        "en": "At first he wasn't really used to it, but later he gradually adapted."
+      },
+      {
+        "q": "马克新交的中国朋友怎么样？",
+        "label": "课文1",
+        "a": "他们【平时常常一起看书、逛街、踢足球】，有时候这个朋友还给马克发一些【幽默短信】。",
+        "vi": "Họ thường cùng nhau đọc sách, dạo phố, đá bóng, có lúc người bạn này còn gửi cho Mark những tin nhắn hài hước.",
+        "en": "They often read, go shopping and play football together, and sometimes this friend sends Mark funny text messages."
+      },
+      {
+        "q": "小李为什么给小林打电话？",
+        "label": "课文2",
+        "a": "因为【星期天同学聚会】，小李想问小林能不能来。",
+        "vi": "Vì chủ nhật họp lớp, Tiểu Lý muốn hỏi Tiểu Lâm có đến được không.",
+        "en": "Because there's a class reunion on Sunday, and Xiao Li wants to know if Xiao Lin can come."
+      },
+      {
+        "q": "他们什么时候聚会？在哪儿聚会？",
+        "label": "课文2",
+        "a": "他们【星期天六点半】聚会，在【学校门口那个饭店】。",
+        "vi": "Họ họp mặt lúc sáu rưỡi chủ nhật, ở nhà hàng trước cổng trường.",
+        "en": "They're meeting at half past six on Sunday, at the restaurant by the school gate."
+      },
+      {
+        "q": "王静看到上大学时的照片会想起什么？",
+        "label": "课文3",
+        "a": "她会【想起过去那段快乐的日子，好像重新回到了校园】。",
+        "vi": "Cô ấy sẽ nhớ lại quãng thời gian vui vẻ ngày trước, như thể được quay lại sân trường.",
+        "en": "She remembers those happy days, as if she were back on campus again."
+      },
+      {
+        "q": "毕业以后，孙月跟她上大学时最好的朋友还经常联系吗？",
+        "label": "课文3",
+        "a": "【不经常联系】。她的朋友去了南方工作，她们俩已经好久没联系了。",
+        "vi": "Không thường xuyên liên lạc. Bạn cô ấy đi làm ở miền Nam, hai người đã lâu không liên lạc.",
+        "en": "No. Her friend went to work in the south, and they haven't been in touch for ages."
+      },
+      {
+        "q": "如果没有朋友，我们的生活会怎么样？",
+        "label": "课文4",
+        "a": "我们的生活【一定会非常无聊】。",
+        "vi": "Cuộc sống của chúng ta chắc chắn sẽ rất nhàm chán.",
+        "en": "Our lives would surely be very dull."
+      },
+      {
+        "q": "怎样才能交到更多的朋友？",
+        "label": "课文4",
+        "a": "要【有好脾气】，还要【经常跟周围的人交流】。",
+        "vi": "Phải có tính khí tốt, và phải thường xuyên giao lưu với những người xung quanh.",
+        "en": "You need a good temper, and you should communicate often with the people around you."
+      },
+      {
+        "q": "什么是真正的朋友？",
+        "label": "课文5",
+        "a": "当你遇到困难的时候，真正的朋友会【站出来，及时给你帮助】；当你无聊或者难过的时候，真正的朋友会【陪在你身边，想办法让你感到幸福】。",
+        "vi": "Khi bạn gặp khó khăn, người bạn thật sự sẽ đứng ra kịp thời giúp đỡ; khi bạn buồn chán hay đau lòng, người bạn thật sự sẽ ở bên bạn, tìm cách khiến bạn hạnh phúc.",
+        "en": "When you're in difficulty, a true friend will step forward and help you in time; when you're bored or sad, a true friend will stay with you and find a way to make you happy."
+      },
+      {
+        "q": "关于朋友，你的理解是什么？",
+        "label": "课文5",
+        "a": "我觉得【真正的朋友就是能互相理解、互相帮助的人】。",
+        "vi": "Tôi thấy bạn thật sự là người có thể hiểu nhau và giúp đỡ lẫn nhau.",
+        "en": "I think a true friend is someone with whom you can understand and help each other.",
+        "sample": true
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "正好",
+      "uses": [
+        {
+          "vi": "正好 có thể được dùng làm tính từ và mang nghĩa là vừa vặn, diễn tả đối tượng được đề cập (thời gian, vị trí, thể tích, số lượng, mức độ...) thỏa mãn điều kiện nào đó (không sớm không muộn, không trước không sau, không lớn không nhỏ, không nhiều không ít, không cao không thấp...).",
+          "en": "As an adjective, 正好 means 'just right': the thing mentioned (time, position, size, amount, degree…) fits a condition exactly, neither too early nor too late, too big nor too small, too many nor too few.",
+          "ex": [
+            {
+              "zh": "苹果八块五，西瓜十一块五，【正好】二十块。",
+              "vi": "Táo tám tệ rưỡi, dưa hấu mười một tệ rưỡi, vừa đúng hai mươi tệ.",
+              "en": "The apples are 8.50 and the watermelon is 11.50, exactly 20 yuan."
+            },
+            {
+              "zh": "你来得【正好】，我的钱包不见了，借我点儿钱吧。",
+              "vi": "Bạn đến đúng lúc quá, ví của tôi mất rồi, cho tôi mượn ít tiền đi.",
+              "en": "You've come at just the right time. My wallet's gone, lend me some money."
+            }
+          ]
+        },
+        {
+          "vi": "正好 cũng có thể được dùng làm phó từ và mang nghĩa là đúng lúc, gặp được dịp nào đó để thực hiện việc gì.",
+          "en": "As an adverb, 正好 means 'as it happens / conveniently': it is just the right moment or chance to do something.",
+          "ex": [
+            {
+              "zh": "我们下午要去踢足球，【正好】一起去吧。",
+              "vi": "Chiều nay bọn mình định đi đá bóng, vừa hay đi cùng luôn nhé.",
+              "en": "We're going to play football this afternoon. Perfect, let's go together."
+            },
+            {
+              "zh": "我妹妹出生那天，【正好】下雪，所以爸爸妈妈叫她“小雪”。",
+              "vi": "Hôm em gái tôi chào đời đúng lúc trời có tuyết, nên bố mẹ đặt tên em là “Tiểu Tuyết”.",
+              "en": "It happened to be snowing on the day my little sister was born, so our parents named her “Xiaoxue” (Little Snow)."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "李老师来了，____。",
+            "hint": "正好",
+            "a": "李老师来了，【正好我有个问题想问他】。",
+            "vi": "Thầy Lý đến rồi, vừa hay tôi có một câu hỏi muốn hỏi thầy.",
+            "en": "Mr. Li is here. That's handy, I have a question I want to ask him.",
+            "sample": true
+          },
+          {
+            "q": "A：今天开会来了多少人？\nB：____。",
+            "hint": "正好",
+            "a": "A：今天开会来了多少人？\nB：【正好二十个人，一个也没少】。",
+            "vi": "A: Hôm nay họp có bao nhiêu người đến?\nB: Vừa đúng hai mươi người, không thiếu ai.",
+            "en": "A: How many people came to the meeting today?\nB: Exactly twenty. Nobody was missing.",
+            "sample": true
+          },
+          {
+            "q": "A：明天的球赛你想不想去看？\nB：我当然想去，可惜票早就卖光了。\nA：____，到时候一起去吧。",
+            "hint": "正好",
+            "a": "A：明天的球赛你想不想去看？\nB：我当然想去，可惜票早就卖光了。\nA：【我这儿正好多了一张票】，到时候一起去吧。",
+            "vi": "A: Trận bóng ngày mai bạn có muốn đi xem không?\nB: Đương nhiên là muốn rồi, tiếc là vé bán hết từ lâu.\nA: Tôi vừa hay có dư một vé, đến lúc đó cùng đi nhé.",
+            "en": "A: Do you want to go to tomorrow's match?\nB: Of course I do, but unfortunately the tickets sold out ages ago.\nA: As it happens I have a spare ticket. Let's go together.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "差不多",
+      "py": "chàbuduō",
+      "uses": [
+        {
+          "vi": "差不多 có thể được dùng làm tính từ và mang nghĩa là xấp xỉ, khác biệt rất nhỏ.",
+          "en": "As an adjective, 差不多 means 'about the same', with very little difference.",
+          "ex": [
+            {
+              "zh": "这两个电子词典看上去【差不多】，左边这个怎么这么贵？",
+              "vi": "Hai chiếc từ điển điện tử này trông na ná nhau, sao chiếc bên trái lại đắt thế?",
+              "en": "These two electronic dictionaries look about the same. Why is the one on the left so expensive?"
+            },
+            {
+              "zh": "他们俩是在国外旅游的时候认识的，性格【差不多】，所以很快就成了好朋友。",
+              "vi": "Hai người họ quen nhau khi đi du lịch nước ngoài, tính cách gần giống nhau nên rất nhanh đã thành bạn thân.",
+              "en": "The two of them met while travelling abroad. Their personalities are similar, so they quickly became good friends."
+            }
+          ]
+        },
+        {
+          "vi": "差不多 cũng có thể được dùng làm phó từ để diễn tả rằng các đối tượng được đề cập là xấp xỉ, gần như nhau xét về các mặt như mức độ, phạm vi, thời gian, khoảng cách, số lượng...",
+          "en": "As an adverb, 差不多 means 'almost, nearly', in terms of degree, scope, time, distance, quantity, etc.",
+          "ex": [
+            {
+              "zh": "A：班里同学你联系得怎么样了？来多少人？\nB：【差不多】一半儿吧。",
+              "vi": "A: Bạn liên lạc với các bạn trong lớp thế nào rồi? Bao nhiêu người đến?\nB: Khoảng một nửa.",
+              "en": "A: How's it going with contacting our classmates? How many are coming?\nB: About half, I think."
+            },
+            {
+              "zh": "女儿上中学后，个子长得特别快，现在都快一米七了，【差不多】跟我一样高了。",
+              "vi": "Con gái tôi từ khi lên trung học cao lên rất nhanh, giờ đã gần một mét bảy, cao gần bằng tôi rồi.",
+              "en": "My daughter has grown really fast since starting middle school. She's almost 1.7 m now, nearly as tall as me."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "差不多—几乎",
+        "uses": [
+          {
+            "vi": "Giống nhau: 差不多 và 几乎 đều là phó từ, được dùng để diễn tả rằng các đối tượng được đề cập là xấp xỉ, gần như nhau. Cả hai từ đều có thể làm trạng ngữ.",
+            "en": "Similarity: 差不多 and 几乎 are both adverbs meaning 'almost, nearly', and both can be adverbials.",
+            "ex": [
+              {
+                "zh": "他汉语说得很好，【差不多】/【几乎】跟中国人一样。",
+                "vi": "Anh ấy nói tiếng Trung rất giỏi, gần như người Trung Quốc vậy.",
+                "en": "He speaks Chinese very well, almost like a native speaker."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: Có thể dùng 差不多 ngay trước tính từ một âm tiết. Còn sau 几乎 phải thêm các từ ngữ khác phía trước hoặc phía sau tính từ.",
+            "en": "Difference 1: 差不多 can go directly before a one-syllable adjective. After 几乎, other words must be added before or after the adjective.",
+            "ex": [
+              {
+                "zh": "他们俩【差不多】高。",
+                "vi": "Hai người họ cao xấp xỉ nhau.",
+                "en": "The two of them are about the same height."
+              },
+              {
+                "zh": "他们俩【几乎】一样高。",
+                "vi": "Hai người họ cao gần như bằng nhau.",
+                "en": "The two of them are almost exactly the same height."
+              },
+              {
+                "zh": "他比我【几乎】高了一头。",
+                "vi": "Anh ấy cao hơn tôi gần một cái đầu.",
+                "en": "He's almost a head taller than me."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: 差不多 có thể được dùng trước từ chỉ số để diễn tả ý gần bằng số đó. 几乎 không dùng được như vậy.",
+            "en": "Difference 2: 差不多 can go before a number to mean 'approximately that number'. 几乎 cannot.",
+            "ex": [
+              {
+                "zh": "李老师【差不多】六十岁了。",
+                "vi": "Thầy Lý khoảng sáu mươi tuổi rồi.",
+                "en": "Teacher Li is about sixty."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 3: 差不多 còn là tính từ, có thể làm vị ngữ để chỉ các đối tượng rất giống nhau, không có nhiều khác biệt. 几乎 không dùng được như vậy.",
+            "en": "Difference 3: 差不多 is also an adjective and can be the predicate, meaning 'very similar'. 几乎 cannot.",
+            "ex": [
+              {
+                "zh": "姐妹俩性格【差不多】。",
+                "vi": "Hai chị em tính cách gần giống nhau.",
+                "en": "The two sisters have similar personalities."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 4: 几乎 có thể diễn tả một việc (ngoài ý muốn của người nói) suýt xảy ra nhưng cuối cùng không xảy ra. 差不多 không dùng được như vậy.",
+            "en": "Difference 4: 几乎 can mean something unwanted 'nearly happened' but in the end did not. 差不多 cannot.",
+            "ex": [
+              {
+                "zh": "这件事我【几乎】忘了告诉你了。",
+                "vi": "Chuyện này tôi suýt nữa thì quên nói với bạn.",
+                "en": "I almost forgot to tell you about this."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "这件事我们班____人人都知道。",
+              "key": "差不多 ✓ · 几乎 ✓",
+              "a": "这件事我们班【差不多】/【几乎】人人都知道。",
+              "vi": "Chuyện này lớp chúng tôi gần như ai cũng biết.",
+              "en": "Almost everyone in our class knows about this."
+            },
+            {
+              "q": "这次考试他们俩的成绩____。",
+              "key": "差不多 ✓ · 几乎 ✗ (làm vị ngữ)",
+              "a": "这次考试他们俩的成绩【差不多】。",
+              "vi": "Kỳ thi lần này thành tích của hai người họ xấp xỉ nhau.",
+              "en": "The two of them got about the same results in this exam."
+            },
+            {
+              "q": "今天早上起床晚了，上课____迟到了。",
+              "key": "差不多 ✗ · 几乎 ✓ (suýt xảy ra điều không mong muốn)",
+              "a": "今天早上起床晚了，上课【几乎】迟到了。",
+              "vi": "Sáng nay dậy muộn, suýt nữa thì đi học muộn.",
+              "en": "I got up late this morning and was nearly late for class."
+            },
+            {
+              "q": "我的房间跟这个教室____大。",
+              "key": "差不多 ✓ · 几乎 ✗ (trước tính từ đơn âm tiết)",
+              "a": "我的房间跟这个教室【差不多】大。",
+              "vi": "Phòng của tôi rộng xấp xỉ phòng học này.",
+              "en": "My room is about as big as this classroom."
+            },
+            {
+              "q": "要不是你给我打电话，我____忘了咱俩见面的事。",
+              "key": "差不多 ✗ · 几乎 ✓",
+              "a": "要不是你给我打电话，我【几乎】忘了咱俩见面的事。",
+              "vi": "Nếu bạn không gọi cho tôi thì tôi suýt quên mất chuyện hai ta gặp nhau.",
+              "en": "If you hadn't called me, I'd have nearly forgotten we were meeting."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成对话",
+        "items": [
+          {
+            "q": "A：照片中间这个男孩儿是你吗？\nB：对，左边这个是我哥哥。\nA：____。",
+            "hint": "差不多",
+            "a": "A：照片中间这个男孩儿是你吗？\nB：对，左边这个是我哥哥。\nA：【你们俩长得差不多，我都分不清了】。",
+            "vi": "A: Cậu bé ở giữa tấm ảnh là bạn à?\nB: Đúng, người bên trái là anh tôi.\nA: Hai người trông gần giống nhau, tôi chẳng phân biệt được.",
+            "en": "A: Is this boy in the middle of the photo you?\nB: Yes, and the one on the left is my brother.\nA: You two look so alike, I can't tell you apart.",
+            "sample": true
+          },
+          {
+            "q": "A：下个星期就要考试了，你复习得怎么样了？\nB：____。",
+            "hint": "差不多",
+            "a": "A：下个星期就要考试了，你复习得怎么样了？\nB：【差不多复习完了，还有两课没看】。",
+            "vi": "A: Tuần sau thi rồi, bạn ôn tập đến đâu rồi?\nB: Gần ôn xong rồi, còn hai bài chưa xem.",
+            "en": "A: The exam is next week. How's your revision going?\nB: I've almost finished. There are just two lessons left.",
+            "sample": true
+          },
+          {
+            "q": "A：你来中国多长时间了？\nB：____。",
+            "hint": "差不多",
+            "a": "A：你来中国多长时间了？\nB：【差不多两年了】。",
+            "vi": "A: Bạn đến Trung Quốc bao lâu rồi?\nB: Gần hai năm rồi.",
+            "en": "A: How long have you been in China?\nB: Almost two years.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "尽管",
+      "uses": [
+        {
+          "vi": "Liên từ 尽管 thường được dùng ở vế thứ nhất của câu phức để đưa ra một sự thật. Vế câu thứ hai cho biết kết quả (vốn không xảy ra trong tình huống thông thường), thường kết hợp với các từ ngữ biểu thị sự chuyển ý như 但是/可是/却/还是.",
+          "en": "The conjunction 尽管 (although, even though) usually opens the first clause and states a fact. The second clause gives a result that would not normally be expected, often with contrast words such as 但是/可是/却/还是.",
+          "ex": [
+            {
+              "zh": "【尽管】已经毕业这么多年，我们【还是】经常联系的。",
+              "vi": "Dù đã tốt nghiệp bao nhiêu năm nay nhưng chúng tôi vẫn thường xuyên liên lạc.",
+              "en": "Even though we graduated so many years ago, we still keep in touch regularly."
+            },
+            {
+              "zh": "男朋友送给我的这份礼物【尽管】不贵，【但却】让我非常感动。",
+              "vi": "Món quà bạn trai tặng tôi tuy không đắt nhưng lại khiến tôi vô cùng cảm động.",
+              "en": "Although the present my boyfriend gave me wasn't expensive, it really touched me."
+            },
+            {
+              "zh": "叔叔最大的爱好就是打篮球，大学时他还多次参加校篮球比赛。【尽管】现在工作很忙，【可】到了周末他【还是】会跟朋友去打球。",
+              "vi": "Sở thích lớn nhất của chú tôi là chơi bóng rổ, hồi đại học chú còn nhiều lần tham gia giải bóng rổ của trường. Tuy bây giờ công việc rất bận nhưng đến cuối tuần chú vẫn đi chơi bóng với bạn bè.",
+              "en": "My uncle's biggest hobby is basketball; in college he played in the school tournament many times. Even though he's very busy with work now, he still goes to play with friends at weekends."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "他尽管写得比较慢，____。",
+            "hint": "但",
+            "a": "他尽管写得比较慢，【但写得很认真】。",
+            "vi": "Mặc dù anh ấy viết khá chậm nhưng viết rất cẩn thận.",
+            "en": "Although he writes rather slowly, he writes very carefully.",
+            "sample": true
+          },
+          {
+            "q": "A：你们俩才认识不到一个月吧？\nB：____。",
+            "hint": "尽管",
+            "a": "A：你们俩才认识不到一个月吧？\nB：【尽管我们认识的时间不长，但是已经成了好朋友】。",
+            "vi": "A: Hai người mới quen nhau chưa được một tháng nhỉ?\nB: Mặc dù chúng tôi quen nhau chưa lâu nhưng đã trở thành bạn thân rồi.",
+            "en": "A: You two have known each other for less than a month, right?\nB: Although we haven't known each other long, we've already become good friends.",
+            "sample": true
+          },
+          {
+            "q": "A：你对这儿的生活习惯了吗？\nB：____。",
+            "hint": "尽管",
+            "a": "A：你对这儿的生活习惯了吗？\nB：【尽管来了半年了，我还是不太习惯】。",
+            "vi": "A: Bạn đã quen với cuộc sống ở đây chưa?\nB: Mặc dù đến nửa năm rồi nhưng tôi vẫn chưa quen lắm.",
+            "en": "A: Have you got used to life here?\nB: Even though I've been here six months, I'm still not quite used to it.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "却",
+      "uses": [
+        {
+          "vi": "Phó từ 却 được dùng sau chủ ngữ, trước động từ để chỉ sự chuyển ý với ngữ khí tương đối nhẹ nhàng.",
+          "en": "The adverb 却 (but, yet) goes after the subject and before the verb to express a contrast, in a fairly mild tone.",
+          "ex": [
+            {
+              "zh": "有人觉得有房子和汽车就是幸福，有人【却】认为找到真正的爱情才是幸福。",
+              "vi": "Có người cho rằng có nhà có xe là hạnh phúc, có người lại cho rằng tìm được tình yêu đích thực mới là hạnh phúc.",
+              "en": "Some people think having a house and a car is happiness, while others believe only finding true love is."
+            },
+            {
+              "zh": "一个脾气不好的人虽然不一定让人讨厌，但是【却】很难跟人交朋友。",
+              "vi": "Một người tính khí không tốt tuy chưa chắc đã khiến người khác ghét, nhưng lại rất khó kết bạn.",
+              "en": "A bad-tempered person isn't necessarily disliked, yet they find it hard to make friends."
+            },
+            {
+              "zh": "现在很多人虽然住在同一个楼里，但是【却】从来没说过话。",
+              "vi": "Bây giờ nhiều người tuy sống cùng một tòa nhà nhưng lại chưa từng nói chuyện với nhau.",
+              "en": "Nowadays many people live in the same building, yet have never spoken to each other."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "他喜欢锻炼身体，他弟弟____。",
+            "hint": "却",
+            "a": "他喜欢锻炼身体，他弟弟【却一点儿也不喜欢运动】。",
+            "vi": "Anh ấy thích rèn luyện thân thể, em trai anh ấy thì lại chẳng thích vận động chút nào.",
+            "en": "He loves keeping fit, but his younger brother doesn't like exercise at all.",
+            "sample": true
+          },
+          {
+            "q": "虽然她俩是姐妹，____。",
+            "hint": "却",
+            "a": "虽然她俩是姐妹，【性格却很不一样】。",
+            "vi": "Tuy hai người là chị em nhưng tính cách lại rất khác nhau.",
+            "en": "Although the two of them are sisters, their personalities are very different.",
+            "sample": true
+          },
+          {
+            "q": "____；有的人吃得很少，但不瘦。",
+            "hint": "却",
+            "a": "【有的人吃得很多，却一点儿也不胖】；有的人吃得很少，但不瘦。",
+            "vi": "Có người ăn rất nhiều mà lại chẳng béo chút nào; có người ăn rất ít mà không gầy.",
+            "en": "Some people eat a lot but don't get fat at all; some eat very little but aren't thin.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "而",
+      "uses": [
+        {
+          "vi": "Liên từ 而 được dùng trong câu phức để nối hai vế câu, có thể biểu thị quan hệ đồng đẳng.",
+          "en": "The conjunction 而 links two clauses in a complex sentence. It can show a coordinate (parallel) relation: 'and'.",
+          "ex": [
+            {
+              "zh": "“明”字，左边的“日”意思是太阳，【而】右边的“月”意思是月亮。",
+              "vi": "Trong chữ “明”, chữ “日” bên trái nghĩa là mặt trời, còn chữ “月” bên phải nghĩa là mặt trăng.",
+              "en": "In the character “明”, the “日” on the left means sun, and the “月” on the right means moon."
+            },
+            {
+              "zh": "结婚前，我们都要清楚自己想要的是什么，【而】不要被别人对幸福的看法影响。",
+              "vi": "Trước khi kết hôn, chúng ta đều phải biết rõ mình muốn gì, chứ đừng để quan niệm về hạnh phúc của người khác chi phối.",
+              "en": "Before getting married, we should all be clear about what we want, and not be swayed by other people's ideas of happiness."
+            }
+          ]
+        },
+        {
+          "vi": "而 cũng có thể được dùng để biểu thị quan hệ chuyển ý.",
+          "en": "而 can also express a contrast: 'whereas, but'.",
+          "ex": [
+            {
+              "zh": "在工作中遇到了问题，男人回到家不喜欢跟妻子说，【而】女人喜欢跟丈夫说。",
+              "vi": "Gặp vấn đề trong công việc, đàn ông về nhà không thích kể với vợ, còn phụ nữ lại thích kể với chồng.",
+              "en": "When they run into problems at work, men don't like to talk about it with their wives, whereas women like to tell their husbands."
+            },
+            {
+              "zh": "有些人觉得朋友就是能和自己一起快乐的人，【而】我的理解是：当你遇到困难的时候，真正的朋友会站出来，及时给你帮助。",
+              "vi": "Có người cho rằng bạn bè là người có thể cùng mình vui vẻ, còn tôi thì hiểu là: khi bạn gặp khó khăn, người bạn thật sự sẽ đứng ra giúp bạn kịp thời.",
+              "en": "Some people think a friend is someone to have fun with, but as I see it, when you're in trouble, a true friend will step up and help you right away."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "现在越来越多的年轻人愿意旅行结婚，____。",
+            "hint": "而",
+            "a": "现在越来越多的年轻人愿意旅行结婚，【而不愿意在饭店请很多客人】。",
+            "vi": "Bây giờ ngày càng nhiều người trẻ muốn kết hôn bằng một chuyến du lịch, mà không muốn mời nhiều khách ở nhà hàng.",
+            "en": "More and more young people now prefer a honeymoon trip instead of a wedding banquet with lots of guests.",
+            "sample": true
+          },
+          {
+            "q": "老年人喜欢往回看，想一想过去的事情；____。",
+            "hint": "而",
+            "a": "老年人喜欢往回看，想一想过去的事情；【而年轻人喜欢往前看，想一想将来的事情】。",
+            "vi": "Người già thích nhìn lại, nghĩ về chuyện quá khứ; còn người trẻ thích nhìn về phía trước, nghĩ về chuyện tương lai.",
+            "en": "Old people like to look back and think about the past, while young people like to look ahead and think about the future.",
+            "sample": true
+          },
+          {
+            "q": "有的地方一年四季都可以见到雪，____。",
+            "hint": "而",
+            "a": "有的地方一年四季都可以见到雪，【而有的地方从来不下雪】。",
+            "vi": "Có nơi bốn mùa trong năm đều thấy tuyết, còn có nơi chưa bao giờ có tuyết rơi.",
+            "en": "In some places you can see snow all year round, while in others it never snows.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "马克的语气：\n我叫马克，我来中国快一年了。……",
+          "label": "课文1",
+          "a": "我叫马克，我来中国快一年了。开始有点儿不习惯，后来就慢慢适应了。最近我还交了一个中国朋友，我们是在图书馆认识的。平时我们常常一起看书、逛街、踢足球，有时候他还给我发一些幽默短信。",
+          "vi": "Tôi tên là Mark, tôi đến Trung Quốc sắp được một năm. Lúc đầu hơi không quen, sau đó dần dần thích nghi. Gần đây tôi còn kết bạn với một người Trung Quốc, chúng tôi quen nhau ở thư viện. Bình thường chúng tôi hay cùng đọc sách, dạo phố, đá bóng, có lúc cậu ấy còn gửi cho tôi tin nhắn hài hước.",
+          "en": "My name is Mark and I've been in China almost a year. At first I wasn't used to it, but I gradually adapted. Recently I made a Chinese friend; we met in the library. We often read, go shopping and play football together, and sometimes he sends me funny text messages.",
+          "sample": true
+        },
+        {
+          "q": "小林的语气：\n小李打电话告诉我星期天同学聚会，……",
+          "label": "课文2",
+          "a": "小李打电话告诉我星期天同学聚会，差不多一半儿的同学都会来，张远还专门从国外飞回来。毕业都快十年了，我真想大家。今天早上我在地铁站遇到了王静，小李让我跟她联系一下，请她一起来参加。聚会在学校门口那个饭店，星期天六点半。",
+          "vi": "Tiểu Lý gọi điện báo chủ nhật họp lớp, khoảng một nửa số bạn sẽ đến, Trương Viễn còn đặc biệt bay từ nước ngoài về. Tốt nghiệp sắp mười năm rồi, tôi nhớ mọi người lắm. Sáng nay tôi gặp Vương Tịnh ở ga tàu điện ngầm, Tiểu Lý bảo tôi liên hệ mời cô ấy cùng đến. Buổi họp ở nhà hàng trước cổng trường, sáu rưỡi chủ nhật.",
+          "en": "Xiao Li called to tell me about the class reunion on Sunday. About half our classmates are coming, and Zhang Yuan is even flying back from abroad. It's been almost ten years since graduation and I really miss everyone. This morning I ran into Wang Jing at the subway station, and Xiao Li asked me to invite her too. It's at the restaurant by the school gate, at half past six on Sunday.",
+          "sample": true
+        },
+        {
+          "q": "孙月的语气：\n今天我看了王静上大学时的照片，……",
+          "label": "课文3",
+          "a": "今天我看了王静上大学时的照片，她说一看到这张照片，就想起过去那段快乐的日子。尽管已经毕业这么多年，她和她的好朋友还是经常联系。我真羡慕她！我上大学时最好的朋友去了南方工作，我们已经好久没联系了，我想一会儿就给她打个电话。",
+          "vi": "Hôm nay tôi xem ảnh hồi đại học của Vương Tịnh, cô ấy nói cứ nhìn thấy tấm ảnh là nhớ lại quãng thời gian vui vẻ ngày trước. Dù đã tốt nghiệp nhiều năm, cô ấy và bạn thân vẫn thường xuyên liên lạc. Tôi ngưỡng mộ cô ấy quá! Bạn thân nhất hồi đại học của tôi đi làm ở miền Nam, lâu lắm rồi chúng tôi không liên lạc, lát nữa tôi sẽ gọi cho cô ấy.",
+          "en": "Today I looked at Wang Jing's university photos. She said whenever she sees them, she remembers those happy days. Even after all these years, she and her good friend are still often in touch. I really envy her! My best friend from university went to work in the south and we haven't been in touch for ages. I'm going to call her in a moment.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "周围",
+        "理解",
+        "无聊",
+        "适应",
+        "镜子"
+      ],
+      "items": [
+        {
+          "q": "每个人对幸福都有不同的____。",
+          "key": "理解",
+          "a": "每个人对幸福都有不同的【理解】。",
+          "vi": "Mỗi người đều có cách hiểu khác nhau về hạnh phúc.",
+          "en": "Everyone has a different understanding of happiness."
+        },
+        {
+          "q": "我喜欢现在住的地方，很方便。不像以前住的地方，____一个超市都没有。",
+          "key": "周围",
+          "a": "我喜欢现在住的地方，很方便。不像以前住的地方，【周围】一个超市都没有。",
+          "vi": "Tôi thích chỗ đang ở bây giờ, rất tiện. Không như chỗ ở trước đây, xung quanh chẳng có lấy một siêu thị.",
+          "en": "I like where I live now; it's very convenient. Not like where I used to live, which didn't have a single supermarket nearby."
+        },
+        {
+          "q": "生活就像____，你对它笑，它也对你笑；如果你对它哭，它也对你哭。",
+          "key": "镜子",
+          "a": "生活就像【镜子】，你对它笑，它也对你笑；如果你对它哭，它也对你哭。",
+          "vi": "Cuộc sống giống như tấm gương, bạn cười với nó, nó cũng cười với bạn; nếu bạn khóc với nó, nó cũng khóc với bạn.",
+          "en": "Life is like a mirror: smile at it and it smiles back; cry at it and it cries back."
+        },
+        {
+          "q": "周末总是一个人在家太____了，你应该找朋友出去逛逛街、看看电影、吃吃饭。",
+          "key": "无聊",
+          "a": "周末总是一个人在家太【无聊】了，你应该找朋友出去逛逛街、看看电影、吃吃饭。",
+          "vi": "Cuối tuần lúc nào cũng ở nhà một mình thì chán quá, bạn nên rủ bạn bè ra ngoài dạo phố, xem phim, ăn uống.",
+          "en": "Always staying home alone at the weekend is too boring. You should go out with friends, wander round the shops, see a film, have a meal."
+        },
+        {
+          "q": "我刚来这儿的时候很不____，后来慢慢习惯了，也交到了很多朋友，我越来越喜欢这儿的生活了。",
+          "key": "适应",
+          "a": "我刚来这儿的时候很不【适应】，后来慢慢习惯了，也交到了很多朋友，我越来越喜欢这儿的生活了。",
+          "vi": "Lúc mới đến đây tôi rất không thích nghi được, sau đó dần dần quen, cũng kết được nhiều bạn, tôi ngày càng thích cuộc sống ở đây.",
+          "en": "When I first came here, I found it hard to adapt. Later I gradually got used to it and made lots of friends, and I like life here more and more."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "好像",
+        "麻烦",
+        "联系",
+        "平时",
+        "陪"
+      ],
+      "items": [
+        {
+          "q": "A：上车吧，我送你。\nB：不____你了，我坐出租车回去。",
+          "key": "麻烦",
+          "a": "A：上车吧，我送你。\nB：不【麻烦】你了，我坐出租车回去。",
+          "vi": "A: Lên xe đi, tôi đưa bạn về.\nB: Không phiền bạn đâu, tôi đi taxi về.",
+          "en": "A: Get in, I'll give you a lift.\nB: I don't want to trouble you. I'll take a taxi."
+        },
+        {
+          "q": "A：周末的同学聚会你参加吗？\nB：当然，有几个同学毕业后就没____了，正好借这个机会见见。",
+          "key": "联系",
+          "a": "A：周末的同学聚会你参加吗？\nB：当然，有几个同学毕业后就没【联系】了，正好借这个机会见见。",
+          "vi": "A: Buổi họp lớp cuối tuần bạn có tham gia không?\nB: Đương nhiên, có mấy bạn từ sau khi tốt nghiệp không liên lạc, vừa hay nhân dịp này gặp nhau.",
+          "en": "A: Are you going to the class reunion at the weekend?\nB: Of course. I haven't been in touch with a few classmates since graduation, so it's a good chance to see them."
+        },
+        {
+          "q": "A：都九点了，你怎么还不起床？\nB：昨晚看足球比赛看到两点半，这不是周六吗？____哪能睡到九点？",
+          "key": "平时",
+          "a": "A：都九点了，你怎么还不起床？\nB：昨晚看足球比赛看到两点半，这不是周六吗？【平时】哪能睡到九点？",
+          "vi": "A: Chín giờ rồi, sao bạn vẫn chưa dậy?\nB: Tối qua xem bóng đá đến hai rưỡi, hôm nay chẳng phải thứ bảy sao? Ngày thường làm sao ngủ được đến chín giờ?",
+          "en": "A: It's nine o'clock. Why aren't you up yet?\nB: I watched football until half past two last night. It's Saturday, isn't it? When else could I sleep until nine?"
+        },
+        {
+          "q": "A：小李，那个女孩儿是谁啊？你认识？\nB：应该不认识，但是____在哪儿见过。",
+          "key": "好像",
+          "a": "A：小李，那个女孩儿是谁啊？你认识？\nB：应该不认识，但是【好像】在哪儿见过。",
+          "vi": "A: Tiểu Lý, cô gái kia là ai thế? Bạn quen à?\nB: Chắc là không quen, nhưng hình như đã gặp ở đâu đó.",
+          "en": "A: Xiao Li, who's that girl? Do you know her?\nB: I don't think so, but I seem to have seen her somewhere."
+        },
+        {
+          "q": "A：经理，我丈夫生病了。我想请一天假{jià}，____他去医院看看。\nB：好，你先把家里照顾好，工作的事别担心。",
+          "key": "陪",
+          "a": "A：经理，我丈夫生病了。我想请一天假{jià}，【陪】他去医院看看。\nB：好，你先把家里照顾好，工作的事别担心。",
+          "vi": "A: Thưa giám đốc, chồng tôi bị ốm. Tôi muốn xin nghỉ một ngày để đưa anh ấy đi bệnh viện.\nB: Được, chị cứ lo việc nhà trước đã, đừng lo chuyện công việc.",
+          "en": "A: Sir, my husband is ill. I'd like to take a day off to take him to the hospital.\nB: Fine. Look after things at home first, and don't worry about work."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 系",
+    "en": "Words sharing a character: 系",
+    "words": [
+      {
+        "zh": "联系",
+        "py": "liánxì",
+        "vi": "liên hệ, liên lạc",
+        "en": "to contact"
+      },
+      {
+        "zh": "关系",
+        "py": "guānxi",
+        "vi": "quan hệ",
+        "en": "relationship"
+      },
+      {
+        "zh": "没关系",
+        "py": "méi guānxi",
+        "vi": "không sao, không vấn đề gì",
+        "en": "it doesn't matter"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "A：喂，喂，你在哪儿呢？怎么听不清楚你说话？\nB：我现在在火车站，人太多了，过会儿我再跟你【联系】吧。",
+        "vi": "A: A lô, a lô, bạn đang ở đâu thế? Sao không nghe rõ bạn nói gì?\nB: Tôi đang ở ga tàu, đông người quá, lát nữa tôi liên lạc lại với bạn nhé.",
+        "en": "A: Hello? Hello? Where are you? Why can't I hear you clearly?\nB: I'm at the train station and it's really crowded. I'll get back to you later."
+      },
+      {
+        "zh": "A：你和她【关系】那么好，能帮我介绍一下吗？\nB：没问题，下次我们学校开舞会时我叫你来。",
+        "vi": "A: Bạn với cô ấy thân thế, có thể giới thiệu giúp tôi không?\nB: Không vấn đề gì, lần sau trường tôi tổ chức dạ hội tôi sẽ gọi bạn đến.",
+        "en": "A: You get on so well with her. Could you introduce me?\nB: No problem. I'll invite you next time our school has a dance."
+      },
+      {
+        "zh": "A：你怎么了？是不是太累了？\nB：我可能有点儿发烧，【没关系】，休息一下就好了。",
+        "vi": "A: Bạn sao thế? Có phải mệt quá không?\nB: Tôi có lẽ hơi sốt, không sao đâu, nghỉ một chút là khỏe.",
+        "en": "A: What's wrong? Are you too tired?\nB: I might have a bit of a temperature. It's nothing, I'll be fine after a rest."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "联系",
+        "关系",
+        "没关系"
+      ],
+      "items": [
+        {
+          "q": "A：奇怪，我记得这条街上有一个咖啡馆的。\nB：____，我们找个地方坐坐就行。",
+          "key": "没关系",
+          "a": "A：奇怪，我记得这条街上有一个咖啡馆的。\nB：【没关系】，我们找个地方坐坐就行。",
+          "vi": "A: Lạ thật, tôi nhớ con phố này có một quán cà phê mà.\nB: Không sao, chúng ta tìm chỗ nào ngồi một lát là được.",
+          "en": "A: That's strange. I remember there being a café on this street.\nB: Never mind, we'll just find somewhere to sit."
+        },
+        {
+          "q": "A：你好，请问小李在家吗？\nB：他不在家，他游泳去了。\nA：好的，那我过一会儿再____他吧，谢谢，再见。",
+          "key": "联系",
+          "a": "A：你好，请问小李在家吗？\nB：他不在家，他游泳去了。\nA：好的，那我过一会儿再【联系】他吧，谢谢，再见。",
+          "vi": "A: Xin chào, cho hỏi Tiểu Lý có nhà không?\nB: Cậu ấy không có nhà, đi bơi rồi.\nA: Vâng, vậy lát nữa tôi liên lạc lại với cậu ấy, cảm ơn, tạm biệt.",
+          "en": "A: Hello, is Xiao Li home?\nB: No, he's gone swimming.\nA: OK, I'll get in touch with him later then. Thanks, bye."
+        },
+        {
+          "q": "A：你们两个的____很不错？\nB：是，在我们班里，她是我最好的朋友。",
+          "key": "关系",
+          "a": "A：你们两个的【关系】很不错？\nB：是，在我们班里，她是我最好的朋友。",
+          "vi": "A: Quan hệ giữa hai bạn rất tốt à?\nB: Đúng vậy, trong lớp chúng tôi, cô ấy là bạn thân nhất của tôi.",
+          "en": "A: You two get on really well?\nB: Yes. She's my best friend in our class."
+        }
+      ]
+    }
+  }
+}

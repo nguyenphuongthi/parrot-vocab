@@ -1,0 +1,965 @@
+{
+  "n": 25,
+  "zh": "给自己加满水",
+  "vi": "Bơm nước vào tàu",
+  "en": "Filling yourself with water",
+  "texts": [
+    {
+      "title": "给自己加满水",
+      "paras": [
+        {
+          "zh": "有一位经验丰富的老船长{zhǎng}，一次返航中，天气恶劣，他们的船遇到了可怕的巨大风浪。正当水手们慌张得不知如何是好时，老船长{zhǎng}命令水手们立刻打开货舱，使劲{jìn}儿{r}朝里面放水。",
+          "vi": "Có một thuyền trưởng già giàu kinh nghiệm, trong một lần trở về, thời tiết rất xấu, con tàu của họ gặp phải sóng gió to lớn đáng sợ. Đúng lúc các thủy thủ đang hoảng hốt không biết làm thế nào thì thuyền trưởng già ra lệnh cho họ lập tức mở khoang hàng, ra sức bơm nước vào trong.",
+          "en": "There was once an experienced old captain. On one return voyage, the weather was terrible and their ship ran into huge, frightening waves. Just as the sailors were panicking and didn't know what to do, the old captain ordered them to open the cargo hold at once and pump water into it as fast as they could."
+        },
+        {
+          "zh": "“船长{zhǎng}简直是疯了，这样做只会增加船的压力，船就会下沉得更快，这不是找死吗？”一个年轻的水手骂道。",
+          "vi": "“Thuyền trưởng đúng là điên rồi, làm như vậy chỉ làm tăng áp lực cho con tàu, tàu sẽ chìm nhanh hơn, thế chẳng phải là tìm đến cái chết sao?” Một thủy thủ trẻ chửi.",
+          "en": "“The captain has simply gone mad! This will only put more pressure on the ship and make it sink faster. Isn't he asking for death?” cursed a young sailor."
+        },
+        {
+          "zh": "看着{zhe}船长{zhǎng}严肃的表情，水手们还是照做了。随着货舱里的水位越升越高，船一点一点地{de}下沉，狂风巨浪依然猛烈，对船的威胁却减小了，船也渐渐取得了平衡。",
+          "vi": "Nhìn vẻ mặt nghiêm nghị của thuyền trưởng, các thủy thủ vẫn làm theo. Theo mực nước trong khoang hàng ngày càng dâng cao, con tàu từng chút một chìm xuống, cuồng phong sóng dữ vẫn mãnh liệt, nhưng mối đe dọa đối với con tàu lại giảm đi, con tàu cũng dần dần lấy lại được thăng bằng.",
+          "en": "Seeing the serious look on the captain's face, the sailors did as they were told. As the water in the hold rose higher and higher, the ship sank lower bit by bit. The gale and the huge waves were as fierce as ever, but the threat to the ship lessened, and gradually it regained its balance."
+        },
+        {
+          "zh": "船长{zhǎng}望着{zhe}松了一口气的水手们说：“几万吨的钢铁巨轮很少有被打翻的，被打翻的常常是根基很轻的小船。船在有一定重量的时候是最安全的，在空的时候则是最危险的。”",
+          "vi": "Thuyền trưởng nhìn các thủy thủ vừa thở phào nhẹ nhõm, nói: “Những con tàu thép khổng lồ nặng mấy vạn tấn rất hiếm khi bị lật, những chiếc bị lật thường là thuyền nhỏ có nền móng nhẹ. Tàu thuyền khi có một trọng lượng nhất định là an toàn nhất, còn khi trống rỗng thì lại nguy hiểm nhất.”",
+          "en": "Looking at the relieved sailors, the captain said: “Giant steel ships weighing tens of thousands of tons are rarely capsized; the ones that capsize are usually small boats with light keels. A ship is safest when it carries a certain weight, and most dangerous when it's empty.”"
+        },
+        {
+          "zh": "另一个相似的故事发生在某一著名风景区，那里有一段被当地人称为{wéi}“鬼谷”的最危险的路段，山路非常窄，两边是万丈深渊。每当导游们带队来这里游览时，一定要让游客们背{bēi}点或者拿点什么东西。",
+          "vi": "Một câu chuyện tương tự khác xảy ra ở một khu thắng cảnh nổi tiếng nọ. Ở đó có một đoạn đường nguy hiểm nhất được người dân địa phương gọi là “Thung lũng ma”, đường núi rất hẹp, hai bên là vực sâu muôn trượng. Mỗi khi các hướng dẫn viên dẫn đoàn đến đây tham quan, nhất định bắt du khách phải đeo hoặc cầm theo thứ gì đó.",
+          "en": "A similar story took place at a famous scenic spot, where there's a stretch of path that locals call “Ghost Valley”, the most dangerous section of all: the mountain path is very narrow, with sheer drops on both sides. Whenever tour guides bring groups here, they always make the tourists carry something on their backs or in their hands."
+        },
+        {
+          "zh": "“这么危险的地方，我不拿东西两腿都发抖，再负重前行，那不是更容易摔倒吗？”一位妇女不解地{de}问。",
+          "vi": "“Nơi nguy hiểm thế này, tôi không cầm gì mà hai chân đã run rồi, còn mang vác nặng mà đi nữa, chẳng phải càng dễ ngã hơn sao?” Một người phụ nữ khó hiểu hỏi.",
+          "en": "“In a place this dangerous my legs shake even when I'm not carrying anything. If I have to walk with a load, won't I be even more likely to fall?” a woman asked, puzzled."
+        },
+        {
+          "zh": "导游小姐解释道：“这里以前发生过好几起意外，都是迷路的游客在丝毫没有感觉到压力的情况下，一不小心滚下去的。当地人每天都从这条路上背{bēi}着{zhe}东西来来往往，却从来没人出事。假如你感觉到了有风险，谨慎地{de}负重前行，反而会更安全。”",
+          "vi": "Cô hướng dẫn viên giải thích: “Trước đây ở đây từng xảy ra mấy vụ tai nạn, đều là du khách bị lạc đường, trong lúc không hề cảm thấy chút áp lực nào, sơ ý một cái là lăn xuống dưới. Người dân địa phương ngày nào cũng mang vác đồ đạc đi lại trên con đường này, nhưng chưa bao giờ có ai gặp chuyện. Nếu bạn cảm thấy có nguy hiểm, cẩn thận mang vác mà đi, ngược lại sẽ an toàn hơn.”",
+          "en": "The guide explained: “There have been several accidents here. In every case, tourists who'd lost their way and felt no pressure at all slipped and rolled over the edge. Local people go back and forth along this path every day carrying loads, yet nobody has ever had an accident. If you feel there's a risk and walk carefully with a load, you'll actually be safer.”"
+        },
+        {
+          "zh": "这就是“压力效应”。那些胸怀理想、肩上有责任感的人，才能承受住压力，从历史的风雨中走过“鬼谷”；而那些没有理想，没有一点压力，做一天和尚{shang}撞一天钟的人，就像一艘风暴中的空船，往往一场人生的狂风巨浪便会把他们彻底地{de}打翻在地。",
+          "vi": "Đây chính là “hiệu ứng áp lực”. Chỉ những người ôm ấp lý tưởng, trên vai mang tinh thần trách nhiệm mới có thể chịu được áp lực, vượt qua “Thung lũng ma” trong mưa gió của lịch sử; còn những người không có lý tưởng, không có chút áp lực nào, sống kiểu “làm sư ngày nào gõ chuông ngày ấy”, thì giống như con tàu trống giữa cơn bão, thường chỉ một trận sóng gió dữ dội của cuộc đời là đã đánh gục họ hoàn toàn.",
+          "en": "This is the “pressure effect”. Only those who cherish ideals and carry a sense of responsibility on their shoulders can bear pressure and make it through the “Ghost Valley” of history's storms. Those with no ideals and no pressure at all, who just go through the motions day by day, are like an empty ship in a storm: often a single violent gale in life is enough to knock them flat."
+        }
+      ],
+      "source": "改编自《小故事大道理》，作者：汪胜战",
+      "words": [
+        {
+          "zh": "返航",
+          "py": "fǎnháng",
+          "pos": "đgt.",
+          "vi": "trở về điểm xuất phát (tàu thuyền, máy bay…)",
+          "en": "to return (to port or base)",
+          "x": true
+        },
+        {
+          "zh": "恶劣",
+          "py": "èliè",
+          "pos": "tt.",
+          "vi": "tồi tệ, rất xấu",
+          "en": "bad, harsh, vile"
+        },
+        {
+          "zh": "可怕",
+          "py": "kěpà",
+          "pos": "tt.",
+          "vi": "đáng sợ, khủng khiếp",
+          "en": "terrible, frightening"
+        },
+        {
+          "zh": "风浪",
+          "py": "fēnglàng",
+          "pos": "dt.",
+          "vi": "sóng gió",
+          "en": "wind and waves",
+          "x": true
+        },
+        {
+          "zh": "慌张",
+          "py": "huāngzhāng",
+          "pos": "tt.",
+          "vi": "luống cuống, hoảng hốt",
+          "en": "flustered, panicky"
+        },
+        {
+          "zh": "舱",
+          "py": "cāng",
+          "pos": "dt.",
+          "vi": "khoang, buồng (tàu, máy bay)",
+          "en": "cabin, hold",
+          "x": true
+        },
+        {
+          "zh": "使劲（儿）",
+          "py": "shǐ jìn (r)",
+          "pos": "đgt.",
+          "vi": "cố gắng, gắng sức",
+          "en": "to exert oneself, to put effort into"
+        },
+        {
+          "zh": "朝",
+          "py": "cháo",
+          "pos": "giới.",
+          "vi": "về phía, hướng về",
+          "en": "towards"
+        },
+        {
+          "zh": "简直",
+          "py": "jiǎnzhí",
+          "pos": "phó.",
+          "vi": "quả là, thật là, đúng là",
+          "en": "simply, virtually"
+        },
+        {
+          "zh": "沉",
+          "py": "chén",
+          "pos": "đgt.",
+          "vi": "chìm, lặn",
+          "en": "to sink",
+          "x": true
+        },
+        {
+          "zh": "严肃",
+          "py": "yánsù",
+          "pos": "tt.",
+          "vi": "nghiêm túc, nghiêm nghị, trang nghiêm",
+          "en": "serious, solemn"
+        },
+        {
+          "zh": "猛烈",
+          "py": "měngliè",
+          "pos": "tt.",
+          "vi": "mạnh, dữ dội",
+          "en": "fierce, violent",
+          "x": true
+        },
+        {
+          "zh": "狂",
+          "py": "kuáng",
+          "pos": "tt.",
+          "vi": "mạnh, điên cuồng",
+          "en": "violent, wild"
+        },
+        {
+          "zh": "威胁",
+          "py": "wēixié",
+          "pos": "đgt.",
+          "vi": "uy hiếp, đe dọa",
+          "en": "to threaten"
+        },
+        {
+          "zh": "平衡",
+          "py": "pínghéng",
+          "pos": "tt.",
+          "vi": "thăng bằng, cân bằng",
+          "en": "balanced"
+        },
+        {
+          "zh": "吨",
+          "py": "dūn",
+          "pos": "lượng.",
+          "vi": "tấn",
+          "en": "ton"
+        },
+        {
+          "zh": "钢铁",
+          "py": "gāngtiě",
+          "pos": "dt.",
+          "vi": "sắt thép",
+          "en": "steel"
+        },
+        {
+          "zh": "根基",
+          "py": "gēnjī",
+          "pos": "dt.",
+          "vi": "nền tảng, nền móng",
+          "en": "foundation, base",
+          "x": true
+        },
+        {
+          "zh": "重量",
+          "py": "zhòngliàng",
+          "pos": "dt.",
+          "vi": "trọng lượng",
+          "en": "weight"
+        },
+        {
+          "zh": "相似",
+          "py": "xiāngsì",
+          "pos": "tt.",
+          "vi": "tương tự, giống nhau",
+          "en": "similar"
+        },
+        {
+          "zh": "风景",
+          "py": "fēngjǐng",
+          "pos": "dt.",
+          "vi": "phong cảnh, cảnh vật",
+          "en": "scenery"
+        },
+        {
+          "zh": "窄",
+          "py": "zhǎi",
+          "pos": "tt.",
+          "vi": "chật, hẹp",
+          "en": "narrow"
+        },
+        {
+          "zh": "万丈",
+          "py": "wànzhàng",
+          "pos": "số lượng.",
+          "vi": "cao ngất, sâu thẳm, muôn trượng",
+          "en": "extremely high or deep",
+          "x": true
+        },
+        {
+          "zh": "深渊",
+          "py": "shēnyuān",
+          "pos": "dt.",
+          "vi": "vực sâu, vực thẳm",
+          "en": "abyss",
+          "x": true
+        },
+        {
+          "zh": "游览",
+          "py": "yóulǎn",
+          "pos": "đgt.",
+          "vi": "tham quan, dạo chơi",
+          "en": "to tour, to go sightseeing"
+        },
+        {
+          "zh": "发抖",
+          "py": "fādǒu",
+          "pos": "đgt.",
+          "vi": "run, run rẩy",
+          "en": "to shiver, to tremble"
+        },
+        {
+          "zh": "负重",
+          "py": "fùzhòng",
+          "pos": "đgt.",
+          "vi": "vác nặng, mang vật nặng",
+          "en": "to carry a heavy load",
+          "x": true
+        },
+        {
+          "zh": "摔倒",
+          "py": "shuāidǎo",
+          "pos": "đgt.",
+          "vi": "ngã, té",
+          "en": "to fall over"
+        },
+        {
+          "zh": "妇女",
+          "py": "fùnǚ",
+          "pos": "dt.",
+          "vi": "phụ nữ",
+          "en": "woman"
+        },
+        {
+          "zh": "起",
+          "py": "qǐ",
+          "pos": "lượng.",
+          "vi": "vụ (việc)",
+          "en": "(measure word for incidents)"
+        },
+        {
+          "zh": "丝毫",
+          "py": "sīháo",
+          "pos": "tt.",
+          "vi": "chút nào, tí nào",
+          "en": "the slightest, at all"
+        },
+        {
+          "zh": "滚",
+          "py": "gǔn",
+          "pos": "đgt.",
+          "vi": "lăn, lộn",
+          "en": "to roll"
+        },
+        {
+          "zh": "风险",
+          "py": "fēngxiǎn",
+          "pos": "dt.",
+          "vi": "sự mạo hiểm, sự nguy hiểm, rủi ro",
+          "en": "risk"
+        },
+        {
+          "zh": "谨慎",
+          "py": "jǐnshèn",
+          "pos": "tt.",
+          "vi": "cẩn thận, thận trọng",
+          "en": "cautious, careful"
+        },
+        {
+          "zh": "效应",
+          "py": "xiàoyìng",
+          "pos": "dt.",
+          "vi": "tác động, ảnh hưởng, hiệu ứng",
+          "en": "effect",
+          "x": true
+        },
+        {
+          "zh": "胸",
+          "py": "xiōng",
+          "pos": "dt.",
+          "vi": "ngực; lòng",
+          "en": "chest; heart, mind"
+        },
+        {
+          "zh": "承受",
+          "py": "chéngshòu",
+          "pos": "đgt.",
+          "vi": "chịu đựng, chấp nhận",
+          "en": "to bear, to endure"
+        },
+        {
+          "zh": "和尚",
+          "py": "héshang",
+          "pos": "dt.",
+          "vi": "hòa thượng, nhà sư",
+          "en": "Buddhist monk",
+          "x": true
+        },
+        {
+          "zh": "钟",
+          "py": "zhōng",
+          "pos": "dt.",
+          "vi": "chuông",
+          "en": "bell",
+          "x": true
+        },
+        {
+          "zh": "彻底",
+          "py": "chèdǐ",
+          "pos": "tt.",
+          "vi": "triệt để, hoàn toàn",
+          "en": "thorough, complete"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "朝",
+      "uses": [
+        {
+          "vi": "朝 là động từ, biểu thị đối diện, hướng về (quay về phía, hướng).",
+          "en": "朝 is a verb meaning to face, to look towards.",
+          "ex": [
+            {
+              "zh": "我们学校的正门坐西【朝】东。",
+              "vi": "Cổng chính của trường chúng tôi quay mặt về hướng đông.",
+              "en": "Our school's main gate faces east."
+            },
+            {
+              "zh": "我进去时，他正脸【朝】里和李主任商量着{zhe}什么，没注意到我的到来。",
+              "vi": "Lúc tôi đi vào, anh ấy đang quay mặt vào trong bàn bạc gì đó với chủ nhiệm Lý, không để ý thấy tôi đến.",
+              "en": "When I went in, he was facing inwards discussing something with Director Li and didn't notice me arrive."
+            }
+          ]
+        },
+        {
+          "vi": "朝 cũng có thể làm giới từ, biểu thị phương hướng mà động tác, hành vi hướng tới (về phía, hướng về). Khác với “向”, nó không thể làm bổ ngữ.",
+          "en": "朝 can also be a preposition showing the direction of an action (towards). Unlike 向, it can't be used as a complement after the verb.",
+          "ex": [
+            {
+              "zh": "……老船长{zhǎng}命令水手们立刻打开货舱，使劲{jìn}儿{r}【朝】里面放水。",
+              "vi": "… thuyền trưởng già ra lệnh cho các thủy thủ lập tức mở khoang hàng, ra sức bơm nước vào trong.",
+              "en": "… the old captain ordered the sailors to open the cargo hold at once and pump water into it as fast as they could."
+            },
+            {
+              "zh": "我仿佛看到胜利正【朝】我们走来。",
+              "vi": "Tôi như nhìn thấy chiến thắng đang tiến về phía chúng ta.",
+              "en": "I can almost see victory coming towards us."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "小林，我进你们家的小区了，你住的5号楼____？",
+            "hint": "朝",
+            "a": "小林，我进你们家的小区了，你住的5号楼【怎么走？是一直朝前走吗】？",
+            "vi": "Tiểu Lâm, mình vào khu nhà bạn rồi, tòa số 5 bạn ở đi thế nào? Cứ đi thẳng về phía trước à?",
+            "en": "Xiao Lin, I'm in your housing estate now. How do I get to Building 5? Do I just keep going straight ahead?",
+            "sample": true
+          },
+          {
+            "q": "____，别跟孩子发脾气。",
+            "hint": "朝",
+            "a": "【你有什么不满就朝我来】，别跟孩子发脾气。",
+            "vi": "Anh có gì không vừa ý thì cứ nhắm vào tôi, đừng nổi nóng với con.",
+            "en": "If you're unhappy about something, take it out on me. Don't lose your temper with the child.",
+            "sample": true
+          },
+          {
+            "q": "A：请问，去国家图书馆____？\nB：没错，大概过两个路口就到了。",
+            "hint": "朝",
+            "a": "A：请问，去国家图书馆【是朝这个方向走吗】？\nB：没错，大概过两个路口就到了。",
+            "vi": "A: Xin hỏi, đến Thư viện Quốc gia có phải đi về hướng này không?\nB: Đúng rồi, qua khoảng hai ngã tư là tới.",
+            "en": "A: Excuse me, is this the way to the National Library?\nB: That's right. It's about two junctions further on.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "简直",
+      "uses": [
+        {
+          "vi": "简直 là phó từ, biểu thị gần như hoàn toàn là như vậy nhưng không hẳn hoàn toàn là như vậy, mang ngữ khí khoa trương, nhấn mạnh (quả là, thật là, chẳng khác gì).",
+          "en": "简直 is an adverb meaning almost completely so, though not literally; it carries an exaggerating, emphatic tone (simply, virtually, practically).",
+          "ex": [
+            {
+              "zh": "听到刘方离婚的消息时，我【简直】不敢相信自己的耳朵。",
+              "vi": "Khi nghe tin Lưu Phương ly hôn, tôi quả thật không dám tin vào tai mình.",
+              "en": "When I heard that Liu Fang had got divorced, I simply couldn't believe my ears."
+            },
+            {
+              "zh": "这次张小姐变得格外客气、礼貌，与从前相比，【简直】像换了个人。",
+              "vi": "Lần này cô Trương trở nên đặc biệt khách sáo, lễ phép, so với trước đây quả thật như biến thành một người khác.",
+              "en": "This time Miss Zhang was especially polite and courteous; compared with before, she was practically a different person."
+            },
+            {
+              "zh": "“船长{zhǎng}【简直】是疯了，这样做只会增加船的压力，船就会下沉得更快，这不是找死吗？”",
+              "vi": "“Thuyền trưởng đúng là điên rồi, làm như vậy chỉ làm tăng áp lực cho con tàu, tàu sẽ chìm nhanh hơn, thế chẳng phải là tìm đến cái chết sao?”",
+              "en": "“The captain has simply gone mad! This will only put more pressure on the ship and make it sink faster. Isn't he asking for death?”"
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "眼前的情景让在场的所有人都惊呆了，____。",
+            "hint": "简直",
+            "a": "眼前的情景让在场的所有人都惊呆了，【大家简直不敢相信自己的眼睛】。",
+            "vi": "Cảnh tượng trước mắt khiến tất cả mọi người có mặt đều sững sờ, ai nấy đều quả thật không dám tin vào mắt mình.",
+            "en": "The scene before them stunned everyone present; they simply couldn't believe their eyes.",
+            "sample": true
+          },
+          {
+            "q": "返城的车在高速路上排起几公里的长队，____。",
+            "hint": "简直",
+            "a": "返城的车在高速路上排起几公里的长队，【高速路简直成了停车场】。",
+            "vi": "Xe trở về thành phố xếp hàng dài mấy cây số trên đường cao tốc, đường cao tốc quả thật đã biến thành bãi đỗ xe.",
+            "en": "Cars heading back to the city were queued for several kilometres on the motorway; it had practically become a car park.",
+            "sample": true
+          },
+          {
+            "q": "A：今天，老板要跟我们商量下半年的计划，我得{děi}去一趟。\nB：你病成这样还要去上班，____。",
+            "hint": "简直",
+            "a": "A：今天，老板要跟我们商量下半年的计划，我得{děi}去一趟。\nB：你病成这样还要去上班，【简直是不要命了】。",
+            "vi": "A: Hôm nay sếp muốn bàn với chúng tôi về kế hoạch nửa cuối năm, tôi phải đi một chuyến.\nB: Ốm đến thế này mà vẫn đi làm, anh đúng là không cần mạng nữa rồi.",
+            "en": "A: The boss wants to discuss the plan for the second half of the year with us today; I have to go in.\nB: Going to work when you're this ill? You must have a death wish.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "严肃—严格",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: 严肃 và 严格 đều là tính từ, đều biểu thị nghiêm túc, không lơi lỏng, nhưng phạm vi sử dụng khác nhau khá lớn, không thể thay thế cho nhau.",
+          "en": "Similarity: 严肃 and 严格 are both adjectives meaning serious, not lax, but their ranges of use differ greatly and they can't replace each other.",
+          "ex": []
+        },
+        {
+          "vi": "Khác nhau 1: 严肃 nhấn mạnh sự nghiêm túc về tác phong, thái độ… (nghiêm túc, nghiêm khắc); 严格 biểu thị nghiêm túc, không lơi lỏng khi tuân thủ chế độ hoặc nắm vững tiêu chuẩn (nghiêm ngặt, chặt chẽ).",
+          "en": "Difference 1: 严肃 stresses seriousness in conduct or attitude; 严格 means being strict and exacting in following rules or keeping to standards.",
+          "ex": [
+            {
+              "zh": "小林这件事影响恶劣，我们对他一定要【严肃】批评。",
+              "vi": "Chuyện này của Tiểu Lâm gây ảnh hưởng rất xấu, chúng ta nhất định phải phê bình nghiêm khắc cậu ấy.",
+              "en": "What Xiao Lin did has had a very bad effect; we must criticise him seriously."
+            },
+            {
+              "zh": "小华妈妈，平时对孩子教育很【严格】。",
+              "vi": "Mẹ của Tiểu Hoa bình thường dạy con rất nghiêm khắc.",
+              "en": "Xiao Hua's mother is usually very strict in bringing up her child."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: 严肃 có thể biểu thị thần sắc, bầu không khí… khiến người ta cảm thấy vừa kính nể vừa sợ (nghiêm nghị, trang nghiêm); 严格 không có nghĩa này.",
+          "en": "Difference 2: 严肃 can describe an expression or atmosphere that inspires both respect and fear (stern, solemn); 严格 has no such meaning.",
+          "ex": [
+            {
+              "zh": "一句幽默的笑话可以让紧张【严肃】的气氛变得轻松愉快。",
+              "vi": "Một câu đùa hài hước có thể khiến bầu không khí căng thẳng nghiêm trang trở nên nhẹ nhàng vui vẻ.",
+              "en": "A humorous joke can turn a tense, solemn atmosphere into a relaxed and cheerful one."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "刘老师虽然看上去很____，但其实对人很友善。",
+            "key": "严肃 ✓ · 严格 ✗ (vẻ mặt nghiêm nghị)",
+            "a": "刘老师虽然看上去很【严肃】，但其实对人很友善。",
+            "vi": "Thầy Lưu tuy trông rất nghiêm nghị, nhưng thật ra đối xử với mọi người rất thân thiện.",
+            "en": "Mr Liu may look very stern, but he's actually very friendly."
+          },
+          {
+            "q": "这是一个决定公司发展的重大问题，应引起高度重视，____对待。",
+            "key": "严肃 ✓ · 严格 ✗ (thái độ nghiêm túc)",
+            "a": "这是一个决定公司发展的重大问题，应引起高度重视，【严肃】对待。",
+            "vi": "Đây là một vấn đề trọng đại quyết định sự phát triển của công ty, cần được hết sức coi trọng, đối xử nghiêm túc.",
+            "en": "This is a major issue that will decide the company's development; it deserves close attention and must be treated seriously."
+          },
+          {
+            "q": "实验过程中，温度、水分等条件都要____地{de}控制。",
+            "key": "严肃 ✗ · 严格 ✓ (tuân thủ tiêu chuẩn)",
+            "a": "实验过程中，温度、水分等条件都要【严格】地{de}控制。",
+            "vi": "Trong quá trình thí nghiệm, các điều kiện như nhiệt độ, độ ẩm đều phải được kiểm soát nghiêm ngặt.",
+            "en": "During the experiment, conditions such as temperature and moisture must be strictly controlled."
+          },
+          {
+            "q": "每次读到这段历史都会让我____地{de}思考。",
+            "key": "严肃 ✓ · 严格 ✗ (thái độ nghiêm túc)",
+            "a": "每次读到这段历史都会让我【严肃】地{de}思考。",
+            "vi": "Mỗi lần đọc đến giai đoạn lịch sử này đều khiến tôi suy nghĩ nghiêm túc.",
+            "en": "Every time I read about this period of history, it makes me think seriously."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "承受",
+            "压力/重量/痛苦/寂寞/挑战"
+          ],
+          "vi": "chịu áp lực / sức nặng / nỗi đau / sự cô đơn / thử thách",
+          "en": "bear pressure / weight / pain / loneliness / challenges"
+        },
+        {
+          "zh": [
+            "威胁",
+            "人类/安全/健康/和平/生命"
+          ],
+          "vi": "đe dọa loài người / an ninh / sức khỏe / hòa bình / tính mạng",
+          "en": "threaten humanity / security / health / peace / life"
+        }
+      ]
+    },
+    {
+      "a": "定语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "相似的",
+            "情况/爱好/观点/看法"
+          ],
+          "vi": "tình huống / sở thích / quan điểm / cách nhìn tương tự",
+          "en": "similar situations / interests / views / opinions"
+        },
+        {
+          "zh": [
+            "恶劣的",
+            "天气/态度/关系/条件/影响/表现"
+          ],
+          "vi": "thời tiết / thái độ / quan hệ / điều kiện / ảnh hưởng / biểu hiện tồi tệ",
+          "en": "bad weather / attitude / relations / conditions / influence / behaviour"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "谨慎地{de}",
+            "对待/处理/工作/从事/打开"
+          ],
+          "vi": "thận trọng đối xử / xử lý / làm việc / tham gia / mở ra",
+          "en": "carefully treat / handle / work / engage in / open"
+        },
+        {
+          "zh": [
+            "彻底",
+            "放弃/检查/改正/改变/解决"
+          ],
+          "vi": "từ bỏ / kiểm tra / sửa chữa / thay đổi / giải quyết triệt để",
+          "en": "completely give up / thoroughly check / correct / change / solve"
+        }
+      ]
+    },
+    {
+      "a": "中心语",
+      "b": "补语",
+      "rows": [
+        {
+          "zh": [
+            "摔",
+            "倒/伤/碎/下去"
+          ],
+          "vi": "ngã / ngã bị thương / rơi vỡ / ngã xuống",
+          "en": "fall over / fall and get hurt / smash / fall down"
+        },
+        {
+          "zh": [
+            "承受",
+            "住/不起/得{de}了{liǎo}"
+          ],
+          "vi": "chịu được / không chịu nổi / chịu nổi",
+          "en": "withstand / can't bear / can bear"
+        }
+      ]
+    },
+    {
+      "a": "数量词",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "一吨",
+            "货物/钢铁/粮食"
+          ],
+          "vi": "một tấn hàng hóa / thép / lương thực",
+          "en": "a ton of goods / steel / grain"
+        },
+        {
+          "zh": [
+            "一起",
+            "意外"
+          ],
+          "vi": "một vụ tai nạn",
+          "en": "an accident"
+        }
+      ]
+    },
+    {
+      "a": "主语",
+      "b": "谓语",
+      "rows": [
+        {
+          "zh": [
+            "表情/态度/气氛/内容",
+            "严肃"
+          ],
+          "vi": "vẻ mặt / thái độ / bầu không khí / nội dung nghiêm túc",
+          "en": "a serious expression / attitude / atmosphere / subject"
+        },
+        {
+          "zh": [
+            "神情/表情/眼神/动作",
+            "慌张"
+          ],
+          "vi": "thần sắc / vẻ mặt / ánh mắt / động tác hoảng hốt",
+          "en": "a flustered look / expression / glance / movement"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "风险",
+        "谨慎",
+        "平衡",
+        "威胁",
+        "简直",
+        "恶劣"
+      ],
+      "items": [
+        {
+          "q": "对这种行为____的队员只能让他离开球队。",
+          "key": "恶劣",
+          "a": "对这种行为【恶劣】的队员只能让他离开球队。",
+          "vi": "Với cầu thủ có hành vi tồi tệ như thế này chỉ có thể cho rời khỏi đội bóng.",
+          "en": "A player who behaves this badly can only be dropped from the team."
+        },
+        {
+          "q": "在人口压力面前，经济发展、社会进步都受到了巨大____。",
+          "key": "威胁",
+          "a": "在人口压力面前，经济发展、社会进步都受到了巨大【威胁】。",
+          "vi": "Trước áp lực dân số, sự phát triển kinh tế và tiến bộ xã hội đều bị đe dọa nghiêm trọng.",
+          "en": "In the face of population pressure, economic development and social progress are both under great threat."
+        },
+        {
+          "q": "这毕竟是高考择校，我们必须____对待。",
+          "key": "谨慎",
+          "a": "这毕竟是高考择校，我们必须【谨慎】对待。",
+          "vi": "Dù sao đây cũng là chuyện chọn trường thi đại học, chúng ta phải thận trọng.",
+          "en": "After all, this is choosing a university after the entrance exam; we must handle it carefully."
+        },
+        {
+          "q": "初学骑自行车最重要的是注意保持____。",
+          "key": "平衡",
+          "a": "初学骑自行车最重要的是注意保持【平衡】。",
+          "vi": "Mới học đi xe đạp, quan trọng nhất là chú ý giữ thăng bằng.",
+          "en": "When you're learning to ride a bike, the most important thing is to keep your balance."
+        },
+        {
+          "q": "你决定在海外投资，有没有考虑到____？",
+          "key": "风险",
+          "a": "你决定在海外投资，有没有考虑到【风险】？",
+          "vi": "Anh quyết định đầu tư ở nước ngoài, đã tính đến rủi ro chưa?",
+          "en": "You've decided to invest abroad — have you considered the risks?"
+        },
+        {
+          "q": "昨晚的比赛太精彩了，林丹____太厉害了！",
+          "key": "简直",
+          "a": "昨晚的比赛太精彩了，林丹【简直】太厉害了！",
+          "vi": "Trận đấu tối qua quá hay, Lâm Đan quả thật quá đỉnh!",
+          "en": "Last night's match was brilliant — Lin Dan was simply amazing!"
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "不是你努力得不够，____是努力的方向错了。",
+          "opts": [
+            "A. 可怕",
+            "B. 恐怕"
+          ],
+          "key": "B",
+          "a": "不是你努力得不够，【恐怕】是努力的方向错了。",
+          "vi": "Không phải bạn cố gắng chưa đủ, e là hướng cố gắng đã sai.",
+          "en": "It's not that you haven't tried hard enough; I'm afraid you've been trying in the wrong direction."
+        },
+        {
+          "q": "李岩之所以那么____地{de}返回北京，是因为得{dé}知了这个坏消息。",
+          "opts": [
+            "A. 慌张",
+            "B. 紧张"
+          ],
+          "key": "A",
+          "a": "李岩之所以那么【慌张】地{de}返回北京，是因为得{dé}知了这个坏消息。",
+          "vi": "Sở dĩ Lý Nham vội vã hốt hoảng trở về Bắc Kinh là vì đã biết được tin xấu này.",
+          "en": "The reason Li Yan rushed back to Beijing in such a panic was that he'd heard this bad news."
+        },
+        {
+          "q": "你的病好得不____，还应该再休息几天。",
+          "opts": [
+            "A. 彻底",
+            "B. 完全"
+          ],
+          "key": "A",
+          "a": "你的病好得不【彻底】，还应该再休息几天。",
+          "vi": "Bệnh của bạn chưa khỏi hẳn, nên nghỉ ngơi thêm mấy ngày nữa.",
+          "en": "You haven't fully recovered; you should rest for a few more days."
+        },
+        {
+          "q": "我实在不敢____这么贵重的礼物。",
+          "opts": [
+            "A. 承受",
+            "B. 接受"
+          ],
+          "key": "B",
+          "a": "我实在不敢【接受】这么贵重的礼物。",
+          "vi": "Tôi thật sự không dám nhận món quà quý giá như vậy.",
+          "en": "I really can't accept such a valuable gift."
+        }
+      ]
+    },
+    {
+      "title": "画线连接可以搭配的词语",
+      "bank": [
+        "生命",
+        "压力",
+        "名胜",
+        "风险",
+        "平衡",
+        "相似",
+        "严肃",
+        "恶劣"
+      ],
+      "items": [
+        {
+          "q": "冒 ____",
+          "key": "风险",
+          "a": "冒【风险】",
+          "vi": "mạo hiểm, chấp nhận rủi ro",
+          "en": "take a risk"
+        },
+        {
+          "q": "游览 ____",
+          "key": "名胜",
+          "a": "游览【名胜】",
+          "vi": "tham quan danh thắng",
+          "en": "visit famous sights"
+        },
+        {
+          "q": "承受 ____",
+          "key": "压力",
+          "a": "承受【压力】",
+          "vi": "chịu áp lực",
+          "en": "bear pressure"
+        },
+        {
+          "q": "威胁 ____",
+          "key": "生命",
+          "a": "威胁【生命】",
+          "vi": "đe dọa tính mạng",
+          "en": "threaten life"
+        },
+        {
+          "q": "形状 ____",
+          "key": "相似",
+          "a": "形状【相似】",
+          "vi": "hình dáng tương tự",
+          "en": "similar in shape"
+        },
+        {
+          "q": "气候 ____",
+          "key": "恶劣",
+          "a": "气候【恶劣】",
+          "vi": "khí hậu khắc nghiệt",
+          "en": "a harsh climate"
+        },
+        {
+          "q": "营养 ____",
+          "key": "平衡",
+          "a": "营养【平衡】",
+          "vi": "dinh dưỡng cân bằng",
+          "en": "balanced nutrition"
+        },
+        {
+          "q": "态度 ____",
+          "key": "严肃",
+          "a": "态度【严肃】",
+          "vi": "thái độ nghiêm túc",
+          "en": "a serious attitude"
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "返航途中遇险的经历",
+          "hint": "恶劣、风浪、慌张、沉、威胁、平衡、翻",
+          "a": "一次返航中，天气【恶劣】，船遇到了巨大的【风浪】。水手们很【慌张】，老船长{zhǎng}却命令他们往货舱里放水。水手们以为船会【沉】得更快，可是随着水位升高，风浪对船的【威胁】减小了，船渐渐取得了【平衡】。船长{zhǎng}说，几万吨的巨轮很少被打【翻】，船在空的时候才最危险。",
+          "vi": "Trong một lần trở về, thời tiết rất xấu, con tàu gặp sóng gió dữ dội. Các thủy thủ rất hoảng hốt, nhưng thuyền trưởng già lại ra lệnh cho họ bơm nước vào khoang hàng. Các thủy thủ tưởng tàu sẽ chìm nhanh hơn, nhưng khi mực nước dâng lên, mối đe dọa của sóng gió giảm đi, con tàu dần lấy lại thăng bằng. Thuyền trưởng nói, những con tàu mấy vạn tấn rất ít khi bị lật, tàu thuyền khi trống rỗng mới là nguy hiểm nhất.",
+          "en": "On a return voyage, the weather turned bad and the ship met huge waves. The sailors panicked, but the old captain ordered them to let water into the hold. They thought the ship would sink faster, but as the water rose, the threat from the waves decreased and the ship gradually found its balance. The captain said huge ships of tens of thousands of tons rarely capsize; a ship is most dangerous when it's empty.",
+          "sample": true
+        },
+        {
+          "q": "“鬼谷”的故事",
+          "hint": "窄、游览、发抖、摔、滚、风险、谨慎、安全",
+          "a": "某风景区有一段叫“鬼谷”的路，山路很【窄】，两边是深渊。导游带游客【游览】时，一定让他们背{bēi}点东西。一位妇女说她两腿【发抖】，负重更容易【摔】倒。导游说，以前出意外的都是没有压力、不小心【滚】下去的游客。感觉到有【风险】，【谨慎】地{de}负重前行，反而更【安全】。",
+          "vi": "Ở một khu thắng cảnh có một đoạn đường gọi là “Thung lũng ma”, đường núi rất hẹp, hai bên là vực sâu. Khi hướng dẫn viên đưa du khách tham quan, nhất định bắt họ mang theo chút đồ. Một người phụ nữ nói hai chân bà run rẩy, mang nặng càng dễ ngã. Hướng dẫn viên nói, những người gặp tai nạn trước đây đều là du khách không có áp lực, sơ ý lăn xuống. Cảm thấy có nguy hiểm, thận trọng mang vác mà đi, ngược lại càng an toàn.",
+          "en": "At a scenic spot there's a path called “Ghost Valley”: narrow, with abysses on both sides. Guides always make tourists carry something there. One woman said her legs were shaking and a load would make her more likely to fall. The guide explained that past accidents all happened to tourists who felt no pressure and carelessly rolled over the edge. If you sense the risk and walk carefully with a load, you're actually safer.",
+          "sample": true
+        },
+        {
+          "q": "压力效应",
+          "hint": "责任感、承受、压力",
+          "a": "这就是“压力效应”。有理想、有【责任感】的人才能【承受】住【压力】；而没有理想、没有一点压力的人，就像风暴中的空船，很容易被打翻。",
+          "vi": "Đây chính là “hiệu ứng áp lực”. Người có lý tưởng, có tinh thần trách nhiệm mới chịu được áp lực; còn người không có lý tưởng, không chút áp lực nào thì giống như con tàu trống giữa bão, rất dễ bị lật.",
+          "en": "This is the “pressure effect”. People with ideals and a sense of responsibility can withstand pressure, while those with no ideals and no pressure are like empty ships in a storm, easily capsized.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "度量单位 · 学习用具",
+    "vi": "Đơn vị đo lường · Đồ dùng học tập",
+    "en": "Units of measurement · School supplies",
+    "words": [
+      {
+        "zh": "厘米",
+        "py": "límǐ",
+        "vi": "xen-ti-mét",
+        "en": "centimetre"
+      },
+      {
+        "zh": "克",
+        "py": "kè",
+        "vi": "gam",
+        "en": "gram"
+      },
+      {
+        "zh": "平方",
+        "py": "píngfāng",
+        "vi": "mét vuông; bình phương",
+        "en": "square metre; square"
+      },
+      {
+        "zh": "吨",
+        "py": "dūn",
+        "vi": "tấn",
+        "en": "ton"
+      },
+      {
+        "zh": "尺子",
+        "py": "chǐzi",
+        "vi": "thước kẻ",
+        "en": "ruler"
+      },
+      {
+        "zh": "胶水",
+        "py": "jiāoshuǐ",
+        "vi": "keo dán, hồ dán",
+        "en": "glue"
+      },
+      {
+        "zh": "文具",
+        "py": "wénjù",
+        "vi": "văn phòng phẩm, đồ dùng học tập",
+        "en": "stationery"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "你这儿有____吗？报名表上要贴张照片。",
+          "key": "胶水",
+          "a": "你这儿有【胶水】吗？报名表上要贴张照片。",
+          "vi": "Chỗ bạn có hồ dán không? Trên đơn đăng ký phải dán một tấm ảnh.",
+          "en": "Have you got any glue? I need to stick a photo on the application form."
+        },
+        {
+          "q": "这些____是寄到地震灾区给那里的孩子们用的。",
+          "key": "文具",
+          "a": "这些【文具】是寄到地震灾区给那里的孩子们用的。",
+          "vi": "Những đồ dùng học tập này được gửi đến vùng bị động đất cho các em nhỏ ở đó dùng.",
+          "en": "This stationery is being sent to the earthquake zone for the children there."
+        },
+        {
+          "q": "新城的街区就像用____画出的格子一样的整齐。",
+          "key": "尺子",
+          "a": "新城的街区就像用【尺子】画出的格子一样的整齐。",
+          "vi": "Các dãy phố ở khu đô thị mới ngay ngắn như những ô vuông được kẻ bằng thước.",
+          "en": "The blocks in the new town are as neat as a grid drawn with a ruler."
+        },
+        {
+          "q": "这个最小的房间只有12个____，我想当{dàng}作书房。",
+          "key": "平方",
+          "a": "这个最小的房间只有12个【平方】，我想当{dàng}作书房。",
+          "vi": "Căn phòng nhỏ nhất này chỉ có 12 mét vuông, tôi muốn dùng làm phòng đọc sách.",
+          "en": "This smallest room is only 12 square metres; I want to use it as a study."
+        }
+      ]
+    }
+  }
+}

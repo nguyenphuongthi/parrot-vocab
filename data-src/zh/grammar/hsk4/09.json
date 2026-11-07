@@ -1,0 +1,1053 @@
+{
+  "n": 9,
+  "zh": "阳光总在风雨后",
+  "vi": "Sau cơn mưa trời lại sáng",
+  "en": "Sunshine always comes after the storm",
+  "texts": [
+    {
+      "title": "王静和孙月聊孙月减肥的事情",
+      "paras": [
+        {
+          "zh": "王静：怎么又买了这么多饼干和巧克力？难道你不减肥了？",
+          "vi": "Vương Tịnh: Sao lại mua nhiều bánh quy và sô-cô-la thế? Lẽ nào cậu không giảm cân nữa?",
+          "en": "Wang Jing: Why have you bought so many biscuits and so much chocolate again? Have you given up dieting?"
+        },
+        {
+          "zh": "孙月：减了一个月都没瘦下来，我实在没有信心了。",
+          "vi": "Tôn Nguyệt: Giảm một tháng rồi mà chẳng gầy đi, tớ thật sự hết tự tin rồi.",
+          "en": "Sun Yue: I've been dieting for a month and haven't lost any weight. I've really lost confidence."
+        },
+        {
+          "zh": "王静：如果你想减肥，就得{děi}少吃东西，而且要多运动。",
+          "vi": "Vương Tịnh: Nếu cậu muốn giảm cân thì phải ăn ít đi, hơn nữa phải vận động nhiều hơn.",
+          "en": "Wang Jing: If you want to lose weight, you have to eat less and exercise more."
+        },
+        {
+          "zh": "孙月：我就是这么做的，但这一个月下来，我只轻了一公斤。",
+          "vi": "Tôn Nguyệt: Tớ đã làm đúng như vậy, nhưng cả một tháng trời tớ chỉ nhẹ đi một cân.",
+          "en": "Sun Yue: That's exactly what I did, but after a whole month I've only lost one kilo."
+        },
+        {
+          "zh": "王静：一个月太短了。要想减肥成功，只能坚持，才会慢慢有效果。",
+          "vi": "Vương Tịnh: Một tháng ngắn quá. Muốn giảm cân thành công thì chỉ có kiên trì, mới dần dần có hiệu quả.",
+          "en": "Wang Jing: A month is too short. To lose weight successfully you just have to keep at it, and gradually you'll see results."
+        },
+        {
+          "zh": "孙月：我本来已经打算放弃了，但是你刚才的话让我改变了主意。这些饼干和巧克力送给你了。",
+          "vi": "Tôn Nguyệt: Lúc đầu tớ đã định bỏ cuộc rồi, nhưng lời cậu vừa nói khiến tớ đổi ý. Chỗ bánh quy và sô-cô-la này tặng cậu đấy.",
+          "en": "Sun Yue: I'd already decided to give up, but what you just said has changed my mind. You can have these biscuits and chocolates."
+        }
+      ],
+      "words": [
+        {
+          "zh": "饼干",
+          "py": "bǐnggān",
+          "pos": "dt.",
+          "vi": "bánh quy",
+          "en": "biscuit"
+        },
+        {
+          "zh": "难道",
+          "py": "nándào",
+          "pos": "phó.",
+          "vi": "được dùng trong câu hỏi tu từ để nhấn mạnh",
+          "en": "(rhetorical) could it be that"
+        },
+        {
+          "zh": "得",
+          "py": "děi",
+          "pos": "đtnn.",
+          "vi": "phải",
+          "en": "must, have to"
+        },
+        {
+          "zh": "坚持",
+          "py": "jiānchí",
+          "pos": "đgt.",
+          "vi": "kiên trì, khăng khăng giữ",
+          "en": "to persist"
+        },
+        {
+          "zh": "放弃",
+          "py": "fàngqì",
+          "pos": "đgt.",
+          "vi": "từ bỏ, bỏ",
+          "en": "to give up"
+        },
+        {
+          "zh": "主意",
+          "py": "zhǔyi",
+          "pos": "dt.",
+          "vi": "ý định, ý kiến",
+          "en": "idea, decision"
+        }
+      ]
+    },
+    {
+      "title": "李进和张远聊张远的成功经历",
+      "paras": [
+        {
+          "zh": "李进：你网球打得真好，还得过那么多国际大奖！每次看你比赛，感觉你轻轻松松就赢了。",
+          "vi": "Lý Tiến: Cậu chơi quần vợt giỏi thật, còn giành được bao nhiêu giải quốc tế lớn! Mỗi lần xem cậu thi đấu, thấy cậu thắng nhẹ nhàng thoải mái.",
+          "en": "Li Jin: You're really good at tennis, and you've won so many big international prizes! Every time I watch you play, it looks like you win effortlessly."
+        },
+        {
+          "zh": "张远：哪里啊！那是你没看到我辛苦练习的一面，没有人随随便便就能成功的。",
+          "vi": "Trương Viễn: Đâu có! Đó là vì cậu không thấy lúc tớ luyện tập vất vả thôi, không ai tùy tiện mà thành công được.",
+          "en": "Zhang Yuan: Not at all! You just didn't see how hard I practised. Nobody succeeds just like that."
+        },
+        {
+          "zh": "李进：我从小也对网球感兴趣，但是到现在还是打得不怎么样。",
+          "vi": "Lý Tiến: Từ nhỏ tớ cũng hứng thú với quần vợt, nhưng đến giờ vẫn chơi chẳng ra sao.",
+          "en": "Li Jin: I've been interested in tennis since I was little, but I'm still not very good."
+        },
+        {
+          "zh": "张远：你知道吗？不管春夏秋冬，我练球从来没有休息过一天。",
+          "vi": "Trương Viễn: Cậu biết không? Bất kể xuân hạ thu đông, tớ tập bóng chưa từng nghỉ một ngày nào.",
+          "en": "Zhang Yuan: Do you know? Spring, summer, autumn or winter, I've never taken a single day off practice."
+        },
+        {
+          "zh": "李进：真是不容易啊！看来我只看到了你成功时获得的鲜花，却没注意到你成功前流下的汗水。",
+          "vi": "Lý Tiến: Thật không dễ dàng! Xem ra tớ chỉ thấy những bó hoa cậu nhận được khi thành công, mà không để ý đến mồ hôi cậu đổ ra trước khi thành công.",
+          "en": "Li Jin: That's not easy! It seems I only saw the flowers you got when you succeeded, and not the sweat you shed before."
+        },
+        {
+          "zh": "张远：任何成功都要通过努力才能得到。只要你坚持练习，我相信你也会越打越好的。",
+          "vi": "Trương Viễn: Bất kỳ thành công nào cũng phải nhờ nỗ lực mới có được. Chỉ cần cậu kiên trì luyện tập, tớ tin cậu cũng sẽ chơi ngày càng giỏi.",
+          "en": "Zhang Yuan: Any success has to be earned through hard work. As long as you keep practising, I'm sure you'll get better and better."
+        }
+      ],
+      "words": [
+        {
+          "zh": "网球",
+          "py": "wǎngqiú",
+          "pos": "dt.",
+          "vi": "quần vợt",
+          "en": "tennis"
+        },
+        {
+          "zh": "国际",
+          "py": "guójì",
+          "pos": "dt.",
+          "vi": "quốc tế",
+          "en": "international"
+        },
+        {
+          "zh": "轻松",
+          "py": "qīngsōng",
+          "pos": "tt.",
+          "vi": "nhẹ nhàng, dễ dàng",
+          "en": "relaxed, easy"
+        },
+        {
+          "zh": "赢",
+          "py": "yíng",
+          "pos": "đgt.",
+          "vi": "thắng",
+          "en": "to win"
+        },
+        {
+          "zh": "随便",
+          "py": "suíbiàn",
+          "pos": "tt.",
+          "vi": "tình cờ, tùy tiện",
+          "en": "casual, random"
+        },
+        {
+          "zh": "汗",
+          "py": "hàn",
+          "pos": "dt.",
+          "vi": "mồ hôi",
+          "en": "sweat"
+        },
+        {
+          "zh": "通过",
+          "py": "tōngguò",
+          "pos": "giới.",
+          "vi": "qua, nhờ vào",
+          "en": "through, by means of"
+        }
+      ]
+    },
+    {
+      "title": "小林和小李谈王红的成功经历",
+      "paras": [
+        {
+          "zh": "小林：你还记得王红吗？我在报纸上看到一篇关于她的新闻，她现在已经是一个有名的作家了。",
+          "vi": "Tiểu Lâm: Cậu còn nhớ Vương Hồng không? Tớ đọc được trên báo một bài về cô ấy, bây giờ cô ấy đã là một nhà văn nổi tiếng rồi.",
+          "en": "Xiao Lin: Do you remember Wang Hong? I read an article about her in the paper. She's a famous writer now."
+        },
+        {
+          "zh": "小李：听说她毕业后放弃了律师的工作，开始专门写小说，没想到她竟然成功了。",
+          "vi": "Tiểu Lý: Nghe nói tốt nghiệp xong cô ấy bỏ công việc luật sư, bắt đầu chuyên tâm viết tiểu thuyết, không ngờ cô ấy lại thành công.",
+          "en": "Xiao Li: I heard she gave up her job as a lawyer after graduating and started writing novels full-time. I didn't expect her to succeed."
+        },
+        {
+          "zh": "小林：当时她的父母和亲戚都不支持她，可是她坚持自己的选择，现在终于向所有人证明了她的选择是正确的。",
+          "vi": "Tiểu Lâm: Lúc đó bố mẹ và họ hàng cô ấy đều không ủng hộ, nhưng cô ấy kiên trì với lựa chọn của mình, bây giờ cuối cùng đã chứng minh với mọi người lựa chọn của cô ấy là đúng.",
+          "en": "Xiao Lin: At the time her parents and relatives didn't support her, but she stuck to her choice, and now she's finally proved to everyone that she was right."
+        },
+        {
+          "zh": "小李：看来为了自己的理想，放弃一些东西也是值得的。",
+          "vi": "Tiểu Lý: Xem ra vì lý tưởng của mình, từ bỏ một số thứ cũng đáng.",
+          "en": "Xiao Li: It seems giving up some things for your dreams is worth it."
+        },
+        {
+          "zh": "小林：一个人只有两只手，不可能得到所有想要的东西，所以有时候放弃是一种聪明的选择。",
+          "vi": "Tiểu Lâm: Một người chỉ có hai bàn tay, không thể có được tất cả những thứ mình muốn, nên đôi khi từ bỏ là một lựa chọn thông minh.",
+          "en": "Xiao Lin: A person only has two hands and can't have everything they want, so sometimes giving up is a wise choice."
+        },
+        {
+          "zh": "小李：是啊，只有学会放弃，才能把自己的能力用到最该做的事情上，最后获得成功。",
+          "vi": "Tiểu Lý: Đúng vậy, chỉ khi học được cách từ bỏ mới có thể dồn năng lực vào việc nên làm nhất, cuối cùng giành được thành công.",
+          "en": "Xiao Li: Yes. Only by learning to give things up can you put your abilities into what matters most and succeed in the end."
+        }
+      ],
+      "words": [
+        {
+          "zh": "篇",
+          "py": "piān",
+          "pos": "lượng.",
+          "vi": "(được dùng cho bài văn, giấy...) bài, tờ...",
+          "en": "measure word for articles, essays"
+        },
+        {
+          "zh": "作家",
+          "py": "zuòjiā",
+          "pos": "dt.",
+          "vi": "nhà văn",
+          "en": "writer"
+        },
+        {
+          "zh": "当时",
+          "py": "dāngshí",
+          "pos": "dt.",
+          "vi": "lúc đó",
+          "en": "at that time"
+        },
+        {
+          "zh": "可是",
+          "py": "kěshì",
+          "pos": "liên.",
+          "vi": "nhưng",
+          "en": "but"
+        },
+        {
+          "zh": "正确",
+          "py": "zhèngquè",
+          "pos": "tt.",
+          "vi": "đúng, chính xác",
+          "en": "correct"
+        },
+        {
+          "zh": "理想",
+          "py": "lǐxiǎng",
+          "pos": "dt.",
+          "vi": "lý tưởng",
+          "en": "ideal, dream"
+        }
+      ],
+      "names": [
+        {
+          "zh": "王红",
+          "py": "Wáng Hóng",
+          "vi": "Vương Hồng (tên người)",
+          "en": "Wang Hong (a name)"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "如果你想做什么事情，那就勇敢地{de}去做，不要担心结果，不要考虑会不会失败。要是太看重结果，失败就会给人们带来很多烦恼。我们应该把注意力放在做事情的过程上，这样你会在做的过程中发现解决问题的快乐，这是其他任何东西都给不了的。即使最后失败了也没有关系，因为至少你已经努力过，而且我们还可以从失败中总结出有用的经验，有了这些积累，成功自然离我们越来越近。",
+          "vi": "Nếu bạn muốn làm việc gì đó thì hãy dũng cảm làm, đừng lo lắng về kết quả, đừng cân nhắc có thất bại hay không. Nếu quá coi trọng kết quả thì thất bại sẽ mang lại cho người ta nhiều phiền muộn. Chúng ta nên đặt sự chú ý vào quá trình làm việc, như vậy bạn sẽ phát hiện ra niềm vui giải quyết vấn đề trong quá trình làm, đây là điều mà bất cứ thứ gì khác cũng không mang lại được. Dù cuối cùng có thất bại cũng không sao, vì ít nhất bạn đã cố gắng, hơn nữa chúng ta còn có thể rút ra kinh nghiệm hữu ích từ thất bại, có những tích lũy này, thành công tự nhiên sẽ ngày càng gần chúng ta hơn.",
+          "en": "If you want to do something, go ahead and do it bravely. Don't worry about the result or whether you might fail. If you care too much about results, failure will bring you a lot of worry. We should focus on the process of doing things; that way you'll find the joy of solving problems along the way, which nothing else can give you. Even if you fail in the end, it doesn't matter, because at least you tried, and we can draw useful lessons from failure. With this accumulated experience, success naturally comes closer and closer."
+        }
+      ],
+      "words": [
+        {
+          "zh": "勇敢",
+          "py": "yǒnggǎn",
+          "pos": "tt.",
+          "vi": "dũng cảm, gan dạ",
+          "en": "brave"
+        },
+        {
+          "zh": "结果",
+          "py": "jiéguǒ",
+          "pos": "dt.",
+          "vi": "kết quả",
+          "en": "result"
+        },
+        {
+          "zh": "失败",
+          "py": "shībài",
+          "pos": "đgt.",
+          "vi": "thất bại",
+          "en": "to fail"
+        },
+        {
+          "zh": "过程",
+          "py": "guòchéng",
+          "pos": "dt.",
+          "vi": "quá trình",
+          "en": "process"
+        },
+        {
+          "zh": "至少",
+          "py": "zhìshǎo",
+          "pos": "phó.",
+          "vi": "ít nhất",
+          "en": "at least"
+        },
+        {
+          "zh": "总结",
+          "py": "zǒngjié",
+          "pos": "đgt.",
+          "vi": "tổng kết",
+          "en": "to sum up"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "每一个人都希望成功，可是很多时候，在成功之前会遇到很多困难。有些人遇到困难就放弃，而有些人遇到困难却想办法解决它。对困难的态度不同，结果也是不一样的。爱迪生就是在找了上千种材料后才找到了能点亮电灯的材料。取得成功的人往往都经历过许多失败，他们和普通人的区别就是他们都坚持了下来。所以就算只有1%的希望，我们也要做出100%的努力。困难只是暂时的，“阳光总在风雨后”，只有我们勇敢地{de}面对困难，才能有希望取得成功。",
+          "vi": "Ai cũng mong thành công, nhưng nhiều khi trước khi thành công sẽ gặp rất nhiều khó khăn. Có người gặp khó khăn là bỏ cuộc, còn có người gặp khó khăn lại tìm cách giải quyết. Thái độ đối với khó khăn khác nhau thì kết quả cũng khác nhau. Edison chính là sau khi thử hơn một nghìn loại vật liệu mới tìm ra vật liệu có thể thắp sáng bóng đèn điện. Những người thành công thường đã trải qua nhiều thất bại, sự khác biệt giữa họ và người bình thường chính là họ đã kiên trì đến cùng. Vì vậy dù chỉ có 1% hy vọng, chúng ta cũng phải nỗ lực 100%. Khó khăn chỉ là tạm thời, “sau mưa trời lại sáng”, chỉ khi chúng ta dũng cảm đối mặt với khó khăn thì mới có hy vọng thành công.",
+          "en": "Everyone wants to succeed, but often you meet many difficulties along the way. Some people give up when they run into difficulties, while others find ways to solve them. Different attitudes to difficulty lead to different results. Edison only found a material that could light an electric bulb after trying over a thousand. Successful people have usually been through many failures; what sets them apart from ordinary people is that they kept going. So even with only a 1% chance, we should give 100% effort. Difficulties are only temporary: “the sun always shines after the storm”. Only by facing difficulties bravely can we hope to succeed."
+        }
+      ],
+      "words": [
+        {
+          "zh": "取",
+          "py": "qǔ",
+          "pos": "đgt.",
+          "vi": "đạt được",
+          "en": "to obtain, to achieve"
+        },
+        {
+          "zh": "经历",
+          "py": "jīnglì",
+          "pos": "đgt.",
+          "vi": "trải qua",
+          "en": "to experience, to go through"
+        },
+        {
+          "zh": "许多",
+          "py": "xǔduō",
+          "pos": "số.",
+          "vi": "rất nhiều",
+          "en": "many, a lot of"
+        },
+        {
+          "zh": "区别",
+          "py": "qūbié",
+          "pos": "dt.",
+          "vi": "sự khác biệt",
+          "en": "difference"
+        },
+        {
+          "zh": "暂时",
+          "py": "zànshí",
+          "pos": "dt.",
+          "vi": "tạm thời, nhất thời",
+          "en": "temporary"
+        },
+        {
+          "zh": "面对",
+          "py": "miànduì",
+          "pos": "đgt.",
+          "vi": "đương đầu, đối mặt",
+          "en": "to face",
+          "x": true
+        }
+      ],
+      "names": [
+        {
+          "zh": "爱迪生",
+          "py": "Àidíshēng",
+          "vi": "Thomas Alva Edison (1847–1931), nhà phát minh người Mỹ",
+          "en": "Thomas Edison (1847–1931), American inventor"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "孙月买了些什么？她为什么不想减肥了？",
+        "label": "课文1",
+        "a": "她买了【很多饼干和巧克力】。因为她【减了一个月都没瘦下来，没有信心了】。",
+        "vi": "Cô ấy mua rất nhiều bánh quy và sô-cô-la. Vì cô ấy giảm cân một tháng mà không gầy đi, mất tự tin rồi.",
+        "en": "She bought lots of biscuits and chocolate. Because she'd dieted for a month without losing weight and lost confidence."
+      },
+      {
+        "q": "怎样减肥才能有效果？",
+        "label": "课文1",
+        "a": "要【少吃东西，多运动，而且要坚持】，才会慢慢有效果。",
+        "vi": "Phải ăn ít, vận động nhiều, hơn nữa phải kiên trì, mới dần dần có hiệu quả.",
+        "en": "Eat less, exercise more and keep at it; then you'll gradually see results."
+      },
+      {
+        "q": "张远的网球为什么打得那么好？",
+        "label": "课文2",
+        "a": "因为【不管春夏秋冬，他练球从来没有休息过一天】。",
+        "vi": "Vì bất kể xuân hạ thu đông, anh ấy tập bóng chưa từng nghỉ ngày nào.",
+        "en": "Because, whatever the season, he's never taken a day off practice."
+      },
+      {
+        "q": "为什么说没有人能随随便便成功？",
+        "label": "课文2",
+        "a": "因为【任何成功都要通过努力才能得到】。",
+        "vi": "Vì bất kỳ thành công nào cũng phải nhờ nỗ lực mới có được.",
+        "en": "Because any success has to be earned through hard work."
+      },
+      {
+        "q": "王红是干什么的？她是怎样获得成功的？",
+        "label": "课文3",
+        "a": "王红是【一个有名的作家】。她毕业后放弃了律师的工作，开始专门写小说，【虽然父母和亲戚都不支持她，可是她坚持自己的选择】，最后成功了。",
+        "vi": "Vương Hồng là một nhà văn nổi tiếng. Tốt nghiệp xong cô bỏ nghề luật sư, chuyên tâm viết tiểu thuyết, tuy bố mẹ họ hàng không ủng hộ nhưng cô kiên trì lựa chọn của mình, cuối cùng đã thành công.",
+        "en": "Wang Hong is a famous writer. After graduating she gave up law to write novels full-time; although her parents and relatives didn't support her, she stuck to her choice and finally succeeded."
+      },
+      {
+        "q": "为什么说有时候放弃是一种聪明的选择？",
+        "label": "课文3",
+        "a": "因为【一个人只有两只手，不可能得到所有想要的东西】。只有学会放弃，才能把能力用到最该做的事情上。",
+        "vi": "Vì một người chỉ có hai bàn tay, không thể có được mọi thứ mình muốn. Chỉ khi biết từ bỏ mới dồn được năng lực vào việc nên làm nhất.",
+        "en": "Because a person only has two hands and can't have everything. Only by learning to give up can you put your abilities into what matters most."
+      },
+      {
+        "q": "过程和结果，哪个更重要？要是太看重结果会怎么样？",
+        "label": "课文4",
+        "a": "【过程更重要】。要是太看重结果，【失败就会给人们带来很多烦恼】。",
+        "vi": "Quá trình quan trọng hơn. Nếu quá coi trọng kết quả thì thất bại sẽ mang lại nhiều phiền muộn.",
+        "en": "The process matters more. If you care too much about results, failure will bring you a lot of worry."
+      },
+      {
+        "q": "为什么说失败了也没关系？",
+        "label": "课文4",
+        "a": "因为【至少你已经努力过，而且还可以从失败中总结出有用的经验】。",
+        "vi": "Vì ít nhất bạn đã cố gắng, hơn nữa còn có thể rút ra kinh nghiệm hữu ích từ thất bại.",
+        "en": "Because at least you tried, and you can draw useful lessons from failure."
+      },
+      {
+        "q": "人们对困难的态度有什么不同？在这一点上，取得成功的人和普通人的区别是什么？",
+        "label": "课文5",
+        "a": "【有些人遇到困难就放弃，而有些人遇到困难却想办法解决它】。区别是【取得成功的人都坚持了下来】。",
+        "vi": "Có người gặp khó khăn là bỏ cuộc, có người lại tìm cách giải quyết. Sự khác biệt là người thành công đều đã kiên trì đến cùng.",
+        "en": "Some give up when they meet difficulties, while others find ways to solve them. The difference is that successful people kept going."
+      },
+      {
+        "q": "爱迪生是怎样成功发明电灯的？“阳光总在风雨后”是什么意思？",
+        "label": "课文5",
+        "a": "爱迪生【在找了上千种材料后才找到了能点亮电灯的材料】。“阳光总在风雨后”的意思是【困难只是暂时的，坚持下去就会成功】。",
+        "vi": "Edison sau khi thử hơn một nghìn loại vật liệu mới tìm ra vật liệu thắp sáng được bóng đèn. “Sau mưa trời lại sáng” nghĩa là khó khăn chỉ tạm thời, kiên trì sẽ thành công.",
+        "en": "Edison tried over a thousand materials before finding one that could light a bulb. “The sun always shines after the storm” means difficulties are temporary, and if you keep going you'll succeed."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "难道",
+      "uses": [
+        {
+          "vi": "Phó từ 难道 nhấn mạnh ngữ khí của câu hỏi tu từ. Khi 难道 được dùng trong câu hỏi tu từ khẳng định, cả câu mang nghĩa phủ định và ngược lại, chẳng hạn câu 难道汉语真的这么难吗? có hàm ý người nói nhấn mạnh tiếng Trung không khó.",
+          "en": "The adverb 难道 strengthens a rhetorical question. In an affirmative rhetorical question the whole sentence means the negative, and vice versa. For example, 难道汉语真的这么难吗? ('Can Chinese really be that hard?') stresses that Chinese is not hard.",
+          "ex": [
+            {
+              "zh": "怎么又买了这么多饼干和巧克力？【难道】你不减肥了？",
+              "vi": "Sao lại mua nhiều bánh quy với sô-cô-la thế này? Chẳng lẽ bạn không giảm cân nữa à?",
+              "en": "Why did you buy so many biscuits and so much chocolate again? Don't tell me you've given up on your diet?"
+            },
+            {
+              "zh": "A：喂，都十点了，你怎么还不来？\nB：【难道】你没看短信？我今天有事去不了了{le}。",
+              "vi": "A: A lô, mười giờ rồi, sao bạn vẫn chưa đến?\nB: Lẽ nào bạn chưa xem tin nhắn? Hôm nay mình có việc nên không đi được.",
+              "en": "A: Hello? It's already ten. Why aren't you here yet?\nB: Didn't you read my text? Something came up today and I can't make it."
+            },
+            {
+              "zh": "A：你不是两点就出发了吗？【难道】路上花了两个多小时？\nB：我那辆车出了点儿问题，刚才把车送去修了。",
+              "vi": "A: Không phải hai giờ bạn đã xuất phát rồi sao? Chẳng lẽ đi đường mất hơn hai tiếng?\nB: Xe của mình gặp chút trục trặc, vừa nãy mang đi sửa.",
+              "en": "A: Didn't you set off at two? Surely the journey didn't take more than two hours?\nB: My car had a problem. I just took it in for repair."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "你别再喝这么多酒了！____？",
+            "hint": "难道",
+            "a": "你别再喝这么多酒了！【难道你不知道喝酒对身体不好吗】？",
+            "vi": "Bạn đừng uống nhiều rượu thế nữa! Lẽ nào bạn không biết uống rượu không tốt cho sức khỏe sao?",
+            "en": "Stop drinking so much! Don't you know alcohol is bad for you?",
+            "sample": true
+          },
+          {
+            "q": "A：你又咳嗽了？____？\nB：感冒早好了，我咳嗽是因为空气太干。",
+            "hint": "难道",
+            "a": "A：你又咳嗽了？【难道感冒还没好吗】？\nB：感冒早好了，我咳嗽是因为空气太干。",
+            "vi": "A: Bạn lại ho à? Lẽ nào cảm vẫn chưa khỏi?\nB: Cảm khỏi lâu rồi, tôi ho là vì không khí khô quá.",
+            "en": "A: Coughing again? Surely your cold isn't still hanging on?\nB: My cold's long gone. I'm coughing because the air is too dry.",
+            "sample": true
+          },
+          {
+            "q": "A：喂，都十点了，你怎么还不来教室？\nB：____？",
+            "hint": "难道",
+            "a": "A：喂，都十点了，你怎么还不来教室？\nB：【难道你不知道今天的课改到下午了吗】？",
+            "vi": "A: A lô, mười giờ rồi, sao bạn vẫn chưa đến lớp?\nB: Lẽ nào bạn không biết hôm nay buổi học dời sang buổi chiều à?",
+            "en": "A: Hello? It's ten o'clock. Why aren't you in class?\nB: Didn't you know today's class has been moved to the afternoon?",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "通过",
+      "uses": [
+        {
+          "vi": "通过 có thể được dùng làm giới từ để diễn tả ý đạt được mục đích nhất định nhờ người nào đó hay bằng phương tiện/cách thức nào đó (thông qua).",
+          "en": "As a preposition, 通过 means 'through, by means of': achieving a goal with the help of someone or by some method.",
+          "ex": [
+            {
+              "zh": "任何成功都要【通过】努力才能得到。",
+              "vi": "Bất kỳ thành công nào cũng phải thông qua nỗ lực mới có được.",
+              "en": "Any success can only be achieved through hard work."
+            },
+            {
+              "zh": "这个节目我一直在看，它介绍了很多生活中的小知识。很多以前我没有注意到的问题，现在【通过】它了解了不少。",
+              "vi": "Chương trình này tôi vẫn luôn xem, nó giới thiệu rất nhiều mẹo vặt trong cuộc sống. Nhiều vấn đề trước đây tôi không để ý, giờ nhờ nó mà hiểu được khá nhiều.",
+              "en": "I've been watching this programme all along. It introduces lots of handy everyday tips. Through it I've now learned a lot about things I never noticed before."
+            }
+          ]
+        },
+        {
+          "vi": "通过 cũng có thể được dùng làm động từ để chỉ việc đi qua nơi nào đó từ đầu này/phía này đến đầu kia/phía kia.",
+          "en": "As a verb, 通过 means 'to pass through', from one end or side of a place to the other.",
+          "ex": [
+            {
+              "zh": "这条街只能步行【通过】。",
+              "vi": "Con phố này chỉ có thể đi bộ qua.",
+              "en": "You can only go through this street on foot."
+            }
+          ]
+        },
+        {
+          "vi": "Động từ 通过 cũng mang nghĩa là phù hợp với một tiêu chuẩn nhất định hay đạt được yêu cầu nào đó (vượt qua, được thông qua).",
+          "en": "The verb 通过 can also mean 'to pass, to meet a standard or requirement'.",
+          "ex": [
+            {
+              "zh": "我【通过】那家公司的面试了。经理对我印象不错，他要我明天就正式去上班。",
+              "vi": "Tôi đã qua vòng phỏng vấn của công ty đó rồi. Giám đốc có ấn tượng tốt về tôi, muốn tôi ngày mai chính thức đi làm.",
+              "en": "I passed that company's interview. The manager liked me and wants me to start work officially tomorrow."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "通过—经过",
+        "uses": [
+          {
+            "vi": "Giống nhau: 通过 và 经过 đều có thể được dùng để diễn tả ý đạt được mục đích nhất định nhờ người nào đó hay bằng phương tiện/cách thức nào đó.",
+            "en": "Similarity: both 通过 and 经过 can express achieving a goal with someone's help or by some means.",
+            "ex": [
+              {
+                "zh": "【通过】/【经过】大家的努力，公司的生意越做越大。",
+                "vi": "Nhờ sự nỗ lực của mọi người, việc kinh doanh của công ty ngày càng lớn mạnh.",
+                "en": "Thanks to everyone's efforts, the company's business keeps growing."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: Trong trường hợp trên, 通过 là giới từ còn 经过 là động từ. Về mặt nghĩa, 通过 nhấn mạnh cách thức hay phương tiện, còn 经过 nhấn mạnh quá trình diễn ra sự việc.",
+            "en": "Difference 1: in that sense 通过 is a preposition and 经过 is a verb. 通过 stresses the method or means; 经过 stresses the process something goes through.",
+            "ex": [
+              {
+                "zh": "希望【通过】这次活动引起大家的兴趣，让大家更了解我们公司。",
+                "vi": "Hy vọng thông qua hoạt động lần này sẽ khơi gợi sự hứng thú của mọi người, giúp mọi người hiểu rõ hơn về công ty chúng tôi.",
+                "en": "We hope this event will spark everyone's interest and help people get to know our company better."
+              },
+              {
+                "zh": "【经过】一次次失败之后，他终于成功了。",
+                "vi": "Sau bao lần thất bại, cuối cùng anh ấy cũng đã thành công.",
+                "en": "After failing time after time, he finally succeeded."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: Khi được dùng làm động từ, 通过 có nghĩa là đi qua nơi nào đó từ đầu này/phía này đến đầu kia/phía kia, còn 经过 chỉ việc đi ngang qua nơi nào đó nhưng không mang nghĩa là đi từ đầu này đến đầu kia.",
+            "en": "Difference 2: as verbs, 通过 means passing through a place from one end to the other, while 经过 means passing by a place, without the sense of going all the way through.",
+            "ex": [
+              {
+                "zh": "这里正在修路，汽车无法【通过】。",
+                "vi": "Ở đây đang sửa đường, ô tô không thể đi qua.",
+                "en": "The road is being repaired here, so cars can't get through."
+              },
+              {
+                "zh": "我正好【经过】这儿，顺便过来看看你。",
+                "vi": "Tôi vừa hay đi ngang qua đây, tiện ghé vào thăm bạn.",
+                "en": "I happened to be passing by, so I dropped in to see you."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 3: 经过 cũng có thể được dùng làm danh từ để chỉ diễn biến của sự việc; 通过 không dùng được như vậy.",
+            "en": "Difference 3: 经过 can also be a noun meaning 'the course of events, what happened'; 通过 cannot.",
+            "ex": [
+              {
+                "zh": "小王把事情的【经过】告诉我了，原来这件事真的跟你没关系。",
+                "vi": "Tiểu Vương đã kể cho tôi đầu đuôi sự việc, hóa ra chuyện này thật sự không liên quan đến bạn.",
+                "en": "Xiao Wang told me what happened. It turns out this really had nothing to do with you."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "____调查我们发现，客人住宾馆最关心的是干净不干净。",
+              "key": "通过 ✓ · 经过 ✓",
+              "a": "【通过】/【经过】调查我们发现，客人住宾馆最关心的是干净不干净。",
+              "vi": "Qua khảo sát chúng tôi phát hiện, khách ở khách sạn quan tâm nhất là có sạch sẽ hay không.",
+              "en": "Through our survey we found that what hotel guests care about most is cleanliness."
+            },
+            {
+              "q": "这是保修卡，遇到什么问题，您可以____上面的电话联系我们。",
+              "key": "通过 ✓ · 经过 ✗ (nhấn mạnh phương tiện)",
+              "a": "这是保修卡，遇到什么问题，您可以【通过】上面的电话联系我们。",
+              "vi": "Đây là thẻ bảo hành, gặp vấn đề gì ông có thể liên hệ chúng tôi qua số điện thoại ở trên.",
+              "en": "This is the warranty card. If you have any problems, you can contact us at the number on it."
+            },
+            {
+              "q": "我不了解这件事情的____，你问问其他人吧。",
+              "key": "通过 ✗ · 经过 ✓ (làm danh từ)",
+              "a": "我不了解这件事情的【经过】，你问问其他人吧。",
+              "vi": "Tôi không rõ diễn biến của việc này, bạn hỏi người khác đi.",
+              "en": "I don't know how this came about. Ask someone else."
+            },
+            {
+              "q": "____这段时间的学习，他的汉语水平提高了不少。",
+              "key": "经过 ✓ (quá trình) · 通过 ✓",
+              "a": "【经过】/【通过】这段时间的学习，他的汉语水平提高了不少。",
+              "vi": "Qua thời gian học tập này, trình độ tiếng Trung của anh ấy đã nâng cao không ít.",
+              "en": "After this period of study, his Chinese has improved a lot."
+            },
+            {
+              "q": "有些人____节食的方法来减肥，虽然有效，但是时间长了对身体没有好处。",
+              "key": "通过 ✓ · 经过 ✗ (nhấn mạnh phương pháp)",
+              "a": "有些人【通过】节食的方法来减肥，虽然有效，但是时间长了对身体没有好处。",
+              "vi": "Có người giảm cân bằng cách nhịn ăn, tuy có hiệu quả nhưng lâu dần không tốt cho sức khỏe.",
+              "en": "Some people lose weight by dieting; it works, but in the long run it's bad for your health."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "《人与自然》这个节目一直很受欢迎，____。",
+            "hint": "通过",
+            "a": "《人与自然》这个节目一直很受欢迎，【通过它我了解了很多关于动物的知识】。",
+            "vi": "Chương trình “Con người và Thiên nhiên” luôn được yêu thích, qua đó tôi hiểu được nhiều kiến thức về động vật.",
+            "en": "The programme Man and Nature has always been popular. Through it I've learned a lot about animals.",
+            "sample": true
+          },
+          {
+            "q": "A：这次HSK考试你考得怎么样？\nB：____。",
+            "hint": "通过",
+            "a": "A：这次HSK考试你考得怎么样？\nB：【我已经通过了】。",
+            "vi": "A: Kỳ thi HSK lần này bạn làm thế nào?\nB: Tôi đã thi đỗ rồi.",
+            "en": "A: How did you do in the HSK this time?\nB: I passed.",
+            "sample": true
+          },
+          {
+            "q": "A：您为什么会写这本书呢？\nB：____。",
+            "hint": "通过",
+            "a": "A：您为什么会写这本书呢？\nB：【我希望通过这本书让更多的人了解中国文化】。",
+            "vi": "A: Vì sao ông lại viết cuốn sách này?\nB: Tôi mong thông qua cuốn sách này giúp nhiều người hiểu văn hóa Trung Quốc hơn.",
+            "en": "A: Why did you write this book?\nB: I hope this book will help more people understand Chinese culture.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "可是",
+      "uses": [
+        {
+          "vi": "Liên từ 可是 được dùng ở vế sau của câu phức để chỉ sự chuyển ý. 虽然 thường được dùng ở vế câu trước để kết hợp với 可是.",
+          "en": "The conjunction 可是 (but) is used in the second clause of a complex sentence to show a contrast. 虽然 often appears in the first clause to pair with it.",
+          "ex": [
+            {
+              "zh": "A：你怎么又想换工作了，这儿的收入不是挺高的吗？\nB：虽然收入高，【可是】经常要加班，很少有时间和家人在一起。",
+              "vi": "A: Sao bạn lại muốn đổi việc nữa, thu nhập ở đây chẳng phải khá cao sao?\nB: Tuy thu nhập cao nhưng thường xuyên phải tăng ca, ít có thời gian ở bên gia đình.",
+              "en": "A: Why do you want to change jobs again? Isn't the pay here pretty good?\nB: The pay is good, but I often have to work overtime and rarely get time with my family."
+            },
+            {
+              "zh": "小时候，大家都说我像我妈，尤其是性格。【可是】长大后，他们说我更像爸爸。",
+              "vi": "Hồi nhỏ ai cũng nói tôi giống mẹ, nhất là tính cách. Nhưng lớn lên rồi, họ lại nói tôi giống bố hơn.",
+              "en": "When I was little, everyone said I was like my mum, especially in personality. But now that I've grown up, they say I'm more like my dad."
+            },
+            {
+              "zh": "当时她的父母和亲戚都不支持她，【可是】她坚持自己的选择，现在终于向所有人证明了她的选择是正确的。",
+              "vi": "Lúc đó bố mẹ và họ hàng đều không ủng hộ cô ấy, nhưng cô ấy vẫn kiên trì với lựa chọn của mình, giờ cuối cùng đã chứng minh với mọi người rằng lựa chọn đó là đúng đắn.",
+              "en": "At the time her parents and relatives didn't support her, but she stuck to her choice, and now she has finally proved to everyone that it was the right one."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "他虽然写得比较慢，____。",
+            "hint": "可是",
+            "a": "他虽然写得比较慢，【可是写得很认真】。",
+            "vi": "Anh ấy tuy viết khá chậm nhưng viết rất cẩn thận.",
+            "en": "Although he writes rather slowly, he writes very carefully.",
+            "sample": true
+          },
+          {
+            "q": "A：你为什么不喜欢小王？他不是挺诚实的吗？\nB：____。",
+            "hint": "可是",
+            "a": "A：你为什么不喜欢小王？他不是挺诚实的吗？\nB：【他是挺诚实的，可是脾气太不好了】。",
+            "vi": "A: Sao bạn không thích Tiểu Vương? Chẳng phải cậu ấy khá thật thà sao?\nB: Cậu ấy thật thà thì có, nhưng tính khí tệ quá.",
+            "en": "A: Why don't you like Xiao Wang? Isn't he pretty honest?\nB: He's honest, but he has a terrible temper.",
+            "sample": true
+          },
+          {
+            "q": "A：我约了几个同学星期六上午去打网球，你也去吧。\nB：____。",
+            "hint": "可是",
+            "a": "A：我约了几个同学星期六上午去打网球，你也去吧。\nB：【我很想去，可是星期六上午我得{děi}去图书馆】。",
+            "vi": "A: Tôi hẹn mấy bạn sáng thứ bảy đi đánh quần vợt, bạn cũng đi nhé.\nB: Tôi rất muốn đi, nhưng sáng thứ bảy tôi phải đến thư viện.",
+            "en": "A: I've arranged to play tennis with some classmates on Saturday morning. Come along.\nB: I'd love to, but I have to go to the library on Saturday morning.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "结果",
+      "uses": [
+        {
+          "vi": "结果 có thể được dùng làm danh từ để chỉ trạng thái cuối cùng trong diễn biến của sự việc (kết quả).",
+          "en": "As a noun, 结果 means 'result, outcome': the final state that something reaches.",
+          "ex": [
+            {
+              "zh": "小张，你这份计划书写得不错，就按照这个计划去做市场调查吧。下个月把调查【结果】交上来。",
+              "vi": "Tiểu Trương, bản kế hoạch này cậu viết khá tốt, cứ theo kế hoạch này mà đi điều tra thị trường. Tháng sau nộp kết quả điều tra lên.",
+              "en": "Xiao Zhang, this plan of yours is well written. Go ahead with the market research as planned, and hand in the results next month."
+            },
+            {
+              "zh": "如果你想做什么事情，那就勇敢地{de}去做，不要担心【结果】，不要考虑会不会失败。",
+              "vi": "Nếu bạn muốn làm điều gì thì cứ dũng cảm làm, đừng lo lắng về kết quả, đừng nghĩ xem có thất bại hay không.",
+              "en": "If there's something you want to do, go ahead and do it bravely. Don't worry about the outcome or whether you might fail."
+            }
+          ]
+        },
+        {
+          "vi": "结果 cũng có thể được sử dụng làm liên từ chỉ quan hệ nhân quả. Người ta dùng 结果 ở vế câu sau để diễn tả kết quả của tình huống được đề cập ở vế câu trước (kết quả là, rốt cuộc).",
+          "en": "结果 can also be a conjunction showing cause and effect. It opens the second clause to say how the situation in the first clause turned out: 'as a result, in the end'.",
+          "ex": [
+            {
+              "zh": "我妻子想减肥，所以她每天早上都去骑马。【结果】马竟然在一个月之内瘦了二十斤。",
+              "vi": "Vợ tôi muốn giảm cân nên sáng nào cũng đi cưỡi ngựa. Kết quả là con ngựa lại sụt mất mười cân trong vòng một tháng.",
+              "en": "My wife wanted to lose weight, so she went horse riding every morning. As a result, the horse lost ten kilos in a month."
+            },
+            {
+              "zh": "有些人爱说“差不多”。例如，每天的工作都是完成得差不多，【结果】，积累下来，就变成差很多了。",
+              "vi": "Có người thích nói “tàm tạm”. Ví dụ, công việc mỗi ngày đều hoàn thành tàm tạm, kết quả là cộng dồn lại thì thành ra thiếu sót rất nhiều.",
+              "en": "Some people love saying “close enough”. For example, they finish each day's work “more or less”, and in the end it adds up to falling far short."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "没有人能随随便便成功，成功都是____。",
+            "hint": "结果",
+            "a": "没有人能随随便便成功，成功都是【努力的结果】。",
+            "vi": "Không ai tùy tiện mà thành công được, thành công đều là kết quả của sự nỗ lực.",
+            "en": "Nobody succeeds just like that; success is always the result of hard work.",
+            "sample": true
+          },
+          {
+            "q": "昨天晚上我一直工作到很晚才睡，____。",
+            "hint": "结果",
+            "a": "昨天晚上我一直工作到很晚才睡，【结果今天早上起晚了】。",
+            "vi": "Tối qua tôi làm việc đến rất khuya mới ngủ, kết quả sáng nay dậy muộn.",
+            "en": "I worked until very late last night, so I overslept this morning.",
+            "sample": true
+          },
+          {
+            "q": "A：昨天的面试____？\nB：明天或者后天吧，他们会打电话通知。",
+            "hint": "结果",
+            "a": "A：昨天的面试【什么时候出结果】？\nB：明天或者后天吧，他们会打电话通知。",
+            "vi": "A: Buổi phỏng vấn hôm qua khi nào có kết quả?\nB: Chắc ngày mai hoặc ngày kia, họ sẽ gọi điện báo.",
+            "en": "A: When will you get the results of yesterday's interview?\nB: Tomorrow or the day after. They'll phone to let me know.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "上",
+      "uses": [
+        {
+          "vi": "Động từ 上 diễn tả ý đạt đến hoặc đủ (số lượng hay mức độ nhất định), theo sau nó thường là tân ngữ chỉ số lượng.",
+          "en": "The verb 上 means 'to reach, amount to (a certain number or degree)'. It is usually followed by an object expressing a quantity: 'up to, as many as'.",
+          "ex": [
+            {
+              "zh": "这个城市的地铁已经有【上】百年的历史了。",
+              "vi": "Tàu điện ngầm của thành phố này đã có lịch sử cả trăm năm rồi.",
+              "en": "This city's subway already has a history of a hundred years or so."
+            },
+            {
+              "zh": "每年有成千【上】万的高中毕业生参加艺术考试。",
+              "vi": "Mỗi năm có hàng nghìn hàng vạn học sinh tốt nghiệp trung học phổ thông tham gia kỳ thi nghệ thuật.",
+              "en": "Every year tens of thousands of high-school graduates take the arts exams."
+            },
+            {
+              "zh": "爱迪生就是在找了【上】千种材料后才找到了能点亮电灯的材料。",
+              "vi": "Edison đã phải tìm thử cả nghìn loại vật liệu mới tìm ra được vật liệu có thể làm sáng bóng đèn điện.",
+              "en": "Edison only found a material that could light up the electric lamp after trying over a thousand different materials."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "这件事发生在1914年，____。",
+            "hint": "上",
+            "a": "这件事发生在1914年，【已经有上百年了】。",
+            "vi": "Việc này xảy ra năm 1914, đã hơn một trăm năm rồi.",
+            "en": "This happened in 1914, over a hundred years ago.",
+            "sample": true
+          },
+          {
+            "q": "这张本来值两三毛钱的旧报纸可以卖出两三百元的高价，____。",
+            "hint": "上",
+            "a": "这张本来值两三毛钱的旧报纸可以卖出两三百元的高价，【价格上涨了上千倍】。",
+            "vi": "Tờ báo cũ vốn chỉ đáng giá hai ba hào này có thể bán được với giá cao hai ba trăm tệ, giá tăng lên hàng nghìn lần.",
+            "en": "This old newspaper, originally worth a few jiao, can sell for two or three hundred yuan, more than a thousand times its price.",
+            "sample": true
+          },
+          {
+            "q": "这个电影很有名，____。",
+            "hint": "上",
+            "a": "这个电影很有名，【已经有上亿人看过了】。",
+            "vi": "Bộ phim này rất nổi tiếng, đã có hơn trăm triệu người xem.",
+            "en": "This film is very famous; over a hundred million people have seen it.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "孙月的语气：\n我今天买了很多饼干和巧克力。……",
+          "label": "课文1",
+          "a": "我今天买了很多饼干和巧克力。我减了一个月都没瘦下来，只轻了一公斤，实在没有信心了。王静告诉我，一个月太短了，要想减肥成功，只能坚持，才会慢慢有效果。我本来已经打算放弃了，但是她的话让我改变了主意，所以我把饼干和巧克力送给她了。",
+          "vi": "Hôm nay tôi mua rất nhiều bánh quy và sô-cô-la. Tôi giảm cân một tháng mà không gầy đi, chỉ nhẹ được một cân, thật sự mất tự tin. Vương Tịnh nói với tôi một tháng quá ngắn, muốn giảm cân thành công chỉ có kiên trì mới dần có hiệu quả. Lúc đầu tôi định bỏ cuộc, nhưng lời cô ấy khiến tôi đổi ý, nên tôi tặng bánh quy và sô-cô-la cho cô ấy.",
+          "en": "Today I bought lots of biscuits and chocolate. I'd dieted for a month and only lost one kilo, so I'd lost all confidence. Wang Jing told me a month is too short and that to succeed I just have to keep going. I'd been about to give up, but what she said changed my mind, so I gave her the biscuits and chocolate.",
+          "sample": true
+        },
+        {
+          "q": "李进的语气：\n张远网球打得特别好，……",
+          "label": "课文2",
+          "a": "张远网球打得特别好，还得过很多国际大奖。我以为他轻轻松松就赢了，他告诉我，不管春夏秋冬，他练球从来没有休息过一天。看来我只看到了他成功时获得的鲜花，却没注意到他成功前流下的汗水。他说任何成功都要通过努力才能得到，只要我坚持练习，也会越打越好。",
+          "vi": "Trương Viễn chơi quần vợt rất giỏi, còn giành được nhiều giải quốc tế lớn. Tôi cứ tưởng cậu ấy thắng dễ dàng, cậu ấy nói bất kể xuân hạ thu đông chưa từng nghỉ tập ngày nào. Xem ra tôi chỉ thấy những bó hoa lúc cậu ấy thành công mà không thấy mồ hôi đổ ra trước đó. Cậu ấy nói thành công nào cũng phải nhờ nỗ lực, chỉ cần tôi kiên trì luyện tập cũng sẽ ngày càng giỏi.",
+          "en": "Zhang Yuan plays tennis brilliantly and has won lots of big international prizes. I thought he won easily, but he told me he's never taken a day off practice in any season. I'd only seen his flowers, not his sweat. He says any success has to be earned, and if I keep practising I'll keep getting better too.",
+          "sample": true
+        },
+        {
+          "q": "王红的语气：\n我毕业后放弃了律师的工作，……",
+          "label": "课文3",
+          "a": "我毕业后放弃了律师的工作，开始专门写小说。当时我的父母和亲戚都不支持我，可是我坚持自己的选择，现在我已经是一个有名的作家了，终于向所有人证明了我的选择是正确的。一个人不可能得到所有想要的东西，有时候放弃是一种聪明的选择。",
+          "vi": "Tốt nghiệp xong tôi bỏ công việc luật sư, bắt đầu chuyên tâm viết tiểu thuyết. Lúc đó bố mẹ và họ hàng đều không ủng hộ, nhưng tôi kiên trì lựa chọn của mình, bây giờ tôi đã là một nhà văn nổi tiếng, cuối cùng đã chứng minh với mọi người lựa chọn của tôi là đúng. Một người không thể có được mọi thứ mình muốn, đôi khi từ bỏ là một lựa chọn thông minh.",
+          "en": "After graduating I gave up law and started writing novels full-time. My parents and relatives didn't support me, but I stuck to my choice. Now I'm a famous writer and have finally proved to everyone that I was right. You can't have everything you want; sometimes giving up is a wise choice.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "过程",
+        "至少",
+        "区别",
+        "正确",
+        "暂时"
+      ],
+      "items": [
+        {
+          "q": "我住的地方离地铁站有点儿远，走路____要三十分钟。",
+          "key": "至少",
+          "a": "我住的地方离地铁站有点儿远，走路【至少】要三十分钟。",
+          "vi": "Chỗ tôi ở hơi xa ga tàu điện ngầm, đi bộ ít nhất mất ba mươi phút.",
+          "en": "Where I live is a bit far from the subway station; it takes at least thirty minutes on foot."
+        },
+        {
+          "q": "所有的困难都是____的，要有信心，我相信你一定会成功。",
+          "key": "暂时",
+          "a": "所有的困难都是【暂时】的，要有信心，我相信你一定会成功。",
+          "vi": "Mọi khó khăn đều là tạm thời, phải có niềm tin, tôi tin bạn nhất định sẽ thành công.",
+          "en": "All difficulties are temporary. Have faith; I'm sure you'll succeed."
+        },
+        {
+          "q": "“爱”和“喜欢”有什么____？我认为“爱”比“喜欢”的感情更深。",
+          "key": "区别",
+          "a": "“爱”和“喜欢”有什么【区别】？我认为“爱”比“喜欢”的感情更深。",
+          "vi": "“Yêu” và “thích” khác nhau ở điểm nào? Tôi cho rằng tình cảm “yêu” sâu đậm hơn “thích”.",
+          "en": "What's the difference between “love” and “like”? I think “love” is a deeper feeling."
+        },
+        {
+          "q": "其实，只要我们真正努力过了，就不需要太关心结果。因为不管最后是成功还是失败，在努力的____中，我们已经学到了很多东西。",
+          "key": "过程",
+          "a": "其实，只要我们真正努力过了，就不需要太关心结果。因为不管最后是成功还是失败，在努力的【过程】中，我们已经学到了很多东西。",
+          "vi": "Thật ra chỉ cần chúng ta thật sự đã cố gắng thì không cần quá quan tâm kết quả. Vì dù cuối cùng thành công hay thất bại, trong quá trình nỗ lực chúng ta đã học được rất nhiều điều.",
+          "en": "Actually, as long as we've truly tried, we needn't worry too much about the result. Whether we succeed or fail in the end, we've learned a lot in the process."
+        },
+        {
+          "q": "减肥不只是为了瘦，更是为了健康。____的减肥方法是按时吃饭，多吃水果，多运动，而不是饿肚子。",
+          "key": "正确",
+          "a": "减肥不只是为了瘦，更是为了健康。【正确】的减肥方法是按时吃饭，多吃水果，多运动，而不是饿肚子。",
+          "vi": "Giảm cân không chỉ để gầy mà còn vì sức khỏe. Cách giảm cân đúng là ăn đúng bữa, ăn nhiều hoa quả, vận động nhiều, chứ không phải nhịn đói.",
+          "en": "Losing weight isn't just about being thin; it's about health. The right way is to eat regular meals, eat more fruit and exercise more, not to starve yourself."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "汗",
+        "得{děi}",
+        "取",
+        "理想",
+        "放弃"
+      ],
+      "items": [
+        {
+          "q": "A：师傅，麻烦您快点儿行吗？我____在九点之前到大使馆。\nB：不用担心，保证按时把您送到。",
+          "key": "得 (děi)",
+          "a": "A：师傅，麻烦您快点儿行吗？我【得{děi}】在九点之前到大使馆。\nB：不用担心，保证按时把您送到。",
+          "vi": "A: Bác ơi, phiền bác đi nhanh chút được không? Tôi phải đến đại sứ quán trước chín giờ.\nB: Đừng lo, đảm bảo đưa anh đến đúng giờ.",
+          "en": "A: Could you go a bit faster, please? I have to be at the embassy before nine.\nB: Don't worry, I'll get you there on time."
+        },
+        {
+          "q": "A：你哥不是说三点到吗？都过去半个小时了，怎么还没出来？\nB：他还得{děi}去____行李箱，您别担心，我打个电话问问。",
+          "key": "取",
+          "a": "A：你哥不是说三点到吗？都过去半个小时了，怎么还没出来？\nB：他还得{děi}去【取】行李箱，您别担心，我打个电话问问。",
+          "vi": "A: Chẳng phải anh cậu nói ba giờ đến sao? Quá nửa tiếng rồi sao vẫn chưa ra?\nB: Anh ấy còn phải đi lấy vali, bác đừng lo, cháu gọi điện hỏi thử.",
+          "en": "A: Didn't your brother say he'd arrive at three? It's been half an hour. Why hasn't he come out?\nB: He has to collect his suitcase. Don't worry, I'll give him a call."
+        },
+        {
+          "q": "A：外面热吗？你怎么满头大____？\nB：电梯坏了，我爬楼梯上来的。",
+          "key": "汗",
+          "a": "A：外面热吗？你怎么满头大【汗】？\nB：电梯坏了，我爬楼梯上来的。",
+          "vi": "A: Bên ngoài nóng à? Sao bạn mồ hôi đầm đìa thế?\nB: Thang máy hỏng, tôi leo cầu thang lên.",
+          "en": "A: Is it hot outside? Why are you dripping with sweat?\nB: The lift's broken, so I came up the stairs."
+        },
+        {
+          "q": "A：你考虑清楚了？真的要____这次机会？\nB：是的，我妈妈身体不太好，我决定留下来照顾她。",
+          "key": "放弃",
+          "a": "A：你考虑清楚了？真的要【放弃】这次机会？\nB：是的，我妈妈身体不太好，我决定留下来照顾她。",
+          "vi": "A: Bạn suy nghĩ kỹ chưa? Thật sự muốn từ bỏ cơ hội lần này à?\nB: Vâng, sức khỏe mẹ tôi không tốt lắm, tôi quyết định ở lại chăm sóc mẹ.",
+          "en": "A: Have you thought it through? Do you really want to give up this opportunity?\nB: Yes. My mother isn't very well, so I've decided to stay and look after her."
+        },
+        {
+          "q": "A：你研究生考试考得怎么样？\nB：数学可能考得不太____。",
+          "key": "理想",
+          "a": "A：你研究生考试考得怎么样？\nB：数学可能考得不太【理想】。",
+          "vi": "A: Kỳ thi cao học của bạn thế nào?\nB: Môn toán có lẽ làm không được như ý lắm.",
+          "en": "A: How did your postgraduate entrance exam go?\nB: Maths probably didn't go as well as I'd hoped."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 果",
+    "en": "Words sharing a character: 果",
+    "words": [
+      {
+        "zh": "如果",
+        "py": "rúguǒ",
+        "vi": "nếu",
+        "en": "if"
+      },
+      {
+        "zh": "结果",
+        "py": "jiéguǒ",
+        "vi": "kết quả",
+        "en": "result"
+      },
+      {
+        "zh": "效果",
+        "py": "xiàoguǒ",
+        "vi": "hiệu quả",
+        "en": "effect"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "现在朋友之间流行发各种幽默短信，这给我们的生活带来一些快乐。但是【如果】同样的短信你收到了三四遍，再幽默的短信你也笑不出来了。",
+        "vi": "Bây giờ giữa bạn bè thịnh hành gửi đủ loại tin nhắn hài hước, điều này mang lại chút niềm vui cho cuộc sống. Nhưng nếu cùng một tin nhắn bạn nhận được ba bốn lần thì có hài hước mấy cũng không cười nổi.",
+        "en": "Sending funny text messages is popular among friends now and brings some fun into our lives. But if you get the same message three or four times, however funny it is, you won't laugh any more."
+      },
+      {
+        "zh": "A：没有你的帮助，我肯定不能按时完成任务，真是太谢谢你了！\nB：你太客气了，我不过是说了一点儿想法，这一切都是你自己辛苦努力的【结果】。",
+        "vi": "A: Không có bạn giúp, chắc chắn tôi không thể hoàn thành nhiệm vụ đúng hạn, cảm ơn bạn nhiều lắm!\nB: Bạn khách sáo quá, tôi chỉ nói chút ý kiến thôi, tất cả đều là kết quả của sự nỗ lực vất vả của chính bạn.",
+        "en": "A: Without your help I'd never have finished on time. Thank you so much!\nB: Don't mention it. I only gave a few ideas; it's all the result of your own hard work."
+      },
+      {
+        "zh": "尽管很辛苦，但他还是坚持每天做运动，几个月下来，减肥的【效果】很不错。",
+        "vi": "Tuy rất vất vả nhưng anh ấy vẫn kiên trì vận động mỗi ngày, mấy tháng sau hiệu quả giảm cân rất tốt.",
+        "en": "Although it was hard, he kept exercising every day, and after a few months his weight loss was impressive."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "如果",
+        "结果",
+        "效果"
+      ],
+      "items": [
+        {
+          "q": "做事情，不要一开始就考虑过多：会不会很难，____会怎么样……这些其实都不重要，关键是要勇敢地{de}去做，只有去做，一切才有可能。",
+          "key": "结果",
+          "a": "做事情，不要一开始就考虑过多：会不会很难，【结果】会怎么样……这些其实都不重要，关键是要勇敢地{de}去做，只有去做，一切才有可能。",
+          "vi": "Làm việc gì cũng đừng ngay từ đầu cân nhắc quá nhiều: có khó không, kết quả sẽ thế nào… Những điều này thật ra đều không quan trọng, điều cốt yếu là dũng cảm bắt tay vào làm, chỉ có làm thì mọi thứ mới có thể.",
+          "en": "When you do something, don't overthink it at the start: will it be hard, what will the result be… None of that really matters. The key is to be brave and do it; only by doing is anything possible."
+        },
+        {
+          "q": "春天天气时冷时热，容易感冒，医生提醒人们要注意室内空气质量，早上起床后应该打开窗户换换空气。____感冒了，要及时去医院。",
+          "key": "如果",
+          "a": "春天天气时冷时热，容易感冒，医生提醒人们要注意室内空气质量，早上起床后应该打开窗户换换空气。【如果】感冒了，要及时去医院。",
+          "vi": "Mùa xuân thời tiết lúc lạnh lúc nóng, dễ bị cảm, bác sĩ nhắc mọi người chú ý chất lượng không khí trong nhà, sáng dậy nên mở cửa sổ cho thoáng khí. Nếu bị cảm thì phải kịp thời đi bệnh viện.",
+          "en": "In spring the weather keeps changing and it's easy to catch a cold. Doctors remind people to pay attention to indoor air quality and open the windows in the morning. If you do catch a cold, see a doctor promptly."
+        },
+        {
+          "q": "水果减肥法是指通过每天只吃水果而不再吃别的东西来减肥的一种方法。这样减肥虽然有一定的____，却很不健康。",
+          "key": "效果",
+          "a": "水果减肥法是指通过每天只吃水果而不再吃别的东西来减肥的一种方法。这样减肥虽然有一定的【效果】，却很不健康。",
+          "vi": "Phương pháp giảm cân bằng hoa quả là cách giảm cân bằng việc mỗi ngày chỉ ăn hoa quả mà không ăn gì khác. Giảm cân như vậy tuy có hiệu quả nhất định nhưng lại rất không lành mạnh.",
+          "en": "The fruit diet is a way of losing weight by eating nothing but fruit every day. It does work to some extent, but it's very unhealthy."
+        }
+      ]
+    }
+  }
+}

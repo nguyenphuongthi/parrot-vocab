@@ -1,0 +1,1013 @@
+{
+  "n": 15,
+  "zh": "纸上谈兵",
+  "vi": "Đánh trận trên giấy",
+  "en": "Fighting battles on paper",
+  "texts": [
+    {
+      "title": "纸上谈兵",
+      "paras": [
+        {
+          "zh": "两千七百多年前的战国末期，赵国名将赵奢有个儿子叫赵括，他从小读了不少兵书，跟别人谈论起军事来，没有人说得过他，就是父亲赵奢也难不住他。赵括因此很骄傲，自以为{wéi}天下无敌，连父亲也不放在眼里。",
+          "vi": "Hơn hai nghìn bảy trăm năm trước, vào cuối thời Chiến Quốc, danh tướng nước Triệu là Triệu Xa có một người con trai tên Triệu Quát. Từ nhỏ Triệu Quát đã đọc không ít binh thư, bàn luận chuyện quân sự với người khác thì không ai nói lại được, ngay cả cha là Triệu Xa cũng không làm khó được anh ta. Vì thế Triệu Quát rất kiêu ngạo, tự cho mình là vô địch thiên hạ, ngay cả cha cũng không coi ra gì.",
+          "en": "More than 2,700 years ago, at the end of the Warring States period, Zhao She, a famous general of the State of Zhao, had a son called Zhao Kuo. Zhao Kuo had read many books on warfare since childhood, and when it came to talking about military matters, nobody could out-argue him; even his father couldn't stump him. So Zhao Kuo became very arrogant, thinking himself invincible and looking down even on his father."
+        },
+        {
+          "zh": "但是赵奢心里明白，自己的儿子虽然对军事理论都很了解，但是没有实际作战的经验，想法很不符合实际。他曾经偷偷对妻子说：“儿子的毛病是只会讲大道理，缺乏实际锻炼，不能当大将。如果让他当了大将，迟早会害了赵国。”",
+          "vi": "Nhưng Triệu Xa hiểu rõ trong lòng, con trai mình tuy rất hiểu lý luận quân sự nhưng không có kinh nghiệm thực chiến, suy nghĩ rất không phù hợp với thực tế. Ông từng lén nói với vợ: “Khuyết điểm của con là chỉ biết nói đạo lý lớn, thiếu rèn luyện thực tế, không thể làm đại tướng. Nếu để nó làm đại tướng, sớm muộn gì cũng hại nước Triệu.”",
+          "en": "But Zhao She knew that although his son understood military theory well, he had no real battle experience and his ideas didn't match reality. He once told his wife privately, “Our son's problem is that he can only talk grand principles; he lacks practical training and can't be a great general. If he's ever made a general, sooner or later he'll bring ruin on Zhao.”"
+        },
+        {
+          "zh": "几年后，赵奢去世了。这一年正好秦国军队来打赵国，赵国派老将廉颇带20万大军迎战。廉颇根据敌强我弱的形势，命令士兵们坚守阵地，绝对不可主动出战。秦军多次挑战，骂他是胆小鬼，他还是不出兵。这个办法果然非常有效，成功地{de}把秦军拦在了国门之外。渐渐地{de}，秦军无法快速取得胜利，粮食也快没了，有些坚持不住了。",
+          "vi": "Vài năm sau, Triệu Xa qua đời. Đúng năm đó quân Tần đến đánh nước Triệu, nước Triệu cử lão tướng Liêm Pha dẫn 20 vạn đại quân nghênh chiến. Liêm Pha căn cứ vào tình thế địch mạnh ta yếu, ra lệnh cho binh lính cố thủ trận địa, tuyệt đối không được chủ động xuất chiến. Quân Tần nhiều lần khiêu chiến, mắng ông là đồ hèn nhát, ông vẫn không xuất quân. Cách này quả nhiên rất hiệu quả, chặn thành công quân Tần ở ngoài cửa nước. Dần dần, quân Tần không thể nhanh chóng giành thắng lợi, lương thực cũng sắp hết, có phần không trụ nổi nữa.",
+          "en": "A few years later, Zhao She died. That very year the Qin army attacked Zhao, and Zhao sent the veteran general Lian Po with 200,000 troops to meet them. Since the enemy was strong and they were weak, Lian Po ordered his soldiers to hold their positions and never go out to fight. The Qin army challenged them again and again, calling him a coward, but he still didn't send out his troops. This worked very well, successfully keeping the Qin army outside the borders. Gradually the Qin army couldn't win quickly, its food was running out, and it began to struggle."
+        },
+        {
+          "zh": "秦人深知廉颇善于用兵，如果想在短期内打败赵国，必须想办法叫赵国把廉颇调{diào}回去。于是，他们在赵国四处散{sàn}布谣言，说秦军最怕赵括，别的人都不放在眼里。",
+          "vi": "Người Tần biết rõ Liêm Pha giỏi dụng binh, nếu muốn đánh bại nước Triệu trong thời gian ngắn thì phải tìm cách khiến nước Triệu điều Liêm Pha về. Thế là họ tung tin đồn khắp nước Triệu, nói quân Tần sợ nhất Triệu Quát, những người khác đều không coi ra gì.",
+          "en": "The Qin knew very well that Lian Po was a skilled commander; if they wanted to defeat Zhao quickly, they had to find a way to get Zhao to recall him. So they spread rumours all over Zhao that the Qin army feared Zhao Kuo most and didn't think much of anyone else."
+        },
+        {
+          "zh": "这时，赵王正因廉颇闭门不战而生气呢，听到外面的那些谣言，果然上当了，他派赵括去换回廉颇。赵括的母亲再三阻止赵王任命儿子为{wéi}大将，说他还没有独立带兵作战的资格。可是，糊涂的赵王哪里听得进去！",
+          "vi": "Lúc này, vua Triệu đang tức giận vì Liêm Pha đóng cửa không đánh, nghe những tin đồn bên ngoài, quả nhiên mắc lừa, ông cử Triệu Quát đi thay Liêm Pha. Mẹ của Triệu Quát nhiều lần ngăn vua Triệu bổ nhiệm con trai làm đại tướng, nói anh ta chưa đủ tư cách một mình dẫn quân tác chiến. Nhưng vua Triệu hồ đồ làm sao nghe lọt tai!",
+          "en": "At this time the King of Zhao was angry with Lian Po for shutting himself in and refusing to fight. Hearing the rumours, he fell for them and sent Zhao Kuo to replace Lian Po. Zhao Kuo's mother repeatedly tried to stop the king appointing her son general, saying he wasn't yet qualified to lead troops on his own. But the muddle-headed king wouldn't listen!"
+        },
+        {
+          "zh": "公元前260年，赵括带兵出战。一直盲目自信、轻视秦军的他完全改变了廉颇的作战方案，死搬书上的理论，主动进攻秦军，结果数十万赵军全部被杀，丢掉了宝贵的生命。",
+          "vi": "Năm 260 trước Công nguyên, Triệu Quát dẫn quân xuất chiến. Luôn tự tin mù quáng, coi thường quân Tần, anh ta hoàn toàn thay đổi phương án tác chiến của Liêm Pha, rập khuôn lý luận trong sách, chủ động tấn công quân Tần, kết quả mấy chục vạn quân Triệu đều bị giết, mất đi sinh mạng quý giá.",
+          "en": "In 260 BC Zhao Kuo led the troops into battle. Blindly confident and contemptuous of the Qin army, he completely changed Lian Po's battle plan, rigidly applied the theories from his books and took the offensive against Qin. As a result, several hundred thousand Zhao soldiers were all killed, their precious lives lost."
+        },
+        {
+          "zh": "这就是成语“纸上谈兵”的故事。现在常用这个成语讽刺那些只会空谈理论的人，提醒大家做事一定要灵活，要注意理论联系实际。",
+          "vi": "Đó chính là câu chuyện của thành ngữ “bàn chuyện đánh giặc trên giấy”. Ngày nay người ta thường dùng thành ngữ này để châm biếm những người chỉ biết bàn suông lý thuyết, nhắc nhở mọi người làm việc nhất định phải linh hoạt, phải chú ý kết hợp lý luận với thực tế.",
+          "en": "That's the story behind the idiom “fighting battles on paper”. Today it's often used to mock people who can only talk theory, reminding us to be flexible in what we do and to link theory with practice."
+        }
+      ],
+      "words": [
+        {
+          "zh": "纸上谈兵",
+          "py": "zhǐshàng tánbīng",
+          "vi": "bàn chuyện đánh giặc trên giấy (lý luận suông)",
+          "en": "to fight battles on paper (empty theorizing)",
+          "x": true
+        },
+        {
+          "zh": "军事",
+          "py": "jūnshì",
+          "pos": "dt.",
+          "vi": "việc quân",
+          "en": "military affairs"
+        },
+        {
+          "zh": "敌（人）",
+          "py": "dí(rén)",
+          "pos": "dt.",
+          "vi": "quân địch",
+          "en": "enemy"
+        },
+        {
+          "zh": "理论",
+          "py": "lǐlùn",
+          "pos": "dt.",
+          "vi": "lý luận, lý thuyết",
+          "en": "theory"
+        },
+        {
+          "zh": "作战",
+          "py": "zuòzhàn",
+          "pos": "đgt.",
+          "vi": "đánh trận, chiến đấu",
+          "en": "to fight, to do battle"
+        },
+        {
+          "zh": "毛病",
+          "py": "máobing",
+          "pos": "dt.",
+          "vi": "khuyết điểm, tật xấu",
+          "en": "fault, problem"
+        },
+        {
+          "zh": "道理",
+          "py": "dàolǐ",
+          "pos": "dt.",
+          "vi": "lý lẽ, lý thuyết",
+          "en": "reason, principle"
+        },
+        {
+          "zh": "迟早",
+          "py": "chízǎo",
+          "pos": "phó.",
+          "vi": "sớm muộn",
+          "en": "sooner or later"
+        },
+        {
+          "zh": "军队",
+          "py": "jūnduì",
+          "pos": "dt.",
+          "vi": "quân đội",
+          "en": "army",
+          "x": true
+        },
+        {
+          "zh": "派",
+          "py": "pài",
+          "pos": "đgt.",
+          "vi": "phái đi, cử đi",
+          "en": "to send, to dispatch"
+        },
+        {
+          "zh": "弱",
+          "py": "ruò",
+          "pos": "tt.",
+          "vi": "yếu, kém",
+          "en": "weak"
+        },
+        {
+          "zh": "形势",
+          "py": "xíngshì",
+          "pos": "dt.",
+          "vi": "tình hình",
+          "en": "situation"
+        },
+        {
+          "zh": "命令",
+          "py": "mìnglìng",
+          "pos": "đgt./dt.",
+          "vi": "ra lệnh; mệnh lệnh",
+          "en": "to order; order"
+        },
+        {
+          "zh": "守",
+          "py": "shǒu",
+          "pos": "đgt.",
+          "vi": "phòng thủ, trấn giữ",
+          "en": "to defend, to guard",
+          "x": true
+        },
+        {
+          "zh": "阵地",
+          "py": "zhèndì",
+          "pos": "dt.",
+          "vi": "trận địa, mặt trận",
+          "en": "position, front",
+          "x": true
+        },
+        {
+          "zh": "绝对",
+          "py": "juéduì",
+          "pos": "tt./phó.",
+          "vi": "tuyệt đối; nhất định",
+          "en": "absolute; absolutely"
+        },
+        {
+          "zh": "主动",
+          "py": "zhǔdòng",
+          "pos": "tt.",
+          "vi": "chủ động",
+          "en": "active, on one's own initiative"
+        },
+        {
+          "zh": "挑战",
+          "py": "tiǎozhàn",
+          "pos": "đgt./dt.",
+          "vi": "khiêu chiến, thách thức; sự thách thức",
+          "en": "to challenge; challenge"
+        },
+        {
+          "zh": "骂",
+          "py": "mà",
+          "pos": "đgt.",
+          "vi": "chửi, mắng",
+          "en": "to scold, to curse"
+        },
+        {
+          "zh": "胆小鬼",
+          "py": "dǎnxiǎoguǐ",
+          "pos": "dt.",
+          "vi": "kẻ hèn nhát",
+          "en": "coward"
+        },
+        {
+          "zh": "胜利",
+          "py": "shènglì",
+          "pos": "đgt.",
+          "vi": "thắng lợi",
+          "en": "to win; victory"
+        },
+        {
+          "zh": "调（动）",
+          "py": "diào(dòng)",
+          "pos": "đgt.",
+          "vi": "điều động, thuyên chuyển",
+          "en": "to transfer",
+          "x": true
+        },
+        {
+          "zh": "散布",
+          "py": "sànbù",
+          "pos": "đgt.",
+          "vi": "gieo rắc, truyền",
+          "en": "to spread",
+          "x": true
+        },
+        {
+          "zh": "谣言",
+          "py": "yáoyán",
+          "pos": "dt.",
+          "vi": "tin đồn",
+          "en": "rumour",
+          "x": true
+        },
+        {
+          "zh": "上当",
+          "py": "shàng dàng",
+          "pos": "đgt.",
+          "vi": "bị lừa, mắc lừa",
+          "en": "to be fooled"
+        },
+        {
+          "zh": "再三",
+          "py": "zàisān",
+          "pos": "phó.",
+          "vi": "nhiều lần, hết lần này đến lần khác",
+          "en": "again and again"
+        },
+        {
+          "zh": "阻止",
+          "py": "zǔzhǐ",
+          "pos": "đgt.",
+          "vi": "ngăn cản, cản trở",
+          "en": "to stop, to prevent"
+        },
+        {
+          "zh": "任命",
+          "py": "rènmìng",
+          "pos": "đgt.",
+          "vi": "bổ nhiệm",
+          "en": "to appoint",
+          "x": true
+        },
+        {
+          "zh": "独立",
+          "py": "dúlì",
+          "pos": "đgt.",
+          "vi": "có một mình, không lệ thuộc",
+          "en": "independent; to be on one's own"
+        },
+        {
+          "zh": "资格",
+          "py": "zīgé",
+          "pos": "dt.",
+          "vi": "tư cách",
+          "en": "qualification"
+        },
+        {
+          "zh": "糊涂",
+          "py": "hútu",
+          "pos": "tt.",
+          "vi": "đần độn, hồ đồ",
+          "en": "muddle-headed"
+        },
+        {
+          "zh": "公元",
+          "py": "gōngyuán",
+          "pos": "dt.",
+          "vi": "công nguyên",
+          "en": "AD (Common Era)"
+        },
+        {
+          "zh": "盲目",
+          "py": "mángmù",
+          "pos": "tt.",
+          "vi": "mù quáng",
+          "en": "blind",
+          "x": true
+        },
+        {
+          "zh": "轻视",
+          "py": "qīngshì",
+          "pos": "đgt.",
+          "vi": "khinh thường, xem thường",
+          "en": "to look down on"
+        },
+        {
+          "zh": "方案",
+          "py": "fāng'àn",
+          "pos": "dt.",
+          "vi": "kế hoạch, phương án",
+          "en": "plan, scheme"
+        },
+        {
+          "zh": "进攻",
+          "py": "jìngōng",
+          "pos": "đgt.",
+          "vi": "tấn công, công kích",
+          "en": "to attack",
+          "x": true
+        },
+        {
+          "zh": "宝贵",
+          "py": "bǎoguì",
+          "pos": "tt.",
+          "vi": "quý báu, quý giá",
+          "en": "precious"
+        },
+        {
+          "zh": "讽刺",
+          "py": "fěngcì",
+          "pos": "đgt.",
+          "vi": "châm biếm, mỉa mai",
+          "en": "to satirize, to mock"
+        },
+        {
+          "zh": "灵活",
+          "py": "línghuó",
+          "pos": "tt.",
+          "vi": "linh hoạt, nhạy bén",
+          "en": "flexible"
+        }
+      ],
+      "names": [
+        {
+          "zh": "战国",
+          "py": "Zhànguó",
+          "vi": "thời Chiến quốc (475 TCN – 221 TCN)",
+          "en": "the Warring States period (475–221 BC)"
+        },
+        {
+          "zh": "赵国",
+          "py": "Zhàoguó",
+          "vi": "nước Triệu",
+          "en": "the State of Zhao"
+        },
+        {
+          "zh": "赵奢",
+          "py": "Zhào Shē",
+          "vi": "Triệu Xa",
+          "en": "Zhao She"
+        },
+        {
+          "zh": "赵括",
+          "py": "Zhào Kuò",
+          "vi": "Triệu Quát",
+          "en": "Zhao Kuo"
+        },
+        {
+          "zh": "秦国",
+          "py": "Qínguó",
+          "vi": "nước Tần",
+          "en": "the State of Qin"
+        },
+        {
+          "zh": "廉颇",
+          "py": "Lián Pō",
+          "vi": "Liêm Pha",
+          "en": "Lian Po"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "过",
+      "py": "guò",
+      "uses": [
+        {
+          "vi": "过 (guò) là động từ xu hướng, cấu trúc thường gặp là “động từ + 得/不 + 过”, làm bổ ngữ, biểu thị ý thắng hơn (hơn được, không bằng).",
+          "en": "过 (guò) is a directional verb, usually in the pattern “verb + 得/不 + 过” as a complement, meaning to beat or outdo (be able / unable to beat).",
+          "ex": [
+            {
+              "zh": "……跟别人谈论起军事来，没有人说得【过】他，……",
+              "vi": "…bàn luận chuyện quân sự với người khác thì không ai nói lại được anh ta, …",
+              "en": "…when it came to talking about military matters, nobody could out-argue him, …"
+            },
+            {
+              "zh": "年轻人记忆力好，这一点我比不【过】你们。",
+              "vi": "Người trẻ trí nhớ tốt, điểm này tôi không bằng các bạn.",
+              "en": "Young people have good memories; in that respect I can't compete with you."
+            },
+            {
+              "zh": "我们的原材料贵，人工费用高，产品在价格上肯定竞争不【过】他们。",
+              "vi": "Nguyên liệu của chúng ta đắt, chi phí nhân công cao, về giá cả sản phẩm chắc chắn không cạnh tranh lại được họ.",
+              "en": "Our raw materials are expensive and labour costs are high, so we definitely can't compete with them on price."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "李阳受过专业训练，____。",
+            "hint": "过",
+            "a": "李阳受过专业训练，【跑步谁也跑不过他】。",
+            "vi": "Lý Dương đã qua huấn luyện chuyên nghiệp, chạy bộ không ai chạy hơn được cậu ấy.",
+            "en": "Li Yang has had professional training; nobody can outrun him.",
+            "sample": true
+          },
+          {
+            "q": "老张尽管是五十多岁的人了，可干起活儿来，____。",
+            "hint": "过",
+            "a": "老张尽管是五十多岁的人了，可干起活儿来，【年轻人都干不过他】。",
+            "vi": "Ông Trương dù đã ngoài năm mươi, nhưng làm việc thì người trẻ cũng không làm lại ông.",
+            "en": "Lao Zhang is over fifty, but when it comes to work, even young people can't keep up with him.",
+            "sample": true
+          },
+          {
+            "q": "A：____。\nB：你是哥哥，妹妹还小，不懂事，你得{děi}让着{zhe}她点儿。",
+            "hint": "Động từ + 不 + 过",
+            "a": "A：【我每次跟妹妹吵架都吵不过她】。\nB：你是哥哥，妹妹还小，不懂事，你得{děi}让着{zhe}她点儿。",
+            "vi": "A: Lần nào cãi nhau với em gái con cũng cãi không lại nó.\nB: Con là anh, em còn nhỏ chưa hiểu chuyện, con phải nhường em một chút.",
+            "en": "A: Every time I argue with my sister, I can't win.\nB: You're the big brother and she's still little and doesn't know better. You should give way to her a bit.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "迟早",
+      "uses": [
+        {
+          "vi": "迟早 là phó từ, phía sau thường đi với động từ, biểu thị hành động hoặc sự việc nào đó sớm muộn gì cũng sẽ xảy ra (sớm muộn).",
+          "en": "迟早 is an adverb usually followed by a verb, meaning an action or event will happen sooner or later.",
+          "ex": [
+            {
+              "zh": "如果让他当了大将，【迟早】会害了赵国。",
+              "vi": "Nếu để nó làm đại tướng, sớm muộn gì cũng hại nước Triệu.",
+              "en": "If he's ever made a general, sooner or later he'll bring ruin on Zhao."
+            },
+            {
+              "zh": "随着网络技术的发展，这些问题【迟早】都会得到解决。",
+              "vi": "Cùng với sự phát triển của công nghệ mạng, những vấn đề này sớm muộn đều sẽ được giải quyết.",
+              "en": "With the development of network technology, these problems will be solved sooner or later."
+            },
+            {
+              "zh": "如果不重视技术研究和产品开发，我们【迟早】会被别人挤出市场。",
+              "vi": "Nếu không coi trọng nghiên cứu kỹ thuật và phát triển sản phẩm, sớm muộn chúng ta sẽ bị người khác chen ra khỏi thị trường.",
+              "en": "If we don't value technical research and product development, sooner or later we'll be squeezed out of the market."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "王教练可严格了，你这种不认真的态度____。",
+            "hint": "迟早",
+            "a": "王教练可严格了，你这种不认真的态度【迟早会被他批评的】。",
+            "vi": "Huấn luyện viên Vương nghiêm khắc lắm, thái độ không nghiêm túc này của bạn sớm muộn sẽ bị ông ấy phê bình.",
+            "en": "Coach Wang is really strict. With your careless attitude, you'll get told off sooner or later.",
+            "sample": true
+          },
+          {
+            "q": "A：你说刘方为什么就不能原谅我呢？\nB：你别难过，____。",
+            "hint": "迟早",
+            "a": "A：你说刘方为什么就不能原谅我呢？\nB：你别难过，【她迟早会原谅你的】。",
+            "vi": "A: Bạn nói xem sao Lưu Phương lại không thể tha thứ cho tôi?\nB: Bạn đừng buồn, sớm muộn cô ấy sẽ tha thứ cho bạn thôi.",
+            "en": "A: Why won't Liu Fang forgive me?\nB: Don't be upset. She'll forgive you sooner or later.",
+            "sample": true
+          },
+          {
+            "q": "A：怎么，签证被拒签的事你还没告诉她吗？\nB：____。",
+            "hint": "迟早",
+            "a": "A：怎么，签证被拒签的事你还没告诉她吗？\nB：【还没有，不过她迟早会知道的】。",
+            "vi": "A: Sao thế, chuyện bị từ chối thị thực bạn vẫn chưa nói với cô ấy à?\nB: Vẫn chưa, nhưng sớm muộn cô ấy cũng sẽ biết.",
+            "en": "A: What, you still haven't told her your visa was refused?\nB: Not yet, but she'll find out sooner or later.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "再三",
+      "uses": [
+        {
+          "vi": "再三 là phó từ, có nghĩa “一次又一次” (nhiều lần, hết lần này đến lần khác). Phía sau thường đi với động từ, đôi khi còn có thể dùng sau động từ không mang tân ngữ.",
+          "en": "再三 is an adverb meaning “again and again”. It's usually followed by a verb, and can sometimes come after a verb without an object.",
+          "ex": [
+            {
+              "zh": "赵括的母亲【再三】阻止赵王任命儿子为{wéi}大将，……",
+              "vi": "Mẹ của Triệu Quát nhiều lần ngăn vua Triệu bổ nhiệm con trai làm đại tướng, …",
+              "en": "Zhao Kuo's mother repeatedly tried to stop the king appointing her son general, …"
+            },
+            {
+              "zh": "我最近这段时间特别忙，实在没时间参加小王的活动，可他【再三】邀请，出于礼貌，我只好答应了。",
+              "vi": "Dạo này tôi đặc biệt bận, thật sự không có thời gian tham gia hoạt động của Tiểu Vương, nhưng anh ấy mời đi mời lại, vì lịch sự tôi đành nhận lời.",
+              "en": "I've been especially busy lately and really had no time for Xiao Wang's event, but he invited me again and again, so out of politeness I had to agree."
+            },
+            {
+              "zh": "朋友请他做公司的总经理，他考虑【再三】，最后还是客气地{de}拒绝了。",
+              "vi": "Bạn bè mời anh ấy làm tổng giám đốc công ty, anh ấy cân nhắc đi cân nhắc lại, cuối cùng vẫn khéo léo từ chối.",
+              "en": "A friend asked him to be the company's general manager; after thinking it over again and again, he politely declined."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "____，他只好答应周末带她去玩儿。",
+            "hint": "再三",
+            "a": "【女儿再三要求】，他只好答应周末带她去玩儿。",
+            "vi": "Con gái đòi đi đòi lại, anh ấy đành hứa cuối tuần đưa con đi chơi.",
+            "en": "His daughter kept asking, so he had to promise to take her out at the weekend.",
+            "sample": true
+          },
+          {
+            "q": "____，决定自己亲自跑一趟。",
+            "hint": "再三",
+            "a": "【他考虑再三】，决定自己亲自跑一趟。",
+            "vi": "Anh ấy cân nhắc nhiều lần, quyết định tự mình đi một chuyến.",
+            "en": "After thinking it over again and again, he decided to go himself.",
+            "sample": true
+          },
+          {
+            "q": "A：这么有名的大专家居然也让你们校长请来了？\nB：____。",
+            "hint": "再三",
+            "a": "A：这么有名的大专家居然也让你们校长请来了？\nB：【是啊，校长再三邀请，他才答应来的】。",
+            "vi": "A: Chuyên gia nổi tiếng như vậy mà hiệu trưởng các bạn cũng mời đến được à?\nB: Đúng vậy, hiệu trưởng mời đi mời lại, ông ấy mới nhận lời đến.",
+            "en": "A: Your principal actually managed to get such a famous expert to come?\nB: Yes, the principal invited him again and again before he agreed.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "胜利—成功",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: 胜利 và 成功 đều là động từ, đều biểu thị đạt được mục đích đã dự tính.",
+          "en": "Similarity: 胜利 and 成功 are both verbs meaning to achieve an intended goal.",
+          "ex": [
+            {
+              "zh": "北京【胜利】/【成功】地{de}举办了2008年夏季奥运会。",
+              "vi": "Bắc Kinh đã tổ chức thắng lợi / thành công Thế vận hội mùa hè 2008.",
+              "en": "Beijing successfully hosted the 2008 Summer Olympics."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 1: 胜利 khi biểu thị công việc… đạt được mục đích dự tính thường làm trạng ngữ; 成功 không chỉ dùng cho công việc, sự nghiệp mà còn dùng cho các mặt khác, có thể làm trạng ngữ cũng có thể làm vị ngữ.",
+          "en": "Difference 1: when 胜利 means work has achieved its aim, it's usually an adverbial; 成功 is used not only for work and careers but for other things too, and can be an adverbial or a predicate.",
+          "ex": [
+            {
+              "zh": "经过一年多的努力，我们【胜利】地{de}完成了调查工作。",
+              "vi": "Qua hơn một năm nỗ lực, chúng tôi đã hoàn thành thắng lợi công tác khảo sát.",
+              "en": "After more than a year's effort, we successfully completed the survey."
+            },
+            {
+              "zh": "经过艰苦的努力，实验终于【成功】了。",
+              "vi": "Qua nỗ lực gian khổ, thí nghiệm cuối cùng đã thành công.",
+              "en": "After painstaking effort, the experiment finally succeeded."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: 胜利 còn có nghĩa đánh bại đối phương trong chiến tranh hoặc thi đấu; 成功 không có nghĩa đánh bại đối phương.",
+          "en": "Difference 2: 胜利 can also mean defeating an opponent in war or competition; 成功 has no such meaning.",
+          "ex": [
+            {
+              "zh": "谁坚持到最后，谁就是这场比赛的【胜利】者。",
+              "vi": "Ai kiên trì đến cùng, người đó là người chiến thắng trong cuộc thi này.",
+              "en": "Whoever holds out to the end is the winner of this match."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 3: 成功 là tính từ, có ý khiến người ta hài lòng, có thể làm bổ ngữ; 胜利 không có ý này, không thể làm bổ ngữ.",
+          "en": "Difference 3: 成功 is also an adjective meaning satisfactory and can be a complement; 胜利 has no such meaning and can't be a complement.",
+          "ex": [
+            {
+              "zh": "这部电视剧拍得很【成功】，在全国播出后，受到观众的喜爱。",
+              "vi": "Bộ phim truyền hình này quay rất thành công, sau khi phát sóng toàn quốc được khán giả yêu thích.",
+              "en": "This TV series was very well made, and after it was broadcast nationwide it was loved by viewers."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "这项实验如果研究____，将给成千上万的病人带来希望。",
+            "key": "胜利 ✗ · 成功 ✓",
+            "a": "这项实验如果研究【成功】，将给成千上万的病人带来希望。",
+            "vi": "Thí nghiệm này nếu nghiên cứu thành công sẽ mang lại hy vọng cho hàng nghìn hàng vạn bệnh nhân.",
+            "en": "If this experiment succeeds, it will bring hope to tens of thousands of patients."
+          },
+          {
+            "q": "得民心者才会赢得这场战争的____。",
+            "key": "胜利 ✓ (chiến tranh) · 成功 ✗",
+            "a": "得民心者才会赢得这场战争的【胜利】。",
+            "vi": "Ai được lòng dân mới giành được thắng lợi trong cuộc chiến này.",
+            "en": "Only those who win the people's hearts will win this war."
+          },
+          {
+            "q": "她____地{de}说服了丈夫放弃了搬家的打算。",
+            "key": "胜利 ✗ · 成功 ✓",
+            "a": "她【成功】地{de}说服了丈夫放弃了搬家的打算。",
+            "vi": "Cô ấy đã thuyết phục thành công chồng từ bỏ ý định chuyển nhà.",
+            "en": "She successfully persuaded her husband to give up the idea of moving house."
+          },
+          {
+            "q": "座谈会开得很____，大家交换了意见，增进了理解。",
+            "key": "胜利 ✗ · 成功 ✓ (làm bổ ngữ)",
+            "a": "座谈会开得很【成功】，大家交换了意见，增进了理解。",
+            "vi": "Buổi tọa đàm diễn ra rất thành công, mọi người đã trao đổi ý kiến, tăng thêm sự hiểu biết.",
+            "en": "The forum was a great success: everyone exchanged views and understood each other better."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "轻视",
+            "对方/科学/成果/工作/知识"
+          ],
+          "vi": "xem thường đối phương / khoa học / thành quả / công việc / kiến thức",
+          "en": "look down on opponents / science / achievements / work / knowledge"
+        },
+        {
+          "zh": [
+            "善于",
+            "学习/发现/总结/表达/分析"
+          ],
+          "vi": "giỏi học hỏi / phát hiện / tổng kết / diễn đạt / phân tích",
+          "en": "be good at learning / discovering / summarizing / expressing / analysing"
+        }
+      ]
+    },
+    {
+      "a": "定语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "糊涂的",
+            "孩子/领导/话/看法/脑子"
+          ],
+          "vi": "đứa trẻ / lãnh đạo hồ đồ / lời nói / cách nhìn hồ đồ / đầu óc mơ hồ",
+          "en": "a muddled child / leader / remark / view / mind"
+        },
+        {
+          "zh": [
+            "宝贵的",
+            "机会/生命/经验/意见/时间"
+          ],
+          "vi": "cơ hội / sinh mạng / kinh nghiệm / ý kiến / thời gian quý báu",
+          "en": "a precious opportunity / life / experience / opinion / time"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "独立（地{de}）",
+            "生活/分析/工作/完成/发展/开发/领导"
+          ],
+          "vi": "sống / phân tích / làm việc / hoàn thành / phát triển / khai thác / lãnh đạo độc lập",
+          "en": "live / analyse / work / complete / develop / lead independently"
+        },
+        {
+          "zh": [
+            "主动（地{de}）",
+            "表示/提出/建议/反映/帮助/解决/联系/学习/宣传/提供"
+          ],
+          "vi": "chủ động bày tỏ / đưa ra / đề xuất / phản ánh / giúp đỡ / giải quyết / liên hệ / học tập / tuyên truyền / cung cấp",
+          "en": "take the initiative to express / propose / suggest / report / help / solve / contact / learn / publicize / provide"
+        }
+      ]
+    },
+    {
+      "a": "主语",
+      "b": "谓语",
+      "rows": [
+        {
+          "zh": [
+            "形势",
+            "好转/乐观/危险/严重/紧张"
+          ],
+          "vi": "tình hình chuyển biến tốt / lạc quan / nguy hiểm / nghiêm trọng / căng thẳng",
+          "en": "the situation improves / is optimistic / dangerous / serious / tense"
+        },
+        {
+          "zh": [
+            "毛病",
+            "多/（被）克服"
+          ],
+          "vi": "nhiều khuyết điểm / khuyết điểm được khắc phục",
+          "en": "many faults / faults (are) overcome"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "宝贵",
+        "阻止",
+        "善于",
+        "独立",
+        "挑战",
+        "糊涂"
+      ],
+      "items": [
+        {
+          "q": "我见朋友的小孩怎么也打不开房门，就想帮他，却被朋友____了。",
+          "key": "阻止",
+          "a": "我见朋友的小孩怎么也打不开房门，就想帮他，却被朋友【阻止】了。",
+          "vi": "Tôi thấy con của bạn mở cửa phòng mãi không được, định giúp thì lại bị bạn ngăn lại.",
+          "en": "I saw my friend's child couldn't open the door and wanted to help, but my friend stopped me."
+        },
+        {
+          "q": "任何经验都是____的，但并不是任何时候都是有效的。",
+          "key": "宝贵",
+          "a": "任何经验都是【宝贵】的，但并不是任何时候都是有效的。",
+          "vi": "Bất kỳ kinh nghiệm nào cũng quý báu, nhưng không phải lúc nào cũng hiệu quả.",
+          "en": "Every experience is precious, but it isn't always useful."
+        },
+        {
+          "q": "社会上的成功人士，有不少都____记住别人的名字。",
+          "key": "善于",
+          "a": "社会上的成功人士，有不少都【善于】记住别人的名字。",
+          "vi": "Trong xã hội, không ít người thành đạt đều giỏi ghi nhớ tên người khác.",
+          "en": "Many successful people are good at remembering other people's names."
+        },
+        {
+          "q": "你这脑子可真____，银行卡的密码怎么能忘了呢？",
+          "key": "糊涂",
+          "a": "你这脑子可真【糊涂】，银行卡的密码怎么能忘了呢？",
+          "vi": "Đầu óc bạn đúng là hồ đồ, sao lại quên mật khẩu thẻ ngân hàng được?",
+          "en": "You really are scatterbrained. How could you forget your bank card PIN?"
+        },
+        {
+          "q": "跳伞运动以自身的惊险和____性，被世人称为{wéi}“勇敢者的运动”。",
+          "key": "挑战",
+          "a": "跳伞运动以自身的惊险和【挑战】性，被世人称为{wéi}“勇敢者的运动”。",
+          "vi": "Môn nhảy dù với sự mạo hiểm và tính thử thách của mình được người đời gọi là “môn thể thao của người dũng cảm”.",
+          "en": "Because of its thrills and challenge, skydiving is called “the sport of the brave”."
+        },
+        {
+          "q": "家长应尽量创造一个能让孩子____生活和学习的环境。",
+          "key": "独立",
+          "a": "家长应尽量创造一个能让孩子【独立】生活和学习的环境。",
+          "vi": "Phụ huynh nên cố gắng tạo một môi trường giúp con có thể sống và học tập độc lập.",
+          "en": "Parents should do their best to create an environment where children can live and learn independently."
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "我____以为这一生我只能做一个普普通通的工人了。",
+          "opts": [
+            "A. 曾经",
+            "B. 已经"
+          ],
+          "key": "A",
+          "a": "我【曾经】以为这一生我只能做一个普普通通的工人了。",
+          "vi": "Tôi đã từng nghĩ cả đời này tôi chỉ có thể làm một người công nhân bình thường.",
+          "en": "I once thought I'd only ever be an ordinary worker my whole life."
+        },
+        {
+          "q": "师傅，最近我这车出了点儿____，空调总是不太凉。",
+          "opts": [
+            "A. 缺点",
+            "B. 毛病"
+          ],
+          "key": "B",
+          "a": "师傅，最近我这车出了点儿【毛病】，空调总是不太凉。",
+          "vi": "Bác ơi, dạo này xe tôi có chút trục trặc, điều hòa lúc nào cũng không mát lắm.",
+          "en": "Excuse me, my car has a problem lately: the air conditioning never gets very cold."
+        },
+        {
+          "q": "父母给我讲了许多做人的____，对我的影响很大。",
+          "opts": [
+            "A. 理论",
+            "B. 道理"
+          ],
+          "key": "B",
+          "a": "父母给我讲了许多做人的【道理】，对我的影响很大。",
+          "vi": "Bố mẹ đã dạy tôi nhiều đạo lý làm người, ảnh hưởng đến tôi rất lớn.",
+          "en": "My parents taught me many principles of how to be a good person, which had a big influence on me."
+        },
+        {
+          "q": "我相信这样的安排他是____不会同意的。",
+          "opts": [
+            "A. 绝对",
+            "B. 完全"
+          ],
+          "key": "A",
+          "a": "我相信这样的安排他是【绝对】不会同意的。",
+          "vi": "Tôi tin sự sắp xếp như vậy anh ấy tuyệt đối không đồng ý.",
+          "en": "I'm sure he'll never agree to an arrangement like this."
+        }
+      ]
+    },
+    {
+      "title": "画线连接可以搭配的词语",
+      "bank": [
+        "战争",
+        "毛病",
+        "命令",
+        "资格",
+        "时间",
+        "道理",
+        "经理",
+        "形势"
+      ],
+      "items": [
+        {
+          "q": "克服 ____",
+          "key": "毛病",
+          "a": "克服【毛病】",
+          "vi": "khắc phục khuyết điểm",
+          "en": "overcome faults"
+        },
+        {
+          "q": "下 ____",
+          "key": "命令",
+          "a": "下【命令】",
+          "vi": "ra lệnh",
+          "en": "give an order"
+        },
+        {
+          "q": "具备 ____",
+          "key": "资格",
+          "a": "具备【资格】",
+          "vi": "có đủ tư cách",
+          "en": "be qualified"
+        },
+        {
+          "q": "阻止 ____",
+          "key": "战争",
+          "a": "阻止【战争】",
+          "vi": "ngăn chặn chiến tranh",
+          "en": "prevent war"
+        },
+        {
+          "q": "危急的 ____",
+          "key": "形势",
+          "a": "危急的【形势】",
+          "vi": "tình thế nguy cấp",
+          "en": "a critical situation"
+        },
+        {
+          "q": "糊涂的 ____",
+          "key": "经理",
+          "a": "糊涂的【经理】",
+          "vi": "người giám đốc hồ đồ",
+          "en": "a muddle-headed manager"
+        },
+        {
+          "q": "宝贵的 ____",
+          "key": "时间",
+          "a": "宝贵的【时间】",
+          "vi": "thời gian quý báu",
+          "en": "precious time"
+        },
+        {
+          "q": "抽象的 ____",
+          "key": "道理",
+          "a": "抽象的【道理】",
+          "vi": "đạo lý trừu tượng",
+          "en": "an abstract principle"
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "赵括的军事才能",
+          "hint": "军事、理论、说得过、骄傲、缺乏、毛病",
+          "a": "赵括从小读了不少兵书，谈论起【军事】【理论】来，没有人说得【过】他，所以他很【骄傲】。但是父亲赵奢明白，他【缺乏】实际作战的经验，他的【毛病】是只会讲大道理。",
+          "vi": "Triệu Quát từ nhỏ đọc không ít binh thư, bàn về lý luận quân sự thì không ai nói lại được, nên anh ta rất kiêu ngạo. Nhưng cha anh là Triệu Xa hiểu rằng anh ta thiếu kinh nghiệm thực chiến, khuyết điểm của anh ta là chỉ biết nói đạo lý lớn.",
+          "en": "Zhao Kuo had read many military books since childhood, and nobody could out-argue him on military theory, so he was very arrogant. But his father Zhao She knew he lacked real battle experience; his fault was that he could only talk grand principles.",
+          "sample": true
+        },
+        {
+          "q": "廉颇的战术",
+          "hint": "弱、形势、命令、主动、挑战、坚守",
+          "a": "秦军来打赵国，廉颇根据敌强我【弱】的【形势】，【命令】士兵们【坚守】阵地，绝对不可【主动】出战。秦军多次【挑战】，他还是不出兵，成功地{de}把秦军拦在了国门之外。",
+          "vi": "Quân Tần đến đánh nước Triệu, Liêm Pha căn cứ vào tình thế địch mạnh ta yếu, ra lệnh cho binh lính cố thủ trận địa, tuyệt đối không được chủ động xuất chiến. Quân Tần nhiều lần khiêu chiến, ông vẫn không xuất quân, chặn thành công quân Tần ngoài cửa nước.",
+          "en": "When Qin attacked Zhao, Lian Po, seeing that the enemy was strong and they were weak, ordered his soldiers to hold their positions and never take the offensive. The Qin army challenged them repeatedly, but he never sent out his troops and successfully kept Qin at bay.",
+          "sample": true
+        },
+        {
+          "q": "赵王上当",
+          "hint": "糊涂、上当、谣言、阻止、资格",
+          "a": "秦人在赵国散{sàn}布【谣言】，说秦军最怕赵括。【糊涂】的赵王果然【上当】了，派赵括去换回廉颇。赵括的母亲再三【阻止】，说他还没有独立带兵作战的【资格】，可是赵王不听。",
+          "vi": "Người Tần tung tin đồn ở nước Triệu, nói quân Tần sợ nhất Triệu Quát. Vua Triệu hồ đồ quả nhiên mắc lừa, cử Triệu Quát đi thay Liêm Pha. Mẹ Triệu Quát nhiều lần ngăn cản, nói anh ta chưa đủ tư cách một mình dẫn quân, nhưng vua Triệu không nghe.",
+          "en": "The Qin spread rumours in Zhao that Qin feared Zhao Kuo most. The muddle-headed king fell for it and sent Zhao Kuo to replace Lian Po. Zhao Kuo's mother repeatedly tried to stop it, saying he wasn't yet qualified to command alone, but the king wouldn't listen.",
+          "sample": true
+        },
+        {
+          "q": "赵括之死",
+          "hint": "自信、轻视、宝贵、理论、实际",
+          "a": "盲目【自信】、【轻视】秦军的赵括完全改变了作战方案，死搬书上的【理论】，主动进攻秦军，结果数十万赵军全部被杀，丢掉了【宝贵】的生命。这个故事提醒我们要注意理论联系【实际】。",
+          "vi": "Triệu Quát tự tin mù quáng, coi thường quân Tần, hoàn toàn thay đổi phương án tác chiến, rập khuôn lý luận trong sách, chủ động tấn công quân Tần, kết quả mấy chục vạn quân Triệu bị giết hết, mất đi sinh mạng quý giá. Câu chuyện này nhắc chúng ta phải chú ý kết hợp lý luận với thực tế.",
+          "en": "Blindly confident and contemptuous of Qin, Zhao Kuo completely changed the battle plan, rigidly applied book theory and attacked; several hundred thousand Zhao soldiers were killed, their precious lives lost. The story reminds us to link theory with practice.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "军事",
+    "vi": "Quân sự",
+    "en": "Military",
+    "words": [
+      {
+        "zh": "枪",
+        "py": "qiāng",
+        "vi": "súng",
+        "en": "gun"
+      },
+      {
+        "zh": "射击",
+        "py": "shèjī",
+        "vi": "bắn súng",
+        "en": "to shoot; shooting"
+      },
+      {
+        "zh": "英雄",
+        "py": "yīngxióng",
+        "vi": "anh hùng",
+        "en": "hero"
+      },
+      {
+        "zh": "士兵",
+        "py": "shìbīng",
+        "vi": "binh lính",
+        "en": "soldier"
+      },
+      {
+        "zh": "敌人",
+        "py": "dírén",
+        "vi": "kẻ địch",
+        "en": "enemy"
+      },
+      {
+        "zh": "战争",
+        "py": "zhànzhēng",
+        "vi": "chiến tranh",
+        "en": "war"
+      },
+      {
+        "zh": "胜利",
+        "py": "shènglì",
+        "vi": "thắng lợi",
+        "en": "victory"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "猎人被眼前的情景吓傻了，慌乱地{de}连开了几____。",
+          "key": "枪",
+          "a": "猎人被眼前的情景吓傻了，慌乱地{de}连开了几【枪】。",
+          "vi": "Người thợ săn sợ đờ người trước cảnh tượng trước mắt, hoảng loạn bắn liền mấy phát súng.",
+          "en": "The hunter was frozen with fear at the sight before him and fired several shots in a panic."
+        },
+        {
+          "q": "我们已经走完一大半了，坚持就是____。",
+          "key": "胜利",
+          "a": "我们已经走完一大半了，坚持就是【胜利】。",
+          "vi": "Chúng ta đã đi được hơn một nửa rồi, kiên trì chính là thắng lợi.",
+          "en": "We've already covered more than half the way. Keep going and we'll win."
+        },
+        {
+          "q": "花木兰是中国古代的女____，她替父参军并打败敌人，从而闻名天下。",
+          "key": "英雄",
+          "a": "花木兰是中国古代的女【英雄】，她替父参军并打败敌人，从而闻名天下。",
+          "vi": "Hoa Mộc Lan là nữ anh hùng thời cổ đại Trung Quốc, cô thay cha tòng quân, đánh bại kẻ thù, từ đó nổi tiếng khắp thiên hạ.",
+          "en": "Hua Mulan was an ancient Chinese heroine who joined the army in her father's place and defeated the enemy, becoming famous throughout the land."
+        },
+        {
+          "q": "在1896年的奥运会上，____就被列为{wéi}了正式比赛项目。",
+          "key": "射击",
+          "a": "在1896年的奥运会上，【射击】就被列为{wéi}了正式比赛项目。",
+          "vi": "Ngay từ Thế vận hội năm 1896, bắn súng đã được đưa vào danh sách môn thi đấu chính thức.",
+          "en": "Shooting was already an official event at the 1896 Olympics."
+        }
+      ]
+    }
+  }
+}

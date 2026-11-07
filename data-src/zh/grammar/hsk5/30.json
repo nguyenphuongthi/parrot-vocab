@@ -1,0 +1,984 @@
+{
+  "n": 30,
+  "zh": "竞争让市场更高效。",
+  "vi": "Cạnh tranh khiến thị trường phát triển.",
+  "en": "Competition makes markets more efficient.",
+  "texts": [
+    {
+      "title": "竞争让市场更高效",
+      "paras": [
+        {
+          "zh": "西班牙人特别喜欢吃沙丁鱼。但沙丁鱼对离开大海后的环境极不适应，运输就成了问题。鱼上岸后，过不了多久就会死去。而死掉的沙丁鱼口感很差，作为{wéi}商品销售，价格就会便宜很多。如果上岸时沙丁鱼还活着{zhe}，鱼的卖价可以涨很多倍。",
+          "vi": "Người Tây Ban Nha đặc biệt thích ăn cá mòi. Nhưng cá mòi cực kỳ không thích nghi được với môi trường sau khi rời khỏi biển, việc vận chuyển trở thành vấn đề. Cá lên bờ chẳng bao lâu sẽ chết. Mà cá mòi chết thì vị rất kém, khi bán làm hàng hóa giá sẽ rẻ đi nhiều. Nếu khi lên bờ cá mòi vẫn còn sống, giá bán có thể tăng gấp nhiều lần.",
+          "en": "Spaniards love eating sardines. But sardines are extremely poorly suited to life out of the sea, so transporting them became a problem. Once ashore, they die before long, and dead sardines taste much worse, so they sell for a much lower price. If the sardines were still alive when they were landed, they could sell for many times more."
+        },
+        {
+          "zh": "为了延长沙丁鱼的存活期，减少经济损失，渔民们想了很多办法，但情况仍然没有得到太大的改善。后来一位渔民无意中发现了一种巧妙而实用的方法：把几条沙丁鱼的天敌鲇鱼放进装鱼的设备中。因为鲇鱼是食肉鱼，无法和沙丁鱼和平共处，它会四处游动寻找小鱼吃，对沙丁鱼构成威胁。为了逃避天敌，沙丁鱼自然会不断地{de}加速游动，从而保持了旺盛的生命力，存活的比例大大提高。",
+          "vi": "Để kéo dài thời gian sống của cá mòi, giảm thiệt hại kinh tế, ngư dân đã nghĩ ra nhiều cách, nhưng tình hình vẫn chưa được cải thiện nhiều. Về sau một ngư dân tình cờ phát hiện ra một cách khéo léo mà thiết thực: thả vài con cá nheo — kẻ thù tự nhiên của cá mòi — vào thiết bị đựng cá. Vì cá nheo là cá ăn thịt, không thể chung sống hòa bình với cá mòi, nó sẽ bơi khắp nơi tìm cá nhỏ để ăn, tạo thành mối đe dọa với cá mòi. Để trốn tránh kẻ thù tự nhiên, cá mòi tự nhiên sẽ không ngừng bơi nhanh hơn, từ đó duy trì được sức sống dồi dào, tỷ lệ sống sót được nâng cao rất nhiều.",
+          "en": "To prolong the sardines' survival and reduce their economic losses, fishermen tried many methods, but things didn't improve much. Later, one fisherman stumbled on a clever and practical solution: putting a few catfish, the sardine's natural enemy, into the fish containers. Catfish are carnivorous and can't coexist peacefully with sardines; they swim around looking for small fish to eat, posing a threat to the sardines. To escape their natural enemy, the sardines naturally keep swimming faster and faster, which keeps them full of life, and their survival rate rose dramatically."
+        },
+        {
+          "zh": "看到这里，你有什么感想和体会呢？其实，这在经济学上被称为{wéi}“鲇鱼效应”。鲇鱼效应对于市场经济以及现代企业管理都有着{zhe}重要的启发作用。这个概念的核心是：一个市场如果能采取一种措施，刺激企业活跃起来，就能使企业获得足够的活力，在市场中积极参与竞争而不至于落后，同时这样反过来又能促使市场更为{wéi}高效。",
+          "vi": "Đọc đến đây, bạn có cảm nghĩ và nhận thức gì? Thật ra, trong kinh tế học điều này được gọi là “hiệu ứng cá nheo”. Hiệu ứng cá nheo có tác dụng gợi mở quan trọng đối với kinh tế thị trường cũng như quản lý doanh nghiệp hiện đại. Cốt lõi của khái niệm này là: một thị trường nếu có thể áp dụng một biện pháp kích thích các doanh nghiệp trở nên năng động, thì có thể khiến doanh nghiệp có đủ sức sống, tích cực tham gia cạnh tranh trên thị trường mà không đến nỗi tụt hậu, đồng thời ngược lại cũng thúc đẩy thị trường hiệu quả hơn.",
+          "en": "Reading this, what thoughts or insights do you have? In economics, this is actually called the “catfish effect”. It offers important lessons for market economies and modern business management. The core of the concept is this: if a market can take steps to stimulate businesses and make them more active, they gain enough vitality to compete actively and not fall behind, and this in turn makes the market more efficient."
+        },
+        {
+          "zh": "从本质上说，“鲇鱼效应”使得企业和员工产生一种危机感，其实就是一种压力效应。很多研究发现，适度的压力有利于我们保持良好的状态，更加有助于挖掘我们的潜力，从而提高个人的工作效率。比如运动员每到参加比赛，尤其是决赛时，一定要将自己调整到接近最佳状态，让自己感到适度的压力，如果他不紧张、没压力感，则不利于出成绩。因此，“鲇鱼效应”的确对挖掘员工潜力、提高企业活力具有积极的意义。",
+          "vi": "Về bản chất, “hiệu ứng cá nheo” khiến doanh nghiệp và nhân viên nảy sinh cảm giác khủng hoảng, thật ra chính là một kiểu hiệu ứng áp lực. Nhiều nghiên cứu phát hiện, áp lực vừa phải có lợi cho việc giữ trạng thái tốt, càng giúp khai thác tiềm lực của chúng ta, từ đó nâng cao hiệu suất làm việc của cá nhân. Ví dụ, vận động viên mỗi khi tham gia thi đấu, nhất là trận chung kết, nhất định phải điều chỉnh bản thân đến gần trạng thái tốt nhất, khiến mình cảm thấy áp lực vừa phải, nếu anh ta không căng thẳng, không có cảm giác áp lực, thì sẽ bất lợi cho việc đạt thành tích. Vì vậy, “hiệu ứng cá nheo” quả thực có ý nghĩa tích cực đối với việc khai thác tiềm lực của nhân viên, nâng cao sức sống của doanh nghiệp.",
+          "en": "In essence, the “catfish effect” gives businesses and employees a sense of crisis; it's really a kind of pressure effect. Many studies have found that moderate pressure helps us stay in good shape and helps us tap our potential, raising personal efficiency. Athletes, for example, whenever they compete — especially in a final — must bring themselves close to peak condition and feel a moderate amount of pressure; if they're not tense and feel no pressure, it's hard to get good results. So the “catfish effect” really does have positive significance for tapping employees' potential and boosting a company's vitality."
+        }
+      ],
+      "source": "改编自《每天学一点经济学》",
+      "words": [
+        {
+          "zh": "沙丁鱼",
+          "py": "shādīngyú",
+          "pos": "dt.",
+          "vi": "cá mòi",
+          "en": "sardine",
+          "x": true
+        },
+        {
+          "zh": "运输",
+          "py": "yùnshū",
+          "pos": "đgt.",
+          "vi": "vận chuyển",
+          "en": "to transport"
+        },
+        {
+          "zh": "岸",
+          "py": "àn",
+          "pos": "dt.",
+          "vi": "bờ (sông, biển…)",
+          "en": "shore, bank"
+        },
+        {
+          "zh": "商品",
+          "py": "shāngpǐn",
+          "pos": "dt.",
+          "vi": "hàng hóa",
+          "en": "goods, commodity"
+        },
+        {
+          "zh": "延长",
+          "py": "yáncháng",
+          "pos": "đgt.",
+          "vi": "kéo dài",
+          "en": "to extend, to prolong"
+        },
+        {
+          "zh": "存活",
+          "py": "cúnhuó",
+          "pos": "đgt.",
+          "vi": "sống sót, tồn tại",
+          "en": "to survive",
+          "x": true
+        },
+        {
+          "zh": "改善",
+          "py": "gǎishàn",
+          "pos": "đgt.",
+          "vi": "cải thiện",
+          "en": "to improve"
+        },
+        {
+          "zh": "无意",
+          "py": "wúyì",
+          "pos": "phó.",
+          "vi": "tình cờ, vô ý",
+          "en": "unintentionally, by chance",
+          "x": true
+        },
+        {
+          "zh": "巧妙",
+          "py": "qiǎomiào",
+          "pos": "tt.",
+          "vi": "khéo léo, tài tình, hay",
+          "en": "clever, ingenious"
+        },
+        {
+          "zh": "实用",
+          "py": "shíyòng",
+          "pos": "tt.",
+          "vi": "thực dụng, thiết thực",
+          "en": "practical"
+        },
+        {
+          "zh": "天敌",
+          "py": "tiāndí",
+          "pos": "dt.",
+          "vi": "kẻ thù tự nhiên",
+          "en": "natural enemy",
+          "x": true
+        },
+        {
+          "zh": "鲇鱼",
+          "py": "niányú",
+          "pos": "dt.",
+          "vi": "cá nheo",
+          "en": "catfish",
+          "x": true
+        },
+        {
+          "zh": "设备",
+          "py": "shèbèi",
+          "pos": "dt.",
+          "vi": "thiết bị, dụng cụ",
+          "en": "equipment"
+        },
+        {
+          "zh": "和平",
+          "py": "hépíng",
+          "pos": "tt.",
+          "vi": "hòa bình",
+          "en": "peaceful"
+        },
+        {
+          "zh": "构成",
+          "py": "gòuchéng",
+          "pos": "đgt.",
+          "vi": "tạo thành, hình thành",
+          "en": "to constitute, to pose"
+        },
+        {
+          "zh": "逃避",
+          "py": "táobì",
+          "pos": "đgt.",
+          "vi": "chạy trốn, trốn tránh",
+          "en": "to escape, to evade"
+        },
+        {
+          "zh": "不断",
+          "py": "búduàn",
+          "pos": "phó.",
+          "vi": "không ngừng, liên tục",
+          "en": "continuously"
+        },
+        {
+          "zh": "旺盛",
+          "py": "wàngshèng",
+          "pos": "tt.",
+          "vi": "dồi dào, mạnh mẽ",
+          "en": "vigorous, exuberant",
+          "x": true
+        },
+        {
+          "zh": "比例",
+          "py": "bǐlì",
+          "pos": "dt.",
+          "vi": "tỷ lệ",
+          "en": "proportion, ratio"
+        },
+        {
+          "zh": "感想",
+          "py": "gǎnxiǎng",
+          "pos": "dt.",
+          "vi": "cảm tưởng, cảm nghĩ",
+          "en": "impressions, thoughts"
+        },
+        {
+          "zh": "体会",
+          "py": "tǐhuì",
+          "pos": "dt.",
+          "vi": "nhận thức, sự hiểu biết",
+          "en": "understanding, experience"
+        },
+        {
+          "zh": "概念",
+          "py": "gàiniàn",
+          "pos": "dt.",
+          "vi": "khái niệm, ý niệm",
+          "en": "concept"
+        },
+        {
+          "zh": "核心",
+          "py": "héxīn",
+          "pos": "dt.",
+          "vi": "phần cốt lõi, nòng cốt",
+          "en": "core"
+        },
+        {
+          "zh": "刺激",
+          "py": "cìjī",
+          "pos": "đgt.",
+          "vi": "kích thích, thúc đẩy",
+          "en": "to stimulate"
+        },
+        {
+          "zh": "活力",
+          "py": "huólì",
+          "pos": "dt.",
+          "vi": "sức sống",
+          "en": "vitality",
+          "x": true
+        },
+        {
+          "zh": "落后",
+          "py": "luòhòu",
+          "pos": "đgt.",
+          "vi": "tụt lại đằng sau, thụt lùi, lạc hậu",
+          "en": "to fall behind"
+        },
+        {
+          "zh": "本质",
+          "py": "běnzhì",
+          "pos": "dt.",
+          "vi": "bản chất",
+          "en": "essence, nature"
+        },
+        {
+          "zh": "员工",
+          "py": "yuángōng",
+          "pos": "dt.",
+          "vi": "công nhân viên, nhân viên",
+          "en": "employee, staff"
+        },
+        {
+          "zh": "危机",
+          "py": "wēijī",
+          "pos": "dt.",
+          "vi": "sự khủng hoảng, nguy cơ",
+          "en": "crisis",
+          "x": true
+        },
+        {
+          "zh": "有利",
+          "py": "yǒulì",
+          "pos": "tt.",
+          "vi": "có lợi, có ích",
+          "en": "beneficial, favourable"
+        },
+        {
+          "zh": "挖掘",
+          "py": "wājué",
+          "pos": "đgt.",
+          "vi": "khai thác, đào",
+          "en": "to dig, to tap",
+          "x": true
+        },
+        {
+          "zh": "潜力",
+          "py": "qiánlì",
+          "pos": "dt.",
+          "vi": "tiềm lực, tiềm năng",
+          "en": "potential",
+          "x": true
+        },
+        {
+          "zh": "决赛",
+          "py": "juésài",
+          "pos": "đgt.",
+          "vi": "thi đấu chung kết",
+          "en": "final (of a competition)"
+        },
+        {
+          "zh": "接近",
+          "py": "jiējìn",
+          "pos": "đgt.",
+          "vi": "đến gần, tới gần",
+          "en": "to approach, to be close to"
+        },
+        {
+          "zh": "佳",
+          "py": "jiā",
+          "pos": "tt.",
+          "vi": "tốt, đẹp, hay",
+          "en": "good, fine",
+          "x": true
+        },
+        {
+          "zh": "的确",
+          "py": "díquè",
+          "pos": "phó.",
+          "vi": "đích thực, quả thực",
+          "en": "indeed, really"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "无意",
+      "uses": [
+        {
+          "vi": "无意 là động từ, có nghĩa là “không muốn, không có ý định” (không có ý, không định).",
+          "en": "无意 is a verb meaning “not to want to, to have no intention of”.",
+          "ex": [
+            {
+              "zh": "他【无意】伤害任何人。",
+              "vi": "Anh ấy không có ý làm tổn thương bất kỳ ai.",
+              "en": "He has no intention of hurting anyone."
+            },
+            {
+              "zh": "我【无意】打扰您，不过我可以跟您谈一会儿吗？",
+              "vi": "Tôi không có ý làm phiền ông, nhưng tôi có thể nói chuyện với ông một lát được không?",
+              "en": "I don't mean to disturb you, but could I talk to you for a moment?"
+            }
+          ]
+        },
+        {
+          "vi": "无意 còn là phó từ, có nghĩa là “không phải cố ý”, thường nói “无意中……” (vô tình, tình cờ).",
+          "en": "无意 is also an adverb meaning “not on purpose”, often in the phrase 无意中…… (by chance, inadvertently).",
+          "ex": [
+            {
+              "zh": "后来一位渔民【无意】中发现了一种巧妙而实用的方法。",
+              "vi": "Về sau một ngư dân tình cờ phát hiện ra một cách khéo léo mà thiết thực.",
+              "en": "Later, one fisherman stumbled on a clever and practical solution."
+            },
+            {
+              "zh": "她在收拾花园时，【无意】地{de}找到了这只耳环。",
+              "vi": "Khi dọn dẹp vườn hoa, cô ấy tình cờ tìm thấy chiếc khuyên tai này.",
+              "en": "She came across this earring by chance while tidying the garden."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "售货员看他____，就拿出另外一款更便宜的手机。",
+            "hint": "无意",
+            "a": "售货员看他【无意买这么贵的】，就拿出另外一款更便宜的手机。",
+            "vi": "Nhân viên bán hàng thấy anh ấy không có ý mua cái đắt như vậy, bèn lấy ra một mẫu điện thoại khác rẻ hơn.",
+            "en": "Seeing he didn't want to buy such an expensive one, the shop assistant brought out a cheaper phone.",
+            "sample": true
+          },
+          {
+            "q": "真对不起！踩到您的脚了，____。",
+            "hint": "无意",
+            "a": "真对不起！踩到您的脚了，【我不是有意的，是无意中踩到的】。",
+            "vi": "Thật xin lỗi! Giẫm phải chân chị rồi, tôi không cố ý đâu, là vô tình giẫm phải.",
+            "en": "I'm so sorry I stepped on your foot! I didn't mean to — it was an accident.",
+            "sample": true
+          },
+          {
+            "q": "A：你怎么知道他去找了刘经理？\nB：____。",
+            "hint": "无意",
+            "a": "A：你怎么知道他去找了刘经理？\nB：【我是无意中听到他们打电话的】。",
+            "vi": "A: Sao bạn biết anh ấy đi tìm giám đốc Lưu?\nB: Tôi tình cờ nghe thấy họ gọi điện.",
+            "en": "A: How do you know he went to see Manager Liu?\nB: I happened to overhear them on the phone.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "有利",
+      "uses": [
+        {
+          "vi": "有利 là tính từ, có nghĩa là “có lợi, có ích”. Thường dùng “有利于” để biểu thị có lợi cho người hoặc sự vật nào đó. Cách nói phủ định là “不利”.",
+          "en": "有利 is an adjective meaning “beneficial, helpful”. 有利于 is often used to say that something benefits someone or something. The negative is 不利.",
+          "ex": [
+            {
+              "zh": "高高的个子、漂亮的外表，都是他的【有利】条件。",
+              "vi": "Vóc dáng cao ráo, vẻ ngoài đẹp đẽ đều là những điều kiện có lợi của anh ấy.",
+              "en": "His height and good looks are both points in his favour."
+            },
+            {
+              "zh": "很多研究发现，适度的压力【有利】于我们保持良好的状态，……",
+              "vi": "Nhiều nghiên cứu phát hiện, áp lực vừa phải có lợi cho việc giữ trạng thái tốt, …",
+              "en": "Many studies have found that moderate pressure helps us stay in good shape …"
+            },
+            {
+              "zh": "笑能促进心肺活动，改善肌肉紧张状况，对睡眠也是【有利】的。",
+              "vi": "Cười có thể thúc đẩy hoạt động của tim phổi, cải thiện tình trạng căng cơ, cũng có lợi cho giấc ngủ.",
+              "en": "Laughter stimulates the heart and lungs, eases muscle tension and is good for sleep too."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "用所学词语改写句子",
+        "items": [
+          {
+            "q": "我听人介绍，苹果是对健康最有好处的水果。\n我听人介绍，____。",
+            "hint": "有利",
+            "key": "苹果是最有利于健康的水果",
+            "a": "我听人介绍，【苹果是最有利于健康的水果】。",
+            "vi": "Tôi nghe người ta giới thiệu, táo là loại quả có lợi cho sức khỏe nhất.",
+            "en": "I've heard that apples are the healthiest fruit."
+          },
+          {
+            "q": "与电子阅读相比，纸质阅读对保护眼睛更有帮助。\n与电子阅读相比，____。",
+            "hint": "有利",
+            "key": "纸质阅读更有利于保护眼睛",
+            "a": "与电子阅读相比，【纸质阅读更有利于保护眼睛】。",
+            "vi": "So với đọc sách điện tử, đọc sách giấy có lợi hơn cho việc bảo vệ mắt.",
+            "en": "Compared with reading on screens, reading on paper is better for protecting your eyes."
+          },
+          {
+            "q": "考试时，适度的紧张能使考生更好地{de}集中精力完成考试。\n考试时，____。",
+            "hint": "有利",
+            "key": "适度的紧张有利于考生集中精力完成考试",
+            "a": "考试时，【适度的紧张有利于考生集中精力完成考试】。",
+            "vi": "Khi thi, căng thẳng vừa phải có lợi cho thí sinh tập trung tinh thần hoàn thành bài thi.",
+            "en": "In an exam, a moderate amount of nerves helps candidates concentrate and finish the paper."
+          }
+        ]
+      }
+    },
+    {
+      "title": "的确",
+      "uses": [
+        {
+          "vi": "的确 là phó từ, có nghĩa là “hoàn toàn đúng, quả thật” (đích thực, quả thực). Có thể lặp lại thành “的的确确”.",
+          "en": "的确 is an adverb meaning “absolutely true, really” (indeed). It can be reduplicated as 的的确确.",
+          "ex": [
+            {
+              "zh": "因此，“鲇鱼效应”【的确】对挖掘员工潜力、提高企业活力具有积极的意义。",
+              "vi": "Vì vậy, “hiệu ứng cá nheo” quả thực có ý nghĩa tích cực đối với việc khai thác tiềm lực của nhân viên, nâng cao sức sống của doanh nghiệp.",
+              "en": "So the “catfish effect” really does have positive significance for tapping employees' potential and boosting a company's vitality."
+            },
+            {
+              "zh": "他【的确】是我所教过的学生中最聪明的。",
+              "vi": "Cậu ấy quả thật là người thông minh nhất trong số học sinh tôi từng dạy.",
+              "en": "He really is the brightest student I've ever taught."
+            },
+            {
+              "zh": "咱们总裁选择李阳负责的【的】【的】【确】【确】有些冒险，因为他太年轻了。",
+              "vi": "Tổng giám đốc của chúng ta chọn Lý Dương phụ trách quả thật là hơi mạo hiểm, vì cậu ấy còn trẻ quá.",
+              "en": "Our CEO's choosing Li Yang to be in charge really is a bit risky, because he's so young."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "丽丽的歌声优美动人，听她唱歌____。",
+            "hint": "的确",
+            "a": "丽丽的歌声优美动人，听她唱歌【的确是一种享受】。",
+            "vi": "Giọng hát của Lệ Lệ du dương cảm động, nghe cô ấy hát quả thật là một sự hưởng thụ.",
+            "en": "Lili's singing is beautiful and moving; listening to her really is a treat.",
+            "sample": true
+          },
+          {
+            "q": "A：卧室的窗帘有些日子没洗了吧？\nB：____。",
+            "hint": "的确",
+            "a": "A：卧室的窗帘有些日子没洗了吧？\nB：【的确有一个多月没洗了，周末洗洗吧】。",
+            "vi": "A: Rèm cửa phòng ngủ lâu rồi chưa giặt nhỉ?\nB: Đúng là hơn một tháng chưa giặt rồi, cuối tuần giặt đi.",
+            "en": "A: The bedroom curtains haven't been washed for a while, have they?\nB: It's true, it's been over a month. Let's wash them at the weekend.",
+            "sample": true
+          },
+          {
+            "q": "A：我这次去九寨沟拍的照片你看了吗？\nB：____。",
+            "hint": "的确",
+            "a": "A：我这次去九寨沟拍的照片你看了吗？\nB：【看了，那里的风景的确很美】。",
+            "vi": "A: Bạn đã xem những tấm ảnh tôi chụp lần này ở Cửu Trại Câu chưa?\nB: Xem rồi, phong cảnh ở đó quả thật rất đẹp.",
+            "en": "A: Have you seen the photos I took at Jiuzhaigou this time?\nB: Yes, the scenery there really is beautiful.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "接近—靠近",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: 接近 và 靠近 đều là động từ, đều có nghĩa “khoảng cách giữa hai bên gần nhau hoặc chuyển động về phía một mục tiêu nhất định khiến khoảng cách giữa hai bên nhỏ lại”, đôi khi có thể thay thế cho nhau.",
+          "en": "Similarity: 接近 and 靠近 are both verbs meaning “to be close to each other, or to move towards a target so the distance shrinks”, and are sometimes interchangeable.",
+          "ex": [
+            {
+              "zh": "这个地方【接近】/【靠近】北极地区，夏季白天很长，天亮得也很早。",
+              "vi": "Nơi này gần vùng Bắc Cực, mùa hè ban ngày rất dài, trời cũng sáng rất sớm.",
+              "en": "This place is close to the Arctic: summer days are very long and it gets light very early."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 1: từ đi kèm với 接近 có thể biểu thị người, sự vật, thời gian, địa điểm, số lượng cụ thể…; từ đi kèm với 靠近 có thể biểu thị người, sự vật, địa điểm cụ thể, nhưng thường không dùng cho thời gian, số lượng.",
+          "en": "Difference 1: 接近 can go with words for specific people, things, times, places and quantities; 靠近 can go with specific people, things and places, but generally not with times or quantities.",
+          "ex": [
+            {
+              "zh": "【接近】下午一点时，救护车终于赶到了。",
+              "vi": "Gần một giờ chiều, xe cứu thương cuối cùng cũng đến kịp.",
+              "en": "At nearly one in the afternoon, the ambulance finally arrived."
+            },
+            {
+              "zh": "他们挤在【靠近】车窗的地方，脸对脸离得很近。",
+              "vi": "Họ chen chúc ở chỗ gần cửa sổ xe, mặt đối mặt rất gần.",
+              "en": "They were squeezed in near the window, face to face, very close together."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: 接近 còn có thể đi với từ biểu thị sự vật trừu tượng; 靠近 thường không đi với từ biểu thị sự vật trừu tượng.",
+          "en": "Difference 2: 接近 can also go with abstract things; 靠近 generally can't.",
+          "ex": [
+            {
+              "zh": "经过努力，现在我们已越来越【接近】年初定下的销售目标了。",
+              "vi": "Qua nỗ lực, bây giờ chúng ta đã ngày càng tiến gần đến mục tiêu doanh số đặt ra từ đầu năm.",
+              "en": "Thanks to our efforts, we're getting closer and closer to the sales target we set at the start of the year."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 3: 接近 còn có thể biểu thị chênh lệch không lớn (sát nhau, ngang ngửa); 靠近 không có nghĩa này.",
+          "en": "Difference 3: 接近 can also mean that the gap is small (close, evenly matched); 靠近 has no such meaning.",
+          "ex": [
+            {
+              "zh": "他们俩的水平非常【接近】，这场比赛真不好说谁会赢。",
+              "vi": "Trình độ của hai người họ rất sát nhau, trận đấu này thật khó nói ai sẽ thắng.",
+              "en": "The two of them are very evenly matched; it's hard to say who'll win this match."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "做这个动作时，大腿要尽{jǐn}量____胸部。",
+            "key": "接近 ✗ · 靠近 ✓ (bộ phận cơ thể cụ thể, di chuyển lại gần)",
+            "a": "做这个动作时，大腿要尽{jǐn}量【靠近】胸部。",
+            "vi": "Khi làm động tác này, đùi phải cố gắng áp sát ngực.",
+            "en": "When doing this exercise, bring your thighs as close to your chest as possible."
+          },
+          {
+            "q": "直到天快亮的时候，他的体温才____正常。",
+            "key": "接近 ✓ · 靠近 ✗ (chỉ số lượng: thân nhiệt)",
+            "a": "直到天快亮的时候，他的体温才【接近】正常。",
+            "vi": "Mãi đến khi trời gần sáng, thân nhiệt của anh ấy mới gần trở lại bình thường.",
+            "en": "It wasn't until nearly dawn that his temperature came close to normal."
+          },
+          {
+            "q": "这项技术已____世界先进水平。",
+            "key": "接近 ✓ · 靠近 ✗ (sự vật trừu tượng)",
+            "a": "这项技术已【接近】世界先进水平。",
+            "vi": "Công nghệ này đã tiệm cận trình độ tiên tiến của thế giới.",
+            "en": "This technology is already close to the world's most advanced level."
+          },
+          {
+            "q": "对于这个问题，几国的意见很____。",
+            "key": "接近 ✓ · 靠近 ✗ (chênh lệch không lớn)",
+            "a": "对于这个问题，几国的意见很【接近】。",
+            "vi": "Về vấn đề này, ý kiến của mấy nước rất gần nhau.",
+            "en": "On this issue, the countries' views are very close."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "改善",
+            "条件/环境/关系/管理/生活/质量/服务"
+          ],
+          "vi": "cải thiện điều kiện / môi trường / quan hệ / quản lý / đời sống / chất lượng / dịch vụ",
+          "en": "improve conditions / the environment / relations / management / living standards / quality / service"
+        },
+        {
+          "zh": [
+            "刺激",
+            "胃/大脑/生产/购买力/经济"
+          ],
+          "vi": "kích thích dạ dày / não bộ / sản xuất / sức mua / kinh tế",
+          "en": "stimulate the stomach / the brain / production / purchasing power / the economy"
+        }
+      ]
+    },
+    {
+      "a": "定语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "有利的",
+            "形势/条件/地位/环境/位置/因素"
+          ],
+          "vi": "tình hình / điều kiện / địa vị / môi trường / vị trí / nhân tố có lợi",
+          "en": "a favourable situation / conditions / status / environment / position / factor"
+        },
+        {
+          "zh": [
+            "巧妙的",
+            "方法/主意/设计/方式/回答/比喻/处理/发明"
+          ],
+          "vi": "phương pháp / ý tưởng / thiết kế / cách thức / câu trả lời / phép so sánh / cách xử lý / phát minh khéo léo",
+          "en": "a clever method / idea / design / way / answer / metaphor / solution / invention"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "不断",
+            "发展/改善/追求/调整/积累/投入/成熟/丰富/优化"
+          ],
+          "vi": "không ngừng phát triển / cải thiện / theo đuổi / điều chỉnh / tích lũy / đầu tư / trưởng thành / phong phú / tối ưu hóa",
+          "en": "keep developing / improving / pursuing / adjusting / accumulating / investing / maturing / enriching / optimising"
+        },
+        {
+          "zh": [
+            "无意（中）",
+            "发现/看到/知道/成为/说出/听到/提起"
+          ],
+          "vi": "tình cờ phát hiện / nhìn thấy / biết được / trở thành / nói ra / nghe thấy / nhắc đến",
+          "en": "happen to discover / see / learn / become / let slip / overhear / mention"
+        }
+      ]
+    },
+    {
+      "a": "主语",
+      "b": "谓语",
+      "rows": [
+        {
+          "zh": [
+            "概念",
+            "明确/模糊/错误/复杂"
+          ],
+          "vi": "khái niệm rõ ràng / mơ hồ / sai lầm / phức tạp",
+          "en": "a clear / vague / mistaken / complicated concept"
+        },
+        {
+          "zh": [
+            "设备",
+            "落后/齐全/完好"
+          ],
+          "vi": "thiết bị lạc hậu / đầy đủ / còn tốt",
+          "en": "the equipment is outdated / complete / in good condition"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "实用",
+        "接近",
+        "落后",
+        "逃避",
+        "延长"
+      ],
+      "items": [
+        {
+          "q": "遇到困难不应该____，应该积极地{de}面对。",
+          "key": "逃避",
+          "a": "遇到困难不应该【逃避】，应该积极地{de}面对。",
+          "vi": "Gặp khó khăn không nên trốn tránh, mà nên tích cực đối mặt.",
+          "en": "When you meet difficulties, you shouldn't run away from them; you should face them actively."
+        },
+        {
+          "q": "由于报名的考生太多，学校决定适当____报名时间。",
+          "key": "延长",
+          "a": "由于报名的考生太多，学校决定适当【延长】报名时间。",
+          "vi": "Do số thí sinh đăng ký quá đông, nhà trường quyết định kéo dài thời gian đăng ký một cách hợp lý.",
+          "en": "Because so many candidates have applied, the school has decided to extend the registration period somewhat."
+        },
+        {
+          "q": "公司在产品包装、宣传推广和销售等方面积累了相当丰富、____的经验。",
+          "key": "实用",
+          "a": "公司在产品包装、宣传推广和销售等方面积累了相当丰富、【实用】的经验。",
+          "vi": "Công ty đã tích lũy được kinh nghiệm khá phong phú, thiết thực trong các mặt như đóng gói sản phẩm, quảng bá và bán hàng.",
+          "en": "The company has built up considerable practical experience in product packaging, promotion and sales."
+        },
+        {
+          "q": "中国各地区经济发展水平不平衡，中西部____于东南沿海地区。",
+          "key": "落后",
+          "a": "中国各地区经济发展水平不平衡，中西部【落后】于东南沿海地区。",
+          "vi": "Trình độ phát triển kinh tế giữa các vùng ở Trung Quốc không đồng đều, miền Trung và miền Tây tụt hậu so với vùng duyên hải Đông Nam.",
+          "en": "Economic development across China's regions is uneven: the central and western regions lag behind the southeast coast."
+        },
+        {
+          "q": "参加本届运动会的运动员人数____一万人。",
+          "key": "接近",
+          "a": "参加本届运动会的运动员人数【接近】一万人。",
+          "vi": "Số vận động viên tham gia đại hội thể thao lần này gần một vạn người.",
+          "en": "Nearly ten thousand athletes are taking part in this year's games."
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "你听谁说刘方要结婚了？消息____吗？",
+          "opts": [
+            "A. 的确",
+            "B. 确实"
+          ],
+          "key": "B (确实 là tính từ, làm vị ngữ được; 的确 chỉ là phó từ)",
+          "a": "你听谁说刘方要结婚了？消息【确实】吗？",
+          "vi": "Bạn nghe ai nói Lưu Phương sắp kết hôn? Tin có chính xác không?",
+          "en": "Who told you Liu Fang is getting married? Is the news reliable?"
+        },
+        {
+          "q": "主任临时有点儿事，下午的会____到明天了。",
+          "opts": [
+            "A. 延长",
+            "B. 推迟"
+          ],
+          "key": "B",
+          "a": "主任临时有点儿事，下午的会【推迟】到明天了。",
+          "vi": "Chủ nhiệm đột xuất có chút việc, cuộc họp buổi chiều hoãn sang ngày mai rồi.",
+          "en": "The director has had something come up, so this afternoon's meeting has been postponed till tomorrow."
+        },
+        {
+          "q": "让孩子____到自己的意见受到尊重，这一点很重要。",
+          "opts": [
+            "A. 体会",
+            "B. 感想"
+          ],
+          "key": "A",
+          "a": "让孩子【体会】到自己的意见受到尊重，这一点很重要。",
+          "vi": "Để trẻ cảm nhận được ý kiến của mình được tôn trọng, điều này rất quan trọng.",
+          "en": "It's very important to let children feel that their opinions are respected."
+        },
+        {
+          "q": "他____就看不见这些美丽的花呀。",
+          "opts": [
+            "A. 本质",
+            "B. 根本"
+          ],
+          "key": "B",
+          "a": "他【根本】就看不见这些美丽的花呀。",
+          "vi": "Anh ấy căn bản không nhìn thấy những bông hoa đẹp này.",
+          "en": "He can't see these beautiful flowers at all."
+        }
+      ]
+    },
+    {
+      "title": "画线连接可以搭配的词语",
+      "bank": [
+        "惊人",
+        "笨重",
+        "深刻",
+        "抽象",
+        "落后",
+        "和平",
+        "巧妙",
+        "实用"
+      ],
+      "items": [
+        {
+          "q": "设备 ____",
+          "key": "笨重",
+          "a": "设备【笨重】",
+          "vi": "thiết bị cồng kềnh",
+          "en": "bulky equipment"
+        },
+        {
+          "q": "体会 ____",
+          "key": "深刻",
+          "a": "体会【深刻】",
+          "vi": "cảm nhận sâu sắc",
+          "en": "a deep understanding"
+        },
+        {
+          "q": "概念 ____",
+          "key": "抽象",
+          "a": "概念【抽象】",
+          "vi": "khái niệm trừu tượng",
+          "en": "an abstract concept"
+        },
+        {
+          "q": "效率 ____",
+          "key": "惊人",
+          "a": "效率【惊人】",
+          "vi": "hiệu suất đáng kinh ngạc",
+          "en": "astonishing efficiency"
+        },
+        {
+          "q": "说话 ____",
+          "key": "巧妙",
+          "a": "说话【巧妙】",
+          "vi": "nói năng khéo léo",
+          "en": "speak cleverly"
+        },
+        {
+          "q": "经济 ____",
+          "key": "落后",
+          "a": "经济【落后】",
+          "vi": "kinh tế lạc hậu",
+          "en": "a backward economy"
+        },
+        {
+          "q": "方法 ____",
+          "key": "实用",
+          "a": "方法【实用】",
+          "vi": "phương pháp thiết thực",
+          "en": "a practical method"
+        },
+        {
+          "q": "世界 ____",
+          "key": "和平",
+          "a": "世界【和平】",
+          "vi": "thế giới hòa bình",
+          "en": "world peace"
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "沙丁鱼的运输问题",
+          "hint": "环境、适应、岸、口感、销售、涨",
+          "a": "沙丁鱼对离开大海后的【环境】极不【适应】，上【岸】后很快就会死去。死掉的沙丁鱼【口感】很差，【销售】价格便宜很多；如果上岸时还活着{zhe}，卖价可以【涨】很多倍。",
+          "vi": "Cá mòi cực kỳ không thích nghi được với môi trường sau khi rời biển, lên bờ chẳng bao lâu sẽ chết. Cá mòi chết vị rất kém, giá bán rẻ đi nhiều; nếu khi lên bờ vẫn còn sống, giá bán có thể tăng gấp nhiều lần.",
+          "en": "Sardines can't adapt to life out of the sea and die soon after being landed. Dead sardines taste bad and sell for much less; if they're still alive when landed, they can fetch many times the price.",
+          "sample": true
+        },
+        {
+          "q": "如何提高沙丁鱼的存活率",
+          "hint": "延长、损失、改善、无意、巧妙、实用、逃避、不断、比例",
+          "a": "为了【延长】沙丁鱼的存活期，减少【损失】，渔民们想了很多办法，但情况没有太大【改善】。后来一位渔民【无意】中发现了一种【巧妙】而【实用】的方法：把鲇鱼放进装鱼的设备中。为了【逃避】鲇鱼，沙丁鱼会【不断】地{de}游动，存活的【比例】大大提高。",
+          "vi": "Để kéo dài thời gian sống của cá mòi, giảm thiệt hại, ngư dân đã nghĩ nhiều cách, nhưng tình hình không cải thiện nhiều. Về sau một ngư dân tình cờ phát hiện một cách khéo léo mà thiết thực: thả cá nheo vào thiết bị đựng cá. Để trốn tránh cá nheo, cá mòi sẽ không ngừng bơi, tỷ lệ sống sót tăng lên rất nhiều.",
+          "en": "To prolong the sardines' survival and cut losses, fishermen tried many methods without much improvement. Then one fisherman stumbled on a clever, practical solution: putting catfish in with them. To escape the catfish, the sardines keep swimming, and their survival rate rises sharply.",
+          "sample": true
+        },
+        {
+          "q": "“鲇鱼效应”的启发",
+          "hint": "体会、核心、刺激、活力、落后、危机感、有利、状态",
+          "a": "这给我们的【体会】是“鲇鱼效应”。它的【核心】是：市场采取措施【刺激】企业，企业就能获得足够的【活力】，积极参与竞争而不至于【落后】。“鲇鱼效应”让企业和员工产生【危机感】，适度的压力【有利】于我们保持良好的【状态】，挖掘潜力，提高效率。",
+          "vi": "Điều này cho chúng ta nhận thức về “hiệu ứng cá nheo”. Cốt lõi của nó là: thị trường áp dụng biện pháp kích thích doanh nghiệp, doanh nghiệp sẽ có đủ sức sống, tích cực tham gia cạnh tranh mà không tụt hậu. “Hiệu ứng cá nheo” khiến doanh nghiệp và nhân viên có cảm giác khủng hoảng, áp lực vừa phải có lợi cho việc giữ trạng thái tốt, khai thác tiềm lực, nâng cao hiệu suất.",
+          "en": "The lesson is the “catfish effect”. Its core is that if a market stimulates businesses, they gain enough vitality to compete and not fall behind. The effect gives companies and staff a sense of crisis; moderate pressure helps us stay in good shape, tap our potential and work more efficiently.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "经济2",
+    "vi": "Kinh tế (2)",
+    "en": "The economy (2)",
+    "words": [
+      {
+        "zh": "出口",
+        "py": "chūkǒu",
+        "vi": "xuất khẩu",
+        "en": "to export"
+      },
+      {
+        "zh": "进口",
+        "py": "jìnkǒu",
+        "vi": "nhập khẩu",
+        "en": "to import"
+      },
+      {
+        "zh": "贸易",
+        "py": "màoyì",
+        "vi": "mậu dịch, thương mại",
+        "en": "trade"
+      },
+      {
+        "zh": "谈判",
+        "py": "tánpàn",
+        "vi": "đàm phán",
+        "en": "to negotiate; negotiations"
+      },
+      {
+        "zh": "合同",
+        "py": "hétong",
+        "vi": "hợp đồng",
+        "en": "contract"
+      },
+      {
+        "zh": "中介",
+        "py": "zhōngjiè",
+        "vi": "môi giới, trung gian",
+        "en": "agent, intermediary"
+      },
+      {
+        "zh": "破产",
+        "py": "pòchǎn",
+        "vi": "phá sản",
+        "en": "to go bankrupt"
+      },
+      {
+        "zh": "资金",
+        "py": "zījīn",
+        "vi": "tiền vốn",
+        "en": "funds"
+      },
+      {
+        "zh": "利润",
+        "py": "lìrùn",
+        "vi": "lợi nhuận",
+        "en": "profit"
+      },
+      {
+        "zh": "股票",
+        "py": "gǔpiào",
+        "vi": "cổ phiếu",
+        "en": "shares, stock"
+      },
+      {
+        "zh": "账户",
+        "py": "zhànghù",
+        "vi": "tài khoản",
+        "en": "account"
+      },
+      {
+        "zh": "利息",
+        "py": "lìxī",
+        "vi": "tiền lãi",
+        "en": "interest"
+      },
+      {
+        "zh": "贷款",
+        "py": "dàikuǎn",
+        "vi": "khoản vay; cho vay",
+        "en": "loan"
+      },
+      {
+        "zh": "汇率",
+        "py": "huìlǜ",
+        "vi": "tỷ giá hối đoái",
+        "en": "exchange rate"
+      },
+      {
+        "zh": "押金",
+        "py": "yājīn",
+        "vi": "tiền đặt cọc",
+        "en": "deposit"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "他从事对外____工作多年，积累了丰富的经验。",
+          "key": "贸易",
+          "a": "他从事对外【贸易】工作多年，积累了丰富的经验。",
+          "vi": "Anh ấy làm công tác ngoại thương nhiều năm, đã tích lũy được kinh nghiệm phong phú.",
+          "en": "He has worked in foreign trade for many years and has a wealth of experience."
+        },
+        {
+          "q": "____进行得还算顺利，最快下周就可以签合同了。",
+          "key": "谈判",
+          "a": "【谈判】进行得还算顺利，最快下周就可以签合同了。",
+          "vi": "Cuộc đàm phán diễn ra khá suôn sẻ, nhanh nhất tuần sau là có thể ký hợp đồng.",
+          "en": "The negotiations are going fairly smoothly; we could sign the contract as early as next week."
+        },
+        {
+          "q": "公司的项目挺不错，但资金出了问题，目前面临____危险。",
+          "key": "破产",
+          "a": "公司的项目挺不错，但资金出了问题，目前面临【破产】危险。",
+          "vi": "Dự án của công ty khá tốt, nhưng nguồn vốn gặp vấn đề, hiện đang đứng trước nguy cơ phá sản.",
+          "en": "The company's projects are good, but it has run into funding problems and is now facing the threat of bankruptcy."
+        },
+        {
+          "q": "买房的____还有三四年就可以还{huán}清了。",
+          "key": "贷款",
+          "a": "买房的【贷款】还有三四年就可以还{huán}清了。",
+          "vi": "Khoản vay mua nhà còn ba bốn năm nữa là có thể trả hết.",
+          "en": "The mortgage on the flat will be paid off in another three or four years."
+        }
+      ]
+    }
+  }
+}

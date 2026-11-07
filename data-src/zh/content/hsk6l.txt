@@ -1,0 +1,161 @@
+# 词|pinyin|hán việt|nghĩa VI|meaning EN|例句|câu dịch VI|sentence EN|tag
+讨好|tǎohǎo|thảo hảo|lấy lòng, nịnh|to curry favor|他总是想办法讨好老板。|Anh ta luôn tìm cách lấy lòng ông chủ.|He's always trying to curry favor with the boss.|陈述句
+特定|tèdìng|đặc định|đặc định, riêng biệt|specific|这种药只适用于特定的病人。|Loại thuốc này chỉ thích hợp cho những bệnh nhân nhất định.|This medicine is only for specific patients.|介词短语
+特意|tèyì|đặc ý|đặc biệt, cố ý (vì ai đó)|specially|这是我特意为你做的蛋糕。|Đây là chiếc bánh tôi làm riêng cho bạn.|This is a cake I made especially for you.|定语
+特长|tècháng|đặc trường|sở trường|special skill|你有什么特长？|Bạn có sở trường gì?|What are your special skills?|有字句
+提拔|tíbá|đề bạt|đề bạt|to promote|他工作出色，很快被提拔为经理。|Anh ấy làm việc xuất sắc, nhanh chóng được đề bạt làm giám đốc.|He excelled at work and was soon promoted to manager.|被字句
+提炼|tíliàn|đề luyện|tinh luyện, chắt lọc|to refine|这种油是从植物中提炼出来的。|Loại dầu này được chiết xuất từ thực vật.|This oil is extracted from plants.|是…的
+提示|tíshì|đề thị|gợi ý, nhắc nhở|to prompt; hint|老师给了我一点儿提示，我就想出了答案。|Thầy giáo gợi ý một chút, tôi liền nghĩ ra đáp án.|The teacher gave me a hint, and I figured out the answer.|承接
+提议|tíyì|đề nghị|đề nghị|to propose|我提议大家周末一起去爬山。|Tôi đề nghị cuối tuần mọi người cùng đi leo núi.|I propose we all go hiking together this weekend.|兼语句
+题材|tícái|đề tài|đề tài (tác phẩm)|subject matter|这部电影的题材很新颖。|Đề tài của bộ phim này rất mới lạ.|This film's subject matter is very original.|形容词谓语
+体裁|tǐcái|thể tài|thể loại (văn học)|genre|诗歌和小说是不同的文学体裁。|Thơ ca và tiểu thuyết là các thể loại văn học khác nhau.|Poetry and fiction are different literary genres.|是字句
+体积|tǐjī|thể tích|thể tích|volume|这个箱子体积太大，放不进车里。|Thùng này thể tích quá lớn, không cho vào xe được.|This box is too bulky to fit in the car.|可能补语
+体谅|tǐliàng|thể lượng|thông cảm, thấu hiểu|to understand, to be considerate|父母工作很辛苦，我们要多体谅他们。|Bố mẹ làm việc rất vất vả, chúng ta phải thông cảm cho họ.|Our parents work hard; we should be understanding.|能愿动词
+体面|tǐmiàn|thể diện|thể diện; đàng hoàng|dignity; decent|他找了一份很体面的工作。|Anh ấy tìm được một công việc rất đàng hoàng.|He found a very respectable job.|定语
+体系|tǐxì|thể hệ|hệ thống|system|中国的教育体系跟美国不太一样。|Hệ thống giáo dục Trung Quốc không giống Mỹ lắm.|China's education system differs from America's.|比较句
+天才|tiāncái|thiên tài|thiên tài|genius|他是一个音乐天才，五岁就会弹钢琴。|Cậu ấy là một thiên tài âm nhạc, năm tuổi đã biết chơi piano.|He's a musical genius who could play piano at five.|是字句
+天赋|tiānfù|thiên phú|thiên phú|natural talent|她在语言方面很有天赋。|Cô ấy rất có năng khiếu về ngôn ngữ.|She has a natural gift for languages.|有字句
+天伦之乐|tiānlún zhī lè|thiên luân chi lạc|niềm vui sum họp gia đình|family happiness|退休以后，爷爷享受着天伦之乐。|Sau khi nghỉ hưu, ông tận hưởng niềm vui sum vầy bên con cháu.|After retiring, Grandpa enjoys the happiness of family life.|着
+天然气|tiānránqì|thiên nhiên khí|khí thiên nhiên|natural gas|我们家做饭用的是天然气。|Nhà chúng tôi nấu ăn bằng khí thiên nhiên.|We cook with natural gas at home.|是字句
+天生|tiānshēng|thiên sinh|bẩm sinh|innate|他天生就是当老师的料。|Anh ấy bẩm sinh đã là người làm thầy.|He's a born teacher.|是字句
+天堂|tiāntáng|thiên đường|thiên đường|paradise|对孩子来说，游乐园就是天堂。|Đối với trẻ con, khu vui chơi chính là thiên đường.|For children, an amusement park is paradise.|介词短语
+天文|tiānwén|thiên văn|thiên văn|astronomy|他从小就对天文很感兴趣。|Từ nhỏ cậu ấy đã rất hứng thú với thiên văn học.|He's been interested in astronomy since he was a child.|介词短语
+田径|tiánjìng|điền kính|điền kinh|track and field|他是学校田径队的队员。|Cậu ấy là thành viên đội điền kinh của trường.|He's on the school's track and field team.|是字句
+田野|tiányě|điền dã|đồng ruộng|field|金黄的稻子铺满了田野。|Lúa vàng óng phủ khắp cánh đồng.|Golden rice covers the fields.|了
+舔|tiǎn|thiểm|liếm|to lick|小狗舔了舔我的手。|Con chó nhỏ liếm liếm tay tôi.|The puppy licked my hand.|了
+挑拨|tiǎobō|thiêu bát|khiêu khích, xúi bẩy|to sow discord|他故意挑拨我们之间的关系。|Hắn cố ý gây xích mích giữa chúng tôi.|He deliberately tried to drive a wedge between us.|陈述句
+挑剔|tiāoti|thiêu dịch|kén chọn, xét nét|picky|她对吃的东西很挑剔。|Cô ấy rất kén chọn đồ ăn.|She's very picky about food.|介词短语
+挑衅|tiǎoxìn|thiêu hấn|khiêu khích|to provoke|面对对方的挑衅，他保持了冷静。|Đối mặt sự khiêu khích của đối phương, anh ấy vẫn giữ bình tĩnh.|Faced with provocation, he stayed calm.|了
+条款|tiáokuǎn|điều khoản|điều khoản|clause|签合同前要仔细看清楚每一个条款。|Trước khi ký hợp đồng phải đọc kỹ từng điều khoản.|Read every clause carefully before signing a contract.|时间状语
+条理|tiáolǐ|điều lý|mạch lạc, trật tự|orderliness|他说话很有条理。|Anh ấy nói chuyện rất mạch lạc.|He speaks very coherently.|有字句
+条约|tiáoyuē|điều ước|hiệp ước|treaty|两国签订了和平条约。|Hai nước đã ký hiệp ước hòa bình.|The two countries signed a peace treaty.|了
+调动|diàodòng|điều động|điều động; khơi dậy|to transfer; to mobilize|老师想办法调动学生学习的积极性。|Thầy giáo tìm cách khơi dậy tính tích cực học tập của học sinh.|The teacher tries to motivate students to learn.|连动句
+调和|tiáohé|điều hòa|hòa giải; hài hòa|to reconcile|他在两个吵架的朋友之间调和。|Anh ấy hòa giải giữa hai người bạn đang cãi nhau.|He mediated between two quarreling friends.|介词短语
+调剂|tiáojì|điều tễ|điều chỉnh, điều hòa|to adjust|工作累了，听听音乐可以调剂一下心情。|Làm việc mệt rồi, nghe nhạc có thể điều hòa tâm trạng.|When tired from work, music can lift your mood.|能愿动词
+调节|tiáojié|điều tiết|điều tiết, điều chỉnh|to regulate|空调可以调节房间的温度。|Điều hòa có thể điều chỉnh nhiệt độ phòng.|Air conditioning can regulate room temperature.|能愿动词
+调解|tiáojiě|điều giải|hòa giải|to mediate|经过调解，双方终于和好了。|Qua hòa giải, hai bên cuối cùng đã làm lành.|After mediation, the two sides finally made peace.|介词短语
+调料|tiáoliào|điều liệu|gia vị|seasoning|做菜的时候放点儿调料会更好吃。|Khi nấu ăn cho chút gia vị sẽ ngon hơn.|Adding some seasoning makes food taste better.|时间状语
+跳跃|tiàoyuè|khiêu dược|nhảy, nhảy vọt|to jump|运动员跳跃的动作非常优美。|Động tác nhảy của vận động viên vô cùng đẹp mắt.|The athlete's leaps are very graceful.|形容词谓语
+亭子|tíngzi|đình tử|cái đình, chòi nghỉ|pavilion|公园的湖边有一个小亭子。|Bên hồ trong công viên có một cái đình nhỏ.|There's a small pavilion by the lake in the park.|存现句
+停泊|tíngbó|đình bạc|neo đậu|to anchor|几艘渔船停泊在港口。|Mấy chiếc thuyền đánh cá neo đậu ở cảng.|Several fishing boats are anchored in the harbor.|介词短语
+停顿|tíngdùn|đình đốn|ngừng lại, dừng|to pause|他说到这里停顿了一下。|Nói đến đây anh ấy dừng lại một chút.|He paused at this point.|时量动量
+停滞|tíngzhì|đình trệ|đình trệ|to stagnate|由于缺乏资金，项目陷入了停滞。|Do thiếu vốn, dự án rơi vào đình trệ.|Due to lack of funds, the project stalled.|因果
+挺拔|tǐngbá|đĩnh bạt|cao thẳng, sừng sững|tall and straight|路边的白杨树又高又挺拔。|Hàng bạch dương ven đường vừa cao vừa thẳng tắp.|The poplars by the road are tall and straight.|并列
+通货膨胀|tōnghuò péngzhàng|thông hóa bành trướng|lạm phát|inflation|通货膨胀导致物价上涨。|Lạm phát khiến giá cả tăng lên.|Inflation causes prices to rise.|兼语句
+通缉|tōngjī|thông tập|truy nã|to put on the wanted list|警方正在通缉这名逃犯。|Cảnh sát đang truy nã tên tội phạm bỏ trốn này.|The police are hunting this fugitive.|进行态
+通俗|tōngsú|thông tục|thông tục, dễ hiểu|popular, common|这本书写得通俗易懂。|Quyển sách này viết dễ hiểu.|This book is written in plain, accessible language.|程度补语
+通讯|tōngxùn|thông tấn|thông tin liên lạc|communications|现代通讯技术让世界变得更小了。|Công nghệ thông tin liên lạc hiện đại khiến thế giới trở nên nhỏ hơn.|Modern communications technology has made the world smaller.|兼语句
+通用|tōngyòng|thông dụng|thông dụng|universal|英语是国际通用的语言。|Tiếng Anh là ngôn ngữ thông dụng quốc tế.|English is a lingua franca internationally.|是字句
+同胞|tóngbāo|đồng bào|đồng bào|compatriot|海外同胞都很关心祖国的发展。|Đồng bào ở nước ngoài đều rất quan tâm đến sự phát triển của tổ quốc.|Compatriots overseas care greatly about their homeland's development.|介词短语
+同志|tóngzhì|đồng chí|đồng chí|comrade|王同志，请你来一下办公室。|Đồng chí Vương, mời đồng chí đến văn phòng một chút.|Comrade Wang, please come to the office.|祈使句
+铜|tóng|đồng|đồng (kim loại)|copper|这座铜像已经有一百年历史了。|Bức tượng đồng này đã có lịch sử một trăm năm.|This bronze statue is a hundred years old.|有字句
+童话|tónghuà|đồng thoại|truyện cổ tích|fairy tale|小时候，妈妈每天晚上给我讲童话故事。|Hồi nhỏ, tối nào mẹ cũng kể chuyện cổ tích cho tôi.|When I was little, Mom told me fairy tales every night.|介词短语
+统筹兼顾|tǒngchóu jiāngù|thống trù kiêm cố|trù tính toàn diện|to plan with all factors in mind|制定计划时要统筹兼顾，考虑各方面的因素。|Khi lập kế hoạch phải trù tính toàn diện, cân nhắc các yếu tố mọi mặt.|When planning, take a holistic view and consider every factor.|时间状语
+统计|tǒngjì|thống kê|thống kê|statistics; to count|据统计，今年来这里旅游的人超过了一百万。|Theo thống kê, năm nay số người đến đây du lịch đã vượt quá một triệu.|According to statistics, over a million people visited this year.|介词短语
+统统|tǒngtǒng|thống thống|tất cả, toàn bộ|all|这些旧东西统统扔掉吧。|Những đồ cũ này vứt hết đi.|Throw all this old stuff out.|吧
+统治|tǒngzhì|thống trị|thống trị|to rule|这个王朝统治了三百多年。|Vương triều này thống trị hơn ba trăm năm.|This dynasty ruled for over three hundred years.|时量动量
+投机|tóujī|đầu cơ|hợp ý; đầu cơ|congenial; to speculate|我们俩聊得很投机。|Hai chúng tôi nói chuyện rất hợp ý.|The two of us really hit it off.|程度补语
+投降|tóuxiáng|đầu hàng|đầu hàng|to surrender|敌人终于投降了。|Kẻ địch cuối cùng đã đầu hàng.|The enemy finally surrendered.|了
+投票|tóupiào|đầu phiếu|bỏ phiếu|to vote|大家投票选出了新的班长。|Mọi người bỏ phiếu bầu ra lớp trưởng mới.|Everyone voted to elect a new class monitor.|趋向补语
+投诉|tóusù|đầu tố|khiếu nại|to complain|顾客投诉服务员的态度不好。|Khách hàng khiếu nại thái độ của nhân viên phục vụ không tốt.|A customer complained about the waiter's bad attitude.|陈述句
+投掷|tóuzhì|đầu trịch|ném|to throw|他在投掷比赛中获得了第一名。|Anh ấy giành hạng nhất trong cuộc thi ném.|He won first place in the throwing competition.|介词短语
+透露|tòulù|thấu lộ|tiết lộ|to reveal|他没有透露自己的计划。|Anh ấy không tiết lộ kế hoạch của mình.|He didn't reveal his plans.|陈述句
+秃|tū|thốc|hói; trụi|bald|他年纪不大，头就有点儿秃了。|Anh ấy tuổi chưa lớn mà đầu đã hơi hói.|He's not that old, but he's already going a bit bald.|转折
+突破|tūpò|đột phá|đột phá|breakthrough|这项研究取得了重大突破。|Nghiên cứu này đã đạt được bước đột phá quan trọng.|This research has made a major breakthrough.|了
+图案|tú'àn|đồ án|hoa văn, họa tiết|pattern|这块布上的图案很漂亮。|Họa tiết trên mảnh vải này rất đẹp.|The pattern on this fabric is lovely.|形容词谓语
+徒弟|túdì|đồ đệ|đồ đệ, người học việc|apprentice|老师傅收了三个徒弟。|Bác thợ cả đã nhận ba người học việc.|The old master took on three apprentices.|了
+途径|tújìng|đồ kính|con đường, cách thức|way, channel|读书是获得知识的重要途径。|Đọc sách là con đường quan trọng để tiếp thu kiến thức.|Reading is an important way to gain knowledge.|是字句
+涂抹|túmǒ|đồ mạt|bôi, phết|to smear|在伤口上涂抹一点儿药膏。|Bôi một chút thuốc mỡ lên vết thương.|Apply a little ointment to the wound.|介词短语
+土壤|tǔrǎng|thổ nhưỡng|đất trồng|soil|这里的土壤很适合种植茶叶。|Đất ở đây rất hợp trồng chè.|The soil here is well suited to growing tea.|形容词谓语
+团结|tuánjié|đoàn kết|đoàn kết|to unite|只有团结起来，才能战胜困难。|Chỉ có đoàn kết lại mới chiến thắng được khó khăn.|Only by uniting can we overcome difficulties.|条件
+团体|tuántǐ|đoàn thể|đoàn thể, tập thể|group|我们以团体的名义报名参加比赛。|Chúng tôi đăng ký tham gia cuộc thi dưới danh nghĩa tập thể.|We registered for the competition as a group.|介词短语
+团圆|tuányuán|đoàn viên|đoàn tụ|to reunite|中秋节是家人团圆的节日。|Tết Trung thu là ngày lễ gia đình đoàn tụ.|Mid-Autumn Festival is a time for family reunion.|是字句
+推测|tuīcè|thôi trắc|suy đoán|to speculate|根据现有的线索，警方推测他已经离开了本市。|Dựa theo manh mối hiện có, cảnh sát suy đoán hắn đã rời khỏi thành phố.|Based on current clues, police believe he's already left the city.|介词短语
+推翻|tuīfān|thôi phiên|lật đổ; bác bỏ|to overthrow|新的证据推翻了原来的结论。|Chứng cứ mới đã bác bỏ kết luận ban đầu.|New evidence overturned the original conclusion.|了
+推理|tuīlǐ|thôi lý|suy luận|reasoning|他很喜欢看推理小说。|Anh ấy rất thích đọc tiểu thuyết trinh thám.|He loves reading detective novels.|陈述句
+推论|tuīlùn|thôi luận|suy luận|inference|你的推论缺乏证据。|Suy luận của bạn thiếu chứng cứ.|Your inference lacks evidence.|陈述句
+推销|tuīxiāo|thôi tiêu|chào hàng, bán hàng|to promote (sales)|他在街上向路人推销新产品。|Anh ấy chào bán sản phẩm mới cho người qua đường trên phố.|He's promoting new products to passers-by on the street.|介词短语
+吞吞吐吐|tūntūn tǔtǔ|thôn thôn thổ thổ|ấp a ấp úng|to hem and haw|他说话吞吞吐吐的，好像有什么事瞒着我们。|Anh ta nói ấp a ấp úng, như có chuyện gì giấu chúng tôi.|He's hemming and hawing, as if hiding something from us.|是…的
+托运|tuōyùn|thác vận|gửi (hành lý)|to check (luggage)|这个行李箱太大了，需要托运。|Va li này to quá, cần phải gửi hành lý.|This suitcase is too big—it needs to be checked.|能愿动词
+拖延|tuōyán|tha diên|trì hoãn, dây dưa|to delay|别再拖延了，今天必须完成。|Đừng trì hoãn nữa, hôm nay phải hoàn thành.|Stop procrastinating—it has to be done today.|能愿动词
+脱离|tuōlí|thoát ly|thoát ly, thoát khỏi|to break away from|经过抢救，病人已经脱离了危险。|Qua cấp cứu, bệnh nhân đã thoát khỏi nguy hiểm.|After emergency treatment, the patient is out of danger.|介词短语
+妥当|tuǒdang|thỏa đáng|thỏa đáng|appropriate|这件事你处理得很妥当。|Việc này bạn xử lý rất thỏa đáng.|You handled this very appropriately.|程度补语
+妥善|tuǒshàn|thỏa thiện|thỏa đáng, chu đáo|proper|问题已经得到了妥善解决。|Vấn đề đã được giải quyết thỏa đáng.|The problem has been properly resolved.|了
+妥协|tuǒxié|thỏa hiệp|thỏa hiệp|to compromise|在原则问题上，我们绝不妥协。|Về vấn đề nguyên tắc, chúng tôi tuyệt đối không thỏa hiệp.|On matters of principle, we will never compromise.|强调
+椭圆|tuǒyuán|thỏa viên|hình bầu dục|oval|他的脸是椭圆形的。|Mặt anh ấy hình bầu dục.|He has an oval face.|是…的
+唾弃|tuòqì|thóa khí|phỉ nhổ, khinh bỉ|to spurn|这种卑鄙的行为受到了大家的唾弃。|Hành vi bỉ ổi này đã bị mọi người phỉ nhổ.|This despicable behavior was scorned by all.|了
+挖掘|wājué|oát quật|đào bới; khai thác|to excavate; to tap|我们要挖掘每个学生的潜力。|Chúng ta phải khai thác tiềm năng của mỗi học sinh.|We need to tap each student's potential.|能愿动词
+哇|wā|oa|oa, ồ (thán từ); tiếng khóc|wow; crying sound|哇，这里的风景太美了！|Oa, phong cảnh ở đây đẹp quá!|Wow, the scenery here is gorgeous!|感叹句
+娃娃|wáwa|oa oa|búp bê; em bé|doll; baby|女儿过生日时，我送了她一个布娃娃。|Sinh nhật con gái, tôi tặng bé một con búp bê vải.|For my daughter's birthday, I gave her a rag doll.|双宾语
+瓦解|wǎjiě|ngõa giải|tan rã|to disintegrate|敌人的防线被彻底瓦解了。|Tuyến phòng thủ của kẻ địch đã bị tan rã hoàn toàn.|The enemy's defense line collapsed completely.|被字句
+歪曲|wāiqū|oai khúc|xuyên tạc|to distort|他故意歪曲了我的意思。|Hắn cố ý xuyên tạc ý của tôi.|He deliberately twisted my words.|了
+外表|wàibiǎo|ngoại biểu|vẻ bề ngoài|appearance|不要只看一个人的外表。|Đừng chỉ nhìn vẻ bề ngoài của một người.|Don't judge people only by appearances.|祈使句
+外行|wàiháng|ngoại hàng|người ngoại đạo, không chuyên|layman|在音乐方面，我完全是个外行。|Về âm nhạc, tôi hoàn toàn là người ngoại đạo.|When it comes to music, I'm a complete layman.|是字句
+外界|wàijiè|ngoại giới|bên ngoài, thế giới bên ngoài|outside world|他不太在乎外界的评价。|Anh ấy không để ý lắm đến đánh giá của bên ngoài.|He doesn't care much what the outside world thinks.|陈述句
+外向|wàixiàng|ngoại hướng|hướng ngoại|extroverted|她性格外向，很容易交到朋友。|Cô ấy tính hướng ngoại, rất dễ kết bạn.|She's outgoing and makes friends easily.|形容词谓语
+丸|wán|hoàn|viên (thuốc), viên tròn|pill; ball|这种中药丸每天吃三次。|Loại viên thuốc bắc này mỗi ngày uống ba lần.|Take these Chinese medicine pills three times a day.|时量动量
+完备|wánbèi|hoàn bị|đầy đủ, hoàn bị|complete|这家医院的设施非常完备。|Cơ sở vật chất của bệnh viện này vô cùng đầy đủ.|This hospital's facilities are very complete.|形容词谓语
+完毕|wánbì|hoàn tất|xong, hoàn tất|to finish|检查完毕，一切正常。|Kiểm tra xong, mọi thứ bình thường.|The inspection is complete; everything is normal.|陈述句
+玩弄|wánnòng|ngoạn lộng|đùa bỡn; giở (thủ đoạn)|to play with; to resort to|他喜欢玩弄别人的感情。|Hắn thích đùa giỡn tình cảm người khác.|He likes to toy with people's feelings.|陈述句
+玩意儿|wányìr|ngoạn ý nhi|đồ chơi, món đồ|thing, gadget|这是什么玩意儿？我从来没见过。|Đây là thứ gì vậy? Tôi chưa từng thấy bao giờ.|What's this thing? I've never seen one before.|过
+顽固|wángù|ngoan cố|ngoan cố|stubborn|他很顽固，谁的话也听不进去。|Anh ta rất ngoan cố, lời ai cũng không nghe lọt tai.|He's so stubborn he won't listen to anyone.|可能补语
+顽强|wánqiáng|ngoan cường|ngoan cường|tenacious|他以顽强的毅力战胜了疾病。|Anh ấy đã chiến thắng bệnh tật bằng nghị lực ngoan cường.|He overcame his illness with tenacious willpower.|介词短语
+挽回|wǎnhuí|vãn hồi|cứu vãn|to retrieve|他想尽办法挽回公司的损失。|Anh ấy tìm mọi cách cứu vãn tổn thất cho công ty.|He did everything he could to recoup the company's losses.|连动句
+挽救|wǎnjiù|vãn cứu|cứu vãn, cứu chữa|to save|医生们尽全力挽救病人的生命。|Các bác sĩ dốc toàn lực cứu sống bệnh nhân.|The doctors did everything to save the patient's life.|连动句
+惋惜|wǎnxī|uyển tích|tiếc nuối|to regret|他没能参加决赛，大家都感到很惋惜。|Anh ấy không thể tham gia chung kết, mọi người đều thấy rất tiếc.|Everyone felt it was a great pity he couldn't compete in the final.|形容词谓语
+万分|wànfēn|vạn phân|vô cùng|extremely|收到你的礼物，我万分感激。|Nhận được quà của bạn, tôi vô cùng cảm kích.|I'm extremely grateful for your gift.|陈述句
+往常|wǎngcháng|vãng thường|thường ngày|usually|他今天比往常来得早。|Hôm nay anh ấy đến sớm hơn thường ngày.|He arrived earlier than usual today.|比较句
+往事|wǎngshì|vãng sự|chuyện cũ|past events|看着老照片，他想起了很多往事。|Nhìn những bức ảnh cũ, ông nhớ lại nhiều chuyện xưa.|Looking at the old photos, he recalled many past events.|趋向补语
+妄想|wàngxiǎng|vọng tưởng|vọng tưởng|to vainly hope|不努力就想成功，那是妄想。|Không nỗ lực mà muốn thành công, đó là vọng tưởng.|Hoping to succeed without effort is wishful thinking.|是字句
+危机|wēijī|nguy cơ|khủng hoảng|crisis|这家公司正面临着严重的财务危机。|Công ty này đang đối mặt với cuộc khủng hoảng tài chính nghiêm trọng.|This company is facing a serious financial crisis.|进行态
+威风|wēifēng|uy phong|uy phong, oai phong|imposing|他穿上警服，显得特别威风。|Anh ấy mặc cảnh phục vào trông đặc biệt oai phong.|He looks especially impressive in his police uniform.|形容词谓语
+威力|wēilì|uy lực|uy lực, sức mạnh|power|这次台风的威力非常大。|Sức mạnh của cơn bão lần này rất lớn.|This typhoon is extremely powerful.|形容词谓语
+威望|wēiwàng|uy vọng|uy tín|prestige|他在村里有很高的威望。|Ông ấy có uy tín rất cao trong làng.|He's highly respected in the village.|有字句
+威信|wēixìn|uy tín|uy tín, lòng tin|prestige|老师在学生中有很高的威信。|Thầy giáo có uy tín rất cao trong học sinh.|The teacher has great prestige among the students.|有字句
+微不足道|wēi bù zú dào|vi bất túc đạo|nhỏ nhặt không đáng kể|insignificant|这只是一件微不足道的小事。|Đây chỉ là một chuyện nhỏ nhặt không đáng kể.|This is just a trivial matter.|是字句
+微观|wēiguān|vi quan|vi mô|micro|经济学分为宏观经济学和微观经济学。|Kinh tế học chia thành kinh tế vĩ mô và kinh tế vi mô.|Economics is divided into macroeconomics and microeconomics.|陈述句
+为难|wéinán|vi nan|khó xử; làm khó|awkward; to make things difficult|这件事让我很为难。|Việc này khiến tôi rất khó xử.|This puts me in a very awkward position.|兼语句
+为期|wéiqī|vi kỳ|kéo dài (thời hạn)|lasting (a period)|这次为期一周的培训明天开始。|Khóa đào tạo kéo dài một tuần này bắt đầu vào ngày mai.|This week-long training starts tomorrow.|定语
+违背|wéibèi|vi bội|làm trái|to violate|我不会做违背良心的事。|Tôi sẽ không làm việc trái với lương tâm.|I won't do anything against my conscience.|能愿动词
+唯独|wéidú|duy độc|chỉ riêng, duy chỉ|only|大家都来了，唯独他没来。|Mọi người đều đến rồi, chỉ riêng anh ấy không đến.|Everyone came except him.|转折
+维持|wéichí|duy trì|duy trì|to maintain|警察在现场维持秩序。|Cảnh sát duy trì trật tự tại hiện trường.|Police are keeping order at the scene.|介词短语
+维护|wéihù|duy hộ|giữ gìn, bảo vệ|to safeguard|我们要维护国家的利益。|Chúng ta phải bảo vệ lợi ích quốc gia.|We must safeguard national interests.|能愿动词
+维生素|wéishēngsù|duy sinh tố|vitamin|vitamin|水果里含有丰富的维生素。|Trái cây chứa nhiều vitamin.|Fruit is rich in vitamins.|陈述句
+伪造|wěizào|ngụy tạo|làm giả|to forge|他因为伪造文件被警察抓了。|Anh ta bị cảnh sát bắt vì làm giả giấy tờ.|He was arrested for forging documents.|被字句
+委托|wěituō|ủy thác|ủy thác, nhờ|to entrust|他委托我帮他照顾一下他的猫。|Anh ấy nhờ tôi chăm sóc giúp con mèo của anh ấy.|He asked me to look after his cat.|兼语句
+委员|wěiyuán|ủy viên|ủy viên|committee member|他被选为学生会委员。|Anh ấy được bầu làm ủy viên hội sinh viên.|He was elected to the student union committee.|被字句
+卫星|wèixīng|vệ tinh|vệ tinh|satellite|月亮是地球的卫星。|Mặt trăng là vệ tinh của trái đất.|The moon is Earth's satellite.|是字句
+未免|wèimiǎn|vị miễn|khó tránh; có phần hơi|rather, a bit too|你这样说未免太过分了。|Bạn nói như vậy có phần hơi quá đáng.|That's going a bit too far.|形容词谓语
+畏惧|wèijù|úy cụ|sợ hãi|to fear|面对困难，我们不应该畏惧。|Đối mặt khó khăn, chúng ta không nên sợ hãi.|We shouldn't fear difficulties.|能愿动词
+喂|wèi|úy|cho ăn, bón|to feed|她每天早上都喂小猫吃东西。|Sáng nào cô ấy cũng cho mèo con ăn.|She feeds the kitten every morning.|兼语句
+蔚蓝|wèilán|úy lam|xanh thẳm|azure|蔚蓝的天空中飘着几朵白云。|Trên bầu trời xanh thẳm lơ lửng vài đám mây trắng.|A few white clouds drift across the azure sky.|存现句
+慰问|wèiwèn|úy vấn|thăm hỏi, an ủi|to express sympathy|领导到医院慰问了受伤的工人。|Lãnh đạo đến bệnh viện thăm hỏi các công nhân bị thương.|The leaders visited injured workers at the hospital.|连动句
+温带|wēndài|ôn đới|ôn đới|temperate zone|这个国家位于北温带。|Đất nước này nằm ở vùng ôn đới phía bắc.|This country lies in the northern temperate zone.|陈述句
+温和|wēnhé|ôn hòa|ôn hòa, ôn hậu|mild, gentle|她说话的语气很温和。|Giọng nói của cô ấy rất ôn hòa.|She speaks in a gentle tone.|形容词谓语
+文凭|wénpíng|văn bằng|văn bằng|diploma|有文凭不一定有能力。|Có bằng cấp chưa chắc đã có năng lực.|Having a diploma doesn't necessarily mean you're capable.|有字句
+文物|wénwù|văn vật|cổ vật, di vật văn hóa|cultural relic|博物馆里展出了很多珍贵的文物。|Bảo tàng trưng bày rất nhiều cổ vật quý giá.|The museum displays many precious relics.|存现句
+文献|wénxiàn|văn hiến|tư liệu, văn liệu|documents, literature|写论文需要查阅大量的文献。|Viết luận văn cần tra cứu lượng lớn tư liệu.|Writing a thesis requires consulting a large body of literature.|能愿动词
+文雅|wényǎ|văn nhã|nho nhã, thanh lịch|refined|她举止文雅，很有教养。|Cô ấy cử chỉ thanh lịch, rất có giáo dưỡng.|She's refined in manner and well brought up.|并列
+文艺|wényì|văn nghệ|văn nghệ|literature and art|学校下个月要举办一场文艺晚会。|Tháng sau trường sẽ tổ chức một buổi dạ hội văn nghệ.|The school will hold an arts gala next month.|将要
+问世|wènshì|vấn thế|ra đời, ra mắt|to come out|这本词典问世以后受到了广泛欢迎。|Cuốn từ điển này sau khi ra đời đã được đón nhận rộng rãi.|This dictionary was widely welcomed after its publication.|时间状语
+窝|wō|oa|tổ, ổ|nest|树上有一个鸟窝。|Trên cây có một tổ chim.|There's a bird's nest in the tree.|存现句
+乌黑|wūhēi|ô hắc|đen nhánh|jet-black|她有一头乌黑的长发。|Cô ấy có một mái tóc dài đen nhánh.|She has long jet-black hair.|有字句
+污蔑|wūmiè|ô miệt|vu khống, bôi nhọ|to slander|你不能随便污蔑别人。|Bạn không được tùy tiện vu khống người khác.|You can't slander people like that.|能愿动词
+诬陷|wūxiàn|vu hãm|vu oan, hãm hại|to frame|他被人诬陷，受了很多委屈。|Anh ấy bị người ta vu oan, chịu nhiều oan ức.|He was framed and suffered many injustices.|被字句
+无比|wúbǐ|vô tỷ|vô cùng, không gì sánh bằng|incomparable|听到这个消息，她感到无比幸福。|Nghe tin này, cô ấy cảm thấy hạnh phúc vô cùng.|Hearing the news, she felt incomparably happy.|形容词谓语
+无偿|wúcháng|vô thường|không công, miễn phí|free, without compensation|他无偿为社区提供法律帮助。|Anh ấy cung cấp trợ giúp pháp lý miễn phí cho cộng đồng.|He provides free legal aid to the community.|介词短语
+无耻|wúchǐ|vô sỉ|vô liêm sỉ|shameless|他的行为太无耻了！|Hành vi của hắn thật quá vô liêm sỉ!|His behavior is utterly shameless!|感叹句
+无动于衷|wú dòng yú zhōng|vô động vu trung|thờ ơ, dửng dưng|indifferent|看到别人受苦，他却无动于衷。|Nhìn người khác chịu khổ mà hắn lại dửng dưng.|Seeing others suffer, he remained unmoved.|转折
+无非|wúfēi|vô phi|chẳng qua là|nothing but|他这样做，无非是想引起大家的注意。|Anh ta làm như vậy chẳng qua là muốn gây sự chú ý.|He's only doing this to get attention.|是字句
+无辜|wúgū|vô cô|vô tội|innocent|战争中有很多无辜的平民受伤。|Trong chiến tranh có rất nhiều thường dân vô tội bị thương.|Many innocent civilians were hurt in the war.|存现句
+无精打采|wú jīng dǎ cǎi|vô tinh đả thải|uể oải, ủ rũ|listless|他今天无精打采的，是不是生病了？|Hôm nay anh ấy uể oải, có phải bị ốm không?|He seems listless today—is he sick?|正反问句
+无赖|wúlài|vô lại|kẻ vô lại|rascal|他像个无赖一样，借钱不还。|Hắn như một kẻ vô lại, vay tiền không trả.|He's like a scoundrel—borrows money and never pays it back.|比较句
+无理取闹|wú lǐ qǔ nào|vô lý thủ náo|gây sự vô cớ|to make trouble without reason|这个孩子经常无理取闹，让父母很头疼。|Đứa trẻ này thường làm ầm vô cớ, khiến bố mẹ rất đau đầu.|This child often throws tantrums for no reason, giving his parents headaches.|兼语句
+无能为力|wú néng wéi lì|vô năng vi lực|bất lực|powerless|对于这件事，我也无能为力。|Đối với việc này, tôi cũng bất lực.|I'm powerless to do anything about this.|介词短语
+无穷无尽|wú qióng wú jìn|vô cùng vô tận|vô cùng vô tận|endless|知识是无穷无尽的。|Kiến thức là vô cùng vô tận.|Knowledge is limitless.|是…的
+无微不至|wú wēi bù zhì|vô vi bất chí|chu đáo tỉ mỉ|meticulous care|妈妈对我的照顾无微不至。|Mẹ chăm sóc tôi chu đáo tỉ mỉ từng li từng tí.|Mom takes care of me in every little way.|介词短语
+无忧无虑|wú yōu wú lǜ|vô ưu vô lự|vô lo vô nghĩ|carefree|小时候的生活总是无忧无虑的。|Cuộc sống thuở nhỏ lúc nào cũng vô lo vô nghĩ.|Childhood was always carefree.|是…的
+无知|wúzhī|vô tri|ngu dốt, thiếu hiểu biết|ignorant|他的话暴露了他的无知。|Lời nói của anh ta đã bộc lộ sự thiếu hiểu biết.|His words revealed his ignorance.|了
+武器|wǔqì|vũ khí|vũ khí|weapon|知识是改变命运最好的武器。|Tri thức là vũ khí tốt nhất để thay đổi số phận.|Knowledge is the best weapon for changing one's fate.|是字句
+武侠|wǔxiá|võ hiệp|võ hiệp, kiếm hiệp|martial arts hero|他特别喜欢看金庸的武侠小说。|Anh ấy đặc biệt thích đọc tiểu thuyết kiếm hiệp của Kim Dung.|He especially loves Jin Yong's martial arts novels.|陈述句
+武装|wǔzhuāng|vũ trang|vũ trang|armed; to arm|政府派出武装警察维持秩序。|Chính phủ phái cảnh sát vũ trang đến duy trì trật tự.|The government dispatched armed police to maintain order.|连动句

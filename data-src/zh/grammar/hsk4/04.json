@@ -1,0 +1,1026 @@
+{
+  "n": 4,
+  "zh": "不要太着急赚钱",
+  "vi": "Đừng quá nóng vội kiếm tiền",
+  "en": "Don't be in too much of a hurry to make money",
+  "texts": [
+    {
+      "title": "小林和小李聊小李的工作",
+      "paras": [
+        {
+          "zh": "小林：听说你又换工作了？今年已经换了三次工作了吧？",
+          "vi": "Tiểu Lâm: Nghe nói cậu lại đổi việc à? Năm nay đã đổi việc ba lần rồi nhỉ?",
+          "en": "Xiao Lin: I hear you've changed jobs again? That's three times this year, isn't it?"
+        },
+        {
+          "zh": "小李：别提了！我以为新工作比以前的好，没想到还没有以前好呢。",
+          "vi": "Tiểu Lý: Đừng nhắc nữa! Tớ cứ tưởng công việc mới tốt hơn trước, không ngờ còn không bằng trước.",
+          "en": "Xiao Li: Don't mention it! I thought the new job would be better than the old one, but it's actually worse."
+        },
+        {
+          "zh": "小林：上次那份工作你只做了两个月就离开了，其实，完全适应一个新的工作需要一年时间，所以，经常换工作不一定好。",
+          "vi": "Tiểu Lâm: Công việc lần trước cậu chỉ làm hai tháng đã nghỉ, thật ra muốn hoàn toàn thích nghi với một công việc mới cần một năm, nên thường xuyên đổi việc chưa chắc đã tốt.",
+          "en": "Xiao Lin: You only stayed two months at your last job. Actually, it takes a year to fully adapt to a new job, so changing jobs often isn't necessarily good."
+        },
+        {
+          "zh": "小李：我也明白。但是那份工作的收入太少了！",
+          "vi": "Tiểu Lý: Tớ cũng hiểu. Nhưng thu nhập của công việc đó ít quá!",
+          "en": "Xiao Li: I know. But that job paid too little!"
+        },
+        {
+          "zh": "小林：你才到新公司，不要太着急赚钱，多学习才是最重要的。",
+          "vi": "Tiểu Lâm: Cậu mới đến công ty mới, đừng quá vội kiếm tiền, học hỏi nhiều mới là quan trọng nhất.",
+          "en": "Xiao Lin: You've only just joined a new company. Don't be in too much of a hurry to make money. Learning as much as you can is what matters most."
+        },
+        {
+          "zh": "小李：好。我一定会努力把现在这份工作做好。",
+          "vi": "Tiểu Lý: Được. Tớ nhất định sẽ cố gắng làm tốt công việc hiện tại.",
+          "en": "Xiao Li: OK. I'll definitely work hard to do this job well."
+        }
+      ],
+      "words": [
+        {
+          "zh": "提",
+          "py": "tí",
+          "pos": "đgt.",
+          "vi": "nhắc đến",
+          "en": "to mention"
+        },
+        {
+          "zh": "以为",
+          "py": "yǐwéi",
+          "pos": "đgt.",
+          "vi": "cho rằng, tưởng là",
+          "en": "to (mistakenly) think"
+        },
+        {
+          "zh": "份",
+          "py": "fèn",
+          "pos": "lượng.",
+          "vi": "(dùng cho công việc, báo chí...) tờ, bản",
+          "en": "measure word for jobs, newspapers, documents"
+        },
+        {
+          "zh": "完全",
+          "py": "wánquán",
+          "pos": "phó.",
+          "vi": "hoàn toàn",
+          "en": "completely"
+        },
+        {
+          "zh": "赚",
+          "py": "zhuàn",
+          "pos": "đgt.",
+          "vi": "kiếm (tiền)",
+          "en": "to earn (money)"
+        }
+      ]
+    },
+    {
+      "title": "王经理和小李在说工作",
+      "paras": [
+        {
+          "zh": "王经理：那份调查还要多长时间才能做完？",
+          "vi": "Giám đốc Vương: Cuộc khảo sát đó còn bao lâu nữa mới làm xong?",
+          "en": "Manager Wang: How much longer until that survey is finished?"
+        },
+        {
+          "zh": "小李：按原来的计划应该是两周，但是我们可以提前完成，周末保证做完。",
+          "vi": "Tiểu Lý: Theo kế hoạch ban đầu là hai tuần, nhưng chúng tôi có thể hoàn thành sớm, cuối tuần đảm bảo làm xong.",
+          "en": "Xiao Li: The original plan was two weeks, but we can finish early. I guarantee it'll be done by the weekend."
+        },
+        {
+          "zh": "王经理：虽然最近工作很忙，但你们也要注意身体啊。",
+          "vi": "Giám đốc Vương: Tuy dạo này công việc rất bận, nhưng các cậu cũng phải chú ý sức khỏe đấy.",
+          "en": "Manager Wang: I know you're very busy at the moment, but you must look after your health too."
+        },
+        {
+          "zh": "小李：谢谢您！现在有很多事情等着我做，真不知道该先做哪个好。",
+          "vi": "Tiểu Lý: Cảm ơn anh! Bây giờ có rất nhiều việc đang chờ tôi làm, thật không biết nên làm việc nào trước.",
+          "en": "Xiao Li: Thank you! There are so many things waiting for me to do, I really don't know which to do first."
+        },
+        {
+          "zh": "王经理：每天早上我都把当天计划要做的事情写在笔记本上，提醒自己安排好时间。你也可以试试这样做。",
+          "vi": "Giám đốc Vương: Sáng nào tôi cũng ghi những việc định làm trong ngày vào sổ, nhắc mình sắp xếp thời gian cho tốt. Cậu cũng có thể thử làm như vậy.",
+          "en": "Manager Wang: Every morning I write down in my notebook what I plan to do that day, to remind myself to organize my time. You could try doing the same."
+        },
+        {
+          "zh": "小李：这个办法真不错！这样我就不会手忙脚乱了。",
+          "vi": "Tiểu Lý: Cách này hay thật! Như vậy tôi sẽ không bị luống cuống nữa.",
+          "en": "Xiao Li: That's a great idea! That way I won't be in such a muddle."
+        }
+      ],
+      "words": [
+        {
+          "zh": "调查",
+          "py": "diàochá",
+          "pos": "đgt.",
+          "vi": "điều tra, khảo sát",
+          "en": "to survey, to investigate"
+        },
+        {
+          "zh": "原来",
+          "py": "yuánlái",
+          "pos": "tt.",
+          "vi": "ban đầu",
+          "en": "original"
+        },
+        {
+          "zh": "计划",
+          "py": "jìhuà",
+          "pos": "dt./đgt.",
+          "vi": "kế hoạch; vạch kế hoạch",
+          "en": "plan; to plan"
+        },
+        {
+          "zh": "提前",
+          "py": "tíqián",
+          "pos": "đgt.",
+          "vi": "làm việc gì đó sớm hơn quy định/trước thời hạn",
+          "en": "to do in advance, ahead of time"
+        },
+        {
+          "zh": "保证",
+          "py": "bǎozhèng",
+          "pos": "đgt.",
+          "vi": "cam đoan, bảo đảm",
+          "en": "to guarantee"
+        },
+        {
+          "zh": "提醒",
+          "py": "tíxǐng",
+          "pos": "đgt.",
+          "vi": "nhắc nhở",
+          "en": "to remind"
+        },
+        {
+          "zh": "乱",
+          "py": "luàn",
+          "pos": "tt.",
+          "vi": "lộn xộn, lúng túng",
+          "en": "messy, in disorder"
+        }
+      ],
+      "names": [
+        {
+          "zh": "王",
+          "py": "Wáng",
+          "vi": "Vương (họ)",
+          "en": "Wang (a surname)"
+        }
+      ]
+    },
+    {
+      "title": "王经理和马经理在说工作",
+      "paras": [
+        {
+          "zh": "王经理：什么事让你这么高兴啊？",
+          "vi": "Giám đốc Vương: Chuyện gì khiến anh vui thế?",
+          "en": "Manager Wang: What's made you so happy?"
+        },
+        {
+          "zh": "马经理：我们和上次那个公司的生意终于谈成了。",
+          "vi": "Giám đốc Mã: Thương vụ giữa chúng ta với công ty lần trước cuối cùng cũng đàm phán thành công rồi.",
+          "en": "Manager Ma: Our deal with that company from last time has finally gone through."
+        },
+        {
+          "zh": "王经理：太好了！你工作那么努力，公司会越来越好的。",
+          "vi": "Giám đốc Vương: Tốt quá! Anh làm việc chăm chỉ như vậy, công ty sẽ ngày càng tốt hơn.",
+          "en": "Manager Wang: That's great! With you working so hard, the company will keep getting better."
+        },
+        {
+          "zh": "马经理：我原来以为做生意很简单，后来才发现其实并不容易，现在赚钱越来越难了。",
+          "vi": "Giám đốc Mã: Lúc đầu tôi cứ nghĩ làm ăn rất đơn giản, sau này mới phát hiện thật ra không hề dễ, bây giờ kiếm tiền ngày càng khó.",
+          "en": "Manager Ma: I used to think doing business was simple, but later I found it's not easy at all. Making money is getting harder and harder."
+        },
+        {
+          "zh": "王经理：慢慢来，万事开头难，重要的是要多积累经验。",
+          "vi": "Giám đốc Vương: Cứ từ từ, vạn sự khởi đầu nan, quan trọng là phải tích lũy nhiều kinh nghiệm.",
+          "en": "Manager Wang: Take it slowly. Every beginning is hard; the important thing is to build up experience."
+        },
+        {
+          "zh": "马经理：我相信经过我们大家的努力，公司的生意会越做越大，一切都会好的。",
+          "vi": "Giám đốc Mã: Tôi tin rằng qua sự nỗ lực của mọi người, việc kinh doanh của công ty sẽ ngày càng lớn, mọi thứ rồi sẽ tốt đẹp.",
+          "en": "Manager Ma: I believe that with everyone's efforts, the company's business will keep growing and everything will be fine."
+        }
+      ],
+      "words": [
+        {
+          "zh": "生意",
+          "py": "shēngyi",
+          "pos": "dt.",
+          "vi": "việc kinh doanh/buôn bán",
+          "en": "business, trade"
+        },
+        {
+          "zh": "谈",
+          "py": "tán",
+          "pos": "đgt.",
+          "vi": "nói chuyện, thảo luận",
+          "en": "to talk, to discuss"
+        },
+        {
+          "zh": "并",
+          "py": "bìng",
+          "pos": "phó.",
+          "vi": "được dùng trước từ phủ định để nhấn mạnh",
+          "en": "(used before a negative for emphasis) not at all",
+          "x": true
+        },
+        {
+          "zh": "积累",
+          "py": "jīlěi",
+          "pos": "đgt.",
+          "vi": "tích lũy",
+          "en": "to accumulate"
+        },
+        {
+          "zh": "经验",
+          "py": "jīngyàn",
+          "pos": "dt.",
+          "vi": "kinh nghiệm",
+          "en": "experience"
+        },
+        {
+          "zh": "一切",
+          "py": "yíqiè",
+          "pos": "dt.",
+          "vi": "tất cả",
+          "en": "everything"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "我们今年的工作都已经按照计划完成了。这一段时间，尽管工作很紧张，中间也遇到了很多困难，但是因为有大家的努力，我们成功地{de}解决了问题，顺利地{de}完成了工作，非常感谢大家对我的帮助！另外，马经理让我告诉大家一个好消息，因为大家按时完成了工作，公司决定这个月给每人多发三千元奖金。感谢大家这三个多月的努力工作，希望明年能有更大的成绩！",
+          "vi": "Công việc năm nay của chúng ta đều đã hoàn thành theo kế hoạch. Thời gian qua, tuy công việc rất căng thẳng, giữa chừng cũng gặp nhiều khó khăn, nhưng nhờ sự nỗ lực của mọi người, chúng ta đã giải quyết thành công các vấn đề, hoàn thành công việc thuận lợi, rất cảm ơn mọi người đã giúp đỡ tôi! Ngoài ra, giám đốc Mã bảo tôi báo với mọi người một tin vui: vì mọi người đã hoàn thành công việc đúng hạn, công ty quyết định tháng này mỗi người được thưởng thêm ba nghìn tệ. Cảm ơn mọi người đã làm việc chăm chỉ hơn ba tháng qua, mong năm sau có thành tích lớn hơn nữa!",
+          "en": "This year's work has all been completed according to plan. Over this period, although the work was intense and we ran into many difficulties along the way, thanks to everyone's efforts we successfully solved the problems and completed the work smoothly. Thank you all very much for your help! Also, Manager Ma asked me to share some good news: because everyone finished on time, the company has decided to give each person an extra 3,000-yuan bonus this month. Thank you for your hard work over the past three months, and I hope we'll achieve even more next year!"
+        }
+      ],
+      "words": [
+        {
+          "zh": "按照",
+          "py": "ànzhào",
+          "pos": "giới.",
+          "vi": "theo",
+          "en": "according to"
+        },
+        {
+          "zh": "成功",
+          "py": "chénggōng",
+          "pos": "tt.",
+          "vi": "thành công",
+          "en": "successful"
+        },
+        {
+          "zh": "顺利",
+          "py": "shùnlì",
+          "pos": "tt.",
+          "vi": "thuận lợi, suôn sẻ",
+          "en": "smooth"
+        },
+        {
+          "zh": "感谢",
+          "py": "gǎnxiè",
+          "pos": "đgt.",
+          "vi": "cảm ơn",
+          "en": "to thank"
+        },
+        {
+          "zh": "消息",
+          "py": "xiāoxi",
+          "pos": "dt.",
+          "vi": "tin tức",
+          "en": "news"
+        },
+        {
+          "zh": "按时",
+          "py": "ànshí",
+          "pos": "phó.",
+          "vi": "đúng hạn",
+          "en": "on time"
+        },
+        {
+          "zh": "奖金",
+          "py": "jiǎngjīn",
+          "pos": "dt.",
+          "vi": "tiền thưởng",
+          "en": "bonus"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "年轻人刚开始工作的时候，不要太急着赚钱，不要眼睛里只有工资和奖金。在工作的前几年，重要的是丰富自己的工作经验，学习与同事交流的方法，积累专业知识，这些比收入重要多了。但是很多时候，我们不得不去做一些自己不愿意做甚至是非常不喜欢的工作。这时，我们最需要的就是对工作的责任心。一个人即使能力再高，经验再丰富，如果对工作没有责任心，也很难把工作做好。",
+          "vi": "Người trẻ khi mới bắt đầu đi làm, đừng quá vội kiếm tiền, đừng chỉ nhìn vào lương và thưởng. Trong mấy năm đầu đi làm, quan trọng là làm phong phú kinh nghiệm làm việc của bản thân, học cách giao tiếp với đồng nghiệp, tích lũy kiến thức chuyên môn, những điều này quan trọng hơn thu nhập nhiều. Nhưng nhiều khi chúng ta buộc phải làm những công việc mình không muốn làm, thậm chí rất không thích. Lúc này, điều chúng ta cần nhất chính là tinh thần trách nhiệm với công việc. Một người dù năng lực cao đến đâu, kinh nghiệm phong phú đến đâu, nếu không có tinh thần trách nhiệm với công việc thì cũng rất khó làm tốt công việc.",
+          "en": "When young people first start working, they shouldn't be in too much of a hurry to make money or think only about their salary and bonuses. In the first few years, what matters is building up work experience, learning how to communicate with colleagues and accumulating professional knowledge; these are far more important than income. But often we have to do work we don't want to do, or even really dislike. At such times, what we need most is a sense of responsibility for our work. However capable or experienced someone is, without a sense of responsibility it's hard to do a job well."
+        }
+      ],
+      "words": [
+        {
+          "zh": "工资",
+          "py": "gōngzī",
+          "pos": "dt.",
+          "vi": "tiền lương",
+          "en": "salary, wages"
+        },
+        {
+          "zh": "方法",
+          "py": "fāngfǎ",
+          "pos": "dt.",
+          "vi": "phương pháp, cách thức",
+          "en": "method, way"
+        },
+        {
+          "zh": "知识",
+          "py": "zhīshi",
+          "pos": "dt.",
+          "vi": "kiến thức",
+          "en": "knowledge"
+        },
+        {
+          "zh": "不得不",
+          "py": "bù dé bù",
+          "vi": "phải, không thể không",
+          "en": "to have to"
+        },
+        {
+          "zh": "甚至",
+          "py": "shènzhì",
+          "pos": "liên.",
+          "vi": "thậm chí",
+          "en": "even"
+        },
+        {
+          "zh": "责任",
+          "py": "zérèn",
+          "pos": "dt.",
+          "vi": "trách nhiệm",
+          "en": "responsibility"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "你觉得小李为什么总是换工作？",
+        "label": "课文1",
+        "a": "因为他【觉得工作的收入太少了】，想多赚钱。",
+        "vi": "Vì cậu ấy thấy thu nhập của công việc quá ít, muốn kiếm nhiều tiền hơn.",
+        "en": "Because he feels the pay is too low and wants to earn more.",
+        "sample": true
+      },
+      {
+        "q": "“如果认为新工作不适合你，就应该马上换。”这句话对吗？为什么？",
+        "label": "课文1",
+        "a": "【不太对】。因为完全适应一个新的工作需要一年时间，经常换工作不一定好。",
+        "vi": "Không hẳn đúng. Vì để hoàn toàn thích nghi với công việc mới cần một năm, thường xuyên đổi việc chưa chắc đã tốt.",
+        "en": "Not really. It takes a year to fully adapt to a new job, so changing jobs often isn't necessarily good.",
+        "sample": true
+      },
+      {
+        "q": "那份调查的完成时间有什么变化？最晚什么时候可以完成？",
+        "label": "课文2",
+        "a": "按原来的计划应该是两周，但是【可以提前完成】，【最晚周末】可以完成。",
+        "vi": "Theo kế hoạch ban đầu là hai tuần, nhưng có thể hoàn thành sớm, muộn nhất là cuối tuần.",
+        "en": "The original plan was two weeks, but it can be finished early: by the weekend at the latest."
+      },
+      {
+        "q": "每天把计划要做的事情记下来有什么好处？",
+        "label": "课文2",
+        "a": "可以【提醒自己安排好时间】，这样就【不会手忙脚乱】了。",
+        "vi": "Có thể nhắc mình sắp xếp thời gian hợp lý, như vậy sẽ không bị luống cuống.",
+        "en": "It reminds you to organize your time, so you won't be in a muddle."
+      },
+      {
+        "q": "马经理觉得做生意容易吗？为什么？",
+        "label": "课文3",
+        "a": "【不容易】。他原来以为做生意很简单，后来才发现其实并不容易，【现在赚钱越来越难了】。",
+        "vi": "Không dễ. Lúc đầu ông ấy nghĩ làm ăn đơn giản, sau mới thấy không hề dễ, bây giờ kiếm tiền ngày càng khó.",
+        "en": "No. He used to think it was simple, but found it isn't easy at all; making money is getting harder and harder."
+      },
+      {
+        "q": "“万事开头难”是什么意思？你会在什么时候用这句话？",
+        "label": "课文3",
+        "a": "意思是【做什么事情，开始的时候都是最难的】。在别人刚开始做一件新事情、遇到困难的时候，可以用这句话鼓励他。",
+        "vi": "Nghĩa là làm việc gì thì lúc bắt đầu cũng là khó nhất. Khi người khác mới bắt đầu làm việc mới và gặp khó khăn, có thể dùng câu này để động viên.",
+        "en": "It means the beginning is always the hardest part of anything. You can use it to encourage someone who has just started something new and is struggling.",
+        "sample": true
+      },
+      {
+        "q": "他们今年工作的完成情况怎么样？",
+        "label": "课文4",
+        "a": "他们今年的工作【都已经按照计划完成了】。",
+        "vi": "Công việc năm nay của họ đều đã hoàn thành theo kế hoạch.",
+        "en": "All their work this year has been completed according to plan."
+      },
+      {
+        "q": "公司用什么方法来感谢大家的努力工作？",
+        "label": "课文4",
+        "a": "公司决定【这个月给每人多发三千元奖金】。",
+        "vi": "Công ty quyết định tháng này thưởng thêm cho mỗi người ba nghìn tệ.",
+        "en": "The company decided to give everyone an extra 3,000-yuan bonus this month."
+      },
+      {
+        "q": "刚开始工作的时候，什么最重要？",
+        "label": "课文5",
+        "a": "重要的是【丰富自己的工作经验，学习与同事交流的方法，积累专业知识】。",
+        "vi": "Quan trọng là làm phong phú kinh nghiệm làm việc, học cách giao tiếp với đồng nghiệp, tích lũy kiến thức chuyên môn.",
+        "en": "What matters is building up work experience, learning how to communicate with colleagues and accumulating professional knowledge."
+      },
+      {
+        "q": "我们遇到不愿意做的工作时应该怎么办？",
+        "label": "课文5",
+        "a": "这时我们最需要的就是【对工作的责任心】。",
+        "vi": "Lúc đó điều chúng ta cần nhất là tinh thần trách nhiệm với công việc.",
+        "en": "At such times what we need most is a sense of responsibility for our work."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "以为",
+      "uses": [
+        {
+          "vi": "Động từ 以为 thường được dùng để chỉ việc gì đó (mà người nói đã nghĩ) không phải là sự thật.",
+          "en": "The verb 以为 means 'to (wrongly) think, assume': what the speaker believed turns out not to match the facts.",
+          "ex": [
+            {
+              "zh": "她汉语说得那么好，我还【以为】她是中国人。",
+              "vi": "Cô ấy nói tiếng Trung giỏi thế, tôi còn tưởng cô ấy là người Trung Quốc.",
+              "en": "Her Chinese is so good that I thought she was Chinese."
+            },
+            {
+              "zh": "马克【以为】今天是星期一，到了学校一看，没人来上课，才发现今天是星期天。",
+              "vi": "Mark tưởng hôm nay là thứ Hai, đến trường nhìn thì không có ai đi học, mới phát hiện hôm nay là Chủ nhật.",
+              "en": "Mark thought today was Monday. When he got to school and saw nobody had come to class, he realised it was Sunday."
+            },
+            {
+              "zh": "我【以为】新工作比以前的好，没想到还没有以前好呢。",
+              "vi": "Tôi cứ tưởng công việc mới tốt hơn công việc trước, không ngờ còn chẳng bằng.",
+              "en": "I thought the new job would be better than the old one; I never expected it to be even worse."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "还有半小时就到了，____。",
+            "hint": "以为",
+            "a": "还有半小时就到了，【我以为还要一个多小时呢】。",
+            "vi": "Còn nửa tiếng nữa là đến rồi, tôi cứ tưởng còn hơn một tiếng nữa cơ.",
+            "en": "We'll be there in half an hour. I thought it would take over an hour.",
+            "sample": true
+          },
+          {
+            "q": "____，其实很容易。",
+            "hint": "以为",
+            "a": "【我以为这道题很难】，其实很容易。",
+            "vi": "Tôi cứ tưởng câu này khó lắm, thật ra rất dễ.",
+            "en": "I thought this question was hard, but it's actually very easy.",
+            "sample": true
+          },
+          {
+            "q": "____，没想到他们一直留在北京。",
+            "hint": "以为",
+            "a": "【我以为他们毕业后回国了】，没想到他们一直留在北京。",
+            "vi": "Tôi cứ tưởng họ tốt nghiệp xong về nước rồi, không ngờ họ vẫn ở lại Bắc Kinh.",
+            "en": "I thought they'd gone home after graduating. I didn't expect them to have stayed in Beijing all along.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "原来",
+      "uses": [
+        {
+          "vi": "原来 có thể được dùng làm danh từ với nghĩa là ban đầu, trước đây, chỉ tình huống được miêu tả trong vế câu hay câu theo sau nó khác với tình huống trước đây.",
+          "en": "As a noun, 原来 means 'originally, formerly': the situation described afterwards differs from how things used to be.",
+          "ex": [
+            {
+              "zh": "坐火车从北京到上海，【原来】最快差不多需要12个小时，现在有了高铁，5个小时就能到。",
+              "vi": "Đi tàu từ Bắc Kinh đến Thượng Hải, trước đây nhanh nhất cũng mất khoảng 12 tiếng, giờ có tàu cao tốc thì 5 tiếng là tới.",
+              "en": "Going from Beijing to Shanghai by train used to take about 12 hours at best. Now, with high-speed rail, you can get there in 5."
+            }
+          ]
+        },
+        {
+          "vi": "原来 có thể được dùng làm tính từ với nghĩa là đầu tiên, không thay đổi. Nó không thể đứng một mình làm vị ngữ. Khi 原来 bổ nghĩa cho danh từ, sau nó phải có 的.",
+          "en": "As an adjective, 原来 means 'original, unchanged'. It cannot be a predicate on its own, and when it modifies a noun it must be followed by 的.",
+          "ex": [
+            {
+              "zh": "按【原来】的计划应该是两周，但是我们可以提前完成。",
+              "vi": "Theo kế hoạch ban đầu thì phải mất hai tuần, nhưng chúng tôi có thể hoàn thành sớm hơn.",
+              "en": "According to the original plan it should take two weeks, but we can finish ahead of schedule."
+            }
+          ]
+        },
+        {
+          "vi": "原来 cũng có thể được dùng làm phó từ để chỉ một khoảng thời gian nào đó trước đây, hàm ý người/sự vật đó hiện giờ không còn giống như trước.",
+          "en": "As an adverb, 原来 refers to an earlier period, implying that things are no longer the same now.",
+          "ex": [
+            {
+              "zh": "她【原来】是汉语老师，现在已经成了一名律师。",
+              "vi": "Cô ấy vốn là giáo viên tiếng Trung, bây giờ đã trở thành luật sư.",
+              "en": "She used to be a Chinese teacher; now she's become a lawyer."
+            }
+          ]
+        },
+        {
+          "vi": "Khi làm phó từ, 原来 còn chỉ việc phát hiện ra tình huống mà trước đây không biết (hóa ra). 原来 có thể đứng trước hoặc sau chủ ngữ.",
+          "en": "As an adverb, 原来 can also mean 'so it turns out': discovering something you didn't know before. It can go before or after the subject.",
+          "ex": [
+            {
+              "zh": "马克一直等李明回电话，可是电话一晚上都没来，【原来】李明把马克的电话号码记错了。",
+              "vi": "Mark cứ đợi Lý Minh gọi lại, nhưng cả tối chẳng thấy điện thoại đâu, hóa ra Lý Minh ghi nhầm số điện thoại của Mark.",
+              "en": "Mark kept waiting for Li Ming to call back, but no call came all evening. It turned out Li Ming had written down Mark's number wrong."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "原来—本来",
+        "uses": [
+          {
+            "vi": "Giống nhau 1: 原来 và 本来 đều có thể được dùng làm tính từ với nghĩa là đầu tiên, không thay đổi.",
+            "en": "Similarity 1: both 原来 and 本来 can be adjectives meaning 'original, unchanged'.",
+            "ex": [
+              {
+                "zh": "这是它【原来】/【本来】的颜色，不过现在已经穿了好几年，颜色都变了。",
+                "vi": "Đây là màu ban đầu của nó, có điều giờ đã mặc mấy năm rồi nên màu đã thay đổi.",
+                "en": "This was its original colour, but it's been worn for several years now and the colour has changed."
+              }
+            ]
+          },
+          {
+            "vi": "Giống nhau 2: Cả hai từ đều có thể được dùng làm phó từ để diễn tả ý tình huống trước đây không giống với tình huống hiện nay.",
+            "en": "Similarity 2: both can be adverbs meaning the earlier situation differs from the present one.",
+            "ex": [
+              {
+                "zh": "我家【原来】/【本来】住这儿附近，不过这里以前不像现在有这么多楼房。",
+                "vi": "Nhà tôi trước đây ở gần đây, có điều hồi đó chỗ này không có nhiều nhà cao tầng như bây giờ.",
+                "en": "My family used to live near here, but back then there weren't as many buildings as there are now."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau: Khi làm phó từ, 原来 chỉ việc phát hiện ra tình huống mà trước đây không biết (hóa ra); còn 本来 diễn tả ý tình huống/sự việc nào đó lẽ ra phải như vậy.",
+            "en": "Difference: as an adverb, 原来 can mean 'so it turns out' (discovering something new), while 本来 can mean 'should have been so by rights'.",
+            "ex": [
+              {
+                "zh": "我还以为是谁帮我打扫房间呢，【原来】是你啊！",
+                "vi": "Tôi còn đang nghĩ không biết ai dọn phòng giúp mình, hóa ra là bạn!",
+                "en": "I was wondering who had cleaned my room for me. So it was you!"
+              },
+              {
+                "zh": "这本书【本来】应该昨天还给你，真不好意思。",
+                "vi": "Quyển sách này lẽ ra phải trả bạn từ hôm qua, thật ngại quá.",
+                "en": "I should have returned this book to you yesterday. Really sorry."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "事情总是变化着的，我们需要及时对____的计划做出改变。",
+              "key": "原来 ✓ · 本来 ✓",
+              "a": "事情总是变化着的，我们需要及时对【原来】/【本来】的计划做出改变。",
+              "vi": "Sự việc luôn thay đổi, chúng ta cần kịp thời điều chỉnh kế hoạch ban đầu.",
+              "en": "Things are always changing; we need to adjust our original plans in time."
+            },
+            {
+              "q": "____是你啊，我差点儿没认出来。",
+              "key": "原来 ✓ · 本来 ✗ (phát hiện điều trước đây không biết)",
+              "a": "【原来】是你啊，我差点儿没认出来。",
+              "vi": "Thì ra là bạn à, tôi suýt nữa không nhận ra.",
+              "en": "Oh, it's you! I almost didn't recognize you."
+            },
+            {
+              "q": "____我大学是学中文专业的，只是后来当了律师。",
+              "key": "原来 ✓ · 本来 ✓",
+              "a": "【原来】/【本来】我大学是学中文专业的，只是后来当了律师。",
+              "vi": "Lúc đầu tôi học chuyên ngành tiếng Trung ở đại học, chỉ là sau này làm luật sư.",
+              "en": "I originally studied Chinese at university; I only became a lawyer later."
+            },
+            {
+              "q": "我____星期二就能回来，但是公司让我再调查一下，所以我就留下继续工作了。",
+              "key": "原来 ✗ · 本来 ✓ (lẽ ra phải như vậy)",
+              "a": "我【本来】星期二就能回来，但是公司让我再调查一下，所以我就留下继续工作了。",
+              "vi": "Đáng lẽ thứ ba tôi đã về được, nhưng công ty bảo tôi khảo sát thêm nên tôi ở lại tiếp tục làm việc.",
+              "en": "I should have been back on Tuesday, but the company asked me to investigate further, so I stayed on to keep working."
+            },
+            {
+              "q": "我在后面叫她，可她一直没回头。等到了她身边，才发现____我认错人了。",
+              "key": "原来 ✓ · 本来 ✗",
+              "a": "我在后面叫她，可她一直没回头。等到了她身边，才发现【原来】我认错人了。",
+              "vi": "Tôi gọi cô ấy từ phía sau mà cô ấy không quay lại. Đến bên cạnh mới phát hiện thì ra tôi nhận nhầm người.",
+              "en": "I called her from behind but she didn't turn round. When I reached her, I realized I'd got the wrong person."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，我几乎没认出来。",
+            "hint": "原来",
+            "a": "【原来那个瘦瘦的小女孩儿现在长这么高了】，我几乎没认出来。",
+            "vi": "Cô bé gầy gầy ngày trước giờ đã cao thế này, tôi suýt không nhận ra.",
+            "en": "That skinny little girl has grown so tall now, I hardly recognized her.",
+            "sample": true
+          },
+          {
+            "q": "____，不过后来发现新闻专业更适合他。",
+            "hint": "原来",
+            "a": "【他原来学的是法律】，不过后来发现新闻专业更适合他。",
+            "vi": "Lúc đầu anh ấy học luật, nhưng sau phát hiện ngành báo chí hợp với anh ấy hơn.",
+            "en": "He originally studied law, but later found journalism suited him better.",
+            "sample": true
+          },
+          {
+            "q": "今天晚上怎么这么冷？____。",
+            "hint": "原来",
+            "a": "今天晚上怎么这么冷？【原来外面下雪了】。",
+            "vi": "Sao tối nay lạnh thế? Thì ra bên ngoài tuyết rơi.",
+            "en": "Why is it so cold tonight? Oh, it's snowing outside.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "并",
+      "uses": [
+        {
+          "vi": "Phó từ 并 được dùng trước các từ phủ định như 不/没(有) để nhấn mạnh ngữ khí phủ định. Người ta thường dùng từ này trong các câu chỉ sự chuyển ý nhằm phủ định quan điểm nào đó và giải thích tình hình thực tế.",
+          "en": "The adverb 并 goes before negatives such as 不/没(有) to strengthen the negation ('not at all, actually not'). It is common in sentences with a turn, to reject a view and state the real situation.",
+          "ex": [
+            {
+              "zh": "其实，人们将来做什么工作可能和上学学的专业【并】没有太大关系。",
+              "vi": "Thật ra, sau này làm công việc gì có lẽ chẳng liên quan nhiều lắm đến chuyên ngành đã học ở trường.",
+              "en": "Actually, the job people end up doing may not have much to do with what they studied at school."
+            },
+            {
+              "zh": "我原来以为做生意很简单，后来才发现其实【并】不容易。",
+              "vi": "Trước đây tôi cứ nghĩ làm ăn buôn bán rất đơn giản, sau này mới phát hiện ra thật ra chẳng dễ chút nào.",
+              "en": "I used to think doing business was simple; only later did I find it isn't easy at all."
+            },
+            {
+              "zh": "根据调查，人每天晚上最少应该睡7个小时，但是这【并】不适合每一个人。",
+              "vi": "Theo điều tra, mỗi tối con người nên ngủ ít nhất 7 tiếng, nhưng điều này không hẳn phù hợp với tất cả mọi người.",
+              "en": "According to research, people should sleep at least 7 hours a night, but that doesn't suit everyone."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话",
+        "items": [
+          {
+            "q": "A：咱们明天下午两点去看电影，马克没告诉你吗？\nB：____。",
+            "hint": "并",
+            "a": "A：咱们明天下午两点去看电影，马克没告诉你吗？\nB：【他并没有告诉我这件事】。",
+            "vi": "A: Hai giờ chiều mai chúng ta đi xem phim, Mark không nói với bạn à?\nB: Cậu ấy hoàn toàn không nói với tôi chuyện này.",
+            "en": "A: We're going to see a film at two tomorrow afternoon. Didn't Mark tell you?\nB: He didn't tell me anything about it.",
+            "sample": true
+          },
+          {
+            "q": "A：不管是冬天还是夏天，我都习惯在早上锻炼身体。\nB：____。",
+            "hint": "并",
+            "a": "A：不管是冬天还是夏天，我都习惯在早上锻炼身体。\nB：【可是早上锻炼并不适合每一个人】。",
+            "vi": "A: Dù là mùa đông hay mùa hè, tôi đều có thói quen tập thể dục buổi sáng.\nB: Nhưng tập buổi sáng không hề phù hợp với tất cả mọi người.",
+            "en": "A: Winter or summer, I always exercise in the morning.\nB: But exercising in the morning doesn't suit everyone.",
+            "sample": true
+          },
+          {
+            "q": "A：我跟你的学习方法差不多，为什么我的汉语水平没有提高呢？\nB：____。",
+            "hint": "并",
+            "a": "A：我跟你的学习方法差不多，为什么我的汉语水平没有提高呢？\nB：【学习方法差不多并不说明结果就一样，你还要多练习】。",
+            "vi": "A: Cách học của tôi với bạn gần giống nhau, sao trình độ tiếng Trung của tôi không tiến bộ?\nB: Cách học giống nhau không có nghĩa là kết quả sẽ như nhau, bạn còn phải luyện tập nhiều hơn.",
+            "en": "A: My study methods are about the same as yours, so why hasn't my Chinese improved?\nB: Similar methods don't mean the same results. You need to practise more.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "按照",
+      "uses": [
+        {
+          "vi": "Giới từ 按照 có nghĩa là theo, dựa vào, căn cứ vào.",
+          "en": "The preposition 按照 means 'according to, based on'.",
+          "ex": [
+            {
+              "zh": "我们今年的工作都已经【按照】计划完成了。",
+              "vi": "Công việc năm nay của chúng tôi đều đã hoàn thành theo kế hoạch.",
+              "en": "All of our work this year has been completed according to plan."
+            },
+            {
+              "zh": "这回材料都【按照】银行的要求准备好了吧？",
+              "vi": "Lần này tài liệu đều đã chuẩn bị xong theo yêu cầu của ngân hàng rồi chứ?",
+              "en": "This time the documents have all been prepared according to the bank's requirements, right?"
+            },
+            {
+              "zh": "【按照】经验，这个问题应该可以很快解决，请大家放心。",
+              "vi": "Theo kinh nghiệm thì vấn đề này chắc sẽ giải quyết được nhanh thôi, mọi người cứ yên tâm.",
+              "en": "Based on experience, this problem should be solved quickly. Please don't worry."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____别再写错了。",
+            "hint": "按照",
+            "a": "【请按照我说的写】，别再写错了。",
+            "vi": "Hãy viết theo đúng những gì tôi nói, đừng viết sai nữa.",
+            "en": "Write it the way I told you. Don't get it wrong again.",
+            "sample": true
+          },
+          {
+            "q": "____，我们可能完不成今年的工作了。",
+            "hint": "按照",
+            "a": "【如果不按照计划去做】，我们可能完不成今年的工作了。",
+            "vi": "Nếu không làm theo kế hoạch, có thể chúng ta không hoàn thành được công việc năm nay.",
+            "en": "If we don't follow the plan, we may not finish this year's work.",
+            "sample": true
+          },
+          {
+            "q": "经理说得对，____。",
+            "hint": "按照",
+            "a": "经理说得对，【我们就按照他的意见做吧】。",
+            "vi": "Giám đốc nói đúng, chúng ta cứ làm theo ý kiến của ông ấy đi.",
+            "en": "The manager is right. Let's do as he suggests.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "甚至",
+      "uses": [
+        {
+          "vi": "Phó từ 甚至 nhấn mạnh một ví dụ nổi bật, có thể được đặt trước mục cuối cùng của các danh từ, động từ hay vế câu đồng đẳng để làm nổi bật mục này.",
+          "en": "The adverb 甚至 (even) highlights a striking case. It can go before the last item in a series of nouns, verbs or clauses to emphasise it.",
+          "ex": [
+            {
+              "zh": "这个房子离您公司也不远，您可以坐公共汽车【甚至】可以骑自行车上班。",
+              "vi": "Căn nhà này cũng không xa công ty anh, anh có thể đi xe buýt, thậm chí đạp xe đi làm cũng được.",
+              "en": "This flat isn't far from your company either. You can take the bus, or even cycle to work."
+            },
+            {
+              "zh": "很多时候，我们不得不去做一些自己不愿意做【甚至】是非常不喜欢的工作。",
+              "vi": "Nhiều khi chúng ta buộc phải làm những công việc mình không muốn làm, thậm chí là rất không thích.",
+              "en": "Very often we have to do work we don't want to do, or even really dislike."
+            },
+            {
+              "zh": "迟到会让别人觉得你没有责任心，使你错过重要的机会，【甚至】会让别人不再相信你。",
+              "vi": "Đến muộn sẽ khiến người khác thấy bạn thiếu tinh thần trách nhiệm, làm bạn bỏ lỡ cơ hội quan trọng, thậm chí khiến người ta không còn tin bạn nữa.",
+              "en": "Being late makes people think you're irresponsible, makes you miss important opportunities, and can even make people stop trusting you."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "她们俩长得太像了，____。",
+            "hint": "甚至",
+            "a": "她们俩长得太像了，【甚至她们的父母有时候也会认错】。",
+            "vi": "Hai cô ấy giống nhau quá, thậm chí bố mẹ họ có lúc cũng nhận nhầm.",
+            "en": "The two of them look so alike that even their parents sometimes mix them up.",
+            "sample": true
+          },
+          {
+            "q": "你怎么可能不认识他呢？____。",
+            "hint": "甚至",
+            "a": "你怎么可能不认识他呢？【他很有名，甚至小孩子都知道他】。",
+            "vi": "Sao bạn lại không biết anh ấy được? Anh ấy rất nổi tiếng, thậm chí trẻ con cũng biết.",
+            "en": "How can you not know him? He's really famous; even children know who he is.",
+            "sample": true
+          },
+          {
+            "q": "A：马克怎么这么早就睡觉了？\nB：____。",
+            "hint": "甚至",
+            "a": "A：马克怎么这么早就睡觉了？\nB：【他今天太累了，甚至连晚饭都没吃】。",
+            "vi": "A: Sao Mark đi ngủ sớm thế?\nB: Hôm nay cậu ấy mệt quá, thậm chí cơm tối cũng không ăn.",
+            "en": "A: Why has Mark gone to bed so early?\nB: He's exhausted today. He didn't even have dinner.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "小李的语气：\n今年我已经换了三次工作了，……",
+          "label": "课文1",
+          "a": "今年我已经换了三次工作了。我以为新工作比以前的好，没想到还没有以前好。小林说完全适应一个新的工作需要一年时间，经常换工作不一定好。我觉得那份工作的收入太少了，可是小林说刚到新公司，不要太着急赚钱，多学习才是最重要的。我一定会努力把现在这份工作做好。",
+          "vi": "Năm nay tôi đã đổi việc ba lần. Tôi cứ tưởng công việc mới tốt hơn trước, không ngờ còn không bằng. Tiểu Lâm nói hoàn toàn thích nghi với công việc mới cần một năm, thường xuyên đổi việc chưa chắc đã tốt. Tôi thấy thu nhập công việc cũ quá ít, nhưng Tiểu Lâm nói mới đến công ty mới đừng quá vội kiếm tiền, học hỏi nhiều mới là quan trọng nhất. Tôi nhất định sẽ cố gắng làm tốt công việc hiện tại.",
+          "en": "I've changed jobs three times this year. I thought the new job would be better, but it's worse than before. Xiao Lin said it takes a year to fully adapt to a new job, so changing often isn't necessarily good. I felt the old job paid too little, but Xiao Lin said that at a new company I shouldn't rush to make money; learning is what matters most. I'll work hard to do this job well.",
+          "sample": true
+        },
+        {
+          "q": "王经理的语气：\n那份调查这么快就能做完，……",
+          "label": "课文2",
+          "a": "那份调查这么快就能做完，按原来的计划应该是两周，但是小李说可以提前完成，周末保证做完。最近他们工作很忙，我提醒他要注意身体。小李说有很多事情等着他做，不知道该先做哪个，我告诉他，我每天早上都把当天要做的事情写在笔记本上，提醒自己安排好时间，他也可以试试。",
+          "vi": "Cuộc khảo sát đó làm xong nhanh vậy, theo kế hoạch ban đầu là hai tuần, nhưng Tiểu Lý nói có thể hoàn thành sớm, cuối tuần đảm bảo xong. Dạo này họ rất bận, tôi nhắc cậu ấy chú ý sức khỏe. Tiểu Lý nói có nhiều việc chờ làm, không biết nên làm việc nào trước, tôi bảo cậu ấy sáng nào tôi cũng ghi việc cần làm trong ngày vào sổ để nhắc mình sắp xếp thời gian, cậu ấy cũng có thể thử.",
+          "en": "That survey can be finished so quickly: the original plan was two weeks, but Xiao Li says they can finish early, by the weekend for sure. They've been very busy, so I reminded him to look after his health. He said he had so many things to do he didn't know where to start, so I told him that every morning I write that day's tasks in my notebook to help me organize my time, and he could try it too.",
+          "sample": true
+        },
+        {
+          "q": "马经理的语气：\n我们和那个公司的生意终于谈成了，……",
+          "label": "课文3",
+          "a": "我们和那个公司的生意终于谈成了，我非常高兴。我原来以为做生意很简单，后来才发现其实并不容易，现在赚钱越来越难了。王经理告诉我万事开头难，重要的是要多积累经验。我相信经过我们大家的努力，公司的生意会越做越大，一切都会好的。",
+          "vi": "Thương vụ với công ty đó cuối cùng cũng đàm phán xong, tôi rất vui. Lúc đầu tôi nghĩ làm ăn đơn giản, sau mới thấy không hề dễ, bây giờ kiếm tiền ngày càng khó. Giám đốc Vương nói với tôi vạn sự khởi đầu nan, quan trọng là tích lũy kinh nghiệm. Tôi tin qua sự nỗ lực của mọi người, việc kinh doanh của công ty sẽ ngày càng lớn, mọi thứ rồi sẽ tốt đẹp.",
+          "en": "Our deal with that company has finally gone through, and I'm very happy. I used to think business was simple, but found it's not easy at all; making money keeps getting harder. Manager Wang told me every beginning is hard and the important thing is to build up experience. I believe that with everyone's efforts, the company will keep growing and everything will be fine.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "完全",
+        "责任",
+        "顺利",
+        "按时",
+        "不得不"
+      ],
+      "items": [
+        {
+          "q": "飞机10点____起飞，请大家不要着急。",
+          "key": "按时",
+          "a": "飞机10点【按时】起飞，请大家不要着急。",
+          "vi": "Máy bay cất cánh đúng giờ lúc 10 giờ, mọi người đừng lo.",
+          "en": "The plane will take off on time at 10. Please don't worry."
+        },
+        {
+          "q": "她们虽然是姐妹，但是性格____不一样。",
+          "key": "完全",
+          "a": "她们虽然是姐妹，但是性格【完全】不一样。",
+          "vi": "Tuy họ là chị em nhưng tính cách hoàn toàn khác nhau.",
+          "en": "Although they're sisters, their personalities are completely different."
+        },
+        {
+          "q": "我本来以为这件事会很____，没想到遇到这么多困难。",
+          "key": "顺利",
+          "a": "我本来以为这件事会很【顺利】，没想到遇到这么多困难。",
+          "vi": "Lúc đầu tôi tưởng việc này sẽ rất thuận lợi, không ngờ gặp nhiều khó khăn thế.",
+          "en": "I thought this would go smoothly, but I didn't expect to run into so many difficulties."
+        },
+        {
+          "q": "没想到那天突然下起了大雨，所以他____又在这里住了一晚上。",
+          "key": "不得不",
+          "a": "没想到那天突然下起了大雨，所以他【不得不】又在这里住了一晚上。",
+          "vi": "Không ngờ hôm đó đột nhiên mưa to, nên anh ấy đành phải ở lại đây thêm một đêm.",
+          "en": "Unexpectedly it suddenly poured with rain that day, so he had to stay here another night."
+        },
+        {
+          "q": "两个人在一起生活，都要对家有____感。",
+          "key": "责任",
+          "a": "两个人在一起生活，都要对家有【责任】感。",
+          "vi": "Hai người sống chung với nhau đều phải có tinh thần trách nhiệm với gia đình.",
+          "en": "When two people live together, both must feel responsible for the home."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "提前",
+        "一切",
+        "积累",
+        "提醒",
+        "保证"
+      ],
+      "items": [
+        {
+          "q": "A：希望我们的工作能让您满意。\nB：我非常满意，____都安排得很好。",
+          "key": "一切",
+          "a": "A：希望我们的工作能让您满意。\nB：我非常满意，【一切】都安排得很好。",
+          "vi": "A: Hy vọng công việc của chúng tôi khiến ông hài lòng.\nB: Tôi rất hài lòng, mọi thứ đều được sắp xếp rất tốt.",
+          "en": "A: We hope you're happy with our work.\nB: Very happy. Everything was very well arranged."
+        },
+        {
+          "q": "A：这份调查明天上午交，你写好了吗？\nB：还差一点儿，您放心，我____明天9点前给您。",
+          "key": "保证",
+          "a": "A：这份调查明天上午交，你写好了吗？\nB：还差一点儿，您放心，我【保证】明天9点前给您。",
+          "vi": "A: Bản khảo sát này sáng mai nộp, cậu viết xong chưa?\nB: Còn thiếu một chút, anh yên tâm, tôi đảm bảo trước 9 giờ mai gửi anh.",
+          "en": "A: This survey is due tomorrow morning. Have you finished writing it?\nB: Almost. Don't worry, I promise you'll have it before 9 tomorrow."
+        },
+        {
+          "q": "A：今天下午的会议____一个小时，改在两点开。\nB：我已经看到通知了，谢谢你。",
+          "key": "提前",
+          "a": "A：今天下午的会议【提前】一个小时，改在两点开。\nB：我已经看到通知了，谢谢你。",
+          "vi": "A: Cuộc họp chiều nay dời sớm một tiếng, đổi thành hai giờ.\nB: Tôi đã thấy thông báo rồi, cảm ơn bạn.",
+          "en": "A: This afternoon's meeting has been brought forward an hour, to two o'clock.\nB: I've seen the notice, thanks."
+        },
+        {
+          "q": "A：听说你大学二年级的时候就开始在这个公司工作了。\nB：是的，这让我____了很多工作经验。",
+          "key": "积累",
+          "a": "A：听说你大学二年级的时候就开始在这个公司工作了。\nB：是的，这让我【积累】了很多工作经验。",
+          "vi": "A: Nghe nói từ năm hai đại học bạn đã bắt đầu làm ở công ty này.\nB: Đúng vậy, điều đó giúp tôi tích lũy được nhiều kinh nghiệm làm việc.",
+          "en": "A: I hear you started working at this company in your second year at university.\nB: Yes, it's given me a lot of work experience."
+        },
+        {
+          "q": "A：今天是王红的生日，记得给她打个电话。\nB：谢谢你的____，我差点儿忘了。",
+          "key": "提醒",
+          "a": "A：今天是王红的生日，记得给她打个电话。\nB：谢谢你的【提醒】，我差点儿忘了。",
+          "vi": "A: Hôm nay là sinh nhật Vương Hồng, nhớ gọi điện cho cô ấy nhé.\nB: Cảm ơn bạn đã nhắc, tôi suýt quên mất.",
+          "en": "A: It's Wang Hong's birthday today. Remember to call her.\nB: Thanks for reminding me. I almost forgot."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 法",
+    "en": "Words sharing a character: 法",
+    "words": [
+      {
+        "zh": "办法",
+        "py": "bànfǎ",
+        "vi": "cách, biện pháp",
+        "en": "way, solution"
+      },
+      {
+        "zh": "法律",
+        "py": "fǎlǜ",
+        "vi": "pháp luật",
+        "en": "law"
+      },
+      {
+        "zh": "方法",
+        "py": "fāngfǎ",
+        "vi": "phương pháp",
+        "en": "method"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "要想完全解决这个难题，还需要找更好的【办法】。",
+        "vi": "Muốn giải quyết triệt để vấn đề hóc búa này, còn cần tìm cách tốt hơn.",
+        "en": "To solve this tricky problem completely, we still need to find a better way."
+      },
+      {
+        "zh": "我希望能够用【法律】来帮助别人，所以上大学的时候，我选择了【法律】专业。",
+        "vi": "Tôi mong có thể dùng pháp luật để giúp đỡ người khác, nên khi học đại học tôi đã chọn chuyên ngành luật.",
+        "en": "I hoped to be able to help people through the law, so I chose to study law at university."
+      },
+      {
+        "zh": "在工作中，应该根据不同的人、不同的事选择不同的【方法】。",
+        "vi": "Trong công việc, nên tùy người, tùy việc mà chọn phương pháp khác nhau.",
+        "en": "At work, you should choose different methods for different people and different things."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "办法",
+        "法律",
+        "方法"
+      ],
+      "items": [
+        {
+          "q": "如果你在____上有什么问题，我可以给你介绍一位律师。",
+          "key": "法律",
+          "a": "如果你在【法律】上有什么问题，我可以给你介绍一位律师。",
+          "vi": "Nếu bạn có vấn đề gì về mặt pháp luật, tôi có thể giới thiệu cho bạn một luật sư.",
+          "en": "If you have any legal problems, I can introduce you to a lawyer."
+        },
+        {
+          "q": "关于这件事情，你有没有去问问叔叔？可能他有好____。",
+          "key": "办法",
+          "a": "关于这件事情，你有没有去问问叔叔？可能他有好【办法】。",
+          "vi": "Về chuyện này, bạn đã hỏi chú chưa? Có thể chú có cách hay.",
+          "en": "Have you asked your uncle about this? He might have a good idea."
+        },
+        {
+          "q": "要了解每个人的脾气、性格、能力等，这样才能在他们出错时选择合适的____帮助他们解决问题。",
+          "key": "方法",
+          "a": "要了解每个人的脾气、性格、能力等，这样才能在他们出错时选择合适的【方法】帮助他们解决问题。",
+          "vi": "Phải hiểu tính khí, tính cách, năng lực… của mỗi người, như vậy mới có thể chọn phương pháp phù hợp để giúp họ giải quyết vấn đề khi họ mắc lỗi.",
+          "en": "You need to understand each person's temper, personality and abilities, so that when they make mistakes you can choose the right method to help them solve the problem."
+        }
+      ]
+    }
+  }
+}

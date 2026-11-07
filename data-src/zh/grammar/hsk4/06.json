@@ -1,0 +1,1035 @@
+{
+  "n": 6,
+  "zh": "一分钱一分货",
+  "vi": "Tiền nào của nấy",
+  "en": "You get what you pay for",
+  "texts": [
+    {
+      "title": "张远和李进聊李进昨晚的购物经历",
+      "paras": [
+        {
+          "zh": "张远：昨天晚上我给你打电话一直没人接，你忙什么呢？",
+          "vi": "Trương Viễn: Tối qua tôi gọi điện cho cậu mãi không ai nghe, cậu bận gì thế?",
+          "en": "Zhang Yuan: I kept calling you last night but nobody answered. What were you up to?"
+        },
+        {
+          "zh": "李进：昨天妻子让我陪她去超市买果汁。我把手机忘在家里了。",
+          "vi": "Lý Tiến: Hôm qua vợ bảo tôi đi siêu thị mua nước hoa quả với cô ấy. Tôi để quên điện thoại ở nhà.",
+          "en": "Li Jin: My wife asked me to go to the supermarket with her yesterday to buy juice. I left my phone at home."
+        },
+        {
+          "zh": "张远：买这么点儿东西也用不了那么长时间啊！",
+          "vi": "Trương Viễn: Mua có chút đồ thế thì đâu mất nhiều thời gian vậy!",
+          "en": "Zhang Yuan: Buying so little shouldn't take that long!"
+        },
+        {
+          "zh": "李进：我们先去逛了会儿商场。一进门，售货员就热情地{de}为我们介绍这、介绍那，她买了一条裤子、一件衬衫、两双袜子，然后我们就高高兴兴地{de}回家了。",
+          "vi": "Lý Tiến: Chúng tôi đi dạo trung tâm thương mại một lúc trước. Vừa vào cửa, nhân viên bán hàng đã nhiệt tình giới thiệu cái này cái kia, cô ấy mua một chiếc quần, một chiếc áo sơ mi, hai đôi tất, rồi chúng tôi vui vẻ về nhà.",
+          "en": "Li Jin: First we wandered round the mall for a while. As soon as we went in, the shop assistant enthusiastically showed us this and that. My wife bought a pair of trousers, a shirt and two pairs of socks, and then we went home happily."
+        },
+        {
+          "zh": "张远：买东西时我只看自己想买的，而且喜欢自己看、自己选，不希望被别人打扰。",
+          "vi": "Trương Viễn: Lúc mua đồ tôi chỉ xem những thứ mình muốn mua, hơn nữa thích tự xem, tự chọn, không muốn bị người khác làm phiền.",
+          "en": "Zhang Yuan: When I shop, I only look at what I want to buy, and I like to look and choose by myself without being disturbed."
+        },
+        {
+          "zh": "李进：是啊！回家以后，我才发现，竟然忘了去商场的超市买果汁！",
+          "vi": "Lý Tiến: Đúng vậy! Về đến nhà tôi mới phát hiện, vậy mà quên mất việc đi siêu thị trong trung tâm mua nước hoa quả!",
+          "en": "Li Jin: Exactly! When we got home, I realized we'd actually forgotten to buy juice at the mall supermarket!"
+        }
+      ],
+      "words": [
+        {
+          "zh": "果汁",
+          "py": "guǒzhī",
+          "pos": "dt.",
+          "vi": "nước trái cây",
+          "en": "fruit juice"
+        },
+        {
+          "zh": "售货员",
+          "py": "shòuhuòyuán",
+          "pos": "dt.",
+          "vi": "nhân viên bán hàng",
+          "en": "shop assistant"
+        },
+        {
+          "zh": "袜子",
+          "py": "wàzi",
+          "pos": "dt.",
+          "vi": "tất, vớ",
+          "en": "socks"
+        },
+        {
+          "zh": "打扰",
+          "py": "dǎrǎo",
+          "pos": "đgt.",
+          "vi": "quấy rầy, làm phiền",
+          "en": "to disturb"
+        },
+        {
+          "zh": "竟然",
+          "py": "jìngrán",
+          "pos": "phó.",
+          "vi": "(diễn tả sự bất ngờ) không ngờ, mà, vậy mà",
+          "en": "unexpectedly, actually"
+        }
+      ]
+    },
+    {
+      "title": "王静在商店买西红柿",
+      "paras": [
+        {
+          "zh": "王静：西红柿新鲜吗？怎么卖？",
+          "vi": "Vương Tịnh: Cà chua có tươi không? Bán thế nào?",
+          "en": "Wang Jing: Are the tomatoes fresh? How much are they?"
+        },
+        {
+          "zh": "售货员：七块钱一斤，您放心，保证百分之百新鲜。",
+          "vi": "Nhân viên bán hàng: Bảy tệ một cân, chị yên tâm, đảm bảo tươi một trăm phần trăm.",
+          "en": "Shop assistant: Seven yuan a jin. Don't worry, they're guaranteed one hundred per cent fresh."
+        },
+        {
+          "zh": "王静：怎么这么贵啊！我记得昨天才三块五一斤，今天的价格是昨天的两倍。",
+          "vi": "Vương Tịnh: Sao đắt thế! Tôi nhớ hôm qua mới ba tệ rưỡi một cân, giá hôm nay gấp đôi hôm qua.",
+          "en": "Wang Jing: Why so expensive! I remember they were only 3.50 a jin yesterday. Today's price is double."
+        },
+        {
+          "zh": "售货员：您问的这种是“绿色”的。一分钱一分货。每天吃一两个这种新鲜的西红柿，对皮肤有好处。",
+          "vi": "Nhân viên bán hàng: Loại chị hỏi là loại “xanh” (sạch). Tiền nào của nấy. Mỗi ngày ăn một hai quả cà chua tươi loại này rất tốt cho da.",
+          "en": "Shop assistant: The ones you're asking about are “green” (organic). You get what you pay for. Eating one or two of these fresh tomatoes a day is good for your skin."
+        },
+        {
+          "zh": "王静：好，那我先买几个尝尝。",
+          "vi": "Vương Tịnh: Được, vậy tôi mua mấy quả ăn thử trước.",
+          "en": "Wang Jing: OK, I'll buy a few to try first."
+        },
+        {
+          "zh": "售货员：好的，给您西红柿，一共两斤，十四块。",
+          "vi": "Nhân viên bán hàng: Vâng, cà chua của chị đây, tổng cộng hai cân, mười bốn tệ.",
+          "en": "Shop assistant: Here are your tomatoes: two jin altogether, fourteen yuan."
+        }
+      ],
+      "words": [
+        {
+          "zh": "西红柿",
+          "py": "xīhóngshì",
+          "pos": "dt.",
+          "vi": "cà chua",
+          "en": "tomato"
+        },
+        {
+          "zh": "百分之",
+          "py": "bǎi fēn zhī",
+          "vi": "phần trăm",
+          "en": "per cent"
+        },
+        {
+          "zh": "倍",
+          "py": "bèi",
+          "pos": "lượng.",
+          "vi": "lần",
+          "en": "times (multiple)"
+        },
+        {
+          "zh": "皮肤",
+          "py": "pífū",
+          "pos": "dt.",
+          "vi": "da",
+          "en": "skin"
+        },
+        {
+          "zh": "好处",
+          "py": "hǎochù",
+          "pos": "dt.",
+          "vi": "lợi ích, điều tốt",
+          "en": "benefit"
+        },
+        {
+          "zh": "尝",
+          "py": "cháng",
+          "pos": "đgt.",
+          "vi": "thưởng thức, nếm",
+          "en": "to taste, to try"
+        }
+      ]
+    },
+    {
+      "title": "李进在商场买行李箱",
+      "paras": [
+        {
+          "zh": "售货员：先生，我们店的行李箱都在这里，请问您要什么样的？",
+          "vi": "Nhân viên bán hàng: Thưa anh, vali của cửa hàng chúng tôi đều ở đây, xin hỏi anh muốn loại nào ạ?",
+          "en": "Shop assistant: Sir, all our suitcases are here. What kind are you looking for?"
+        },
+        {
+          "zh": "李进：我想买一个轻一点儿的。",
+          "vi": "Lý Tiến: Tôi muốn mua một cái nhẹ một chút.",
+          "en": "Li Jin: I'd like a lighter one."
+        },
+        {
+          "zh": "售货员：您看看这个，不管从价格方面看，还是从质量上看，都是值得考虑的。",
+          "vi": "Nhân viên bán hàng: Anh xem cái này, dù xét về giá cả hay về chất lượng thì đều đáng để cân nhắc.",
+          "en": "Shop assistant: Have a look at this one. Whether you look at the price or the quality, it's worth considering."
+        },
+        {
+          "zh": "李进：质量是不错。请问这个多少钱？",
+          "vi": "Lý Tiến: Chất lượng đúng là tốt. Xin hỏi cái này bao nhiêu tiền?",
+          "en": "Li Jin: The quality is good. How much is it?"
+        },
+        {
+          "zh": "售货员：现在我们商场正好有打折活动，打完折是999。另外，一年内我们都负责免费修理。",
+          "vi": "Nhân viên bán hàng: Bây giờ trung tâm chúng tôi vừa hay có chương trình giảm giá, giảm xong là 999 tệ. Ngoài ra, trong vòng một năm chúng tôi chịu trách nhiệm sửa chữa miễn phí.",
+          "en": "Shop assistant: We happen to have a sale on at the moment. After the discount it's 999. Also, we offer free repairs for a year."
+        },
+        {
+          "zh": "李进：你们的服务不错，价格也可以，就买这个吧。",
+          "vi": "Lý Tiến: Dịch vụ của các chị tốt, giá cả cũng được, mua cái này vậy.",
+          "en": "Li Jin: Your service is good and the price is OK. I'll take it."
+        }
+      ],
+      "words": [
+        {
+          "zh": "轻",
+          "py": "qīng",
+          "pos": "tt.",
+          "vi": "nhẹ",
+          "en": "light"
+        },
+        {
+          "zh": "方面",
+          "py": "fāngmiàn",
+          "pos": "dt.",
+          "vi": "khía cạnh, phương diện",
+          "en": "aspect, respect"
+        },
+        {
+          "zh": "值得",
+          "py": "zhídé",
+          "pos": "đgt.",
+          "vi": "đáng",
+          "en": "to be worth"
+        },
+        {
+          "zh": "活动",
+          "py": "huódòng",
+          "pos": "dt.",
+          "vi": "hoạt động",
+          "en": "activity, event"
+        },
+        {
+          "zh": "内",
+          "py": "nèi",
+          "pos": "dt.",
+          "vi": "(bên) trong",
+          "en": "within, inside"
+        },
+        {
+          "zh": "免费",
+          "py": "miǎn fèi",
+          "pos": "đgt.",
+          "vi": "miễn phí",
+          "en": "to be free of charge"
+        },
+        {
+          "zh": "修理",
+          "py": "xiūlǐ",
+          "pos": "đgt.",
+          "vi": "sửa chữa",
+          "en": "to repair"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "顾客朋友们，为了感谢大家的支持，我们书店今天举行“购书送好礼”活动，购书满100元送一个笔记本，满200元送一本词典。另外，一些图书还有打折活动，其中，小说7.5折，地图8折，留学考试用书6折。如果购书满500元可免费办会员卡，以后购书可打8折。今天过生日的朋友和所有的小朋友还可以获得一份小礼物。欢迎大家选购！",
+          "vi": "Kính thưa quý khách, để cảm ơn sự ủng hộ của mọi người, hôm nay hiệu sách chúng tôi tổ chức chương trình “Mua sách tặng quà”: mua sách đủ 100 tệ tặng một cuốn sổ, đủ 200 tệ tặng một cuốn từ điển. Ngoài ra, một số sách còn được giảm giá, trong đó tiểu thuyết giảm 25%, bản đồ giảm 20%, sách luyện thi du học giảm 40%. Nếu mua sách đủ 500 tệ có thể làm thẻ hội viên miễn phí, sau này mua sách được giảm 20%. Những bạn có sinh nhật hôm nay và tất cả các bạn nhỏ còn được nhận một món quà nhỏ. Hoan nghênh mọi người đến chọn mua!",
+          "en": "Dear customers, to thank you all for your support, our bookshop is holding a “Buy books, get gifts” event today: spend 100 yuan and get a free notebook; spend 200 and get a free dictionary. Some books are also discounted: novels 25% off, maps 20% off, and study-abroad exam books 40% off. Spend 500 yuan and you can get a free membership card, giving you 20% off future purchases. Anyone with a birthday today and all children will also receive a small gift. Come and choose!"
+        }
+      ],
+      "words": [
+        {
+          "zh": "支持",
+          "py": "zhīchí",
+          "pos": "đgt.",
+          "vi": "ủng hộ",
+          "en": "to support"
+        },
+        {
+          "zh": "举行",
+          "py": "jǔxíng",
+          "pos": "đgt.",
+          "vi": "tổ chức (hội họp, thi đấu...)",
+          "en": "to hold (a meeting, event)"
+        },
+        {
+          "zh": "满",
+          "py": "mǎn",
+          "pos": "đgt.",
+          "vi": "(đạt đến một chỉ tiêu hay giới hạn) đủ, đầy, tròn",
+          "en": "to reach (a set amount)"
+        },
+        {
+          "zh": "其中",
+          "py": "qízhōng",
+          "pos": "dt.",
+          "vi": "trong đó",
+          "en": "among them"
+        },
+        {
+          "zh": "小说",
+          "py": "xiǎoshuō",
+          "pos": "dt.",
+          "vi": "tiểu thuyết",
+          "en": "novel"
+        },
+        {
+          "zh": "会员卡",
+          "py": "huìyuánkǎ",
+          "pos": "dt.",
+          "vi": "thẻ hội viên",
+          "en": "membership card",
+          "x": true
+        },
+        {
+          "zh": "所有",
+          "py": "suǒyǒu",
+          "pos": "tt.",
+          "vi": "tất cả, toàn bộ",
+          "en": "all"
+        },
+        {
+          "zh": "获得",
+          "py": "huòdé",
+          "pos": "đgt.",
+          "vi": "được, lấy được",
+          "en": "to obtain, to receive"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "人们常说“一分钱一分货”，意思是东西的质量和价格有很大的关系，也可以说“便宜没好货，好货不便宜”。一般情况下，你花的钱越多，买的东西也就越好。其实也不一定都是这样的。有的时候，质量很好的东西也会很便宜。例如，春天来了，冬天的衣服就会打折，质量很好，还很便宜，花很少的钱就可以买到。一到节日，商场也会举办各种各样的活动，降低价格，这个时候我们也可以买到又便宜又好的东西。",
+          "vi": "Người ta thường nói “tiền nào của nấy”, ý là chất lượng và giá cả của hàng hóa có quan hệ rất lớn, cũng có thể nói “của rẻ là của ôi, hàng tốt thì không rẻ”. Thông thường, bạn tiêu càng nhiều tiền thì đồ mua được càng tốt. Thật ra cũng không hẳn lúc nào cũng vậy. Có lúc đồ chất lượng rất tốt cũng sẽ rất rẻ. Ví dụ, mùa xuân đến thì quần áo mùa đông sẽ giảm giá, chất lượng rất tốt mà lại rẻ, tiêu rất ít tiền là mua được. Cứ đến ngày lễ, các trung tâm thương mại cũng tổ chức đủ loại hoạt động, hạ giá, lúc này chúng ta cũng có thể mua được đồ vừa rẻ vừa tốt.",
+          "en": "People often say “you get what you pay for”, meaning quality and price are closely related; you could also say “cheap goods aren't good, and good goods aren't cheap.” Generally, the more you spend, the better the things you buy. But it's not always so. Sometimes good-quality things can be very cheap. For example, when spring comes, winter clothes go on sale: they're good quality, very cheap, and you can buy them for very little. And during festivals, malls hold all kinds of events and lower their prices, so we can buy things that are both cheap and good."
+        }
+      ],
+      "words": [
+        {
+          "zh": "情况",
+          "py": "qíngkuàng",
+          "pos": "dt.",
+          "vi": "tình hình, tình huống",
+          "en": "situation"
+        },
+        {
+          "zh": "例如",
+          "py": "lìrú",
+          "pos": "đgt.",
+          "vi": "lấy ví dụ",
+          "en": "for example"
+        },
+        {
+          "zh": "举办",
+          "py": "jǔbàn",
+          "pos": "đgt.",
+          "vi": "tổ chức, tiến hành",
+          "en": "to hold, to organize"
+        },
+        {
+          "zh": "各",
+          "py": "gè",
+          "pos": "đt.",
+          "vi": "các, mọi",
+          "en": "each, every"
+        },
+        {
+          "zh": "降低",
+          "py": "jiàngdī",
+          "pos": "đgt.",
+          "vi": "giảm, hạ",
+          "en": "to lower, to reduce"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "昨天晚上李进为什么没接张远的电话？",
+        "label": "课文1",
+        "a": "因为李进【陪妻子去超市买果汁，把手机忘在家里了】。",
+        "vi": "Vì Lý Tiến đi siêu thị mua nước hoa quả với vợ, để quên điện thoại ở nhà.",
+        "en": "Because Li Jin went with his wife to the supermarket to buy juice and left his phone at home."
+      },
+      {
+        "q": "李进夫妻俩都买什么了？",
+        "label": "课文1",
+        "a": "他们买了【一条裤子、一件衬衫、两双袜子】，竟然忘了买果汁。",
+        "vi": "Họ mua một chiếc quần, một chiếc áo sơ mi, hai đôi tất, vậy mà quên mua nước hoa quả.",
+        "en": "They bought a pair of trousers, a shirt and two pairs of socks, but forgot the juice."
+      },
+      {
+        "q": "昨天西红柿多少钱一斤？今天呢？",
+        "label": "课文2",
+        "a": "昨天【三块五一斤】，今天【七块钱一斤】，是昨天的两倍。",
+        "vi": "Hôm qua ba tệ rưỡi một cân, hôm nay bảy tệ một cân, gấp đôi hôm qua.",
+        "en": "Yesterday it was 3.50 a jin; today it's 7 yuan, double yesterday's price."
+      },
+      {
+        "q": "王静买的西红柿怎么样？",
+        "label": "课文2",
+        "a": "她买的西红柿是【“绿色”的，很新鲜，对皮肤有好处】，但是比较贵。",
+        "vi": "Cà chua cô ấy mua là loại “xanh”, rất tươi, tốt cho da, nhưng khá đắt.",
+        "en": "The tomatoes she bought are “green” (organic), very fresh and good for the skin, but rather expensive."
+      },
+      {
+        "q": "李进想买什么样的行李箱？花了多少钱买的？",
+        "label": "课文3",
+        "a": "他想买【一个轻一点儿的】，打完折花了【999块】。",
+        "vi": "Anh ấy muốn mua một cái nhẹ một chút, sau khi giảm giá là 999 tệ.",
+        "en": "He wanted a lighter one, and paid 999 yuan after the discount."
+      },
+      {
+        "q": "这个店的售后服务怎么样？",
+        "label": "课文3",
+        "a": "服务不错，【一年内都负责免费修理】。",
+        "vi": "Dịch vụ tốt, trong vòng một năm chịu trách nhiệm sửa chữa miễn phí.",
+        "en": "The service is good: free repairs for a year."
+      },
+      {
+        "q": "书店今天有什么活动？请介绍一下。",
+        "label": "课文4",
+        "a": "书店今天举行【“购书送好礼”活动】：购书满100元送一个笔记本，满200元送一本词典；一些图书还打折；过生日的朋友和小朋友还可以获得一份小礼物。",
+        "vi": "Hôm nay hiệu sách tổ chức chương trình “Mua sách tặng quà”: mua đủ 100 tệ tặng sổ, đủ 200 tệ tặng từ điển; một số sách giảm giá; người có sinh nhật và các bạn nhỏ còn được tặng quà nhỏ.",
+        "en": "Today the bookshop is holding a “Buy books, get gifts” event: spend 100 yuan for a free notebook, 200 for a dictionary; some books are discounted; and birthday customers and children get a small gift."
+      },
+      {
+        "q": "怎么才能免费办会员卡？",
+        "label": "课文4",
+        "a": "【购书满500元】就可以免费办会员卡。",
+        "vi": "Mua sách đủ 500 tệ là có thể làm thẻ hội viên miễn phí.",
+        "en": "Spend 500 yuan on books and you get a free membership card."
+      },
+      {
+        "q": "“一分钱一分货”是什么意思？",
+        "label": "课文5",
+        "a": "意思是【东西的质量和价格有很大的关系】，花的钱越多，买的东西也就越好。",
+        "vi": "Nghĩa là chất lượng và giá cả có quan hệ rất lớn, tiêu càng nhiều tiền thì đồ càng tốt.",
+        "en": "It means quality and price are closely related: the more you spend, the better what you get."
+      },
+      {
+        "q": "一般什么时候商场会降价？",
+        "label": "课文5",
+        "a": "【换季的时候】（例如春天来了，冬天的衣服会打折）和【节日的时候】。",
+        "vi": "Lúc giao mùa (ví dụ mùa xuân đến thì quần áo mùa đông giảm giá) và vào dịp lễ.",
+        "en": "At the change of season (e.g. winter clothes go on sale in spring) and during festivals."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "竟然",
+      "uses": [
+        {
+          "vi": "Phó từ 竟然 được dùng trước động từ hoặc tính từ để chỉ sự việc không ngờ, nằm ngoài dự đoán (vậy mà, thế mà).",
+          "en": "The adverb 竟然 goes before a verb or adjective to show that something is unexpected: 'surprisingly, actually'.",
+          "ex": [
+            {
+              "zh": "这个歌特别好听，最近很流行，你【竟然】没听过？",
+              "vi": "Bài hát này hay cực, dạo này rất nổi, vậy mà bạn chưa nghe à?",
+              "en": "This song is really good and very popular lately. You've actually never heard it?"
+            },
+            {
+              "zh": "来这家饭馆吃饭的人【竟然】这么多，排队都排到门口外边去了！",
+              "vi": "Không ngờ người đến quán này ăn đông như vậy, xếp hàng dài ra tận ngoài cửa!",
+              "en": "I can't believe how many people come to eat at this restaurant. The queue goes right out the door!"
+            },
+            {
+              "zh": "回家以后，我才发现，【竟然】忘了去商场的超市买果汁！",
+              "vi": "Về đến nhà tôi mới phát hiện, vậy mà lại quên đi siêu thị trong trung tâm thương mại mua nước hoa quả!",
+              "en": "Only after I got home did I realise I'd somehow forgotten to buy juice at the mall supermarket!"
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "在我听来，上海话和北京话几乎完全不同，____。",
+            "hint": "竟然",
+            "a": "在我听来，上海话和北京话几乎完全不同，【没想到他竟然都听得懂】。",
+            "vi": "Theo tôi nghe thì tiếng Thượng Hải và tiếng Bắc Kinh gần như hoàn toàn khác nhau, không ngờ anh ấy lại nghe hiểu cả hai.",
+            "en": "To my ears, Shanghainese and Beijing dialect are almost completely different. I didn't expect him to understand both.",
+            "sample": true
+          },
+          {
+            "q": "真是没想到，____，我几乎没认出你来。",
+            "hint": "竟然",
+            "a": "真是没想到，【你竟然变化这么大】，我几乎没认出你来。",
+            "vi": "Thật không ngờ bạn lại thay đổi nhiều như vậy, tôi suýt không nhận ra.",
+            "en": "I really didn't expect you to have changed so much. I almost didn't recognize you.",
+            "sample": true
+          },
+          {
+            "q": "A：这么远的路，____？\nB：今天天气好，而且我喜欢骑自行车，又能锻炼身体，不好吗？",
+            "hint": "竟然",
+            "a": "A：这么远的路，【你竟然是骑自行车来的】？\nB：今天天气好，而且我喜欢骑自行车，又能锻炼身体，不好吗？",
+            "vi": "A: Đường xa thế mà bạn lại đạp xe đến à?\nB: Hôm nay trời đẹp, hơn nữa tôi thích đạp xe, lại rèn luyện sức khỏe được, không tốt sao?",
+            "en": "A: All this way and you actually cycled here?\nB: The weather's nice today, I like cycling, and it's good exercise. What's wrong with that?",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "倍",
+      "uses": [
+        {
+          "vi": "Lượng từ 倍 chỉ số lần (gấp…lần). Đây là lượng từ độc lập, thông thường theo sau 倍 không có danh từ.",
+          "en": "The measure word 倍 means 'times, -fold'. It stands on its own and is normally not followed by a noun.",
+          "ex": [
+            {
+              "zh": "二的五【倍】是十。",
+              "vi": "Năm lần hai là mười.",
+              "en": "Five times two is ten."
+            },
+            {
+              "zh": "我的工资是每月5000块，他的工资是我的两【倍】。",
+              "vi": "Lương của tôi mỗi tháng 5000 tệ, lương của anh ấy gấp đôi tôi.",
+              "en": "My salary is 5,000 yuan a month; his is twice mine."
+            },
+            {
+              "zh": "我记得昨天才三块五一斤，今天的价格是昨天的两【倍】。",
+              "vi": "Tôi nhớ hôm qua mới ba tệ rưỡi một cân, giá hôm nay gấp đôi hôm qua.",
+              "en": "I remember it was only 3.50 a jin yesterday; today's price is double yesterday's."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "200是____。",
+            "hint": "倍",
+            "a": "200是【100的两倍】。",
+            "vi": "200 gấp đôi 100.",
+            "en": "200 is twice 100.",
+            "sample": true
+          },
+          {
+            "q": "每年七八月，有很多游客来这儿玩儿，最多的时候____。",
+            "hint": "倍",
+            "a": "每年七八月，有很多游客来这儿玩儿，最多的时候【游客人数是平时的三倍】。",
+            "vi": "Hằng năm vào tháng bảy tháng tám có rất nhiều du khách đến đây chơi, lúc đông nhất số du khách gấp ba bình thường.",
+            "en": "Every July and August lots of tourists come here; at the busiest times there are three times as many as usual.",
+            "sample": true
+          },
+          {
+            "q": "A：今年咱们公司的收入怎么样？\nB：____。",
+            "hint": "倍",
+            "a": "A：今年咱们公司的收入怎么样？\nB：【很不错，是去年的两倍】。",
+            "vi": "A: Thu nhập năm nay của công ty chúng ta thế nào?\nB: Rất khá, gấp đôi năm ngoái.",
+            "en": "A: How is our company's income this year?\nB: Very good, twice last year's.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "值得",
+      "uses": [
+        {
+          "vi": "Động từ 值得 diễn tả rằng việc gì đó đáng thực hiện và sẽ mang lại kết quả tốt.",
+          "en": "The verb 值得 means something is worth doing and will bring good results.",
+          "ex": [
+            {
+              "zh": "您看看这个，不管从价格方面看，还是从质量上看，都是【值得】考虑的。",
+              "vi": "Anh xem cái này đi, dù xét về giá cả hay chất lượng thì đều đáng để cân nhắc.",
+              "en": "Have a look at this one. Whether in terms of price or quality, it's worth considering."
+            },
+            {
+              "zh": "你应该改改自己的脾气，别总是为一点儿小事生气，不【值得】。",
+              "vi": "Bạn nên sửa tính khí của mình đi, đừng lúc nào cũng nổi giận vì mấy chuyện nhỏ nhặt, không đáng đâu.",
+              "en": "You should work on your temper. Don't keep getting angry over little things; it's not worth it."
+            },
+            {
+              "zh": "我们总是很容易看到一个人的缺点，但是别忘了，他身上的优点更【值得】我们去发现、去学习。",
+              "vi": "Chúng ta luôn dễ nhìn thấy khuyết điểm của một người, nhưng đừng quên rằng ưu điểm của họ càng đáng để chúng ta phát hiện và học hỏi.",
+              "en": "We always find it easy to see someone's faults, but don't forget that their strengths are even more worth discovering and learning from."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "值得—值",
+        "uses": [
+          {
+            "vi": "Giống nhau: 值得 và 值 đều có thể được dùng để diễn tả rằng làm việc gì đó là có ý nghĩa hay cho biết việc gì đó đáng thực hiện.",
+            "en": "Similarity: both 值得 and 值 can say that doing something is meaningful or worthwhile.",
+            "ex": [
+              {
+                "zh": "这个调查对今后的工作很有用，花再多时间也【值得】/【值】。",
+                "vi": "Cuộc điều tra này rất có ích cho công việc sau này, có tốn thêm bao nhiêu thời gian cũng đáng.",
+                "en": "This survey is very useful for our future work. However much time it takes, it's worth it."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: Trong trường hợp trên, 值得 là động từ, theo sau nó có thể là động từ hay một vế câu; còn 值 là tính từ, thông thường theo sau nó không có thành phần khác.",
+            "en": "Difference 1: in that sense, 值得 is a verb and can be followed by a verb or a clause; 值 is an adjective and normally takes nothing after it.",
+            "ex": [
+              {
+                "zh": "别生气了，咱们不【值得】为这么点儿小事生气。",
+                "vi": "Đừng giận nữa, chúng ta không đáng phải giận vì chuyện nhỏ như thế này.",
+                "en": "Stop being angry. It's not worth getting upset over such a small thing."
+              },
+              {
+                "zh": "为这么点儿小事生气，一点儿也不【值】。",
+                "vi": "Giận vì chuyện nhỏ như thế này, chẳng đáng chút nào.",
+                "en": "Getting angry over such a small thing isn't worth it at all."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: 值得 và 值 đều có thể làm động từ nhưng nghĩa khác nhau. 值得 có nghĩa là giá tiền hợp lý, theo sau nó là động từ hay cụm động từ; còn 值 có nghĩa là hàng hóa tương đương với giá tiền, theo sau nó là số tiền.",
+            "en": "Difference 2: both can be verbs but with different meanings. 值得 means 'good value, worth (doing)' and is followed by a verb or verb phrase; 值 means 'to be worth (an amount)' and is followed by a sum of money.",
+            "ex": [
+              {
+                "zh": "这个沙发价钱不贵，质量又好，【值得】买。",
+                "vi": "Cái sofa này giá không đắt, chất lượng lại tốt, đáng mua.",
+                "en": "This sofa isn't expensive and the quality is good. It's worth buying."
+              },
+              {
+                "zh": "这个手机【值】五千块。",
+                "vi": "Chiếc điện thoại này đáng giá năm nghìn tệ.",
+                "en": "This phone is worth five thousand yuan."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "花了两个小时看这么个没意思的电影，你说____吗？",
+              "key": "值得 ✓ · 值 ✓",
+              "a": "花了两个小时看这么个没意思的电影，你说【值得】/【值】吗？",
+              "vi": "Mất hai tiếng xem một bộ phim chán như vậy, bạn nói có đáng không?",
+              "en": "Spending two hours on such a boring film: was it worth it?"
+            },
+            {
+              "q": "这本书____一看。",
+              "key": "值得 ✓ · 值 ✗ (sau là động từ)",
+              "a": "这本书【值得】一看。",
+              "vi": "Cuốn sách này đáng đọc.",
+              "en": "This book is worth reading."
+            },
+            {
+              "q": "这瓶葡萄酒____一千块。",
+              "key": "值得 ✗ · 值 ✓ (sau là số tiền)",
+              "a": "这瓶葡萄酒【值】一千块。",
+              "vi": "Chai rượu vang này đáng giá một nghìn tệ.",
+              "en": "This bottle of wine is worth a thousand yuan."
+            },
+            {
+              "q": "这个问题____大家注意。",
+              "key": "值得 ✓ · 值 ✗ (sau là vế câu)",
+              "a": "这个问题【值得】大家注意。",
+              "vi": "Vấn đề này đáng để mọi người chú ý.",
+              "en": "This problem deserves everyone's attention."
+            },
+            {
+              "q": "一件毛衣不____花两千块。",
+              "key": "值得 ✓ · 值 ✗ (sau là cụm động từ)",
+              "a": "一件毛衣不【值得】花两千块。",
+              "vi": "Một chiếc áo len không đáng bỏ ra hai nghìn tệ.",
+              "en": "A sweater isn't worth spending two thousand yuan on."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "这件衣服____。",
+            "hint": "值得",
+            "a": "这件衣服【质量好，价格也不贵，值得买】。",
+            "vi": "Chiếc áo này chất lượng tốt, giá cũng không đắt, đáng mua.",
+            "en": "This piece of clothing is good quality and not expensive. It's worth buying.",
+            "sample": true
+          },
+          {
+            "q": "A：你觉得这个办法怎么样？会有效果吗？\nB：____。",
+            "hint": "值得",
+            "a": "A：你觉得这个办法怎么样？会有效果吗？\nB：【我觉得值得试一试】。",
+            "vi": "A: Bạn thấy cách này thế nào? Có hiệu quả không?\nB: Tôi thấy đáng để thử.",
+            "en": "A: What do you think of this idea? Will it work?\nB: I think it's worth a try.",
+            "sample": true
+          },
+          {
+            "q": "A：你学法律一定很苦很累吧？\nB：是，不过____。",
+            "hint": "值得",
+            "a": "A：你学法律一定很苦很累吧？\nB：是，不过【我觉得很值得】。",
+            "vi": "A: Học luật chắc vất vả mệt mỏi lắm nhỉ?\nB: Đúng, nhưng tôi thấy rất đáng.",
+            "en": "A: Studying law must be really hard work.\nB: It is, but I think it's well worth it.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "其中",
+      "uses": [
+        {
+          "vi": "Danh từ 其中 có nghĩa là trong đó, trong số đó, được dùng để chỉ phạm vi hay vị trí.",
+          "en": "The noun 其中 means 'among them, in it', referring to a scope or place just mentioned.",
+          "ex": [
+            {
+              "zh": "我们不仅要会读书，还要会选择【其中】的好书来读。",
+              "vi": "Chúng ta không chỉ phải biết đọc sách, mà còn phải biết chọn những cuốn hay trong số đó để đọc.",
+              "en": "We need not only to know how to read, but also how to pick out the good books among them to read."
+            },
+            {
+              "zh": "虽然妻子工作很忙，但是她忙在【其中】也乐在【其中】。",
+              "vi": "Tuy vợ tôi công việc rất bận rộn nhưng cô ấy bận mà vẫn vui trong đó.",
+              "en": "Although my wife is very busy at work, she's busy and enjoying it at the same time."
+            },
+            {
+              "zh": "一些图书还有打折活动，【其中】，小说7.5折，地图8折，留学考试用书6折。",
+              "vi": "Một số sách còn có chương trình giảm giá, trong đó tiểu thuyết giảm 25%, bản đồ giảm 20%, sách luyện thi du học giảm 40%.",
+              "en": "Some books are also on sale: novels are 25% off, maps 20% off, and study-abroad exam books 40% off."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "很多人能取得成功，____。",
+            "hint": "其中",
+            "a": "很多人能取得成功，【其中的原因主要是他们很努力】。",
+            "vi": "Nhiều người có thể thành công, nguyên nhân trong đó chủ yếu là họ rất nỗ lực.",
+            "en": "Many people succeed, and the main reason is that they work very hard.",
+            "sample": true
+          },
+          {
+            "q": "我有很多爱好，____。",
+            "hint": "其中",
+            "a": "我有很多爱好，【其中最喜欢的是打篮球】。",
+            "vi": "Tôi có nhiều sở thích, trong đó thích nhất là chơi bóng rổ.",
+            "en": "I have lots of hobbies; my favourite among them is basketball.",
+            "sample": true
+          },
+          {
+            "q": "虽然联系老同学聚会比较麻烦，____。",
+            "hint": "其中",
+            "a": "虽然联系老同学聚会比较麻烦，【但是我乐在其中】。",
+            "vi": "Tuy liên hệ bạn học cũ để họp mặt khá phiền phức, nhưng tôi thấy vui trong đó.",
+            "en": "Although organizing a reunion with old classmates is a bit of a hassle, I enjoy it.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "（在）……下",
+      "uses": [
+        {
+          "vi": "Thành phần đứng giữa “(在)……下” thường là một danh từ hay động từ có hai âm tiết kèm theo từ bổ nghĩa đứng trước nó. Cấu trúc này được dùng để chỉ một điều kiện, tình huống.",
+          "en": "In '(在)……下' the middle part is usually a two-syllable noun or verb with a modifier in front. The structure expresses a condition or circumstance: 'under …, with …'.",
+          "ex": [
+            {
+              "zh": "一般情况【下】，你花的钱越多，买的东西也就越好。",
+              "vi": "Trong trường hợp thông thường, bạn tiêu càng nhiều tiền thì đồ mua được càng tốt.",
+              "en": "Generally speaking, the more money you spend, the better the things you buy."
+            },
+            {
+              "zh": "【在】冬天比较冷的情况【下】，吃碗热面条会让人觉得很舒服。",
+              "vi": "Trong lúc mùa đông khá lạnh, ăn một bát mì nóng sẽ khiến người ta thấy rất dễ chịu.",
+              "en": "When it's fairly cold in winter, a bowl of hot noodles makes you feel really good."
+            },
+            {
+              "zh": "【在】老师和同学们的帮助【下】，他的汉语提高得非常快。",
+              "vi": "Với sự giúp đỡ của thầy cô và các bạn, tiếng Trung của cậu ấy tiến bộ rất nhanh.",
+              "en": "With the help of his teachers and classmates, his Chinese improved very quickly."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "考试时别紧张，____。",
+            "hint": "在……下",
+            "a": "考试时别紧张，【在这种情况下更要冷静】。",
+            "vi": "Lúc thi đừng căng thẳng, trong tình huống này càng phải bình tĩnh.",
+            "en": "Don't be nervous in the exam. In that situation you need to stay calm even more.",
+            "sample": true
+          },
+          {
+            "q": "A：我今年已经换了三次工作了。\nB：____。",
+            "hint": "……下",
+            "a": "A：我今年已经换了三次工作了。\nB：【一般情况下，经常换工作不太好】。",
+            "vi": "A: Năm nay tôi đã đổi việc ba lần rồi.\nB: Thông thường, đổi việc thường xuyên không tốt lắm.",
+            "en": "A: I've changed jobs three times this year.\nB: Generally speaking, changing jobs often isn't a good idea.",
+            "sample": true
+          },
+          {
+            "q": "A：游戏教学不仅让学生学到了知识，更重要的是提供了快乐的学习环境。\nB：是啊，____。",
+            "hint": "在……下",
+            "a": "A：游戏教学不仅让学生学到了知识，更重要的是提供了快乐的学习环境。\nB：是啊，【在这样的环境下，学生们都很喜欢学习】。",
+            "vi": "A: Dạy học bằng trò chơi không những giúp học sinh học được kiến thức mà quan trọng hơn là tạo ra môi trường học tập vui vẻ.\nB: Đúng vậy, trong môi trường như vậy các em đều rất thích học.",
+            "en": "A: Teaching through games not only lets students learn, but more importantly provides a happy learning environment.\nB: Yes, in an environment like that the students all love learning.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "李进的语气：\n昨天晚上妻子让我陪她去超市买果汁。……",
+          "label": "课文1",
+          "a": "昨天晚上妻子让我陪她去超市买果汁，我把手机忘在家里了。我们先去逛了会儿商场，一进门，售货员就热情地{de}为我们介绍这、介绍那，妻子买了一条裤子、一件衬衫、两双袜子，然后我们就高高兴兴地{de}回家了。回家以后，我才发现，竟然忘了去超市买果汁！",
+          "vi": "Tối qua vợ bảo tôi đi siêu thị mua nước hoa quả với cô ấy, tôi để quên điện thoại ở nhà. Chúng tôi đi dạo trung tâm thương mại một lúc trước, vừa vào nhân viên bán hàng đã nhiệt tình giới thiệu đủ thứ, vợ tôi mua một chiếc quần, một chiếc áo sơ mi, hai đôi tất, rồi chúng tôi vui vẻ về nhà. Về nhà tôi mới phát hiện, vậy mà quên mua nước hoa quả!",
+          "en": "Last night my wife asked me to go to the supermarket with her for juice, and I left my phone at home. First we wandered round the mall; the moment we went in, the shop assistant showed us all sorts of things. My wife bought trousers, a shirt and two pairs of socks, and we went home happily. Only when we got home did I realize we'd forgotten the juice!",
+          "sample": true
+        },
+        {
+          "q": "王静的语气：\n今天我买了两斤西红柿，……",
+          "label": "课文2",
+          "a": "今天我买了两斤西红柿，七块钱一斤，一共十四块。我记得昨天才三块五一斤，今天的价格是昨天的两倍。售货员说这种是“绿色”的，一分钱一分货，每天吃一两个对皮肤有好处，所以我先买几个尝尝。",
+          "vi": "Hôm nay tôi mua hai cân cà chua, bảy tệ một cân, tổng cộng mười bốn tệ. Tôi nhớ hôm qua mới ba tệ rưỡi một cân, giá hôm nay gấp đôi. Nhân viên bán hàng nói loại này là loại “xanh”, tiền nào của nấy, mỗi ngày ăn một hai quả tốt cho da, nên tôi mua mấy quả ăn thử trước.",
+          "en": "Today I bought two jin of tomatoes at seven yuan a jin, fourteen altogether. I remember they were only 3.50 yesterday; today's price is double. The assistant said these are “green”, you get what you pay for, and eating one or two a day is good for the skin, so I bought a few to try.",
+          "sample": true
+        },
+        {
+          "q": "李进的语气：\n我想买个轻一点儿的行李箱，……",
+          "label": "课文3",
+          "a": "我想买个轻一点儿的行李箱，售货员给我介绍了一个，不管从价格方面看，还是从质量上看，都值得考虑。现在商场正好有打折活动，打完折是999，另外一年内负责免费修理。我觉得他们的服务不错，价格也可以，就买了这个。",
+          "vi": "Tôi muốn mua một chiếc vali nhẹ một chút, nhân viên bán hàng giới thiệu cho tôi một chiếc, dù xét về giá hay chất lượng đều đáng cân nhắc. Bây giờ trung tâm đang giảm giá, giảm xong là 999 tệ, ngoài ra trong một năm được sửa chữa miễn phí. Tôi thấy dịch vụ tốt, giá cũng được nên mua cái này.",
+          "en": "I wanted a lighter suitcase, and the assistant showed me one that was worth considering on both price and quality. The mall had a sale on, so it was 999 after the discount, with free repairs for a year. Their service was good and the price was fine, so I bought it.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "支持",
+        "打扰",
+        "皮肤",
+        "百分之",
+        "售货员"
+      ],
+      "items": [
+        {
+          "q": "喂，孙阿姨吗？我是小周。不好意思这么晚____您。",
+          "key": "打扰",
+          "a": "喂，孙阿姨吗？我是小周。不好意思这么晚【打扰】您。",
+          "vi": "A lô, cô Tôn phải không ạ? Cháu là Tiểu Chu. Xin lỗi đã làm phiền cô muộn thế này.",
+          "en": "Hello, Auntie Sun? It's Xiao Zhou. Sorry to disturb you so late."
+        },
+        {
+          "q": "谢谢大家这一年来对我的____和帮助，能和大家一起工作，我感到非常高兴。",
+          "key": "支持",
+          "a": "谢谢大家这一年来对我的【支持】和帮助，能和大家一起工作，我感到非常高兴。",
+          "vi": "Cảm ơn mọi người đã ủng hộ và giúp đỡ tôi suốt một năm qua, được làm việc cùng mọi người tôi rất vui.",
+          "en": "Thank you all for your support and help over the past year. I'm very happy to work with you all."
+        },
+        {
+          "q": "王小姐在商场买裙子。她从试衣间出来后，____说：“您穿这条裙子有点儿大。”",
+          "key": "售货员",
+          "a": "王小姐在商场买裙子。她从试衣间出来后，【售货员】说：“您穿这条裙子有点儿大。”",
+          "vi": "Cô Vương mua váy ở trung tâm thương mại. Cô ấy từ phòng thử đồ ra, nhân viên bán hàng nói: “Chị mặc chiếc váy này hơi rộng.”",
+          "en": "Miss Wang was buying a skirt at the mall. When she came out of the fitting room, the shop assistant said, “That skirt is a bit big on you.”"
+        },
+        {
+          "q": "我们调查的近七千名上班族中，有____六十四的人经常加班。",
+          "key": "百分之",
+          "a": "我们调查的近七千名上班族中，有【百分之】六十四的人经常加班。",
+          "vi": "Trong gần bảy nghìn người đi làm mà chúng tôi khảo sát, có 64% thường xuyên tăng ca.",
+          "en": "Of the nearly 7,000 office workers we surveyed, 64% often work overtime."
+        },
+        {
+          "q": "这种水不仅很好喝，用它来洗脸对____也很有好处，所以价格要比其他水贵一些。",
+          "key": "皮肤",
+          "a": "这种水不仅很好喝，用它来洗脸对【皮肤】也很有好处，所以价格要比其他水贵一些。",
+          "vi": "Loại nước này không những ngon mà dùng rửa mặt cũng rất tốt cho da, nên giá đắt hơn các loại nước khác một chút.",
+          "en": "This water not only tastes good but is also good for your skin when you wash your face with it, so it's a bit more expensive than other water."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "轻",
+        "内",
+        "尝",
+        "满",
+        "各"
+      ],
+      "items": [
+        {
+          "q": "A：你____了吗？这次蛋糕做得怎么样？\nB：很好吃，没想到你水平提高了这么多。",
+          "key": "尝",
+          "a": "A：你【尝】了吗？这次蛋糕做得怎么样？\nB：很好吃，没想到你水平提高了这么多。",
+          "vi": "A: Bạn nếm thử chưa? Bánh lần này làm thế nào?\nB: Rất ngon, không ngờ tay nghề bạn tiến bộ nhiều thế.",
+          "en": "A: Have you tried it? How's the cake this time?\nB: Delicious. I didn't expect you to have improved so much."
+        },
+        {
+          "q": "A：计划书你看了没？\nB：看了，____方面都介绍得挺不错。",
+          "key": "各",
+          "a": "A：计划书你看了没？\nB：看了，【各】方面都介绍得挺不错。",
+          "vi": "A: Bạn xem bản kế hoạch chưa?\nB: Xem rồi, các mặt đều trình bày khá tốt.",
+          "en": "A: Have you read the proposal?\nB: Yes, every aspect is explained quite well."
+        },
+        {
+          "q": "A：这个纸箱里面是酒，麻烦您搬的时候____一点儿。\nB：好的，我会注意的。",
+          "key": "轻",
+          "a": "A：这个纸箱里面是酒，麻烦您搬的时候【轻】一点儿。\nB：好的，我会注意的。",
+          "vi": "A: Trong thùng giấy này là rượu, phiền anh khi bê nhẹ tay một chút.\nB: Vâng, tôi sẽ chú ý.",
+          "en": "A: There's wine in this box. Please be gentle when you carry it.\nB: OK, I'll be careful."
+        },
+        {
+          "q": "A：现在买沙发，能免费送货上门吗？\nB：可以，我们三日____给您送到。",
+          "key": "内",
+          "a": "A：现在买沙发，能免费送货上门吗？\nB：可以，我们三日【内】给您送到。",
+          "vi": "A: Bây giờ mua sofa có được giao hàng tận nhà miễn phí không?\nB: Được, chúng tôi sẽ giao đến cho anh trong vòng ba ngày.",
+          "en": "A: If I buy a sofa now, can you deliver it free?\nB: Yes, we'll deliver it within three days."
+        },
+        {
+          "q": "A：今天购物____四百元的顾客可以免费获得一份小礼物。\nB：咱们已经买了三百八十多了，再买两双袜子就够了。",
+          "key": "满",
+          "a": "A：今天购物【满】四百元的顾客可以免费获得一份小礼物。\nB：咱们已经买了三百八十多了，再买两双袜子就够了。",
+          "vi": "A: Hôm nay khách mua đủ bốn trăm tệ được nhận miễn phí một món quà nhỏ.\nB: Chúng ta đã mua hơn ba trăm tám mươi rồi, mua thêm hai đôi tất là đủ.",
+          "en": "A: Customers who spend 400 yuan today get a free gift.\nB: We've already spent over 380. Two more pairs of socks and we'll have enough."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 其",
+    "en": "Words sharing a character: 其",
+    "words": [
+      {
+        "zh": "其次",
+        "py": "qícì",
+        "vi": "thứ hai, sau đó",
+        "en": "secondly"
+      },
+      {
+        "zh": "其中",
+        "py": "qízhōng",
+        "vi": "trong đó",
+        "en": "among them"
+      },
+      {
+        "zh": "其实",
+        "py": "qíshí",
+        "vi": "thật ra",
+        "en": "actually"
+      },
+      {
+        "zh": "其他",
+        "py": "qítā",
+        "vi": "khác",
+        "en": "other"
+      },
+      {
+        "zh": "尤其",
+        "py": "yóuqí",
+        "vi": "nhất là, đặc biệt là",
+        "en": "especially"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "A：能谈谈你为什么会选择这份工作吗？\nB：首先，我对这份工作很感兴趣，【其次】，我学的也是这个专业，比较熟悉。",
+        "vi": "A: Bạn có thể nói vì sao bạn chọn công việc này không?\nB: Trước hết, tôi rất hứng thú với công việc này; thứ hai, tôi học đúng chuyên ngành này nên khá quen thuộc.",
+        "en": "A: Could you tell us why you chose this job?\nB: First, I'm very interested in it; second, it's what I studied, so I'm quite familiar with it."
+      },
+      {
+        "zh": "这个电影讲的是一个浪漫的爱情故事，但是我觉得【其中】人与动物之间的友谊更感人，给我的印象更深。",
+        "vi": "Bộ phim này kể về một câu chuyện tình yêu lãng mạn, nhưng tôi thấy tình bạn giữa người và động vật trong đó cảm động hơn, để lại ấn tượng sâu sắc hơn.",
+        "en": "This film tells a romantic love story, but I found the friendship between people and animals in it more moving and memorable."
+      },
+      {
+        "zh": "生活中有这样两种人：一种总是看别人怎么生活，另一种喜欢生活给别人看。【其实】，各人有各人的生活，不用羡慕别人。",
+        "vi": "Trong cuộc sống có hai kiểu người: một kiểu luôn nhìn xem người khác sống thế nào, kiểu kia thích sống cho người khác xem. Thật ra mỗi người có cuộc sống riêng, không cần ngưỡng mộ người khác.",
+        "en": "There are two kinds of people: one always watches how others live, the other likes to live for others to see. Actually, everyone has their own life, and there's no need to envy anyone."
+      },
+      {
+        "zh": "A：饭店的工作，我想请你来负责，你看有问题没？\nB：对不起，我最近在忙另一件事，您还是考虑【其他】人吧。",
+        "vi": "A: Công việc ở nhà hàng, tôi muốn nhờ cậu phụ trách, cậu thấy có vấn đề gì không?\nB: Xin lỗi, dạo này tôi đang bận một việc khác, anh nên cân nhắc người khác thì hơn.",
+        "en": "A: I'd like you to take charge of the restaurant work. Is that a problem?\nB: Sorry, I'm busy with something else at the moment. You'd better consider someone else."
+      },
+      {
+        "zh": "不管做什么事情，都要注意方法，学习【尤其】是这样。如果方法对了，就会取得很好的效果；如果方法错了，不管你怎么努力，也很难取得成功。",
+        "vi": "Dù làm việc gì cũng phải chú ý phương pháp, học tập lại càng như vậy. Nếu phương pháp đúng thì sẽ đạt hiệu quả rất tốt; nếu phương pháp sai thì dù cố gắng thế nào cũng khó thành công.",
+        "en": "Whatever you do, method matters, and especially in studying. With the right method you'll get great results; with the wrong one, however hard you try, success will be difficult."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "其次",
+        "其中",
+        "其实",
+        "其他",
+        "尤其"
+      ],
+      "items": [
+        {
+          "q": "小时候，大家都说我长得像我妈，____是眼睛和鼻子。",
+          "key": "尤其",
+          "a": "小时候，大家都说我长得像我妈，【尤其】是眼睛和鼻子。",
+          "vi": "Hồi nhỏ ai cũng nói tôi giống mẹ, nhất là đôi mắt và cái mũi.",
+          "en": "When I was little, everyone said I looked like my mum, especially my eyes and nose."
+        },
+        {
+          "q": "他和弟弟虽然是同一天出生的，但是他们俩除了长得很像外，几乎再找不到____共同点。",
+          "key": "其他",
+          "a": "他和弟弟虽然是同一天出生的，但是他们俩除了长得很像外，几乎再找不到【其他】共同点。",
+          "vi": "Anh ấy và em trai tuy sinh cùng một ngày nhưng ngoài việc trông rất giống nhau thì gần như không tìm được điểm chung nào khác.",
+          "en": "Although he and his brother were born on the same day, apart from looking alike they have almost nothing else in common."
+        },
+        {
+          "q": "为了找到最美丽的地方，有些人总是不停地{de}去找，却从不注意身边的地方。____，如果他能停下来，也许就会发现最美的地方就在身边。",
+          "key": "其实",
+          "a": "为了找到最美丽的地方，有些人总是不停地{de}去找，却从不注意身边的地方。【其实】，如果他能停下来，也许就会发现最美的地方就在身边。",
+          "vi": "Để tìm nơi đẹp nhất, có người cứ không ngừng đi tìm mà chưa bao giờ để ý những nơi bên cạnh mình. Thật ra nếu họ dừng lại, có lẽ sẽ phát hiện nơi đẹp nhất ở ngay bên cạnh.",
+          "en": "To find the most beautiful place, some people keep searching without ever noticing what's around them. Actually, if they stopped, they might find the most beautiful place right beside them."
+        },
+        {
+          "q": "大学毕业前找工作时，首先，要知道自己想干什么；____，还要知道自己能干什么。",
+          "key": "其次",
+          "a": "大学毕业前找工作时，首先，要知道自己想干什么；【其次】，还要知道自己能干什么。",
+          "vi": "Khi tìm việc trước lúc tốt nghiệp đại học, trước hết phải biết mình muốn làm gì; thứ hai, còn phải biết mình có thể làm gì.",
+          "en": "When looking for a job before graduating, first you need to know what you want to do; second, you need to know what you can do."
+        },
+        {
+          "q": "8小时内，共有1620个女人经过这面镜子，____1/3的人花很短的时间看镜子中的自己；而经过镜子的600个男人，差不多每个人都会照镜子，大多数还会看看四周，看有没有被人注意。",
+          "key": "其中",
+          "a": "8小时内，共有1620个女人经过这面镜子，【其中】1/3的人花很短的时间看镜子中的自己；而经过镜子的600个男人，差不多每个人都会照镜子，大多数还会看看四周，看有没有被人注意。",
+          "vi": "Trong 8 tiếng có tổng cộng 1620 phụ nữ đi qua tấm gương này, trong đó 1/3 dành chút thời gian ngắn nhìn mình trong gương; còn 600 đàn ông đi qua thì gần như ai cũng soi gương, đa số còn nhìn quanh xem có bị ai để ý không.",
+          "en": "In 8 hours, 1,620 women passed this mirror, a third of whom spent a short time looking at themselves; of the 600 men who passed, almost every one looked in the mirror, and most also glanced around to see if anyone had noticed."
+        }
+      ]
+    }
+  }
+}

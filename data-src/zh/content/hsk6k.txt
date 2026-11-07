@@ -1,0 +1,161 @@
+# 词|pinyin|hán việt|nghĩa VI|meaning EN|例句|câu dịch VI|sentence EN|tag
+神态|shéntài|thần thái|thần thái, vẻ mặt|expression, manner|他的神态很轻松，好像一点儿也不紧张。|Vẻ mặt anh ấy rất thoải mái, như thể chẳng căng thẳng chút nào.|He looks relaxed, as if he's not nervous at all.|强调
+神仙|shénxiān|thần tiên|thần tiên|immortal|这里的风景美得像神仙住的地方。|Phong cảnh ở đây đẹp như nơi thần tiên ở.|The scenery here is as beautiful as a fairyland.|比较句
+审查|shěnchá|thẩm tra|thẩm tra, kiểm duyệt|to examine|所有的申请材料都要经过严格审查。|Tất cả hồ sơ xin đều phải qua thẩm tra nghiêm ngặt.|All application materials undergo strict review.|能愿动词
+审理|shěnlǐ|thẩm lý|xét xử|to try (a case)|法院将于下个月审理这个案件。|Tòa án sẽ xét xử vụ án này vào tháng sau.|The court will hear this case next month.|将要
+审美|shěnměi|thẩm mỹ|thẩm mỹ|aesthetics|每个人的审美观都不一样。|Quan điểm thẩm mỹ của mỗi người đều khác nhau.|Everyone has different aesthetic tastes.|比较句
+审判|shěnpàn|thẩm phán|xét xử|trial|这个罪犯最终受到了法律的审判。|Tên tội phạm này cuối cùng đã bị pháp luật xét xử.|The criminal was finally brought to justice.|了
+渗透|shèntòu|sấm thấu|thẩm thấu, ngấm|to permeate|雨水渗透到了地下。|Nước mưa đã ngấm xuống đất.|The rainwater seeped into the ground.|趋向补语
+慎重|shènzhòng|thận trọng|thận trọng|cautious|这个问题我们要慎重考虑。|Vấn đề này chúng ta phải cân nhắc thận trọng.|We need to consider this issue carefully.|能愿动词
+生存|shēngcún|sinh tồn|sinh tồn|to survive|人类的生存离不开水。|Sự sinh tồn của loài người không thể thiếu nước.|Human survival depends on water.|可能补语
+生机|shēngjī|sinh cơ|sức sống; con đường sống|vitality|春天来了，大地充满了生机。|Mùa xuân đến, mặt đất tràn đầy sức sống.|Spring has come, and the land is full of life.|介词短语
+生理|shēnglǐ|sinh lý|sinh lý|physiology|这是人体的一种正常生理反应。|Đây là một phản ứng sinh lý bình thường của cơ thể.|This is a normal physiological reaction.|是字句
+生疏|shēngshū|sinh sơ|lạ lẫm; lụt nghề|unfamiliar; out of practice|好几年没说英语了，现在有点儿生疏了。|Mấy năm không nói tiếng Anh, giờ hơi quên rồi.|I haven't spoken English in years, so I'm a bit rusty.|了
+生态|shēngtài|sinh thái|sinh thái|ecology|保护生态环境是全人类的责任。|Bảo vệ môi trường sinh thái là trách nhiệm của toàn nhân loại.|Protecting the ecosystem is all humanity's responsibility.|是字句
+生物|shēngwù|sinh vật|sinh vật; sinh học|organism; biology|海洋里生活着各种各样的生物。|Trong đại dương có đủ loại sinh vật sinh sống.|All kinds of creatures live in the ocean.|存现句
+生肖|shēngxiào|sinh tiêu|con giáp|Chinese zodiac animal|你的生肖是什么？我属龙。|Bạn tuổi con gì? Tôi tuổi Thìn.|What's your zodiac sign? I'm a Dragon.|特指问句
+生效|shēngxiào|sinh hiệu|có hiệu lực|to take effect|新的法律从明年一月一日起生效。|Luật mới có hiệu lực từ ngày một tháng một năm sau.|The new law takes effect on January 1st next year.|介词短语
+生锈|shēngxiù|sinh tú|gỉ, rỉ sét|to rust|这把刀放在外面太久，已经生锈了。|Con dao này để bên ngoài lâu quá, đã gỉ rồi.|This knife was left outside too long and has rusted.|了
+生育|shēngyù|sinh dục|sinh đẻ|to give birth|她生育了两个孩子。|Bà ấy sinh được hai đứa con.|She gave birth to two children.|了
+声明|shēngmíng|thanh minh|tuyên bố|statement|公司发表声明，否认了这个消息。|Công ty ra tuyên bố phủ nhận tin tức này.|The company issued a statement denying the news.|承接
+声势|shēngshì|thanh thế|thanh thế|momentum|这次活动声势浩大，吸引了很多人。|Hoạt động lần này thanh thế lớn, thu hút rất nhiều người.|The event was held on a grand scale and attracted many people.|形容词谓语
+声誉|shēngyù|thanh dự|danh tiếng|reputation|这家医院在全国享有很高的声誉。|Bệnh viện này có danh tiếng rất cao trên toàn quốc.|This hospital has a high reputation nationwide.|介词短语
+牲畜|shēngchù|sinh súc|gia súc|livestock|农民们在草原上放养牲畜。|Nông dân chăn thả gia súc trên thảo nguyên.|Herders graze livestock on the grassland.|介词短语
+省会|shěnghuì|tỉnh hội|tỉnh lỵ|provincial capital|广州是广东省的省会。|Quảng Châu là tỉnh lỵ của tỉnh Quảng Đông.|Guangzhou is the capital of Guangdong Province.|是字句
+胜负|shèngfù|thắng phụ|thắng thua|victory or defeat|比赛的胜负并不是最重要的。|Thắng thua trong thi đấu không phải là quan trọng nhất.|Winning or losing isn't the most important thing.|是字句
+盛|chéng|thịnh|xới, múc; đựng|to ladle, to hold|妈妈给我盛了一碗饭。|Mẹ xới cho tôi một bát cơm.|Mom scooped me a bowl of rice.|介词短语
+盛产|shèngchǎn|thịnh sản|sản xuất nhiều|to be rich in|这个地区盛产苹果。|Vùng này sản xuất rất nhiều táo.|This region produces apples in abundance.|陈述句
+盛行|shèngxíng|thịnh hành|thịnh hành|to be popular|网上购物现在非常盛行。|Mua sắm trực tuyến hiện rất thịnh hành.|Online shopping is very popular now.|形容词谓语
+盛开|shèngkāi|thịnh khai|nở rộ|to bloom|公园里的桃花都盛开了。|Hoa đào trong công viên đều nở rộ rồi.|The peach blossoms in the park are in full bloom.|了
+盛情|shèngqíng|thịnh tình|thịnh tình, hậu tình|great kindness|感谢主人的盛情款待。|Cảm ơn sự tiếp đãi nồng hậu của chủ nhà.|Thank you to our hosts for their generous hospitality.|定语
+尸体|shītǐ|thi thể|thi thể|corpse|警察在河边发现了一具尸体。|Cảnh sát phát hiện một thi thể bên bờ sông.|The police found a body by the river.|介词短语
+失事|shīshì|thất sự|gặp nạn|to crash|那架飞机在山区失事了。|Chiếc máy bay đó đã gặp nạn ở vùng núi.|That plane crashed in the mountains.|介词短语
+失误|shīwù|thất ngộ|sai sót|mistake|由于一个小小的失误，我们输掉了比赛。|Vì một sai sót nhỏ, chúng tôi đã thua trận.|We lost the match because of a small mistake.|因果
+失踪|shīzōng|thất tung|mất tích|to go missing|那个孩子已经失踪三天了。|Đứa trẻ đó đã mất tích ba ngày rồi.|The child has been missing for three days.|时量动量
+师范|shīfàn|sư phạm|sư phạm|teacher training|她毕业于一所师范大学。|Cô ấy tốt nghiệp từ một trường đại học sư phạm.|She graduated from a teachers' university.|介词短语
+施加|shījiā|thi gia|gây (áp lực)|to exert|父母不应该给孩子施加太大的压力。|Cha mẹ không nên gây quá nhiều áp lực cho con.|Parents shouldn't put too much pressure on their children.|介词短语
+施展|shīzhǎn|thi triển|thi triển, phát huy|to display, to make use of|这份工作让他有机会施展自己的才能。|Công việc này cho anh ấy cơ hội phát huy tài năng.|This job gives him a chance to show his talents.|兼语句
+十足|shízú|thập túc|mười phân vẹn mười, hoàn toàn|full, complete|他是一个十足的书呆子。|Anh ấy là một con mọt sách chính hiệu.|He's a total bookworm.|是字句
+石油|shíyóu|thạch du|dầu mỏ|petroleum|这个国家的石油资源很丰富。|Tài nguyên dầu mỏ của nước này rất phong phú.|This country has abundant oil resources.|形容词谓语
+时常|shícháng|thời thường|thường xuyên|often|我时常想起小时候的事情。|Tôi thường nhớ lại chuyện hồi nhỏ.|I often think back on my childhood.|陈述句
+时而|shí'ér|thời nhi|lúc thì, thỉnh thoảng|sometimes|天气时而晴，时而雨。|Thời tiết lúc thì nắng, lúc thì mưa.|The weather alternates between sun and rain.|并列
+时光|shíguāng|thời quang|thời gian, quãng đời|time|大学时光是我人生中最美好的回忆。|Quãng thời gian đại học là kỷ niệm đẹp nhất đời tôi.|My college years are the best memories of my life.|是字句
+时机|shíjī|thời cơ|thời cơ|opportunity|现在还不是买房的好时机。|Bây giờ vẫn chưa phải là thời cơ tốt để mua nhà.|Now isn't a good time to buy a house.|是字句
+时事|shíshì|thời sự|thời sự|current affairs|他每天都关心国内外的时事。|Ngày nào anh ấy cũng quan tâm thời sự trong và ngoài nước.|He follows domestic and international news every day.|陈述句
+识别|shíbié|thức biệt|nhận biết, nhận dạng|to identify|这台机器可以识别人脸。|Cái máy này có thể nhận dạng khuôn mặt.|This machine can recognize faces.|能愿动词
+实行|shíxíng|thực hành|thực hiện, thi hành|to implement|我们公司实行五天工作制。|Công ty chúng tôi thực hiện chế độ làm việc năm ngày.|Our company has a five-day work week.|陈述句
+实惠|shíhuì|thực huệ|thiết thực, rẻ mà tốt|economical|这家饭馆的菜又好吃又实惠。|Món ăn của quán này vừa ngon vừa rẻ.|The food at this restaurant is tasty and affordable.|并列
+实力|shílì|thực lực|thực lực|strength|这支球队的实力非常强。|Thực lực của đội bóng này rất mạnh.|This team is very strong.|形容词谓语
+实施|shíshī|thực thi|thực thi|to implement|新计划将从下个月开始实施。|Kế hoạch mới sẽ bắt đầu thực thi từ tháng sau.|The new plan will be implemented starting next month.|将要
+实事求是|shí shì qiú shì|thực sự cầu thị|thực sự cầu thị|to seek truth from facts|做事情要实事求是，不能说假话。|Làm việc phải thực sự cầu thị, không được nói dối.|Be realistic and honest in what you do—no lies.|能愿动词
+实质|shízhì|thực chất|thực chất|essence|这两个问题在实质上是一样的。|Hai vấn đề này về thực chất là như nhau.|These two problems are essentially the same.|介词短语
+拾|shí|thập|nhặt|to pick up|他在路上拾到了一个钱包，交给了警察。|Anh ấy nhặt được một chiếc ví trên đường, đã giao cho cảnh sát.|He found a wallet on the street and handed it to the police.|承接
+使命|shǐmìng|sứ mệnh|sứ mệnh|mission|教育孩子是老师的使命。|Giáo dục trẻ em là sứ mệnh của người thầy.|Educating children is a teacher's mission.|是字句
+示范|shìfàn|thị phạm|làm mẫu|to demonstrate|老师先给大家示范了一遍。|Thầy giáo làm mẫu cho mọi người một lượt trước.|The teacher demonstrated it for everyone first.|介词短语
+示威|shìwēi|thị uy|biểu tình; thị uy|to demonstrate (protest)|很多工人上街示威，要求提高工资。|Nhiều công nhân xuống đường biểu tình đòi tăng lương.|Many workers took to the streets demanding higher wages.|连动句
+示意|shìyì|thị ý|ra hiệu|to signal|老师示意我们安静下来。|Thầy giáo ra hiệu cho chúng tôi im lặng.|The teacher signaled for us to be quiet.|兼语句
+世代|shìdài|thế đại|đời đời, nhiều đời|for generations|他们家世代都是农民。|Nhà họ đời đời đều là nông dân.|His family have been farmers for generations.|是字句
+势必|shìbì|thế tất|tất sẽ|certainly will|如果不改革，公司势必会被淘汰。|Nếu không cải cách, công ty chắc chắn sẽ bị đào thải.|Without reform, the company will inevitably be eliminated.|假设
+势力|shìli|thế lực|thế lực|power, influence|这个家族在当地很有势力。|Gia tộc này rất có thế lực ở địa phương.|This family is very influential locally.|有字句
+事故|shìgù|sự cố|sự cố, tai nạn|accident|这次交通事故造成了两人受伤。|Tai nạn giao thông lần này khiến hai người bị thương.|Two people were injured in this traffic accident.|了
+事迹|shìjì|sự tích|sự tích, việc làm (tốt)|deeds|他的英雄事迹感动了全国人民。|Việc làm anh hùng của anh ấy đã làm cảm động cả nước.|His heroic deeds moved the whole nation.|了
+事件|shìjiàn|sự kiện|sự kiện, vụ việc|incident|这个事件引起了社会的广泛关注。|Sự kiện này đã thu hút sự quan tâm rộng rãi của xã hội.|This incident attracted widespread public attention.|了
+事态|shìtài|sự thái|tình hình sự việc|situation|事态越来越严重，必须马上解决。|Tình hình ngày càng nghiêm trọng, phải giải quyết ngay.|The situation is getting worse and must be resolved immediately.|越…越
+事务|shìwù|sự vụ|công việc, sự vụ|affairs|他每天要处理很多公司事务。|Mỗi ngày anh ấy phải xử lý rất nhiều công việc của công ty.|He handles a lot of company business every day.|能愿动词
+事项|shìxiàng|sự hạng|hạng mục, việc|matter, item|请大家注意以下几个事项。|Mời mọi người chú ý mấy điều sau đây.|Please note the following points.|祈使句
+事业|shìyè|sự nghiệp|sự nghiệp|career|他把全部精力都投入到了事业中。|Anh ấy dồn toàn bộ tâm sức vào sự nghiệp.|He devoted all his energy to his career.|把字句
+试图|shìtú|thí đồ|định, cố gắng|to attempt|他试图说服大家，但没有成功。|Anh ấy cố thuyết phục mọi người nhưng không thành công.|He tried to persuade everyone but failed.|转折
+试验|shìyàn|thí nghiệm|thí nghiệm, thử nghiệm|to test|这种新药还在试验阶段。|Loại thuốc mới này vẫn đang trong giai đoạn thử nghiệm.|This new drug is still in the testing stage.|介词短语
+视力|shìlì|thị lực|thị lực|eyesight|长时间看手机会影响视力。|Xem điện thoại lâu sẽ ảnh hưởng thị lực.|Looking at your phone for long periods affects your eyesight.|能愿动词
+视频|shìpín|thị tần|video|video|他每天都在网上看学习汉语的视频。|Ngày nào anh ấy cũng xem video học tiếng Trung trên mạng.|He watches Chinese-learning videos online every day.|介词短语
+视线|shìxiàn|thị tuyến|tầm nhìn, ánh mắt|line of sight|一棵大树挡住了我的视线。|Một cái cây lớn che khuất tầm nhìn của tôi.|A big tree blocked my view.|结果补语
+视野|shìyě|thị dã|tầm nhìn|field of view|读书可以开阔我们的视野。|Đọc sách có thể mở rộng tầm nhìn của chúng ta.|Reading can broaden our horizons.|能愿动词
+是非|shìfēi|thị phi|phải trái; thị phi|right and wrong|孩子应该从小学会明辨是非。|Trẻ nên học cách phân biệt phải trái từ nhỏ.|Children should learn to tell right from wrong from an early age.|能愿动词
+适宜|shìyí|thích nghi|thích hợp|suitable|这里的气候很适宜种植水果。|Khí hậu ở đây rất thích hợp trồng cây ăn quả.|The climate here is well suited to growing fruit.|形容词谓语
+逝世|shìshì|thệ thế|qua đời|to pass away|这位伟大的作家于去年逝世。|Nhà văn vĩ đại này đã qua đời vào năm ngoái.|This great writer passed away last year.|介词短语
+释放|shìfàng|thích phóng|phóng thích, giải phóng|to release|他在监狱里待了五年后被释放了。|Hắn ở tù năm năm rồi được thả.|He was released after five years in prison.|被字句
+收藏|shōucáng|thu tàng|sưu tầm|to collect|爷爷喜欢收藏古代的钱币。|Ông thích sưu tầm tiền xu cổ.|Grandpa likes collecting ancient coins.|陈述句
+收缩|shōusuō|thu súc|co lại, thu hẹp|to shrink|这件毛衣洗了以后收缩了。|Chiếc áo len này giặt xong bị co lại.|This sweater shrank after washing.|时间状语
+收益|shōuyì|thu ích|lợi nhuận, thu nhập|earnings|这项投资带来了很好的收益。|Khoản đầu tư này mang lại lợi nhuận rất tốt.|This investment brought good returns.|了
+收音机|shōuyīnjī|thu âm cơ|máy radio|radio|爷爷每天早上都用收音机听新闻。|Sáng nào ông cũng nghe tin tức bằng radio.|Grandpa listens to the news on the radio every morning.|连动句
+手法|shǒufǎ|thủ pháp|thủ pháp|technique|这位作家的写作手法很独特。|Thủ pháp viết của nhà văn này rất độc đáo.|This writer's technique is very distinctive.|形容词谓语
+手势|shǒushì|thủ thế|cử chỉ tay|gesture|他用手势告诉我不要说话。|Anh ấy dùng tay ra hiệu bảo tôi đừng nói.|He gestured to me not to speak.|连动句
+手艺|shǒuyì|thủ nghệ|tay nghề|craftsmanship|这位老师傅的手艺非常好。|Tay nghề của bác thợ già này rất giỏi.|This old craftsman's workmanship is excellent.|形容词谓语
+守护|shǒuhù|thủ hộ|canh giữ, bảo vệ|to guard|母亲守护在生病的孩子身边。|Người mẹ túc trực bên đứa con bị ốm.|The mother kept watch at her sick child's side.|介词短语
+首饰|shǒushì|thủ sức|đồ trang sức|jewelry|她不喜欢戴太多首饰。|Cô ấy không thích đeo quá nhiều trang sức.|She doesn't like wearing too much jewelry.|陈述句
+首要|shǒuyào|thủ yếu|hàng đầu, quan trọng nhất|primary|我们的首要任务是保证安全。|Nhiệm vụ hàng đầu của chúng ta là đảm bảo an toàn.|Our top priority is ensuring safety.|是字句
+受罪|shòuzuì|thụ tội|chịu khổ|to suffer|这么热的天在外面工作，真是受罪。|Trời nóng thế này mà làm việc ngoài trời, thật là khổ.|Working outside in this heat is torture.|是字句
+授予|shòuyǔ|thụ dữ|trao tặng|to confer|学校授予他“优秀教师”的称号。|Nhà trường trao tặng ông ấy danh hiệu "Giáo viên xuất sắc".|The school conferred on him the title "Outstanding Teacher".|双宾语
+书法|shūfǎ|thư pháp|thư pháp|calligraphy|他从小就开始练习书法。|Từ nhỏ ông ấy đã bắt đầu luyện thư pháp.|He began practicing calligraphy as a child.|介词短语
+书籍|shūjí|thư tịch|sách vở|books|图书馆里有各种各样的书籍。|Trong thư viện có đủ loại sách.|The library has all kinds of books.|存现句
+书记|shūji|thư ký|bí thư|party secretary|他是我们学校的党委书记。|Ông ấy là bí thư đảng ủy trường chúng tôi.|He's the Party secretary of our school.|是字句
+书面|shūmiàn|thư diện|văn bản, bằng văn bản|written|请用书面形式提交你的申请。|Xin nộp đơn của bạn dưới hình thức văn bản.|Please submit your application in writing.|祈使句
+舒畅|shūchàng|thư sướng|thư thái, dễ chịu|carefree|考完试以后，心情特别舒畅。|Thi xong rồi, tâm trạng đặc biệt thư thái.|After the exams, I feel wonderfully relaxed.|时间状语
+疏忽|shūhu|sơ hốt|sơ suất|negligence|由于我的疏忽，文件里出现了错误。|Do sơ suất của tôi, trong tài liệu xuất hiện lỗi.|Due to my oversight, there are errors in the document.|因果
+疏远|shūyuǎn|sơ viễn|xa cách, lạnh nhạt|to become estranged|毕业以后，我们的关系慢慢疏远了。|Sau khi tốt nghiệp, quan hệ của chúng tôi dần xa cách.|After graduation, we slowly drifted apart.|时间状语
+束|shù|thúc|bó (lượng từ); bó buộc|bunch|他送给女朋友一束玫瑰花。|Anh ấy tặng bạn gái một bó hoa hồng.|He gave his girlfriend a bouquet of roses.|双宾语
+束缚|shùfù|thúc phược|trói buộc, ràng buộc|to bind|我们不应该被旧观念束缚。|Chúng ta không nên bị quan niệm cũ trói buộc.|We shouldn't be shackled by old ideas.|被字句
+树立|shùlì|thụ lập|xây dựng, dựng lên|to establish|他为同学们树立了一个好榜样。|Cậu ấy đã làm gương tốt cho các bạn.|He set a good example for his classmates.|介词短语
+竖|shù|thụ|dựng đứng; thẳng đứng|to erect; vertical|大家都竖起大拇指，称赞他做得好。|Mọi người đều giơ ngón cái khen anh ấy làm tốt.|Everyone gave him a thumbs-up for doing well.|连动句
+数额|shù'é|số ngạch|số tiền, mức|amount|这笔贷款的数额很大。|Khoản vay này có số tiền rất lớn.|This loan is for a large amount.|形容词谓语
+耍|shuǎ|sái|chơi; giở (trò)|to play; to play tricks|你别跟我耍花样，我都知道了。|Anh đừng giở trò với tôi, tôi biết hết rồi.|Don't play games with me—I know everything.|祈使句
+衰老|shuāilǎo|suy lão|già yếu|to age|随着年龄的增长，人的身体会慢慢衰老。|Tuổi càng cao, cơ thể con người sẽ dần già yếu.|As people age, their bodies gradually decline.|介词短语
+衰退|shuāituì|suy thoái|suy thoái|to decline|全球经济出现了衰退的迹象。|Kinh tế toàn cầu đã xuất hiện dấu hiệu suy thoái.|The global economy is showing signs of recession.|存现句
+涮火锅|shuàn huǒguō|xoạt hỏa oa|ăn lẩu nhúng|to eat hot pot|冬天我们常常一起涮火锅。|Mùa đông chúng tôi thường cùng nhau ăn lẩu.|In winter we often eat hot pot together.|陈述句
+双胞胎|shuāngbāotāi|song bào thai|sinh đôi|twins|这对双胞胎长得一模一样。|Cặp sinh đôi này trông giống hệt nhau.|These twins look exactly alike.|程度补语
+爽快|shuǎngkuai|sảng khoái|sảng khoái; dứt khoát, thẳng thắn|refreshed; straightforward|他很爽快地答应了我的请求。|Anh ấy rất dứt khoát nhận lời đề nghị của tôi.|He readily agreed to my request.|了
+水利|shuǐlì|thủy lợi|thủy lợi|water conservancy|这项水利工程解决了农田灌溉的问题。|Công trình thủy lợi này đã giải quyết vấn đề tưới tiêu cho ruộng đồng.|This water project solved the farmland irrigation problem.|了
+水龙头|shuǐlóngtóu|thủy long đầu|vòi nước|faucet|洗完手要记得关水龙头。|Rửa tay xong nhớ khóa vòi nước.|Remember to turn off the tap after washing your hands.|时间状语
+水泥|shuǐní|thủy nê|xi măng|cement|工人们正在用水泥修路。|Công nhân đang dùng xi măng làm đường.|The workers are building a road with cement.|进行态
+瞬间|shùnjiān|thuấn gian|khoảnh khắc|instant|灯一灭，房间里瞬间变得一片漆黑。|Đèn vừa tắt, căn phòng lập tức tối om.|The instant the lights went out, the room went pitch-black.|承接
+司法|sīfǎ|tư pháp|tư pháp|judicial|司法部门应该公正地处理案件。|Cơ quan tư pháp nên xử lý vụ án một cách công bằng.|The judiciary should handle cases impartially.|能愿动词
+司令|sīlìng|tư lệnh|tư lệnh|commander|司令命令部队立即出发。|Tư lệnh ra lệnh bộ đội lập tức xuất phát.|The commander ordered the troops to set out at once.|兼语句
+私自|sīzì|tư tự|tự ý|privately, without permission|员工不能私自使用公司的车。|Nhân viên không được tự ý dùng xe của công ty.|Employees may not use company cars without permission.|能愿动词
+思念|sīniàn|tư niệm|nhớ nhung|to miss|在国外的日子里，我非常思念家乡。|Những ngày ở nước ngoài, tôi vô cùng nhớ quê.|During my days abroad, I missed home terribly.|介词短语
+思索|sīsuǒ|tư tác|suy nghĩ, suy ngẫm|to ponder|他思索了很久，才回答我的问题。|Anh ấy suy nghĩ rất lâu mới trả lời câu hỏi của tôi.|He pondered for a long time before answering my question.|时量动量
+思维|sīwéi|tư duy|tư duy|thinking|学习数学可以锻炼人的思维能力。|Học toán có thể rèn luyện năng lực tư duy.|Studying math trains your thinking skills.|能愿动词
+斯文|sīwén|tư văn|nho nhã, lịch sự|refined, gentle|他看起来很斯文，说话也很客气。|Anh ấy trông rất nho nhã, nói năng cũng lịch sự.|He looks refined and speaks politely.|并列
+死亡|sǐwáng|tử vong|tử vong|death|这场车祸没有造成人员死亡。|Vụ tai nạn xe này không gây thương vong về người.|No one died in this car accident.|有字句
+四肢|sìzhī|tứ chi|tứ chi|limbs|运动可以让四肢更加灵活。|Vận động có thể khiến tứ chi linh hoạt hơn.|Exercise keeps your limbs more flexible.|兼语句
+寺庙|sìmiào|tự miếu|chùa chiền|temple|山上有一座一千多年的寺庙。|Trên núi có một ngôi chùa hơn một nghìn năm tuổi.|There's a temple over a thousand years old on the mountain.|存现句
+伺候|cìhou|tý hậu|hầu hạ, chăm sóc|to wait upon|她每天在家伺候生病的婆婆。|Hằng ngày cô ấy ở nhà chăm sóc mẹ chồng bị ốm.|She stays home every day looking after her sick mother-in-law.|介词短语
+饲养|sìyǎng|tự dưỡng|chăn nuôi|to raise|他在农村饲养了很多鸡和鸭。|Ông ấy nuôi rất nhiều gà vịt ở nông thôn.|He raises lots of chickens and ducks in the countryside.|介词短语
+肆无忌惮|sì wú jì dàn|tứ vô kỵ đạn|không kiêng nể gì|unscrupulous|他肆无忌惮地破坏公共财物。|Hắn không kiêng nể gì phá hoại tài sản công.|He brazenly damaged public property.|陈述句
+耸|sǒng|tủng|nhún (vai); cao vút|to shrug; towering|他耸了耸肩，表示不知道。|Anh ấy nhún vai, tỏ ý không biết.|He shrugged to show he didn't know.|连动句
+艘|sōu|tao|chiếc (lượng từ cho tàu thuyền)|measure word for ships|港口停着好几艘大船。|Trong cảng đậu mấy chiếc tàu lớn.|Several large ships are moored in the harbor.|存现句
+苏醒|sūxǐng|tô tỉnh|tỉnh lại|to regain consciousness|经过抢救，病人终于苏醒过来了。|Qua cấp cứu, bệnh nhân cuối cùng đã tỉnh lại.|After emergency treatment, the patient finally came to.|趋向补语
+俗话|súhuà|tục thoại|tục ngữ|proverb|俗话说：“一分钱一分货。”|Tục ngữ có câu: "Tiền nào của nấy."|As the saying goes, "You get what you pay for."|陈述句
+诉讼|sùsòng|tố tụng|tố tụng, kiện|lawsuit|他决定通过诉讼来解决这个问题。|Anh ấy quyết định giải quyết vấn đề này qua con đường kiện tụng.|He decided to resolve the issue through a lawsuit.|介词短语
+素食|sùshí|tố thực|đồ chay, ăn chay|vegetarian food|她是素食主义者，从来不吃肉。|Cô ấy ăn chay trường, chưa bao giờ ăn thịt.|She's a vegetarian and never eats meat.|是字句
+素质|sùzhì|tố chất|tố chất, phẩm chất|quality|提高全民素质是非常重要的。|Nâng cao tố chất toàn dân là vô cùng quan trọng.|Raising the quality of the whole population is very important.|是…的
+塑造|sùzào|tố tạo|tạo dựng, xây dựng (hình tượng)|to shape|这部小说成功地塑造了一个英雄形象。|Cuốn tiểu thuyết này đã xây dựng thành công một hình tượng anh hùng.|This novel successfully creates a heroic figure.|了
+算数|suànshù|toán số|giữ lời; tính số|to count; to keep one's word|说话要算数，不能说了不做。|Nói phải giữ lời, không thể nói mà không làm.|Keep your word—don't say things and not do them.|能愿动词
+随即|suíjí|tùy tức|ngay sau đó|immediately|他接到电话，随即离开了办公室。|Anh ấy nhận điện thoại xong liền rời văn phòng.|He took the call and left the office immediately.|承接
+随意|suíyì|tùy ý|tùy ý|as one likes|请随意，就像在自己家一样。|Xin cứ tự nhiên, như ở nhà mình vậy.|Make yourself at home.|比较句
+岁月|suìyuè|tuế nguyệt|năm tháng|years|岁月在她的脸上留下了痕迹。|Năm tháng đã để lại dấu vết trên gương mặt bà.|The years have left their mark on her face.|介词短语
+隧道|suìdào|toại đạo|đường hầm|tunnel|火车穿过了一条很长的隧道。|Đoàn tàu xuyên qua một đường hầm rất dài.|The train went through a very long tunnel.|趋向补语
+损坏|sǔnhuài|tổn hoại|hư hại, làm hỏng|to damage|损坏公物要赔偿。|Làm hỏng của công phải bồi thường.|If you damage public property, you must pay for it.|假设
+索取|suǒqǔ|tác thủ|đòi hỏi, đòi|to demand|他从不向别人索取什么。|Anh ấy chưa bao giờ đòi hỏi gì ở người khác.|He never asks anything of others.|介词短语
+索性|suǒxìng|tác tính|dứt khoát, đành|might as well|雨太大了，我们索性不去了。|Mưa to quá, chúng tôi dứt khoát không đi nữa.|The rain is so heavy we might as well not go.|了
+塌|tā|tháp|sụp, đổ|to collapse|地震的时候，很多房子都塌了。|Khi động đất, nhiều ngôi nhà đã sụp đổ.|Many houses collapsed during the earthquake.|时间状语
+塔|tǎ|tháp|tháp|tower, pagoda|山顶上有一座古老的塔。|Trên đỉnh núi có một ngọn tháp cổ.|There's an ancient pagoda on the mountaintop.|存现句
+踏实|tāshi|đạp thực|chắc chắn, vững vàng; yên tâm|steady; at ease|他工作很踏实，从来不偷懒。|Anh ấy làm việc rất chắc chắn, chưa bao giờ lười.|He's a steady worker and never slacks off.|形容词谓语
+台风|táifēng|đài phong|bão|typhoon|台风来了，大家尽量别出门。|Bão đến rồi, mọi người cố gắng đừng ra ngoài.|The typhoon is coming—everyone try to stay indoors.|祈使句
+太空|tàikōng|thái không|vũ trụ|outer space|他的梦想是有一天能去太空旅行。|Ước mơ của anh ấy là một ngày nào đó được du hành vũ trụ.|His dream is to travel to space one day.|是字句
+泰斗|tàidǒu|thái đẩu|bậc thầy, người đứng đầu|leading authority|他是中国京剧界的泰斗。|Ông ấy là bậc thầy của giới Kinh kịch Trung Quốc.|He's a leading master of Chinese Peking opera.|是字句
+贪婪|tānlán|tham lam|tham lam|greedy|他贪婪地看着桌上的钱。|Hắn thèm thuồng nhìn số tiền trên bàn.|He stared greedily at the money on the table.|陈述句
+贪污|tānwū|tham ô|tham ô|to embezzle|那个官员因为贪污被判了十年。|Vị quan chức đó bị kết án mười năm vì tham ô.|That official was sentenced to ten years for corruption.|因果
+摊|tān|than|quầy, sạp; bày ra|stall; to spread out|路边有很多卖水果的小摊。|Ven đường có rất nhiều sạp bán trái cây.|There are many fruit stalls by the roadside.|存现句
+瘫痪|tānhuàn|than hoán|bại liệt; tê liệt|paralyzed|大雪使整个城市的交通瘫痪了。|Tuyết lớn làm giao thông cả thành phố tê liệt.|The heavy snow paralyzed traffic across the city.|兼语句
+坦白|tǎnbái|thản bạch|thẳng thắn; thú nhận|frank; to confess|我坦白地告诉你，我不同意这个计划。|Tôi thẳng thắn nói với bạn, tôi không đồng ý kế hoạch này.|I'll be frank: I don't agree with this plan.|双宾语
+叹气|tànqì|thán khí|thở dài|to sigh|听到这个消息，他叹了一口气。|Nghe tin này, anh ấy thở dài một tiếng.|On hearing the news, he let out a sigh.|了
+探测|tàncè|thám trắc|thăm dò|to probe|科学家们用卫星探测月球表面。|Các nhà khoa học dùng vệ tinh thăm dò bề mặt mặt trăng.|Scientists use satellites to survey the moon's surface.|连动句
+探索|tànsuǒ|thám tác|tìm tòi, khám phá|to explore|人类从来没有停止对宇宙的探索。|Loài người chưa bao giờ ngừng khám phá vũ trụ.|Humanity has never stopped exploring the universe.|介词短语
+探讨|tàntǎo|thám thảo|thảo luận, nghiên cứu|to probe into|我们今天来探讨一下这个问题。|Hôm nay chúng ta cùng thảo luận vấn đề này.|Let's explore this question today.|连动句
+探望|tànwàng|thám vọng|thăm hỏi|to visit|我明天要去医院探望生病的同事。|Ngày mai tôi phải đến bệnh viện thăm đồng nghiệp bị ốm.|Tomorrow I'm visiting a sick colleague in the hospital.|连动句
+倘若|tǎngruò|thảng nhược|nếu như|if|倘若明天下雨，比赛就推迟。|Nếu như ngày mai mưa thì trận đấu sẽ hoãn.|If it rains tomorrow, the match will be postponed.|假设
+掏|tāo|đào|móc, lấy ra|to pull out|他从口袋里掏出一张纸条。|Anh ấy móc từ trong túi ra một mảnh giấy.|He pulled a slip of paper out of his pocket.|趋向补语
+滔滔不绝|tāotāo bù jué|thao thao bất tuyệt|thao thao bất tuyệt|to talk nonstop|一说到足球，他就滔滔不绝。|Cứ nói đến bóng đá là anh ấy thao thao bất tuyệt.|Once he starts on football, he never stops talking.|承接
+陶瓷|táocí|đào từ|gốm sứ|ceramics|景德镇的陶瓷在世界上很有名。|Gốm sứ Cảnh Đức Trấn rất nổi tiếng trên thế giới.|Jingdezhen porcelain is world-famous.|介词短语
+陶醉|táozuì|đào túy|say mê, mê say|to be intoxicated (with)|大家都陶醉在美妙的音乐中。|Mọi người đều say mê trong tiếng nhạc tuyệt diệu.|Everyone was enraptured by the beautiful music.|介词短语
+淘汰|táotài|đào thải|đào thải, loại|to eliminate|我们队在第一轮就被淘汰了。|Đội chúng tôi bị loại ngay từ vòng đầu.|Our team was knocked out in the first round.|被字句

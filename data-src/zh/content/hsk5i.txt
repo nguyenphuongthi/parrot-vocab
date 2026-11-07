@@ -1,0 +1,126 @@
+# 词|pinyin|hán việt|nghĩa VI|meaning EN|例句|câu dịch VI|sentence EN|tag
+摘|zhāi|trích|hái, ngắt; tháo (kính, mũ)|to pick; to take off|秋天到了，我们去果园摘苹果吧。|Mùa thu đến rồi, chúng ta đi vườn hái táo nhé.|It's autumn—let's go pick apples at the orchard.|连动句
+窄|zhǎi|trách|hẹp|narrow|这条路太窄了，两辆车过不去。|Con đường này hẹp quá, hai xe không đi qua được.|This road is too narrow for two cars to pass.|可能补语
+粘贴|zhāntiē|niêm thiếp|dán; dán (máy tính)|to paste|先把这段文字复制，然后粘贴到文件里。|Trước tiên sao chép đoạn văn bản này, sau đó dán vào tài liệu.|First copy this text, then paste it into the document.|承接
+展开|zhǎnkāi|triển khai|mở ra; triển khai|to unfold; to launch|警察对这件事展开了调查。|Cảnh sát đã tiến hành điều tra vụ việc này.|The police launched an investigation into the matter.|介词短语
+展览|zhǎnlǎn|triển lãm|triển lãm|exhibition|博物馆正在举办一个古代文化展览。|Bảo tàng đang tổ chức một cuộc triển lãm văn hóa cổ đại.|The museum is holding an exhibition on ancient culture.|进行态
+占|zhàn|chiếm|chiếm|to occupy|女生占我们班人数的一半。|Nữ sinh chiếm một nửa sĩ số lớp chúng tôi.|Girls make up half of our class.|陈述句
+战争|zhànzhēng|chiến tranh|chiến tranh|war|战争给人们带来了巨大的痛苦。|Chiến tranh đã mang đến cho con người những đau khổ to lớn.|War brought people enormous suffering.|双宾语
+长辈|zhǎngbèi|trưởng bối|người bề trên, bậc cha chú|elders|对长辈说话要有礼貌。|Nói chuyện với người lớn tuổi phải lễ phép.|Be polite when speaking to your elders.|介词短语
+长途|chángtú|trường đồ|đường dài|long-distance|坐了十个小时的长途汽车，我累坏了。|Ngồi xe khách đường dài mười tiếng, tôi mệt rã rời.|After ten hours on a long-distance bus, I'm exhausted.|结果补语
+涨|zhǎng|trướng|tăng (giá); dâng (nước)|to rise|最近菜价涨了不少。|Gần đây giá rau tăng không ít.|Vegetable prices have gone up quite a bit recently.|了
+掌握|zhǎngwò|chưởng ác|nắm vững, nắm bắt|to master|学外语最重要的是掌握正确的方法。|Học ngoại ngữ quan trọng nhất là nắm được phương pháp đúng.|The key to learning a foreign language is mastering the right method.|是字句
+账户|zhànghù|trướng hộ|tài khoản|account|请把钱转到我的银行账户上。|Hãy chuyển tiền vào tài khoản ngân hàng của tôi.|Please transfer the money to my bank account.|把字句
+招待|zhāodài|chiêu đãi|chiêu đãi, tiếp đãi|to entertain (guests)|主人热情地招待了我们。|Chủ nhà đã nhiệt tình tiếp đãi chúng tôi.|The host entertained us warmly.|了
+召开|zhàokāi|triệu khai|triệu tập, tổ chức (hội nghị)|to convene|公司下周要召开全体员工大会。|Tuần sau công ty sẽ tổ chức đại hội toàn thể nhân viên.|The company will hold an all-staff meeting next week.|将要
+照常|zhàocháng|chiếu thường|như thường lệ|as usual|即使下雨，比赛也照常进行。|Cho dù trời mưa, trận đấu vẫn diễn ra như thường lệ.|Even if it rains, the match will go ahead as usual.|让步
+哲学|zhéxué|triết học|triết học|philosophy|他大学学的是哲学专业。|Anh ấy học chuyên ngành triết học ở đại học.|He majored in philosophy at university.|是字句
+着火|zháohuǒ|trứ hỏa|bốc cháy|to catch fire|不好了，楼下着火了！|Nguy rồi, tầng dưới bốc cháy!|Oh no, there's a fire downstairs!|感叹句
+着凉|zháoliáng|trứ lương|bị lạnh, cảm lạnh|to catch a chill|晚上睡觉盖好被子，别着凉了。|Tối ngủ đắp chăn cẩn thận, đừng để bị lạnh.|Cover yourself well at night so you don't catch a chill.|祈使句
+针对|zhēnduì|châm đối|nhằm vào, đối với|to target|针对这个问题，我们提出了三个解决办法。|Nhằm vào vấn đề này, chúng tôi đã đưa ra ba cách giải quyết.|To address this problem, we proposed three solutions.|介词短语
+珍惜|zhēnxī|trân tích|trân trọng, quý trọng|to cherish|我们要珍惜现在的幸福生活。|Chúng ta phải trân trọng cuộc sống hạnh phúc hiện tại.|We should cherish the happy life we have now.|能愿动词
+真实|zhēnshí|chân thực|chân thực, thật|true, real|这部电影是根据真实的故事改编的。|Bộ phim này được chuyển thể từ một câu chuyện có thật.|This film is based on a true story.|是…的
+诊断|zhěnduàn|chẩn đoán|chẩn đoán|to diagnose|医生诊断他得了感冒。|Bác sĩ chẩn đoán anh ấy bị cảm.|The doctor diagnosed him with a cold.|陈述句
+阵|zhèn|trận|trận, cơn (lượng từ)|burst, spell|刚才下了一阵大雨。|Vừa nãy có một trận mưa to.|There was a burst of heavy rain just now.|了
+振动|zhèndòng|chấn động|rung, chấn động|to vibrate|开会的时候请把手机调成振动。|Khi họp xin để điện thoại ở chế độ rung.|Please set your phone to vibrate during the meeting.|把字句
+争论|zhēnglùn|tranh luận|tranh luận, tranh cãi|to argue|他们为了一个小问题争论了半天。|Họ tranh cãi cả buổi vì một vấn đề nhỏ.|They argued for ages over a minor issue.|目的
+争取|zhēngqǔ|tranh thủ|cố gắng giành được, phấn đấu|to strive for|我们争取今年完成这个项目。|Chúng tôi phấn đấu hoàn thành dự án này trong năm nay.|We're aiming to complete this project this year.|陈述句
+征求|zhēngqiú|trưng cầu|trưng cầu, hỏi ý kiến|to solicit|做决定以前，他征求了大家的意见。|Trước khi quyết định, anh ấy đã hỏi ý kiến mọi người.|Before deciding, he asked for everyone's opinions.|时间状语
+睁|zhēng|tranh|mở (mắt)|to open (eyes)|他累得连眼睛都睁不开了。|Anh ấy mệt đến mức không mở nổi mắt.|He was so tired he couldn't even keep his eyes open.|强调
+整个|zhěnggè|chỉnh cá|toàn bộ, cả|whole|整个下午他都在图书馆看书。|Cả buổi chiều anh ấy đều ở thư viện đọc sách.|He spent the whole afternoon reading in the library.|介词短语
+整齐|zhěngqí|chỉnh tề|ngay ngắn, gọn gàng|neat|他的房间总是收拾得很整齐。|Phòng anh ấy lúc nào cũng dọn dẹp rất gọn gàng.|His room is always very tidy.|程度补语
+整体|zhěngtǐ|chỉnh thể|tổng thể, toàn thể|whole; overall|从整体上看，这次活动很成功。|Nhìn tổng thể, hoạt động lần này rất thành công.|On the whole, the event was a success.|介词短语
+正|zhèng|chính|đang; ngay, chính; thẳng|just (now); exactly; straight|我正要给你打电话，你就来了。|Tôi đang định gọi điện cho bạn thì bạn đến.|I was just about to call you when you showed up.|承接
+证件|zhèngjiàn|chứng kiện|giấy tờ tùy thân|ID document|进门以前请出示您的证件。|Trước khi vào xin xuất trình giấy tờ tùy thân.|Please show your ID before entering.|时间状语
+证据|zhèngjù|chứng cứ|chứng cứ, bằng chứng|evidence|警察找到了他偷东西的证据。|Cảnh sát đã tìm được bằng chứng anh ta ăn trộm.|The police found evidence that he stole things.|结果补语
+政府|zhèngfǔ|chính phủ|chính phủ|government|政府出台了很多新政策。|Chính phủ đã ban hành nhiều chính sách mới.|The government has issued many new policies.|了
+政治|zhèngzhì|chính trị|chính trị|politics|他对政治不太感兴趣。|Anh ấy không hứng thú lắm với chính trị.|He's not very interested in politics.|介词短语
+挣|zhèng|tránh|kiếm (tiền)|to earn|他每个月挣的钱不多，但是够花。|Tiền anh ấy kiếm mỗi tháng không nhiều nhưng đủ tiêu.|He doesn't earn much each month, but it's enough.|转折
+支|zhī|chi|cây (bút...); chi (lượng từ); chống đỡ|measure word for pens, songs, teams|我借了他一支笔。|Tôi mượn anh ấy một cây bút.|I borrowed a pen from him.|双宾语
+支票|zhīpiào|chi phiếu|séc, chi phiếu|check|现在已经很少有人用支票付款了。|Bây giờ đã rất ít người thanh toán bằng séc.|Very few people pay by check anymore.|有字句
+执照|zhízhào|chấp chiếu|giấy phép, bằng|license|他去年考到了驾驶执照。|Năm ngoái anh ấy đã thi đỗ bằng lái xe.|He got his driver's license last year.|结果补语
+直|zhí|trực|thẳng; thẳng thắn; cứ, mãi|straight; frank; continuously|他冷得直发抖。|Anh ấy lạnh đến run lên bần bật.|He was so cold he kept shivering.|程度补语
+指导|zhǐdǎo|chỉ đạo|chỉ dẫn, hướng dẫn|to guide|在老师的指导下，我完成了毕业论文。|Dưới sự hướng dẫn của thầy, tôi đã hoàn thành luận văn tốt nghiệp.|Under my teacher's guidance, I finished my thesis.|介词短语
+指挥|zhǐhuī|chỉ huy|chỉ huy|to command; conductor|警察正在路口指挥交通。|Cảnh sát đang chỉ huy giao thông ở ngã tư.|A police officer is directing traffic at the intersection.|进行态
+至今|zhìjīn|chí kim|cho đến nay|to this day|这个问题至今还没有解决。|Vấn đề này đến nay vẫn chưa được giải quyết.|This problem still hasn't been solved.|陈述句
+至于|zhìyú|chí vu|còn về; đến nỗi|as for; to go so far as|我先去，至于你去不去，你自己决定吧。|Tôi đi trước, còn bạn có đi hay không thì tự quyết định nhé.|I'm going first—as for whether you go, that's up to you.|吧
+志愿者|zhìyuànzhě|chí nguyện giả|tình nguyện viên|volunteer|很多大学生报名当志愿者。|Rất nhiều sinh viên đăng ký làm tình nguyện viên.|Many university students signed up to be volunteers.|连动句
+制定|zhìdìng|chế định|đặt ra, lập (kế hoạch, luật)|to formulate|我们需要制定一个详细的学习计划。|Chúng ta cần lập một kế hoạch học tập chi tiết.|We need to draw up a detailed study plan.|能愿动词
+制度|zhìdù|chế độ|chế độ, quy chế|system|公司的管理制度非常严格。|Quy chế quản lý của công ty vô cùng nghiêm ngặt.|The company's management system is very strict.|形容词谓语
+制造|zhìzào|chế tạo|chế tạo, sản xuất|to manufacture|这家工厂制造各种电子产品。|Nhà máy này sản xuất đủ loại sản phẩm điện tử.|This factory manufactures all kinds of electronic products.|陈述句
+制作|zhìzuò|chế tác|làm, chế tác|to make|这些小礼物都是孩子们亲手制作的。|Những món quà nhỏ này đều do bọn trẻ tự tay làm.|The children made these little gifts by hand.|是…的
+治疗|zhìliáo|trị liệu|điều trị|to treat|经过一个月的治疗，他的病好了。|Sau một tháng điều trị, bệnh của anh ấy đã khỏi.|After a month of treatment, he recovered.|介词短语
+秩序|zhìxù|trật tự|trật tự|order|请大家遵守秩序，排队上车。|Mời mọi người giữ trật tự, xếp hàng lên xe.|Please keep order and line up to board.|祈使句
+智慧|zhìhuì|trí tuệ|trí tuệ|wisdom|这个故事告诉我们要用智慧解决问题。|Câu chuyện này cho chúng ta biết phải dùng trí tuệ để giải quyết vấn đề.|This story teaches us to solve problems with wisdom.|双宾语
+中介|zhōngjiè|trung giới|môi giới, trung gian|agent, intermediary|我是通过中介租到这套房子的。|Tôi thuê được căn nhà này thông qua môi giới.|I rented this apartment through an agent.|是…的
+中心|zhōngxīn|trung tâm|trung tâm|center|我们家就在市中心，交通很方便。|Nhà chúng tôi ở ngay trung tâm thành phố, giao thông rất tiện.|We live right in the city center, so transport is convenient.|形容词谓语
+中旬|zhōngxún|trung tuần|trung tuần (giữa tháng)|middle of a month|我打算下个月中旬去上海出差。|Tôi dự định giữa tháng sau đi công tác Thượng Hải.|I plan to go to Shanghai on business in the middle of next month.|连动句
+种类|zhǒnglèi|chủng loại|chủng loại, loại|kind, type|超市里水果的种类很多。|Chủng loại trái cây trong siêu thị rất nhiều.|The supermarket has many kinds of fruit.|形容词谓语
+重大|zhòngdà|trọng đại|trọng đại|major|这是一个非常重大的决定。|Đây là một quyết định vô cùng trọng đại.|This is a very important decision.|是字句
+重复|chóngfù|trùng phục|lặp lại|to repeat|请你把刚才的话重复一遍。|Xin bạn nhắc lại lời vừa nói một lượt.|Please repeat what you just said.|把字句
+重量|zhòngliàng|trọng lượng|trọng lượng|weight|行李的重量不能超过二十公斤。|Trọng lượng hành lý không được vượt quá hai mươi cân.|Luggage can't weigh more than twenty kilograms.|能愿动词
+周到|zhōudào|chu đáo|chu đáo|thoughtful|这家酒店的服务非常周到。|Dịch vụ của khách sạn này vô cùng chu đáo.|This hotel's service is very attentive.|形容词谓语
+猪|zhū|trư|con lợn|pig|今年是猪年，你属什么？|Năm nay là năm Hợi, bạn tuổi con gì?|This is the Year of the Pig—what's your zodiac sign?|特指问句
+竹子|zhúzi|trúc tử|cây tre, cây trúc|bamboo|熊猫最喜欢吃竹子。|Gấu trúc thích ăn tre nhất.|Pandas love eating bamboo the most.|陈述句
+逐步|zhúbù|trục bộ|từng bước|step by step|我们的生活水平正在逐步提高。|Mức sống của chúng ta đang từng bước được nâng cao.|Our standard of living is gradually improving.|进行态
+逐渐|zhújiàn|trục tiệm|dần dần|gradually|天气逐渐变冷了。|Thời tiết dần dần trở lạnh.|The weather is gradually getting colder.|了
+主持|zhǔchí|chủ trì|chủ trì; dẫn chương trình|to host, to preside over|这次会议由王经理主持。|Cuộc họp lần này do giám đốc Vương chủ trì.|This meeting is chaired by Manager Wang.|介词短语
+主动|zhǔdòng|chủ động|chủ động|proactive|他总是主动帮助别人。|Anh ấy luôn chủ động giúp đỡ người khác.|He always takes the initiative to help others.|陈述句
+主观|zhǔguān|chủ quan|chủ quan|subjective|这只是你的主观看法，不一定对。|Đây chỉ là cách nhìn chủ quan của bạn, chưa chắc đã đúng.|That's just your subjective view—it's not necessarily right.|是字句
+主人|zhǔrén|chủ nhân|chủ, chủ nhân|owner, host|小狗一看见主人就跑了过去。|Con chó vừa thấy chủ đã chạy tới.|The puppy ran over as soon as it saw its owner.|承接
+主任|zhǔrèn|chủ nhiệm|chủ nhiệm, trưởng (phòng, ban)|director, head|李主任今天不在办公室。|Chủ nhiệm Lý hôm nay không có ở văn phòng.|Director Li isn't in the office today.|陈述句
+主题|zhǔtí|chủ đề|chủ đề|theme|这次晚会的主题是“友谊”。|Chủ đề của buổi dạ hội lần này là "Tình bạn".|The theme of this party is "Friendship".|是字句
+主席|zhǔxí|chủ tịch|chủ tịch|chairman|他被选为学生会主席。|Anh ấy được bầu làm chủ tịch hội sinh viên.|He was elected president of the student union.|被字句
+主张|zhǔzhāng|chủ trương|chủ trương, đề xuất|to advocate; position|我主张大家先讨论，然后再决定。|Tôi đề xuất mọi người thảo luận trước rồi mới quyết định.|I suggest we discuss first and decide afterwards.|承接
+煮|zhǔ|chử|nấu, luộc|to boil|妈妈给我煮了一碗面条。|Mẹ nấu cho tôi một bát mì.|Mom cooked me a bowl of noodles.|介词短语
+注册|zhùcè|chú sách|đăng ký|to register|使用这个网站以前需要先注册。|Trước khi dùng trang web này cần đăng ký trước.|You need to register before using this website.|时间状语
+祝福|zhùfú|chúc phúc|chúc phúc, lời chúc|blessing; to wish well|新年到了，我给大家送上最美好的祝福。|Năm mới đến rồi, tôi gửi đến mọi người những lời chúc tốt đẹp nhất.|The New Year is here, and I send everyone my best wishes.|介词短语
+抓|zhuā|trảo|bắt, tóm; nắm|to grab, to catch|小偷被警察抓住了。|Tên trộm bị cảnh sát tóm được.|The thief was caught by the police.|被字句
+抓紧|zhuājǐn|trảo khẩn|tranh thủ, khẩn trương|to make the most of (time)|考试快到了，大家要抓紧时间复习。|Sắp thi rồi, mọi người phải tranh thủ thời gian ôn tập.|The exam is coming—everyone should make the most of their time to review.|将要
+专家|zhuānjiā|chuyên gia|chuyên gia|expert|医学专家建议大家每天运动半个小时。|Chuyên gia y tế khuyên mọi người mỗi ngày vận động nửa tiếng.|Medical experts recommend exercising half an hour a day.|兼语句
+专心|zhuānxīn|chuyên tâm|chuyên tâm, tập trung|to concentrate|他正在专心地看书，别打扰他。|Anh ấy đang chăm chú đọc sách, đừng làm phiền.|He's absorbed in his book—don't disturb him.|进行态
+转变|zhuǎnbiàn|chuyển biến|chuyển biến, thay đổi|to change|他对这件事的态度发生了很大的转变。|Thái độ của anh ấy với việc này đã có chuyển biến lớn.|His attitude toward this has changed greatly.|存现句
+转告|zhuǎngào|chuyển cáo|nhắn lại, chuyển lời|to pass on (a message)|请你转告他明天的会议取消了。|Nhờ bạn nhắn lại với anh ấy là cuộc họp ngày mai đã hủy.|Please tell him that tomorrow's meeting is canceled.|兼语句
+装|zhuāng|trang|đựng, chứa; lắp; giả vờ|to load; to install; to pretend|箱子里装满了书。|Trong thùng đựng đầy sách.|The box is full of books.|结果补语
+装饰|zhuāngshì|trang sức|trang trí|to decorate|过年的时候，大家都用红色装饰房子。|Dịp Tết, mọi người đều trang trí nhà bằng màu đỏ.|At New Year, everyone decorates their homes in red.|时间状语
+装修|zhuāngxiū|trang tu|sửa sang, trang trí nội thất|to renovate|我们的新房子正在装修。|Nhà mới của chúng tôi đang được sửa sang.|Our new home is being renovated.|进行态
+状况|zhuàngkuàng|trạng huống|tình trạng|condition|他的身体状况越来越好了。|Tình trạng sức khỏe của ông ấy ngày càng tốt lên.|His health is getting better and better.|越…越
+状态|zhuàngtài|trạng thái|trạng thái|state|考试前一定要调整好自己的状态。|Trước khi thi nhất định phải điều chỉnh tốt trạng thái của mình.|Get yourself into good shape before the exam.|能愿动词
+撞|zhuàng|chàng|đâm, va, đụng|to bump into|一辆汽车撞到了路边的树上。|Một chiếc ô tô đâm vào cái cây bên đường.|A car crashed into a tree by the roadside.|结果补语
+追|zhuī|truy|đuổi theo; theo đuổi|to chase|警察追了半天，终于抓住了小偷。|Cảnh sát đuổi theo cả buổi, cuối cùng đã tóm được tên trộm.|After a long chase, the police finally caught the thief.|承接
+追求|zhuīqiú|truy cầu|theo đuổi|to pursue|每个人都有追求幸福的权利。|Mỗi người đều có quyền theo đuổi hạnh phúc.|Everyone has the right to pursue happiness.|有字句
+咨询|zīxún|tư tuân|tư vấn, hỏi ý kiến|to consult|有问题可以打电话向我们咨询。|Có vấn đề gì có thể gọi điện hỏi chúng tôi.|If you have questions, call us for advice.|介词短语
+姿势|zīshì|tư thế|tư thế|posture|看书的时候要注意坐的姿势。|Khi đọc sách phải chú ý tư thế ngồi.|Pay attention to your sitting posture when reading.|时间状语
+资格|zīgé|tư cách|tư cách, điều kiện|qualification|他没有资格参加这次比赛。|Anh ấy không đủ tư cách tham gia cuộc thi lần này.|He isn't eligible for this competition.|有字句
+资金|zījīn|tư kim|vốn, tiền vốn|funds|开公司需要大量的资金。|Mở công ty cần một lượng vốn lớn.|Starting a company requires a lot of capital.|能愿动词
+资料|zīliào|tư liệu|tư liệu, tài liệu|materials, data|我在图书馆查了很多资料。|Tôi đã tra rất nhiều tài liệu ở thư viện.|I looked up a lot of material in the library.|介词短语
+资源|zīyuán|tư nguyên|tài nguyên|resource|我们要合理利用自然资源。|Chúng ta phải sử dụng tài nguyên thiên nhiên một cách hợp lý.|We must use natural resources rationally.|能愿动词
+紫|zǐ|tử|màu tím|purple|她最喜欢紫色的衣服。|Cô ấy thích nhất quần áo màu tím.|She likes purple clothes best.|陈述句
+自从|zìcóng|tự tòng|từ khi|since|自从学了太极拳，他的身体好多了。|Từ khi tập thái cực quyền, sức khỏe ông ấy tốt lên nhiều.|Since he took up tai chi, his health has improved a lot.|时间状语
+自动|zìdòng|tự động|tự động|automatic|这个门是自动的，你走过去它就开了。|Cửa này là cửa tự động, bạn đi tới là nó mở.|This door is automatic—it opens when you walk up to it.|承接
+自豪|zìháo|tự hào|tự hào|proud|我为我的国家感到自豪。|Tôi cảm thấy tự hào về đất nước mình.|I'm proud of my country.|介词短语
+自觉|zìjué|tự giác|tự giác|conscious; voluntarily|他每天都很自觉地完成作业。|Ngày nào cậu ấy cũng tự giác hoàn thành bài tập.|He completes his homework conscientiously every day.|陈述句
+自私|zìsī|tự tư|ích kỷ|selfish|他太自私了，从来不考虑别人。|Anh ta ích kỷ quá, chưa bao giờ nghĩ cho người khác.|He's so selfish he never thinks of others.|形容词谓语
+自由|zìyóu|tự do|tự do|freedom; free|大学生活比中学自由多了。|Cuộc sống đại học tự do hơn trung học nhiều.|University life is much freer than high school.|比较句
+自愿|zìyuàn|tự nguyện|tự nguyện|voluntary|参加这个活动完全是自愿的。|Tham gia hoạt động này hoàn toàn là tự nguyện.|Participation in this activity is entirely voluntary.|是…的
+字母|zìmǔ|tự mẫu|chữ cái|letter (of alphabet)|英语有二十六个字母。|Tiếng Anh có hai mươi sáu chữ cái.|English has twenty-six letters.|有字句
+字幕|zìmù|tự mạc|phụ đề|subtitles|看中文电影的时候，我喜欢看中文字幕。|Khi xem phim Trung Quốc, tôi thích xem phụ đề tiếng Trung.|When watching Chinese films, I like to watch with Chinese subtitles.|时间状语
+综合|zōnghé|tổng hợp|tổng hợp|comprehensive|我们要综合考虑各方面的因素。|Chúng ta phải cân nhắc tổng hợp các yếu tố về mọi mặt.|We need to consider all factors comprehensively.|能愿动词
+总裁|zǒngcái|tổng tài|tổng giám đốc|CEO, president|他三十岁就当上了公司的总裁。|Ba mươi tuổi anh ấy đã trở thành tổng giám đốc công ty.|He became the company's CEO at thirty.|结果补语
+总共|zǒnggòng|tổng cộng|tổng cộng|in total|这次旅行总共花了五千块钱。|Chuyến du lịch này tổng cộng tốn năm nghìn đồng.|This trip cost five thousand yuan in total.|了
+总理|zǒnglǐ|tổng lý|thủ tướng|premier|总理参观了这家工厂。|Thủ tướng đã đến thăm nhà máy này.|The premier visited this factory.|了
+总算|zǒngsuàn|tổng toán|cuối cùng cũng|at long last|等了两个小时，他总算来了。|Đợi hai tiếng đồng hồ, cuối cùng anh ấy cũng đến.|After waiting two hours, he finally showed up.|时量动量
+总统|zǒngtǒng|tổng thống|tổng thống|president (of a country)|他在二十年前当选为总统。|Ông ấy đắc cử tổng thống hai mươi năm trước.|He was elected president twenty years ago.|介词短语
+总之|zǒngzhī|tổng chi|tóm lại|in short|总之，这次旅行非常愉快。|Tóm lại, chuyến du lịch lần này vô cùng vui vẻ.|In short, the trip was very enjoyable.|形容词谓语
+阻止|zǔzhǐ|trở chỉ|ngăn cản|to stop, to prevent|他决定了的事，谁也阻止不了。|Việc anh ấy đã quyết thì không ai ngăn cản được.|Once he's made up his mind, nobody can stop him.|可能补语
+组|zǔ|tổ|tổ, nhóm|group|老师把我们分成了四个组。|Thầy giáo chia chúng tôi thành bốn nhóm.|The teacher divided us into four groups.|把字句
+组成|zǔchéng|tổ thành|tạo thành, hợp thành|to make up|我们的团队由五个人组成。|Đội của chúng tôi gồm năm người.|Our team is made up of five people.|介词短语
+组合|zǔhé|tổ hợp|kết hợp, tổ hợp|to combine; combination|这两种颜色组合在一起很好看。|Hai màu này kết hợp với nhau rất đẹp.|These two colors look great together.|介词短语
+组织|zǔzhī|tổ chức|tổ chức|to organize; organization|学校组织我们去参观博物馆。|Nhà trường tổ chức cho chúng tôi đi tham quan bảo tàng.|The school organized a trip for us to visit the museum.|兼语句
+最初|zuìchū|tối sơ|lúc đầu, ban đầu|initially|最初我不太习惯这里的生活，后来慢慢习惯了。|Ban đầu tôi không quen lắm cuộc sống ở đây, về sau dần dần quen.|At first I wasn't used to life here, but gradually I adapted.|转折
+醉|zuì|túy|say (rượu)|drunk|他喝醉了，你送他回家吧。|Anh ấy say rồi, bạn đưa anh ấy về nhà đi.|He's drunk—take him home.|结果补语
+尊敬|zūnjìng|tôn kính|tôn kính, kính trọng|to respect|尊敬的各位来宾，欢迎你们！|Kính thưa quý vị khách quý, chào mừng các vị!|Distinguished guests, welcome!|感叹句
+遵守|zūnshǒu|tuân thủ|tuân thủ|to abide by|开车一定要遵守交通规则。|Lái xe nhất định phải tuân thủ luật giao thông.|You must obey traffic rules when driving.|能愿动词
+作品|zuòpǐn|tác phẩm|tác phẩm|work (of art)|这是他最有名的一部作品。|Đây là tác phẩm nổi tiếng nhất của ông ấy.|This is his most famous work.|是字句
+作为|zuòwéi|tác vi|với tư cách là; coi như|as|作为学生，我们的主要任务是学习。|Là học sinh, nhiệm vụ chính của chúng ta là học tập.|As students, our main task is to study.|介词短语
+作文|zuòwén|tác văn|bài văn, tập làm văn|essay, composition|老师让我们写一篇关于家乡的作文。|Thầy giáo bảo chúng tôi viết một bài văn về quê hương.|The teacher asked us to write an essay about our hometown.|兼语句

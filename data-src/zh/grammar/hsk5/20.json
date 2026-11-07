@@ -1,0 +1,997 @@
+{
+  "n": 20,
+  "zh": "小人书摊",
+  "vi": "Quầy truyện tranh",
+  "en": "The picture-book stall",
+  "texts": [
+    {
+      "title": "小人书摊",
+      "paras": [
+        {
+          "zh": "小人书，是一种以书的形式出版的连环画。在二十世纪五六十年代，那时候生活很单调，没有网络，没有动画片，读小人书是儿童最主要的娱乐之一。不仅小孩子爱看，还有无数的青少年和大人也爱看。",
+          "vi": "Tiểu nhân thư là một loại truyện tranh liên hoàn được xuất bản dưới dạng sách. Vào những năm 50, 60 của thế kỷ 20, cuộc sống khi đó rất đơn điệu, không có mạng Internet, không có phim hoạt hình, đọc tiểu nhân thư là một trong những thú tiêu khiển chủ yếu nhất của trẻ em. Không chỉ trẻ nhỏ thích xem, mà vô số thanh thiếu niên và người lớn cũng thích xem.",
+          "en": "Xiaorenshu (“little people's books”) are picture-story comics published in book form. In the 1950s and '60s life was monotonous: there was no internet and no cartoons, and reading these little picture books was one of children's main forms of entertainment. Not only children loved them; countless teenagers and adults did too."
+        },
+        {
+          "zh": "随着小人书的流行，出现了从事租书业务的小人书摊，这对于那些想看又买不起书的人来说，只用很少的钱就能看一本，毫无疑问是件大好事。",
+          "vi": "Cùng với sự thịnh hành của tiểu nhân thư, đã xuất hiện những quầy tiểu nhân thư chuyên cho thuê sách. Đối với những người muốn đọc mà không mua nổi sách, chỉ cần bỏ ra rất ít tiền là có thể đọc được một cuốn, không nghi ngờ gì đây là một chuyện vô cùng tốt.",
+          "en": "As the picture books grew popular, stalls appeared that rented them out. For people who wanted to read but couldn't afford to buy books, being able to read one for very little money was without doubt a great thing."
+        },
+        {
+          "zh": "记得小时候{hou}，我家附近就有个小人书摊，就是一进街口靠墙的一个小棚子{zi}，里面用几块砖头支着{zhe}粗糙的木头板子{zi}供{gōng}人们坐着{zhe}看书。棚子{zi}里有一张床板摆着{zhe}各种题材的小人书，墙边还拉了几根绳子，一本本书翻开搭在上面，五颜六色的，很好看。为了减少损坏程度，每本小人书都用牛皮纸加了层封皮，封皮上用毛笔写上书名，整齐漂亮的毛笔字能充分地{de}显示出书摊主人的文化水平。摊主是位上了年纪、身材瘦小的老人，总是穿着{zhe}一件灰色长衫，静静地{de}坐在一边，陪着{zhe}看书的人们。",
+          "vi": "Nhớ hồi nhỏ, gần nhà tôi có một quầy tiểu nhân thư, đó là một cái lều nhỏ dựa vào tường ngay đầu phố, bên trong dùng mấy viên gạch kê những tấm ván gỗ thô ráp cho mọi người ngồi đọc sách. Trong lều có một tấm phản bày đủ loại tiểu nhân thư với các đề tài khác nhau, cạnh tường còn căng mấy sợi dây, từng cuốn sách mở ra vắt lên trên, đủ màu sắc sặc sỡ, rất đẹp mắt. Để giảm mức độ hư hỏng, mỗi cuốn tiểu nhân thư đều được bọc thêm một lớp bìa bằng giấy da bò, trên bìa dùng bút lông viết tên sách, những nét chữ bút lông ngay ngắn đẹp đẽ thể hiện rõ trình độ văn hóa của chủ quầy. Chủ quầy là một cụ già đã có tuổi, dáng người gầy nhỏ, lúc nào cũng mặc một chiếc áo dài màu xám, lặng lẽ ngồi một bên, ở bên cạnh những người đọc sách.",
+          "en": "I remember that when I was little there was a picture-book stall near our home: a small shed against the wall just inside the end of the street, where a few bricks propped up rough wooden boards for people to sit on and read. In the shed, a bed board was laid out with picture books on all kinds of subjects, and several strings were stretched along the wall with open books hung over them, colourful and lovely to look at. To reduce wear and tear, every book had an extra cover of brown kraft paper, with the title written on it in brush calligraphy; the neat, beautiful characters showed just how cultured the owner was. The owner was an elderly man, thin and small, who always wore a long grey gown and sat quietly to one side, keeping the readers company."
+        },
+        {
+          "zh": "在这里看书的人大部分是附近住户的孩子，也有一些喜欢小人书的成人。租借小人书很便宜，在摊里看，每册1分钱，选好书坐下就看，看完连书带钱交给摊主；假如借走回家看，则每本每天2分钱，挑好书后交给摊主，摊主仔细地{de}将租书人的姓名、地址和所借小人书的书名登记在本子上，收了租金就可以拿走了，第二天还{huán}书时再把记录一个一个地{de}画掉，还{huán}书手续就算是办理好了。印象中似乎没有什么押金，全凭信用。我每天放学回家总要经过这家书摊，都要进去看看。",
+          "vi": "Những người đọc sách ở đây phần lớn là con cái của các hộ dân gần đó, cũng có một số người lớn thích tiểu nhân thư. Thuê tiểu nhân thư rất rẻ: đọc tại quầy thì mỗi cuốn 1 xu, chọn sách xong ngồi xuống đọc luôn, đọc xong đưa cả sách lẫn tiền cho chủ quầy; nếu mượn mang về nhà đọc thì mỗi cuốn mỗi ngày 2 xu, chọn sách xong đưa cho chủ quầy, chủ quầy cẩn thận ghi tên, địa chỉ của người thuê và tên những cuốn sách đã mượn vào sổ, nhận tiền thuê xong là có thể mang đi, hôm sau trả sách thì gạch từng dòng ghi chép đi là thủ tục trả sách coi như xong. Trong ấn tượng của tôi, hình như không cần tiền đặt cọc gì cả, hoàn toàn dựa vào chữ tín. Hằng ngày tan học về nhà tôi đều đi ngang qua quầy sách này, lần nào cũng phải vào xem.",
+          "en": "Most of the readers were children from nearby households, along with some adults who liked picture books. Renting them was cheap: reading at the stall cost 1 fen a book — you picked one, sat down and read it, then handed the book and the money to the owner. If you took one home, it was 2 fen a book per day: you gave the books you'd chosen to the owner, who carefully wrote the borrower's name and address and the titles in a notebook; once he'd taken the fee you could take them away. When you returned them the next day, he crossed the entries out one by one and that was the return done. As I remember, there was no deposit at all; it all relied on trust. I passed that stall every day on my way home from school, and I always went in to have a look."
+        },
+        {
+          "zh": "然而，这种影响了数{shù}代人的小人书，如今只能在北京的潘家园、护国寺等地的旧书摊上找到，一些印刷精美、有特色的作品则身价大涨，成了收藏品，甚至进了博物馆。小人书和小人书摊已成为历史的记忆。",
+          "vi": "Thế nhưng, loại tiểu nhân thư từng ảnh hưởng đến mấy thế hệ này, ngày nay chỉ có thể tìm thấy ở các sạp sách cũ tại Phan Gia Viên, Hộ Quốc Tự… ở Bắc Kinh, một số tác phẩm in ấn tinh xảo, có nét đặc sắc thì giá trị tăng vọt, trở thành đồ sưu tầm, thậm chí còn vào cả viện bảo tàng. Tiểu nhân thư và quầy tiểu nhân thư đã trở thành ký ức của lịch sử.",
+          "en": "Yet these picture books, which influenced several generations, can now only be found at second-hand book stalls in places like Panjiayuan and Huguosi in Beijing. Some finely printed, distinctive editions have soared in value and become collectors' items, and some have even ended up in museums. The picture books and their stalls have become a memory of history."
+        }
+      ],
+      "source": "改编自《中国电视报》，作者：俞万林",
+      "words": [
+        {
+          "zh": "摊",
+          "py": "tān",
+          "pos": "dt.",
+          "vi": "quầy, sạp",
+          "en": "stall",
+          "x": true
+        },
+        {
+          "zh": "出版",
+          "py": "chūbǎn",
+          "pos": "đgt.",
+          "vi": "xuất bản",
+          "en": "to publish"
+        },
+        {
+          "zh": "连环画",
+          "py": "liánhuánhuà",
+          "pos": "dt.",
+          "vi": "truyện tranh liên hoàn",
+          "en": "picture-story book, comic",
+          "x": true
+        },
+        {
+          "zh": "年代",
+          "py": "niándài",
+          "pos": "dt.",
+          "vi": "thập kỷ; thời đại",
+          "en": "decade; era"
+        },
+        {
+          "zh": "单调",
+          "py": "dāndiào",
+          "pos": "tt.",
+          "vi": "đơn điệu, nhàm chán",
+          "en": "monotonous, dull"
+        },
+        {
+          "zh": "网络",
+          "py": "wǎngluò",
+          "pos": "dt.",
+          "vi": "mạng (Internet)",
+          "en": "network, the internet"
+        },
+        {
+          "zh": "动画片",
+          "py": "dònghuàpiàn",
+          "pos": "dt.",
+          "vi": "phim hoạt hình",
+          "en": "cartoon"
+        },
+        {
+          "zh": "娱乐",
+          "py": "yúlè",
+          "pos": "dt./đgt.",
+          "vi": "thú tiêu khiển; giải trí",
+          "en": "entertainment; to entertain"
+        },
+        {
+          "zh": "无数",
+          "py": "wúshù",
+          "pos": "tt.",
+          "vi": "vô số",
+          "en": "countless"
+        },
+        {
+          "zh": "青少年",
+          "py": "qīng-shàonián",
+          "pos": "dt.",
+          "vi": "thanh thiếu niên",
+          "en": "teenagers, young people"
+        },
+        {
+          "zh": "从事",
+          "py": "cóngshì",
+          "pos": "đgt.",
+          "vi": "làm, tham gia (một nghề, công việc)",
+          "en": "to be engaged in, to work in"
+        },
+        {
+          "zh": "毫无",
+          "py": "háowú",
+          "vi": "không chút, không hề",
+          "en": "not in the least, without any",
+          "x": true
+        },
+        {
+          "zh": "疑问",
+          "py": "yíwèn",
+          "pos": "dt.",
+          "vi": "sự nghi ngờ, điều thắc mắc",
+          "en": "doubt, question"
+        },
+        {
+          "zh": "棚子",
+          "py": "péngzi",
+          "pos": "dt.",
+          "vi": "lều, chuồng",
+          "en": "shed, shack",
+          "x": true
+        },
+        {
+          "zh": "砖头",
+          "py": "zhuāntóu",
+          "pos": "dt.",
+          "vi": "gạch",
+          "en": "brick",
+          "x": true
+        },
+        {
+          "zh": "支",
+          "py": "zhī",
+          "pos": "đgt.",
+          "vi": "chống, đỡ",
+          "en": "to prop up, to support"
+        },
+        {
+          "zh": "粗糙",
+          "py": "cūcāo",
+          "pos": "tt.",
+          "vi": "sần sùi, thô, gồ ghề",
+          "en": "rough, coarse"
+        },
+        {
+          "zh": "木头",
+          "py": "mùtou",
+          "pos": "dt.",
+          "vi": "gỗ",
+          "en": "wood"
+        },
+        {
+          "zh": "题材",
+          "py": "tícái",
+          "pos": "dt.",
+          "vi": "đề tài, chủ đề",
+          "en": "subject matter, theme",
+          "x": true
+        },
+        {
+          "zh": "翻",
+          "py": "fān",
+          "pos": "đgt.",
+          "vi": "lật, giở",
+          "en": "to turn over, to leaf through"
+        },
+        {
+          "zh": "搭",
+          "py": "dā",
+          "pos": "đgt.",
+          "vi": "vắt, mắc",
+          "en": "to hang over, to drape",
+          "x": true
+        },
+        {
+          "zh": "整齐",
+          "py": "zhěngqí",
+          "pos": "tt.",
+          "vi": "ngay ngắn, đều đặn, ngăn nắp",
+          "en": "neat, tidy, orderly"
+        },
+        {
+          "zh": "年纪",
+          "py": "niánjì",
+          "pos": "dt.",
+          "vi": "tuổi",
+          "en": "age"
+        },
+        {
+          "zh": "身材",
+          "py": "shēncái",
+          "pos": "dt.",
+          "vi": "vóc dáng, dáng người",
+          "en": "figure, build"
+        },
+        {
+          "zh": "成人",
+          "py": "chéngrén",
+          "pos": "dt.",
+          "vi": "người lớn",
+          "en": "adult"
+        },
+        {
+          "zh": "册",
+          "py": "cè",
+          "pos": "lượng.",
+          "vi": "cuốn, quyển, tập",
+          "en": "(measure word for books) volume, copy"
+        },
+        {
+          "zh": "假如",
+          "py": "jiǎrú",
+          "pos": "liên.",
+          "vi": "nếu",
+          "en": "if"
+        },
+        {
+          "zh": "登记",
+          "py": "dēngjì",
+          "pos": "đgt.",
+          "vi": "đăng ký, ghi vào sổ",
+          "en": "to register, to log"
+        },
+        {
+          "zh": "记录",
+          "py": "jìlù",
+          "pos": "dt./đgt.",
+          "vi": "biên bản, lời ghi; ghi chép",
+          "en": "record, notes; to record"
+        },
+        {
+          "zh": "手续",
+          "py": "shǒuxù",
+          "pos": "dt.",
+          "vi": "thủ tục",
+          "en": "procedure, formalities"
+        },
+        {
+          "zh": "办理",
+          "py": "bànlǐ",
+          "pos": "đgt.",
+          "vi": "giải quyết, làm (thủ tục)",
+          "en": "to handle, to go through (procedures)"
+        },
+        {
+          "zh": "押金",
+          "py": "yājīn",
+          "pos": "dt.",
+          "vi": "tiền thế chấp, tiền đặt cọc",
+          "en": "deposit"
+        },
+        {
+          "zh": "凭",
+          "py": "píng",
+          "pos": "đgt./giới.",
+          "vi": "dựa vào; căn cứ vào",
+          "en": "to rely on; based on"
+        },
+        {
+          "zh": "印刷",
+          "py": "yìnshuā",
+          "pos": "đgt.",
+          "vi": "in (sách, báo…)",
+          "en": "to print"
+        },
+        {
+          "zh": "涨",
+          "py": "zhǎng",
+          "pos": "đgt.",
+          "vi": "lên cao, tăng",
+          "en": "to rise (of prices, water)"
+        },
+        {
+          "zh": "收藏",
+          "py": "shōucáng",
+          "pos": "đgt.",
+          "vi": "sưu tầm, thu thập",
+          "en": "to collect",
+          "x": true
+        }
+      ],
+      "names": [
+        {
+          "zh": "潘家园",
+          "py": "Pānjiāyuán",
+          "vi": "Phan Gia Viên (khu chợ đồ cổ nổi tiếng ở Bắc Kinh)",
+          "en": "Panjiayuan (a famous antiques market in Beijing)"
+        },
+        {
+          "zh": "护国寺",
+          "py": "Hùguósì",
+          "vi": "Hộ Quốc Tự (một con phố thương mại ở Bắc Kinh)",
+          "en": "Huguosi (a shopping street in Beijing)"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "动词+得/不+起",
+      "py": "dòngcí + de/bu + qǐ",
+      "uses": [
+        {
+          "vi": "Biểu thị về mặt chủ quan có (hoặc không có) năng lực và điều kiện để thực hiện (hoặc chịu đựng) một động tác nào đó (nổi / không nổi).",
+          "en": "Shows that one does (or doesn't) have the ability or means to do (or to bear) something (can / can't afford to, can / can't stand).",
+          "ex": [
+            {
+              "zh": "……这对于那些想看又买【不起】书的人来说，……毫无疑问是件大好事。",
+              "vi": "… đối với những người muốn đọc mà không mua nổi sách, … không nghi ngờ gì đây là một chuyện vô cùng tốt.",
+              "en": "… for people who wanted to read but couldn't afford books, … it was without doubt a great thing."
+            },
+            {
+              "zh": "古时候，有个十分好{hào}学的年轻人，但他家里很穷，买【不起】灯，一到晚上就不能读书。",
+              "vi": "Thời xưa có một chàng trai rất ham học, nhưng nhà anh ta rất nghèo, không mua nổi đèn, cứ đến tối là không thể đọc sách.",
+              "en": "Long ago there was a young man who loved learning, but his family was so poor they couldn't afford a lamp, so he couldn't read once night fell."
+            },
+            {
+              "zh": "只有经【得起】困难和时间考验的朋友才算是真正的朋友。",
+              "vi": "Chỉ những người bạn chịu được thử thách của khó khăn và thời gian mới được coi là bạn thật sự.",
+              "en": "Only friends who can stand the test of hardship and time are true friends."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "A：寒假去旅游，我们是坐火车还是坐飞机呢？\nB：____。",
+            "hint": "动词+得/不+起",
+            "a": "A：寒假去旅游，我们是坐火车还是坐飞机呢？\nB：【坐火车吧，飞机票太贵了，我们坐不起】。",
+            "vi": "A: Kỳ nghỉ đông đi du lịch, chúng ta đi tàu hỏa hay đi máy bay?\nB: Đi tàu hỏa đi, vé máy bay đắt quá, chúng ta không đi nổi đâu.",
+            "en": "A: For our winter-holiday trip, shall we go by train or by plane?\nB: Let's take the train. Plane tickets are too expensive; we can't afford to fly.",
+            "sample": true
+          },
+          {
+            "q": "我们应该降低价格，____。",
+            "hint": "动词+得/不+起",
+            "a": "我们应该降低价格，【让普通老百姓也买得起】。",
+            "vi": "Chúng ta nên hạ giá, để người dân bình thường cũng mua nổi.",
+            "en": "We should lower the price so that ordinary people can afford it too.",
+            "sample": true
+          },
+          {
+            "q": "A：你们这种新产品的质量怎么样？\nB：____。",
+            "hint": "动词+得/不+起",
+            "a": "A：你们这种新产品的质量怎么样？\nB：【您放心，我们的产品经得起考验】。",
+            "vi": "A: Chất lượng loại sản phẩm mới này của các anh thế nào?\nB: Anh cứ yên tâm, sản phẩm của chúng tôi chịu được thử thách.",
+            "en": "A: How's the quality of your new product?\nB: Don't worry, our product can stand up to any test.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "支",
+      "uses": [
+        {
+          "vi": "支 là động từ, biểu thị dùng một vật chống đỡ để vật khác không rơi xuống (chống, đỡ, kê).",
+          "en": "支 as a verb means to prop something up so it doesn't fall (to prop up, to support).",
+          "ex": [
+            {
+              "zh": "他的两只手放在桌上，【支】着{zhe}脑袋，正在想事情。",
+              "vi": "Anh ấy đặt hai tay lên bàn, chống cằm, đang suy nghĩ chuyện gì đó.",
+              "en": "He had both hands on the table, propping up his head, deep in thought."
+            },
+            {
+              "zh": "……我家附近就有个小人书摊，就是一进街口靠墙的一个小棚子{zi}，里面用几块砖头【支】着{zhe}粗糙的木头板子{zi}供{gōng}人们坐着{zhe}看书。",
+              "vi": "… gần nhà tôi có một quầy tiểu nhân thư, đó là một cái lều nhỏ dựa vào tường ngay đầu phố, bên trong dùng mấy viên gạch kê những tấm ván gỗ thô ráp cho mọi người ngồi đọc sách.",
+              "en": "… there was a picture-book stall near our home: a small shed against the wall at the end of the street, where a few bricks propped up rough wooden boards for people to sit on and read."
+            }
+          ]
+        },
+        {
+          "vi": "支 cũng có thể làm lượng từ, dùng cho tác phẩm âm nhạc, đội ngũ hoặc vật có hình que (bài, đội, cây, cái).",
+          "en": "支 can also be a measure word for pieces of music, teams or troops, and long thin objects.",
+          "ex": [
+            {
+              "zh": "他弹第二【支】曲子时引起了牛的注意。",
+              "vi": "Khi anh ấy đàn đến bản nhạc thứ hai thì đã thu hút sự chú ý của con bò.",
+              "en": "When he played the second tune, he caught the cow's attention."
+            },
+            {
+              "zh": "给他十【支】枪，他就能拉起一【支】军队来。",
+              "vi": "Cho anh ta mười khẩu súng, anh ta có thể lập nên cả một đội quân.",
+              "en": "Give him ten guns and he could raise an army."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "快，这张桌子坏了，____。",
+            "hint": "支（动词）",
+            "a": "快，这张桌子坏了，【找根木头把它支起来】。",
+            "vi": "Nhanh lên, cái bàn này hỏng rồi, tìm một khúc gỗ chống nó lên.",
+            "en": "Quick, this table's broken. Find a piece of wood to prop it up.",
+            "sample": true
+          },
+          {
+            "q": "A：这是什么曲子啊？这么好听。\nB：____。",
+            "hint": "支（量词）",
+            "a": "A：这是什么曲子啊？这么好听。\nB：【这是我最喜欢的一支钢琴曲】。",
+            "vi": "A: Đây là bản nhạc gì vậy? Hay quá.\nB: Đây là bản nhạc piano tôi thích nhất.",
+            "en": "A: What's this tune? It's lovely.\nB: It's my favourite piano piece.",
+            "sample": true
+          },
+          {
+            "q": "A：____。\nB：是吗？那我就买这个吧。",
+            "hint": "支（量词）",
+            "a": "A：【这支笔写起来又快又清楚，很好用】。\nB：是吗？那我就买这个吧。",
+            "vi": "A: Cây bút này viết vừa trơn vừa rõ, dùng rất tốt.\nB: Vậy à? Thế tôi mua cây này.",
+            "en": "A: This pen writes smoothly and clearly; it's really good.\nB: Really? Then I'll buy this one.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "凭",
+      "uses": [
+        {
+          "vi": "凭 là động từ, có nghĩa là dựa vào.",
+          "en": "凭 as a verb means to rely on.",
+          "ex": [
+            {
+              "zh": "干{gàn}工作不能光【凭】经验，还要有创新。",
+              "vi": "Làm việc không thể chỉ dựa vào kinh nghiệm, mà còn phải có sự đổi mới.",
+              "en": "You can't rely on experience alone at work; you also need to innovate."
+            },
+            {
+              "zh": "印象中似乎没有什么押金，全【凭】信用。",
+              "vi": "Trong ấn tượng của tôi, hình như không cần tiền đặt cọc gì cả, hoàn toàn dựa vào chữ tín.",
+              "en": "As I remember, there was no deposit at all; it all relied on trust."
+            }
+          ]
+        },
+        {
+          "vi": "凭 còn có thể làm giới từ, cấu trúc thường dùng là “凭 + tân ngữ + động từ”, biểu thị căn cứ vào, dựa vào.",
+          "en": "凭 can also be a preposition, usually in the pattern “凭 + object + verb”, meaning on the basis of, by means of.",
+          "ex": [
+            {
+              "zh": "请旅客们准备好车票，【凭】票进站。",
+              "vi": "Mời quý khách chuẩn bị sẵn vé, xuất trình vé để vào ga.",
+              "en": "Passengers, please have your tickets ready; entry to the station is by ticket only."
+            },
+            {
+              "zh": "你【凭】什么怀疑我偷了东西？",
+              "vi": "Anh dựa vào đâu mà nghi ngờ tôi ăn cắp đồ?",
+              "en": "What grounds do you have to suspect me of stealing?"
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话",
+        "items": [
+          {
+            "q": "A：你以前去过吗？你是怎么找到那个房子的？\nB：____。",
+            "hint": "凭",
+            "a": "A：你以前去过吗？你是怎么找到那个房子的？\nB：【没去过，我是凭着{zhe}一张地图找到的】。",
+            "vi": "A: Trước đây bạn đã đến đó chưa? Bạn tìm ra ngôi nhà đó bằng cách nào?\nB: Chưa đến bao giờ, tôi dựa vào một tấm bản đồ mà tìm ra.",
+            "en": "A: Had you been there before? How did you find the house?\nB: No, I hadn't. I found it with just a map.",
+            "sample": true
+          },
+          {
+            "q": "A：我以前见过他跟别人吵架，所以我对他印象不太好。\nB：____。",
+            "hint": "凭",
+            "a": "A：我以前见过他跟别人吵架，所以我对他印象不太好。\nB：【你不能只凭一件事就判断一个人的好坏】。",
+            "vi": "A: Trước đây tôi từng thấy anh ta cãi nhau với người khác, nên tôi không có ấn tượng tốt về anh ta lắm.\nB: Bạn không thể chỉ dựa vào một chuyện mà đánh giá một người tốt hay xấu.",
+            "en": "A: I once saw him quarrelling with someone, so I don't have a very good impression of him.\nB: You can't judge whether someone's good or bad on the basis of one incident.",
+            "sample": true
+          },
+          {
+            "q": "A：你看这几张照片，很漂亮吧！我们去那儿旅行怎么样？\nB：____。",
+            "hint": "凭",
+            "a": "A：你看这几张照片，很漂亮吧！我们去那儿旅行怎么样？\nB：【不能光凭几张照片就决定，我们先上网查查吧】。",
+            "vi": "A: Bạn xem mấy tấm ảnh này, đẹp chứ! Chúng ta đến đó du lịch nhé?\nB: Không thể chỉ dựa vào mấy tấm ảnh mà quyết định được, chúng ta lên mạng tìm hiểu trước đã.",
+            "en": "A: Look at these photos, aren't they beautiful? How about travelling there?\nB: We can't decide just from a few photos. Let's look it up online first.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "记录—纪录",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Khác nhau 1: 记录 có thể làm động từ, chỉ ghi lại lời nói nghe được hoặc sự việc đã xảy ra (ghi chép); 纪录 là danh từ, chỉ thành tích tốt nhất trong một thời kỳ, một phạm vi nhất định (kỷ lục).",
+          "en": "Difference 1: 记录 can be a verb meaning to write down what one hears or what happens (to record, to take notes); 纪录 is a noun meaning the best result within a certain period or scope (a record).",
+          "ex": [
+            {
+              "zh": "我已经把这次会议的内容详细地{de}【记录】下来了。",
+              "vi": "Tôi đã ghi chép lại chi tiết nội dung cuộc họp lần này rồi.",
+              "en": "I've already written down the content of this meeting in detail."
+            },
+            {
+              "zh": "他在本次比赛中打破了世界【纪录】。",
+              "vi": "Anh ấy đã phá kỷ lục thế giới trong cuộc thi lần này.",
+              "en": "He broke the world record in this competition."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: 记录 cũng có thể làm danh từ, chỉ tài liệu được ghi lại (biên bản, ghi chép) hoặc người làm công việc ghi chép; 纪录 là danh từ, cũng có thể chỉ việc ghi lại những sự kiện có giá trị thời sự (phim tài liệu: 纪录片).",
+          "en": "Difference 2: 记录 can also be a noun meaning the written record itself (minutes, notes) or the person who takes them; 纪录 as a noun can also mean the recording of newsworthy events (as in 纪录片, documentary).",
+          "ex": [
+            {
+              "zh": "第二天还{huán}书时再把【记录】一个一个地{de}画掉。",
+              "vi": "Hôm sau trả sách thì gạch từng dòng ghi chép đi.",
+              "en": "When you returned the books the next day, he crossed the entries out one by one."
+            },
+            {
+              "zh": "小刘，你来做这次会议的【记录】。",
+              "vi": "Tiểu Lưu, cậu làm biên bản cuộc họp lần này nhé.",
+              "en": "Xiao Liu, you take the minutes of this meeting."
+            },
+            {
+              "zh": "学校带孩子们看了一部有教育意义的【纪录】片。",
+              "vi": "Nhà trường đưa các em đi xem một bộ phim tài liệu có ý nghĩa giáo dục.",
+              "en": "The school took the children to see an educational documentary."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "他又创造了新的奥运会____。",
+            "key": "记录 ✗ · 纪录 ✓ (thành tích tốt nhất)",
+            "a": "他又创造了新的奥运会【纪录】。",
+            "vi": "Anh ấy lại lập kỷ lục Olympic mới.",
+            "en": "He set yet another new Olympic record."
+          },
+          {
+            "q": "小张呢？不是安排她来做会议____吗？",
+            "key": "记录 ✓ · 纪录 ✗ (biên bản cuộc họp)",
+            "a": "小张呢？不是安排她来做会议【记录】吗？",
+            "vi": "Tiểu Trương đâu? Chẳng phải đã sắp xếp cô ấy làm biên bản cuộc họp sao?",
+            "en": "Where's Xiao Zhang? Wasn't she supposed to be taking the minutes?"
+          },
+          {
+            "q": "我很喜欢看新闻____片。",
+            "key": "记录 ✗ · 纪录 ✓ (纪录片: phim tài liệu)",
+            "a": "我很喜欢看新闻【纪录】片。",
+            "vi": "Tôi rất thích xem phim tài liệu thời sự.",
+            "en": "I really like watching news documentaries."
+          },
+          {
+            "q": "甲骨文____了3000多年以前的中国历史和社会生活。",
+            "key": "记录 ✓ · 纪录 ✗ (động từ: ghi lại)",
+            "a": "甲骨文【记录】了3000多年以前的中国历史和社会生活。",
+            "vi": "Giáp cốt văn đã ghi lại lịch sử và đời sống xã hội Trung Quốc từ hơn 3000 năm trước.",
+            "en": "Oracle-bone inscriptions recorded Chinese history and social life from more than 3,000 years ago."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "从事",
+            "（……的）工作/业务/职业"
+          ],
+          "vi": "làm công việc (…) / làm nghiệp vụ / theo nghề",
+          "en": "be engaged in (…) work / business / a profession"
+        },
+        {
+          "zh": [
+            "办理",
+            "手续/业务/信用卡"
+          ],
+          "vi": "làm thủ tục / giải quyết nghiệp vụ / làm thẻ tín dụng",
+          "en": "go through formalities / handle business / apply for a credit card"
+        }
+      ]
+    },
+    {
+      "a": "定语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "粗糙的",
+            "皮肤/地面/木板"
+          ],
+          "vi": "làn da / mặt đất / tấm gỗ thô ráp",
+          "en": "rough skin / ground / boards"
+        },
+        {
+          "zh": [
+            "整齐的",
+            "房间/军队/声音"
+          ],
+          "vi": "căn phòng ngăn nắp / đội quân chỉnh tề / âm thanh đồng đều",
+          "en": "a tidy room / an orderly army / voices in unison"
+        }
+      ]
+    },
+    {
+      "a": "中心语",
+      "b": "补语",
+      "rows": [
+        {
+          "zh": [
+            "登记",
+            "清楚/好"
+          ],
+          "vi": "đăng ký rõ ràng / đăng ký xong",
+          "en": "register clearly / register properly"
+        },
+        {
+          "zh": [
+            "打/碰/闹",
+            "翻"
+          ],
+          "vi": "làm đổ / va đổ / cãi nhau đến mức trở mặt",
+          "en": "knock over / bump over / fall out (after a row)"
+        }
+      ]
+    },
+    {
+      "a": "数量词",
+      "b": "名词",
+      "rows": [
+        {
+          "zh": [
+            "一册",
+            "书"
+          ],
+          "vi": "một cuốn sách",
+          "en": "a book (one volume)"
+        },
+        {
+          "zh": [
+            "一笔",
+            "押金"
+          ],
+          "vi": "một khoản tiền đặt cọc",
+          "en": "a deposit"
+        }
+      ]
+    },
+    {
+      "a": "主语",
+      "b": "谓语",
+      "rows": [
+        {
+          "zh": [
+            "生活/色彩/形式",
+            "单调"
+          ],
+          "vi": "cuộc sống / màu sắc / hình thức đơn điệu",
+          "en": "a dull life / dull colours / a monotonous form"
+        },
+        {
+          "zh": [
+            "身材",
+            "好/高大/矮小/苗条"
+          ],
+          "vi": "dáng người đẹp / cao to / thấp bé / thon thả",
+          "en": "a good figure / tall and big / short and small / slim"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "涨",
+        "办理",
+        "从事",
+        "粗糙",
+        "单调",
+        "整齐"
+      ],
+      "items": [
+        {
+          "q": "我想____有挑战性的工作，因为那样可以更好地{de}成长。",
+          "key": "从事",
+          "a": "我想【从事】有挑战性的工作，因为那样可以更好地{de}成长。",
+          "vi": "Tôi muốn làm công việc có tính thử thách, vì như vậy có thể trưởng thành tốt hơn.",
+          "en": "I want to do challenging work, because that way I can grow more."
+        },
+        {
+          "q": "请96号顾客到2号窗口____业务。",
+          "key": "办理",
+          "a": "请96号顾客到2号窗口【办理】业务。",
+          "vi": "Mời khách hàng số 96 đến quầy số 2 làm giao dịch.",
+          "en": "Customer number 96, please go to window 2."
+        },
+        {
+          "q": "这房子装修得太____了！你看，地板都没铺平。",
+          "key": "粗糙",
+          "a": "这房子装修得太【粗糙】了！你看，地板都没铺平。",
+          "vi": "Căn nhà này sửa sang cẩu thả quá! Anh xem, sàn nhà còn lát không phẳng.",
+          "en": "This house has been done up so roughly! Look, the floor isn't even level."
+        },
+        {
+          "q": "窗外响起了一阵____的歌声。",
+          "key": "整齐",
+          "a": "窗外响起了一阵【整齐】的歌声。",
+          "vi": "Ngoài cửa sổ vang lên một tràng tiếng hát đồng đều.",
+          "en": "The sound of voices singing in unison rose outside the window."
+        },
+        {
+          "q": "他觉得在中国的生活很____，我却觉得很丰富。",
+          "key": "单调",
+          "a": "他觉得在中国的生活很【单调】，我却觉得很丰富。",
+          "vi": "Anh ấy thấy cuộc sống ở Trung Quốc rất đơn điệu, tôi lại thấy rất phong phú.",
+          "en": "He finds life in China very dull, but I find it very rich."
+        },
+        {
+          "q": "最近几年，物价____得很厉害。",
+          "key": "涨",
+          "a": "最近几年，物价【涨】得很厉害。",
+          "vi": "Mấy năm gần đây, giá cả tăng rất mạnh.",
+          "en": "Prices have risen sharply in the last few years."
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "一般来说，一包香烟有二十____。",
+          "opts": [
+            "A. 册",
+            "B. 支"
+          ],
+          "key": "B",
+          "a": "一般来说，一包香烟有二十【支】。",
+          "vi": "Thông thường, một bao thuốc lá có hai mươi điếu.",
+          "en": "Generally speaking, a pack of cigarettes has twenty in it."
+        },
+        {
+          "q": "今天的课就到这儿，大家有什么____吗？",
+          "opts": [
+            "A. 疑问",
+            "B. 怀疑"
+          ],
+          "key": "A",
+          "a": "今天的课就到这儿，大家有什么【疑问】吗？",
+          "vi": "Bài hôm nay đến đây thôi, mọi người có thắc mắc gì không?",
+          "en": "That's all for today's class. Does anyone have any questions?"
+        },
+        {
+          "q": "他____高大，动作灵活，很适合打篮球。",
+          "opts": [
+            "A. 身体",
+            "B. 身材"
+          ],
+          "key": "B",
+          "a": "他【身材】高大，动作灵活，很适合打篮球。",
+          "vi": "Anh ấy dáng người cao to, động tác linh hoạt, rất hợp chơi bóng rổ.",
+          "en": "He's tall and agile, well suited to playing basketball."
+        },
+        {
+          "q": "这可以说是20世纪80____最流行的歌曲。",
+          "opts": [
+            "A. 年代",
+            "B. 时代"
+          ],
+          "key": "A",
+          "a": "这可以说是20世纪80【年代】最流行的歌曲。",
+          "vi": "Đây có thể nói là bài hát thịnh hành nhất thập niên 80 của thế kỷ 20.",
+          "en": "This could be called the most popular song of the 1980s."
+        }
+      ]
+    },
+    {
+      "title": "给括号里的词选择适当的位置",
+      "items": [
+        {
+          "q": "我的A经验B来自于C错误的D判断。",
+          "hint": "无数",
+          "key": "C",
+          "a": "我的经验来自于【无数】错误的判断。",
+          "vi": "Kinh nghiệm của tôi đến từ vô số lần phán đoán sai lầm.",
+          "en": "My experience comes from countless wrong judgements."
+        },
+        {
+          "q": "今天早上是谁打A了B桌子上C的牛奶D？",
+          "hint": "翻",
+          "key": "A",
+          "a": "今天早上是谁打【翻】了桌子上的牛奶？",
+          "vi": "Sáng nay ai làm đổ sữa trên bàn vậy?",
+          "en": "Who knocked over the milk on the table this morning?"
+        },
+        {
+          "q": "A你每天都能B做好C一件事，D那么你每天都能得到一份快乐。",
+          "hint": "假如",
+          "key": "A",
+          "a": "【假如】你每天都能做好一件事，那么你每天都能得到一份快乐。",
+          "vi": "Nếu mỗi ngày bạn đều làm tốt một việc, thì mỗi ngày bạn đều có được một niềm vui.",
+          "en": "If you can do one thing well every day, you'll find a bit of happiness every day."
+        },
+        {
+          "q": "你的这个A结论B全C经验和想象，我认为不D科学。",
+          "hint": "凭",
+          "key": "C",
+          "a": "你的这个结论全【凭】经验和想象，我认为不科学。",
+          "vi": "Kết luận này của bạn hoàn toàn dựa vào kinh nghiệm và tưởng tượng, tôi cho rằng không khoa học.",
+          "en": "This conclusion of yours rests entirely on experience and imagination; I don't think it's scientific."
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "小人书摊为什么会流行",
+          "hint": "出版、年代、单调、从事、买不起",
+          "a": "小人书是以书的形式【出版】的连环画。二十世纪五六十【年代】生活很【单调】，读小人书是儿童最主要的娱乐之一。后来出现了【从事】租书业务的小人书摊，那些【买不起】书的人只用很少的钱就能看一本。",
+          "vi": "Tiểu nhân thư là truyện tranh liên hoàn xuất bản dưới dạng sách. Những năm 50, 60 của thế kỷ 20 cuộc sống rất đơn điệu, đọc tiểu nhân thư là một trong những thú tiêu khiển chủ yếu nhất của trẻ em. Sau đó xuất hiện những quầy tiểu nhân thư cho thuê sách, những người không mua nổi sách chỉ cần rất ít tiền là có thể đọc một cuốn.",
+          "en": "Xiaorenshu are picture-story comics published as books. Life in the 1950s and '60s was dull, and reading them was one of children's main entertainments. Then stalls appeared that rented them out, so people who couldn't afford books could read one for very little money.",
+          "sample": true
+        },
+        {
+          "q": "小人书摊的情况",
+          "hint": "支、翻、整齐、身材",
+          "a": "我家附近的小人书摊是一个小棚子{zi}，里面用砖头【支】着{zhe}木头板子{zi}供{gōng}人们坐着{zhe}看书。墙边拉着{zhe}绳子，书【翻】开搭在上面。每本书都加了封皮，上面用毛笔写着{zhe}【整齐】漂亮的书名。摊主是位上了年纪、【身材】瘦小的老人。",
+          "vi": "Quầy tiểu nhân thư gần nhà tôi là một cái lều nhỏ, bên trong dùng gạch kê ván gỗ cho mọi người ngồi đọc sách. Cạnh tường căng dây, sách mở ra vắt lên trên. Mỗi cuốn sách đều được bọc bìa, trên bìa viết tên sách bằng bút lông ngay ngắn đẹp đẽ. Chủ quầy là một cụ già đã có tuổi, dáng người gầy nhỏ.",
+          "en": "The stall near my home was a small shed where bricks propped up wooden boards for people to sit on and read. Strings ran along the wall with open books hung over them. Every book had a cover with its title written neatly in brush calligraphy. The owner was a small, thin, elderly man.",
+          "sample": true
+        },
+        {
+          "q": "租借的手续",
+          "hint": "册、假如、登记、记录、办理、凭",
+          "a": "在摊里看书，每【册】1分钱；【假如】借回家看，每本每天2分钱，摊主把租书人的姓名、地址和书名【登记】在本子上，还{huán}书时再把【记录】画掉，还{huán}书手续就【办理】好了。没有押金，全【凭】信用。",
+          "vi": "Đọc tại quầy thì mỗi cuốn 1 xu; nếu mượn về nhà đọc thì mỗi cuốn mỗi ngày 2 xu, chủ quầy ghi tên, địa chỉ người thuê và tên sách vào sổ, khi trả sách thì gạch dòng ghi chép đi là thủ tục trả sách đã xong. Không cần tiền đặt cọc, hoàn toàn dựa vào chữ tín.",
+          "en": "Reading at the stall cost 1 fen a book; borrowing one to take home cost 2 fen a book per day. The owner logged the borrower's name, address and the titles in a notebook and crossed out the entry when the book came back, and that was that. There was no deposit; it all relied on trust.",
+          "sample": true
+        },
+        {
+          "q": "小人书的现状",
+          "hint": "印刷、涨",
+          "a": "如今小人书只能在旧书摊上找到，一些【印刷】精美、有特色的作品身价大【涨】，成了收藏品，甚至进了博物馆。",
+          "vi": "Ngày nay tiểu nhân thư chỉ có thể tìm thấy ở các sạp sách cũ, một số tác phẩm in ấn tinh xảo, có nét đặc sắc thì giá trị tăng vọt, trở thành đồ sưu tầm, thậm chí vào cả viện bảo tàng.",
+          "en": "Today the picture books can only be found at second-hand stalls; some finely printed, distinctive editions have soared in value and become collectors' items, and some are even in museums.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "单位、场所 · 生产2",
+    "vi": "Cơ quan, địa điểm · Sản xuất (2)",
+    "en": "Institutions and places · Production (2)",
+    "words": [
+      {
+        "zh": "俱乐部",
+        "py": "jùlèbù",
+        "vi": "câu lạc bộ",
+        "en": "club"
+      },
+      {
+        "zh": "幼儿园",
+        "py": "yòu'éryuán",
+        "vi": "nhà trẻ, trường mẫu giáo",
+        "en": "kindergarten"
+      },
+      {
+        "zh": "博物馆",
+        "py": "bówùguǎn",
+        "vi": "viện bảo tàng",
+        "en": "museum"
+      },
+      {
+        "zh": "酒吧",
+        "py": "jiǔbā",
+        "vi": "quán bar",
+        "en": "bar"
+      },
+      {
+        "zh": "法院",
+        "py": "fǎyuàn",
+        "vi": "tòa án",
+        "en": "court of law"
+      },
+      {
+        "zh": "海关",
+        "py": "hǎiguān",
+        "vi": "hải quan",
+        "en": "customs"
+      },
+      {
+        "zh": "生产",
+        "py": "shēngchǎn",
+        "vi": "sản xuất",
+        "en": "to produce; production"
+      },
+      {
+        "zh": "发明",
+        "py": "fāmíng",
+        "vi": "phát minh",
+        "en": "to invent; invention"
+      },
+      {
+        "zh": "设计",
+        "py": "shèjì",
+        "vi": "thiết kế",
+        "en": "to design; design"
+      },
+      {
+        "zh": "业务",
+        "py": "yèwù",
+        "vi": "nghiệp vụ, công việc",
+        "en": "business, professional work"
+      },
+      {
+        "zh": "项目",
+        "py": "xiàngmù",
+        "vi": "hạng mục, dự án, môn (thi đấu)",
+        "en": "item, project, event"
+      },
+      {
+        "zh": "效率",
+        "py": "xiàolǜ",
+        "vi": "hiệu suất",
+        "en": "efficiency"
+      },
+      {
+        "zh": "合法",
+        "py": "héfǎ",
+        "vi": "hợp pháp",
+        "en": "legal"
+      },
+      {
+        "zh": "公平",
+        "py": "gōngpíng",
+        "vi": "công bằng",
+        "en": "fair"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "我想报名参加射击____，你有兴趣吗？",
+          "key": "俱乐部",
+          "a": "我想报名参加射击【俱乐部】，你有兴趣吗？",
+          "vi": "Tôi muốn đăng ký tham gia câu lạc bộ bắn súng, bạn có hứng thú không?",
+          "en": "I want to join a shooting club. Are you interested?"
+        },
+        {
+          "q": "我已经下飞机了，但还没出____。",
+          "key": "海关",
+          "a": "我已经下飞机了，但还没出【海关】。",
+          "vi": "Tôi xuống máy bay rồi, nhưng vẫn chưa qua hải quan.",
+          "en": "I've got off the plane, but I haven't cleared customs yet."
+        },
+        {
+          "q": "世界上没有绝对的____，比如鸡吃虫子{zi}，对虫子{zi}就是不公平的。",
+          "key": "公平",
+          "a": "世界上没有绝对的【公平】，比如鸡吃虫子{zi}，对虫子{zi}就是不公平的。",
+          "vi": "Trên đời không có sự công bằng tuyệt đối, ví dụ gà ăn sâu, đối với con sâu thì là không công bằng.",
+          "en": "There's no such thing as absolute fairness in the world. When a chicken eats a worm, for example, it isn't fair on the worm."
+        },
+        {
+          "q": "在这个国家，留学生在没有得到允许的情况下在校外打工，是不____的。",
+          "key": "合法",
+          "a": "在这个国家，留学生在没有得到允许的情况下在校外打工，是不【合法】的。",
+          "vi": "Ở đất nước này, du học sinh làm thêm bên ngoài trường khi chưa được cho phép là không hợp pháp.",
+          "en": "In this country, it's illegal for international students to work off campus without permission."
+        }
+      ]
+    }
+  }
+}

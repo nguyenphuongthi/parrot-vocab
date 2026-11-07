@@ -1,0 +1,982 @@
+{
+  "n": 34,
+  "zh": "鸟儿的护肤术",
+  "vi": "Cách loài chim bảo vệ da",
+  "en": "How birds look after their skin",
+  "texts": [
+    {
+      "title": "鸟儿{r}的护肤术",
+      "paras": [
+        {
+          "zh": "大家都接触过鸟儿{r}吧？那你知道鸟儿{r}最重要的特征是什么吗？是有翅膀会飞？还是吃昆虫？",
+          "vi": "Mọi người chắc đều từng tiếp xúc với chim rồi nhỉ? Vậy bạn có biết đặc trưng quan trọng nhất của loài chim là gì không? Là có cánh biết bay? Hay là ăn côn trùng?",
+          "en": "We've all come across birds, right? So do you know what a bird's most important feature is? Having wings and being able to fly? Or eating insects?"
+        },
+        {
+          "zh": "作为{wéi}一只鸟儿{r}，不管是天空中飞的，陆地上走的，或者能入水的，都必须拥有羽毛。没错儿{r}，区分鸟儿{r}和其他动物的唯一特征就是羽毛，而不是会不会飞！羽毛的作用很多，既可以保暖，又可以保护皮肤；羽毛上的颜色和斑还能充当保护色；当然，更关键的是，羽毛有助于飞行；甚至还有一些鸟儿{r}的部分羽毛有“触觉”。总之，在鸟儿{r}的生活中，羽毛充当着{zhe}十分重要的角色。所以，鸟儿{r}非常爱惜羽毛，每天都会花很长时间来保养自己的“羽衣”。",
+          "vi": "Là một con chim, bất kể là loài bay trên trời, đi trên đất liền hay có thể xuống nước, đều phải có lông vũ. Đúng vậy, đặc trưng duy nhất để phân biệt chim với các loài động vật khác chính là lông vũ, chứ không phải là biết bay hay không! Lông vũ có rất nhiều tác dụng, vừa có thể giữ ấm, vừa có thể bảo vệ da; màu sắc và đốm trên lông còn có thể làm màu ngụy trang; đương nhiên, quan trọng hơn là lông vũ giúp ích cho việc bay; thậm chí một số loài chim còn có một phần lông có “xúc giác”. Tóm lại, trong cuộc sống của loài chim, lông vũ đóng vai trò vô cùng quan trọng. Vì vậy, chim rất quý trọng lông vũ, mỗi ngày đều dành rất nhiều thời gian để chăm sóc “áo lông” của mình.",
+          "en": "Whether it flies in the sky, walks on land or can go into the water, every bird must have feathers. That's right: the one feature that distinguishes birds from other animals is feathers, not whether they can fly! Feathers do many things: they keep birds warm and protect their skin; their colours and markings can serve as camouflage; more importantly, of course, they help birds fly; and some birds even have feathers with a sense of “touch”. In short, feathers play a very important role in a bird's life. So birds take great care of their feathers and spend a long time every day looking after their “feather coat”."
+        },
+        {
+          "zh": "整理羽毛是保养的基本功，它们只要有时间，就会情不自禁地{de}背过头去，反复地{de}啄着{zhe}羽毛，就像随身带了一把梳子梳头发一样，顺便上上油，让羽毛更光滑。另外，鸟儿{r}在理毛的时候，还会抓出一点儿寄生虫。",
+          "vi": "Chỉnh sửa lông là kỹ năng chăm sóc cơ bản, hễ có thời gian là chúng không kìm được mà quay đầu ra sau, mổ rỉa lông đi rỉa lại, giống như mang theo bên mình một chiếc lược để chải tóc vậy, tiện thể bôi chút dầu để lông mượt hơn. Ngoài ra, khi rỉa lông, chim còn bắt được một ít ký sinh trùng.",
+          "en": "Preening is the basic skill of feather care. Whenever they have time, birds can't help turning their heads back and pecking at their feathers again and again, as if they carried a comb with them to comb their hair, oiling them at the same time to make them sleeker. Birds also pick out a few parasites while they preen."
+        },
+        {
+          "zh": "毫无疑问，洗澡也是保养的一大基本项目。不过，鸟儿{r}洗澡用不着{zháo}肥皂，而且不同种类的鸟儿{r}选择的“澡堂”也不一样，概括来说，就是以方便为{wéi}原则。比如，海鸟在岛屿上生活，就会选择海水；知更鸟喜欢路旁的浅水坑；寒带的鸟呢，因为江河池塘不好找，只好以雪代水；而老鹰的洗澡方式更是直接，它们会在雨中张开双翅痛快地{de}迎接洗礼！沙浴也是一些鸟儿{r}喜欢的保养方式。所谓沙浴，就是用沙子洗澡，它们之所以放弃了用水洗澡，在很大程度上和它们的生活环境有关，它们大多生活在沙漠等干燥的环境，爱在地面上活动。",
+          "vi": "Không nghi ngờ gì, tắm cũng là một hạng mục chăm sóc cơ bản quan trọng. Nhưng chim tắm không cần dùng xà phòng, hơn nữa các loài chim khác nhau chọn “nhà tắm” cũng khác nhau, tóm lại là lấy sự thuận tiện làm nguyên tắc. Ví dụ, chim biển sống trên đảo sẽ chọn nước biển; chim cổ đỏ thích những vũng nước nông ven đường; còn chim ở vùng hàn đới, vì khó tìm sông hồ ao đầm nên đành lấy tuyết thay nước; cách tắm của diều hâu thì càng trực tiếp, chúng sẽ dang rộng đôi cánh trong mưa, sảng khoái đón nhận “lễ rửa tội”! Tắm cát cũng là cách chăm sóc mà một số loài chim yêu thích. Cái gọi là tắm cát chính là dùng cát để tắm, sở dĩ chúng bỏ việc tắm bằng nước, ở mức độ lớn có liên quan đến môi trường sống của chúng, phần lớn chúng sống ở những môi trường khô hạn như sa mạc, thích hoạt động trên mặt đất.",
+          "en": "Bathing is without doubt another basic part of feather care. But birds don't need soap, and different kinds of birds choose different “bathhouses” — in a word, the rule is convenience. Seabirds living on islands use seawater; robins like shallow puddles by the road; birds in cold regions, where rivers and ponds are hard to find, have to use snow instead of water; and eagles bathe even more directly, spreading their wings in the rain and joyfully receiving their “baptism”! Dust bathing is another favourite with some birds. A dust bath means bathing in sand; these birds have given up bathing in water largely because of where they live — mostly in dry environments such as deserts — and they like to stay on the ground."
+        },
+        {
+          "zh": "另外，睡眠是鸟儿{r}们最佳的保养方式，虽然我们很少看到睡眠中的鸟儿{r}，那是因为它们通常会寻找一处秘密的地方休息。大多数鸟儿{r}1天大约睡8小时，有些鸟儿{r}差不多要睡1天，而另一些鸟儿{r}几乎一点儿觉也不用睡。",
+          "vi": "Ngoài ra, giấc ngủ là cách chăm sóc tốt nhất của loài chim, tuy chúng ta rất ít khi thấy chim đang ngủ, đó là vì chúng thường tìm một nơi bí mật để nghỉ ngơi. Phần lớn các loài chim mỗi ngày ngủ khoảng 8 tiếng, có loài ngủ gần như cả ngày, còn có loài hầu như chẳng cần ngủ chút nào.",
+          "en": "Sleep is also the best form of care for birds. We rarely see birds asleep because they usually find a secret place to rest. Most birds sleep about eight hours a day; some sleep almost all day, while others hardly need to sleep at all."
+        }
+      ],
+      "source": "改编自《科学松鼠会》，作者：临渊",
+      "words": [
+        {
+          "zh": "接触",
+          "py": "jiēchù",
+          "pos": "đgt.",
+          "vi": "tiếp xúc",
+          "en": "to come into contact with"
+        },
+        {
+          "zh": "特征",
+          "py": "tèzhēng",
+          "pos": "dt.",
+          "vi": "điểm đặc trưng, nét đặc biệt",
+          "en": "characteristic, feature"
+        },
+        {
+          "zh": "翅膀",
+          "py": "chìbǎng",
+          "pos": "dt.",
+          "vi": "cánh (côn trùng, chim)",
+          "en": "wing"
+        },
+        {
+          "zh": "昆虫",
+          "py": "kūnchóng",
+          "pos": "dt.",
+          "vi": "côn trùng, sâu bọ",
+          "en": "insect"
+        },
+        {
+          "zh": "天空",
+          "py": "tiānkōng",
+          "pos": "dt.",
+          "vi": "bầu trời",
+          "en": "sky"
+        },
+        {
+          "zh": "区分",
+          "py": "qūfēn",
+          "pos": "đgt.",
+          "vi": "phân biệt",
+          "en": "to distinguish",
+          "x": true
+        },
+        {
+          "zh": "唯一",
+          "py": "wéiyī",
+          "pos": "tt.",
+          "vi": "duy nhất, độc nhất",
+          "en": "only, sole"
+        },
+        {
+          "zh": "斑",
+          "py": "bān",
+          "pos": "dt.",
+          "vi": "bớt, vết lốm đốm",
+          "en": "spot, mark",
+          "x": true
+        },
+        {
+          "zh": "充当",
+          "py": "chōngdāng",
+          "pos": "đgt.",
+          "vi": "làm, đảm nhiệm",
+          "en": "to act as, to serve as",
+          "x": true
+        },
+        {
+          "zh": "总之",
+          "py": "zǒngzhī",
+          "pos": "liên.",
+          "vi": "nói chung, tóm lại",
+          "en": "in short, in a word"
+        },
+        {
+          "zh": "角色",
+          "py": "juésè",
+          "pos": "dt.",
+          "vi": "vai trò, vai",
+          "en": "role"
+        },
+        {
+          "zh": "爱惜",
+          "py": "àixī",
+          "pos": "đgt.",
+          "vi": "yêu quý, quý trọng",
+          "en": "to cherish, to treasure"
+        },
+        {
+          "zh": "保养",
+          "py": "bǎoyǎng",
+          "pos": "đgt.",
+          "vi": "chăm sóc, bảo quản",
+          "en": "to take care of, to maintain",
+          "x": true
+        },
+        {
+          "zh": "反复",
+          "py": "fǎnfù",
+          "pos": "phó.",
+          "vi": "nhiều lần, lặp đi lặp lại",
+          "en": "repeatedly"
+        },
+        {
+          "zh": "啄",
+          "py": "zhuó",
+          "pos": "đgt.",
+          "vi": "mổ, rỉa",
+          "en": "to peck",
+          "x": true
+        },
+        {
+          "zh": "随身",
+          "py": "suíshēn",
+          "pos": "tt.",
+          "vi": "mang bên mình, theo bên người",
+          "en": "(carried) on one's person"
+        },
+        {
+          "zh": "梳子",
+          "py": "shūzi",
+          "pos": "dt.",
+          "vi": "(cái) lược",
+          "en": "comb"
+        },
+        {
+          "zh": "光滑",
+          "py": "guānghuá",
+          "pos": "tt.",
+          "vi": "trơn, mượt, bóng loáng",
+          "en": "smooth, sleek"
+        },
+        {
+          "zh": "抓",
+          "py": "zhuā",
+          "pos": "đgt.",
+          "vi": "bắt, tóm",
+          "en": "to catch, to grab"
+        },
+        {
+          "zh": "寄生",
+          "py": "jìshēng",
+          "pos": "đgt.",
+          "vi": "ký sinh, ăn bám",
+          "en": "to be parasitic",
+          "x": true
+        },
+        {
+          "zh": "肥皂",
+          "py": "féizào",
+          "pos": "dt.",
+          "vi": "xà phòng",
+          "en": "soap"
+        },
+        {
+          "zh": "种类",
+          "py": "zhǒnglèi",
+          "pos": "dt.",
+          "vi": "chủng loại, loại",
+          "en": "kind, type"
+        },
+        {
+          "zh": "概括",
+          "py": "gàikuò",
+          "pos": "tt./đgt.",
+          "vi": "khái quát; tóm tắt",
+          "en": "general; to summarise"
+        },
+        {
+          "zh": "岛屿",
+          "py": "dǎoyǔ",
+          "pos": "dt.",
+          "vi": "(hòn) đảo",
+          "en": "island"
+        },
+        {
+          "zh": "知更鸟",
+          "py": "zhīgēngniǎo",
+          "pos": "dt.",
+          "vi": "chim cổ đỏ",
+          "en": "robin",
+          "x": true
+        },
+        {
+          "zh": "坑",
+          "py": "kēng",
+          "pos": "dt.",
+          "vi": "hố, vũng",
+          "en": "hole, pit",
+          "x": true
+        },
+        {
+          "zh": "池塘",
+          "py": "chítáng",
+          "pos": "dt.",
+          "vi": "ao, đầm",
+          "en": "pond"
+        },
+        {
+          "zh": "老鹰",
+          "py": "lǎoyīng",
+          "pos": "dt.",
+          "vi": "diều hâu",
+          "en": "eagle, hawk",
+          "x": true
+        },
+        {
+          "zh": "痛快",
+          "py": "tòngkuài",
+          "pos": "tt.",
+          "vi": "vui sướng, thích thú, đã, sướng",
+          "en": "delighted, to one's heart's content"
+        },
+        {
+          "zh": "迎接",
+          "py": "yíngjiē",
+          "pos": "đgt.",
+          "vi": "nghênh đón, chào đón, đón nhận",
+          "en": "to welcome, to greet"
+        },
+        {
+          "zh": "洗礼",
+          "py": "xǐlǐ",
+          "pos": "dt.",
+          "vi": "lễ rửa tội",
+          "en": "baptism",
+          "x": true
+        },
+        {
+          "zh": "沙子",
+          "py": "shāzi",
+          "pos": "dt.",
+          "vi": "hạt cát",
+          "en": "sand",
+          "x": true
+        },
+        {
+          "zh": "干燥",
+          "py": "gānzào",
+          "pos": "tt.",
+          "vi": "khô",
+          "en": "dry"
+        },
+        {
+          "zh": "秘密",
+          "py": "mìmì",
+          "pos": "tt./dt.",
+          "vi": "bí mật; điều bí mật",
+          "en": "secret"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "总之",
+      "uses": [
+        {
+          "vi": "总之 là liên từ, khái quát nội dung phía trước, nói chung lại (tóm lại, nói chung).",
+          "en": "总之 is a conjunction that sums up what has just been said (in short, in a word).",
+          "ex": [
+            {
+              "zh": "暑假我可能去上海、南京，还有杭州，【总之】，想去南方几个城市转转。",
+              "vi": "Kỳ nghỉ hè có lẽ tôi sẽ đi Thượng Hải, Nam Kinh, còn có Hàng Châu, tóm lại là muốn đi dạo mấy thành phố phía Nam.",
+              "en": "This summer I might go to Shanghai, Nanjing and Hangzhou — in short, I want to visit a few cities in the south."
+            },
+            {
+              "zh": "【总之】，网络的确带给我们以前无法想象的方便，但同时它也带来了一定的危害。",
+              "vi": "Tóm lại, mạng Internet quả thực mang lại cho chúng ta sự tiện lợi mà trước đây không thể tưởng tượng được, nhưng đồng thời nó cũng mang lại những tác hại nhất định.",
+              "en": "In short, the internet has indeed brought us convenience we could never have imagined, but it has also brought some harm."
+            },
+            {
+              "zh": "【总之】，在鸟儿{r}的生活中，羽毛充当着{zhe}十分重要的角色。",
+              "vi": "Tóm lại, trong cuộc sống của loài chim, lông vũ đóng vai trò vô cùng quan trọng.",
+              "en": "In short, feathers play a very important role in a bird's life."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "不管你去不去，____。",
+            "hint": "总之",
+            "a": "不管你去不去，【总之我是一定要去的】。",
+            "vi": "Bất kể bạn có đi hay không, tóm lại là tôi nhất định phải đi.",
+            "en": "Whether you go or not, I'm definitely going.",
+            "sample": true
+          },
+          {
+            "q": "A：你怎么能把汉语学得这么好？\nB：____。",
+            "hint": "总之",
+            "a": "A：你怎么能把汉语学得这么好？\nB：【多听、多说、多读、多写，总之要多练习】。",
+            "vi": "A: Sao bạn có thể học tiếng Trung giỏi như vậy?\nB: Nghe nhiều, nói nhiều, đọc nhiều, viết nhiều, tóm lại là phải luyện tập nhiều.",
+            "en": "A: How did you get so good at Chinese?\nB: Listen a lot, speak a lot, read a lot, write a lot — in short, practise a lot.",
+            "sample": true
+          },
+          {
+            "q": "____，总之，中国菜有很多做法。",
+            "hint": "总之",
+            "a": "【炒、煮、蒸、炸、烤……】，总之，中国菜有很多做法。",
+            "vi": "Xào, luộc, hấp, chiên, nướng…, tóm lại là món ăn Trung Quốc có rất nhiều cách chế biến.",
+            "en": "Stir-frying, boiling, steaming, deep-frying, roasting… in short, there are many ways of cooking Chinese food.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "动词+过",
+      "py": "dòngcí + guò",
+      "uses": [
+        {
+          "vi": "1. Biểu thị thông qua động tác, người hoặc vật thay đổi phương hướng (quay, xoay).",
+          "en": "1. Shows that through an action a person or thing changes direction (turn round, turn over).",
+          "ex": [
+            {
+              "zh": "他转【过】身，一句话也不说。",
+              "vi": "Anh ấy quay người đi, không nói một lời nào.",
+              "en": "He turned round without saying a word."
+            },
+            {
+              "zh": "……它们只要有时间，就会情不自禁地{de}背【过】头去，反复地{de}啄着{zhe}羽毛，……",
+              "vi": "… hễ có thời gian là chúng không kìm được mà quay đầu ra sau, mổ rỉa lông đi rỉa lại, …",
+              "en": "… whenever they have time, birds can't help turning their heads back and pecking at their feathers again and again …"
+            }
+          ]
+        },
+        {
+          "vi": "2. Biểu thị thông qua động tác, người hoặc vật di chuyển vị trí (qua, sang).",
+          "en": "2. Shows that through an action a person or thing moves position (over, across, past).",
+          "ex": [
+            {
+              "zh": "接【过】书的那一刻，老王突然明白了自己失败的原因。",
+              "vi": "Khoảnh khắc nhận lấy cuốn sách, ông Vương đột nhiên hiểu ra nguyên nhân thất bại của mình.",
+              "en": "The moment he took the book, Lao Wang suddenly understood why he had failed."
+            },
+            {
+              "zh": "短短的几分钟里，我的脑子{zi}里闪【过】了很多想法。",
+              "vi": "Chỉ trong mấy phút ngắn ngủi, trong đầu tôi đã lóe lên rất nhiều suy nghĩ.",
+              "en": "In just a few minutes, lots of ideas flashed through my mind."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "给“过”选择适当的位置",
+        "items": [
+          {
+            "q": "你回A头B就可以看见C我D了。",
+            "key": "A",
+            "a": "你回【过】头就可以看见我了。",
+            "vi": "Bạn quay đầu lại là có thể nhìn thấy tôi rồi.",
+            "en": "Turn your head and you'll see me."
+          },
+          {
+            "q": "他递A一块毛巾B给C我擦D汗。",
+            "key": "A",
+            "a": "他递【过】一块毛巾给我擦汗。",
+            "vi": "Anh ấy đưa qua một chiếc khăn cho tôi lau mồ hôi.",
+            "en": "He passed me a towel to wipe off the sweat."
+          },
+          {
+            "q": "青年走A到B门口，转C身D说：“我们会再见的。”",
+            "key": "C",
+            "a": "青年走到门口，转【过】身说：“我们会再见的。”",
+            "vi": "Chàng thanh niên đi đến cửa, quay người lại nói: “Chúng ta sẽ gặp lại.”",
+            "en": "The young man walked to the door, turned round and said, “We'll meet again.”"
+          }
+        ]
+      }
+    },
+    {
+      "title": "动词+开",
+      "py": "dòngcí + kāi",
+      "uses": [
+        {
+          "vi": "Biểu thị sự giãn ra, mở rộng ra (ra, rộng ra).",
+          "en": "Shows spreading out or opening up (open, out).",
+          "ex": [
+            {
+              "zh": "猴子突然站了起来，张【开】手臂，抱住了管理员。",
+              "vi": "Con khỉ đột nhiên đứng dậy, dang rộng cánh tay, ôm chầm lấy người quản lý.",
+              "en": "The monkey suddenly stood up, opened its arms and hugged the keeper."
+            },
+            {
+              "zh": "《清明上河图》在我们的面前慢慢展【开】。",
+              "vi": "Bức tranh “Thanh minh thượng hà đồ” từ từ mở ra trước mặt chúng tôi.",
+              "en": "Along the River During the Qingming Festival slowly unrolled before our eyes."
+            },
+            {
+              "zh": "而老鹰的洗澡方式更是直接，它们会在雨中张【开】双翅痛快地{de}迎接洗礼！",
+              "vi": "Cách tắm của diều hâu thì càng trực tiếp, chúng sẽ dang rộng đôi cánh trong mưa, sảng khoái đón nhận “lễ rửa tội”!",
+              "en": "Eagles bathe even more directly, spreading their wings in the rain and joyfully receiving their “baptism”!"
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "给“开”选择适当的位置",
+        "items": [
+          {
+            "q": "A回家时，妈妈B张C双臂D迎接我。",
+            "key": "C",
+            "a": "回家时，妈妈张【开】双臂迎接我。",
+            "vi": "Khi tôi về nhà, mẹ dang rộng hai tay đón tôi.",
+            "en": "When I got home, Mum opened her arms to welcome me."
+          },
+          {
+            "q": "他把纸铺A，笔拿B好，准备C练习D书法。",
+            "key": "A",
+            "a": "他把纸铺【开】，笔拿好，准备练习书法。",
+            "vi": "Anh ấy trải giấy ra, cầm bút lên, chuẩn bị luyện thư pháp.",
+            "en": "He spread out the paper, picked up the brush and got ready to practise calligraphy."
+          },
+          {
+            "q": "那件事情已经都A传B了C，大家都知道D了。",
+            "key": "B",
+            "a": "那件事情已经都传【开】了，大家都知道了。",
+            "vi": "Chuyện đó đã lan truyền ra rồi, mọi người đều biết cả.",
+            "en": "That news has spread; everyone knows about it."
+          }
+        ]
+      }
+    },
+    {
+      "title": "反复—重复",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: 反复 và 重复 đều có nghĩa không chỉ một lần.",
+          "en": "Similarity: 反复 and 重复 both mean more than once.",
+          "ex": [
+            {
+              "zh": "这件事情你已经【反复】/【重复】说过好几遍了。",
+              "vi": "Chuyện này bạn đã nói đi nói lại mấy lần rồi.",
+              "en": "You've already said this several times."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 1: 反复 là phó từ, có nghĩa hết lần này đến lần khác (đi đi lại lại, nhiều lần); 重复 là động từ, chỉ làm lại cùng một việc thêm một lần nữa (lặp lại, nhắc lại).",
+          "en": "Difference 1: 反复 is an adverb meaning over and over; 重复 is a verb meaning to do the same thing again (to repeat).",
+          "ex": [
+            {
+              "zh": "它们只要一有时间，就会情不自禁地{de}背过头去，【反复】地{de}啄着{zhe}羽毛。",
+              "vi": "Hễ có thời gian là chúng không kìm được mà quay đầu ra sau, mổ rỉa lông đi rỉa lại.",
+              "en": "Whenever they have time, they can't help turning their heads back and pecking at their feathers again and again."
+            },
+            {
+              "zh": "我没听清，请你再【重复】一遍。",
+              "vi": "Tôi nghe không rõ, mời bạn nhắc lại một lần nữa.",
+              "en": "I didn't catch that. Could you repeat it, please?"
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: 反复 làm động từ chỉ tình huống bất lợi lại xuất hiện (tái phát); 重复 làm động từ chỉ cùng một thứ lại xuất hiện lần nữa (trùng lặp).",
+          "en": "Difference 2: as a verb, 反复 means an unfavourable situation recurs (to relapse); 重复 means the same thing appears again (to duplicate).",
+          "ex": [
+            {
+              "zh": "这种病容易【反复】。",
+              "vi": "Loại bệnh này dễ tái phát.",
+              "en": "This illness is prone to relapse."
+            },
+            {
+              "zh": "这两个练习题【重复】了。",
+              "vi": "Hai bài tập này bị trùng nhau rồi.",
+              "en": "These two exercises are duplicates."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 3: 反复 còn là danh từ, chỉ tình huống không tốt lặp lại; 重复 không có cách dùng này.",
+          "en": "Difference 3: 反复 can also be a noun meaning a recurrence of something bad (a setback, a change of heart); 重复 has no such use.",
+          "ex": [
+            {
+              "zh": "对这个问题，他思想上可能还有【反复】。",
+              "vi": "Về vấn đề này, trong suy nghĩ của anh ấy có thể vẫn còn dao động.",
+              "en": "He may still change his mind about this issue."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "我已经____讲了多少次，你竟然还是忘了！",
+            "key": "反复 ✓ · 重复 ✓",
+            "a": "我已经【反复】/【重复】讲了多少次，你竟然还是忘了！",
+            "vi": "Tôi đã nói đi nói lại bao nhiêu lần rồi, vậy mà bạn vẫn quên!",
+            "en": "I've told you so many times, and you've still forgotten!"
+          },
+          {
+            "q": "这个实验我已经____过两次了。",
+            "key": "反复 ✗ · 重复 ✓ (động từ: làm lại)",
+            "a": "这个实验我已经【重复】过两次了。",
+            "vi": "Thí nghiệm này tôi đã làm lại hai lần rồi.",
+            "en": "I've already repeated this experiment twice."
+          },
+          {
+            "q": "经过____实验，他们终于成功了。",
+            "key": "反复 ✓ · 重复 ✗ (nhiều lần, hết lần này đến lần khác)",
+            "a": "经过【反复】实验，他们终于成功了。",
+            "vi": "Trải qua thí nghiệm nhiều lần, cuối cùng họ đã thành công.",
+            "en": "After repeated experiments, they finally succeeded."
+          },
+          {
+            "q": "他的病情出现了____，情况不太乐观。",
+            "key": "反复 ✓ · 重复 ✗ (danh từ: tái phát)",
+            "a": "他的病情出现了【反复】，情况不太乐观。",
+            "vi": "Bệnh tình của anh ấy có dấu hiệu tái phát, tình hình không mấy lạc quan.",
+            "en": "His condition has relapsed; things don't look very good."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "接触",
+            "动物/孩子/病人/大自然/社会/新信息"
+          ],
+          "vi": "tiếp xúc với động vật / trẻ em / bệnh nhân / thiên nhiên / xã hội / thông tin mới",
+          "en": "come into contact with animals / children / patients / nature / society / new information"
+        },
+        {
+          "zh": [
+            "爱惜",
+            "羽毛/身体/生命/粮食"
+          ],
+          "vi": "quý trọng lông vũ / thân thể / sinh mạng / lương thực",
+          "en": "take care of one's feathers / health / life; not waste food"
+        }
+      ]
+    },
+    {
+      "a": "定语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "明显/突出/唯一（的）",
+            "特征"
+          ],
+          "vi": "đặc trưng rõ rệt / nổi bật / duy nhất",
+          "en": "an obvious / striking / unique feature"
+        },
+        {
+          "zh": [
+            "唯一（的）",
+            "办法/选择/结果/爱/角色"
+          ],
+          "vi": "cách / lựa chọn / kết quả / tình yêu / vai trò duy nhất",
+          "en": "the only method / choice / result / love / role"
+        },
+        {
+          "zh": [
+            "光滑的",
+            "表面/皮肤/羽毛"
+          ],
+          "vi": "bề mặt / làn da / bộ lông trơn mượt",
+          "en": "a smooth surface / skin / sleek feathers"
+        },
+        {
+          "zh": [
+            "干燥的",
+            "表面/皮肤/环境/空气/气候"
+          ],
+          "vi": "bề mặt / làn da / môi trường / không khí / khí hậu khô",
+          "en": "a dry surface / skin / environment / air / climate"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "痛快地{de}",
+            "哭/笑/吃/喝/骂"
+          ],
+          "vi": "khóc / cười / ăn / uống / mắng cho đã",
+          "en": "have a good cry / laugh / eat / drink / tell someone off"
+        },
+        {
+          "zh": [
+            "热情地{de}",
+            "迎接"
+          ],
+          "vi": "nhiệt tình chào đón",
+          "en": "welcome warmly"
+        }
+      ]
+    },
+    {
+      "a": "数量词",
+      "b": "名词",
+      "rows": [
+        {
+          "zh": [
+            "一只/一双/一对",
+            "翅膀"
+          ],
+          "vi": "một chiếc cánh / một đôi cánh",
+          "en": "a wing / a pair of wings"
+        },
+        {
+          "zh": [
+            "一把",
+            "梳子"
+          ],
+          "vi": "một chiếc lược",
+          "en": "a comb"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "昆虫",
+        "秘密",
+        "概括",
+        "光滑",
+        "痛快",
+        "唯一"
+      ],
+      "items": [
+        {
+          "q": "那件事将是我一生中____的遗憾。",
+          "key": "唯一",
+          "a": "那件事将是我一生中【唯一】的遗憾。",
+          "vi": "Chuyện đó sẽ là điều tiếc nuối duy nhất trong đời tôi.",
+          "en": "That will be the only regret of my life."
+        },
+        {
+          "q": "李将{jiàng}军这次去北京的行动是____的。",
+          "key": "秘密",
+          "a": "李将{jiàng}军这次去北京的行动是【秘密】的。",
+          "vi": "Chuyến đi Bắc Kinh lần này của tướng quân Lý là bí mật.",
+          "en": "General Li's trip to Beijing this time is secret."
+        },
+        {
+          "q": "你好容易来一趟，我们今晚一定要喝个____！",
+          "key": "痛快",
+          "a": "你好容易来一趟，我们今晚一定要喝个【痛快】！",
+          "vi": "Khó khăn lắm bạn mới đến một chuyến, tối nay chúng ta nhất định phải uống cho đã!",
+          "en": "It's not often you come over — tonight we're going to drink to our hearts' content!"
+        },
+        {
+          "q": "有些____和鸟类一样有翅膀。",
+          "key": "昆虫",
+          "a": "有些【昆虫】和鸟类一样有翅膀。",
+          "vi": "Một số loài côn trùng cũng có cánh giống loài chim.",
+          "en": "Some insects have wings, just like birds."
+        },
+        {
+          "q": "经常使用我们的肥皂，您的皮肤将变得更加____。",
+          "key": "光滑",
+          "a": "经常使用我们的肥皂，您的皮肤将变得更加【光滑】。",
+          "vi": "Thường xuyên dùng xà phòng của chúng tôi, làn da của bạn sẽ trở nên mịn màng hơn.",
+          "en": "Use our soap regularly and your skin will become smoother."
+        },
+        {
+          "q": "这次会议的精神可以____为{wéi}三点。",
+          "key": "概括",
+          "a": "这次会议的精神可以【概括】为{wéi}三点。",
+          "vi": "Tinh thần của hội nghị lần này có thể khái quát thành ba điểm.",
+          "en": "The spirit of this meeting can be summed up in three points."
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "我们要____粮食，不要浪费。",
+          "opts": [
+            "A. 爱惜",
+            "B. 爱护"
+          ],
+          "key": "A",
+          "a": "我们要【爱惜】粮食，不要浪费。",
+          "vi": "Chúng ta phải quý trọng lương thực, đừng lãng phí.",
+          "en": "We should value food and not waste it."
+        },
+        {
+          "q": "她总是____带着{zhe}伞，说“不怕一万，就怕万一”。",
+          "opts": [
+            "A. 随手",
+            "B. 随身"
+          ],
+          "key": "B",
+          "a": "她总是【随身】带着{zhe}伞，说“不怕一万，就怕万一”。",
+          "vi": "Cô ấy lúc nào cũng mang ô theo bên mình, nói rằng “không sợ nhất vạn, chỉ sợ vạn nhất”.",
+          "en": "She always carries an umbrella with her, saying “better safe than sorry”."
+        },
+        {
+          "q": "警察一把把小偷给____住了。",
+          "opts": [
+            "A. 拿",
+            "B. 抓"
+          ],
+          "key": "B",
+          "a": "警察一把把小偷给【抓】住了。",
+          "vi": "Cảnh sát chộp một cái là tóm được tên trộm.",
+          "en": "The policeman grabbed the thief in one swift move."
+        },
+        {
+          "q": "这个地区的动植物____多，数量大。",
+          "opts": [
+            "A. 种类",
+            "B. 类型"
+          ],
+          "key": "A",
+          "a": "这个地区的动植物【种类】多，数量大。",
+          "vi": "Động thực vật ở khu vực này nhiều chủng loại, số lượng lớn.",
+          "en": "This region has many species of plants and animals, in large numbers."
+        }
+      ]
+    },
+    {
+      "title": "画线连接可以搭配的词语",
+      "bank": [
+        "肥皂",
+        "翅膀",
+        "昆虫",
+        "梳子",
+        "大自然",
+        "财物",
+        "机会",
+        "挑战"
+      ],
+      "items": [
+        {
+          "q": "一只 ____",
+          "key": "昆虫",
+          "a": "一只【昆虫】",
+          "vi": "một con côn trùng",
+          "en": "an insect"
+        },
+        {
+          "q": "一把 ____",
+          "key": "梳子",
+          "a": "一把【梳子】",
+          "vi": "một chiếc lược",
+          "en": "a comb"
+        },
+        {
+          "q": "一块 ____",
+          "key": "肥皂",
+          "a": "一块【肥皂】",
+          "vi": "một bánh xà phòng",
+          "en": "a bar of soap"
+        },
+        {
+          "q": "一双 ____",
+          "key": "翅膀",
+          "a": "一双【翅膀】",
+          "vi": "một đôi cánh",
+          "en": "a pair of wings"
+        },
+        {
+          "q": "接触 ____",
+          "key": "大自然",
+          "a": "接触【大自然】",
+          "vi": "tiếp xúc với thiên nhiên",
+          "en": "get close to nature"
+        },
+        {
+          "q": "迎接 ____",
+          "key": "挑战",
+          "a": "迎接【挑战】",
+          "vi": "đón nhận thử thách",
+          "en": "meet a challenge"
+        },
+        {
+          "q": "爱惜 ____",
+          "key": "财物",
+          "a": "爱惜【财物】",
+          "vi": "quý trọng của cải",
+          "en": "take care of property"
+        },
+        {
+          "q": "抓住 ____",
+          "key": "机会",
+          "a": "抓住【机会】",
+          "vi": "nắm lấy cơ hội",
+          "en": "seize an opportunity"
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "鸟儿{r}的特征",
+          "hint": "接触、特征、翅膀、昆虫、唯一",
+          "a": "大家都【接触】过鸟儿{r}，鸟儿{r}最重要的【特征】不是有【翅膀】会飞，也不是吃【昆虫】。区分鸟儿{r}和其他动物的【唯一】特征就是羽毛。",
+          "vi": "Mọi người đều từng tiếp xúc với chim, đặc trưng quan trọng nhất của chim không phải là có cánh biết bay, cũng không phải ăn côn trùng. Đặc trưng duy nhất phân biệt chim với các động vật khác chính là lông vũ.",
+          "en": "We've all come across birds. Their most important feature isn't having wings or eating insects; the only feature that distinguishes birds from other animals is feathers.",
+          "sample": true
+        },
+        {
+          "q": "羽毛的作用",
+          "hint": "既……又……、还能、关键、甚至、总之",
+          "a": "羽毛【既】可以保暖，【又】可以保护皮肤；羽毛上的颜色和斑【还能】充当保护色；更【关键】的是，羽毛有助于飞行；【甚至】有些羽毛还有“触觉”。【总之】，羽毛在鸟儿{r}的生活中十分重要。",
+          "vi": "Lông vũ vừa có thể giữ ấm, vừa có thể bảo vệ da; màu sắc và đốm trên lông còn có thể làm màu ngụy trang; quan trọng hơn là lông giúp ích cho việc bay; thậm chí một số lông còn có “xúc giác”. Tóm lại, lông vũ vô cùng quan trọng trong cuộc sống của chim.",
+          "en": "Feathers keep birds warm and protect their skin; their colours and markings can act as camouflage; more importantly, they help birds fly; some feathers even have a sense of “touch”. In short, feathers are vital in a bird's life.",
+          "sample": true
+        },
+        {
+          "q": "保养羽毛的方法",
+          "hint": "背过头去、反复、随身、抓、种类、概括、张开、干燥、秘密",
+          "a": "鸟儿{r}常常【背过头去】，【反复】地{de}啄羽毛，就像【随身】带了一把梳子，还能【抓】出寄生虫。不同【种类】的鸟儿{r}洗澡的地方不一样，【概括】来说就是以方便为{wéi}原则；老鹰会在雨中【张开】双翅洗澡；生活在【干燥】环境的鸟儿{r}喜欢沙浴。另外，鸟儿{r}会找一处【秘密】的地方睡觉。",
+          "vi": "Chim thường quay đầu ra sau, mổ rỉa lông đi rỉa lại, giống như mang theo bên mình một chiếc lược, còn bắt được ký sinh trùng. Các loài chim khác nhau tắm ở những nơi khác nhau, khái quát lại là lấy thuận tiện làm nguyên tắc; diều hâu dang rộng cánh tắm trong mưa; chim sống ở môi trường khô hạn thích tắm cát. Ngoài ra, chim sẽ tìm một nơi bí mật để ngủ.",
+          "en": "Birds often turn their heads back and peck at their feathers again and again, as if carrying a comb, picking out parasites as they go. Different kinds of birds bathe in different places — the rule is convenience: eagles spread their wings to bathe in the rain, and birds from dry places like dust baths. Birds also find secret places to sleep.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "地理环境",
+    "vi": "Môi trường địa lý",
+    "en": "Geography and the environment",
+    "words": [
+      {
+        "zh": "天空",
+        "py": "tiānkōng",
+        "vi": "bầu trời",
+        "en": "sky"
+      },
+      {
+        "zh": "陆地",
+        "py": "lùdì",
+        "vi": "đất liền",
+        "en": "land"
+      },
+      {
+        "zh": "土地",
+        "py": "tǔdì",
+        "vi": "đất đai",
+        "en": "land, soil"
+      },
+      {
+        "zh": "池塘",
+        "py": "chítáng",
+        "vi": "ao",
+        "en": "pond"
+      },
+      {
+        "zh": "沙漠",
+        "py": "shāmò",
+        "vi": "sa mạc",
+        "en": "desert"
+      },
+      {
+        "zh": "沙滩",
+        "py": "shātān",
+        "vi": "bãi cát",
+        "en": "beach"
+      },
+      {
+        "zh": "岛屿",
+        "py": "dǎoyǔ",
+        "vi": "đảo",
+        "en": "island"
+      },
+      {
+        "zh": "岸",
+        "py": "àn",
+        "vi": "bờ",
+        "en": "shore, bank"
+      },
+      {
+        "zh": "洞",
+        "py": "dòng",
+        "vi": "lỗ, hang",
+        "en": "hole, cave"
+      },
+      {
+        "zh": "木头",
+        "py": "mùtou",
+        "vi": "gỗ",
+        "en": "wood"
+      },
+      {
+        "zh": "石头",
+        "py": "shítou",
+        "vi": "đá",
+        "en": "stone"
+      },
+      {
+        "zh": "灰尘",
+        "py": "huīchén",
+        "vi": "bụi",
+        "en": "dust"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "____是重要的自然资源，没有它，人类无法得{dé}到食物。",
+          "key": "土地",
+          "a": "【土地】是重要的自然资源，没有它，人类无法得{dé}到食物。",
+          "vi": "Đất đai là tài nguyên thiên nhiên quan trọng, không có nó, con người không thể có được thức ăn.",
+          "en": "Land is an important natural resource; without it, people couldn't get food."
+        },
+        {
+          "q": "他坐着{zhe}自造的小船很轻松地{de}就到达了对____。",
+          "key": "岸",
+          "a": "他坐着{zhe}自造的小船很轻松地{de}就到达了对【岸】。",
+          "vi": "Anh ấy ngồi chiếc thuyền nhỏ tự đóng, rất nhẹ nhàng đã đến được bờ bên kia.",
+          "en": "He reached the opposite bank easily in a little boat he'd made himself."
+        },
+        {
+          "q": "____排球是一种很有意思的运动。",
+          "key": "沙滩",
+          "a": "【沙滩】排球是一种很有意思的运动。",
+          "vi": "Bóng chuyền bãi biển là một môn thể thao rất thú vị.",
+          "en": "Beach volleyball is a really fun sport."
+        },
+        {
+          "q": "孩子们在树林里玩儿，一个孩子不小心把裤子刮破了一个____。",
+          "key": "洞",
+          "a": "孩子们在树林里玩儿，一个孩子不小心把裤子刮破了一个【洞】。",
+          "vi": "Bọn trẻ chơi trong rừng cây, một đứa không cẩn thận làm rách quần một lỗ.",
+          "en": "The children were playing in the woods, and one of them accidentally tore a hole in his trousers."
+        }
+      ]
+    }
+  }
+}

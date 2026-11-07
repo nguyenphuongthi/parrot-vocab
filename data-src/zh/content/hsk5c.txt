@@ -1,0 +1,151 @@
+# 词|pinyin|hán việt|nghĩa VI|meaning EN|例句|câu dịch VI|sentence EN|tag
+概括|gàikuò|khái quát|khái quát, tóm tắt|to summarize|请用一句话概括这篇文章的主要内容。|Hãy dùng một câu để khái quát nội dung chính của bài văn này.|Please summarize the main idea of this article in one sentence.|连动句
+概念|gàiniàn|khái niệm|khái niệm|concept|这个概念比较抽象，不太好理解。|Khái niệm này khá trừu tượng, không dễ hiểu lắm.|This concept is rather abstract and not easy to understand.|形容词谓语
+赶紧|gǎnjǐn|cản khẩn|vội, nhanh chóng|hurriedly|快下雨了，赶紧把衣服收进来。|Sắp mưa rồi, mau mang quần áo vào.|It's about to rain—quickly bring the laundry in.|将要
+赶快|gǎnkuài|cản khoái|nhanh lên, mau|quickly|电影快开始了，我们赶快进去吧。|Phim sắp bắt đầu rồi, chúng ta mau vào thôi.|The movie's about to start—let's hurry in.|吧
+感激|gǎnjī|cảm kích|cảm kích, biết ơn|grateful|我非常感激你在我困难的时候帮助了我。|Tôi vô cùng biết ơn bạn đã giúp tôi lúc khó khăn.|I'm very grateful you helped me when I was in trouble.|时间状语
+感受|gǎnshòu|cảm thụ|cảm nhận; cảm nhận được|feeling; to feel|在中国生活了一年，我深深感受到了中国人的热情。|Sống ở Trung Quốc một năm, tôi cảm nhận sâu sắc sự nhiệt tình của người Trung Quốc.|After a year in China, I deeply felt the warmth of Chinese people.|结果补语
+感想|gǎnxiǎng|cảm tưởng|cảm tưởng, cảm nghĩ|thoughts, impressions|看完这部电影，你有什么感想？|Xem xong bộ phim này, bạn có cảm nghĩ gì?|What are your thoughts after watching this film?|特指问句
+干脆|gāncuì|can thúy|dứt khoát; dứt khoát là|straightforward; simply|既然这么麻烦，干脆别去了。|Đã phiền phức như vậy thì dứt khoát đừng đi nữa.|Since it's so much trouble, let's just not go.|因果
+干活儿|gàn huór|cán hoạt nhi|làm việc (chân tay)|to work|他干活儿又快又好。|Anh ấy làm việc vừa nhanh vừa tốt.|He works fast and well.|并列
+干燥|gānzào|can táo|khô, khô ráo|dry|北方的冬天空气非常干燥。|Mùa đông miền Bắc không khí rất khô.|The air in northern winters is very dry.|形容词谓语
+钢铁|gāngtiě|cương thiết|gang thép, sắt thép|steel|这座桥是用钢铁建成的。|Cây cầu này được xây bằng thép.|This bridge is made of steel.|是…的
+高档|gāodàng|cao đương|cao cấp|high-grade|这家餐厅很高档，吃一顿饭要花不少钱。|Nhà hàng này rất cao cấp, ăn một bữa tốn không ít tiền.|This restaurant is upscale—a meal costs quite a lot.|形容词谓语
+高级|gāojí|cao cấp|cao cấp|advanced, high-level|她已经在学高级汉语了。|Cô ấy đã đang học tiếng Trung cao cấp rồi.|She's already studying advanced Chinese.|进行态
+搞|gǎo|cảo|làm, tiến hành|to do, to make|这个问题我一定要搞清楚。|Vấn đề này tôi nhất định phải làm cho rõ.|I must get to the bottom of this.|结果补语
+告别|gàobié|cáo biệt|từ biệt, chia tay|to bid farewell|毕业的时候，我们依依不舍地告别了老师。|Lúc tốt nghiệp, chúng tôi lưu luyến từ biệt thầy cô.|At graduation, we reluctantly said goodbye to our teachers.|时间状语
+格外|géwài|cách ngoại|đặc biệt, hết sức|especially|雨后的空气格外新鲜。|Không khí sau mưa đặc biệt trong lành.|The air after the rain is especially fresh.|形容词谓语
+隔壁|gébì|cách bích|nhà bên cạnh|next door|隔壁的邻居是一对老夫妻。|Hàng xóm nhà bên là một cặp vợ chồng già.|The neighbors next door are an elderly couple.|是字句
+个别|gèbié|cá biệt|cá biệt, riêng lẻ|individual, a few|除了个别同学，大家都完成了作业。|Ngoài một vài bạn, mọi người đều đã hoàn thành bài tập.|Except for a few students, everyone finished their homework.|强调
+个人|gèrén|cá nhân|cá nhân|individual; personal|这只是我个人的看法，仅供参考。|Đây chỉ là quan điểm cá nhân tôi, chỉ để tham khảo.|This is just my personal opinion, for reference only.|是字句
+个性|gèxìng|cá tính|cá tính|personality|她是一个很有个性的女孩子。|Cô ấy là một cô gái rất có cá tính.|She's a girl with a lot of personality.|是字句
+各自|gèzì|các tự|mỗi người, ai nấy|each, respective|吃完饭以后，大家各自回家了。|Ăn xong, mọi người ai về nhà nấy.|After dinner, everyone went home separately.|时间状语
+根|gēn|căn|rễ; cây, sợi (lượng từ vật dài mảnh)|root; measure word for long thin things|桌子上放着一根香蕉。|Trên bàn để một quả chuối.|There's a banana on the table.|存现句
+根本|gēnběn|căn bản|căn bản; hoàn toàn (không)|fundamental; at all|我根本不认识他，怎么会给他打电话？|Tôi hoàn toàn không quen anh ta, sao lại gọi điện cho anh ta chứ?|I don't know him at all—why would I call him?|反问句
+工厂|gōngchǎng|công xưởng|nhà máy|factory|他在一家汽车工厂当工程师。|Anh ấy làm kỹ sư ở một nhà máy ô tô.|He's an engineer at a car factory.|介词短语
+工程师|gōngchéngshī|công trình sư|kỹ sư|engineer|我哥哥是一名软件工程师。|Anh trai tôi là một kỹ sư phần mềm.|My older brother is a software engineer.|是字句
+工具|gōngjù|công cụ|công cụ, dụng cụ|tool|语言是人们交流的工具。|Ngôn ngữ là công cụ giao tiếp của con người.|Language is a tool for communication.|是字句
+工人|gōngrén|công nhân|công nhân|worker|工厂里的工人每天工作八个小时。|Công nhân trong nhà máy mỗi ngày làm việc tám tiếng.|The factory workers work eight hours a day.|时量动量
+工业|gōngyè|công nghiệp|công nghiệp|industry|这个城市的工业很发达。|Công nghiệp của thành phố này rất phát triển.|This city's industry is highly developed.|形容词谓语
+公布|gōngbù|công bố|công bố|to announce|考试成绩下周公布。|Kết quả thi sẽ được công bố vào tuần sau.|The exam results will be announced next week.|陈述句
+公开|gōngkāi|công khai|công khai|public; to make public|他们终于公开了两个人的关系。|Cuối cùng họ đã công khai mối quan hệ của hai người.|They finally made their relationship public.|了
+公平|gōngpíng|công bình|công bằng|fair|这样做对大家都很公平。|Làm như vậy công bằng với tất cả mọi người.|Doing it this way is fair to everyone.|介词短语
+公寓|gōngyù|công ngụ|căn hộ, chung cư|apartment|我在学校附近租了一套小公寓。|Tôi đã thuê một căn hộ nhỏ gần trường.|I rented a small apartment near the school.|介词短语
+公元|gōngyuán|công nguyên|Công nguyên|AD (Common Era)|这座寺庙建于公元八世纪。|Ngôi chùa này được xây vào thế kỷ thứ tám Công nguyên.|This temple was built in the eighth century AD.|介词短语
+公主|gōngzhǔ|công chúa|công chúa|princess|小女孩最喜欢听公主的故事。|Các bé gái thích nhất là nghe chuyện công chúa.|Little girls love stories about princesses.|陈述句
+功能|gōngnéng|công năng|chức năng|function|这款手机的功能非常多。|Mẫu điện thoại này có rất nhiều chức năng.|This phone has lots of features.|形容词谓语
+恭喜|gōngxǐ|cung hỷ|chúc mừng|congratulations|恭喜你找到了一份好工作！|Chúc mừng bạn đã tìm được một công việc tốt!|Congratulations on finding a good job!|感叹句
+贡献|gòngxiàn|cống hiến|cống hiến, đóng góp|contribution; to contribute|他为国家的发展做出了巨大的贡献。|Ông ấy đã có những đóng góp to lớn cho sự phát triển của đất nước.|He made a huge contribution to the country's development.|介词短语
+沟通|gōutōng|câu thông|giao tiếp, trao đổi|to communicate|父母应该多和孩子沟通。|Cha mẹ nên trò chuyện với con cái nhiều hơn.|Parents should communicate more with their children.|能愿动词
+构成|gòuchéng|cấu thành|cấu thành, tạo thành|to constitute|这个句子由主语、谓语和宾语构成。|Câu này được cấu thành từ chủ ngữ, vị ngữ và tân ngữ.|This sentence is made up of a subject, predicate and object.|介词短语
+姑姑|gūgu|cô cô|cô (em/chị gái của bố)|paternal aunt|我姑姑在美国工作了十年。|Cô tôi đã làm việc ở Mỹ mười năm.|My aunt worked in America for ten years.|时量动量
+姑娘|gūniang|cô nương|cô gái|girl, young woman|那个姑娘长得很漂亮，性格也很好。|Cô gái đó rất xinh đẹp, tính cách cũng rất tốt.|That girl is pretty and has a great personality.|并列
+古代|gǔdài|cổ đại|thời cổ đại|ancient times|古代的人是怎么过春节的？|Người thời xưa đón Tết thế nào?|How did people in ancient times celebrate Spring Festival?|是…的
+古典|gǔdiǎn|cổ điển|cổ điển|classical|我爸爸很喜欢听古典音乐。|Bố tôi rất thích nghe nhạc cổ điển.|My dad loves listening to classical music.|陈述句
+股票|gǔpiào|cổ phiếu|cổ phiếu|stock, share|最近股票涨了，他赚了不少钱。|Gần đây cổ phiếu tăng, anh ấy kiếm được không ít tiền.|Stocks went up recently, and he made quite a bit of money.|因果
+骨头|gǔtou|cốt đầu|xương|bone|小狗叼着一根骨头跑了。|Con chó con ngậm một khúc xương chạy mất.|The puppy ran off with a bone in its mouth.|着
+鼓舞|gǔwǔ|cổ vũ|cổ vũ, khích lệ|to inspire|这个好消息鼓舞了所有的人。|Tin vui này đã khích lệ tất cả mọi người.|This good news inspired everyone.|了
+鼓掌|gǔzhǎng|cổ chưởng|vỗ tay|to applaud|演出结束后，观众热烈鼓掌。|Sau khi buổi diễn kết thúc, khán giả nhiệt liệt vỗ tay.|After the show, the audience applauded warmly.|时间状语
+固定|gùdìng|cố định|cố định|fixed; to fix|他没有固定的工作，经常换地方。|Anh ấy không có công việc cố định, thường xuyên đổi chỗ.|He has no steady job and often moves around.|有字句
+挂号|guàhào|quải hiệu|lấy số (khám bệnh); gửi bảo đảm|to register (at a hospital)|看病以前要先去挂号。|Trước khi khám bệnh phải đi lấy số trước.|You need to register before seeing a doctor.|时间状语
+乖|guāi|quai|ngoan|well-behaved|这孩子真乖，从来不哭不闹。|Đứa bé này ngoan thật, chưa bao giờ khóc nháo.|This child is so good—never cries or fusses.|强调
+拐弯|guǎiwān|quải loan|rẽ, quẹo|to turn a corner|前面拐弯就是超市。|Rẽ ở phía trước là tới siêu thị.|The supermarket is just around the corner.|承接
+怪不得|guàibude|quái bất đắc|thảo nào, hèn chi|no wonder|原来他生病了，怪不得今天没来上课。|Hóa ra cậu ấy bị ốm, thảo nào hôm nay không đến lớp.|So he's sick—no wonder he didn't come to class today.|因果
+关闭|guānbì|quan bế|đóng cửa, đóng|to close|这家商店因为生意不好关闭了。|Cửa hàng này đóng cửa vì làm ăn không tốt.|This shop closed because business was bad.|因果
+观察|guānchá|quan sát|quan sát|to observe|科学家们正在观察这种动物的生活习惯。|Các nhà khoa học đang quan sát tập tính sinh hoạt của loài động vật này.|Scientists are observing this animal's habits.|进行态
+观点|guāndiǎn|quan điểm|quan điểm|point of view|我不同意你的观点。|Tôi không đồng ý với quan điểm của bạn.|I disagree with your view.|陈述句
+观念|guānniàn|quan niệm|quan niệm|concept, idea|随着社会的发展，人们的观念也在不断变化。|Cùng với sự phát triển của xã hội, quan niệm của con người cũng không ngừng thay đổi.|As society develops, people's ideas keep changing.|介词短语
+官|guān|quan|quan chức|official|他父亲以前是个大官。|Bố anh ấy trước đây là một quan chức lớn.|His father used to be a high-ranking official.|是字句
+管子|guǎnzi|quản tử|ống|pipe, tube|厨房的水管子坏了，得找人来修。|Ống nước trong bếp hỏng rồi, phải gọi người đến sửa.|The kitchen water pipe is broken—we need someone to fix it.|兼语句
+冠军|guànjūn|quán quân|nhà vô địch, quán quân|champion|他在全国游泳比赛中获得了冠军。|Anh ấy giành chức vô địch trong giải bơi lội toàn quốc.|He won the national swimming championship.|介词短语
+光滑|guānghuá|quang hoạt|nhẵn bóng, trơn|smooth|这块石头的表面非常光滑。|Bề mặt hòn đá này rất nhẵn.|The surface of this stone is very smooth.|形容词谓语
+光临|guānglín|quang lâm|ghé thăm (kính ngữ)|to be present (polite)|欢迎光临，请问几位？|Hoan nghênh quý khách, xin hỏi mấy vị ạ?|Welcome! How many in your party?|特指问句
+光明|guāngmíng|quang minh|tươi sáng, sáng sủa|bright|只要努力，未来一定是光明的。|Chỉ cần nỗ lực, tương lai nhất định tươi sáng.|As long as you work hard, the future will be bright.|条件
+光盘|guāngpán|quang bàn|đĩa CD|CD, disc|现在已经很少有人用光盘听音乐了。|Bây giờ đã rất ít người dùng đĩa CD để nghe nhạc.|Very few people use CDs to listen to music anymore.|有字句
+广场|guǎngchǎng|quảng trường|quảng trường|square, plaza|晚上很多人在广场上跳舞。|Buổi tối rất nhiều người nhảy múa trên quảng trường.|In the evening lots of people dance in the square.|介词短语
+广大|guǎngdà|quảng đại|rộng lớn; đông đảo|vast; numerous|这个节目受到了广大观众的欢迎。|Chương trình này được đông đảo khán giả yêu thích.|This program is popular with a wide audience.|被字句
+广泛|guǎngfàn|quảng phiếm|rộng rãi|extensive|他的兴趣很广泛，喜欢音乐、运动和旅游。|Sở thích của anh ấy rất rộng, thích âm nhạc, thể thao và du lịch.|He has broad interests: music, sports and travel.|形容词谓语
+归纳|guīnà|quy nạp|quy nạp, tổng hợp|to sum up|请把文章的主要观点归纳一下。|Hãy tổng hợp lại các quan điểm chính của bài viết.|Please sum up the main points of the article.|把字句
+规矩|guīju|quy củ|phép tắc, quy củ; đứng đắn|rules; well-behaved|每个家庭都有自己的规矩。|Mỗi gia đình đều có phép tắc riêng.|Every family has its own rules.|有字句
+规律|guīlǜ|quy luật|quy luật; điều độ|law, pattern; regular|他的生活很有规律，每天早睡早起。|Cuộc sống của anh ấy rất điều độ, ngày nào cũng ngủ sớm dậy sớm.|He lives a regular life, going to bed early and rising early.|形容词谓语
+规模|guīmó|quy mô|quy mô|scale|这次展览的规模是历史上最大的。|Quy mô của cuộc triển lãm lần này là lớn nhất trong lịch sử.|This exhibition is the largest in history.|是字句
+规则|guīzé|quy tắc|quy tắc, luật|rule|比赛以前，裁判向大家解释了比赛规则。|Trước trận đấu, trọng tài đã giải thích luật thi đấu cho mọi người.|Before the match, the referee explained the rules to everyone.|介词短语
+柜台|guìtái|quỹ đài|quầy|counter|请到二号柜台办理手续。|Xin mời đến quầy số hai làm thủ tục.|Please go to counter two to complete the procedures.|连动句
+滚|gǔn|cổn|lăn|to roll|球从山坡上滚了下来。|Quả bóng lăn từ sườn dốc xuống.|The ball rolled down the hillside.|趋向补语
+锅|guō|oa|nồi, chảo|pot, wok|锅里的汤快煮好了。|Canh trong nồi sắp nấu xong rồi.|The soup in the pot is almost done.|将要
+国庆节|Guóqìngjié|quốc khánh tiết|ngày Quốc khánh|National Day|国庆节我们放七天假。|Dịp Quốc khánh chúng tôi được nghỉ bảy ngày.|We get seven days off for National Day.|时量动量
+国王|guówáng|quốc vương|quốc vương, vua|king|很久以前，有一个国王非常喜欢新衣服。|Ngày xửa ngày xưa, có một ông vua rất thích quần áo mới.|Long ago, there was a king who loved new clothes.|存现句
+果然|guǒrán|quả nhiên|quả nhiên|as expected|天气预报说今天有雨，果然下雨了。|Dự báo thời tiết nói hôm nay có mưa, quả nhiên trời mưa thật.|The forecast said it would rain today, and sure enough it did.|了
+果实|guǒshí|quả thực|quả; thành quả|fruit; fruits (of labor)|秋天到了，树上结满了果实。|Mùa thu đến, trên cây trĩu quả.|Autumn has come, and the trees are laden with fruit.|存现句
+过分|guòfèn|quá phận|quá đáng, quá mức|excessive|你这样说话太过分了！|Bạn nói như vậy quá đáng quá!|That's going too far!|感叹句
+过敏|guòmǐn|quá mẫn|dị ứng|allergic|我对海鲜过敏，一吃就起红点。|Tôi bị dị ứng hải sản, cứ ăn là nổi mẩn đỏ.|I'm allergic to seafood—I break out in red spots as soon as I eat it.|承接
+过期|guòqī|quá kỳ|quá hạn, hết hạn|to expire|这盒牛奶已经过期了，别喝了。|Hộp sữa này hết hạn rồi, đừng uống nữa.|This carton of milk has expired—don't drink it.|祈使句
+哈|hā|cáp|ha ha (tiếng cười)|ha (laughter)|听完他的笑话，大家哈哈大笑。|Nghe xong chuyện cười của anh ấy, mọi người cười ha hả.|After hearing his joke, everyone roared with laughter.|时间状语
+海关|hǎiguān|hải quan|hải quan|customs|过海关的时候要检查行李。|Khi qua hải quan phải kiểm tra hành lý.|Luggage is checked when going through customs.|时间状语
+海鲜|hǎixiān|hải tiên|hải sản|seafood|这个城市的海鲜又新鲜又便宜。|Hải sản ở thành phố này vừa tươi vừa rẻ.|Seafood in this city is fresh and cheap.|并列
+喊|hǎn|hám|gọi to, hét|to shout|有人在楼下喊你的名字。|Có người đang gọi tên bạn dưới lầu.|Someone downstairs is calling your name.|进行态
+行动|xíngdòng|hành động|hành động|action; to act|与其说，不如马上行动。|Nói chi bằng hành động ngay.|Better to act right away than just talk.|选择
+行人|xíngrén|hành nhân|người đi đường|pedestrian|开车要注意路上的行人。|Lái xe phải chú ý người đi đường.|When driving, watch out for pedestrians.|能愿动词
+行为|xíngwéi|hành vi|hành vi|behavior|这种不文明的行为应该受到批评。|Hành vi thiếu văn minh như vậy đáng bị phê bình.|Such uncivilized behavior deserves criticism.|能愿动词
+行业|hángyè|hàng nghiệp|ngành nghề|industry, profession|你将来想从事哪个行业？|Sau này bạn muốn làm trong ngành nào?|Which industry do you want to work in?|特指问句
+豪华|háohuá|hào hoa|xa hoa, sang trọng|luxurious|他们住在一家非常豪华的酒店里。|Họ ở trong một khách sạn vô cùng sang trọng.|They're staying in a very luxurious hotel.|介词短语
+好客|hàokè|hiếu khách|hiếu khách|hospitable|这里的人非常好客，经常请我去家里吃饭。|Người ở đây rất hiếu khách, thường mời tôi đến nhà ăn cơm.|People here are very hospitable and often invite me over for dinner.|兼语句
+好奇|hàoqí|hiếu kỳ|tò mò|curious|孩子们对什么都很好奇。|Trẻ con tò mò về mọi thứ.|Children are curious about everything.|强调
+合法|héfǎ|hợp pháp|hợp pháp|legal|在这里开车必须有合法的驾驶证。|Lái xe ở đây phải có bằng lái hợp pháp.|You must have a valid license to drive here.|能愿动词
+合理|hélǐ|hợp lý|hợp lý|reasonable|你的要求很合理，我们会考虑的。|Yêu cầu của bạn rất hợp lý, chúng tôi sẽ cân nhắc.|Your request is reasonable; we'll consider it.|形容词谓语
+合同|hétong|hợp đồng|hợp đồng|contract|签合同以前，一定要仔细看清楚。|Trước khi ký hợp đồng nhất định phải xem kỹ.|Read the contract carefully before signing.|时间状语
+合影|héyǐng|hợp ảnh|chụp ảnh chung; ảnh chung|group photo|毕业那天，全班同学一起合影留念。|Ngày tốt nghiệp, cả lớp cùng chụp ảnh chung làm kỷ niệm.|On graduation day, the whole class took a group photo.|连动句
+合作|hézuò|hợp tác|hợp tác|to cooperate|希望我们以后有更多合作的机会。|Mong sau này chúng ta có nhiều cơ hội hợp tác hơn.|I hope we have more chances to work together in future.|定语
+何必|hébì|hà tất|hà tất, cần gì phải|why must|这点小事，何必生这么大的气？|Chuyện nhỏ như vậy, hà tất phải giận đến thế?|Why get so angry over such a small thing?|反问句
+何况|hékuàng|hà huống|huống hồ, huống chi|let alone|这个问题连老师都不会，何况我们呢？|Câu này đến thầy giáo còn không biết, huống hồ là chúng ta?|Even the teacher can't solve this, let alone us.|递进
+和平|hépíng|hòa bình|hòa bình|peace|全世界的人都希望和平。|Mọi người trên toàn thế giới đều mong muốn hòa bình.|People all over the world want peace.|陈述句
+核心|héxīn|hạch tâm|cốt lõi, hạt nhân|core|这是整个问题的核心。|Đây là cốt lõi của toàn bộ vấn đề.|This is the core of the whole issue.|是字句
+恨|hèn|hận|hận, căm ghét|to hate|我恨自己当时没有勇气说出来。|Tôi hận bản thân lúc đó không đủ dũng khí nói ra.|I hate myself for not having the courage to say it then.|陈述句
+猴子|hóuzi|hầu tử|con khỉ|monkey|猴子在树上跳来跳去。|Con khỉ nhảy qua nhảy lại trên cây.|The monkeys are leaping about in the trees.|趋向补语
+后背|hòubèi|hậu bối|lưng|back (of the body)|我的后背有点儿疼，你帮我看看。|Lưng tôi hơi đau, bạn xem giúp tôi với.|My back hurts a bit—can you take a look?|兼语句
+后果|hòuguǒ|hậu quả|hậu quả|consequence|酒后开车的后果非常严重。|Hậu quả của việc lái xe sau khi uống rượu rất nghiêm trọng.|The consequences of drink-driving are very serious.|形容词谓语
+呼吸|hūxī|hô hấp|hít thở, hô hấp|to breathe|到了山上，我们可以呼吸新鲜空气。|Lên núi, chúng ta có thể hít thở không khí trong lành.|Up in the mountains, we can breathe fresh air.|能愿动词
+忽然|hūrán|hốt nhiên|bỗng nhiên, đột nhiên|suddenly|我们正在吃饭，忽然停电了。|Chúng tôi đang ăn cơm thì bỗng nhiên mất điện.|We were eating when suddenly the power went out.|进行态
+忽视|hūshì|hốt thị|xem nhẹ, lơ là|to neglect|我们不能忽视这个问题的严重性。|Chúng ta không thể xem nhẹ tính nghiêm trọng của vấn đề này.|We can't ignore the seriousness of this problem.|能愿动词
+胡说|húshuō|hồ thuyết|nói bậy, nói càn|to talk nonsense|别胡说，事情根本不是这样的！|Đừng nói bậy, sự việc hoàn toàn không phải như vậy!|Don't talk nonsense—that's not what happened at all!|祈使句
+胡同|hútòng|hồ đồng|ngõ, hẻm|alley, hutong|老北京的胡同里有很多有意思的故事。|Trong những con ngõ Bắc Kinh xưa có rất nhiều câu chuyện thú vị.|Old Beijing's hutongs are full of interesting stories.|存现句
+壶|hú|hồ|ấm, bình|pot, kettle|服务员，请再给我们上一壶茶。|Phục vụ ơi, cho chúng tôi thêm một ấm trà.|Waiter, another pot of tea, please.|双宾语
+蝴蝶|húdié|hồ điệp|con bướm|butterfly|花园里飞着几只美丽的蝴蝶。|Trong vườn có mấy con bướm xinh đẹp đang bay.|A few beautiful butterflies are flying in the garden.|存现句
+糊涂|hútu|hồ đồ|hồ đồ, lẫn lộn|muddled|你看我这记性，真是越来越糊涂了。|Bạn xem trí nhớ của tôi này, thật là ngày càng lẫn.|Look at my memory—I'm getting more and more muddled.|越…越
+花生|huāshēng|hoa sinh|lạc, đậu phộng|peanut|他对花生过敏，一点儿都不能吃。|Anh ấy dị ứng lạc, một chút cũng không được ăn.|He's allergic to peanuts and can't eat even a little.|强调
+划|huá|hoạch|chèo (thuyền); rạch|to row; to scratch|我们在湖上划了一个下午的船。|Chúng tôi đã chèo thuyền trên hồ cả buổi chiều.|We spent the whole afternoon rowing on the lake.|时量动量
+华裔|huáyì|hoa duệ|người gốc Hoa|person of Chinese descent|他是美籍华裔，中文说得不太好。|Anh ấy là người Mỹ gốc Hoa, nói tiếng Trung không giỏi lắm.|He's Chinese-American and doesn't speak Chinese very well.|转折
+滑|huá|hoạt|trơn; trượt|slippery; to slide|下雪以后路很滑，走路要小心。|Sau khi tuyết rơi đường rất trơn, đi lại phải cẩn thận.|The roads are slippery after snow—walk carefully.|时间状语
+化学|huàxué|hóa học|hóa học|chemistry|我中学的时候最怕上化学课。|Hồi trung học tôi sợ nhất là giờ hóa.|In middle school I dreaded chemistry class the most.|时间状语
+话题|huàtí|thoại đề|chủ đề (câu chuyện)|topic|我们换个话题吧，别再说这件事了。|Chúng ta đổi chủ đề đi, đừng nói chuyện này nữa.|Let's change the subject and stop talking about this.|吧
+怀念|huáiniàn|hoài niệm|nhớ nhung, hoài niệm|to cherish the memory of|我很怀念大学时的生活。|Tôi rất nhớ cuộc sống thời đại học.|I really miss my university days.|陈述句
+怀孕|huáiyùn|hoài dựng|mang thai|pregnant|她怀孕三个月了。|Cô ấy mang thai được ba tháng rồi.|She's three months pregnant.|时量动量
+缓解|huǎnjiě|hoãn giải|làm dịu, giảm nhẹ|to alleviate|听音乐可以缓解工作压力。|Nghe nhạc có thể giảm bớt áp lực công việc.|Listening to music can relieve work stress.|能愿动词
+幻想|huànxiǎng|ảo tưởng|ảo tưởng, mơ mộng|fantasy; to fantasize|他常常幻想自己成为一名科学家。|Cậu ấy thường mơ mộng mình trở thành nhà khoa học.|He often dreams of becoming a scientist.|陈述句
+慌张|huāngzhāng|hoảng trương|hoảng hốt, luống cuống|flustered|别慌张，慢慢说，到底发生了什么？|Đừng hoảng, nói từ từ, rốt cuộc đã xảy ra chuyện gì?|Don't panic—speak slowly. What happened?|特指问句
+黄金|huángjīn|hoàng kim|vàng; hoàng kim|gold; golden|国庆节是旅游的黄金时间。|Dịp Quốc khánh là thời điểm vàng để du lịch.|National Day is prime time for travel.|是字句
+灰|huī|hôi|tro, bụi; màu xám|ash, dust; gray|他穿着一件灰色的毛衣。|Anh ấy mặc một chiếc áo len màu xám.|He's wearing a gray sweater.|着
+灰尘|huīchén|hôi trần|bụi|dust|很久没打扫了，桌子上都是灰尘。|Lâu không dọn dẹp, trên bàn toàn là bụi.|It hasn't been cleaned in ages—the desk is covered in dust.|存现句
+灰心|huīxīn|hôi tâm|nản lòng|to lose heart|失败了一次没关系，千万不要灰心。|Thất bại một lần không sao, tuyệt đối đừng nản lòng.|Failing once is fine—don't lose heart.|祈使句
+挥|huī|huy|vẫy, vung|to wave|他站在车窗边向我们挥手告别。|Anh ấy đứng bên cửa sổ xe vẫy tay tạm biệt chúng tôi.|He stood by the car window waving goodbye to us.|连动句
+恢复|huīfù|khôi phục|hồi phục, khôi phục|to recover, to restore|经过一个月的休息，他的身体已经恢复了。|Sau một tháng nghỉ ngơi, sức khỏe anh ấy đã hồi phục.|After a month of rest, he has recovered.|介词短语
+汇率|huìlǜ|hối suất|tỷ giá hối đoái|exchange rate|今天美元对人民币的汇率是多少？|Tỷ giá đô la Mỹ so với nhân dân tệ hôm nay là bao nhiêu?|What's today's exchange rate between the US dollar and the RMB?|特指问句
+会计|kuàijì|hội kế|kế toán|accountant; accounting|她在一家大公司当会计。|Cô ấy làm kế toán ở một công ty lớn.|She's an accountant at a large company.|介词短语
+婚礼|hūnlǐ|hôn lễ|lễ cưới|wedding|下个月我要去参加朋友的婚礼。|Tháng sau tôi phải đi dự đám cưới của bạn.|Next month I'm going to a friend's wedding.|连动句
+婚姻|hūnyīn|hôn nhân|hôn nhân|marriage|幸福的婚姻需要两个人共同努力。|Hôn nhân hạnh phúc cần sự nỗ lực chung của cả hai người.|A happy marriage takes effort from both people.|能愿动词
+活跃|huóyuè|hoạt dược|sôi nổi, năng động|active, lively|她在班里很活跃，经常参加各种活动。|Cô ấy rất năng động trong lớp, thường tham gia các hoạt động.|She's very active in class and often takes part in activities.|形容词谓语
+火柴|huǒchái|hỏa sài|que diêm|match|现在很少有人用火柴了。|Bây giờ rất ít người dùng diêm nữa.|Very few people use matches anymore.|有字句
+伙伴|huǒbàn|hỏa bạn|bạn đồng hành, đối tác|partner, companion|他是我小时候最好的伙伴。|Cậu ấy là người bạn thân nhất hồi nhỏ của tôi.|He was my best childhood friend.|是字句
+或许|huòxǔ|hoặc hứa|có lẽ|perhaps|或许他已经忘了今天的约会。|Có lẽ anh ấy đã quên cuộc hẹn hôm nay rồi.|Perhaps he's forgotten today's appointment.|了
+机器|jīqì|cơ khí|máy móc|machine|这台机器坏了，需要修理。|Cái máy này hỏng rồi, cần sửa.|This machine is broken and needs repair.|能愿动词
+肌肉|jīròu|cơ nhục|cơ bắp|muscle|他每天去健身房锻炼肌肉。|Ngày nào anh ấy cũng đến phòng gym tập cơ bắp.|He goes to the gym every day to build muscle.|连动句
+基本|jīběn|cơ bản|cơ bản|basic; basically|这项工作基本完成了。|Công việc này về cơ bản đã hoàn thành.|This work is basically finished.|结果补语
+激烈|jīliè|kích liệt|kịch liệt, gay gắt|intense, fierce|比赛进行得非常激烈。|Trận đấu diễn ra vô cùng gay cấn.|The match was extremely intense.|程度补语
+及格|jígé|cập cách|đạt, qua (điểm đạt)|to pass (an exam)|这次考试我终于及格了。|Kỳ thi lần này cuối cùng tôi cũng qua.|I finally passed this exam.|了
+极其|jíqí|cực kỳ|cực kỳ|extremely|这是一个极其重要的决定。|Đây là một quyết định cực kỳ quan trọng.|This is an extremely important decision.|是字句
+急忙|jímáng|cấp mang|vội vàng|hastily|听到孩子哭了，妈妈急忙跑了过去。|Nghe tiếng con khóc, mẹ vội chạy tới.|Hearing the baby cry, the mother rushed over.|趋向补语
+急诊|jízhěn|cấp chẩn|cấp cứu|emergency treatment|他半夜肚子疼，被送去医院看急诊。|Nửa đêm anh ấy đau bụng, được đưa đến bệnh viện cấp cứu.|He had a stomachache in the middle of the night and was taken to the ER.|被字句
+集合|jíhé|tập hợp|tập hợp, tập trung|to gather|明天早上八点在学校门口集合。|Tám giờ sáng mai tập trung ở cổng trường.|We'll gather at the school gate at eight tomorrow morning.|介词短语
+集体|jítǐ|tập thể|tập thể|collective|这个成绩是我们集体努力的结果。|Thành tích này là kết quả nỗ lực của tập thể chúng tôi.|This result is the product of our collective effort.|是字句
+集中|jízhōng|tập trung|tập trung|to concentrate|上课的时候要集中注意力。|Trong giờ học phải tập trung chú ý.|Concentrate during class.|时间状语
+计算|jìsuàn|kế toán|tính toán|to calculate|请你帮我计算一下一共要花多少钱。|Bạn tính giúp tôi xem tổng cộng phải tiêu bao nhiêu tiền.|Please help me calculate how much it'll cost in total.|兼语句

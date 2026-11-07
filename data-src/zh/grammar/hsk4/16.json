@@ -1,0 +1,1114 @@
+{
+  "n": 16,
+  "zh": "生活可以更美好",
+  "vi": "Cuộc sống có thể tốt đẹp hơn",
+  "en": "Life can be better",
+  "texts": [
+    {
+      "title": "小夏出国留学遇到了问题",
+      "paras": [
+        {
+          "zh": "小雨：你马上就要硕士毕业了吧？将来有什么打算？",
+          "vi": "Tiểu Vũ: Cậu sắp tốt nghiệp thạc sĩ rồi nhỉ? Sau này có dự định gì?",
+          "en": "Xiaoyu: You're about to finish your master's, aren't you? What are your plans?"
+        },
+        {
+          "zh": "小夏：我想出国读博士，一直在准备办签证需要的材料。",
+          "vi": "Tiểu Hạ: Tớ muốn ra nước ngoài học tiến sĩ, đang chuẩn bị hồ sơ cần thiết để làm thị thực.",
+          "en": "Xiao Xia: I want to go abroad to do a PhD, and I've been preparing the documents I need for a visa."
+        },
+        {
+          "zh": "小雨：现在材料准备得怎么样了？",
+          "vi": "Tiểu Vũ: Bây giờ hồ sơ chuẩn bị đến đâu rồi?",
+          "en": "Xiaoyu: How are the documents coming along?"
+        },
+        {
+          "zh": "小夏：成绩证明和护照已经准备好了，另外，还跟国外的大学取得了联系，填写了报名表格。",
+          "vi": "Tiểu Hạ: Bảng điểm và hộ chiếu đã chuẩn bị xong, ngoài ra còn liên hệ được với trường đại học nước ngoài, điền đơn đăng ký rồi.",
+          "en": "Xiao Xia: My transcripts and passport are ready, and I've also got in touch with the foreign university and filled in the application form."
+        },
+        {
+          "zh": "小雨：还应该有国外大学给你的邀请信吧？他们把邀请信传真给你了吗？",
+          "vi": "Tiểu Vũ: Chắc còn cần thư mời của trường đại học nước ngoài gửi cậu nữa nhỉ? Họ đã fax thư mời cho cậu chưa?",
+          "en": "Xiaoyu: You should also have an invitation letter from the foreign university, right? Have they faxed it to you?"
+        },
+        {
+          "zh": "小夏：没有啊，下个星期我就要去使馆办签证了，这可怎么办？",
+          "vi": "Tiểu Hạ: Chưa đâu, tuần sau tớ phải đến đại sứ quán làm thị thực rồi, thế này thì làm sao đây?",
+          "en": "Xiao Xia: Not yet, and I have to go to the embassy for my visa next week. What on earth should I do?"
+        },
+        {
+          "zh": "小雨：这可是个大问题，我也不太清楚。我帮你查一下学校的电话号码，你打电话问一下吧。",
+          "vi": "Tiểu Vũ: Đây đúng là vấn đề lớn, tớ cũng không rõ lắm. Tớ giúp cậu tra số điện thoại của trường, cậu gọi điện hỏi thử đi.",
+          "en": "Xiaoyu: That really is a big problem, and I'm not too sure about it either. I'll look up the university's phone number for you, and you can call and ask."
+        }
+      ],
+      "words": [
+        {
+          "zh": "博士",
+          "py": "bóshì",
+          "pos": "dt.",
+          "vi": "tiến sĩ",
+          "en": "doctorate, PhD"
+        },
+        {
+          "zh": "签证",
+          "py": "qiānzhèng",
+          "pos": "dt.",
+          "vi": "thị thực, visa",
+          "en": "visa"
+        },
+        {
+          "zh": "报名",
+          "py": "bào míng",
+          "pos": "đgt.",
+          "vi": "ghi danh, đăng ký",
+          "en": "to sign up, to apply"
+        },
+        {
+          "zh": "表格",
+          "py": "biǎogé",
+          "pos": "dt.",
+          "vi": "bản kê khai, mẫu đơn",
+          "en": "form"
+        },
+        {
+          "zh": "传真",
+          "py": "chuánzhēn",
+          "pos": "đgt.",
+          "vi": "gửi fax",
+          "en": "to fax"
+        },
+        {
+          "zh": "号码",
+          "py": "hàomǎ",
+          "pos": "dt.",
+          "vi": "số",
+          "en": "number"
+        }
+      ]
+    },
+    {
+      "title": "王老板告诉李进自己成功的经验",
+      "paras": [
+        {
+          "zh": "李进：谢谢您带我参观您的公司。在参观过程中我很激动，有个问题一直想问您。",
+          "vi": "Lý Tiến: Cảm ơn ông đã dẫn tôi tham quan công ty. Trong lúc tham quan tôi rất xúc động, có một câu hỏi tôi muốn hỏi ông mãi.",
+          "en": "Li Jin: Thank you for showing me round your company. I was really excited during the visit, and there's a question I've been wanting to ask you."
+        },
+        {
+          "zh": "王老板：好啊！小伙子，咱们一边吃西瓜，一边聊。",
+          "vi": "Ông chủ Vương: Được thôi! Chàng trai, chúng ta vừa ăn dưa hấu vừa nói chuyện.",
+          "en": "Boss Wang: Sure, young man! Let's chat over some watermelon."
+        },
+        {
+          "zh": "李进：您从大学毕业开始工作，到现在才十年时间，怎么给公司赚了这么多钱？这让我非常吃惊。我想向您学习一下成功的经验。",
+          "vi": "Lý Tiến: Ông từ lúc tốt nghiệp đại học bắt đầu đi làm đến giờ mới mười năm, làm sao kiếm được cho công ty nhiều tiền như vậy? Điều này khiến tôi rất ngạc nhiên. Tôi muốn học hỏi kinh nghiệm thành công của ông.",
+          "en": "Li Jin: It's only been ten years since you started working after university. How have you made so much money for the company? It amazes me. I'd like to learn from your experience of success."
+        },
+        {
+          "zh": "王老板：这个问题以前一个记者也问过我。做生意时虽然会遇到各种压力和困难，但是大家的机会都是相同的。你看，这里有三块大小不同的西瓜，我们用西瓜的大小代表钱的多少，要是我们一起开始吃，你会先选哪块？",
+          "vi": "Ông chủ Vương: Câu hỏi này trước đây một phóng viên cũng từng hỏi tôi. Làm ăn tuy sẽ gặp đủ loại áp lực và khó khăn, nhưng cơ hội của mọi người đều như nhau. Cậu xem, ở đây có ba miếng dưa hấu to nhỏ khác nhau, chúng ta dùng độ to nhỏ của dưa hấu đại diện cho tiền nhiều hay ít, nếu chúng ta cùng bắt đầu ăn, cậu sẽ chọn miếng nào trước?",
+          "en": "Boss Wang: A reporter asked me that once before. In business you meet all kinds of pressure and difficulties, but everyone has the same opportunities. Look, here are three pieces of watermelon of different sizes. Let the size stand for the amount of money. If we start eating together, which piece will you choose first?"
+        },
+        {
+          "zh": "李进：我肯定先吃最大的一块了，难道您会先吃小的，放弃吃大块的机会吗？",
+          "vi": "Lý Tiến: Tôi chắc chắn ăn miếng to nhất trước rồi, lẽ nào ông sẽ ăn miếng nhỏ trước, bỏ cơ hội ăn miếng to sao?",
+          "en": "Li Jin: I'd definitely eat the biggest piece first. Surely you wouldn't eat a small one first and give up the chance of the big one?"
+        },
+        {
+          "zh": "王老板：我会先吃最小的一块，因为在你没吃完最大的那块时，我还有时间再多吃一块，最后一定比你吃的西瓜多。听完我的回答，恐怕你已经知道我的答案了吧。",
+          "vi": "Ông chủ Vương: Tôi sẽ ăn miếng nhỏ nhất trước, vì trong lúc cậu chưa ăn xong miếng to nhất, tôi còn có thời gian ăn thêm một miếng nữa, cuối cùng chắc chắn ăn được nhiều dưa hơn cậu. Nghe xong câu trả lời của tôi, có lẽ cậu đã biết đáp án của tôi rồi.",
+          "en": "Boss Wang: I'd eat the smallest piece first, because while you're still eating the biggest one, I'll have time to eat another, so in the end I'll definitely have eaten more watermelon than you. Having heard my answer, I expect you already know what I mean."
+        }
+      ],
+      "words": [
+        {
+          "zh": "参观",
+          "py": "cānguān",
+          "pos": "đgt.",
+          "vi": "tham quan, đi thăm",
+          "en": "to visit, to look around"
+        },
+        {
+          "zh": "激动",
+          "py": "jīdòng",
+          "pos": "tt.",
+          "vi": "cảm động, xúc động",
+          "en": "excited, moved"
+        },
+        {
+          "zh": "小伙子",
+          "py": "xiǎohuǒzi",
+          "pos": "dt.",
+          "vi": "chàng trai",
+          "en": "young man"
+        },
+        {
+          "zh": "记者",
+          "py": "jìzhě",
+          "pos": "dt.",
+          "vi": "phóng viên, nhà báo",
+          "en": "reporter"
+        },
+        {
+          "zh": "代表",
+          "py": "dàibiǎo",
+          "pos": "đgt.",
+          "vi": "đại diện, thay mặt",
+          "en": "to represent",
+          "x": true
+        },
+        {
+          "zh": "恐怕",
+          "py": "kǒngpà",
+          "pos": "phó.",
+          "vi": "e rằng, có lẽ",
+          "en": "I'm afraid, probably"
+        }
+      ],
+      "names": [
+        {
+          "zh": "王",
+          "py": "Wáng",
+          "vi": "Vương (họ)",
+          "en": "Wang (a surname)"
+        }
+      ]
+    },
+    {
+      "title": "小林不好意思拒绝朋友",
+      "paras": [
+        {
+          "zh": "小林：今年放假我又回不了家了，这次我父母又要失望了。你有什么计划？",
+          "vi": "Tiểu Lâm: Năm nay nghỉ lễ tớ lại không về nhà được, lần này bố mẹ tớ lại thất vọng. Cậu có kế hoạch gì?",
+          "en": "Xiao Lin: I can't go home for the holidays again this year; my parents will be disappointed again. What are your plans?"
+        },
+        {
+          "zh": "小李：我计划去郊区住一个月。你不是已经买好火车票了吗？你到底怎么打算的呀？",
+          "vi": "Tiểu Lý: Tớ định ra ngoại ô ở một tháng. Chẳng phải cậu đã mua vé tàu rồi sao? Rốt cuộc cậu định thế nào?",
+          "en": "Xiao Li: I'm planning to stay in the suburbs for a month. Haven't you already bought your train ticket? What exactly are you planning?"
+        },
+        {
+          "zh": "小林：昨天一个外地的好朋友打电话说要来旅游，让我当导游，我实在不好意思拒绝。",
+          "vi": "Tiểu Lâm: Hôm qua một người bạn thân ở tỉnh khác gọi điện nói muốn đến du lịch, nhờ tớ làm hướng dẫn viên, tớ thật sự ngại từ chối.",
+          "en": "Xiao Lin: Yesterday a good friend from out of town called to say he's coming on holiday and asked me to be his guide. I really didn't feel I could refuse."
+        },
+        {
+          "zh": "小李：其实拒绝并不表示不愿意帮忙。遇到解决不了的问题或者无法完成的任务时，拒绝正好说明你对朋友负责。这也是对你父母负责的态度。",
+          "vi": "Tiểu Lý: Thật ra từ chối không có nghĩa là không muốn giúp. Khi gặp vấn đề không giải quyết được hoặc nhiệm vụ không thể hoàn thành, từ chối đúng là cho thấy cậu có trách nhiệm với bạn bè. Đây cũng là thái độ có trách nhiệm với bố mẹ cậu.",
+          "en": "Xiao Li: Actually, refusing doesn't mean you don't want to help. When you face a problem you can't solve or a task you can't complete, refusing shows you're being responsible to your friend. It's also a responsible attitude towards your parents."
+        },
+        {
+          "zh": "小林：既然别人找我帮忙，说明他真的很需要我的帮助。我担心要是说“不”的话，会让他误会和伤心。",
+          "vi": "Tiểu Lâm: Đã người ta nhờ tớ giúp thì chứng tỏ họ thật sự rất cần tớ giúp. Tớ lo nếu nói “không” sẽ khiến bạn ấy hiểu lầm và buồn.",
+          "en": "Xiao Lin: If someone asks me for help, it means they really need it. I'm worried that if I say no, he'll misunderstand and be hurt."
+        },
+        {
+          "zh": "小李：别担心！如果你用一个既合适又礼貌的方法告诉朋友，他一定会原谅你的。",
+          "vi": "Tiểu Lý: Đừng lo! Nếu cậu dùng một cách vừa phù hợp vừa lịch sự để nói với bạn, bạn ấy nhất định sẽ thông cảm cho cậu.",
+          "en": "Xiao Li: Don't worry! If you tell your friend in a suitable and polite way, he'll certainly forgive you."
+        }
+      ],
+      "words": [
+        {
+          "zh": "失望",
+          "py": "shīwàng",
+          "pos": "đgt.",
+          "vi": "thất vọng",
+          "en": "to be disappointed"
+        },
+        {
+          "zh": "郊区",
+          "py": "jiāoqū",
+          "pos": "dt.",
+          "vi": "vùng ngoại ô",
+          "en": "suburbs"
+        },
+        {
+          "zh": "到底",
+          "py": "dàodǐ",
+          "pos": "phó.",
+          "vi": "rốt cuộc (dùng trong câu hỏi để nhấn mạnh)",
+          "en": "(in questions) on earth, exactly"
+        },
+        {
+          "zh": "呀",
+          "py": "ya",
+          "pos": "trợ.",
+          "vi": "biến thể của 啊, dùng ở cuối câu hỏi cho giọng nhẹ nhàng hơn",
+          "en": "(softening particle)"
+        },
+        {
+          "zh": "导游",
+          "py": "dǎoyóu",
+          "pos": "dt.",
+          "vi": "hướng dẫn viên du lịch",
+          "en": "tour guide"
+        },
+        {
+          "zh": "礼貌",
+          "py": "lǐmào",
+          "pos": "tt.",
+          "vi": "lễ phép, lịch sự",
+          "en": "polite"
+        },
+        {
+          "zh": "原谅",
+          "py": "yuánliàng",
+          "pos": "đgt.",
+          "vi": "tha thứ",
+          "en": "to forgive"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "有些同学经常把“明天”和“将来”挂在嘴边，常说作业明天再完成，下次考试一定好好儿复习，等等。这种态度会浪费时间，不但会让你到最后什么事情都做不成，而且还得不到别人的同情。所以不要把什么事情都推到“明天”，一切从现在做起。就拿学汉语来说吧，首先要注意课前预习，找出第二天要学习的重点；其次，上课时要认真听，不能马虎；最后，课后要记得复习。只要这样，汉语就能越学越好，越说越自信。",
+          "vi": "Có những bạn học sinh luôn treo “ngày mai” và “tương lai” trên miệng, thường nói bài tập để mai làm, lần thi sau nhất định ôn tập cho tốt… Thái độ này sẽ lãng phí thời gian, không những khiến bạn cuối cùng chẳng làm được việc gì mà còn không nhận được sự thông cảm của người khác. Vì vậy đừng đẩy việc gì cũng sang “ngày mai”, mọi thứ hãy bắt đầu từ bây giờ. Lấy việc học tiếng Trung làm ví dụ, trước hết phải chú ý chuẩn bị bài trước khi lên lớp, tìm ra trọng tâm cần học ngày hôm sau; thứ hai, lúc lên lớp phải chăm chú nghe, không được cẩu thả; cuối cùng, sau giờ học phải nhớ ôn tập. Chỉ cần như vậy, tiếng Trung sẽ càng học càng giỏi, càng nói càng tự tin.",
+          "en": "Some students are always saying “tomorrow” and “in future”: they'll finish their homework tomorrow, they'll revise properly for the next exam, and so on. This attitude wastes time; not only will you end up getting nothing done, you won't get anyone's sympathy either. So don't push everything off to “tomorrow”; start everything now. Take learning Chinese: first, prepare before class and identify the key points you'll study the next day; second, listen carefully in class and don't be careless; finally, remember to review after class. If you do this, your Chinese will keep getting better and you'll speak more and more confidently."
+        }
+      ],
+      "words": [
+        {
+          "zh": "挂",
+          "py": "guà",
+          "pos": "đgt.",
+          "vi": "treo, móc",
+          "en": "to hang"
+        },
+        {
+          "zh": "同情",
+          "py": "tóngqíng",
+          "pos": "đgt.",
+          "vi": "thông cảm, đồng tình",
+          "en": "to sympathize"
+        },
+        {
+          "zh": "推",
+          "py": "tuī",
+          "pos": "đgt.",
+          "vi": "hoãn lại, đẩy, triển khai",
+          "en": "to push, to put off"
+        },
+        {
+          "zh": "预习",
+          "py": "yùxí",
+          "pos": "đgt.",
+          "vi": "chuẩn bị bài",
+          "en": "to prepare (lessons) in advance"
+        },
+        {
+          "zh": "重点",
+          "py": "zhòngdiǎn",
+          "pos": "dt.",
+          "vi": "trọng điểm, trọng tâm",
+          "en": "key point"
+        },
+        {
+          "zh": "马虎",
+          "py": "mǎhu",
+          "pos": "tt.",
+          "vi": "cẩu thả, lơ đễnh",
+          "en": "careless"
+        },
+        {
+          "zh": "自信",
+          "py": "zìxìn",
+          "pos": "tt.",
+          "vi": "tự tin",
+          "en": "confident"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "当你认为自己在哪方面很优秀时，千万要冷静，不要骄傲。因为这个世界很大，“天外有天，人外有人”，很可能有人在这方面比你更厉害。你现在是第一，并不表示你永远都是第一。就像比赛一样，没有人会永远输，也没有人会一直赢。我们知道的越多，就会发现自己不懂的也越多。我们应该重视平时的积累，多向周围的人学习。如果你敢诚实地{de}说出自己对哪方面不了解，并不说明自己比别人差，相反，这样做更能得到别人的尊重。",
+          "vi": "Khi bạn cho rằng mình xuất sắc về mặt nào đó, nhất định phải bình tĩnh, đừng kiêu ngạo. Vì thế giới này rất rộng lớn, “núi cao còn có núi cao hơn, người giỏi còn có người giỏi hơn”, rất có thể có người giỏi hơn bạn về mặt này. Bây giờ bạn đứng đầu không có nghĩa là bạn mãi mãi đứng đầu. Giống như thi đấu, không ai thua mãi, cũng không ai thắng mãi. Chúng ta biết càng nhiều thì càng phát hiện những điều mình không hiểu cũng càng nhiều. Chúng ta nên coi trọng sự tích lũy hằng ngày, học hỏi nhiều hơn từ những người xung quanh. Nếu bạn dám thành thật nói ra mình không hiểu về mặt nào, điều đó không chứng tỏ bạn kém hơn người khác, ngược lại, làm như vậy càng nhận được sự tôn trọng của người khác.",
+          "en": "When you think you're outstanding in some area, you must stay calm and not be proud. The world is big, and “there's always a sky beyond the sky, and someone better than you”; very likely someone is even better at it than you. Being first now doesn't mean you'll always be first. It's like competitions: nobody loses forever, and nobody wins all the time. The more we know, the more we discover we don't understand. We should value everyday accumulation and learn from the people around us. If you dare to say honestly what you don't understand, it doesn't mean you're worse than others; on the contrary, it earns you more respect."
+        }
+      ],
+      "words": [
+        {
+          "zh": "冷静",
+          "py": "lěngjìng",
+          "pos": "tt.",
+          "vi": "bình tĩnh, điềm tĩnh",
+          "en": "calm"
+        },
+        {
+          "zh": "输",
+          "py": "shū",
+          "pos": "đgt.",
+          "vi": "thua",
+          "en": "to lose"
+        },
+        {
+          "zh": "重视",
+          "py": "zhòngshì",
+          "pos": "đgt.",
+          "vi": "xem trọng, chú trọng",
+          "en": "to value, to attach importance to"
+        },
+        {
+          "zh": "敢",
+          "py": "gǎn",
+          "pos": "đgt.",
+          "vi": "dám",
+          "en": "to dare"
+        },
+        {
+          "zh": "尊重",
+          "py": "zūnzhòng",
+          "pos": "đgt.",
+          "vi": "tôn trọng",
+          "en": "to respect"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "小夏毕业后计划做什么？顺利吗？为什么？",
+        "label": "课文1",
+        "a": "她计划【出国读博士】。【不太顺利】，因为【国外大学还没把邀请信传真给她，可是下个星期她就要去使馆办签证了】。",
+        "vi": "Cô ấy định ra nước ngoài học tiến sĩ. Không thuận lợi lắm, vì trường đại học nước ngoài vẫn chưa fax thư mời cho cô ấy, mà tuần sau cô ấy phải đến đại sứ quán làm thị thực.",
+        "en": "She plans to go abroad for a PhD. It's not going smoothly, because the foreign university hasn't faxed her the invitation letter yet, and she has to apply for her visa next week."
+      },
+      {
+        "q": "根据课文，如果想出国留学可能需要准备哪些材料？",
+        "label": "课文1",
+        "a": "需要准备【成绩证明、护照、报名表格和国外大学的邀请信】。",
+        "vi": "Cần chuẩn bị bảng điểm, hộ chiếu, đơn đăng ký và thư mời của trường đại học nước ngoài.",
+        "en": "Transcripts, a passport, an application form and an invitation letter from the foreign university."
+      },
+      {
+        "q": "王老板怎么介绍自己的成功经验的？",
+        "label": "课文2",
+        "a": "他【用三块大小不同的西瓜来说明：他会先吃最小的一块，这样在别人没吃完最大的那块时，他还有时间再多吃一块，最后一定吃得最多】。",
+        "vi": "Ông dùng ba miếng dưa hấu to nhỏ khác nhau để giải thích: ông sẽ ăn miếng nhỏ nhất trước, như vậy trong lúc người khác chưa ăn xong miếng to nhất, ông còn kịp ăn thêm một miếng, cuối cùng chắc chắn ăn nhiều nhất.",
+        "en": "He used three pieces of watermelon of different sizes: he'd eat the smallest first, so that while others were still eating the biggest, he'd have time for another piece and end up eating the most."
+      },
+      {
+        "q": "根据王老板的回答，说说他赚这么多钱的原因是什么。",
+        "label": "课文2",
+        "a": "因为他【不放过每一个小机会，抓住时间，积少成多】。",
+        "vi": "Vì ông không bỏ qua bất kỳ cơ hội nhỏ nào, nắm bắt thời gian, tích tiểu thành đại.",
+        "en": "Because he never lets small opportunities slip, makes good use of time and lets small gains add up.",
+        "sample": true
+      },
+      {
+        "q": "小林放假后本来有什么打算？他可能因为什么事情改变计划？",
+        "label": "课文3",
+        "a": "他本来打算【回家】。他可能因为【一个外地的好朋友要来旅游，让他当导游】而改变计划。",
+        "vi": "Lúc đầu cậu ấy định về nhà. Cậu có thể đổi kế hoạch vì một người bạn thân ở tỉnh khác muốn đến du lịch, nhờ cậu làm hướng dẫn viên.",
+        "en": "He originally planned to go home. He may change his plans because a good friend from out of town is coming on holiday and wants him as a guide."
+      },
+      {
+        "q": "小李和小林两个人对“拒绝别人”有哪些不同的理解？",
+        "label": "课文3",
+        "a": "小李认为【拒绝并不表示不愿意帮忙，有时候拒绝正好说明你对朋友负责】。小林担心【拒绝会让朋友误会和伤心】。",
+        "vi": "Tiểu Lý cho rằng từ chối không có nghĩa là không muốn giúp, có lúc từ chối đúng là cho thấy bạn có trách nhiệm với bạn bè. Tiểu Lâm lo từ chối sẽ khiến bạn hiểu lầm và buồn.",
+        "en": "Xiao Li thinks refusing doesn't mean being unwilling to help; sometimes it shows you're being responsible to your friend. Xiao Lin worries refusing will make his friend misunderstand and be hurt."
+      },
+      {
+        "q": "对于“有什么事情明天再说”这句话，你认为正确吗？为什么？",
+        "label": "课文4",
+        "a": "【不正确】。因为【这种态度会浪费时间，最后什么事情都做不成，还得不到别人的同情】。",
+        "vi": "Không đúng. Vì thái độ này lãng phí thời gian, cuối cùng chẳng làm được việc gì, còn không nhận được sự thông cảm của người khác.",
+        "en": "No. This attitude wastes time; in the end you get nothing done and win nobody's sympathy."
+      },
+      {
+        "q": "根据课文，学汉语应该注意哪些方面的问题？",
+        "label": "课文4",
+        "a": "【首先要注意课前预习，找出第二天要学习的重点；其次，上课时要认真听，不能马虎；最后，课后要记得复习】。",
+        "vi": "Trước hết phải chú ý chuẩn bị bài trước, tìm trọng tâm cần học hôm sau; thứ hai, lúc lên lớp phải chăm chú nghe, không được cẩu thả; cuối cùng, sau giờ học phải nhớ ôn tập.",
+        "en": "First, prepare before class and find the key points for the next day; second, listen carefully in class and don't be careless; finally, remember to review after class."
+      },
+      {
+        "q": "怎么理解“天外有天，人外有人”这句话？",
+        "label": "课文5",
+        "a": "意思是【世界很大，总有人比你更厉害，所以不要骄傲】。",
+        "vi": "Nghĩa là thế giới rộng lớn, luôn có người giỏi hơn bạn, vì vậy đừng kiêu ngạo.",
+        "en": "It means the world is big and there's always someone better than you, so don't be proud."
+      },
+      {
+        "q": "要是别人问你问题，可是你不会，你会觉得不好意思吗？为什么？",
+        "label": "课文5",
+        "a": "【不会】。因为【敢诚实地{de}说出自己不了解，并不说明自己比别人差，相反，这样做更能得到别人的尊重】。",
+        "vi": "Không. Vì dám thành thật nói ra mình không hiểu không chứng tỏ mình kém hơn người khác, ngược lại còn được người khác tôn trọng hơn.",
+        "en": "No. Daring to say honestly that you don't know doesn't mean you're worse than others; on the contrary, it earns more respect.",
+        "sample": true
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "可",
+      "uses": [
+        {
+          "vi": "Phó từ 可 được dùng để nhấn mạnh (thật là, quả là). 可 cũng có thể được sử dụng trong câu hỏi để làm cho ngữ khí trở nên mạnh hơn.",
+          "en": "The adverb 可 adds emphasis ('really, indeed'). It can also be used in questions to make the tone stronger.",
+          "ex": [
+            {
+              "zh": "这【可】是个大问题，我也不太清楚。",
+              "vi": "Đây quả là một vấn đề lớn, tôi cũng không rõ lắm.",
+              "en": "This really is a big problem. I'm not too sure myself."
+            },
+            {
+              "zh": "下个星期我就要去大使馆办签证了，这【可】怎么办？",
+              "vi": "Tuần sau tôi phải đến đại sứ quán làm visa rồi, giờ biết làm sao đây?",
+              "en": "I'm going to the embassy for my visa next week. What on earth am I going to do?"
+            },
+            {
+              "zh": "我办了一张那个理发店的会员卡，理发【可】节约了不少钱。",
+              "vi": "Tôi làm một thẻ thành viên của tiệm cắt tóc đó, cắt tóc tiết kiệm được khối tiền.",
+              "en": "I got a membership card at that barber's, and it's really saved me a lot of money on haircuts."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，竟然连火车票都没拿。",
+            "hint": "可",
+            "a": "【你可真粗心】，竟然连火车票都没拿。",
+            "vi": "Bạn đúng là cẩu thả thật, đến cả vé tàu cũng không mang.",
+            "en": "You really are careless. You didn't even bring your train ticket.",
+            "sample": true
+          },
+          {
+            "q": "____，把报名表格填好给我就可以了。",
+            "hint": "可",
+            "a": "【这可不难】，把报名表格填好给我就可以了。",
+            "vi": "Việc này đâu có khó, điền xong đơn đăng ký đưa cho tôi là được.",
+            "en": "This isn't hard at all. Just fill in the application form and give it to me.",
+            "sample": true
+          },
+          {
+            "q": "他房间这么乱，____。",
+            "hint": "可",
+            "a": "他房间这么乱，【可得好好儿整理一下了】。",
+            "vi": "Phòng cậu ấy bừa bộn thế này, đúng là phải dọn dẹp cho đàng hoàng rồi.",
+            "en": "His room is such a mess. It really needs a good tidy.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "恐怕",
+      "uses": [
+        {
+          "vi": "Động từ 恐怕 có nghĩa là lo lắng.",
+          "en": "As a verb, 恐怕 means 'to be afraid, to worry'.",
+          "ex": [
+            {
+              "zh": "我的工作经验还比较少，那份工作我【恐怕】完成不了。",
+              "vi": "Kinh nghiệm làm việc của tôi còn khá ít, tôi sợ không hoàn thành được công việc đó.",
+              "en": "I still don't have much work experience. I'm afraid I won't be able to handle that job."
+            },
+            {
+              "zh": "这几个动作我【恐怕】做得不标准，所以比赛前要多多练习。",
+              "vi": "Tôi sợ mấy động tác này mình làm chưa chuẩn, nên trước khi thi phải luyện tập nhiều.",
+              "en": "I'm worried I'm not doing these moves properly, so I need to practise a lot before the competition."
+            }
+          ]
+        },
+        {
+          "vi": "Phó từ 恐怕 diễn tả ý phỏng đoán và có phần lo lắng (e rằng, sợ rằng).",
+          "en": "As an adverb, 恐怕 expresses an estimate with some worry: 'I'm afraid that…'.",
+          "ex": [
+            {
+              "zh": "这个会议室的座位【恐怕】不够，还是换到旁边那个大的吧。",
+              "vi": "Chỗ ngồi trong phòng họp này e là không đủ, hay là chuyển sang phòng lớn bên cạnh đi.",
+              "en": "I'm afraid there aren't enough seats in this meeting room. Let's move to the big one next door."
+            },
+            {
+              "zh": "有些事情如果你一定要找一个正确答案，【恐怕】会让简单的生活变得复杂。",
+              "vi": "Có những chuyện nếu bạn nhất định phải tìm ra một đáp án đúng, e rằng sẽ khiến cuộc sống đơn giản trở nên phức tạp.",
+              "en": "With some things, if you insist on finding the one right answer, I'm afraid you'll turn a simple life into a complicated one."
+            }
+          ]
+        },
+        {
+          "vi": "Phó từ 恐怕 cũng được dùng để chỉ sự phỏng đoán hay suy đoán với nghĩa là có lẽ, có thể (gần nghĩa với 大概, 也许).",
+          "en": "As an adverb, 恐怕 can also simply express a guess: 'probably, perhaps' (like 大概, 也许).",
+          "ex": [
+            {
+              "zh": "听完我的回答，【恐怕】你已经知道我的答案了吧。",
+              "vi": "Nghe xong câu trả lời của tôi, có lẽ bạn đã biết đáp án của tôi rồi nhỉ.",
+              "en": "Having heard my reply, you probably already know my answer."
+            },
+            {
+              "zh": "京剧演出7点就开始了，现在【恐怕】已经结束了。",
+              "vi": "Buổi biểu diễn Kinh kịch bắt đầu từ 7 giờ, giờ này có lẽ đã kết thúc rồi.",
+              "en": "The Peking opera started at 7. It's probably over by now."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "恐怕—怕",
+        "uses": [
+          {
+            "vi": "Giống nhau 1: 恐怕 và 怕 đều là động từ và có nghĩa là lo lắng.",
+            "en": "Similarity 1: 恐怕 and 怕 are both verbs meaning 'to worry, to be afraid'.",
+            "ex": [
+              {
+                "zh": "从这儿坐地铁到那儿至少得{děi}五十分钟，马克【恐怕】/【怕】来不及了。",
+                "vi": "Từ đây đi tàu điện ngầm đến đó ít nhất phải mất năm mươi phút, e là Mark không kịp rồi.",
+                "en": "It takes at least fifty minutes from here to there by subway. I'm afraid Mark won't make it in time."
+              }
+            ]
+          },
+          {
+            "vi": "Giống nhau 2: Cả hai từ này đều có thể được dùng làm phó từ chỉ sự phỏng đoán, thường có hàm ý lo lắng.",
+            "en": "Similarity 2: both can be adverbs expressing an estimate, usually with a sense of worry.",
+            "ex": [
+              {
+                "zh": "如果说一对夫妻缺少或者没有共同语言，那问题【恐怕】/【怕】就大了。",
+                "vi": "Nếu một cặp vợ chồng thiếu hoặc không có tiếng nói chung thì e là vấn đề lớn rồi.",
+                "en": "If a couple lack, or have no, common ground, then I'm afraid that's a big problem."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: Khi mang nghĩa lo lắng, 恐怕 chỉ được dùng trước động từ chứ không được dùng trước danh từ, còn 怕 có thể được dùng trước cả động từ lẫn danh từ.",
+            "en": "Difference 1: meaning 'to worry', 恐怕 can only go before a verb, not a noun; 怕 can go before either.",
+            "ex": [
+              {
+                "zh": "我【恐怕】/【怕】忘了这件事，所以把这件事记在本子上。",
+                "vi": "Tôi sợ quên mất việc này nên ghi nó vào sổ.",
+                "en": "I was afraid I'd forget this, so I wrote it down in my notebook."
+              },
+              {
+                "zh": "我【怕】你忘了这件事，所以打电话提醒你一下。",
+                "vi": "Tôi sợ bạn quên việc này nên gọi điện nhắc bạn một chút.",
+                "en": "I was worried you'd forget, so I called to remind you."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: Khi là phó từ chỉ sự phỏng đoán, 恐怕 có thể đứng trước hoặc sau chủ ngữ, còn 怕 chỉ đứng sau chủ ngữ.",
+            "en": "Difference 2: as adverbs of estimate, 恐怕 can go before or after the subject; 怕 only after the subject.",
+            "ex": [
+              {
+                "zh": "刚才听广播说明天可能会下大雨，【恐怕】足球比赛不能举行了。",
+                "vi": "Vừa nghe đài nói mai có thể mưa to, e là trận bóng đá không tổ chức được rồi.",
+                "en": "I just heard on the radio that it may pour tomorrow. I'm afraid the football match won't go ahead."
+              },
+              {
+                "zh": "刚才听广播说明天可能会下大雨，足球比赛【恐怕】/【怕】不能举行了。",
+                "vi": "Vừa nghe đài nói mai có thể mưa to, trận bóng đá e là không tổ chức được rồi.",
+                "en": "I just heard on the radio that it may pour tomorrow. The football match probably won't go ahead."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 3: Khi được dùng làm động từ, 怕 có thể đi với tân ngữ và mang nghĩa là sợ, diễn tả rằng chủ ngữ sợ hãi người, vật hay tình huống nào đó. 恐怕 không dùng được như vậy.",
+            "en": "Difference 3: as a verb, 怕 can take an object and mean 'to fear', i.e. the subject is afraid of a person, thing or situation. 恐怕 cannot.",
+            "ex": [
+              {
+                "zh": "找工作关键还是看能力，有能力的人不【怕】找不到好工作。",
+                "vi": "Tìm việc quan trọng nhất vẫn là năng lực, người có năng lực không sợ không tìm được việc tốt.",
+                "en": "The key to finding a job is ability. Capable people needn't fear not finding a good job."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 4: Khi làm phó từ, 恐怕 cũng có thể diễn tả sự phỏng đoán hoặc suy đoán thông thường, có thể dùng 也许/大概 thay cho 恐怕. 怕 không dùng được như vậy.",
+            "en": "Difference 4: as an adverb, 恐怕 can also express an ordinary estimate or guess and can be replaced by 也许/大概. 怕 cannot.",
+            "ex": [
+              {
+                "zh": "好久没见过他了，他离开这里【恐怕】有二十天了。",
+                "vi": "Lâu lắm rồi không gặp anh ấy, anh ấy rời khỏi đây chắc cũng được hai mươi ngày rồi.",
+                "en": "I haven't seen him for ages. He's probably been gone from here for twenty days."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "如果没有你们的帮助，这次找工作____不会这么顺利。",
+              "key": "恐怕 ✓ · 怕 ✓",
+              "a": "如果没有你们的帮助，这次找工作【恐怕】/【怕】不会这么顺利。",
+              "vi": "Nếu không có các bạn giúp, lần tìm việc này e là sẽ không thuận lợi như vậy.",
+              "en": "Without your help, I'm afraid my job hunting wouldn't have gone so smoothly this time."
+            },
+            {
+              "q": "这次聚会你们怎么准备了这么多菜呢？我____他们吃不了。",
+              "key": "恐怕 ✗ · 怕 ✓ (sau là vế câu có chủ ngữ)",
+              "a": "这次聚会你们怎么准备了这么多菜呢？我【怕】他们吃不了。",
+              "vi": "Buổi họp mặt lần này sao các bạn chuẩn bị nhiều món thế? Tôi sợ họ ăn không hết.",
+              "en": "Why have you prepared so much food for this party? I'm afraid they won't be able to finish it."
+            },
+            {
+              "q": "如果你们今晚还想看节目的话，最好现在就出发，再晚了____就没座位了。",
+              "key": "恐怕 ✓ · 怕 ✓",
+              "a": "如果你们今晚还想看节目的话，最好现在就出发，再晚了【恐怕】/【怕】就没座位了。",
+              "vi": "Nếu tối nay các bạn còn muốn xem chương trình thì tốt nhất xuất phát ngay bây giờ, muộn nữa e là hết chỗ ngồi.",
+              "en": "If you still want to see the show tonight, you'd better set off now. Any later and I'm afraid there won't be any seats."
+            },
+            {
+              "q": "我本来想放假就走，但____现在走不了了，老师让我翻译几篇文章。",
+              "key": "恐怕 ✓ · 怕 ✗",
+              "a": "我本来想放假就走，但【恐怕】现在走不了了，老师让我翻译几篇文章。",
+              "vi": "Lúc đầu tôi định nghỉ là đi luôn, nhưng e là bây giờ không đi được rồi, thầy giáo bảo tôi dịch mấy bài văn.",
+              "en": "I'd planned to leave as soon as the holidays started, but I'm afraid I can't go now; the teacher wants me to translate a few articles."
+            },
+            {
+              "q": "遇到任何困难都不要____，只要你努力，成功就离你越来越近。",
+              "key": "恐怕 ✗ · 怕 ✓ (nghĩa “sợ”)",
+              "a": "遇到任何困难都不要【怕】，只要你努力，成功就离你越来越近。",
+              "vi": "Gặp bất kỳ khó khăn nào cũng đừng sợ, chỉ cần bạn cố gắng, thành công sẽ ngày càng gần bạn.",
+              "en": "Don't be afraid of any difficulties. As long as you work hard, success will come closer and closer."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，你再去叫两个人过来一起抬。",
+            "hint": "恐怕",
+            "a": "【这个沙发太重了，我们两个人恐怕抬不动】，你再去叫两个人过来一起抬。",
+            "vi": "Cái sofa này nặng quá, hai chúng ta e là không khiêng nổi, bạn đi gọi thêm hai người đến cùng khiêng.",
+            "en": "This sofa is too heavy. I'm afraid the two of us can't lift it. Go and get two more people to help.",
+            "sample": true
+          },
+          {
+            "q": "车撞得不严重，就是把车门擦坏了，____。",
+            "hint": "恐怕",
+            "a": "车撞得不严重，就是把车门擦坏了，【恐怕得{děi}花点儿钱修理】。",
+            "vi": "Xe đâm không nghiêm trọng, chỉ là trầy hỏng cửa xe, e là phải tốn chút tiền sửa.",
+            "en": "The crash wasn't serious; it just scraped the car door. I'm afraid it'll cost some money to repair.",
+            "sample": true
+          },
+          {
+            "q": "这个行李箱有点儿小，____。",
+            "hint": "恐怕",
+            "a": "这个行李箱有点儿小，【恐怕放不下这么多东西】。",
+            "vi": "Cái vali này hơi nhỏ, e là không đựng nổi nhiều đồ như vậy.",
+            "en": "This suitcase is a bit small. I'm afraid it won't hold all these things.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "到底",
+      "uses": [
+        {
+          "vi": "Động từ 到底 có nghĩa là đến cùng.",
+          "en": "As a verb, 到底 means 'to the end, all the way'.",
+          "ex": [
+            {
+              "zh": "今天我一定陪你逛街逛【到底】，保证让你买到合适的衣服。",
+              "vi": "Hôm nay tôi nhất định đi dạo phố cùng bạn đến cùng, đảm bảo bạn mua được quần áo vừa ý.",
+              "en": "Today I'll go shopping with you to the very end, and I promise you'll find the right clothes."
+            },
+            {
+              "zh": "要是你觉得情人节只送巧克力还不够浪漫，那就再带她看《将爱情进行【到底】》这个爱情电影吧。",
+              "vi": "Nếu bạn thấy ngày Valentine chỉ tặng sô-cô-la thì chưa đủ lãng mạn, vậy thì đưa cô ấy đi xem bộ phim tình cảm “Tình yêu đến cùng” nữa nhé.",
+              "en": "If you think just giving chocolate on Valentine's Day isn't romantic enough, take her to see the romance film “Love Till the End” as well."
+            }
+          ]
+        },
+        {
+          "vi": "Phó từ 到底 được dùng trong câu hỏi hoặc câu có đại từ nghi vấn để diễn tả ý tìm tòi, xem xét thêm nữa (rốt cuộc, cuối cùng thì). 到底 không được dùng trong câu hỏi có từ 吗.",
+          "en": "As an adverb, 到底 is used in questions or sentences with a question word to press for the real answer: 'after all, on earth'. It cannot be used in a 吗 question.",
+          "ex": [
+            {
+              "zh": "你不是已经买好火车票了吗？你【到底】怎么打算的呀？",
+              "vi": "Không phải bạn đã mua vé tàu rồi sao? Rốt cuộc bạn định thế nào?",
+              "en": "Haven't you already bought your train ticket? What on earth are you planning to do?"
+            },
+            {
+              "zh": "我给他打了好几次电话，可是一直没人接，也不知道他【到底】是怎么回事。",
+              "vi": "Tôi gọi cho anh ấy mấy lần rồi mà chẳng ai nghe máy, không biết rốt cuộc anh ấy bị làm sao.",
+              "en": "I've called him several times but nobody answers. I've no idea what on earth is going on with him."
+            }
+          ]
+        },
+        {
+          "vi": "Khi được dùng trong câu hỏi hoặc câu có đại từ nghi vấn, nếu chủ ngữ là đại từ nghi vấn thì 到底 chỉ có thể được đặt trước chủ ngữ.",
+          "en": "In such sentences, if the subject is itself a question word, 到底 can only go before the subject.",
+          "ex": [
+            {
+              "zh": "【到底】谁去参加比赛，大家还没决定。",
+              "vi": "Rốt cuộc ai đi thi đấu thì mọi người vẫn chưa quyết định.",
+              "en": "Who exactly is going to take part in the competition hasn't been decided yet."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "虽然这是两棵不同的植物，____。",
+            "hint": "到底",
+            "a": "虽然这是两棵不同的植物，【可是它们到底有什么区别呢】。",
+            "vi": "Tuy đây là hai cây khác nhau, nhưng rốt cuộc chúng khác nhau ở điểm nào?",
+            "en": "Although these are two different plants, what exactly is the difference between them?",
+            "sample": true
+          },
+          {
+            "q": "从这儿一直往前走，____。",
+            "hint": "到底",
+            "a": "从这儿一直往前走，【走到底就能看到那家银行】。",
+            "vi": "Từ đây cứ đi thẳng, đi đến cuối đường là thấy ngân hàng đó.",
+            "en": "Go straight on from here, and at the end of the road you'll see the bank.",
+            "sample": true
+          },
+          {
+            "q": "明天就是报名的最后一天了，____。",
+            "hint": "到底",
+            "a": "明天就是报名的最后一天了，【你到底参加不参加】？",
+            "vi": "Ngày mai là ngày đăng ký cuối cùng rồi, rốt cuộc bạn có tham gia không?",
+            "en": "Tomorrow is the last day for applications. Are you taking part or not?",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "拿……来说",
+      "uses": [
+        {
+          "vi": "Trong cấu trúc “拿……来说”, 拿 là giới từ, được dùng để đưa ra sự vật hay tình huống được nói rõ (lấy… mà nói, ví dụ như).",
+          "en": "In the pattern 拿……来说, 拿 is a preposition introducing the thing or situation used as an illustration: 'take … for example'.",
+          "ex": [
+            {
+              "zh": "这次招聘很多人符合公司的要求，【拿】他【来说】，他不仅专业符合职业要求，而且还有工作经验。",
+              "vi": "Đợt tuyển dụng lần này nhiều người đáp ứng yêu cầu của công ty, lấy anh ấy làm ví dụ, anh ấy không chỉ có chuyên ngành phù hợp với yêu cầu công việc mà còn có kinh nghiệm làm việc.",
+              "en": "Many people met the company's requirements in this round of hiring. Take him, for example: not only does his major fit the job, he also has work experience."
+            },
+            {
+              "zh": "如果一个汉字中有“氵”这个部分，说明这个字的意思很可能和水有关系，【拿】“河、流、洗、汁”这几个字【来说】，它们都跟水有关。",
+              "vi": "Nếu một chữ Hán có bộ “氵”, điều đó cho thấy nghĩa của chữ rất có thể liên quan đến nước, lấy mấy chữ “河, 流, 洗, 汁” mà nói, chúng đều liên quan đến nước.",
+              "en": "If a Chinese character contains the “氵” component, its meaning is probably related to water. Take the characters “河, 流, 洗, 汁”, for example: they're all connected with water."
+            },
+            {
+              "zh": "所以不要把什么事情都推到“明天”，一切从现在做起。就【拿】学汉语【来说】吧，首先要注意课前预习，找出第二天要学习的重点……",
+              "vi": "Vì vậy đừng việc gì cũng đẩy sang “ngày mai”, mọi thứ hãy bắt đầu từ bây giờ. Lấy việc học tiếng Trung làm ví dụ, trước hết phải chú ý chuẩn bị bài trước khi lên lớp, tìm ra trọng tâm cần học ngày hôm sau…",
+              "en": "So don't put everything off until “tomorrow”; start everything now. Take learning Chinese, for example: first, prepare before class and pick out the key points you'll study the next day…"
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "有的人一遇到困难就想放弃，____。",
+            "hint": "拿……来说",
+            "a": "有的人一遇到困难就想放弃，【拿我来说，我以前也是这样】。",
+            "vi": "Có người cứ gặp khó khăn là muốn bỏ cuộc, lấy tôi làm ví dụ, trước đây tôi cũng như vậy.",
+            "en": "Some people want to give up as soon as they meet difficulties. Take me, for example: I used to be like that too.",
+            "sample": true
+          },
+          {
+            "q": "保护环境应该从小事做起，____。",
+            "hint": "拿……来说",
+            "a": "保护环境应该从小事做起，【拿购物来说，我们可以自备购物袋】。",
+            "vi": "Bảo vệ môi trường nên bắt đầu từ việc nhỏ, lấy việc mua sắm làm ví dụ, chúng ta có thể tự mang túi.",
+            "en": "Protecting the environment should start with small things. Take shopping: we can bring our own bags.",
+            "sample": true
+          },
+          {
+            "q": "没有工作计划很容易让人手忙脚乱，____。",
+            "hint": "拿……来说",
+            "a": "没有工作计划很容易让人手忙脚乱，【拿小李来说，他常常不知道该先做哪件事】。",
+            "vi": "Không có kế hoạch làm việc rất dễ khiến người ta luống cuống, lấy Tiểu Lý làm ví dụ, cậu ấy thường không biết nên làm việc nào trước.",
+            "en": "Without a work plan it's easy to get in a muddle. Take Xiao Li: he often doesn't know what to do first.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "敢",
+      "uses": [
+        {
+          "vi": "Động từ năng nguyện 敢 được dùng trước động từ để diễn tả ý tự tin làm việc gì (dám).",
+          "en": "The modal verb 敢 ('to dare') goes before a verb to show confidence or courage to do something.",
+          "ex": [
+            {
+              "zh": "我们应该把那些【敢】说真话的人当{dàng}成“镜子”，这样才能及时发现自己的缺点。",
+              "vi": "Chúng ta nên coi những người dám nói thật là “tấm gương”, như vậy mới có thể kịp thời phát hiện ra khuyết điểm của mình.",
+              "en": "We should treat people who dare to tell the truth as a “mirror”; only then can we spot our own shortcomings in time."
+            },
+            {
+              "zh": "小时候我总喜欢躺在床上看书，结果眼睛越来越不好，所以从那儿以后我就不【敢】再躺着看书了。",
+              "vi": "Hồi nhỏ tôi luôn thích nằm trên giường đọc sách, kết quả mắt ngày càng kém, nên từ đó trở đi tôi không dám nằm đọc sách nữa.",
+              "en": "As a child I always liked reading in bed, and as a result my eyesight got worse and worse, so since then I haven't dared read lying down."
+            },
+            {
+              "zh": "如果你【敢】诚实地{de}说出自己对哪方面不了解，并不说明自己比别人差，相反，这样做更能得到别人的尊重。",
+              "vi": "Nếu bạn dám thành thật nói ra mình không hiểu về mặt nào, điều đó không có nghĩa là bạn kém hơn người khác, ngược lại, làm như vậy càng nhận được sự tôn trọng của người khác.",
+              "en": "If you dare to say honestly which things you don't understand, it doesn't mean you're worse than others; on the contrary, it earns you more respect."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____？小心咳嗽得更厉害。",
+            "hint": "敢",
+            "a": "【你感冒还没好，怎么还敢吃冰淇淋】？小心咳嗽得更厉害。",
+            "vi": "Bạn cảm còn chưa khỏi, sao còn dám ăn kem? Cẩn thận ho nặng hơn đấy.",
+            "en": "You haven't got over your cold yet. How dare you eat ice cream? Careful, your cough will get worse.",
+            "sample": true
+          },
+          {
+            "q": "她打网球打得特别棒，____。",
+            "hint": "敢",
+            "a": "她打网球打得特别棒，【没有人敢跟她比赛】。",
+            "vi": "Cô ấy chơi quần vợt cực giỏi, không ai dám thi đấu với cô ấy.",
+            "en": "She plays tennis brilliantly; nobody dares play against her.",
+            "sample": true
+          },
+          {
+            "q": "老师应该为学生提供一种愉快的学习环境，____。",
+            "hint": "敢",
+            "a": "老师应该为学生提供一种愉快的学习环境，【让学生敢说出自己的想法】。",
+            "vi": "Giáo viên nên tạo cho học sinh một môi trường học tập vui vẻ, để học sinh dám nói ra suy nghĩ của mình.",
+            "en": "Teachers should provide students with a pleasant learning environment so that they dare to express their ideas.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "小夏的语气：\n马上就要硕士毕业了，我打算出国读博士，……",
+          "label": "课文1",
+          "a": "马上就要硕士毕业了，我打算出国读博士，一直在准备办签证需要的材料。成绩证明和护照已经准备好了，另外，还跟国外的大学取得了联系，填写了报名表格。可是国外大学还没把邀请信传真给我，下个星期我就要去使馆办签证了。小雨帮我查了学校的电话号码，让我打电话问一下。",
+          "vi": "Sắp tốt nghiệp thạc sĩ rồi, tôi định ra nước ngoài học tiến sĩ, đang chuẩn bị hồ sơ làm thị thực. Bảng điểm và hộ chiếu đã chuẩn bị xong, ngoài ra còn liên hệ được với trường đại học nước ngoài, điền đơn đăng ký. Nhưng trường nước ngoài vẫn chưa fax thư mời cho tôi, mà tuần sau tôi phải đến đại sứ quán làm thị thực. Tiểu Vũ tra giúp tôi số điện thoại của trường, bảo tôi gọi hỏi thử.",
+          "en": "I'm about to finish my master's and plan to do a PhD abroad, so I've been preparing my visa documents. My transcripts and passport are ready, and I've contacted the foreign university and filled in the application form. But they haven't faxed me the invitation letter yet, and I have to apply for my visa next week. Xiaoyu looked up the university's number for me so I can call and ask.",
+          "sample": true
+        },
+        {
+          "q": "王老板的语气：\n以前有一个记者问过我为什么能成功，……",
+          "label": "课文2",
+          "a": "以前有一个记者问过我为什么能成功，今天李进也问了这个问题。我拿三块大小不同的西瓜来说明：要是我们一起开始吃，我会先吃最小的一块，因为在他没吃完最大的那块时，我还有时间再多吃一块，最后一定比他吃的西瓜多。做生意时，大家的机会都是相同的。",
+          "vi": "Trước đây có một phóng viên từng hỏi tôi vì sao thành công, hôm nay Lý Tiến cũng hỏi câu này. Tôi lấy ba miếng dưa hấu to nhỏ khác nhau để giải thích: nếu cùng bắt đầu ăn, tôi sẽ ăn miếng nhỏ nhất trước, vì trong lúc cậu ấy chưa ăn xong miếng to nhất, tôi còn kịp ăn thêm một miếng, cuối cùng chắc chắn ăn nhiều hơn cậu ấy. Làm ăn thì cơ hội của mọi người đều như nhau.",
+          "en": "A reporter once asked me why I'd succeeded, and today Li Jin asked the same question. I used three pieces of watermelon of different sizes to explain: if we started eating together, I'd eat the smallest first, because while he was still eating the biggest, I'd have time for another piece and end up eating more. In business, everyone has the same opportunities.",
+          "sample": true
+        },
+        {
+          "q": "小林的语气：\n放假我本来计划回家看父母，……",
+          "label": "课文3",
+          "a": "放假我本来计划回家看父母，火车票都买好了。可是昨天一个外地的好朋友打电话说要来旅游，让我当导游，我实在不好意思拒绝。小李说拒绝并不表示不愿意帮忙，有时候拒绝正好说明对朋友负责。我担心说“不”会让朋友误会和伤心，小李说如果用一个既合适又礼貌的方法告诉朋友，他一定会原谅我的。",
+          "vi": "Nghỉ lễ lúc đầu tôi định về nhà thăm bố mẹ, vé tàu cũng đã mua. Nhưng hôm qua một người bạn thân ở tỉnh khác gọi điện nói muốn đến du lịch, nhờ tôi làm hướng dẫn viên, tôi thật sự ngại từ chối. Tiểu Lý nói từ chối không có nghĩa là không muốn giúp, có lúc từ chối đúng là cho thấy có trách nhiệm với bạn bè. Tôi lo nói “không” sẽ khiến bạn hiểu lầm và buồn, Tiểu Lý nói nếu dùng cách vừa phù hợp vừa lịch sự để nói thì bạn ấy nhất định sẽ thông cảm.",
+          "en": "I'd planned to go home to see my parents in the holidays and had even bought my train ticket. But yesterday a good friend from out of town called to say he's coming on holiday and asked me to be his guide, and I couldn't bring myself to refuse. Xiao Li said refusing doesn't mean being unwilling to help; sometimes it shows you're being responsible to a friend. I'm worried saying no will hurt him, but Xiao Li says if I tell him in a suitable, polite way, he'll understand.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "同情",
+        "参观",
+        "输",
+        "郊区",
+        "原谅"
+      ],
+      "items": [
+        {
+          "q": "虽然得到别人的____很容易，但要重新让别人再相信你却很难。",
+          "key": "原谅",
+          "a": "虽然得到别人的【原谅】很容易，但要重新让别人再相信你却很难。",
+          "vi": "Tuy được người khác tha thứ thì dễ, nhưng khiến người khác tin bạn lại thì rất khó.",
+          "en": "Although it's easy to be forgiven, it's hard to make people trust you again."
+        },
+        {
+          "q": "爱批评人或者没有____心的人是最不受欢迎的，这样的人即使很成功，朋友也很少。",
+          "key": "同情",
+          "a": "爱批评人或者没有【同情】心的人是最不受欢迎的，这样的人即使很成功，朋友也很少。",
+          "vi": "Người hay phê bình người khác hoặc không có lòng cảm thông là người ít được yêu thích nhất, người như vậy dù thành công thì bạn bè cũng rất ít.",
+          "en": "People who love criticizing others or have no compassion are the least popular; even if they're successful, they have few friends."
+        },
+        {
+          "q": "各位朋友大家好！欢迎来到美丽的海南，这几天就由我带着{zhe}大家____。",
+          "key": "参观",
+          "a": "各位朋友大家好！欢迎来到美丽的海南，这几天就由我带着{zhe}大家【参观】。",
+          "vi": "Xin chào các bạn! Chào mừng đến với Hải Nam xinh đẹp, mấy ngày tới tôi sẽ dẫn mọi người đi tham quan.",
+          "en": "Hello, everyone! Welcome to beautiful Hainan. For the next few days I'll be showing you around."
+        },
+        {
+          "q": "现在城市里越来越多的人喜欢到____过周末。他们想找一个空气新鲜、安静的地方好好放松一下。",
+          "key": "郊区",
+          "a": "现在城市里越来越多的人喜欢到【郊区】过周末。他们想找一个空气新鲜、安静的地方好好放松一下。",
+          "vi": "Bây giờ ngày càng nhiều người thành phố thích ra ngoại ô nghỉ cuối tuần. Họ muốn tìm một nơi không khí trong lành, yên tĩnh để thư giãn.",
+          "en": "More and more city people like to spend the weekend in the suburbs. They want somewhere quiet with fresh air to relax."
+        },
+        {
+          "q": "生活的关键就是：只要你努力做了，不管是____是赢，都一样精彩。",
+          "key": "输",
+          "a": "生活的关键就是：只要你努力做了，不管是【输】是赢，都一样精彩。",
+          "vi": "Điều mấu chốt của cuộc sống là: chỉ cần bạn đã cố gắng, dù thua hay thắng đều tuyệt vời như nhau.",
+          "en": "The key to life is this: as long as you've tried your best, win or lose, it's just as wonderful."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "报名",
+        "预习",
+        "尊重",
+        "推",
+        "号码"
+      ],
+      "items": [
+        {
+          "q": "A：你们这个月空调卖得怎么样？\nB：不错，我们现在____出了“以旧换新”的活动，吸引了不少顾客。",
+          "key": "推",
+          "a": "A：你们这个月空调卖得怎么样？\nB：不错，我们现在【推】出了“以旧换新”的活动，吸引了不少顾客。",
+          "vi": "A: Tháng này điều hòa các bạn bán thế nào?\nB: Khá tốt, bây giờ chúng tôi tung ra chương trình “đổi cũ lấy mới”, thu hút không ít khách hàng.",
+          "en": "A: How have your air conditioners been selling this month?\nB: Well. We've launched a trade-in promotion that's attracted lots of customers."
+        },
+        {
+          "q": "A：他什么时候能和我玩儿？\nB：等他____完课文再跟你玩儿，奶奶先陪你做游戏吧。",
+          "key": "预习",
+          "a": "A：他什么时候能和我玩儿？\nB：等他【预习】完课文再跟你玩儿，奶奶先陪你做游戏吧。",
+          "vi": "A: Bao giờ anh ấy chơi với cháu được ạ?\nB: Đợi anh ấy chuẩn bị bài xong rồi chơi với cháu, bà chơi trò chơi với cháu trước nhé.",
+          "en": "A: When can he play with me?\nB: When he's finished preparing his lesson. Grandma will play a game with you first."
+        },
+        {
+          "q": "A：我考虑了很久，还是决定离开现在的公司。\nB：既然这样，那我们____你的选择。",
+          "key": "尊重",
+          "a": "A：我考虑了很久，还是决定离开现在的公司。\nB：既然这样，那我们【尊重】你的选择。",
+          "vi": "A: Tôi suy nghĩ rất lâu, vẫn quyết định rời công ty hiện tại.\nB: Đã vậy thì chúng tôi tôn trọng lựa chọn của bạn.",
+          "en": "A: I've thought about it for a long time and decided to leave my current company.\nB: In that case, we respect your choice."
+        },
+        {
+          "q": "A：我记得上次关教授把他的手机____给我了，可是不知道写哪儿了。\nB：你当时好像写在本子上了，你看看上面有没有。",
+          "key": "号码",
+          "a": "A：我记得上次关教授把他的手机【号码】给我了，可是不知道写哪儿了。\nB：你当时好像写在本子上了，你看看上面有没有。",
+          "vi": "A: Tôi nhớ lần trước giáo sư Quan đã cho tôi số điện thoại di động, nhưng không biết ghi ở đâu rồi.\nB: Lúc đó hình như bạn ghi vào sổ, bạn xem trong đó có không.",
+          "en": "A: I remember Professor Guan gave me his mobile number last time, but I don't know where I wrote it.\nB: I think you wrote it in your notebook. Have a look in there."
+        },
+        {
+          "q": "A：我想____参加一万米长跑比赛，你参加不参加？\nB：恐怕不行，我下星期要考试了。",
+          "key": "报名",
+          "a": "A：我想【报名】参加一万米长跑比赛，你参加不参加？\nB：恐怕不行，我下星期要考试了。",
+          "vi": "A: Tôi muốn đăng ký tham gia cuộc thi chạy 10.000 mét, bạn có tham gia không?\nB: E là không được, tuần sau tôi thi rồi.",
+          "en": "A: I want to sign up for the 10,000-metre race. Are you taking part?\nB: I'm afraid not. I have exams next week."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 重",
+    "en": "Words sharing a character: 重",
+    "words": [
+      {
+        "zh": "严重",
+        "py": "yánzhòng",
+        "vi": "nghiêm trọng",
+        "en": "serious"
+      },
+      {
+        "zh": "重点",
+        "py": "zhòngdiǎn",
+        "vi": "trọng điểm",
+        "en": "key point"
+      },
+      {
+        "zh": "重视",
+        "py": "zhòngshì",
+        "vi": "coi trọng",
+        "en": "to value"
+      },
+      {
+        "zh": "尊重",
+        "py": "zūnzhòng",
+        "vi": "tôn trọng",
+        "en": "to respect"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "塑料袋确实很方便，但是它的大量使用也带来了【严重】的环境污染问题。",
+        "vi": "Túi nilông đúng là rất tiện, nhưng việc sử dụng số lượng lớn cũng gây ra vấn đề ô nhiễm môi trường nghiêm trọng.",
+        "en": "Plastic bags are certainly convenient, but their heavy use has also caused serious pollution."
+      },
+      {
+        "zh": "解决这个任务没有那么困难，但关键是我们要弄清楚工作的主要目的，找到【重点】。",
+        "vi": "Giải quyết nhiệm vụ này không khó đến vậy, nhưng mấu chốt là chúng ta phải làm rõ mục đích chính của công việc, tìm ra trọng tâm.",
+        "en": "This task isn't that difficult, but the key is to work out the main purpose of the job and find the focus."
+      },
+      {
+        "zh": "她一直都很【重视】这个机会，最后竟然放弃了，这让我们非常吃惊。",
+        "vi": "Cô ấy luôn rất coi trọng cơ hội này, vậy mà cuối cùng lại từ bỏ, điều này khiến chúng tôi rất ngạc nhiên.",
+        "en": "She always valued this opportunity, yet in the end she gave it up, which really surprised us."
+      },
+      {
+        "zh": "如果是十分重要的朋友，中国人往往会请他们去饭店或餐厅吃，以表示对客人的【尊重】和礼貌。",
+        "vi": "Nếu là người bạn vô cùng quan trọng, người Trung Quốc thường mời họ đi ăn khách sạn hoặc nhà hàng để thể hiện sự tôn trọng và lịch sự với khách.",
+        "en": "If it's a very important friend, Chinese people often invite them to a restaurant to show respect and courtesy."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "重视",
+        "尊重",
+        "严重",
+        "重点"
+      ],
+      "items": [
+        {
+          "q": "我们的车出了点儿问题，但并不是特别____，很快就能解决，所以请大家放心，我们还是按照原计划出发。",
+          "key": "严重",
+          "a": "我们的车出了点儿问题，但并不是特别【严重】，很快就能解决，所以请大家放心，我们还是按照原计划出发。",
+          "vi": "Xe chúng ta gặp chút vấn đề, nhưng không nghiêm trọng lắm, sẽ giải quyết nhanh thôi, mọi người yên tâm, chúng ta vẫn xuất phát theo kế hoạch ban đầu.",
+          "en": "Our bus has a small problem, but it's not serious and will soon be fixed, so don't worry: we'll set off as planned."
+        },
+        {
+          "q": "讲话应先讲____，这样才能使别人更快地{de}了解你想说的意思。",
+          "key": "重点",
+          "a": "讲话应先讲【重点】，这样才能使别人更快地{de}了解你想说的意思。",
+          "vi": "Nói chuyện nên nói trọng tâm trước, như vậy mới khiến người khác nhanh hiểu ý bạn muốn nói.",
+          "en": "When speaking, start with the main point so that others understand you more quickly."
+        },
+        {
+          "q": "有些问题虽然看起来很小，但是如果没有引起____，很可能会发展成大麻烦。",
+          "key": "重视",
+          "a": "有些问题虽然看起来很小，但是如果没有引起【重视】，很可能会发展成大麻烦。",
+          "vi": "Có những vấn đề tuy trông có vẻ nhỏ, nhưng nếu không được coi trọng thì rất có thể sẽ phát triển thành rắc rối lớn.",
+          "en": "Some problems look small, but if they're not taken seriously, they may well grow into big trouble."
+        },
+        {
+          "q": "他这些年做生意赚了不少钱，还拿出很大一部分去帮助那些经济有困难的人，所以获得了大家的____。",
+          "key": "尊重",
+          "a": "他这些年做生意赚了不少钱，还拿出很大一部分去帮助那些经济有困难的人，所以获得了大家的【尊重】。",
+          "vi": "Mấy năm nay ông ấy làm ăn kiếm được không ít tiền, còn bỏ ra một phần lớn để giúp những người gặp khó khăn về kinh tế, vì vậy được mọi người tôn trọng.",
+          "en": "He's made a lot of money in business over the years and given a large part of it to help people in financial difficulty, so he has earned everyone's respect."
+        }
+      ]
+    }
+  }
+}

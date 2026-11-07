@@ -1,0 +1,1027 @@
+{
+  "n": 8,
+  "zh": "生活中不缺少美",
+  "vi": "Cuộc sống không thiếu cái đẹp",
+  "en": "Life is never short of beauty",
+  "texts": [
+    {
+      "title": "李老师和高老师聊关于巧克力的事情",
+      "paras": [
+        {
+          "zh": "李老师：这种巧克力味道不错，你在哪儿买的？",
+          "vi": "Thầy Lý: Loại sô-cô-la này ngon đấy, chị mua ở đâu vậy?",
+          "en": "Mr. Li: This chocolate tastes good. Where did you buy it?"
+        },
+        {
+          "zh": "高老师：不是我买的，是我女儿给我从国外带回来的礼物。",
+          "vi": "Cô Cao: Không phải tôi mua, là quà con gái tôi mang từ nước ngoài về cho tôi.",
+          "en": "Ms. Gao: I didn't buy it. It's a present my daughter brought back for me from abroad."
+        },
+        {
+          "zh": "李老师：很多人出国后常常会买外国的巧克力，回来送给亲戚朋友。",
+          "vi": "Thầy Lý: Nhiều người đi nước ngoài về thường mua sô-cô-la nước ngoài để tặng họ hàng bạn bè.",
+          "en": "Mr. Li: Lots of people buy foreign chocolate when they go abroad to give to relatives and friends."
+        },
+        {
+          "zh": "高老师：是啊，因为很多人都爱吃巧克力，尤其是女性。",
+          "vi": "Cô Cao: Đúng vậy, vì nhiều người thích ăn sô-cô-la, nhất là phụ nữ.",
+          "en": "Ms. Gao: Yes, because lots of people love chocolate, especially women."
+        },
+        {
+          "zh": "李老师：这是为什么呢？",
+          "vi": "Thầy Lý: Tại sao vậy nhỉ?",
+          "en": "Mr. Li: Why is that?"
+        },
+        {
+          "zh": "高老师：巧克力大多是甜的，而很多女性都喜欢吃甜的。而且，听说伤心难过的时候吃块儿巧克力，还能使人的心情变得愉快。",
+          "vi": "Cô Cao: Sô-cô-la đa phần là ngọt, mà nhiều phụ nữ lại thích ăn ngọt. Hơn nữa, nghe nói lúc đau lòng buồn bã ăn một miếng sô-cô-la còn có thể khiến tâm trạng vui vẻ lên.",
+          "en": "Ms. Gao: Most chocolate is sweet, and many women like sweet things. Also, they say eating a piece of chocolate when you're sad can cheer you up."
+        }
+      ],
+      "words": [
+        {
+          "zh": "巧克力",
+          "py": "qiǎokèlì",
+          "pos": "dt.",
+          "vi": "sô-cô-la",
+          "en": "chocolate"
+        },
+        {
+          "zh": "亲戚",
+          "py": "qīnqi",
+          "pos": "dt.",
+          "vi": "họ hàng thân thích",
+          "en": "relative"
+        },
+        {
+          "zh": "伤心",
+          "py": "shāng xīn",
+          "pos": "tt.",
+          "vi": "đau lòng",
+          "en": "sad, heartbroken"
+        },
+        {
+          "zh": "使",
+          "py": "shǐ",
+          "pos": "đgt.",
+          "vi": "khiến cho, làm cho",
+          "en": "to make, to cause"
+        },
+        {
+          "zh": "心情",
+          "py": "xīnqíng",
+          "pos": "dt.",
+          "vi": "tâm trạng",
+          "en": "mood"
+        },
+        {
+          "zh": "愉快",
+          "py": "yúkuài",
+          "pos": "tt.",
+          "vi": "vui vẻ",
+          "en": "happy, cheerful"
+        }
+      ]
+    },
+    {
+      "title": "小夏和马克聊关于上次足球比赛的事情",
+      "paras": [
+        {
+          "zh": "小夏：这里的景色真美，空气也好。",
+          "vi": "Tiểu Hạ: Phong cảnh ở đây đẹp thật, không khí cũng trong lành.",
+          "en": "Xiao Xia: The scenery here is beautiful, and the air is fresh."
+        },
+        {
+          "zh": "马克：怎么样，心情好些了吗？",
+          "vi": "Mark: Thế nào, tâm trạng khá hơn chưa?",
+          "en": "Mark: So, are you feeling better?"
+        },
+        {
+          "zh": "小夏：好多了，上次足球比赛后，好久都没这么放松了。",
+          "vi": "Tiểu Hạ: Khá hơn nhiều rồi, từ sau trận bóng lần trước lâu lắm rồi tớ chưa thoải mái như thế này.",
+          "en": "Xiao Xia: Much better. Since the last football match, I haven't felt this relaxed for ages."
+        },
+        {
+          "zh": "马克：你不要有压力，好好儿准备下次比赛就好了。",
+          "vi": "Mark: Cậu đừng áp lực, cứ chuẩn bị tốt cho trận sau là được.",
+          "en": "Mark: Don't put pressure on yourself. Just prepare well for the next match."
+        },
+        {
+          "zh": "小夏：这段时间我总是一个人坐在房间里回忆那次比赛。如果我们能再努力一点儿，就一定会多进一个球。",
+          "vi": "Tiểu Hạ: Thời gian này tớ cứ ngồi một mình trong phòng nhớ lại trận đấu đó. Nếu bọn mình cố gắng thêm chút nữa, chắc chắn sẽ ghi thêm một bàn.",
+          "en": "Xiao Xia: Lately I keep sitting alone in my room going over that match. If we'd tried a bit harder, we'd definitely have scored another goal."
+        },
+        {
+          "zh": "马克：事情已经发生了，过去的就让它成为过去吧。只要这次你好好儿准备，一定能把比赛踢好。",
+          "vi": "Mark: Chuyện đã xảy ra rồi, cái gì đã qua thì hãy để nó qua đi. Chỉ cần lần này cậu chuẩn bị tốt, nhất định sẽ đá tốt.",
+          "en": "Mark: What's happened has happened. Let the past stay in the past. As long as you prepare well this time, you'll definitely play well."
+        }
+      ],
+      "words": [
+        {
+          "zh": "景色",
+          "py": "jǐngsè",
+          "pos": "dt.",
+          "vi": "phong cảnh, cảnh vật",
+          "en": "scenery"
+        },
+        {
+          "zh": "放松",
+          "py": "fàngsōng",
+          "pos": "đgt.",
+          "vi": "thả lỏng, thư giãn",
+          "en": "to relax"
+        },
+        {
+          "zh": "压力",
+          "py": "yālì",
+          "pos": "dt.",
+          "vi": "áp lực",
+          "en": "pressure"
+        },
+        {
+          "zh": "回忆",
+          "py": "huíyì",
+          "pos": "đgt.",
+          "vi": "nhớ lại",
+          "en": "to recall"
+        },
+        {
+          "zh": "发生",
+          "py": "fāshēng",
+          "pos": "đgt.",
+          "vi": "xảy ra",
+          "en": "to happen"
+        },
+        {
+          "zh": "成为",
+          "py": "chéngwéi",
+          "pos": "đgt.",
+          "vi": "trở thành",
+          "en": "to become"
+        },
+        {
+          "zh": "只要",
+          "py": "zhǐyào",
+          "pos": "liên.",
+          "vi": "chỉ cần, miễn là",
+          "en": "as long as"
+        }
+      ]
+    },
+    {
+      "title": "马克和司机聊关于堵车的事情",
+      "paras": [
+        {
+          "zh": "马克：师傅，我去大使馆，你是不是走错了？",
+          "vi": "Mark: Bác ơi, cháu đi đại sứ quán, có phải bác đi nhầm đường rồi không?",
+          "en": "Mark: Excuse me, I'm going to the embassy. Have you gone the wrong way?"
+        },
+        {
+          "zh": "师傅：现在是上班时间，前面有点儿堵车，我们走另外一条路，距离差不多。",
+          "vi": "Bác tài: Bây giờ là giờ đi làm, phía trước hơi tắc đường, chúng ta đi đường khác, khoảng cách cũng gần như nhau.",
+          "en": "Driver: It's rush hour and there's a bit of a jam ahead, so we're taking another road. The distance is about the same."
+        },
+        {
+          "zh": "马克：那就好，堵车浪费时间，遇到堵车，心情也“堵”。",
+          "vi": "Mark: Thế thì tốt, tắc đường lãng phí thời gian, gặp tắc đường thì tâm trạng cũng “tắc” theo.",
+          "en": "Mark: Good. Traffic jams waste time, and when you're stuck in one, your mood gets “jammed” too."
+        },
+        {
+          "zh": "师傅：可不是！上班堵车怕迟到，下班堵车怕回家晚。每天在马路上开车，要想不遇到堵车，还真难。",
+          "vi": "Bác tài: Đúng thế! Đi làm tắc đường thì sợ muộn, tan làm tắc đường thì sợ về nhà muộn. Ngày nào cũng lái xe trên đường, muốn không gặp tắc đường thật khó.",
+          "en": "Driver: Too right! Stuck on the way to work, you worry about being late; stuck on the way home, you worry about getting back late. Driving every day, it's really hard to avoid traffic jams."
+        },
+        {
+          "zh": "马克：一遇到堵车，人们就容易变得没有耐心。长期这样，还会影响脾气甚至性格。但是您的心情为什么这么好呢？",
+          "vi": "Mark: Cứ gặp tắc đường là người ta dễ mất kiên nhẫn. Lâu dần như vậy còn ảnh hưởng đến tính khí, thậm chí tính cách. Nhưng sao tâm trạng của bác lại tốt thế?",
+          "en": "Mark: Whenever people get stuck in traffic, they easily lose patience. Over time it can even affect their temper and personality. So why are you in such a good mood?"
+        },
+        {
+          "zh": "师傅：我们改变不了堵车，但是可以试着改变自己的心情。堵车时正好可以休息一下，还可以听听自己喜欢的音乐。",
+          "vi": "Bác tài: Chúng ta không thay đổi được việc tắc đường, nhưng có thể thử thay đổi tâm trạng của mình. Lúc tắc đường vừa hay có thể nghỉ ngơi một chút, còn có thể nghe nhạc mình thích.",
+          "en": "Driver: We can't change traffic jams, but we can try to change our mood. A jam is a good chance to rest a bit and listen to some music you like."
+        }
+      ],
+      "words": [
+        {
+          "zh": "师傅",
+          "py": "shīfu",
+          "pos": "dt.",
+          "vi": "sư phụ (cách gọi kính trọng dành cho những người có tay nghề)",
+          "en": "master (polite term for skilled workers, drivers)"
+        },
+        {
+          "zh": "大使馆",
+          "py": "dàshǐguǎn",
+          "pos": "dt.",
+          "vi": "đại sứ quán",
+          "en": "embassy"
+        },
+        {
+          "zh": "堵车",
+          "py": "dǔ chē",
+          "pos": "đgt.",
+          "vi": "kẹt xe",
+          "en": "to be in a traffic jam"
+        },
+        {
+          "zh": "距离",
+          "py": "jùlí",
+          "pos": "dt.",
+          "vi": "khoảng cách",
+          "en": "distance"
+        },
+        {
+          "zh": "耐心",
+          "py": "nàixīn",
+          "pos": "dt.",
+          "vi": "lòng kiên nhẫn, sự nhẫn nại",
+          "en": "patience"
+        }
+      ],
+      "names": [
+        {
+          "zh": "马克",
+          "py": "Mǎkè",
+          "vi": "Mark",
+          "en": "Mark"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "草绿了，那是生命的颜色；花开了，那是大自然的礼物。生活中不缺少美，缺少的是发现美的眼睛。只要有心，生活中的美到处都是。生活的态度要自己选择，因此，遇到烦恼时，你应该想一些办法让自己从不高兴的心情中走出来。窗外是什么样子，我们无法改变，但我们可以选择站在哪个窗户前。选择一个能够带给我们快乐的窗户，这样才能选对心情，选对生活的态度。",
+          "vi": "Cỏ xanh rồi, đó là màu của sự sống; hoa nở rồi, đó là món quà của thiên nhiên. Cuộc sống không thiếu cái đẹp, cái thiếu là đôi mắt phát hiện ra cái đẹp. Chỉ cần có lòng, cái đẹp trong cuộc sống có ở khắp nơi. Thái độ sống phải do mình lựa chọn, vì vậy, khi gặp phiền muộn, bạn nên nghĩ cách giúp mình thoát ra khỏi tâm trạng không vui. Bên ngoài cửa sổ trông thế nào, chúng ta không thể thay đổi, nhưng chúng ta có thể chọn đứng trước cửa sổ nào. Chọn một cửa sổ có thể mang lại niềm vui cho chúng ta, như vậy mới chọn đúng tâm trạng, chọn đúng thái độ sống.",
+          "en": "When the grass turns green, that's the colour of life; when flowers bloom, that's nature's gift. Life isn't short of beauty; what's lacking is eyes to see it. If you pay attention, beauty is everywhere. You choose your own attitude to life, so when you're troubled, you should find ways to get yourself out of a bad mood. We can't change what's outside the window, but we can choose which window to stand at. Choose a window that brings us happiness; only then can we choose the right mood and the right attitude to life."
+        }
+      ],
+      "words": [
+        {
+          "zh": "生命",
+          "py": "shēngmìng",
+          "pos": "dt.",
+          "vi": "sự sống, tính mệnh",
+          "en": "life"
+        },
+        {
+          "zh": "缺少",
+          "py": "quēshǎo",
+          "pos": "đgt.",
+          "vi": "thiếu",
+          "en": "to lack"
+        },
+        {
+          "zh": "到处",
+          "py": "dàochù",
+          "pos": "phó.",
+          "vi": "khắp nơi, đâu đâu",
+          "en": "everywhere"
+        },
+        {
+          "zh": "态度",
+          "py": "tàidù",
+          "pos": "dt.",
+          "vi": "thái độ",
+          "en": "attitude"
+        },
+        {
+          "zh": "因此",
+          "py": "yīncǐ",
+          "pos": "liên.",
+          "vi": "do đó, vì vậy",
+          "en": "therefore"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "科学研究证明，女孩子对衣服颜色的选择往往与她们的性格有关。喜欢穿白色衣服的女孩子性格比较阳光，生活态度积极向上是她们的共同特点；而喜欢穿红色衣服的女孩子性格比较浪漫。颜色也会影响人的心情，不同的颜色会给我们带来不同的感情变化。红色让人变得热情；黄色和白色让人心情愉快；黑色却容易让人感到伤心；人们在看到蓝色时会觉得很舒服，变得安静下来；绿色让我们的眼睛得到休息。",
+          "vi": "Nghiên cứu khoa học chứng minh, việc các cô gái chọn màu quần áo thường liên quan đến tính cách của họ. Những cô gái thích mặc đồ trắng có tính cách khá vui vẻ, lạc quan, thái độ sống tích cực là đặc điểm chung của họ; còn những cô gái thích mặc đồ đỏ có tính cách khá lãng mạn. Màu sắc cũng ảnh hưởng đến tâm trạng con người, các màu khác nhau mang lại cho chúng ta những thay đổi cảm xúc khác nhau. Màu đỏ khiến người ta trở nên nhiệt tình; màu vàng và màu trắng khiến tâm trạng vui vẻ; màu đen lại dễ khiến người ta cảm thấy buồn; khi nhìn thấy màu xanh lam, người ta thấy rất dễ chịu, trở nên yên tĩnh; màu xanh lá giúp đôi mắt chúng ta được nghỉ ngơi.",
+          "en": "Scientific research shows that the colours girls choose to wear are often related to their personalities. Girls who like wearing white tend to be cheerful, and a positive attitude to life is something they share; girls who like wearing red tend to be romantic. Colours also affect our mood, and different colours bring different emotional changes. Red makes people passionate; yellow and white make people happy; black, however, easily makes people feel sad; blue makes people feel comfortable and calm; and green lets our eyes rest."
+        }
+      ],
+      "words": [
+        {
+          "zh": "科学",
+          "py": "kēxué",
+          "pos": "dt.",
+          "vi": "khoa học",
+          "en": "science"
+        },
+        {
+          "zh": "证明",
+          "py": "zhèngmíng",
+          "pos": "đgt.",
+          "vi": "chứng minh",
+          "en": "to prove"
+        },
+        {
+          "zh": "往往",
+          "py": "wǎngwǎng",
+          "pos": "phó.",
+          "vi": "thường thường",
+          "en": "often, usually"
+        },
+        {
+          "zh": "阳光",
+          "py": "yángguāng",
+          "pos": "tt.",
+          "vi": "lạc quan, vui vẻ",
+          "en": "sunny, cheerful"
+        },
+        {
+          "zh": "积极",
+          "py": "jījí",
+          "pos": "tt.",
+          "vi": "tích cực",
+          "en": "positive, active"
+        },
+        {
+          "zh": "特点",
+          "py": "tèdiǎn",
+          "pos": "dt.",
+          "vi": "đặc điểm",
+          "en": "characteristic"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "说一说为什么很多人在考试前喜欢吃巧克力。",
+        "label": "课文1",
+        "a": "因为【伤心难过或者紧张的时候吃块儿巧克力，能使人的心情变得愉快】。",
+        "vi": "Vì khi buồn bã hay căng thẳng, ăn một miếng sô-cô-la có thể khiến tâm trạng vui vẻ hơn.",
+        "en": "Because eating a piece of chocolate when you're sad or nervous can cheer you up.",
+        "sample": true
+      },
+      {
+        "q": "吃巧克力对人的心情有哪些影响？",
+        "label": "课文1",
+        "a": "【能使人的心情变得愉快】。",
+        "vi": "Có thể khiến tâm trạng con người trở nên vui vẻ.",
+        "en": "It can make people feel happier."
+      },
+      {
+        "q": "马克可能因为什么原因带小夏去看那里的景色？",
+        "label": "课文2",
+        "a": "因为【小夏上次足球比赛后心情不好，马克想让他放松一下】。",
+        "vi": "Vì sau trận bóng lần trước Tiểu Hạ tâm trạng không tốt, Mark muốn cậu ấy thư giãn một chút.",
+        "en": "Because Xiao Xia had been feeling down since the last football match, and Mark wanted him to relax.",
+        "sample": true
+      },
+      {
+        "q": "小夏认为上次足球比赛他们踢得怎么样？",
+        "label": "课文2",
+        "a": "他认为【踢得不太好】，如果能再努力一点儿，就一定会多进一个球。",
+        "vi": "Cậu ấy cho rằng đá không tốt lắm, nếu cố gắng thêm chút nữa thì chắc chắn sẽ ghi thêm một bàn.",
+        "en": "He thinks they didn't play very well; if they'd tried a bit harder they'd have scored another goal."
+      },
+      {
+        "q": "出租车司机走错路了吗？为什么？",
+        "label": "课文3",
+        "a": "【没走错】。因为【前面有点儿堵车，他们走另外一条路，距离差不多】。",
+        "vi": "Không đi nhầm. Vì phía trước hơi tắc đường nên họ đi đường khác, khoảng cách gần như nhau.",
+        "en": "No. There was a bit of a jam ahead, so he took another road of about the same distance."
+      },
+      {
+        "q": "堵车是一件很麻烦的事情，遇到堵车，你会做什么让自己心情变好？",
+        "label": "课文3",
+        "a": "我会【试着改变自己的心情，正好休息一下，听听自己喜欢的音乐】。",
+        "vi": "Tôi sẽ thử thay đổi tâm trạng, nhân tiện nghỉ ngơi một chút, nghe nhạc mình thích.",
+        "en": "I'd try to change my mood: take the chance to rest and listen to some music I like.",
+        "sample": true
+      },
+      {
+        "q": "怎么理解“生活中的美到处都是”这句话？",
+        "label": "课文4",
+        "a": "意思是【生活中不缺少美，缺少的是发现美的眼睛。只要有心，就能发现生活中的美】。",
+        "vi": "Nghĩa là cuộc sống không thiếu cái đẹp, cái thiếu là đôi mắt phát hiện cái đẹp. Chỉ cần có lòng là sẽ phát hiện ra cái đẹp trong cuộc sống.",
+        "en": "It means life isn't short of beauty; what's lacking is the eyes to see it. If you pay attention, you'll find beauty in life."
+      },
+      {
+        "q": "说一说“选择站在哪个窗户前”里的“窗户”指的是什么。",
+        "label": "课文4",
+        "a": "“窗户”指的是【我们看生活的角度和对生活的态度】。",
+        "vi": "“Cửa sổ” chỉ góc nhìn của chúng ta về cuộc sống và thái độ sống.",
+        "en": "The “window” refers to the angle from which we view life and our attitude to it.",
+        "sample": true
+      },
+      {
+        "q": "从课文可以知道，哪种方法可以让我们了解一个人的性格？",
+        "label": "课文5",
+        "a": "可以【看她对衣服颜色的选择】，因为女孩子对衣服颜色的选择往往与她们的性格有关。",
+        "vi": "Có thể xem cô ấy chọn màu quần áo như thế nào, vì việc các cô gái chọn màu quần áo thường liên quan đến tính cách.",
+        "en": "You can look at the colours she chooses to wear, because girls' choice of clothing colour is often related to their personality."
+      },
+      {
+        "q": "如果你觉得紧张，眼睛一直跳，你可以做什么让自己放松一下？",
+        "label": "课文5",
+        "a": "我可以【多看看蓝色和绿色的东西，让自己安静下来，让眼睛得到休息】。",
+        "vi": "Tôi có thể nhìn nhiều thứ màu xanh lam và xanh lá để bình tĩnh lại, cho mắt được nghỉ ngơi.",
+        "en": "I could look at blue and green things to calm down and rest my eyes.",
+        "sample": true
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "使",
+      "uses": [
+        {
+          "vi": "Động từ 使 có nghĩa là khiến cho, làm cho (tương tự 让), thường được dùng trong văn viết.",
+          "en": "The verb 使 means 'to make, to cause' (like 让). It is mostly used in written language.",
+          "ex": [
+            {
+              "zh": "她看都没看过我一眼，怎么样才能【使】她喜欢我呢？",
+              "vi": "Cô ấy còn chưa từng liếc nhìn tôi lấy một lần, làm thế nào mới có thể khiến cô ấy thích tôi đây?",
+              "en": "She's never even glanced at me. How can I make her like me?"
+            },
+            {
+              "zh": "在中国生活的三年【使】他在音乐方面有了很多新的想法。",
+              "vi": "Ba năm sống ở Trung Quốc đã khiến anh ấy có rất nhiều ý tưởng mới về âm nhạc.",
+              "en": "Three years of living in China gave him lots of new ideas about music."
+            },
+            {
+              "zh": "听说伤心难过的时候吃块儿巧克力，还能【使】人的心情变得愉快。",
+              "vi": "Nghe nói lúc buồn bã đau lòng mà ăn một miếng sô-cô-la thì còn có thể khiến tâm trạng trở nên vui vẻ.",
+              "en": "I've heard that eating a piece of chocolate when you're sad can even put you in a better mood."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "房间里应该多放一些绿色植物，____。",
+            "hint": "使",
+            "a": "房间里应该多放一些绿色植物，【这样能使人心情愉快】。",
+            "vi": "Trong phòng nên đặt nhiều cây xanh hơn, như vậy có thể khiến tâm trạng vui vẻ.",
+            "en": "You should put more green plants in the room; they can make people feel happier.",
+            "sample": true
+          },
+          {
+            "q": "听完这件事，____。",
+            "hint": "使",
+            "a": "听完这件事，【我的心情使我很长时间都不能平静】。",
+            "vi": "Nghe xong chuyện này, tâm trạng khiến tôi rất lâu không thể bình tĩnh lại.",
+            "en": "After hearing this, I couldn't calm down for a long time.",
+            "sample": true
+          },
+          {
+            "q": "在你烦恼的时候，____。",
+            "hint": "使",
+            "a": "在你烦恼的时候，【听听音乐能使你放松下来】。",
+            "vi": "Lúc bạn phiền muộn, nghe nhạc có thể giúp bạn thư giãn.",
+            "en": "When you're troubled, listening to music can help you relax.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "只要",
+      "uses": [
+        {
+          "vi": "Liên từ 只要 thường được dùng trong cấu trúc “只要……就……”. Vế câu đứng sau 只要 đưa ra một điều kiện cần thiết, vế câu đứng sau 就 chỉ kết quả của điều kiện này.",
+          "en": "The conjunction 只要 (as long as) is often used in 只要……就……. The 只要 clause gives a necessary condition; the 就 clause gives the result of that condition.",
+          "ex": [
+            {
+              "zh": "【只要】这次你好好儿准备，一定能把比赛踢好。",
+              "vi": "Chỉ cần lần này bạn chuẩn bị thật tốt thì nhất định sẽ đá tốt trận đấu.",
+              "en": "As long as you prepare properly this time, you're sure to play well in the match."
+            },
+            {
+              "zh": "【只要】你用心【就】会发现，身边有那么多有意思的事情，有那么多不一样的生活。",
+              "vi": "Chỉ cần bạn để tâm thì sẽ phát hiện xung quanh mình có biết bao nhiêu điều thú vị, biết bao nhiêu cuộc sống khác nhau.",
+              "en": "As long as you pay attention, you'll discover there are so many interesting things around you, and so many different ways of living."
+            },
+            {
+              "zh": "每个人对幸福有不同的理解，对我来说，【只要】能做自己喜欢的事，【就】是幸福。",
+              "vi": "Mỗi người có cách hiểu khác nhau về hạnh phúc, đối với tôi, chỉ cần được làm điều mình thích là hạnh phúc rồi.",
+              "en": "Everyone understands happiness differently. For me, as long as I can do what I love, that's happiness."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，爸妈一定会支持你。",
+            "hint": "只要",
+            "a": "【只要你觉得自己的选择是对的】，爸妈一定会支持你。",
+            "vi": "Chỉ cần bạn thấy lựa chọn của mình là đúng, bố mẹ nhất định sẽ ủng hộ bạn.",
+            "en": "As long as you believe your choice is right, your parents will definitely support you.",
+            "sample": true
+          },
+          {
+            "q": "____，就一定会参加。",
+            "hint": "只要",
+            "a": "【只要我有时间】，就一定会参加。",
+            "vi": "Chỉ cần tôi có thời gian thì nhất định sẽ tham gia.",
+            "en": "As long as I have time, I'll definitely take part.",
+            "sample": true
+          },
+          {
+            "q": "只要能取得好的成绩，____。",
+            "hint": "就",
+            "a": "只要能取得好的成绩，【再辛苦我也愿意】。",
+            "vi": "Chỉ cần đạt được thành tích tốt, có vất vả mấy tôi cũng sẵn lòng.",
+            "en": "As long as I can get good results, I'm willing to work however hard it takes.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "可不是",
+      "py": "kěbushì",
+      "uses": [
+        {
+          "vi": "Phó từ 可不是 được sử dụng để bày tỏ sự tán thành hoặc đồng cảm với những điều người khác nói, thường đứng độc lập tạo thành một câu (cũng có thể dùng 可不).",
+          "en": "The adverb 可不是 ('Isn't that so! / Exactly!') shows agreement or sympathy with what someone else has said. It usually stands alone as a sentence; 可不 is also used.",
+          "ex": [
+            {
+              "zh": "A：没想到咱们毕业都已经十年了。\nB：【可不是】！时间过得太快了，真想大家。",
+              "vi": "A: Không ngờ chúng mình tốt nghiệp đã mười năm rồi.\nB: Đúng thế! Thời gian trôi nhanh quá, nhớ mọi người thật.",
+              "en": "A: I can't believe it's already been ten years since we graduated.\nB: I know! Time flies. I really miss everyone."
+            },
+            {
+              "zh": "A：遇到堵车，心情也“堵”。\nB：【可不是】！上班堵车怕迟到，下班堵车怕回家晚。",
+              "vi": "A: Gặp tắc đường thì tâm trạng cũng “tắc” theo.\nB: Chứ còn gì nữa! Đi làm tắc đường thì sợ muộn, tan làm tắc đường thì sợ về nhà trễ.",
+              "en": "A: When you're stuck in traffic, your mood gets “jammed” too.\nB: Exactly! Stuck on the way to work, you worry about being late; stuck on the way home, you worry about getting back late."
+            },
+            {
+              "zh": "A：这家网球馆的服务不错，给我的印象很好。\nB：【可不是】！这儿不仅环境好，还免费提供吃的和水，打球打累的时候，可以吃点儿东西休息一下。",
+              "vi": "A: Dịch vụ của sân quần vợt này khá tốt, tôi có ấn tượng rất tốt.\nB: Đúng vậy! Ở đây không những môi trường tốt mà còn cung cấp miễn phí đồ ăn và nước uống, lúc chơi mệt có thể ăn chút gì đó nghỉ ngơi.",
+              "en": "A: The service at this tennis centre is good. It's made a great impression on me.\nB: It really has! Not only is the place nice, they also provide free food and water, so when you're tired from playing you can have a snack and rest."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话",
+        "items": [
+          {
+            "q": "A：他每天穿这么少，能不感冒吗？\nB：可不是，____。",
+            "hint": "可不是",
+            "a": "A：他每天穿这么少，能不感冒吗？\nB：可不是，【你看，他今天又咳嗽了】。",
+            "vi": "A: Ngày nào cậu ấy cũng mặc ít thế, không bị cảm mới lạ?\nB: Đúng thế, bạn xem, hôm nay cậu ấy lại ho rồi.",
+            "en": "A: He wears so little every day. No wonder he catches colds.\nB: Exactly. Look, he's coughing again today.",
+            "sample": true
+          },
+          {
+            "q": "A：最近天气怎么这么干呢！\nB：可不，____。",
+            "hint": "可不",
+            "a": "A：最近天气怎么这么干呢！\nB：可不，【好久没下雨了】。",
+            "vi": "A: Dạo này sao thời tiết khô thế!\nB: Đúng vậy, lâu lắm rồi không mưa.",
+            "en": "A: Why has the weather been so dry lately!\nB: I know, it hasn't rained for ages.",
+            "sample": true
+          },
+          {
+            "q": "A：马克的性格真好，大家遇到问题都愿意找他帮忙。\nB：可不是，____。",
+            "hint": "可不是",
+            "a": "A：马克的性格真好，大家遇到问题都愿意找他帮忙。\nB：可不是，【他又热情又有耐心】。",
+            "vi": "A: Tính cách Mark tốt thật, mọi người gặp chuyện đều muốn nhờ cậu ấy giúp.\nB: Đúng thế, cậu ấy vừa nhiệt tình vừa kiên nhẫn.",
+            "en": "A: Mark has such a nice personality. Everyone goes to him for help when they have a problem.\nB: Absolutely. He's friendly and patient.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "因此",
+      "uses": [
+        {
+          "vi": "Liên từ 因此 có nghĩa là vì vậy, gần nghĩa với 所以 nhưng không được dùng kết hợp với 因为.",
+          "en": "The conjunction 因此 means 'therefore, so'. It is close in meaning to 所以, but cannot be paired with 因为.",
+          "ex": [
+            {
+              "zh": "我认识他很多年，【因此】，很了解他的性格。",
+              "vi": "Tôi quen anh ấy nhiều năm rồi, vì vậy rất hiểu tính cách của anh ấy.",
+              "en": "I've known him for many years, so I understand his character very well."
+            },
+            {
+              "zh": "每个学生的性格、能力不同，【因此】，老师要根据学生的特点，用不同的方法。",
+              "vi": "Tính cách, năng lực của mỗi học sinh khác nhau, vì vậy giáo viên phải căn cứ vào đặc điểm của học sinh mà dùng những phương pháp khác nhau.",
+              "en": "Every student's personality and ability are different, so teachers have to use different methods according to each student's characteristics."
+            },
+            {
+              "zh": "生活的态度要自己选择，【因此】，遇到烦恼时，你应该想一些办法让自己从不高兴的心情中走出来。",
+              "vi": "Thái độ sống là do mình tự lựa chọn, vì vậy khi gặp phiền muộn, bạn nên nghĩ cách để bản thân thoát ra khỏi tâm trạng không vui.",
+              "en": "Your attitude to life is your own choice, so when something's bothering you, you should find ways to pull yourself out of a bad mood."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "小雨最近心情不好，____。",
+            "hint": "因此",
+            "a": "小雨最近心情不好，【因此我们想带他出去玩儿玩儿】。",
+            "vi": "Dạo này Tiểu Vũ tâm trạng không tốt, vì vậy chúng tôi muốn đưa cậu ấy đi chơi.",
+            "en": "Xiaoyu has been feeling down lately, so we want to take him out for some fun.",
+            "sample": true
+          },
+          {
+            "q": "做好小事是完成大事的第一步，____。",
+            "hint": "因此",
+            "a": "做好小事是完成大事的第一步，【因此我们不能看不起小事】。",
+            "vi": "Làm tốt việc nhỏ là bước đầu tiên để hoàn thành việc lớn, vì vậy chúng ta không thể xem thường việc nhỏ.",
+            "en": "Doing small things well is the first step to achieving big things, so we mustn't look down on small things.",
+            "sample": true
+          },
+          {
+            "q": "没人能知道以后会发生什么事，____。",
+            "hint": "因此",
+            "a": "没人能知道以后会发生什么事，【因此我们要好好儿过好每一天】。",
+            "vi": "Không ai biết sau này sẽ xảy ra chuyện gì, vì vậy chúng ta phải sống tốt mỗi ngày.",
+            "en": "No one knows what will happen in the future, so we should make the most of every day.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "往往",
+      "uses": [
+        {
+          "vi": "Phó từ 往往 chỉ tình huống nào đó thường xảy ra trong điều kiện nhất định (dựa trên kinh nghiệm trước đây), thường được dùng để nói về những sự việc có tính quy luật.",
+          "en": "The adverb 往往 means that, based on past experience, something tends to happen under certain conditions. It describes things that follow a regular pattern: 'often, tend to'.",
+          "ex": [
+            {
+              "zh": "女孩子对衣服颜色的选择【往往】与她们的性格有关。",
+              "vi": "Việc các cô gái chọn màu quần áo thường liên quan đến tính cách của họ.",
+              "en": "The colours girls choose for their clothes are often related to their personality."
+            },
+            {
+              "zh": "有经验的出租车司机【往往】对道路情况都非常熟悉，他们知道一天的每个时段什么地方可能堵车。",
+              "vi": "Những tài xế taxi có kinh nghiệm thường rất thông thạo tình hình đường sá, họ biết mỗi khung giờ trong ngày chỗ nào có thể tắc đường.",
+              "en": "Experienced taxi drivers tend to know the roads extremely well; they know where traffic is likely to jam at each time of day."
+            },
+            {
+              "zh": "除了正式的名字，中国人一般都有个小名。在家里，父母【往往】只叫孩子的小名。",
+              "vi": "Ngoài tên chính thức, người Trung Quốc thường có một cái tên ở nhà. Ở nhà, bố mẹ thường chỉ gọi con bằng tên ở nhà.",
+              "en": "Besides their official name, Chinese people usually have a pet name. At home, parents tend to call their children only by their pet names."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "往往—经常",
+        "uses": [
+          {
+            "vi": "Giống nhau: 往往 và 经常 đều có thể được dùng làm phó từ để chỉ tình huống nào đó xuất hiện nhiều lần.",
+            "en": "Similarity: both 往往 and 经常 can be adverbs meaning something happens many times.",
+            "ex": [
+              {
+                "zh": "要是缺少调查、不听别人说明情况，不理解【往往】/【经常】就可能发生。",
+                "vi": "Nếu thiếu tìm hiểu, không nghe người khác giải thích tình hình thì hiểu lầm thường dễ xảy ra.",
+                "en": "If you don't look into things and don't listen to others explain the situation, misunderstandings often arise."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: 往往 là sự tổng kết tình huống tính đến thời điểm hiện tại, diễn tả sự việc có tính quy luật chứ không mang tính chủ quan, nên chỉ có thể dùng cho các tình huống đã xảy ra. 经常 chỉ nói về một hành động xuất hiện nhiều lần, không nhất thiết có tính quy luật và có thể dùng cho nguyện vọng chủ quan, do đó có thể diễn tả các tình huống chưa từng xảy ra nhưng có khả năng xuất hiện nhiều lần.",
+            "en": "Difference 1: 往往 sums up what has happened so far; it describes a regular pattern, not a wish, so it is only used for things that have already happened. 经常 just says an action happens often, not necessarily as a pattern, and can express a wish, so it can describe things that haven't happened yet but may happen often.",
+            "ex": [
+              {
+                "zh": "吃完晚饭，他们一家【往往】去附近的公园散步。",
+                "vi": "Ăn tối xong, cả nhà họ thường ra công viên gần đó đi dạo.",
+                "en": "After dinner, their family tends to go for a walk in the park nearby."
+              },
+              {
+                "zh": "长时间对着电脑工作对身体不好，我们以后也【经常】去公园散散步吧。",
+                "vi": "Làm việc trước máy tính trong thời gian dài không tốt cho sức khỏe, sau này chúng ta cũng thường xuyên ra công viên đi dạo nhé.",
+                "en": "Working at a computer for long hours is bad for your health. Let's go for walks in the park often from now on too."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: Câu có 往往 thường nêu rõ tình huống, điều kiện hay kết quả có liên quan đến hành động được đề cập. Câu có 经常 không cần nêu thông tin này.",
+            "en": "Difference 2: a sentence with 往往 usually states the circumstances, conditions or results related to the action; a sentence with 经常 doesn't need to.",
+            "ex": [
+              {
+                "zh": "上大学时我很喜欢运动，【往往】/【经常】在周末打篮球、踢足球。",
+                "vi": "Hồi đại học tôi rất thích thể thao, thường chơi bóng rổ, đá bóng vào cuối tuần.",
+                "en": "In college I loved sports and would often play basketball and football at weekends."
+              },
+              {
+                "zh": "上大学时我很喜欢运动，【经常】打篮球、踢足球。",
+                "vi": "Hồi đại học tôi rất thích thể thao, thường xuyên chơi bóng rổ, đá bóng.",
+                "en": "In college I loved sports and often played basketball and football."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 3: 经常 thường tương đương với 常. Còn 往往 thì không thể rút gọn thành 往.",
+            "en": "Difference 3: 经常 can often be shortened to 常, but 往往 cannot be shortened to 往.",
+            "ex": [
+              {
+                "zh": "在商家打折的时候，有的人【（经）常】会买一些自己本来不需要，甚至很可能一直都用不到的东西。",
+                "vi": "Khi cửa hàng giảm giá, có người thường mua những thứ vốn dĩ mình không cần, thậm chí rất có thể sẽ chẳng bao giờ dùng đến.",
+                "en": "When shops have sales, some people often buy things they don't actually need and may well never use."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "中国人____会请重要的客人去饭店吃饭。",
+              "key": "往往 ✓ · 经常 ✓",
+              "a": "中国人【往往】/【经常】会请重要的客人去饭店吃饭。",
+              "vi": "Người Trung Quốc thường mời khách quan trọng đi ăn nhà hàng.",
+              "en": "Chinese people often invite important guests to eat at restaurants."
+            },
+            {
+              "q": "爷爷____告诉我不管做什么事情都应该认真。",
+              "key": "往往 ✗ · 经常 ✓ (không nêu tình huống, điều kiện)",
+              "a": "爷爷【经常】告诉我不管做什么事情都应该认真。",
+              "vi": "Ông thường dặn tôi dù làm việc gì cũng phải nghiêm túc.",
+              "en": "Grandpa often tells me to be conscientious whatever I do."
+            },
+            {
+              "q": "那个饭馆的菜不仅好吃，而且价格不贵，以后咱们可以____去。",
+              "key": "往往 ✗ · 经常 ✓ (chuyện chưa xảy ra, ý muốn chủ quan)",
+              "a": "那个饭馆的菜不仅好吃，而且价格不贵，以后咱们可以【经常】去。",
+              "vi": "Món ở quán đó không những ngon mà giá cũng không đắt, sau này chúng ta có thể đi thường xuyên.",
+              "en": "The food at that restaurant is not only good but also cheap. We can go there often."
+            },
+            {
+              "q": "这个工作____要加班，几乎没时间陪孩子，这个让我受不了。",
+              "key": "往往 ✗ · 经常 ✓",
+              "a": "这个工作【经常】要加班，几乎没时间陪孩子，这个让我受不了。",
+              "vi": "Công việc này thường xuyên phải tăng ca, hầu như không có thời gian ở bên con, điều này khiến tôi không chịu nổi.",
+              "en": "This job often involves overtime and I hardly have time for my children. I can't stand it."
+            },
+            {
+              "q": "很多30岁左右的年轻人，平时工作紧张，他们____是饿了才吃饭，渴了才喝水。",
+              "key": "往往 ✓ · 经常 ✓",
+              "a": "很多30岁左右的年轻人，平时工作紧张，他们【往往】/【经常】是饿了才吃饭，渴了才喝水。",
+              "vi": "Nhiều người trẻ khoảng 30 tuổi, bình thường công việc căng thẳng, họ thường đói mới ăn, khát mới uống.",
+              "en": "Many young people around 30 are so busy at work that they often only eat when hungry and drink when thirsty."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "眼睛看到的不一定是真的，但是____。",
+            "hint": "往往",
+            "a": "眼睛看到的不一定是真的，但是【人们往往相信自己看到的东西】。",
+            "vi": "Những gì mắt thấy chưa chắc là thật, nhưng người ta thường tin vào những gì mình nhìn thấy.",
+            "en": "What you see isn't necessarily true, but people tend to believe their eyes.",
+            "sample": true
+          },
+          {
+            "q": "一到节日，____。",
+            "hint": "往往",
+            "a": "一到节日，【商场里往往有很多人】。",
+            "vi": "Cứ đến ngày lễ, trong trung tâm thương mại thường rất đông người.",
+            "en": "Whenever there's a holiday, the malls are usually crowded.",
+            "sample": true
+          },
+          {
+            "q": "你最好先听听别人的想法，____。",
+            "hint": "往往",
+            "a": "你最好先听听别人的想法，【别人往往能发现你没注意到的问题】。",
+            "vi": "Bạn tốt nhất nên nghe ý kiến của người khác trước, người khác thường có thể phát hiện ra những vấn đề bạn không để ý.",
+            "en": "You'd better listen to other people's ideas first. They can often spot problems you haven't noticed.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "高老师的语气：\n这是我女儿从国外带回来的巧克力，……",
+          "label": "课文1",
+          "a": "这是我女儿从国外带回来的巧克力。很多人出国后常常会买外国的巧克力，回来送给亲戚朋友，因为很多人都爱吃巧克力，尤其是女性。巧克力大多是甜的，而很多女性都喜欢吃甜的。而且，听说伤心难过的时候吃块儿巧克力，还能使人的心情变得愉快。",
+          "vi": "Đây là sô-cô-la con gái tôi mang từ nước ngoài về. Nhiều người đi nước ngoài thường mua sô-cô-la về tặng họ hàng bạn bè, vì nhiều người thích ăn sô-cô-la, nhất là phụ nữ. Sô-cô-la đa phần ngọt mà nhiều phụ nữ thích ăn ngọt. Hơn nữa nghe nói lúc buồn ăn một miếng sô-cô-la còn khiến tâm trạng vui lên.",
+          "en": "This is chocolate my daughter brought back from abroad. Lots of people buy foreign chocolate to give to relatives and friends, because many people love it, especially women. Most chocolate is sweet, and many women like sweet things. Also, they say eating chocolate when you're sad can cheer you up.",
+          "sample": true
+        },
+        {
+          "q": "小夏的语气：\n这段时间我一直在回忆那次比赛，……",
+          "label": "课文2",
+          "a": "这段时间我一直在回忆那次比赛，如果我们能再努力一点儿，就一定会多进一个球。马克带我去看了很美的景色，我的心情好多了，好久都没这么放松了。马克告诉我，事情已经发生了，过去的就让它成为过去吧，只要这次好好儿准备，一定能把比赛踢好。",
+          "vi": "Thời gian này tôi cứ nhớ lại trận đấu đó, nếu chúng tôi cố gắng thêm chút nữa thì chắc chắn sẽ ghi thêm một bàn. Mark đưa tôi đi ngắm cảnh đẹp, tâm trạng tôi khá hơn nhiều, lâu lắm rồi không thoải mái như vậy. Mark nói với tôi chuyện đã xảy ra rồi, cái gì qua hãy để nó qua, chỉ cần lần này chuẩn bị tốt thì nhất định sẽ đá tốt.",
+          "en": "Lately I keep going over that match; if we'd tried harder we'd have scored another goal. Mark took me to see some beautiful scenery and I feel much better; I haven't been this relaxed for ages. Mark told me that what's happened has happened and to let the past be the past; as long as I prepare well this time, I'll play well.",
+          "sample": true
+        },
+        {
+          "q": "出租车司机的语气：\n前面有点儿堵车，……",
+          "label": "课文3",
+          "a": "前面有点儿堵车，所以我们走另外一条路，距离差不多。上班堵车怕迟到，下班堵车怕回家晚，每天在马路上开车，要想不遇到堵车，还真难。我们改变不了堵车，但是可以试着改变自己的心情。堵车时正好可以休息一下，还可以听听自己喜欢的音乐。",
+          "vi": "Phía trước hơi tắc đường nên chúng tôi đi đường khác, khoảng cách gần như nhau. Đi làm tắc đường sợ muộn, tan làm tắc đường sợ về muộn, ngày nào cũng lái xe, muốn không gặp tắc đường thật khó. Chúng ta không thay đổi được tắc đường, nhưng có thể thử thay đổi tâm trạng. Lúc tắc đường vừa hay nghỉ ngơi một chút, nghe nhạc mình thích.",
+          "en": "There was a bit of a jam ahead, so we took another road of about the same distance. Stuck on the way to work you worry about being late; on the way home, about getting back late. Driving every day, it's hard to avoid jams. We can't change the traffic, but we can try to change our mood. A jam is a good chance to rest and listen to music you like.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "伤心",
+        "放松",
+        "只要",
+        "积极",
+        "证明"
+      ],
+      "items": [
+        {
+          "q": "有的人认为，心情____、身体健康才是真正的幸福。",
+          "key": "放松",
+          "a": "有的人认为，心情【放松】、身体健康才是真正的幸福。",
+          "vi": "Có người cho rằng tâm trạng thoải mái, cơ thể khỏe mạnh mới là hạnh phúc thật sự.",
+          "en": "Some people think that a relaxed mind and a healthy body are true happiness."
+        },
+        {
+          "q": "她听到这个消息后____地{de}哭了。",
+          "key": "伤心",
+          "a": "她听到这个消息后【伤心】地{de}哭了。",
+          "vi": "Cô ấy nghe tin này xong đau lòng bật khóc.",
+          "en": "She cried sadly when she heard the news."
+        },
+        {
+          "q": "这次招聘会提供了差不多1000个工作机会，请同学们____参加。",
+          "key": "积极",
+          "a": "这次招聘会提供了差不多1000个工作机会，请同学们【积极】参加。",
+          "vi": "Hội chợ việc làm lần này cung cấp gần 1000 cơ hội việc làm, mời các bạn tích cực tham gia.",
+          "en": "This job fair offers nearly 1,000 jobs. Students are encouraged to take part."
+        },
+        {
+          "q": "很多小孩子觉得所有东西____一哭就能得到。",
+          "key": "只要",
+          "a": "很多小孩子觉得所有东西【只要】一哭就能得到。",
+          "vi": "Nhiều đứa trẻ nghĩ rằng chỉ cần khóc là thứ gì cũng có được.",
+          "en": "Many children think they can get anything just by crying."
+        },
+        {
+          "q": "他现在已经成为一个有名的律师，终于向所有人____自己的选择是对的。",
+          "key": "证明",
+          "a": "他现在已经成为一个有名的律师，终于向所有人【证明】自己的选择是对的。",
+          "vi": "Bây giờ anh ấy đã trở thành một luật sư nổi tiếng, cuối cùng đã chứng minh với mọi người lựa chọn của mình là đúng.",
+          "en": "He's now a famous lawyer and has finally proved to everyone that his choice was right."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "耐心",
+        "愉快",
+        "到处",
+        "缺少",
+        "发生"
+      ],
+      "items": [
+        {
+          "q": "A：终于爬上来了，累死我了，这山太高了！\nB：看来你真的是____锻炼，以后每天跟我一块儿跑步吧。",
+          "key": "缺少",
+          "a": "A：终于爬上来了，累死我了，这山太高了！\nB：看来你真的是【缺少】锻炼，以后每天跟我一块儿跑步吧。",
+          "vi": "A: Cuối cùng cũng leo lên được, mệt chết mất, núi này cao quá!\nB: Xem ra bạn thật sự thiếu rèn luyện, sau này ngày nào cũng chạy bộ cùng tôi nhé.",
+          "en": "A: Finally made it to the top. I'm exhausted; this mountain is too high!\nB: Looks like you really don't get enough exercise. Come running with me every day from now on."
+        },
+        {
+          "q": "A：你今天的面试怎么样？\nB：经理说会认真考虑一下，让我别着急，____等消息。",
+          "key": "耐心",
+          "a": "A：你今天的面试怎么样？\nB：经理说会认真考虑一下，让我别着急，【耐心】等消息。",
+          "vi": "A: Buổi phỏng vấn hôm nay của bạn thế nào?\nB: Giám đốc nói sẽ cân nhắc kỹ, bảo tôi đừng sốt ruột, kiên nhẫn chờ tin.",
+          "en": "A: How was your interview today?\nB: The manager said he'd think it over carefully and told me not to worry and wait patiently for news."
+        },
+        {
+          "q": "A：不管遇到什么问题、____什么事情，都不要着急。\nB：谢谢您的关心，我记住了。",
+          "key": "发生",
+          "a": "A：不管遇到什么问题、【发生】什么事情，都不要着急。\nB：谢谢您的关心，我记住了。",
+          "vi": "A: Dù gặp vấn đề gì, xảy ra chuyện gì cũng đừng nóng vội.\nB: Cảm ơn sự quan tâm của anh, tôi nhớ rồi.",
+          "en": "A: Whatever problems you meet or whatever happens, don't panic.\nB: Thanks for your concern. I'll remember that."
+        },
+        {
+          "q": "A：你喜欢听什么样的歌？\nB：我喜欢那些比较慢、听着让人感觉很浪漫，心情____的歌。",
+          "key": "愉快",
+          "a": "A：你喜欢听什么样的歌？\nB：我喜欢那些比较慢、听着让人感觉很浪漫，心情【愉快】的歌。",
+          "vi": "A: Bạn thích nghe bài hát kiểu gì?\nB: Tôi thích những bài khá chậm, nghe thấy lãng mạn, tâm trạng vui vẻ.",
+          "en": "A: What kind of songs do you like?\nB: I like slower songs that sound romantic and put you in a good mood."
+        },
+        {
+          "q": "A：你的东西怎么____乱放呢？快去打扫一下！\nB：知道了，我一会儿就去。",
+          "key": "到处",
+          "a": "A：你的东西怎么【到处】乱放呢？快去打扫一下！\nB：知道了，我一会儿就去。",
+          "vi": "A: Sao đồ của con vứt lung tung khắp nơi thế? Mau đi dọn dẹp đi!\nB: Con biết rồi, lát nữa con đi.",
+          "en": "A: Why are your things scattered everywhere? Go and tidy up!\nB: OK, I'll do it in a minute."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 要",
+    "en": "Words sharing a character: 要",
+    "words": [
+      {
+        "zh": "重要",
+        "py": "zhòngyào",
+        "vi": "quan trọng",
+        "en": "important"
+      },
+      {
+        "zh": "主要",
+        "py": "zhǔyào",
+        "vi": "chủ yếu",
+        "en": "main"
+      },
+      {
+        "zh": "只要",
+        "py": "zhǐyào",
+        "vi": "chỉ cần",
+        "en": "as long as"
+      },
+      {
+        "zh": "要是",
+        "py": "yàoshi",
+        "vi": "nếu",
+        "en": "if"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "年轻人最【重要】的是要对自己有信心。",
+        "vi": "Điều quan trọng nhất đối với người trẻ là phải tự tin vào bản thân.",
+        "en": "The most important thing for young people is to believe in themselves."
+      },
+      {
+        "zh": "这本书【主要】介绍了中国的文化和历史。",
+        "vi": "Cuốn sách này chủ yếu giới thiệu văn hóa và lịch sử Trung Quốc.",
+        "en": "This book mainly introduces Chinese culture and history."
+      },
+      {
+        "zh": "【只要】你打开电视，总能看到那么多的广告，真是浪费时间。",
+        "vi": "Chỉ cần bạn mở tivi là luôn thấy bao nhiêu quảng cáo, thật lãng phí thời gian.",
+        "en": "Whenever you turn on the TV, there are always so many adverts. It's a real waste of time."
+      },
+      {
+        "zh": "那个电视节目特别有意思，你【要是】有时间也看看吧。",
+        "vi": "Chương trình truyền hình đó rất thú vị, nếu bạn có thời gian cũng xem thử đi.",
+        "en": "That TV programme is really interesting. If you have time, watch it too."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "重要",
+        "主要",
+        "只要",
+        "要是"
+      ],
+      "items": [
+        {
+          "q": "A：我正想找你呢，你说让他学什么专业好？\nB：这____还得看孩子自己的想法。",
+          "key": "主要",
+          "a": "A：我正想找你呢，你说让他学什么专业好？\nB：这【主要】还得看孩子自己的想法。",
+          "vi": "A: Tôi đang định tìm bạn đây, bạn nói nên để nó học chuyên ngành gì thì tốt?\nB: Việc này chủ yếu còn phải xem suy nghĩ của chính đứa trẻ.",
+          "en": "A: I was just looking for you. What do you think he should study?\nB: That mainly depends on what the child himself wants."
+        },
+        {
+          "q": "A：上次的事太谢谢你了，____别人，估计就办不成了。\nB：你太客气了，以后有什么需要帮忙的尽管告诉我。",
+          "key": "要是",
+          "a": "A：上次的事太谢谢你了，【要是】别人，估计就办不成了。\nB：你太客气了，以后有什么需要帮忙的尽管告诉我。",
+          "vi": "A: Chuyện lần trước cảm ơn bạn nhiều lắm, nếu là người khác chắc không làm được.\nB: Bạn khách sáo quá, sau này cần giúp gì cứ nói với tôi.",
+          "en": "A: Thanks so much for last time. If it had been anyone else, it probably wouldn't have worked out.\nB: Don't mention it. If you need help with anything, just let me know."
+        },
+        {
+          "q": "A：明天的面试很____，你最好早点儿出门。\nB：我知道，你别担心了，我一定会准时到的。",
+          "key": "重要",
+          "a": "A：明天的面试很【重要】，你最好早点儿出门。\nB：我知道，你别担心了，我一定会准时到的。",
+          "vi": "A: Buổi phỏng vấn ngày mai rất quan trọng, bạn tốt nhất nên ra khỏi nhà sớm.\nB: Tôi biết, bạn đừng lo, tôi nhất định đến đúng giờ.",
+          "en": "A: Tomorrow's interview is very important. You'd better leave early.\nB: I know, don't worry. I'll definitely be on time."
+        },
+        {
+          "q": "A：真让人羡慕！我本来也想学法律专业的，但是最后没考上。\nB：其实做什么工作都一样，____用心，都能做好。",
+          "key": "只要",
+          "a": "A：真让人羡慕！我本来也想学法律专业的，但是最后没考上。\nB：其实做什么工作都一样，【只要】用心，都能做好。",
+          "vi": "A: Thật đáng ngưỡng mộ! Tôi vốn cũng muốn học luật, nhưng cuối cùng thi không đỗ.\nB: Thật ra làm công việc gì cũng vậy, chỉ cần dụng tâm thì đều làm tốt được.",
+          "en": "A: I really envy you! I wanted to study law too, but I didn't get in.\nB: Actually, any job is the same: as long as you put your heart into it, you can do it well."
+        }
+      ]
+    }
+  }
+}

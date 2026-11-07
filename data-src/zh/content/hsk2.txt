@@ -1,0 +1,151 @@
+# 词|pinyin|hán việt|nghĩa VI|meaning EN|例句|câu dịch VI|sentence EN|tag
+吧|ba|ba|nhé, đi, chứ (trợ từ đề nghị/phỏng đoán)|particle for suggestion or supposition|你是新来的学生吧？|Bạn là học sinh mới đến phải không?|You're the new student, right?|吧
+白|bái|bạch|trắng, màu trắng|white|她穿着一件白衣服。|Cô ấy đang mặc một bộ quần áo trắng.|She is wearing white clothes.|着
+百|bǎi|bách|trăm|hundred|这个手机两千五百块。|Chiếc điện thoại này hai nghìn năm trăm đồng.|This phone costs 2,500 yuan.|陈述句
+帮助|bāngzhù|bang trợ|giúp đỡ; sự giúp đỡ|to help; help|谢谢你的帮助！|Cảm ơn sự giúp đỡ của bạn!|Thank you for your help!|感叹句
+报纸|bàozhǐ|báo chỉ|báo, tờ báo|newspaper|爸爸每天早上都看报纸。|Sáng nào bố cũng đọc báo.|Dad reads the newspaper every morning.|陈述句
+比|bǐ|tỷ|so với, hơn|than; to compare|哥哥比我高一点儿。|Anh trai cao hơn tôi một chút.|My older brother is a little taller than me.|比较句
+便宜|piányi|tiện nghi|rẻ|cheap|这件衣服比那件便宜多了。|Bộ quần áo này rẻ hơn bộ kia nhiều.|This outfit is much cheaper than that one.|比较句
+别|bié|biệt|đừng; khác|don't; other|别看手机了，快吃饭吧！|Đừng xem điện thoại nữa, mau ăn cơm đi!|Stop looking at your phone and eat!|祈使句
+宾馆|bīnguǎn|tân quán|khách sạn, nhà khách|hotel, guesthouse|我们住的宾馆离机场很近。|Khách sạn chúng tôi ở rất gần sân bay.|The hotel we're staying at is close to the airport.|定语
+唱歌|chàng gē|xướng ca|hát|to sing|她唱歌唱得非常好听。|Cô ấy hát rất hay.|She sings beautifully.|程度补语
+出|chū|xuất|ra, ra ngoài|to go out, to come out|他从房间里走出来了。|Anh ấy từ trong phòng đi ra.|He walked out of the room.|趋向补语
+穿|chuān|xuyên|mặc, mang|to wear, to put on|今天很冷，你多穿点儿衣服。|Hôm nay rất lạnh, bạn mặc thêm quần áo vào.|It's cold today; put on more clothes.|祈使句
+次|cì|thứ|lần|time (occurrence)|我去过两次北京。|Tôi đã đến Bắc Kinh hai lần.|I've been to Beijing twice.|时量动量
+从|cóng|tòng|từ|from|我从家走到学校要二十分钟。|Tôi đi bộ từ nhà đến trường mất hai mươi phút.|It takes me twenty minutes to walk from home to school.|介词短语
+错|cuò|thác|sai, nhầm|wrong, mistake|对不起，我写错了你的名字。|Xin lỗi, tôi viết sai tên bạn rồi.|Sorry, I wrote your name wrong.|结果补语
+打篮球|dǎ lánqiú|đả lam cầu|chơi bóng rổ|to play basketball|下午我们一起去打篮球吧。|Chiều nay chúng ta cùng đi chơi bóng rổ nhé.|Let's go play basketball together this afternoon.|吧
+大家|dàjiā|đại gia|mọi người|everyone|大家好，我叫王小明。|Chào mọi người, tôi tên là Vương Tiểu Minh.|Hello everyone, my name is Wang Xiaoming.|陈述句
+到|dào|đáo|đến, tới|to arrive, to reach|你什么时候到的北京？|Bạn đến Bắc Kinh lúc nào?|When did you arrive in Beijing?|是…的
+得|de|đắc|(trợ từ nối bổ ngữ trình độ)|structural particle for complements|他跑得很快。|Anh ấy chạy rất nhanh.|He runs very fast.|程度补语
+等|děng|đẳng|đợi, chờ|to wait|你在这儿等我一下，我马上回来。|Bạn đợi tôi ở đây một chút, tôi quay lại ngay.|Wait for me here; I'll be right back.|祈使句
+弟弟|dìdi|đệ đệ|em trai|younger brother|我弟弟比我小三岁。|Em trai tôi nhỏ hơn tôi ba tuổi.|My younger brother is three years younger than me.|比较句
+第一|dìyī|đệ nhất|thứ nhất, đầu tiên|first|这是我第一次来中国。|Đây là lần đầu tiên tôi đến Trung Quốc.|This is my first time in China.|是字句
+懂|dǒng|đổng|hiểu|to understand|老师说的话你听懂了吗？|Bạn nghe hiểu lời thầy giáo nói chưa?|Did you understand what the teacher said?|结果补语
+对|duì|đối|đúng|right, correct|你说得很对。|Bạn nói rất đúng.|You're absolutely right.|程度补语
+对|duì|đối|đối với, với, hướng về|to, towards, for|运动对身体很好。|Vận động rất tốt cho sức khỏe.|Exercise is good for your health.|介词短语
+房间|fángjiān|phòng gian|phòng, căn phòng|room|我的房间不大，但是很干净。|Phòng của tôi không lớn nhưng rất sạch.|My room isn't big, but it's very clean.|转折
+非常|fēicháng|phi thường|rất, vô cùng|very, extremely|今天的天气非常好。|Thời tiết hôm nay rất đẹp.|The weather is very nice today.|形容词谓语
+服务员|fúwùyuán|phục vụ viên|nhân viên phục vụ|waiter, attendant|服务员，请给我一杯咖啡。|Phục vụ ơi, cho tôi một cốc cà phê.|Waiter, a cup of coffee please.|双宾语
+高|gāo|cao|cao|tall, high|你弟弟长得真高啊！|Em trai bạn cao thật đấy!|Your younger brother is really tall!|感叹句
+告诉|gàosu|cáo tố|nói cho biết, bảo|to tell|请告诉我你的手机号。|Hãy cho tôi biết số điện thoại của bạn.|Please tell me your phone number.|双宾语
+哥哥|gēge|ca ca|anh trai|older brother|我哥哥在一家公司上班。|Anh trai tôi làm việc ở một công ty.|My older brother works at a company.|介词短语
+给|gěi|cấp|cho; đưa cho|to give; for|妈妈给了我一个新手表。|Mẹ đã cho tôi một chiếc đồng hồ mới.|Mom gave me a new watch.|双宾语
+公共汽车|gōnggòng qìchē|công cộng khí xa|xe buýt|bus|我每天坐公共汽车去上班。|Hằng ngày tôi đi xe buýt đi làm.|I take the bus to work every day.|连动句
+公司|gōngsī|công ty|công ty|company|你们公司有多少人？|Công ty các bạn có bao nhiêu người?|How many people work at your company?|特指问句
+贵|guì|quý|đắt|expensive|这儿的东西太贵了，我们去别的地方吧。|Đồ ở đây đắt quá, chúng ta đi chỗ khác đi.|Things here are too expensive; let's go somewhere else.|吧
+过|guo|quá|(trợ từ chỉ kinh nghiệm) đã từng|experiential particle|你吃过中国菜吗？|Bạn đã từng ăn món Trung Quốc chưa?|Have you ever eaten Chinese food?|过
+还|hái|hoàn|vẫn, còn; còn nữa|still, yet; also|已经十一点了，他还在工作。|Đã mười một giờ rồi, anh ấy vẫn đang làm việc.|It's already eleven, and he's still working.|进行态
+孩子|háizi|hài tử|đứa trẻ, con|child|孩子们在外面玩儿呢。|Bọn trẻ đang chơi ở bên ngoài.|The kids are playing outside.|进行态
+好吃|hǎochī|hảo cật|ngon|delicious|妈妈做的菜最好吃。|Món mẹ nấu là ngon nhất.|Mom's cooking is the best.|比较句
+黑|hēi|hắc|đen; tối|black; dark|天黑了，我们回家吧。|Trời tối rồi, chúng ta về nhà thôi.|It's getting dark; let's go home.|了
+红|hóng|hồng|đỏ|red|那个穿红衣服的女孩子是我妹妹。|Cô bé mặc áo đỏ kia là em gái tôi.|The girl in red is my younger sister.|定语
+火车站|huǒchēzhàn|hỏa xa trạm|ga tàu hỏa|train station|请问，火车站怎么走？|Xin hỏi, ga tàu hỏa đi thế nào?|Excuse me, how do I get to the train station?|特指问句
+机场|jīchǎng|cơ trường|sân bay|airport|我明天早上要去机场送朋友。|Sáng mai tôi phải ra sân bay tiễn bạn.|I have to see a friend off at the airport tomorrow morning.|连动句
+鸡蛋|jīdàn|kê đản|trứng gà|egg|早上我吃了两个鸡蛋。|Buổi sáng tôi đã ăn hai quả trứng.|I ate two eggs this morning.|了
+件|jiàn|kiện|chiếc, bộ, việc (lượng từ)|measure word for clothes, matters|这件事情你别告诉他。|Việc này bạn đừng nói với anh ấy.|Don't tell him about this.|祈使句
+觉得|juéde|giác đắc|cảm thấy, thấy rằng|to feel, to think|我觉得汉语不太难。|Tôi thấy tiếng Trung không khó lắm.|I don't think Chinese is very difficult.|陈述句
+教室|jiàoshì|giáo thất|phòng học, lớp học|classroom|教室里一个人也没有。|Trong lớp học không có một ai cả.|There's nobody in the classroom.|强调
+姐姐|jiějie|thư thư|chị gái|older sister|姐姐正在房间里准备考试。|Chị gái đang ở trong phòng ôn thi.|My older sister is in her room preparing for an exam.|进行态
+介绍|jièshào|giới thiệu|giới thiệu|to introduce|我来介绍一下，这是我的同学小李。|Để tôi giới thiệu một chút, đây là bạn học của tôi, Tiểu Lý.|Let me introduce: this is my classmate Xiao Li.|连动句
+进|jìn|tiến|vào|to enter|外面很冷，快进来吧！|Bên ngoài lạnh lắm, mau vào đi!|It's cold out there; come on in!|趋向补语
+近|jìn|cận|gần|near, close|我家离公司很近，走路十分钟就到了。|Nhà tôi rất gần công ty, đi bộ mười phút là tới.|My home is close to the office; it's a ten-minute walk.|介词短语
+就|jiù|tựu|thì, liền, ngay; chính là|then, right away; exactly|他七点就起床了。|Anh ấy bảy giờ đã dậy rồi.|He got up as early as seven.|强调
+咖啡|kāfēi|ca phê|cà phê|coffee|你喝咖啡还是喝茶？|Bạn uống cà phê hay uống trà?|Would you like coffee or tea?|选择问句
+开始|kāishǐ|khai thủy|bắt đầu|to begin, to start|电影已经开始了，快进去吧。|Phim đã bắt đầu rồi, mau vào đi.|The movie has started; go in quickly.|了
+考试|kǎoshì|khảo thí|thi, kỳ thi|exam; to take an exam|明天就要考试了，我得好好准备。|Mai là thi rồi, tôi phải chuẩn bị kỹ.|The exam is tomorrow; I need to prepare well.|将要
+可能|kěnéng|khả năng|có thể, có lẽ|maybe, possible|明天可能会下雪。|Ngày mai có thể sẽ có tuyết.|It might snow tomorrow.|能愿动词
+可以|kěyǐ|khả dĩ|có thể, được phép|can, may|我可以用一下你的铅笔吗？|Tôi có thể dùng bút chì của bạn một chút không?|May I use your pencil for a moment?|能愿动词
+课|kè|khóa|bài học, tiết học, môn học|class, lesson|今天上午我们有三节课。|Sáng nay chúng tôi có ba tiết học.|We have three classes this morning.|有字句
+快|kuài|khoái|nhanh; sắp|fast; soon|快走吧，火车快要开了！|Đi nhanh lên, tàu sắp chạy rồi!|Hurry, the train is about to leave!|将要
+快乐|kuàilè|khoái lạc|vui vẻ, hạnh phúc|happy|祝你生日快乐！|Chúc bạn sinh nhật vui vẻ!|Happy birthday!|感叹句
+累|lèi|lụy|mệt|tired|工作了一天，我累极了。|Làm việc cả ngày, tôi mệt rã rời.|After working all day, I'm exhausted.|程度补语
+离|lí|ly|cách (khoảng cách)|away from|学校离这儿远不远？|Trường học cách đây có xa không?|Is the school far from here?|正反问句
+两|liǎng|lưỡng|hai (dùng trước lượng từ)|two (before measure words)|我有两个哥哥。|Tôi có hai người anh trai.|I have two older brothers.|有字句
+零|líng|linh|số không; không giờ|zero|现在已经零点了，快去睡觉吧！|Bây giờ đã không giờ rồi, mau đi ngủ đi!|It's already midnight; go to bed!|形容词谓语
+路|lù|lộ|đường, con đường|road, way|路上车很多，你开慢点儿。|Trên đường nhiều xe, bạn lái chậm thôi.|There are lots of cars on the road; drive slowly.|祈使句
+旅游|lǚyóu|lữ du|du lịch|to travel; tourism|去年我们去中国旅游了。|Năm ngoái chúng tôi đi du lịch Trung Quốc.|Last year we traveled to China.|连动句
+卖|mài|mại|bán|to sell|这个商店卖水果吗？|Cửa hàng này có bán hoa quả không?|Does this shop sell fruit?|吗问句
+慢|màn|mạn|chậm|slow|请您说得慢一点儿。|Xin ông nói chậm một chút.|Please speak a little more slowly.|程度补语
+忙|máng|mang|bận|busy|你最近忙不忙？|Dạo này bạn có bận không?|Have you been busy lately?|正反问句
+每|měi|mỗi|mỗi|every, each|我每天晚上都跑步。|Tối nào tôi cũng chạy bộ.|I go running every evening.|陈述句
+妹妹|mèimei|muội muội|em gái|younger sister|妹妹笑着对我说：“生日快乐！”|Em gái cười nói với tôi: "Sinh nhật vui vẻ!"|My younger sister said with a smile, "Happy birthday!"|着
+门|mén|môn|cửa|door, gate|门开着，你进来吧。|Cửa đang mở, bạn vào đi.|The door is open; come in.|着
+面条|miàntiáo|diện điều|mì sợi|noodles|生日那天，中国人喜欢吃面条。|Vào ngày sinh nhật, người Trung Quốc thích ăn mì.|On birthdays, Chinese people like to eat noodles.|时间状语
+男|nán|nam|nam, đàn ông|male|我们班男学生比女学生多。|Lớp chúng tôi nam sinh nhiều hơn nữ sinh.|Our class has more male students than female students.|比较句
+您|nín|nâm|ông, bà, ngài (kính trọng)|you (polite)|您好！请问您贵姓？|Chào ông! Xin hỏi ông họ gì?|Hello! May I ask your surname?|特指问句
+牛奶|niúnǎi|ngưu nãi|sữa bò|milk|孩子每天早上都要喝一杯牛奶。|Sáng nào bọn trẻ cũng uống một cốc sữa.|The child drinks a glass of milk every morning.|能愿动词
+女|nǚ|nữ|nữ, con gái|female|那个女服务员对大家都很好。|Cô phục vụ đó đối xử với mọi người rất tốt.|That waitress is nice to everyone.|介词短语
+旁边|pángbiān|bàng biên|bên cạnh|beside, next to|医院旁边有一个小商店。|Bên cạnh bệnh viện có một cửa hàng nhỏ.|There's a small shop next to the hospital.|存现句
+跑步|pǎobù|bão bộ|chạy bộ|to run, to jog|我每天早上跑步半个小时。|Mỗi sáng tôi chạy bộ nửa tiếng.|I jog for half an hour every morning.|时量动量
+票|piào|phiếu|vé|ticket|我已经买好了明天的火车票。|Tôi đã mua xong vé tàu ngày mai rồi.|I've already bought tomorrow's train ticket.|结果补语
+妻子|qīzi|thê tử|vợ|wife|他妻子是一名医生。|Vợ anh ấy là bác sĩ.|His wife is a doctor.|是字句
+起床|qǐchuáng|khởi sàng|thức dậy, ngủ dậy|to get up|你每天早上几点起床？|Mỗi sáng bạn dậy lúc mấy giờ?|What time do you get up every morning?|特指问句
+千|qiān|thiên|nghìn|thousand|从这儿到北京有一千多公里。|Từ đây đến Bắc Kinh hơn một nghìn cây số.|It's over a thousand kilometers from here to Beijing.|介词短语
+铅笔|qiānbǐ|duyên bút|bút chì|pencil|考试的时候要用铅笔写。|Khi thi phải viết bằng bút chì.|You have to write with a pencil during the exam.|时间状语
+晴|qíng|tình|nắng, trời quang|sunny, clear|明天是晴天，我们去跑步吧。|Ngày mai trời nắng, chúng ta đi chạy bộ nhé.|Tomorrow will be sunny; let's go for a run.|吧
+去年|qùnián|khứ niên|năm ngoái|last year|我是去年九月来北京的。|Tôi đến Bắc Kinh vào tháng chín năm ngoái.|I came to Beijing last September.|是…的
+让|ràng|nhượng|để, bảo, cho phép|to let, to make (sb do sth)|妈妈不让我晚上出去玩。|Mẹ không cho tôi buổi tối ra ngoài chơi.|Mom doesn't let me go out at night.|兼语句
+日|rì|nhật|ngày; mặt trời|day; sun|十月一日是我的生日。|Ngày một tháng mười là sinh nhật của tôi.|October 1st is my birthday.|是字句
+上班|shàngbān|thượng ban|đi làm|to go to work|爸爸八点上班，五点下班。|Bố đi làm lúc tám giờ, tan làm lúc năm giờ.|Dad starts work at eight and finishes at five.|陈述句
+身体|shēntǐ|thân thể|cơ thể, sức khỏe|body; health|爸爸的身体越来越好了。|Sức khỏe của bố ngày càng tốt hơn.|Dad's health is getting better and better.|越…越
+生病|shēngbìng|sinh bệnh|bị ốm, sinh bệnh|to get sick|她生病了，今天没来上课。|Cô ấy bị ốm, hôm nay không đến lớp.|She's sick and didn't come to class today.|了
+生日|shēngrì|sinh nhật|sinh nhật|birthday|你的生日是几月几号？|Sinh nhật bạn là ngày mấy tháng mấy?|When is your birthday?|特指问句
+时间|shíjiān|thời gian|thời gian|time|你明天有时间吗？我们一起去看电影吧。|Ngày mai bạn có thời gian không? Chúng ta cùng đi xem phim nhé.|Are you free tomorrow? Let's go see a movie.|吗问句
+事情|shìqing|sự tình|việc, sự việc|matter, thing|我有一件事情想问你。|Tôi có một việc muốn hỏi bạn.|There's something I want to ask you.|有字句
+手表|shǒubiǎo|thủ biểu|đồng hồ đeo tay|wristwatch|这块手表是丈夫送给我的。|Chiếc đồng hồ này là chồng tặng tôi.|My husband gave me this watch.|是…的
+手机|shǒujī|thủ cơ|điện thoại di động|mobile phone|我的手机找不到了。|Tôi không tìm thấy điện thoại của mình nữa.|I can't find my phone.|可能补语
+说话|shuōhuà|thuyết thoại|nói chuyện|to talk, to speak|上课的时候别说话。|Trong giờ học đừng nói chuyện.|Don't talk during class.|时间状语
+送|sòng|tống|tặng; tiễn; đưa|to give (as a gift); to see off; to deliver|我送你一本书吧。|Tôi tặng bạn một quyển sách nhé.|Let me give you a book.|双宾语
+虽然……但是……|suīrán……dànshì……|tuy nhiên đãn thị|tuy… nhưng…|although… (but)…|虽然外面下雪了，但是房间里很暖和。|Tuy bên ngoài tuyết rơi nhưng trong phòng rất ấm.|Although it's snowing outside, it's warm inside.|转折
+它|tā|tha|nó (chỉ vật, con vật)|it|我家有一只小猫，它很可爱。|Nhà tôi có một con mèo nhỏ, nó rất đáng yêu.|We have a kitten; it's very cute.|形容词谓语
+踢足球|tī zúqiú|thích túc cầu|đá bóng|to play football (soccer)|虽然下雨了，但是他们还在踢足球。|Tuy trời mưa nhưng họ vẫn đang đá bóng.|Although it's raining, they're still playing football.|转折
+题|tí|đề|đề, câu hỏi (bài tập)|question, problem (exercise)|这道题太难了，我不会做。|Câu này khó quá, tôi không biết làm.|This question is too hard; I can't do it.|能愿动词
+跳舞|tiàowǔ|khiêu vũ|nhảy, khiêu vũ|to dance|她一边唱歌一边跳舞。|Cô ấy vừa hát vừa nhảy.|She sings while dancing.|并列
+外|wài|ngoại|ngoài, bên ngoài|outside|门外有人找你。|Ngoài cửa có người tìm bạn.|Someone at the door is looking for you.|存现句
+完|wán|hoàn|xong, hết|to finish|作业我已经写完了。|Bài tập tôi đã làm xong rồi.|I've already finished my homework.|结果补语
+玩|wán|ngoạn|chơi|to play, to have fun|晚上我们去朋友家玩儿吧。|Tối nay chúng ta đến nhà bạn chơi nhé.|Let's go hang out at a friend's place tonight.|连动句
+晚上|wǎnshang|vãn thượng|buổi tối|evening|晚上你想吃什么？|Buổi tối bạn muốn ăn gì?|What do you want for dinner?|特指问句
+往|wǎng|vãng|về phía, hướng|towards|一直往前走，就能看到火车站。|Cứ đi thẳng về phía trước là thấy ga tàu.|Go straight ahead and you'll see the train station.|假设
+为什么|wèi shénme|vị thập ma|tại sao|why|你为什么不高兴？|Tại sao bạn không vui?|Why are you unhappy?|特指问句
+问|wèn|vấn|hỏi|to ask|我想问老师一个问题。|Tôi muốn hỏi thầy giáo một câu hỏi.|I'd like to ask the teacher a question.|双宾语
+问题|wèntí|vấn đề|câu hỏi; vấn đề|question; problem|有问题的话，可以给我打电话。|Nếu có vấn đề gì thì có thể gọi điện cho tôi.|If you have any questions, you can call me.|假设
+西瓜|xīguā|tây qua|dưa hấu|watermelon|天气热的时候，我喜欢吃西瓜。|Lúc trời nóng, tôi thích ăn dưa hấu.|I like eating watermelon when it's hot.|时间状语
+希望|xīwàng|hy vọng|hy vọng, mong|to hope; hope|希望你明年再来中国玩儿。|Mong bạn sang năm lại đến Trung Quốc chơi.|I hope you'll come visit China again next year.|陈述句
+洗|xǐ|tẩy|rửa, giặt|to wash|吃饭以前要先洗手。|Trước khi ăn cơm phải rửa tay trước.|Wash your hands before eating.|时间状语
+小时|xiǎoshí|tiểu thời|giờ, tiếng đồng hồ|hour|我昨天晚上只睡了五个小时。|Tối qua tôi chỉ ngủ được năm tiếng.|I only slept five hours last night.|时量动量
+笑|xiào|tiếu|cười|to laugh, to smile|听了我的话，大家都笑了。|Nghe tôi nói xong, mọi người đều cười.|Everyone laughed after hearing what I said.|了
+新|xīn|tân|mới|new|这是我新买的手机。|Đây là điện thoại tôi mới mua.|This is the phone I just bought.|定语
+姓|xìng|tính|họ; mang họ|surname; to be surnamed|我姓王，你呢？|Tôi họ Vương, còn bạn?|My surname is Wang. And yours?|呢
+休息|xiūxi|hưu tức|nghỉ ngơi|to rest|你累了吧？休息一下吧。|Bạn mệt rồi phải không? Nghỉ một chút đi.|You must be tired. Take a rest.|吧
+雪|xuě|tuyết|tuyết|snow|北京的冬天常常下雪吗？|Mùa đông ở Bắc Kinh có hay có tuyết không?|Does it often snow in Beijing in winter?|吗问句
+颜色|yánsè|nhan sắc|màu sắc|color|你最喜欢什么颜色？|Bạn thích màu gì nhất?|What's your favorite color?|特指问句
+眼睛|yǎnjing|nhãn tình|mắt|eye|她的眼睛又大又漂亮。|Đôi mắt cô ấy vừa to vừa đẹp.|Her eyes are big and beautiful.|并列
+羊肉|yángròu|dương nhục|thịt cừu, thịt dê|mutton, lamb|北京人冬天很喜欢吃羊肉。|Người Bắc Kinh mùa đông rất thích ăn thịt cừu.|People in Beijing love eating lamb in winter.|陈述句
+药|yào|dược|thuốc|medicine|你生病了，要按时吃药。|Bạn bị ốm rồi, phải uống thuốc đúng giờ.|You're sick; take your medicine on time.|能愿动词
+要|yào|yếu|muốn; cần; phải; sắp|to want; to need; will|我要一杯咖啡，你呢？|Tôi muốn một cốc cà phê, còn bạn?|I'd like a coffee. And you?|呢
+也|yě|dã|cũng|also, too|我喜欢游泳，我妹妹也喜欢。|Tôi thích bơi, em gái tôi cũng thích.|I like swimming, and so does my sister.|陈述句
+一起|yīqǐ|nhất khởi|cùng nhau|together|明年我们一起去中国旅游吧！|Sang năm chúng ta cùng đi du lịch Trung Quốc nhé!|Let's travel to China together next year!|吧
+一下|yīxià|nhất hạ|một chút, một lát|a bit, briefly|你看一下这个题对不对。|Bạn xem thử câu này đúng không.|Take a look at whether this answer is right.|正反问句
+已经|yǐjīng|dĩ kinh|đã, rồi|already|我已经吃过饭了。|Tôi đã ăn cơm rồi.|I've already eaten.|了
+意思|yìsi|ý tư|ý nghĩa, ý|meaning|这个字是什么意思？|Chữ này có nghĩa là gì?|What does this character mean?|特指问句
+因为……所以……|yīnwèi……suǒyǐ……|nhân vị sở dĩ|vì… nên…|because… so…|因为下雨了，所以我们没去踢足球。|Vì trời mưa nên chúng tôi không đi đá bóng.|Because it rained, we didn't go play football.|因果
+阴|yīn|âm|âm u, nhiều mây|overcast, cloudy|今天是阴天，可能要下雨。|Hôm nay trời âm u, có thể sắp mưa.|It's cloudy today; it might rain.|能愿动词
+游泳|yóuyǒng|du vịnh|bơi|to swim|你会不会游泳？|Bạn có biết bơi không?|Can you swim?|正反问句
+右边|yòubian|hữu biên|bên phải|right side|右边那个人是我哥哥。|Người bên phải kia là anh trai tôi.|The person on the right is my older brother.|是字句
+鱼|yú|ngư|cá|fish|妈妈做的鱼特别好吃。|Món cá mẹ nấu cực kỳ ngon.|The fish Mom cooks is especially delicious.|定语
+远|yuǎn|viễn|xa|far|机场离这儿很远，我们坐出租车去吧。|Sân bay cách đây rất xa, chúng ta đi taxi nhé.|The airport is far from here; let's take a taxi.|介词短语
+运动|yùndòng|vận động|vận động, thể thao|to exercise; sports|你喜欢什么运动？|Bạn thích môn thể thao nào?|What sports do you like?|特指问句
+再|zài|tái|lại, nữa (sẽ làm lại)|again|请你再说一次。|Xin bạn nói lại một lần nữa.|Please say it again.|祈使句
+早上|zǎoshang|tảo thượng|buổi sáng sớm|early morning|早上起床以后，我先喝一杯水。|Sáng ngủ dậy, tôi uống một cốc nước trước.|After getting up in the morning, I drink a glass of water first.|承接
+长|cháng|trường|dài|long|她的头发很长。|Tóc cô ấy rất dài.|Her hair is very long.|形容词谓语
+丈夫|zhàngfu|trượng phu|chồng|husband|她丈夫做饭做得很好。|Chồng cô ấy nấu ăn rất giỏi.|Her husband cooks very well.|程度补语
+找|zhǎo|trảo|tìm; trả lại (tiền thừa)|to look for; to give change|你在找什么呢？|Bạn đang tìm gì vậy?|What are you looking for?|进行态
+着|zhe|trứ|(trợ từ chỉ trạng thái đang tiếp diễn)|particle for continuous state|他笑着说：“没关系。”|Anh ấy cười nói: "Không sao."|He said with a smile, "It's okay."|着
+真|zhēn|chân|thật, thật là|really, truly|你的汉语说得真好！|Bạn nói tiếng Trung giỏi thật!|Your Chinese is really good!|感叹句
+正在|zhèngzài|chính tại|đang|in the process of|他正在打电话，你等一下。|Anh ấy đang gọi điện, bạn đợi một chút.|He's on the phone; wait a moment.|进行态
+知道|zhīdào|tri đạo|biết|to know|你知道他住在哪儿吗？|Bạn có biết anh ấy sống ở đâu không?|Do you know where he lives?|吗问句
+准备|zhǔnbèi|chuẩn bị|chuẩn bị; định|to prepare; to plan to|你准备什么时候去中国？|Bạn định khi nào đi Trung Quốc?|When are you planning to go to China?|特指问句
+走|zǒu|tẩu|đi, đi bộ; rời đi|to walk; to leave|时间不早了，我该走了。|Muộn rồi, tôi phải đi thôi.|It's getting late; I should go.|能愿动词
+最|zuì|tối|nhất|most|我们班他跑得最快。|Trong lớp chúng tôi, cậu ấy chạy nhanh nhất.|He runs the fastest in our class.|程度补语
+左边|zuǒbian|tả biên|bên trái|left side|我家在学校的左边。|Nhà tôi ở bên trái trường học.|My home is to the left of the school.|陈述句

@@ -1,0 +1,1003 @@
+{
+  "n": 32,
+  "zh": "身边的环保",
+  "vi": "Bảo vệ môi trường quanh ta",
+  "en": "Environmental protection around us",
+  "texts": [
+    {
+      "title": "身边的环保",
+      "paras": [
+        {
+          "zh": "如果你觉得地球上的一点儿小污染没什么关系，那你可就大错特错了！环境污染会危害动物、植物以及人类自身。",
+          "vi": "Nếu bạn cho rằng chút ô nhiễm nhỏ trên Trái Đất chẳng có gì to tát, thì bạn sai hoàn toàn rồi! Ô nhiễm môi trường sẽ gây hại cho động vật, thực vật cũng như chính bản thân loài người.",
+          "en": "If you think a little pollution on Earth doesn't matter, you're completely wrong! Environmental pollution harms animals, plants and humanity itself."
+        },
+        {
+          "zh": "有些生活在过去的动物，你今天再也看不到了，植物也面临着{zhe}同样的危险。动植物的消失，部分原因是由于自然界的变化，比如洪水、地震等改变了它们生活的环境，但更大的原因则是人类对自然的破坏——有些地区的森林已经几乎被人砍光了，很多河流被污染，不再适合鱼类生存，有的地区原本是草原，如今已变为{wéi}沙漠……从国际环保组织公布的数据可知，地球上一半以上的动植物正在消失，这是真实的情况，一点儿也不夸张。",
+          "vi": "Có những loài động vật từng sống trong quá khứ mà ngày nay bạn không bao giờ còn thấy được nữa, thực vật cũng đang đứng trước nguy cơ tương tự. Sự biến mất của động thực vật một phần là do những thay đổi của giới tự nhiên, ví dụ như lũ lụt, động đất… đã làm thay đổi môi trường sống của chúng, nhưng nguyên nhân lớn hơn lại là sự tàn phá của con người đối với thiên nhiên — rừng ở một số khu vực gần như đã bị chặt sạch, nhiều sông ngòi bị ô nhiễm, không còn thích hợp cho các loài cá sinh sống, có những vùng vốn là thảo nguyên nay đã biến thành sa mạc… Từ số liệu mà các tổ chức bảo vệ môi trường quốc tế công bố có thể biết, hơn một nửa số động thực vật trên Trái Đất đang biến mất, đây là tình hình có thật, không hề phóng đại chút nào.",
+          "en": "Some animals that lived in the past can no longer be seen today, and plants face the same danger. The disappearance of animals and plants is partly due to changes in nature — floods and earthquakes, for instance, have changed their habitats — but the bigger cause is human destruction of nature: in some regions the forests have been almost entirely cut down, many rivers are polluted and no longer fit for fish, and some places that were once grassland have turned into desert… According to data published by international environmental organisations, more than half of the Earth's animal and plant species are disappearing. This is the real situation, not the slightest exaggeration."
+        },
+        {
+          "zh": "人类自身也饱受污染的危害。有些地区地表水已污染，地下水又被过量使用，水资源短缺问题就连科学家们也不知道该如何解决，目前世界上有17%的人无法享用干净的饮用水，而每年死于与空气污染有关的疾病的人比死于车祸的还要多。这些数据确实令人不安。",
+          "vi": "Bản thân loài người cũng chịu đủ tác hại của ô nhiễm. Ở một số khu vực nước mặt đã bị ô nhiễm, nước ngầm lại bị sử dụng quá mức, vấn đề thiếu hụt tài nguyên nước ngay cả các nhà khoa học cũng không biết nên giải quyết thế nào, hiện nay trên thế giới có 17% người không được dùng nước uống sạch, và số người chết mỗi năm vì các bệnh liên quan đến ô nhiễm không khí còn nhiều hơn số người chết vì tai nạn giao thông. Những số liệu này thật sự khiến người ta lo lắng.",
+          "en": "Humans themselves suffer greatly from pollution. In some regions surface water is already polluted and groundwater is being overused; even scientists don't know how to solve the water shortage. At present, 17% of the world's people have no access to clean drinking water, and every year more people die of diseases linked to air pollution than in traffic accidents. These figures are truly disturbing."
+        },
+        {
+          "zh": "一部分环境污染是由工业农业生产活动造成的，例如，大型工厂生产过程中，有的会产生大量废水；有的要大量燃烧煤炭，从而产生大量废气和废物。还有一部分污染和我们的日常生活密切相关，汽车尾气就是其中之一。此外，垃圾也会对环境造成严重的损害。",
+          "vi": "Một phần ô nhiễm môi trường là do hoạt động sản xuất công nghiệp và nông nghiệp gây ra, ví dụ trong quá trình sản xuất của các nhà máy lớn, có nơi thải ra lượng lớn nước thải; có nơi phải đốt lượng lớn than đá, từ đó sinh ra nhiều khí thải và chất thải. Còn một phần ô nhiễm liên quan mật thiết đến cuộc sống hằng ngày của chúng ta, khí thải ô tô là một trong số đó. Ngoài ra, rác thải cũng gây ra tổn hại nghiêm trọng cho môi trường.",
+          "en": "Some environmental pollution is caused by industrial and agricultural production. Large factories, for example, may produce huge amounts of waste water, or burn large amounts of coal and so produce great quantities of waste gas and waste material. Another part of the pollution is closely linked to our daily lives — car exhaust is one example. Rubbish also does serious damage to the environment."
+        },
+        {
+          "zh": "幸运的是，越来越多的人敏感地{de}认识到了环境问题的严重，并自觉地{de}投入到了保护地球的行动中。生产中，增加环保设施，减少污染物排放，调整能源消费结构，逐步向可再生能源转变；而在日常生活中，改变生活习惯，尽量减少生活垃圾，做到垃圾分类。同时，尽量多骑自行车，多选择公共交通，少使用私家车。这些为{wèi}此付出努力的人们令人尊敬，取得的成绩也令人鼓舞。",
+          "vi": "May mắn là ngày càng nhiều người nhạy bén nhận ra sự nghiêm trọng của vấn đề môi trường, và tự giác tham gia vào hành động bảo vệ Trái Đất. Trong sản xuất, tăng thêm thiết bị bảo vệ môi trường, giảm phát thải chất ô nhiễm, điều chỉnh cơ cấu tiêu dùng năng lượng, từng bước chuyển sang năng lượng tái tạo; còn trong cuộc sống hằng ngày, thay đổi thói quen sinh hoạt, cố gắng giảm rác thải sinh hoạt, phân loại rác. Đồng thời, cố gắng đi xe đạp nhiều hơn, chọn phương tiện giao thông công cộng nhiều hơn, ít dùng xe riêng. Những người đã nỗ lực vì điều này thật đáng kính trọng, những thành quả đạt được cũng khiến người ta phấn khởi.",
+          "en": "Fortunately, more and more people have become keenly aware of how serious environmental problems are and have voluntarily joined the effort to protect the planet. In production, they're adding environmental facilities, cutting emissions of pollutants, adjusting the structure of energy consumption and gradually switching to renewable energy. In daily life, they're changing their habits, reducing household waste as much as possible and sorting their rubbish. They also cycle as much as they can, choose public transport and use private cars less. The people making these efforts deserve our respect, and what they've achieved is encouraging."
+        },
+        {
+          "zh": "地球是人类共同的家园，我们应该把它看作一个属于自己的大房间。房间脏了，消极的逃避和不符合实际的幻想都不能解决问题，为保持它的卫生每一个人都应{yīng}付{fù}出行动，做出贡献。人类的命运由我们自己掌握，改变要靠我们自己。",
+          "vi": "Trái Đất là ngôi nhà chung của loài người, chúng ta nên coi nó như một căn phòng lớn thuộc về mình. Phòng bẩn rồi, trốn tránh một cách tiêu cực hay ảo tưởng không thực tế đều không giải quyết được vấn đề, để giữ cho nó sạch sẽ, mỗi người đều nên hành động, đóng góp công sức. Vận mệnh của loài người do chính chúng ta nắm giữ, thay đổi phải dựa vào chính chúng ta.",
+          "en": "The Earth is humanity's shared home; we should see it as a big room that belongs to us. When the room is dirty, passive avoidance and unrealistic fantasies won't solve the problem; to keep it clean, everyone should take action and make a contribution. Humanity's fate is in our own hands, and change depends on us."
+        }
+      ],
+      "words": [
+        {
+          "zh": "消失",
+          "py": "xiāoshī",
+          "pos": "đgt.",
+          "vi": "biến mất",
+          "en": "to disappear"
+        },
+        {
+          "zh": "洪水",
+          "py": "hóngshuǐ",
+          "pos": "dt.",
+          "vi": "nước lũ",
+          "en": "flood",
+          "x": true
+        },
+        {
+          "zh": "地震",
+          "py": "dìzhèn",
+          "pos": "đgt.",
+          "vi": "động đất",
+          "en": "earthquake"
+        },
+        {
+          "zh": "破坏",
+          "py": "pòhuài",
+          "pos": "đgt.",
+          "vi": "phá hủy, tàn phá",
+          "en": "to destroy, to damage"
+        },
+        {
+          "zh": "砍",
+          "py": "kǎn",
+          "pos": "đgt.",
+          "vi": "chặt, chẻ, bổ",
+          "en": "to chop, to cut down"
+        },
+        {
+          "zh": "生存",
+          "py": "shēngcún",
+          "pos": "đgt.",
+          "vi": "sinh sống, sống",
+          "en": "to survive, to live",
+          "x": true
+        },
+        {
+          "zh": "沙漠",
+          "py": "shāmò",
+          "pos": "dt.",
+          "vi": "sa mạc",
+          "en": "desert"
+        },
+        {
+          "zh": "公布",
+          "py": "gōngbù",
+          "pos": "đgt.",
+          "vi": "công bố",
+          "en": "to announce, to publish"
+        },
+        {
+          "zh": "数据",
+          "py": "shùjù",
+          "pos": "dt.",
+          "vi": "số liệu",
+          "en": "data"
+        },
+        {
+          "zh": "真实",
+          "py": "zhēnshí",
+          "pos": "tt.",
+          "vi": "thực tế, có thực",
+          "en": "true, real"
+        },
+        {
+          "zh": "夸张",
+          "py": "kuāzhāng",
+          "pos": "tt.",
+          "vi": "phóng đại, cường điệu",
+          "en": "exaggerated"
+        },
+        {
+          "zh": "资源",
+          "py": "zīyuán",
+          "pos": "dt.",
+          "vi": "tài nguyên",
+          "en": "resource"
+        },
+        {
+          "zh": "车祸",
+          "py": "chēhuò",
+          "pos": "dt.",
+          "vi": "tai nạn giao thông",
+          "en": "traffic accident",
+          "x": true
+        },
+        {
+          "zh": "不安",
+          "py": "bù'ān",
+          "pos": "tt.",
+          "vi": "lo lắng, không an lòng",
+          "en": "uneasy, disturbed"
+        },
+        {
+          "zh": "工业",
+          "py": "gōngyè",
+          "pos": "dt.",
+          "vi": "công nghiệp",
+          "en": "industry"
+        },
+        {
+          "zh": "农业",
+          "py": "nóngyè",
+          "pos": "dt.",
+          "vi": "nông nghiệp",
+          "en": "agriculture"
+        },
+        {
+          "zh": "生产",
+          "py": "shēngchǎn",
+          "pos": "đgt.",
+          "vi": "sản xuất",
+          "en": "to produce"
+        },
+        {
+          "zh": "大型",
+          "py": "dàxíng",
+          "pos": "tt.",
+          "vi": "quy mô lớn, khổng lồ",
+          "en": "large-scale"
+        },
+        {
+          "zh": "工厂",
+          "py": "gōngchǎng",
+          "pos": "dt.",
+          "vi": "công xưởng, nhà máy",
+          "en": "factory"
+        },
+        {
+          "zh": "废",
+          "py": "fèi",
+          "pos": "tt.",
+          "vi": "thải, bỏ",
+          "en": "waste"
+        },
+        {
+          "zh": "燃烧",
+          "py": "ránshāo",
+          "pos": "đgt.",
+          "vi": "bốc cháy, đốt cháy",
+          "en": "to burn"
+        },
+        {
+          "zh": "煤炭",
+          "py": "méitàn",
+          "pos": "dt.",
+          "vi": "than đá",
+          "en": "coal"
+        },
+        {
+          "zh": "密切",
+          "py": "mìqiè",
+          "pos": "tt.",
+          "vi": "mật thiết, thân mật",
+          "en": "close, intimate"
+        },
+        {
+          "zh": "尾气",
+          "py": "wěiqì",
+          "pos": "dt.",
+          "vi": "khí thải",
+          "en": "exhaust (fumes)",
+          "x": true
+        },
+        {
+          "zh": "幸运",
+          "py": "xìngyùn",
+          "pos": "tt.",
+          "vi": "may mắn",
+          "en": "fortunate, lucky"
+        },
+        {
+          "zh": "敏感",
+          "py": "mǐngǎn",
+          "pos": "tt.",
+          "vi": "nhạy cảm",
+          "en": "sensitive"
+        },
+        {
+          "zh": "自觉",
+          "py": "zìjué",
+          "pos": "tt.",
+          "vi": "tự giác, có ý thức",
+          "en": "conscious, voluntary"
+        },
+        {
+          "zh": "设施",
+          "py": "shèshī",
+          "pos": "dt.",
+          "vi": "thiết bị, phương tiện",
+          "en": "facilities"
+        },
+        {
+          "zh": "能源",
+          "py": "néngyuán",
+          "pos": "dt.",
+          "vi": "nguồn năng lượng",
+          "en": "energy"
+        },
+        {
+          "zh": "逐步",
+          "py": "zhúbù",
+          "pos": "phó.",
+          "vi": "từng bước, dần dần",
+          "en": "step by step, gradually"
+        },
+        {
+          "zh": "尽量",
+          "py": "jǐnliàng",
+          "pos": "phó.",
+          "vi": "cố gắng hết sức",
+          "en": "as much as possible"
+        },
+        {
+          "zh": "私（人）",
+          "py": "sī (rén)",
+          "pos": "dt.",
+          "vi": "riêng, cá nhân",
+          "en": "private, personal"
+        },
+        {
+          "zh": "尊敬",
+          "py": "zūnjìng",
+          "pos": "đgt.",
+          "vi": "kính trọng",
+          "en": "to respect"
+        },
+        {
+          "zh": "鼓舞",
+          "py": "gǔwǔ",
+          "pos": "đgt.",
+          "vi": "cổ vũ, khích lệ",
+          "en": "to inspire, to encourage"
+        },
+        {
+          "zh": "消极",
+          "py": "xiāojí",
+          "pos": "tt.",
+          "vi": "tiêu cực",
+          "en": "negative, passive"
+        },
+        {
+          "zh": "幻想",
+          "py": "huànxiǎng",
+          "pos": "dt.",
+          "vi": "ảo tưởng, hoang tưởng",
+          "en": "fantasy, illusion"
+        },
+        {
+          "zh": "贡献",
+          "py": "gòngxiàn",
+          "pos": "dt./đgt.",
+          "vi": "sự đóng góp; cống hiến",
+          "en": "contribution; to contribute"
+        },
+        {
+          "zh": "命运",
+          "py": "mìngyùn",
+          "pos": "dt.",
+          "vi": "số phận, vận mệnh",
+          "en": "fate, destiny"
+        },
+        {
+          "zh": "掌握",
+          "py": "zhǎngwò",
+          "pos": "đgt.",
+          "vi": "nắm chắc, nắm vững, hiểu rõ",
+          "en": "to master, to control"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "密切",
+      "uses": [
+        {
+          "vi": "密切 là tính từ, có thể biểu thị quan hệ gần gũi (mật thiết, thân thiết).",
+          "en": "密切 is an adjective that can describe a close relationship (close, intimate).",
+          "ex": [
+            {
+              "zh": "还有一部分污染和我们的日常生活【密切】相关。",
+              "vi": "Còn một phần ô nhiễm liên quan mật thiết đến cuộc sống hằng ngày của chúng ta.",
+              "en": "Another part of the pollution is closely linked to our daily lives."
+            },
+            {
+              "zh": "参加了这次环保活动后，两人便有了共同语言，来往也比先前【密切】了。",
+              "vi": "Sau khi tham gia hoạt động bảo vệ môi trường lần này, hai người có tiếng nói chung, qua lại cũng thân thiết hơn trước.",
+              "en": "After taking part in this environmental event, the two found common ground and became closer than before."
+            }
+          ]
+        },
+        {
+          "vi": "密切 còn có thể biểu thị (đối với vấn đề…) coi trọng, cẩn thận, chu đáo (chặt chẽ, sát sao).",
+          "en": "密切 can also mean paying close, careful attention (to a matter) (closely, carefully).",
+          "ex": [
+            {
+              "zh": "刘医生【密切】地{de}观察着{zhe}李妈妈病情的发展。",
+              "vi": "Bác sĩ Lưu theo dõi sát sao diễn biến bệnh tình của bác Lý.",
+              "en": "Dr Liu is keeping a close eye on how Mrs Li's illness develops."
+            },
+            {
+              "zh": "家长应和老师【密切】配合，形成合力，保持教育的一致性。",
+              "vi": "Phụ huynh nên phối hợp chặt chẽ với giáo viên, tạo thành sức mạnh tổng hợp, giữ tính nhất quán trong giáo dục.",
+              "en": "Parents should work closely with teachers so that they pull together and keep education consistent."
+            }
+          ]
+        },
+        {
+          "vi": "密切 còn có thể là động từ, có nghĩa là “làm cho quan hệ gần gũi hơn” (thắt chặt).",
+          "en": "密切 can also be a verb meaning “to make a relationship closer” (to strengthen, to tighten).",
+          "ex": [
+            {
+              "zh": "这条铁路的建成，大大【密切】了西南地区与首都的联系。",
+              "vi": "Việc hoàn thành tuyến đường sắt này đã thắt chặt đáng kể mối liên hệ giữa vùng Tây Nam với thủ đô.",
+              "en": "The completion of this railway has greatly strengthened the links between the southwest and the capital."
+            },
+            {
+              "zh": "友好城市之间的交往【密切】了两国人民之间的友谊。",
+              "vi": "Sự giao lưu giữa các thành phố kết nghĩa đã thắt chặt tình hữu nghị giữa nhân dân hai nước.",
+              "en": "Exchanges between twin cities have strengthened the friendship between the two peoples."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "这种病传染性很强，____。",
+            "hint": "密切",
+            "a": "这种病传染性很强，【和病人有过密切接触的人都要去检查】。",
+            "vi": "Bệnh này có tính lây nhiễm rất mạnh, những người từng tiếp xúc gần với bệnh nhân đều phải đi kiểm tra.",
+            "en": "This disease is highly contagious; everyone who's been in close contact with the patient must be tested.",
+            "sample": true
+          },
+          {
+            "q": "经济全球化____。",
+            "hint": "密切",
+            "a": "经济全球化【使各国之间的联系越来越密切】。",
+            "vi": "Toàn cầu hóa kinh tế khiến mối liên hệ giữa các nước ngày càng mật thiết.",
+            "en": "Economic globalisation is making the links between countries closer and closer.",
+            "sample": true
+          },
+          {
+            "q": "A：这两年，李雪飞来咱们家的次数好像少多了？\nB：____。",
+            "hint": "密切",
+            "a": "A：这两年，李雪飞来咱们家的次数好像少多了？\nB：【是啊，她结婚以后，我们的来往就没以前那么密切了】。",
+            "vi": "A: Hai năm nay, số lần Lý Tuyết Phi đến nhà mình hình như ít đi nhiều nhỉ?\nB: Đúng thế, từ khi cô ấy lấy chồng, chúng tôi qua lại không còn thân thiết như trước nữa.",
+            "en": "A: Li Xuefei seems to have come round much less these last couple of years.\nB: Yes, since she got married we haven't been as close as we used to be.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "尽量",
+      "py": "jǐnliàng",
+      "uses": [
+        {
+          "vi": "尽量 là phó từ, biểu thị cố gắng đạt tới mức độ lớn nhất trong một phạm vi nhất định (cố gắng hết sức, càng … càng tốt).",
+          "en": "尽量 is an adverb meaning to do as much as one can within certain limits (as far as possible).",
+          "ex": [
+            {
+              "zh": "同时，【尽{jǐn}量】多骑自行车，多选择公共交通，少使用私家车。",
+              "vi": "Đồng thời, cố gắng đi xe đạp nhiều hơn, chọn phương tiện giao thông công cộng nhiều hơn, ít dùng xe riêng.",
+              "en": "They also cycle as much as they can, choose public transport and use private cars less."
+            },
+            {
+              "zh": "老年人要【尽{jǐn}量】少吃油炸食品。",
+              "vi": "Người già nên cố gắng ăn ít đồ chiên rán.",
+              "en": "Elderly people should eat as little fried food as possible."
+            },
+            {
+              "zh": "为了节约能源，请大家都【尽{jǐn}量】使用节能电器。",
+              "vi": "Để tiết kiệm năng lượng, mời mọi người cố gắng sử dụng thiết bị điện tiết kiệm năng lượng.",
+              "en": "To save energy, everyone please use energy-saving appliances wherever possible."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "为了培养孩子的自理能力，____。",
+            "hint": "尽{jǐn}量",
+            "a": "为了培养孩子的自理能力，【家长应该尽{jǐn}量让孩子自己的事情自己做】。",
+            "vi": "Để rèn luyện khả năng tự lập của trẻ, phụ huynh nên cố gắng để trẻ tự làm việc của mình.",
+            "en": "To build children's independence, parents should let them do their own things as much as possible.",
+            "sample": true
+          },
+          {
+            "q": "明天单位有个活动，可能不能按时下班，____。",
+            "hint": "尽{jǐn}量",
+            "a": "明天单位有个活动，可能不能按时下班，【不过我会尽{jǐn}量早点儿回家】。",
+            "vi": "Ngày mai cơ quan có hoạt động, có thể không tan làm đúng giờ được, nhưng tôi sẽ cố gắng về nhà sớm.",
+            "en": "There's an event at work tomorrow, so I may not finish on time, but I'll try to get home as early as I can.",
+            "sample": true
+          },
+          {
+            "q": "A：要是他们问的问题我答不上来，怎么办？\nB：____。",
+            "hint": "尽{jǐn}量",
+            "a": "A：要是他们问的问题我答不上来，怎么办？\nB：【别紧张，尽{jǐn}量回答，实在不会就说回去查一查】。",
+            "vi": "A: Nếu họ hỏi câu mà tôi không trả lời được thì làm sao?\nB: Đừng căng thẳng, cố gắng trả lời, thật sự không biết thì nói là về tra cứu đã.",
+            "en": "A: What if they ask something I can't answer?\nB: Don't worry. Answer as best you can, and if you really don't know, say you'll look it up.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "逐步",
+      "uses": [
+        {
+          "vi": "逐步 là phó từ, biểu thị từng bước một (từng bước, dần dần), phần nhiều dùng cho tình huống do con người tạo ra, thường không bổ nghĩa cho từ mang tính chất tính từ.",
+          "en": "逐步 is an adverb meaning step by step; it's mostly used for situations brought about by people, and generally doesn't modify adjectives.",
+          "ex": [
+            {
+              "zh": "云计算应用市场规模正在【逐步】扩大。",
+              "vi": "Quy mô thị trường ứng dụng điện toán đám mây đang từng bước mở rộng.",
+              "en": "The market for cloud computing applications is gradually expanding."
+            },
+            {
+              "zh": "……调整能源消费结构，【逐步】向可再生能源转变；",
+              "vi": "… điều chỉnh cơ cấu tiêu dùng năng lượng, từng bước chuyển sang năng lượng tái tạo;",
+              "en": "… adjusting the structure of energy consumption and gradually switching to renewable energy;"
+            },
+            {
+              "zh": "记者了解到，现在受灾群众已【逐步】恢复了正常的生产生活。",
+              "vi": "Phóng viên được biết, hiện nay người dân vùng bị thiên tai đã dần dần khôi phục sản xuất và sinh hoạt bình thường.",
+              "en": "Reporters have learned that the people affected by the disaster are gradually getting back to normal work and life."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "未来两天国内无明显冷空气活动，大部分地区天气晴和，____。",
+            "hint": "逐步",
+            "a": "未来两天国内无明显冷空气活动，大部分地区天气晴和，【气温将逐步回升】。",
+            "vi": "Hai ngày tới trong nước không có không khí lạnh đáng kể, phần lớn các vùng trời quang đãng ôn hòa, nhiệt độ sẽ dần tăng trở lại.",
+            "en": "There'll be no significant cold air across the country in the next two days; most areas will be fine and mild, and temperatures will gradually rise again.",
+            "sample": true
+          },
+          {
+            "q": "随着人们生活水平的不断提高，绿色食品____。",
+            "hint": "逐步",
+            "a": "随着人们生活水平的不断提高，绿色食品【逐步走进了普通家庭】。",
+            "vi": "Cùng với mức sống của người dân không ngừng nâng cao, thực phẩm sạch đã dần đi vào các gia đình bình thường.",
+            "en": "As living standards keep rising, organic food is gradually finding its way into ordinary homes.",
+            "sample": true
+          },
+          {
+            "q": "A：你知道吗？现在，上网校的人越来越多。\nB：____。",
+            "hint": "逐步",
+            "a": "A：你知道吗？现在，上网校的人越来越多。\nB：【是啊，网上学习正在逐步成为一种新的学习方式】。",
+            "vi": "A: Bạn biết không? Bây giờ người học ở trường trực tuyến ngày càng nhiều.\nB: Đúng thế, học trực tuyến đang dần trở thành một phương thức học tập mới.",
+            "en": "A: Did you know? More and more people are studying at online schools.\nB: Yes, online learning is gradually becoming a new way of studying.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "鼓励—鼓舞",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: 鼓励 và 鼓舞 đều là động từ, đều có nghĩa làm cho người ta phấn chấn, tăng thêm lòng tin.",
+          "en": "Similarity: 鼓励 and 鼓舞 are both verbs meaning to raise someone's spirits and boost their confidence.",
+          "ex": [
+            {
+              "zh": "这次谈话，使刘洋受到极大的【鼓励】/【鼓舞】。",
+              "vi": "Cuộc nói chuyện lần này khiến Lưu Dương được khích lệ rất nhiều.",
+              "en": "This talk gave Liu Yang enormous encouragement."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 1: 鼓励 là từ trung tính, có thể dùng cho mặt xấu; 鼓舞 là từ mang nghĩa tốt.",
+          "en": "Difference 1: 鼓励 is neutral and can be used for bad things; 鼓舞 is only positive.",
+          "ex": [
+            {
+              "zh": "吸烟有害健康，你不阻止他，怎么还【鼓励】呢？",
+              "vi": "Hút thuốc có hại cho sức khỏe, bạn không ngăn anh ấy, sao lại còn khuyến khích?",
+              "en": "Smoking is bad for you. Why are you encouraging him instead of stopping him?"
+            },
+            {
+              "zh": "新产品的研制成功极大地{de}【鼓舞】了科技人员。",
+              "vi": "Việc nghiên cứu chế tạo thành công sản phẩm mới đã cổ vũ rất lớn cho các nhân viên khoa học kỹ thuật.",
+              "en": "The successful development of the new product was a huge boost to the technical staff."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: 鼓励 nghiêng về khích lệ đối phương làm một hoạt động nào đó, chủ ngữ phần nhiều là người hoặc tổ chức, thường dùng hình thức kiêm ngữ “鼓励某人做某事”; 鼓舞 nghiêng về chịu ảnh hưởng nào đó mà tinh thần phấn chấn, chủ ngữ phần nhiều là sự vật.",
+          "en": "Difference 2: 鼓励 stresses urging someone to do something; its subject is usually a person or organisation, often in the pivotal pattern 鼓励某人做某事. 鼓舞 stresses being lifted in spirit by some influence; its subject is usually a thing or event.",
+          "ex": [
+            {
+              "zh": "近些年，国家越来越【鼓励】大学生毕业后开办自己的公司。",
+              "vi": "Những năm gần đây, nhà nước ngày càng khuyến khích sinh viên sau khi tốt nghiệp mở công ty riêng.",
+              "en": "In recent years, the state has increasingly encouraged graduates to start their own companies."
+            },
+            {
+              "zh": "新的胜利给了全体队员很大的【鼓舞】。",
+              "vi": "Chiến thắng mới đã cổ vũ rất lớn cho toàn thể đội viên.",
+              "en": "The new victory gave the whole team a great lift."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 3: 鼓励 không có nghĩa và cách dùng này; 鼓舞 còn là tính từ, miêu tả phấn khởi, phấn chấn.",
+          "en": "Difference 3: 鼓舞 is also an adjective meaning inspiring, heartening; 鼓励 has no such use.",
+          "ex": [
+            {
+              "zh": "年初制定的目标顺利实现，取得的成绩令人十分【鼓舞】。",
+              "vi": "Mục tiêu đặt ra từ đầu năm đã thực hiện thuận lợi, thành tích đạt được khiến người ta vô cùng phấn khởi.",
+              "en": "The targets set at the start of the year have been met, and the results are very heartening."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "父母平时应____孩子多参加体育活动。",
+            "key": "鼓励 ✓ · 鼓舞 ✗ (鼓励某人做某事)",
+            "a": "父母平时应【鼓励】孩子多参加体育活动。",
+            "vi": "Bố mẹ ngày thường nên khuyến khích con tham gia nhiều hoạt động thể thao.",
+            "en": "Parents should encourage their children to do more sport."
+          },
+          {
+            "q": "在工作中，管理者多____员工，会提高员工的工作积极性。",
+            "key": "鼓励 ✓ · 鼓舞 ✓",
+            "a": "在工作中，管理者多【鼓励】/【鼓舞】员工，会提高员工的工作积极性。",
+            "vi": "Trong công việc, người quản lý thường xuyên khích lệ nhân viên sẽ nâng cao tính tích cực làm việc của họ.",
+            "en": "At work, managers who encourage their staff more will raise their motivation."
+          },
+          {
+            "q": "听了他们的发言，我挺受____的，对他们很有信心。",
+            "key": "鼓励 ✓ · 鼓舞 ✓",
+            "a": "听了他们的发言，我挺受【鼓舞】/【鼓励】的，对他们很有信心。",
+            "vi": "Nghe họ phát biểu, tôi thấy rất phấn chấn, rất tin tưởng vào họ.",
+            "en": "Hearing them speak was really encouraging; I have great confidence in them."
+          },
+          {
+            "q": "感谢大家对我的肯定与____。",
+            "key": "鼓励 ✓ · 鼓舞 ✗ (người khác khích lệ mình)",
+            "a": "感谢大家对我的肯定与【鼓励】。",
+            "vi": "Cảm ơn mọi người đã công nhận và khích lệ tôi.",
+            "en": "Thank you all for your recognition and encouragement."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "破坏",
+            "设备/环境/秩序/关系/婚姻/家庭/计划/形象/和平/平衡"
+          ],
+          "vi": "phá hỏng thiết bị / môi trường / trật tự / quan hệ / hôn nhân / gia đình / kế hoạch / hình ảnh / hòa bình / sự cân bằng",
+          "en": "damage equipment / the environment / order / relationships / a marriage / a family / plans / an image / peace / the balance"
+        },
+        {
+          "zh": [
+            "掌握",
+            "规律/方法/情况/信息/特点/命运/技术/知识/语言"
+          ],
+          "vi": "nắm vững quy luật / phương pháp / tình hình / thông tin / đặc điểm / vận mệnh / kỹ thuật / kiến thức / ngôn ngữ",
+          "en": "master the rules / methods / situation / information / features / one's fate / a technique / knowledge / a language"
+        }
+      ]
+    },
+    {
+      "a": "定语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "真实的",
+            "内容/故事/材料/消息/生活/经历/感情/看法/报道/原因"
+          ],
+          "vi": "nội dung / câu chuyện / tài liệu / tin tức / cuộc sống / trải nghiệm / tình cảm / cách nhìn / bài đưa tin / nguyên nhân có thật",
+          "en": "real content / a true story / genuine material / true news / real life / a real experience / true feelings / honest opinions / a true report / the real reason"
+        },
+        {
+          "zh": [
+            "夸张的",
+            "故事/剧情/形象/动作/语言/数量"
+          ],
+          "vi": "câu chuyện / tình tiết / hình ảnh / động tác / ngôn ngữ / con số cường điệu",
+          "en": "an exaggerated story / plot / image / gesture / language / figure"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "自觉地{de}",
+            "工作/学习/运用/遵守/爱护/注意/养成（习惯）"
+          ],
+          "vi": "tự giác làm việc / học tập / vận dụng / tuân thủ / giữ gìn / chú ý / hình thành (thói quen)",
+          "en": "work / study / apply / obey / look after / pay attention / form (habits) of one's own accord"
+        },
+        {
+          "zh": [
+            "密切",
+            "合作/相关/联系/配合/注意/关注"
+          ],
+          "vi": "hợp tác / liên quan / liên hệ / phối hợp / chú ý / quan tâm chặt chẽ",
+          "en": "closely cooperate / be closely related / keep in close contact / work closely together / pay close attention / follow closely"
+        }
+      ]
+    },
+    {
+      "a": "主语",
+      "b": "谓语",
+      "rows": [
+        {
+          "zh": [
+            "资源",
+            "开发（出来）/保护（起来）/浪费/丰富/不足/宝贵"
+          ],
+          "vi": "tài nguyên được khai thác / được bảo vệ / bị lãng phí / phong phú / không đủ / quý giá",
+          "en": "resources are developed / protected / wasted / plentiful / scarce / precious"
+        },
+        {
+          "zh": [
+            "设施",
+            "建成/完工/投入使用/完善/先进/落后"
+          ],
+          "vi": "thiết bị xây xong / hoàn công / đưa vào sử dụng / hoàn thiện / tiên tiến / lạc hậu",
+          "en": "facilities are built / completed / put into use / well-equipped / advanced / outdated"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "鼓舞",
+        "公布",
+        "消失",
+        "幻想",
+        "不安",
+        "幸运"
+      ],
+      "items": [
+        {
+          "q": "小时候{hou}，他常____着{zhe}自己有一天也能成为一名导演。",
+          "key": "幻想",
+          "a": "小时候{hou}，他常【幻想】着{zhe}自己有一天也能成为一名导演。",
+          "vi": "Hồi nhỏ, cậu ấy thường mơ tưởng một ngày nào đó mình cũng có thể trở thành đạo diễn.",
+          "en": "As a child, he often dreamed that one day he too would become a director."
+        },
+        {
+          "q": "船翻了，他很____地{de}抱住一根木头，游到一个小岛上。",
+          "key": "幸运",
+          "a": "船翻了，他很【幸运】地{de}抱住一根木头，游到一个小岛上。",
+          "vi": "Thuyền bị lật, anh ấy may mắn ôm được một khúc gỗ, bơi đến một hòn đảo nhỏ.",
+          "en": "The boat capsized, but luckily he grabbed a piece of wood and swam to a small island."
+        },
+        {
+          "q": "大赛的作品将被放在网上，由网友打分，比赛结果于四月十五日____。",
+          "key": "公布",
+          "a": "大赛的作品将被放在网上，由网友打分，比赛结果于四月十五日【公布】。",
+          "vi": "Các tác phẩm dự thi sẽ được đưa lên mạng để cư dân mạng chấm điểm, kết quả cuộc thi sẽ công bố vào ngày 15 tháng 4.",
+          "en": "The entries will be posted online for netizens to score, and the results will be announced on 15 April."
+        },
+        {
+          "q": "谈判的成功给了他极大的____。",
+          "key": "鼓舞",
+          "a": "谈判的成功给了他极大的【鼓舞】。",
+          "vi": "Thành công của cuộc đàm phán đã cổ vũ anh ấy rất nhiều.",
+          "en": "The success of the negotiations gave him a great boost."
+        },
+        {
+          "q": "接到电话，她感到有些____，急忙连夜赶回家中。",
+          "key": "不安",
+          "a": "接到电话，她感到有些【不安】，急忙连夜赶回家中。",
+          "vi": "Nhận được điện thoại, cô ấy cảm thấy hơi bất an, vội vàng suốt đêm chạy về nhà.",
+          "en": "When she got the call, she felt uneasy and hurried home through the night."
+        },
+        {
+          "q": "记录、保存将要____的事物是摄影非常重要的作用。",
+          "key": "消失",
+          "a": "记录、保存将要【消失】的事物是摄影非常重要的作用。",
+          "vi": "Ghi lại, lưu giữ những sự vật sắp biến mất là tác dụng vô cùng quan trọng của nhiếp ảnh.",
+          "en": "Recording and preserving things that are about to disappear is one of photography's most important roles."
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "虽然我不同意你的看法，但我还是____你的选择。",
+          "opts": [
+            "A. 尊敬",
+            "B. 尊重"
+          ],
+          "key": "B",
+          "a": "虽然我不同意你的看法，但我还是【尊重】你的选择。",
+          "vi": "Tuy tôi không đồng ý với quan điểm của bạn, nhưng tôi vẫn tôn trọng lựa chọn của bạn.",
+          "en": "Although I don't agree with you, I still respect your choice."
+        },
+        {
+          "q": "作品充分地{de}表达了作者内心____的情感。",
+          "opts": [
+            "A. 真实",
+            "B. 确实"
+          ],
+          "key": "A",
+          "a": "作品充分地{de}表达了作者内心【真实】的情感。",
+          "vi": "Tác phẩm đã thể hiện đầy đủ tình cảm chân thật trong lòng tác giả.",
+          "en": "The work fully expresses the author's true inner feelings."
+        },
+        {
+          "q": "那个城市的基础____还不够完善。",
+          "opts": [
+            "A. 设施",
+            "B. 设备"
+          ],
+          "key": "A",
+          "a": "那个城市的基础【设施】还不够完善。",
+          "vi": "Cơ sở hạ tầng của thành phố đó vẫn chưa đủ hoàn thiện.",
+          "en": "That city's infrastructure isn't yet well developed."
+        },
+        {
+          "q": "这次考试能否通过，我实在没什么____。",
+          "opts": [
+            "A. 把握",
+            "B. 掌握"
+          ],
+          "key": "A",
+          "a": "这次考试能否通过，我实在没什么【把握】。",
+          "vi": "Lần thi này có qua được hay không, tôi thật sự không có chút chắc chắn nào.",
+          "en": "I'm really not at all sure whether I'll pass this exam."
+        }
+      ]
+    },
+    {
+      "title": "画线连接可以搭配的词语",
+      "bank": [
+        "幻想",
+        "力量",
+        "人心",
+        "命运",
+        "密切",
+        "不安",
+        "消极",
+        "敏感"
+      ],
+      "items": [
+        {
+          "q": "贡献 ____",
+          "key": "力量",
+          "a": "贡献【力量】",
+          "vi": "góp sức",
+          "en": "contribute one's strength"
+        },
+        {
+          "q": "放弃 ____",
+          "key": "幻想",
+          "a": "放弃【幻想】",
+          "vi": "từ bỏ ảo tưởng",
+          "en": "give up illusions"
+        },
+        {
+          "q": "改变 ____",
+          "key": "命运",
+          "a": "改变【命运】",
+          "vi": "thay đổi số phận",
+          "en": "change one's fate"
+        },
+        {
+          "q": "鼓舞 ____",
+          "key": "人心",
+          "a": "鼓舞【人心】",
+          "vi": "cổ vũ lòng người",
+          "en": "lift people's spirits"
+        },
+        {
+          "q": "态度 ____",
+          "key": "消极",
+          "a": "态度【消极】",
+          "vi": "thái độ tiêu cực",
+          "en": "a negative attitude"
+        },
+        {
+          "q": "话题 ____",
+          "key": "敏感",
+          "a": "话题【敏感】",
+          "vi": "chủ đề nhạy cảm",
+          "en": "a sensitive topic"
+        },
+        {
+          "q": "联系 ____",
+          "key": "密切",
+          "a": "联系【密切】",
+          "vi": "liên hệ mật thiết",
+          "en": "close links"
+        },
+        {
+          "q": "心神 ____",
+          "key": "不安",
+          "a": "心神【不安】",
+          "vi": "tâm thần bất an",
+          "en": "uneasy in mind"
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "污染对动植物的危害",
+          "hint": "消失、自然界、破坏、砍、沙漠、真实",
+          "a": "很多动植物正在【消失】，部分原因是【自然界】的变化，但更大的原因是人类的【破坏】：森林被【砍】光，河流被污染，草原变成了【沙漠】。地球上一半以上的动植物正在消失，这是【真实】的情况。",
+          "vi": "Nhiều loài động thực vật đang biến mất, một phần là do thay đổi của giới tự nhiên, nhưng nguyên nhân lớn hơn là sự tàn phá của con người: rừng bị chặt sạch, sông ngòi bị ô nhiễm, thảo nguyên biến thành sa mạc. Hơn một nửa số động thực vật trên Trái Đất đang biến mất, đây là tình hình có thật.",
+          "en": "Many animals and plants are disappearing, partly because of natural change but mainly because of human destruction: forests cut down, rivers polluted, grassland turned to desert. More than half the Earth's species are disappearing — that's the real situation.",
+          "sample": true
+        },
+        {
+          "q": "污染对人类的危害",
+          "hint": "水资源、短缺、疾病、数据",
+          "a": "人类也饱受污染的危害：【水资源】【短缺】，17%的人喝不到干净的水；每年死于与空气污染有关的【疾病】的人比死于车祸的还多。这些【数据】令人不安。",
+          "vi": "Con người cũng chịu đủ tác hại của ô nhiễm: tài nguyên nước thiếu hụt, 17% người không được uống nước sạch; số người chết mỗi năm vì các bệnh liên quan đến ô nhiễm không khí còn nhiều hơn số người chết vì tai nạn giao thông. Những số liệu này khiến người ta lo lắng.",
+          "en": "Humans suffer too: water is scarce, 17% of people have no clean drinking water, and more people die each year from air-pollution-related diseases than in traffic accidents. These figures are disturbing.",
+          "sample": true
+        },
+        {
+          "q": "造成污染的原因",
+          "hint": "工业农业、生产、汽车尾气、垃圾",
+          "a": "一部分污染是由【工业农业】【生产】活动造成的，比如工厂产生的废水、废气和废物；还有一部分和日常生活有关，比如【汽车尾气】和【垃圾】。",
+          "vi": "Một phần ô nhiễm do hoạt động sản xuất công nghiệp và nông nghiệp gây ra, ví dụ nước thải, khí thải và chất thải từ nhà máy; còn một phần liên quan đến cuộc sống hằng ngày, ví dụ khí thải ô tô và rác thải.",
+          "en": "Some pollution comes from industrial and agricultural production, such as factory waste water, gas and waste; some is linked to daily life, such as car exhaust and rubbish.",
+          "sample": true
+        },
+        {
+          "q": "保护环境的措施",
+          "hint": "设施、能源、逐步、转变、尽{jǐn}量、私家车",
+          "a": "生产中增加环保【设施】，调整【能源】消费结构，【逐步】向可再生能源【转变】；生活中【尽{jǐn}量】减少垃圾，做到垃圾分类，多骑自行车，少使用【私家车】。",
+          "vi": "Trong sản xuất, tăng thêm thiết bị bảo vệ môi trường, điều chỉnh cơ cấu tiêu dùng năng lượng, từng bước chuyển sang năng lượng tái tạo; trong cuộc sống, cố gắng giảm rác, phân loại rác, đi xe đạp nhiều hơn, ít dùng xe riêng.",
+          "en": "In production, add environmental facilities, adjust energy consumption and gradually switch to renewables; in daily life, cut waste as much as possible, sort rubbish, cycle more and use private cars less.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "资源",
+    "vi": "Tài nguyên",
+    "en": "Resources",
+    "words": [
+      {
+        "zh": "金属",
+        "py": "jīnshǔ",
+        "vi": "kim loại",
+        "en": "metal"
+      },
+      {
+        "zh": "黄金",
+        "py": "huángjīn",
+        "vi": "vàng",
+        "en": "gold"
+      },
+      {
+        "zh": "银",
+        "py": "yín",
+        "vi": "bạc",
+        "en": "silver"
+      },
+      {
+        "zh": "钢铁",
+        "py": "gāngtiě",
+        "vi": "sắt thép",
+        "en": "steel"
+      },
+      {
+        "zh": "煤炭",
+        "py": "méitàn",
+        "vi": "than đá",
+        "en": "coal"
+      },
+      {
+        "zh": "能源",
+        "py": "néngyuán",
+        "vi": "năng lượng",
+        "en": "energy"
+      },
+      {
+        "zh": "原料",
+        "py": "yuánliào",
+        "vi": "nguyên liệu",
+        "en": "raw material"
+      },
+      {
+        "zh": "资源",
+        "py": "zīyuán",
+        "vi": "tài nguyên",
+        "en": "resources"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "这种管子是____管，只是从表面上看像塑料。",
+          "key": "金属",
+          "a": "这种管子是【金属】管，只是从表面上看像塑料。",
+          "vi": "Loại ống này là ống kim loại, chỉ nhìn bề ngoài giống nhựa thôi.",
+          "en": "This kind of pipe is metal; it just looks like plastic from the outside."
+        },
+        {
+          "q": "“中国大妈”一词的产生充分证明中国是____消费的大国。",
+          "key": "黄金",
+          "a": "“中国大妈”一词的产生充分证明中国是【黄金】消费的大国。",
+          "vi": "Sự ra đời của cụm từ “các bà cô Trung Quốc” đã chứng minh đầy đủ Trung Quốc là nước tiêu thụ vàng lớn.",
+          "en": "The coining of the term “Chinese aunties” clearly shows that China is a major consumer of gold."
+        },
+        {
+          "q": "豆腐深受中国人的喜爱，制作它的主要____就是黄豆。",
+          "key": "原料",
+          "a": "豆腐深受中国人的喜爱，制作它的主要【原料】就是黄豆。",
+          "vi": "Đậu phụ được người Trung Quốc rất yêu thích, nguyên liệu chính để làm nó là đậu nành.",
+          "en": "Tofu is much loved by Chinese people; its main ingredient is soybeans."
+        },
+        {
+          "q": "从目前中国能源消费结构来看，____依然占主导地位。",
+          "key": "煤炭",
+          "a": "从目前中国能源消费结构来看，【煤炭】依然占主导地位。",
+          "vi": "Xét theo cơ cấu tiêu dùng năng lượng hiện nay của Trung Quốc, than đá vẫn chiếm vị trí chủ đạo.",
+          "en": "Looking at China's current energy consumption, coal still dominates."
+        }
+      ]
+    }
+  }
+}

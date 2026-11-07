@@ -1,0 +1,1062 @@
+{
+  "n": 7,
+  "zh": "最好的医生是自己",
+  "vi": "Bác sĩ tốt nhất là chính mình",
+  "en": "The best doctor is yourself",
+  "texts": [
+    {
+      "title": "小李和小林聊天气和身体情况",
+      "paras": [
+        {
+          "zh": "小李：你的鼻子怎么流血{xiě}了？快用纸擦擦。",
+          "vi": "Tiểu Lý: Sao mũi cậu chảy máu thế? Mau lấy giấy lau đi.",
+          "en": "Xiao Li: Your nose is bleeding! Quick, wipe it with a tissue."
+        },
+        {
+          "zh": "小林：我还不习惯北方的气候，估计是天气太干。今天天气不是很冷，你怎么穿这么多？",
+          "vi": "Tiểu Lâm: Tớ vẫn chưa quen khí hậu miền Bắc, chắc là do thời tiết khô quá. Hôm nay trời không lạnh lắm, sao cậu mặc nhiều thế?",
+          "en": "Xiao Lin: I'm still not used to the northern climate. It's probably because the air is too dry. It's not very cold today; why are you wearing so much?"
+        },
+        {
+          "zh": "小李：就是因为昨天穿得太少，我都感冒了。",
+          "vi": "Tiểu Lý: Chính vì hôm qua mặc ít quá nên tớ bị cảm rồi.",
+          "en": "Xiao Li: It's precisely because I wore too little yesterday that I caught a cold."
+        },
+        {
+          "zh": "小林：最近感冒的人特别多。你去看医生了吗？",
+          "vi": "Tiểu Lâm: Dạo này nhiều người bị cảm lắm. Cậu đi khám bác sĩ chưa?",
+          "en": "Xiao Lin: Lots of people have colds at the moment. Have you seen a doctor?"
+        },
+        {
+          "zh": "小李：没有，我只是咳嗽，有点儿头疼，不严重，多喝点儿水就好了。",
+          "vi": "Tiểu Lý: Chưa, tớ chỉ ho, hơi đau đầu, không nghiêm trọng, uống nhiều nước là khỏi.",
+          "en": "Xiao Li: No, I just have a cough and a bit of a headache. It's not serious; drinking plenty of water will sort it out."
+        },
+        {
+          "zh": "小林：春天天气时冷时热，特别容易感冒。这时候一定要多注意保暖，另外，最好经常打开窗户换换空气。",
+          "vi": "Tiểu Lâm: Mùa xuân thời tiết lúc lạnh lúc nóng, đặc biệt dễ bị cảm. Lúc này nhất định phải chú ý giữ ấm, ngoài ra tốt nhất nên thường xuyên mở cửa sổ cho thoáng khí.",
+          "en": "Xiao Lin: In spring the weather keeps changing between cold and warm, so it's easy to catch a cold. You must keep warm, and it's best to open the windows often to let in fresh air."
+        }
+      ],
+      "words": [
+        {
+          "zh": "流血",
+          "py": "liú xiě",
+          "pos": "đgt.",
+          "vi": "chảy máu",
+          "en": "to bleed",
+          "x": true
+        },
+        {
+          "zh": "擦",
+          "py": "cā",
+          "pos": "đgt.",
+          "vi": "lau, chùi",
+          "en": "to wipe"
+        },
+        {
+          "zh": "气候",
+          "py": "qìhòu",
+          "pos": "dt.",
+          "vi": "khí hậu",
+          "en": "climate"
+        },
+        {
+          "zh": "估计",
+          "py": "gūjì",
+          "pos": "đgt.",
+          "vi": "đoán chừng, dự đoán",
+          "en": "to estimate, to reckon"
+        },
+        {
+          "zh": "咳嗽",
+          "py": "késou",
+          "pos": "đgt.",
+          "vi": "ho",
+          "en": "to cough"
+        },
+        {
+          "zh": "严重",
+          "py": "yánzhòng",
+          "pos": "tt.",
+          "vi": "nghiêm trọng",
+          "en": "serious"
+        },
+        {
+          "zh": "窗户",
+          "py": "chuānghu",
+          "pos": "dt.",
+          "vi": "cửa sổ",
+          "en": "window"
+        },
+        {
+          "zh": "空气",
+          "py": "kōngqì",
+          "pos": "dt.",
+          "vi": "không khí",
+          "en": "air"
+        }
+      ]
+    },
+    {
+      "title": "小夏和小雨聊小雨抽烟的事情",
+      "paras": [
+        {
+          "zh": "小夏：你咳嗽好点儿了吗？医生怎么说的？",
+          "vi": "Tiểu Hạ: Cậu đỡ ho chưa? Bác sĩ nói sao?",
+          "en": "Xiao Xia: Is your cough any better? What did the doctor say?"
+        },
+        {
+          "zh": "小雨：还是老样子，他让我以后不要再抽烟了。",
+          "vi": "Tiểu Vũ: Vẫn như cũ, bác sĩ bảo tớ sau này đừng hút thuốc nữa.",
+          "en": "Xiaoyu: Same as before. He told me not to smoke any more."
+        },
+        {
+          "zh": "小夏：抽烟对身体一点儿好处也没有。",
+          "vi": "Tiểu Hạ: Hút thuốc chẳng có chút lợi ích nào cho sức khỏe.",
+          "en": "Xiao Xia: Smoking does your body no good at all."
+        },
+        {
+          "zh": "小雨：我也知道，可是我觉得抽烟这个动作看上去很帅。",
+          "vi": "Tiểu Vũ: Tớ cũng biết, nhưng tớ thấy động tác hút thuốc trông rất ngầu.",
+          "en": "Xiaoyu: I know, but I think smoking looks really cool."
+        },
+        {
+          "zh": "小夏：等你身体出现问题了，后悔就来不及了。",
+          "vi": "Tiểu Hạ: Đợi đến lúc sức khỏe có vấn đề thì hối hận cũng không kịp nữa.",
+          "en": "Xiao Xia: By the time your health has problems, it'll be too late for regrets."
+        },
+        {
+          "zh": "小雨：其实家人也一直反对我抽烟，我自己却觉得没什么。但最近总是咳嗽，所以我有些担心了。",
+          "vi": "Tiểu Vũ: Thật ra người nhà cũng luôn phản đối tớ hút thuốc, bản thân tớ lại thấy không sao. Nhưng dạo này cứ ho mãi nên tớ hơi lo.",
+          "en": "Xiaoyu: Actually my family has always been against my smoking, but I didn't think it mattered. But I've been coughing all the time lately, so I'm a bit worried."
+        },
+        {
+          "zh": "小夏：抽烟不仅对自己没好处，还会影响周围人的身体健康。为了你和你的家人，别再抽了。",
+          "vi": "Tiểu Hạ: Hút thuốc không những không có lợi cho bản thân mà còn ảnh hưởng đến sức khỏe người xung quanh. Vì cậu và gia đình cậu, đừng hút nữa.",
+          "en": "Xiao Xia: Smoking is not only bad for you, it also affects the health of the people around you. For your sake and your family's, stop smoking."
+        }
+      ],
+      "words": [
+        {
+          "zh": "抽烟",
+          "py": "chōu yān",
+          "vi": "hút thuốc",
+          "en": "to smoke"
+        },
+        {
+          "zh": "动作",
+          "py": "dòngzuò",
+          "pos": "dt.",
+          "vi": "động tác, hành động",
+          "en": "movement, action"
+        },
+        {
+          "zh": "帅",
+          "py": "shuài",
+          "pos": "tt.",
+          "vi": "đẹp (trai), ngầu",
+          "en": "handsome, cool"
+        },
+        {
+          "zh": "出现",
+          "py": "chūxiàn",
+          "pos": "đgt.",
+          "vi": "xuất hiện, nảy sinh",
+          "en": "to appear, to arise"
+        },
+        {
+          "zh": "后悔",
+          "py": "hòuhuǐ",
+          "pos": "đgt.",
+          "vi": "ân hận, hối hận",
+          "en": "to regret"
+        },
+        {
+          "zh": "来不及",
+          "py": "láibují",
+          "pos": "đgt.",
+          "vi": "không kịp",
+          "en": "to be too late"
+        },
+        {
+          "zh": "反对",
+          "py": "fǎnduì",
+          "pos": "đgt.",
+          "vi": "phản đối",
+          "en": "to oppose"
+        }
+      ],
+      "names": [
+        {
+          "zh": "小雨",
+          "py": "Xiǎoyǔ",
+          "vi": "Tiểu Vũ (tên người)",
+          "en": "Xiaoyu (a name)"
+        }
+      ]
+    },
+    {
+      "title": "小李和小林聊电脑对身体的影响",
+      "paras": [
+        {
+          "zh": "小李：我最近眼睛总是跳，大夫说是因为我长时间看电脑，眼睛太累。",
+          "vi": "Tiểu Lý: Dạo này mắt tớ cứ giật, bác sĩ nói là do tớ nhìn máy tính lâu quá, mắt quá mệt.",
+          "en": "Xiao Li: My eyes keep twitching lately. The doctor said it's because I spend so long looking at the computer and my eyes are too tired."
+        },
+        {
+          "zh": "小林：长时间坐在电脑前面工作，眼睛很容易累。最好是每过一小时就休息休息，然后再开始工作。",
+          "vi": "Tiểu Lâm: Ngồi làm việc trước máy tính lâu thì mắt rất dễ mỏi. Tốt nhất là cứ một tiếng lại nghỉ một chút rồi mới làm tiếp.",
+          "en": "Xiao Lin: Working at a computer for long periods tires your eyes easily. It's best to take a break every hour before carrying on."
+        },
+        {
+          "zh": "小李：医生也这么说，他还告诉我要多向远处看看，尤其是多看看绿色的植物。",
+          "vi": "Tiểu Lý: Bác sĩ cũng nói vậy, còn bảo tớ nên nhìn ra xa nhiều hơn, nhất là nhìn cây xanh nhiều hơn.",
+          "en": "Xiao Li: The doctor said the same. He also told me to look into the distance more, especially at green plants."
+        },
+        {
+          "zh": "小林：长时间对着电脑不仅对眼睛不好，身体也会不舒服。研究发现，如果人一天静坐超过6小时，就会影响身体健康。",
+          "vi": "Tiểu Lâm: Nhìn máy tính lâu không những không tốt cho mắt mà cơ thể cũng sẽ khó chịu. Nghiên cứu phát hiện, nếu một người ngồi yên quá 6 tiếng một ngày thì sẽ ảnh hưởng đến sức khỏe.",
+          "en": "Xiao Lin: Staring at a computer for a long time is bad not only for your eyes but for your body too. Research shows that sitting still for more than 6 hours a day harms your health."
+        },
+        {
+          "zh": "小李：是啊！像咱们这些久坐办公室的人要注意，有时间应该多站起来活动活动。",
+          "vi": "Tiểu Lý: Đúng vậy! Những người ngồi văn phòng lâu như chúng mình phải chú ý, có thời gian nên đứng dậy vận động nhiều hơn.",
+          "en": "Xiao Li: Yes! People like us who sit in offices all day need to be careful. We should get up and move around whenever we can."
+        },
+        {
+          "zh": "小林：好，咱们午饭后就去附近的公园散散步吧。",
+          "vi": "Tiểu Lâm: Được, ăn trưa xong chúng mình đi dạo công viên gần đây nhé.",
+          "en": "Xiao Lin: OK, let's go for a walk in the park nearby after lunch."
+        }
+      ],
+      "words": [
+        {
+          "zh": "大夫",
+          "py": "dàifu",
+          "pos": "dt.",
+          "vi": "bác sĩ",
+          "en": "doctor"
+        },
+        {
+          "zh": "植物",
+          "py": "zhíwù",
+          "pos": "dt.",
+          "vi": "thực vật",
+          "en": "plant"
+        },
+        {
+          "zh": "研究",
+          "py": "yánjiū",
+          "pos": "đgt.",
+          "vi": "nghiên cứu",
+          "en": "to research, to study"
+        },
+        {
+          "zh": "超过",
+          "py": "chāoguò",
+          "pos": "đgt.",
+          "vi": "vượt quá",
+          "en": "to exceed"
+        },
+        {
+          "zh": "散步",
+          "py": "sàn bù",
+          "pos": "đgt.",
+          "vi": "đi dạo",
+          "en": "to take a walk"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "每个人都希望自己健康，那么什么才是健康呢？过去，人们认为健康就是指身体不生病。但是，现在人们认识到，健康还指精神上的健康。只有身体和精神都健康，才算是真正的健康。有一位教授用数字来说明健康有多么重要：要是健康是1，其他都是1后面的0；如果没有1，不管有多少0也没用。所以我们平时一定要注意锻炼，别等健康出问题了才后悔。",
+          "vi": "Ai cũng mong mình khỏe mạnh, vậy thế nào mới là khỏe mạnh? Trước đây người ta cho rằng khỏe mạnh là chỉ cơ thể không bị bệnh. Nhưng bây giờ người ta nhận thức được rằng khỏe mạnh còn bao gồm sức khỏe tinh thần. Chỉ khi cả thể chất và tinh thần đều khỏe mạnh thì mới được coi là khỏe mạnh thật sự. Có một giáo sư dùng con số để giải thích sức khỏe quan trọng đến mức nào: nếu sức khỏe là số 1, những thứ khác đều là số 0 phía sau số 1; nếu không có số 1 thì có bao nhiêu số 0 cũng vô ích. Vì vậy bình thường chúng ta nhất định phải chú ý rèn luyện, đừng đợi sức khỏe có vấn đề rồi mới hối hận.",
+          "en": "Everyone wants to be healthy, but what is health? In the past, people thought health just meant not being ill. But now people realize health also means mental health. Only when both body and mind are healthy can you be truly healthy. One professor used numbers to show how important health is: if health is the 1, everything else is the 0s after it; without the 1, however many 0s you have, they're worthless. So we must exercise regularly, and not wait until our health has problems to regret it."
+        }
+      ],
+      "words": [
+        {
+          "zh": "指",
+          "py": "zhǐ",
+          "pos": "đgt.",
+          "vi": "chỉ về, nói đến",
+          "en": "to refer to"
+        },
+        {
+          "zh": "精神",
+          "py": "jīngshén",
+          "pos": "dt.",
+          "vi": "tinh thần",
+          "en": "spirit, mind",
+          "x": true
+        },
+        {
+          "zh": "教授",
+          "py": "jiàoshòu",
+          "pos": "dt.",
+          "vi": "giáo sư",
+          "en": "professor"
+        },
+        {
+          "zh": "数字",
+          "py": "shùzì",
+          "pos": "dt.",
+          "vi": "con số",
+          "en": "number, figure"
+        },
+        {
+          "zh": "说明",
+          "py": "shuōmíng",
+          "pos": "đgt.",
+          "vi": "giải thích rõ, nói rõ",
+          "en": "to explain, to show"
+        },
+        {
+          "zh": "要是",
+          "py": "yàoshi",
+          "pos": "liên.",
+          "vi": "nếu như, nếu",
+          "en": "if"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "我听一位医生说过一句话：“最好的医生是自己，最好的药是时间，最好的运动是散步。”前两条我理解得不深，最后一条我完全同意。散步是生活中最简单的锻炼方法，既可以活动身体，又可以减肥，而且不会像跑步那样辛苦。晚饭后，一家人一起出去散散步，是一件很幸福的事情。肚子吃饱了需要活动，家人忙了一天需要交流，夫妻说说一天的工作能加深感情，听孩子谈谈学校里有意思的事，一天的烦恼就都跑掉了。",
+          "vi": "Tôi từng nghe một bác sĩ nói một câu: “Bác sĩ tốt nhất là chính mình, thuốc tốt nhất là thời gian, môn thể thao tốt nhất là đi bộ.” Hai điều đầu tôi hiểu chưa sâu, điều cuối cùng tôi hoàn toàn đồng ý. Đi dạo là cách rèn luyện đơn giản nhất trong cuộc sống, vừa có thể vận động cơ thể, vừa có thể giảm cân, hơn nữa không vất vả như chạy bộ. Sau bữa tối, cả nhà cùng ra ngoài đi dạo là một chuyện rất hạnh phúc. Bụng no cần vận động, người nhà bận rộn cả ngày cần trò chuyện, vợ chồng kể cho nhau nghe công việc trong ngày có thể làm sâu đậm tình cảm, nghe con kể chuyện thú vị ở trường, mọi phiền muộn trong ngày đều tan biến.",
+          "en": "I once heard a doctor say: “The best doctor is yourself, the best medicine is time, and the best exercise is walking.” I don't fully understand the first two, but I completely agree with the last. Walking is the simplest form of exercise: it gets your body moving, helps you lose weight, and isn't as tiring as running. Going for a walk together as a family after dinner is a very happy thing. A full stomach needs activity, a busy family needs to talk, husband and wife can grow closer by sharing their day, and listening to the children talk about interesting things at school makes all the day's worries disappear."
+        }
+      ],
+      "words": [
+        {
+          "zh": "既",
+          "py": "jì",
+          "pos": "phó.",
+          "vi": "(được dùng kết hợp với 又) đã... lại..., vừa... vừa...",
+          "en": "both... and...",
+          "x": true
+        },
+        {
+          "zh": "减肥",
+          "py": "jiǎn féi",
+          "pos": "đgt.",
+          "vi": "giảm cân",
+          "en": "to lose weight"
+        },
+        {
+          "zh": "辛苦",
+          "py": "xīnkǔ",
+          "pos": "tt.",
+          "vi": "vất vả, cực nhọc",
+          "en": "hard, tiring"
+        },
+        {
+          "zh": "肚子",
+          "py": "dùzi",
+          "pos": "dt.",
+          "vi": "bụng",
+          "en": "belly, stomach"
+        },
+        {
+          "zh": "感情",
+          "py": "gǎnqíng",
+          "pos": "dt.",
+          "vi": "tình cảm",
+          "en": "feelings, affection"
+        },
+        {
+          "zh": "烦恼",
+          "py": "fánnǎo",
+          "pos": "tt.",
+          "vi": "phiền muộn, buồn phiền",
+          "en": "worried, troubled"
+        },
+        {
+          "zh": "掉",
+          "py": "diào",
+          "pos": "đgt.",
+          "vi": "(được dùng sau một số động từ để chỉ kết quả của hành động) mất, đi, hết",
+          "en": "(after a verb) away, off"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "小林可能是中国哪里人？为什么？",
+        "label": "课文1",
+        "a": "小林可能是【中国南方人】，因为他【还不习惯北方的气候】。",
+        "vi": "Tiểu Lâm có thể là người miền Nam Trung Quốc, vì cậu ấy vẫn chưa quen khí hậu miền Bắc.",
+        "en": "Xiao Lin is probably from southern China, because he's still not used to the northern climate.",
+        "sample": true
+      },
+      {
+        "q": "春天的时候怎么才能少感冒？",
+        "label": "课文1",
+        "a": "【一定要多注意保暖】，另外，【最好经常打开窗户换换空气】。",
+        "vi": "Nhất định phải chú ý giữ ấm, ngoài ra tốt nhất nên thường xuyên mở cửa sổ thay đổi không khí.",
+        "en": "You must keep warm, and it's best to open the windows often to let in fresh air."
+      },
+      {
+        "q": "小雨为什么喜欢抽烟？你同意小雨的想法吗？为什么？",
+        "label": "课文2",
+        "a": "因为他【觉得抽烟这个动作看上去很帅】。我不同意，因为抽烟对身体一点儿好处也没有，还会影响周围人的健康。",
+        "vi": "Vì cậu ấy thấy động tác hút thuốc trông rất ngầu. Tôi không đồng ý, vì hút thuốc chẳng có lợi gì cho sức khỏe mà còn ảnh hưởng đến người xung quanh.",
+        "en": "Because he thinks smoking looks cool. I disagree, because smoking does no good at all and harms the people around you too.",
+        "sample": true
+      },
+      {
+        "q": "如果你有抽烟的朋友，你想对他/她说些什么？",
+        "label": "课文2",
+        "a": "我想对他说：【抽烟对身体没有好处，为了你和你的家人，别再抽了】。",
+        "vi": "Tôi muốn nói với bạn ấy: hút thuốc không có lợi cho sức khỏe, vì bạn và gia đình bạn, đừng hút nữa.",
+        "en": "I'd tell them: smoking is bad for you; for your sake and your family's, please stop.",
+        "sample": true
+      },
+      {
+        "q": "长时间坐在电脑前面工作好不好？为什么？",
+        "label": "课文3",
+        "a": "【不好】。因为眼睛很容易累，身体也会不舒服；如果一天静坐超过6小时，就会影响身体健康。",
+        "vi": "Không tốt. Vì mắt rất dễ mỏi, cơ thể cũng khó chịu; nếu một ngày ngồi yên quá 6 tiếng sẽ ảnh hưởng đến sức khỏe.",
+        "en": "No. Your eyes tire easily and your body feels uncomfortable; sitting still for over 6 hours a day harms your health."
+      },
+      {
+        "q": "要是你需要长时间用电脑工作，你会怎么保证自己的身体健康？",
+        "label": "课文3",
+        "a": "我会【每过一小时就休息休息，多向远处看看，有时间多站起来活动活动】。",
+        "vi": "Tôi sẽ cứ một tiếng nghỉ một lát, nhìn ra xa nhiều hơn, có thời gian thì đứng dậy vận động.",
+        "en": "I'd take a break every hour, look into the distance more, and get up and move around whenever I can.",
+        "sample": true
+      },
+      {
+        "q": "过去和现在的人们对健康的认识有哪些不同？",
+        "label": "课文4",
+        "a": "过去，人们认为健康就是【指身体不生病】；现在人们认识到，健康【还指精神上的健康】。",
+        "vi": "Trước đây người ta cho rằng khỏe mạnh là cơ thể không bệnh; bây giờ người ta nhận thức được khỏe mạnh còn bao gồm sức khỏe tinh thần.",
+        "en": "In the past people thought health just meant not being ill; now they realize it also includes mental health."
+      },
+      {
+        "q": "那位教授用什么方法说明健康是非常重要的？",
+        "label": "课文4",
+        "a": "他【用数字来说明】：要是健康是1，其他都是1后面的0；如果没有1，不管有多少0也没用。",
+        "vi": "Ông dùng con số để giải thích: nếu sức khỏe là số 1, những thứ khác là số 0 phía sau; không có số 1 thì bao nhiêu số 0 cũng vô ích.",
+        "en": "He used numbers: if health is 1, everything else is the 0s after it; without the 1, any number of 0s is worthless."
+      },
+      {
+        "q": "“我”是怎么理解“最好的运动是散步”这句话的？",
+        "label": "课文5",
+        "a": "“我”认为【散步是生活中最简单的锻炼方法，既可以活动身体，又可以减肥，而且不会像跑步那样辛苦】。",
+        "vi": "“Tôi” cho rằng đi dạo là cách rèn luyện đơn giản nhất, vừa vận động cơ thể vừa giảm cân, lại không vất vả như chạy bộ.",
+        "en": "“I” think walking is the simplest exercise: it moves your body, helps you lose weight, and isn't as tiring as running."
+      },
+      {
+        "q": "晚饭后和家人一起去散散步有哪几个方面的好处？",
+        "label": "课文5",
+        "a": "【肚子吃饱了可以活动活动；家人可以交流；夫妻说说一天的工作能加深感情；听孩子谈谈学校里的事，一天的烦恼就都跑掉了】。",
+        "vi": "Bụng no được vận động; người nhà được trò chuyện; vợ chồng kể chuyện công việc giúp tình cảm sâu đậm; nghe con kể chuyện trường, phiền muộn trong ngày tan biến.",
+        "en": "You get some exercise after eating; the family can talk; husband and wife grow closer sharing their day; and hearing the children's school stories makes the day's worries vanish."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "估计",
+      "uses": [
+        {
+          "vi": "Động từ 估计 có nghĩa là đưa ra suy đoán chung chung về sự vật dựa vào những điều kiện nào đó (ước tính, đoán chừng).",
+          "en": "The verb 估计 means 'to estimate, reckon': making a rough guess based on certain circumstances.",
+          "ex": [
+            {
+              "zh": "我还不习惯北方的气候，【估计】是天气太干。",
+              "vi": "Tôi vẫn chưa quen khí hậu miền Bắc, chắc là do thời tiết khô quá.",
+              "en": "I'm still not used to the northern climate. I reckon it's because the air is too dry."
+            },
+            {
+              "zh": "你有没有去问问小王？【估计】他应该有办法。",
+              "vi": "Bạn đã đi hỏi Tiểu Vương chưa? Chắc là cậu ấy có cách.",
+              "en": "Have you asked Xiao Wang? I'd guess he'll know what to do."
+            },
+            {
+              "zh": "机场通知飞机晚点一个小时，【估计】他下午六点才能到上海。",
+              "vi": "Sân bay thông báo máy bay trễ một tiếng, ước chừng sáu giờ chiều anh ấy mới đến được Thượng Hải.",
+              "en": "The airport announced the plane is an hour late. I reckon he won't get to Shanghai until six this evening."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "估计—可能",
+        "uses": [
+          {
+            "vi": "Giống nhau: 估计 và 可能 đều có nghĩa là đưa ra suy đoán chung chung về sự vật dựa vào những điều kiện nào đó.",
+            "en": "Similarity: both 估计 and 可能 can express a rough guess based on certain circumstances.",
+            "ex": [
+              {
+                "zh": "今天的工作【估计】/【可能】完不成了，因为出了点儿问题。",
+                "vi": "Công việc hôm nay chắc là không xong được rồi, vì có chút trục trặc.",
+                "en": "Today's work probably won't get finished, because a problem came up."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: Trong trường hợp trên, 估计 là động từ, có thể trực tiếp làm vị ngữ, theo sau nó có thể là động từ hay vế câu; còn 可能 là động từ năng nguyện, chỉ được dùng trước động từ để bổ nghĩa cho động từ (động từ theo sau 可能 mới là vị ngữ).",
+            "en": "Difference 1: in that sense, 估计 is a verb that can be the predicate itself, followed by a verb or a whole clause; 可能 is a modal verb that can only go before a verb to modify it (the following verb is the predicate).",
+            "ex": [
+              {
+                "zh": "明天就可以上网查成绩了，我【估计】这次考试考得不错。",
+                "vi": "Mai là có thể lên mạng xem điểm rồi, tôi đoán lần này thi khá tốt.",
+                "en": "We can check our results online tomorrow. I reckon I did well in this exam."
+              },
+              {
+                "zh": "明天就可以上网查成绩了，我这次考试【估计】/【可能】考得不错。",
+                "vi": "Mai là có thể lên mạng xem điểm rồi, lần này chắc tôi thi khá tốt.",
+                "en": "We can check our results online tomorrow. I probably did well this time."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: 可能 có thể được dùng làm tính từ để chỉ điều gì đó có thể được thực hiện hoặc trở thành sự thật; 估计 không dùng được như vậy.",
+            "en": "Difference 2: 可能 can be an adjective meaning 'possible, likely'; 估计 cannot.",
+            "ex": [
+              {
+                "zh": "他这么多天没来上课，最【可能】的原因就是他回国了。",
+                "vi": "Cậu ấy nhiều ngày như vậy không đi học, khả năng cao nhất là cậu ấy đã về nước.",
+                "en": "He hasn't been to class for so many days. The most likely reason is that he's gone back to his country."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 3: Có thể thêm 很 vào trước 可能 để tạo thành 很可能 nhằm nhấn mạnh, khẳng định sự phỏng đoán; 很可能 có thể đứng trước hoặc sau chủ ngữ. 估计 không dùng được như vậy.",
+            "en": "Difference 3: 很 can be added before 可能 to make 很可能 ('very likely'), which strengthens the guess and can go before or after the subject. 估计 has no such use.",
+            "ex": [
+              {
+                "zh": "很【可能】他还不知道这件事。",
+                "vi": "Rất có thể anh ấy vẫn chưa biết chuyện này.",
+                "en": "Quite possibly he still doesn't know about this."
+              },
+              {
+                "zh": "他很【可能】还不知道这件事。",
+                "vi": "Anh ấy rất có thể vẫn chưa biết chuyện này.",
+                "en": "He very likely doesn't know about this yet."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "那个饭馆儿去晚了人特别多，要等很长时间，这会儿去____来不及了。",
+              "key": "估计 ✓ · 可能 ✓",
+              "a": "那个饭馆儿去晚了人特别多，要等很长时间，这会儿去【估计】/【可能】来不及了。",
+              "vi": "Quán đó đến muộn là rất đông, phải đợi lâu, giờ này đi chắc không kịp nữa.",
+              "en": "That restaurant gets really busy if you go late and you have to wait ages. If we go now, we probably won't make it."
+            },
+            {
+              "q": "还有一分钟比赛就结束了，我____他们没机会再进球了。",
+              "key": "估计 ✓ · 可能 ✗ (làm vị ngữ, sau là vế câu)",
+              "a": "还有一分钟比赛就结束了，我【估计】他们没机会再进球了。",
+              "vi": "Còn một phút nữa là trận đấu kết thúc, tôi đoán họ không còn cơ hội ghi bàn nữa.",
+              "en": "There's one minute left in the match. I reckon they won't get another chance to score."
+            },
+            {
+              "q": "已经这么晚了，老师____休息了，你别打电话了。",
+              "key": "估计 ✓ · 可能 ✓",
+              "a": "已经这么晚了，老师【估计】/【可能】休息了，你别打电话了。",
+              "vi": "Muộn thế này rồi, chắc thầy đã nghỉ rồi, bạn đừng gọi điện nữa.",
+              "en": "It's so late, the teacher has probably gone to bed. Don't call."
+            },
+            {
+              "q": "我看这是不____的事情，网上的消息可不能全信。",
+              "key": "估计 ✗ · 可能 ✓ (làm tính từ)",
+              "a": "我看这是不【可能】的事情，网上的消息可不能全信。",
+              "vi": "Tôi thấy đây là chuyện không thể có, tin trên mạng không thể tin hết được.",
+              "en": "I think this is impossible. You can't believe everything you read online."
+            },
+            {
+              "q": "你看，那个人最____想做什么？",
+              "key": "估计 ✗ · 可能 ✓",
+              "a": "你看，那个人最【可能】想做什么？",
+              "vi": "Bạn xem, người kia nhiều khả năng muốn làm gì nhất?",
+              "en": "Look, what is that person most likely trying to do?"
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，我们还是下次再去吧。",
+            "hint": "估计",
+            "a": "【估计现在去已经来不及了】，我们还是下次再去吧。",
+            "vi": "Đoán là bây giờ đi đã không kịp rồi, chúng ta để lần sau đi.",
+            "en": "I reckon it's too late to go now. Let's go next time.",
+            "sample": true
+          },
+          {
+            "q": "我现在就过去，____。",
+            "hint": "估计",
+            "a": "我现在就过去，【估计半个小时就能到】。",
+            "vi": "Tôi đi qua ngay bây giờ, chắc nửa tiếng là đến.",
+            "en": "I'll head over now. I reckon I'll be there in half an hour.",
+            "sample": true
+          },
+          {
+            "q": "你可以上网买书，____。",
+            "hint": "估计",
+            "a": "你可以上网买书，【估计会便宜一些】。",
+            "vi": "Bạn có thể lên mạng mua sách, chắc sẽ rẻ hơn một chút.",
+            "en": "You can buy books online. It'll probably be a bit cheaper.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "来不及",
+      "py": "láibují",
+      "uses": [
+        {
+          "vi": "Động từ 来不及 diễn tả rằng do thời gian ngắn nên người nào đó không kịp làm việc gì. 来不及 có thể được dùng độc lập hoặc có động từ theo sau.",
+          "en": "The verb 来不及 means 'not have enough time, too late (to do something)'. It can be used on its own or followed by a verb.",
+          "ex": [
+            {
+              "zh": "等你身体出现问题了，后悔就【来不及】了。",
+              "vi": "Đợi đến khi sức khỏe có vấn đề thì hối hận cũng không kịp nữa.",
+              "en": "Once your health has problems, it'll be too late for regrets."
+            },
+            {
+              "zh": "今天【来不及】开会了，明天我们再找时间说这个问题吧。",
+              "vi": "Hôm nay không kịp họp rồi, mai chúng ta tìm thời gian bàn vấn đề này nhé.",
+              "en": "There's no time for a meeting today. Let's find time to discuss this tomorrow."
+            },
+            {
+              "zh": "你不是和同学约了下午两点见面吗？再不走就【来不及】了。",
+              "vi": "Không phải bạn hẹn bạn học hai giờ chiều gặp nhau sao? Không đi ngay là không kịp đâu.",
+              "en": "Didn't you arrange to meet your classmate at two this afternoon? If you don't go now you'll be late."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "节目8点开始，____。",
+            "hint": "来不及",
+            "a": "节目8点开始，【现在已经7点50了，我们来不及了】。",
+            "vi": "Chương trình bắt đầu lúc 8 giờ, bây giờ đã 7 giờ 50 rồi, chúng ta không kịp nữa.",
+            "en": "The show starts at 8. It's already 7:50; we won't make it.",
+            "sample": true
+          },
+          {
+            "q": "我本来打算去图书馆还书，____。",
+            "hint": "来不及",
+            "a": "我本来打算去图书馆还书，【可是今天太忙，来不及去了】。",
+            "vi": "Lúc đầu tôi định đi thư viện trả sách, nhưng hôm nay bận quá, không kịp đi.",
+            "en": "I was going to return my books to the library, but I was too busy today and didn't have time.",
+            "sample": true
+          },
+          {
+            "q": "____，原来飞机10点才起飞。",
+            "hint": "来不及",
+            "a": "【我还以为来不及了】，原来飞机10点才起飞。",
+            "vi": "Tôi còn tưởng không kịp nữa, thì ra máy bay 10 giờ mới cất cánh.",
+            "en": "I thought I wouldn't make it, but it turns out the plane doesn't take off until 10.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "离合词重叠",
+      "py": "líhécí chóngdié",
+      "uses": [
+        {
+          "vi": "Sự lặp lại của từ ly hợp diễn tả các ý như thời gian ngắn, việc làm thử, sự nhẹ nhàng, tùy tiện. Hình thức lặp lại là “AAB”, chẳng hạn: 散散步, 帮帮忙, 睡睡觉, 游游泳.",
+          "en": "Reduplicating a separable verb (verb-object word) gives the sense of doing something briefly, trying it out, or doing it in a relaxed, casual way. The form is 'AAB', e.g. 散散步, 帮帮忙, 睡睡觉, 游游泳.",
+          "ex": [
+            {
+              "zh": "咱们午饭后就去附近的公园【散散步】吧。",
+              "vi": "Ăn trưa xong mình ra công viên gần đây đi dạo một chút nhé.",
+              "en": "Let's go for a little walk in the park nearby after lunch."
+            },
+            {
+              "zh": "行李箱怎么这么重啊！你快来【帮帮】我的【忙】。",
+              "vi": "Vali gì mà nặng thế! Bạn mau lại giúp mình một tay.",
+              "en": "Why is this suitcase so heavy! Come and give me a hand."
+            },
+            {
+              "zh": "周末马克一般在宿舍看看书、听听音乐、【睡睡觉】。",
+              "vi": "Cuối tuần Mark thường ở ký túc xá đọc sách, nghe nhạc, ngủ một giấc.",
+              "en": "At weekends Mark usually stays in the dorm reading a bit, listening to music and sleeping."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "你有时间应该多回家看看爸妈，____。",
+            "hint": "聊天儿",
+            "a": "你有时间应该多回家看看爸妈，【跟他们聊聊天儿】。",
+            "vi": "Có thời gian bạn nên về nhà thăm bố mẹ nhiều hơn, trò chuyện với họ.",
+            "en": "When you have time you should go home to see your parents more and have a chat with them.",
+            "sample": true
+          },
+          {
+            "q": "____，对身体特别好。",
+            "hint": "游泳",
+            "a": "【周末去游游泳】，对身体特别好。",
+            "vi": "Cuối tuần đi bơi một chút, rất tốt cho sức khỏe.",
+            "en": "Going for a swim at the weekend is really good for your health.",
+            "sample": true
+          },
+          {
+            "q": "我帮你跟小李联系好了，____。",
+            "hint": "见面",
+            "a": "我帮你跟小李联系好了，【你们明天见见面吧】。",
+            "vi": "Tôi đã liên hệ với Tiểu Lý giúp bạn rồi, mai hai người gặp nhau đi.",
+            "en": "I've got in touch with Xiao Li for you. Why don't you two meet tomorrow?",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "要是",
+      "uses": [
+        {
+          "vi": "Liên từ 要是 có nghĩa là nếu, nếu như, thường được dùng trong cấu trúc “要是……(的话)，就……”. Vế câu sử dụng 要是 đưa ra một giả thuyết, vế câu sử dụng 就 chỉ hành động được thực hiện hay kết quả xuất hiện trong tình huống xảy ra giả thuyết đó.",
+          "en": "The conjunction 要是 means 'if', often in the pattern 要是……(的话)，就……. The 要是 clause states a supposition; the 就 clause gives the action taken or the result under that supposition.",
+          "ex": [
+            {
+              "zh": "【要是】健康是1，其他都是1后面的0。",
+              "vi": "Nếu sức khỏe là số 1, thì mọi thứ khác đều là những số 0 đứng sau số 1 đó.",
+              "en": "If health is the 1, everything else is the zeros after it."
+            },
+            {
+              "zh": "【要是】你想来中国的大学留学，和中国学生一起学习专业课，那么【就】需要做好这些准备。",
+              "vi": "Nếu bạn muốn đến Trung Quốc du học đại học, học chuyên ngành cùng sinh viên Trung Quốc, thì cần chuẩn bị tốt những điều này.",
+              "en": "If you want to study at a Chinese university and take specialist courses with Chinese students, then you need to make these preparations."
+            },
+            {
+              "zh": "【要是】质量比别人的好【的话】，那么价格贵一点儿也是可以接受的。",
+              "vi": "Nếu chất lượng tốt hơn của người khác thì giá có đắt hơn một chút cũng có thể chấp nhận được.",
+              "en": "If the quality is better than other people's, then a slightly higher price is acceptable."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "____，20分钟就能到。",
+            "hint": "要是",
+            "a": "【要是坐地铁去】，20分钟就能到。",
+            "vi": "Nếu đi tàu điện ngầm thì 20 phút là đến.",
+            "en": "If you take the subway, you'll be there in 20 minutes.",
+            "sample": true
+          },
+          {
+            "q": "____，可能不够，再买两瓶吧。",
+            "hint": "要是……的话",
+            "a": "【要是只买一瓶的话】，可能不够，再买两瓶吧。",
+            "vi": "Nếu chỉ mua một chai thì có thể không đủ, mua thêm hai chai nữa đi.",
+            "en": "If we only buy one bottle, it might not be enough. Let's buy two more.",
+            "sample": true
+          },
+          {
+            "q": "你要是有时间，____。",
+            "hint": "就",
+            "a": "你要是有时间，【就来我家玩儿吧】。",
+            "vi": "Nếu bạn có thời gian thì đến nhà tôi chơi nhé.",
+            "en": "If you have time, come over to my place.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "既……又/也/还……",
+      "uses": [
+        {
+          "vi": "“既……又/也/还……” được dùng để nối hai cấu trúc mang đặc điểm của động từ hoặc tính từ (hai cấu trúc thường giống nhau) nhằm diễn tả hai tình huống (đều mang nghĩa tích cực hoặc đều mang nghĩa tiêu cực) tồn tại cùng lúc.",
+          "en": "既……又/也/还…… links two verb or adjective phrases (usually of the same kind) to say that two situations exist at the same time, both positive or both negative: 'both … and …'.",
+          "ex": [
+            {
+              "zh": "散步是生活中最简单的锻炼方法，【既】可以活动身体，【又】可以减肥。",
+              "vi": "Đi bộ là cách rèn luyện đơn giản nhất trong cuộc sống, vừa có thể vận động cơ thể, vừa có thể giảm cân.",
+              "en": "Walking is the simplest form of exercise in daily life. It both gets your body moving and helps you lose weight."
+            },
+            {
+              "zh": "成功离不开交流，交流自然需要说话。会说话的人【既】容易交到朋友，【也】容易获得成功。",
+              "vi": "Thành công không thể tách rời giao tiếp, mà giao tiếp thì tất nhiên cần nói chuyện. Người khéo ăn nói vừa dễ kết bạn, cũng dễ đạt được thành công.",
+              "en": "Success depends on communication, and communication naturally requires talking. People who speak well find it easy both to make friends and to succeed."
+            },
+            {
+              "zh": "他那个人做事【既】不认真，动作【还】慢，这个工作这么重要，还是让别人做吧。",
+              "vi": "Người đó làm việc vừa không cẩn thận, động tác lại còn chậm, công việc này quan trọng như vậy, tốt hơn là để người khác làm.",
+              "en": "He's both careless and slow. This job is so important, we'd better give it to someone else."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话或句子",
+        "items": [
+          {
+            "q": "A：这两件衣服太漂亮了，你打算买哪件？\nB：____。",
+            "hint": "既……又……",
+            "a": "A：这两件衣服太漂亮了，你打算买哪件？\nB：【我既想买这件，又想买那件，真不知道该怎么选】。",
+            "vi": "A: Hai bộ quần áo này đẹp quá, bạn định mua bộ nào?\nB: Tôi vừa muốn mua bộ này lại vừa muốn mua bộ kia, thật không biết chọn thế nào.",
+            "en": "A: These two outfits are gorgeous. Which one are you going to buy?\nB: I want both this one and that one. I really don't know how to choose.",
+            "sample": true
+          },
+          {
+            "q": "来中国学习汉语，____。",
+            "hint": "既……也……",
+            "a": "来中国学习汉语，【既能学好汉语，也能了解中国文化】。",
+            "vi": "Đến Trung Quốc học tiếng Trung vừa học tốt tiếng Trung, vừa hiểu được văn hóa Trung Quốc.",
+            "en": "Coming to China to learn Chinese lets you both learn the language well and understand Chinese culture.",
+            "sample": true
+          },
+          {
+            "q": "我们都愿意跟他交朋友，____。",
+            "hint": "既……还……",
+            "a": "我们都愿意跟他交朋友，【因为他既幽默，还很热情】。",
+            "vi": "Chúng tôi đều muốn kết bạn với anh ấy, vì anh ấy vừa hài hước lại rất nhiệt tình.",
+            "en": "We all want to be friends with him, because he's both funny and very friendly.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "小林的语气：\n昨天我的鼻子又流血{xiě}了，……",
+          "label": "课文1",
+          "a": "昨天我的鼻子又流血{xiě}了，我还不习惯北方的气候，估计是天气太干。小李昨天穿得太少，感冒了，他只是咳嗽，有点儿头疼，不严重。我告诉他，春天天气时冷时热，特别容易感冒，一定要多注意保暖，最好经常打开窗户换换空气。",
+          "vi": "Hôm qua mũi tôi lại chảy máu, tôi vẫn chưa quen khí hậu miền Bắc, chắc là do thời tiết khô quá. Hôm qua Tiểu Lý mặc ít quá nên bị cảm, cậu ấy chỉ ho, hơi đau đầu, không nghiêm trọng. Tôi bảo cậu ấy mùa xuân thời tiết lúc lạnh lúc nóng, rất dễ bị cảm, nhất định phải giữ ấm, tốt nhất thường xuyên mở cửa sổ cho thoáng khí.",
+          "en": "My nose bled again yesterday. I'm still not used to the northern climate; it's probably because the air is too dry. Xiao Li wore too little yesterday and caught a cold, just a cough and a bit of a headache, nothing serious. I told him that in spring the weather keeps changing, so it's easy to catch a cold; he must keep warm and open the windows often.",
+          "sample": true
+        },
+        {
+          "q": "小雨的语气：\n医生让我以后别抽烟了，……",
+          "label": "课文2",
+          "a": "医生让我以后别抽烟了。我也知道抽烟对身体没好处，可是我觉得抽烟这个动作看上去很帅。家人也一直反对我抽烟，但我自己觉得没什么。最近总是咳嗽，我有些担心了。小夏说，抽烟不仅对自己没好处，还会影响周围人的健康，为了我和我的家人，让我别再抽了。",
+          "vi": "Bác sĩ bảo tôi sau này đừng hút thuốc nữa. Tôi cũng biết hút thuốc không tốt cho sức khỏe, nhưng tôi thấy động tác hút thuốc trông rất ngầu. Người nhà cũng luôn phản đối nhưng tôi thấy không sao. Dạo này cứ ho mãi nên tôi hơi lo. Tiểu Hạ nói hút thuốc không những không có lợi cho mình mà còn ảnh hưởng đến người xung quanh, vì tôi và gia đình, bảo tôi đừng hút nữa.",
+          "en": "The doctor told me to stop smoking. I know it's bad for me, but I think smoking looks cool. My family has always been against it, but I didn't think it mattered. Lately I've been coughing all the time and I'm a bit worried. Xiao Xia said smoking is bad not only for me but for the people around me, and that for my family's sake I should stop.",
+          "sample": true
+        },
+        {
+          "q": "小林的语气：\n长时间坐在电脑前面工作，……",
+          "label": "课文3",
+          "a": "长时间坐在电脑前面工作，眼睛很容易累，最好是每过一小时就休息休息。长时间对着电脑不仅对眼睛不好，身体也会不舒服。研究发现，如果人一天静坐超过6小时，就会影响身体健康。所以我和小李决定午饭后去附近的公园散散步。",
+          "vi": "Ngồi làm việc trước máy tính lâu thì mắt rất dễ mỏi, tốt nhất cứ một tiếng nghỉ một lát. Nhìn máy tính lâu không những hại mắt mà cơ thể cũng khó chịu. Nghiên cứu phát hiện nếu một ngày ngồi yên quá 6 tiếng thì sẽ ảnh hưởng sức khỏe. Vì vậy tôi và Tiểu Lý quyết định ăn trưa xong đi dạo công viên gần đó.",
+          "en": "Working at a computer for a long time tires your eyes, so it's best to rest every hour. Staring at a screen is bad not only for your eyes but for your body too. Research shows sitting still for over 6 hours a day harms your health. So Xiao Li and I decided to go for a walk in the park nearby after lunch.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "后悔",
+        "擦",
+        "反对",
+        "动作",
+        "指"
+      ],
+      "items": [
+        {
+          "q": "经理让服务员把所有桌子都____干净。",
+          "key": "擦",
+          "a": "经理让服务员把所有桌子都【擦】干净。",
+          "vi": "Giám đốc bảo nhân viên phục vụ lau sạch tất cả bàn.",
+          "en": "The manager told the waiters to wipe all the tables clean."
+        },
+        {
+          "q": "第一印象是____在第一次见面时给别人留下的印象。",
+          "key": "指",
+          "a": "第一印象是【指】在第一次见面时给别人留下的印象。",
+          "vi": "Ấn tượng đầu tiên là chỉ ấn tượng để lại cho người khác trong lần gặp đầu tiên.",
+          "en": "A first impression refers to the impression you leave on someone when you first meet."
+        },
+        {
+          "q": "生气时不要急着做决定，因为这个时候做的决定可能让你____。",
+          "key": "后悔",
+          "a": "生气时不要急着做决定，因为这个时候做的决定可能让你【后悔】。",
+          "vi": "Lúc tức giận đừng vội đưa ra quyết định, vì quyết định đưa ra lúc này có thể khiến bạn hối hận.",
+          "en": "Don't rush to make decisions when you're angry, because decisions made then may be ones you regret."
+        },
+        {
+          "q": "他对自己的要求很高，希望比赛的时候把每个____都做好。",
+          "key": "动作",
+          "a": "他对自己的要求很高，希望比赛的时候把每个【动作】都做好。",
+          "vi": "Anh ấy yêu cầu rất cao với bản thân, mong khi thi đấu làm tốt từng động tác.",
+          "en": "He sets high standards for himself and wants to get every move right in competition."
+        },
+        {
+          "q": "我本来以为她会____我这么做，没想到她竟然支持我。",
+          "key": "反对",
+          "a": "我本来以为她会【反对】我这么做，没想到她竟然支持我。",
+          "vi": "Lúc đầu tôi tưởng cô ấy sẽ phản đối tôi làm thế, không ngờ cô ấy lại ủng hộ tôi.",
+          "en": "I thought she'd oppose my doing this, but to my surprise she supported me."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "严重",
+        "研究",
+        "辛苦",
+        "超过",
+        "出现"
+      ],
+      "items": [
+        {
+          "q": "A：你的腿怎么了？快坐下休息一会儿吧。\nB：没事儿，大夫说不____。",
+          "key": "严重",
+          "a": "A：你的腿怎么了？快坐下休息一会儿吧。\nB：没事儿，大夫说不【严重】。",
+          "vi": "A: Chân bạn sao thế? Mau ngồi xuống nghỉ một lát đi.\nB: Không sao, bác sĩ nói không nghiêm trọng.",
+          "en": "A: What's wrong with your leg? Sit down and have a rest.\nB: It's fine, the doctor says it's not serious."
+        },
+        {
+          "q": "A：你看一下，现在有多少人同意这个计划？\nB：一共有十五个人，____了三分之二。",
+          "key": "超过",
+          "a": "A：你看一下，现在有多少人同意这个计划？\nB：一共有十五个人，【超过】了三分之二。",
+          "vi": "A: Bạn xem thử, bây giờ có bao nhiêu người đồng ý kế hoạch này?\nB: Tổng cộng mười lăm người, vượt quá hai phần ba.",
+          "en": "A: Can you check how many people agree with this plan now?\nB: Fifteen altogether, more than two-thirds."
+        },
+        {
+          "q": "A：今天的晚饭怎么样？\nB：特别好吃，____你了，一会儿我来洗碗。",
+          "key": "辛苦",
+          "a": "A：今天的晚饭怎么样？\nB：特别好吃，【辛苦】你了，一会儿我来洗碗。",
+          "vi": "A: Bữa tối hôm nay thế nào?\nB: Ngon lắm, vất vả cho bạn rồi, lát nữa tôi rửa bát.",
+          "en": "A: How was dinner tonight?\nB: Delicious. Thanks for all your hard work; I'll do the washing-up in a bit."
+        },
+        {
+          "q": "A：你觉得老孙这个人怎么样？\nB：老孙是个非常热情的人，他总是能在第一时间____，帮助大家解决问题。",
+          "key": "出现",
+          "a": "A：你觉得老孙这个人怎么样？\nB：老孙是个非常热情的人，他总是能在第一时间【出现】，帮助大家解决问题。",
+          "vi": "A: Bạn thấy ông Tôn là người thế nào?\nB: Ông Tôn là người rất nhiệt tình, ông luôn có mặt đầu tiên, giúp mọi người giải quyết vấn đề.",
+          "en": "A: What do you think of Lao Sun?\nB: He's very warm-hearted. He's always the first to show up and help everyone solve problems."
+        },
+        {
+          "q": "A：你毕业后有什么打算？留北京还是回江西？\nB：还没决定，我在考虑要不要读____生。",
+          "key": "研究",
+          "a": "A：你毕业后有什么打算？留北京还是回江西？\nB：还没决定，我在考虑要不要读【研究】生。",
+          "vi": "A: Tốt nghiệp xong bạn định làm gì? Ở lại Bắc Kinh hay về Giang Tây?\nB: Chưa quyết định, tôi đang cân nhắc có nên học cao học không.",
+          "en": "A: What are your plans after graduating? Stay in Beijing or go back to Jiangxi?\nB: I haven't decided. I'm thinking about whether to do a master's."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 气",
+    "en": "Words sharing a character: 气",
+    "words": [
+      {
+        "zh": "生气",
+        "py": "shēng qì",
+        "vi": "tức giận",
+        "en": "to get angry"
+      },
+      {
+        "zh": "脾气",
+        "py": "píqi",
+        "vi": "tính khí",
+        "en": "temper"
+      },
+      {
+        "zh": "空气",
+        "py": "kōngqì",
+        "vi": "không khí",
+        "en": "air"
+      },
+      {
+        "zh": "气候",
+        "py": "qìhòu",
+        "vi": "khí hậu",
+        "en": "climate"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "别【生气】了，我刚才真的是跟你开玩笑的。",
+        "vi": "Đừng giận nữa, lúc nãy tôi thật sự chỉ đùa với bạn thôi.",
+        "en": "Don't be angry. I was really just joking just now."
+      },
+      {
+        "zh": "他不但能力强，而且【脾气】好，毕业后一定能找到一份好工作。",
+        "vi": "Anh ấy không những có năng lực mà tính tình cũng tốt, tốt nghiệp xong chắc chắn tìm được việc tốt.",
+        "en": "He's not only very capable but also good-tempered. He's bound to find a good job after graduating."
+      },
+      {
+        "zh": "因为太高，这里【空气】比别的地方少，刚到这里的人会感觉身体不舒服。",
+        "vi": "Vì quá cao nên không khí ở đây ít hơn nơi khác, người mới đến sẽ cảm thấy khó chịu trong người.",
+        "en": "Because it's so high, there's less air here than elsewhere, and newcomers feel unwell."
+      },
+      {
+        "zh": "这次活动是从2007年开始的，它使人们更加关心世界【气候】变化的问题了。",
+        "vi": "Hoạt động này bắt đầu từ năm 2007, nó khiến mọi người quan tâm hơn đến vấn đề biến đổi khí hậu thế giới.",
+        "en": "This campaign began in 2007, and it has made people more concerned about global climate change."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "生气",
+        "脾气",
+        "空气",
+        "气候"
+      ],
+      "items": [
+        {
+          "q": "A：听说你去丽江玩儿了？那儿怎么样？\nB：那里特别美，____也很新鲜。",
+          "key": "空气",
+          "a": "A：听说你去丽江玩儿了？那儿怎么样？\nB：那里特别美，【空气】也很新鲜。",
+          "vi": "A: Nghe nói bạn đi Lệ Giang chơi à? Ở đó thế nào?\nB: Ở đó đẹp lắm, không khí cũng rất trong lành.",
+          "en": "A: I hear you went to Lijiang. What was it like?\nB: It's beautiful, and the air is really fresh."
+        },
+        {
+          "q": "A：为什么有的孩子喜欢发____呢？\nB：他们主要是想从爸妈那里得到一些好处。",
+          "key": "脾气",
+          "a": "A：为什么有的孩子喜欢发【脾气】呢？\nB：他们主要是想从爸妈那里得到一些好处。",
+          "vi": "A: Sao có những đứa trẻ thích ăn vạ thế?\nB: Chủ yếu là chúng muốn được bố mẹ cho chút lợi ích gì đó.",
+          "en": "A: Why do some children like throwing tantrums?\nB: Mainly because they want to get something out of their parents."
+        },
+        {
+          "q": "A：来北方好几年了吧？你觉得北方和南方的____一样吗？\nB：夏天差不多，但是冬天北方比较干。",
+          "key": "气候",
+          "a": "A：来北方好几年了吧？你觉得北方和南方的【气候】一样吗？\nB：夏天差不多，但是冬天北方比较干。",
+          "vi": "A: Bạn đến miền Bắc mấy năm rồi nhỉ? Bạn thấy khí hậu miền Bắc và miền Nam có giống nhau không?\nB: Mùa hè thì gần giống nhau, nhưng mùa đông miền Bắc khô hơn.",
+          "en": "A: You've been in the north for a few years now, haven't you? Do you think the climate in the north and south is the same?\nB: Summers are similar, but northern winters are drier."
+        },
+        {
+          "q": "A：你怎么还没到啊！我已经等了你一个小时了。\nB：别____，我马上就到门口了。",
+          "key": "生气",
+          "a": "A：你怎么还没到啊！我已经等了你一个小时了。\nB：别【生气】，我马上就到门口了。",
+          "vi": "A: Sao bạn vẫn chưa đến! Tôi đợi bạn một tiếng rồi.\nB: Đừng giận, tôi sắp đến cổng rồi.",
+          "en": "A: Why aren't you here yet? I've been waiting an hour!\nB: Don't be angry, I'm nearly at the door."
+        }
+      ]
+    }
+  }
+}

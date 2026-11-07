@@ -1,0 +1,161 @@
+# 词|pinyin|hán việt|nghĩa VI|meaning EN|例句|câu dịch VI|sentence EN|tag
+格式|géshì|cách thức|định dạng, thể thức|format|请按照规定的格式写报告。|Hãy viết báo cáo theo thể thức quy định.|Please write the report in the prescribed format.|介词短语
+隔阂|géhé|cách hạ|khoảng cách, hiềm khích|estrangement|因为很少沟通，父子之间产生了隔阂。|Vì ít giao tiếp, giữa cha con nảy sinh khoảng cách.|Due to lack of communication, a rift grew between father and son.|因果
+隔离|gélí|cách ly|cách ly|to isolate|病人需要隔离治疗一个星期。|Bệnh nhân cần điều trị cách ly một tuần.|The patient needs a week of isolation treatment.|时量动量
+个体|gètǐ|cá thể|cá thể; hộ kinh doanh cá thể|individual; self-employed|他在街上开了一家个体小饭馆。|Anh ấy mở một quán ăn nhỏ tư nhân trên phố.|He opened a small private restaurant on the street.|介词短语
+各抒己见|gè shū jǐ jiàn|các thư kỷ kiến|mỗi người bày tỏ ý kiến riêng|each airs his own view|会上大家各抒己见，讨论得很热烈。|Trong cuộc họp mọi người đều bày tỏ ý kiến riêng, thảo luận rất sôi nổi.|At the meeting everyone voiced their views, and the discussion was lively.|程度补语
+给予|jǐyǔ|cấp dữ|dành cho, trao cho|to give|感谢大家给予我们的支持和帮助。|Cảm ơn mọi người đã dành cho chúng tôi sự ủng hộ và giúp đỡ.|Thank you all for your support and help.|定语
+根深蒂固|gēn shēn dì gù|căn thâm đế cố|ăn sâu bén rễ|deep-rooted|这种传统观念在人们心中根深蒂固。|Quan niệm truyền thống này đã ăn sâu bén rễ trong lòng mọi người.|This traditional idea is deeply rooted in people's minds.|介词短语
+根源|gēnyuán|căn nguyên|căn nguyên, nguồn gốc|root cause|我们要找到问题的根源。|Chúng ta phải tìm ra căn nguyên của vấn đề.|We need to find the root of the problem.|能愿动词
+跟前|gēnqián|cân tiền|trước mặt, bên cạnh|in front of|他走到我跟前，小声说了一句话。|Anh ấy đi đến trước mặt tôi, nói khẽ một câu.|He walked up to me and said something quietly.|趋向补语
+跟随|gēnsuí|cân tùy|đi theo|to follow|小狗一直跟随着主人。|Con chó nhỏ luôn đi theo chủ.|The puppy follows its owner everywhere.|着
+跟踪|gēnzōng|cân tung|theo dõi, bám theo|to track|我感觉好像有人在跟踪我。|Tôi cảm thấy hình như có người đang bám theo tôi.|I have a feeling someone is following me.|进行态
+耕地|gēngdì|canh địa|đất canh tác; cày ruộng|arable land; to plow|随着城市的发展，耕地面积越来越少。|Cùng với sự phát triển đô thị, diện tích đất canh tác ngày càng ít.|As cities grow, the area of farmland keeps shrinking.|越…越
+更新|gēngxīn|canh tân|cập nhật, đổi mới|to update|手机系统需要更新了。|Hệ thống điện thoại cần cập nhật rồi.|The phone's system needs updating.|能愿动词
+更正|gēngzhèng|canh chính|đính chính, sửa lại|to correct|报纸上的错误已经更正了。|Lỗi trên báo đã được đính chính.|The error in the newspaper has been corrected.|了
+工艺品|gōngyìpǐn|công nghệ phẩm|đồ thủ công mỹ nghệ|handicraft|这些工艺品都是当地人手工制作的。|Những đồ thủ công mỹ nghệ này đều do người địa phương làm bằng tay.|These handicrafts are all handmade by locals.|是…的
+公安局|gōng'ānjú|công an cục|sở công an|public security bureau|他去公安局办理了护照。|Anh ấy đã đến sở công an làm hộ chiếu.|He went to the public security bureau to get a passport.|连动句
+公道|gōngdao|công đạo|công bằng, hợp lý|fair|这家店的价格很公道。|Giá cả của cửa hàng này rất hợp lý.|This shop's prices are very fair.|形容词谓语
+公告|gōnggào|công cáo|thông cáo|announcement|公司在网站上发布了一则公告。|Công ty đã đăng một thông cáo trên trang web.|The company posted an announcement on its website.|介词短语
+公关|gōngguān|công quan|quan hệ công chúng|public relations|她在一家公司做公关工作。|Cô ấy làm công việc PR ở một công ty.|She does PR for a company.|介词短语
+公民|gōngmín|công dân|công dân|citizen|每个公民都应该遵守法律。|Mỗi công dân đều nên tuân thủ pháp luật.|Every citizen should obey the law.|能愿动词
+公然|gōngrán|công nhiên|công khai, trắng trợn|openly|他竟然公然违反公司的规定。|Anh ta lại công khai vi phạm quy định công ty.|He openly flouted company rules.|转折
+公认|gōngrèn|công nhận|được mọi người công nhận|to be generally acknowledged|他是大家公认的好老师。|Thầy ấy là giáo viên giỏi được mọi người công nhận.|He's universally recognized as a good teacher.|是字句
+公式|gōngshì|công thức|công thức|formula|这道题只要记住公式就能做出来。|Bài này chỉ cần nhớ công thức là làm được.|You can solve this problem as long as you remember the formula.|条件
+公务|gōngwù|công vụ|công vụ, việc công|official business|他这次来上海是为了公务。|Lần này ông ấy đến Thượng Hải là vì việc công.|He came to Shanghai on official business this time.|目的
+公正|gōngzhèng|công chính|công bằng, chính trực|just, impartial|法官判决得很公正。|Thẩm phán phán quyết rất công bằng.|The judge ruled very fairly.|程度补语
+公证|gōngzhèng|công chứng|công chứng|to notarize|这份合同需要去公证处公证。|Hợp đồng này cần đến văn phòng công chứng để công chứng.|This contract needs to be notarized at the notary office.|连动句
+功劳|gōngláo|công lao|công lao|credit, merit|这次成功有你的一大半功劳。|Thành công lần này có hơn một nửa công lao của bạn.|Much of the credit for this success goes to you.|有字句
+功效|gōngxiào|công hiệu|công hiệu, hiệu quả|efficacy|这种草药有降血压的功效。|Loại thảo dược này có công hiệu hạ huyết áp.|This herb has the effect of lowering blood pressure.|有字句
+攻击|gōngjī|công kích|tấn công, công kích|to attack|网站受到了黑客的攻击。|Trang web đã bị tin tặc tấn công.|The website was attacked by hackers.|被字句
+攻克|gōngkè|công khắc|khắc phục, vượt qua|to overcome|科学家们终于攻克了这个技术难题。|Các nhà khoa học cuối cùng đã vượt qua vấn đề kỹ thuật nan giải này.|The scientists finally cracked this technical problem.|了
+宫殿|gōngdiàn|cung điện|cung điện|palace|故宫是中国古代最大的宫殿。|Cố Cung là cung điện lớn nhất Trung Quốc cổ đại.|The Forbidden City is ancient China's largest palace.|是字句
+恭敬|gōngjìng|cung kính|cung kính|respectful|学生们恭敬地向老师鞠了一躬。|Các học sinh cung kính cúi chào thầy giáo.|The students bowed respectfully to their teacher.|介词短语
+巩固|gǒnggù|củng cố|củng cố|to consolidate|学过的知识要经常复习，才能巩固。|Kiến thức đã học phải thường xuyên ôn tập mới củng cố được.|You must review what you've learned regularly to consolidate it.|条件
+共和国|gònghéguó|cộng hòa quốc|nước cộng hòa|republic|中华人民共和国成立于1949年。|Nước Cộng hòa Nhân dân Trung Hoa được thành lập năm 1949.|The People's Republic of China was founded in 1949.|介词短语
+共计|gòngjì|cộng kế|tổng cộng|to total|这次活动共计有三千人参加。|Hoạt động lần này tổng cộng có ba nghìn người tham gia.|A total of three thousand people took part in this event.|有字句
+共鸣|gòngmíng|cộng minh|sự đồng cảm, cộng hưởng|resonance|他的演讲引起了听众的强烈共鸣。|Bài diễn thuyết của anh ấy khiến khán giả đồng cảm mạnh mẽ.|His speech struck a strong chord with the audience.|了
+供不应求|gōng bù yìng qiú|cung bất ứng cầu|cung không đủ cầu|demand exceeds supply|这款新手机太受欢迎了，一直供不应求。|Mẫu điện thoại mới này quá được ưa chuộng, luôn cung không đủ cầu.|This new phone is so popular that demand keeps outstripping supply.|程度补语
+供给|gōngjǐ|cung cấp|cung cấp|to supply|这个城市的用水主要由水库供给。|Nước dùng của thành phố này chủ yếu do hồ chứa cung cấp.|This city's water is mainly supplied by the reservoir.|介词短语
+勾结|gōujié|câu kết|câu kết|to collude|这些官员和商人勾结，做了很多坏事。|Những quan chức này câu kết với thương nhân, làm rất nhiều chuyện xấu.|These officials colluded with businessmen and did many bad things.|介词短语
+钩子|gōuzi|câu tử|cái móc|hook|门后面有个钩子，可以挂衣服。|Sau cửa có một cái móc, có thể treo quần áo.|There's a hook behind the door for hanging clothes.|存现句
+构思|gòusī|cấu tư|ý tưởng; phác thảo ý tưởng|to conceive; conception|这部小说的构思非常巧妙。|Ý tưởng của cuốn tiểu thuyết này vô cùng khéo léo.|The novel is very cleverly conceived.|形容词谓语
+孤独|gūdú|cô độc|cô độc|lonely|老人一个人生活，常常感到孤独。|Người già sống một mình thường cảm thấy cô đơn.|Living alone, the old man often feels lonely.|形容词谓语
+孤立|gūlì|cô lập|cô lập|to isolate; isolated|他因为太自私，在班里被大家孤立了。|Cậu ta vì quá ích kỷ nên bị cả lớp cô lập.|He was so selfish that the whole class shunned him.|被字句
+姑且|gūqiě|cô thả|tạm thời, tạm|for the time being|这个问题姑且不谈，我们先说别的。|Vấn đề này tạm thời không bàn, chúng ta nói chuyện khác trước.|Let's set this issue aside for now and talk about something else.|承接
+辜负|gūfù|cô phụ|phụ lòng|to let down|我一定不会辜负父母对我的期望。|Tôi nhất định sẽ không phụ lòng kỳ vọng của cha mẹ.|I will definitely not let down my parents' hopes.|强调
+古董|gǔdǒng|cổ đổng|đồ cổ|antique|爷爷收藏了很多古董。|Ông nội sưu tầm rất nhiều đồ cổ.|Grandpa has collected many antiques.|了
+古怪|gǔguài|cổ quái|kỳ quặc, cổ quái|eccentric|这个老人脾气很古怪，不太好相处。|Ông cụ này tính khí rất kỳ quặc, không dễ gần.|This old man has an odd temperament and is hard to get along with.|形容词谓语
+股东|gǔdōng|cổ đông|cổ đông|shareholder|公司明天要召开股东大会。|Ngày mai công ty sẽ tổ chức đại hội cổ đông.|The company is holding its shareholders' meeting tomorrow.|将要
+股份|gǔfèn|cổ phần|cổ phần|share|他拥有这家公司百分之三十的股份。|Anh ấy nắm giữ ba mươi phần trăm cổ phần của công ty này.|He owns thirty percent of this company's shares.|陈述句
+骨干|gǔgàn|cốt cán|nòng cốt, trụ cột|backbone|他是公司的业务骨干。|Anh ấy là trụ cột nghiệp vụ của công ty.|He's the backbone of the company's operations.|是字句
+鼓动|gǔdòng|cổ động|xúi giục, cổ động|to incite|他鼓动大家一起反对这个决定。|Anh ta xúi giục mọi người cùng phản đối quyết định này.|He urged everyone to oppose the decision.|兼语句
+固然|gùrán|cố nhiên|tuy rằng, dĩ nhiên|admittedly|钱固然重要，但健康更重要。|Tiền dĩ nhiên quan trọng, nhưng sức khỏe còn quan trọng hơn.|Money is important, of course, but health matters more.|转折
+固体|gùtǐ|cố thể|chất rắn|solid|水在零度以下会变成固体。|Nước dưới không độ sẽ biến thành chất rắn.|Water turns solid below zero degrees.|结果补语
+固有|gùyǒu|cố hữu|vốn có, cố hữu|inherent|我们要改变一些固有的观念。|Chúng ta phải thay đổi một số quan niệm cố hữu.|We need to change some entrenched ideas.|能愿动词
+固执|gùzhí|cố chấp|cố chấp, bướng bỉnh|stubborn|他很固执，谁的话也不听。|Anh ta rất cố chấp, không nghe lời ai cả.|He's so stubborn he won't listen to anyone.|强调
+故乡|gùxiāng|cố hương|cố hương, quê nhà|hometown|离开故乡二十年，他还常常想起那里。|Rời quê hương hai mươi năm, ông ấy vẫn thường nhớ về nơi ấy.|Twenty years after leaving his hometown, he still often thinks of it.|时量动量
+故障|gùzhàng|cố chướng|sự cố, trục trặc|malfunction|电梯出了故障，请走楼梯。|Thang máy gặp sự cố, xin đi cầu thang bộ.|The elevator has broken down—please use the stairs.|祈使句
+顾虑|gùlǜ|cố lự|băn khoăn, lo ngại|misgivings|你有什么顾虑，可以直接说出来。|Bạn có băn khoăn gì có thể nói thẳng ra.|If you have any misgivings, just say so.|能愿动词
+顾问|gùwèn|cố vấn|cố vấn|consultant|他被公司聘为技术顾问。|Ông ấy được công ty mời làm cố vấn kỹ thuật.|The company hired him as a technical consultant.|被字句
+雇佣|gùyōng|cố dong|thuê mướn|to hire|这家餐厅雇佣了十几名员工。|Nhà hàng này thuê mười mấy nhân viên.|This restaurant employs over a dozen staff.|了
+拐杖|guǎizhàng|quải trượng|cây gậy chống|walking stick|爷爷年纪大了，走路要用拐杖。|Ông tuổi đã cao, đi lại phải chống gậy.|Grandpa is old now and needs a cane to walk.|能愿动词
+关怀|guānhuái|quan hoài|quan tâm, chăm lo|care|在老师的关怀下，他慢慢走出了困境。|Dưới sự quan tâm của thầy giáo, cậu ấy dần vượt qua khó khăn.|With his teacher's care, he gradually got through the hard times.|介词短语
+关照|guānzhào|quan chiếu|quan tâm giúp đỡ, chiếu cố|to look after|我刚来这里，请大家多多关照。|Tôi mới đến đây, mong mọi người giúp đỡ nhiều.|I'm new here—I hope you'll all look out for me.|祈使句
+观光|guānguāng|quan quang|tham quan, du lịch|sightseeing|每年有很多外国游客来这里观光。|Hằng năm có rất nhiều du khách nước ngoài đến đây tham quan.|Many foreign tourists come here sightseeing every year.|存现句
+官方|guānfāng|quan phương|chính thức (của nhà nước)|official|这是官方公布的数据，应该是准确的。|Đây là số liệu chính thức công bố, hẳn là chính xác.|These are official figures, so they should be accurate.|是字句
+管辖|guǎnxiá|quản hạt|cai quản, quản lý|to administer|这个地区归哪个部门管辖？|Khu vực này thuộc bộ phận nào quản lý?|Which department has jurisdiction over this area?|特指问句
+贯彻|guànchè|quán triệt|quán triệt, thực hiện|to implement|我们要认真贯彻公司的新政策。|Chúng ta phải nghiêm túc quán triệt chính sách mới của công ty.|We must conscientiously implement the company's new policy.|能愿动词
+惯例|guànlì|quán lệ|thông lệ|convention|按照惯例，春节要放七天假。|Theo thông lệ, Tết được nghỉ bảy ngày.|By convention, there's a seven-day holiday at Spring Festival.|介词短语
+灌溉|guàngài|quán khái|tưới tiêu|to irrigate|农民们用河水灌溉农田。|Nông dân dùng nước sông để tưới ruộng.|Farmers irrigate their fields with river water.|连动句
+罐|guàn|quán|lon, hũ|can, jar|他一口气喝了两罐啤酒。|Anh ấy uống một hơi hết hai lon bia.|He drank two cans of beer in one go.|了
+光彩|guāngcǎi|quang thải|vẻ vang; hào quang|glory; luster|做这种事一点儿也不光彩。|Làm chuyện này chẳng vẻ vang chút nào.|There's nothing honorable about doing this.|强调
+光辉|guānghuī|quang huy|rực rỡ, huy hoàng|glorious|太阳的光辉照亮了大地。|Ánh hào quang của mặt trời chiếu sáng mặt đất.|The sun's radiance lit up the earth.|结果补语
+光芒|guāngmáng|quang mang|ánh sáng rực rỡ|radiance|钻石在灯光下闪着耀眼的光芒。|Viên kim cương lấp lánh ánh sáng chói lòa dưới ánh đèn.|The diamond sparkles dazzlingly under the lights.|着
+光荣|guāngróng|quang vinh|vinh quang, vẻ vang|glorious|能为国家争光，我感到非常光荣。|Được làm rạng danh đất nước, tôi cảm thấy vô cùng vinh dự.|I feel very honored to bring glory to my country.|能愿动词
+广阔|guǎngkuò|quảng khoát|rộng lớn, bao la|vast|年轻人的发展空间非常广阔。|Không gian phát triển của người trẻ vô cùng rộng lớn.|Young people have vast room for growth.|形容词谓语
+归根到底|guī gēn dào dǐ|quy căn đáo để|suy cho cùng|in the final analysis|归根到底，成功靠的是自己的努力。|Suy cho cùng, thành công dựa vào nỗ lực của chính mình.|In the end, success depends on your own effort.|陈述句
+归还|guīhuán|quy hoàn|trả lại|to return|借的书请在一个月内归还。|Sách mượn xin trả lại trong vòng một tháng.|Please return borrowed books within a month.|祈使句
+规范|guīfàn|quy phạm|quy chuẩn, chuẩn mực|standard; to standardize|他的汉字写得很规范。|Chữ Hán anh ấy viết rất chuẩn mực.|His Chinese characters are written very properly.|程度补语
+规格|guīgé|quy cách|quy cách|specification|这批产品的规格不符合要求。|Quy cách của lô sản phẩm này không phù hợp yêu cầu.|This batch of products doesn't meet specifications.|陈述句
+规划|guīhuà|quy hoạch|quy hoạch, lập kế hoạch|to plan; plan|你应该好好规划一下自己的未来。|Bạn nên lên kế hoạch kỹ lưỡng cho tương lai của mình.|You should plan your future carefully.|能愿动词
+规章|guīzhāng|quy chương|quy chế, điều lệ|rules|新员工要先熟悉公司的规章制度。|Nhân viên mới phải làm quen với quy chế của công ty trước.|New employees should first familiarize themselves with company rules.|能愿动词
+轨道|guǐdào|quỹ đạo|đường ray; quỹ đạo|track; orbit|卫星已经进入了预定轨道。|Vệ tinh đã đi vào quỹ đạo dự định.|The satellite has entered its planned orbit.|了
+贵族|guìzú|quý tộc|quý tộc|aristocrat|这座城堡以前是一个贵族的家。|Tòa lâu đài này trước kia là nhà của một quý tộc.|This castle used to be an aristocrat's home.|是字句
+跪|guì|quỵ|quỳ|to kneel|他跪在地上向父母道歉。|Anh ấy quỳ xuống đất xin lỗi bố mẹ.|He knelt on the floor to apologize to his parents.|连动句
+棍棒|gùnbàng|côn bổng|gậy gộc|club, stick|教育孩子不能靠棍棒。|Giáo dục con cái không thể dựa vào roi vọt.|You can't raise children with the rod.|能愿动词
+国防|guófáng|quốc phòng|quốc phòng|national defense|国防是国家安全的保障。|Quốc phòng là sự bảo đảm cho an ninh quốc gia.|National defense guarantees state security.|是字句
+国务院|guówùyuàn|quốc vụ viện|Quốc vụ viện|State Council|国务院发布了新的政策。|Quốc vụ viện đã ban hành chính sách mới.|The State Council issued a new policy.|了
+果断|guǒduàn|quả đoán|quả quyết, dứt khoát|decisive|遇到紧急情况要果断处理。|Gặp tình huống khẩn cấp phải xử lý dứt khoát.|Emergencies must be handled decisively.|能愿动词
+过度|guòdù|quá độ|quá mức|excessive|过度劳累会影响身体健康。|Mệt mỏi quá mức sẽ ảnh hưởng đến sức khỏe.|Overwork can harm your health.|能愿动词
+过渡|guòdù|quá độ|chuyển tiếp, quá độ|transition|这只是一个过渡阶段，很快就会好起来的。|Đây chỉ là giai đoạn chuyển tiếp, sẽ sớm ổn thôi.|This is just a transitional phase; things will soon improve.|是字句
+过奖|guòjiǎng|quá tưởng|quá khen|to overpraise|“你的中文说得真好！”“您过奖了。”|"Bạn nói tiếng Trung giỏi thật!" "Anh quá khen rồi."|"Your Chinese is really good!" "You flatter me."|了
+过滤|guòlǜ|quá lự|lọc|to filter|自来水要过滤以后才能喝。|Nước máy phải lọc rồi mới uống được.|Tap water must be filtered before drinking.|时间状语
+过失|guòshī|quá thất|lỗi lầm, sơ suất|fault|这次事故完全是我的过失。|Tai nạn lần này hoàn toàn là lỗi của tôi.|This accident was entirely my fault.|是字句
+过问|guòwèn|quá vấn|hỏi đến, can thiệp|to concern oneself with|这是他们的家事，我们不便过问。|Đây là chuyện nhà họ, chúng ta không tiện can thiệp.|This is their family matter; it's not our place to ask.|是字句
+过瘾|guòyǐn|quá ẩn|đã đời, thỏa thích|to satisfy a craving|今天的球赛看得真过瘾！|Trận bóng hôm nay xem thật đã!|Today's match was so satisfying to watch!|程度补语
+过于|guòyú|quá vu|quá, quá mức|too|你过于担心了，事情没那么严重。|Bạn lo lắng quá rồi, sự việc không nghiêm trọng đến thế.|You're worrying too much—it's not that serious.|比较句
+还原|huányuán|hoàn nguyên|khôi phục nguyên trạng|to restore|警察根据监控还原了事情的经过。|Cảnh sát dựa vào camera giám sát để tái hiện diễn biến sự việc.|The police reconstructed what happened from the surveillance footage.|介词短语
+海拔|hǎibá|hải bạt|độ cao so với mặt nước biển|altitude|这座山海拔三千多米。|Ngọn núi này cao hơn ba nghìn mét so với mực nước biển.|This mountain is over 3,000 meters above sea level.|陈述句
+海滨|hǎibīn|hải tân|bờ biển|seaside|夏天我们去海滨城市度假吧。|Mùa hè chúng ta đi nghỉ ở thành phố biển nhé.|Let's go on vacation to a seaside city this summer.|吧
+含糊|hánhu|hàm hồ|mập mờ, không rõ ràng; qua loa|vague; careless|他回答得很含糊，好像在隐瞒什么。|Anh ta trả lời rất mập mờ, như đang che giấu điều gì.|His answer was vague, as if he were hiding something.|程度补语
+含义|hányì|hàm nghĩa|hàm ý, ý nghĩa|meaning|这句话有很深的含义。|Câu nói này có hàm ý rất sâu sắc.|This sentence has a profound meaning.|有字句
+寒暄|hánxuān|hàn huyên|hàn huyên, chào hỏi xã giao|to exchange pleasantries|两人寒暄了几句，就开始谈正事了。|Hai người hàn huyên vài câu rồi bắt đầu bàn chuyện chính.|After exchanging a few pleasantries, the two got down to business.|承接
+罕见|hǎnjiàn|hãn kiến|hiếm thấy|rare|今年冬天出现了罕见的大雪。|Mùa đông năm nay xuất hiện trận tuyết lớn hiếm thấy.|This winter saw a rare heavy snowfall.|存现句
+捍卫|hànwèi|hãn vệ|bảo vệ, giữ gìn|to defend|我们要捍卫自己的合法权利。|Chúng ta phải bảo vệ quyền lợi hợp pháp của mình.|We must defend our legal rights.|能愿动词
+行列|hángliè|hàng liệt|hàng ngũ|ranks|越来越多的人加入了环保的行列。|Ngày càng nhiều người gia nhập hàng ngũ bảo vệ môi trường.|More and more people are joining the ranks of environmentalists.|越…越
+行政|xíngzhèng|hành chính|hành chính|administration|她在公司负责行政工作。|Cô ấy phụ trách công việc hành chính ở công ty.|She's in charge of administration at the company.|介词短语
+航行|hángxíng|hàng hành|đi (tàu, máy bay)|to sail, to fly|这艘船在海上航行了一个月。|Con tàu này đã lênh đênh trên biển một tháng.|The ship sailed at sea for a month.|时量动量
+航空|hángkōng|hàng không|hàng không|aviation|他在一家航空公司当飞行员。|Anh ấy làm phi công ở một hãng hàng không.|He's a pilot at an airline.|介词短语
+航天|hángtiān|hàng thiên|hàng không vũ trụ|spaceflight|中国的航天事业发展得很快。|Sự nghiệp hàng không vũ trụ của Trung Quốc phát triển rất nhanh.|China's space program is developing rapidly.|程度补语
+毫米|háomǐ|hào mễ|mi-li-mét|millimeter|这张纸只有零点一毫米厚。|Tờ giấy này chỉ dày không phẩy một mi-li-mét.|This sheet of paper is only 0.1 millimeters thick.|陈述句
+毫无|háowú|hào vô|hoàn toàn không|not at all|他对这件事毫无兴趣。|Anh ấy hoàn toàn không có hứng thú với việc này.|He has no interest whatsoever in this.|强调
+豪迈|háomài|hào mại|hào hùng, hào sảng|heroic|他说话的语气非常豪迈。|Giọng nói của anh ấy vô cùng hào sảng.|He speaks in a very bold and heroic tone.|形容词谓语
+号召|hàozhào|hiệu triệu|kêu gọi|to call on|政府号召大家节约用水。|Chính phủ kêu gọi mọi người tiết kiệm nước.|The government calls on everyone to save water.|兼语句
+耗费|hàofèi|hao phí|tiêu tốn|to consume|这项工程耗费了大量的人力和物力。|Công trình này đã tiêu tốn một lượng lớn nhân lực và vật lực.|This project consumed huge amounts of manpower and resources.|了
+呵|hē|a|hà (hơi); ha ha|to breathe out; ha|天太冷了，他不停地往手上呵气。|Trời lạnh quá, anh ấy liên tục hà hơi vào tay.|It was so cold he kept blowing on his hands.|介词短语
+合并|hébìng|hợp tịnh|sáp nhập, hợp nhất|to merge|这两家公司明年将合并成一家。|Hai công ty này sang năm sẽ sáp nhập làm một.|The two companies will merge into one next year.|将要
+合成|héchéng|hợp thành|tổng hợp, hợp thành|to synthesize|这张照片是用电脑合成的。|Bức ảnh này được ghép bằng máy tính.|This photo was composited on a computer.|是…的
+合伙|héhuǒ|hợp hỏa|hùn vốn, cùng làm ăn|to form a partnership|他和朋友合伙开了一家咖啡店。|Anh ấy cùng bạn hùn vốn mở một quán cà phê.|He and a friend opened a café together.|介词短语
+合算|hésuàn|hợp toán|có lợi, đáng|worthwhile|买一送一，这样很合算。|Mua một tặng một, như vậy rất hời.|Buy one, get one free—that's a great deal.|形容词谓语
+和蔼|hé'ǎi|hòa ái|hòa nhã, hiền hòa|amiable|这位老教授待人非常和蔼。|Vị giáo sư già này đối xử với mọi người rất hòa nhã.|This old professor is very kind to people.|形容词谓语
+和解|héjiě|hòa giải|hòa giải, làm lành|to reconcile|吵了一架以后，两个人终于和解了。|Sau khi cãi nhau một trận, hai người cuối cùng đã làm lành.|After their quarrel, the two finally made up.|时间状语
+和睦|hémù|hòa mục|hòa thuận|harmonious|他们一家人相处得很和睦。|Cả nhà họ sống với nhau rất hòa thuận.|Their family gets along very harmoniously.|程度补语
+和气|héqi|hòa khí|hòa nhã, ôn hòa|polite, amiable|老板对员工一直很和气。|Ông chủ luôn rất ôn hòa với nhân viên.|The boss has always been friendly to his staff.|介词短语
+和谐|héxié|hòa hài|hài hòa|harmonious|人与自然应该和谐相处。|Con người và thiên nhiên nên chung sống hài hòa.|Humans and nature should live in harmony.|能愿动词
+嗨|hāi|hải|chào; ôi (thán từ)|hi; hey|嗨，好久不见，你最近怎么样？|Chào, lâu quá không gặp, dạo này bạn thế nào?|Hi, long time no see—how have you been?|特指问句
+嘿|hēi|hắc|này, ê (thán từ)|hey|嘿，你的东西掉了！|Này, đồ của bạn rơi rồi!|Hey, you dropped something!|感叹句
+痕迹|hénjì|ngân tích|dấu vết|trace|桌子上留下了一些水的痕迹。|Trên bàn còn để lại vài vết nước.|Some water marks were left on the table.|存现句
+狠心|hěnxīn|ngận tâm|nhẫn tâm; quyết tâm|heartless; to steel oneself|她狠心把孩子送到了国外读书。|Chị ấy đành lòng gửi con ra nước ngoài học.|She steeled herself and sent her child abroad to study.|趋向补语
+恨不得|hènbude|hận bất đắc|chỉ hận không thể, ước gì|to wish one could|听到这个好消息，我恨不得马上告诉所有人。|Nghe tin vui này, tôi chỉ muốn lập tức báo cho mọi người.|Hearing the good news, I wanted to tell everyone right away.|陈述句
+哼|hēng|hanh|ngâm nga; hừ (rên, hừ mũi)|to hum; to snort|他一边洗澡一边哼着歌。|Anh ấy vừa tắm vừa ngâm nga hát.|He hums songs while he showers.|并列
+横|héng|hoành|ngang|horizontal|汉字的笔画有横、竖、撇、点等。|Nét chữ Hán có nét ngang, nét sổ, nét phẩy, nét chấm…|The strokes of Chinese characters include horizontal, vertical, left-falling, dot, and so on.|有字句
+轰动|hōngdòng|oanh động|chấn động, gây xôn xao|to cause a sensation|这个消息在全国引起了轰动。|Tin tức này đã gây chấn động cả nước.|The news caused a sensation nationwide.|了
+烘|hōng|hồng|hong, sấy, nướng|to dry by heat, to bake|她把湿衣服放在火边烘干。|Cô ấy đặt quần áo ướt bên lửa để hong khô.|She dried the wet clothes by the fire.|把字句
+宏观|hóngguān|hoành quan|vĩ mô|macro|我们要从宏观上把握经济发展的方向。|Chúng ta phải nắm bắt phương hướng phát triển kinh tế từ góc độ vĩ mô.|We need to grasp the direction of economic development at the macro level.|能愿动词
+宏伟|hóngwěi|hoành vĩ|hùng vĩ, to lớn|magnificent|这座宫殿非常宏伟。|Cung điện này vô cùng hùng vĩ.|This palace is truly magnificent.|形容词谓语
+洪水|hóngshuǐ|hồng thủy|lũ lụt|flood|这场洪水冲毁了很多房屋。|Trận lũ lụt này đã cuốn trôi rất nhiều nhà cửa.|The flood destroyed many houses.|了
+哄|hǒng|hống|dỗ dành; lừa|to coax; to fool|妈妈哄了半天，孩子才不哭了。|Mẹ dỗ mãi đứa bé mới nín khóc.|Mom coaxed the child for ages before he stopped crying.|时量动量
+喉咙|hóulóng|hầu lung|cổ họng|throat|我喉咙疼，说话很困难。|Tôi đau họng, nói chuyện rất khó khăn.|My throat hurts and it's hard to talk.|形容词谓语
+吼|hǒu|hống|gầm, gào|to roar|老虎大吼一声，把大家吓了一跳。|Con hổ gầm lên một tiếng, làm mọi người giật mình.|The tiger let out a roar that startled everyone.|把字句
+后代|hòudài|hậu đại|con cháu, đời sau|descendants|我们要为后代留下一个美丽的地球。|Chúng ta phải để lại cho con cháu một trái đất xinh đẹp.|We must leave a beautiful planet for future generations.|介词短语
+后顾之忧|hòu gù zhī yōu|hậu cố chi ưu|nỗi lo về sau|worries back home|公司帮员工解决了孩子上学的问题，让他们没有了后顾之忧。|Công ty giúp nhân viên giải quyết chuyện con cái đi học, khiến họ không còn lo lắng.|The company sorted out schooling for employees' children, removing their worries.|兼语句
+后勤|hòuqín|hậu cần|hậu cần|logistics|他在学校负责后勤工作。|Anh ấy phụ trách công tác hậu cần ở trường.|He handles logistics at the school.|介词短语
+候选|hòuxuǎn|hậu tuyển|ứng cử|candidate|她是这次学生会主席的候选人。|Cô ấy là ứng cử viên chủ tịch hội sinh viên lần này.|She's a candidate for student union president this time.|是字句
+呼唤|hūhuàn|hô hoán|gọi, kêu gọi|to call out|妈妈在门口呼唤孩子回家吃饭。|Mẹ đứng ở cửa gọi con về nhà ăn cơm.|Mom stood at the door calling the kids home to eat.|兼语句
+呼啸|hūxiào|hô khiếu|rít, gào (gió)|to whistle, to howl|北风呼啸着吹过街道。|Gió bắc rít gào thổi qua đường phố.|The north wind howled down the street.|着
+呼吁|hūyù|hô dụ|kêu gọi|to appeal|专家呼吁大家少用塑料袋。|Chuyên gia kêu gọi mọi người dùng ít túi ni lông.|Experts are urging people to use fewer plastic bags.|兼语句
+忽略|hūlüè|hốt lược|bỏ qua, xem nhẹ|to neglect|工作再忙，也不能忽略家人。|Công việc bận đến đâu cũng không được bỏ bê gia đình.|However busy work is, you can't neglect your family.|让步
+胡乱|húluàn|hồ loạn|bừa bãi, qua loa|carelessly|他胡乱吃了几口饭就出门了。|Anh ấy ăn vội mấy miếng cơm rồi ra khỏi cửa.|He gulped down a few bites and headed out.|承接
+胡须|húxū|hồ tu|râu|beard|爷爷留着长长的白胡须。|Ông để bộ râu dài bạc trắng.|Grandpa has a long white beard.|着
+湖泊|húpō|hồ bạc|hồ, ao hồ|lake|这个地区有很多美丽的湖泊。|Vùng này có rất nhiều hồ nước đẹp.|This region has many beautiful lakes.|有字句
+花瓣|huābàn|hoa biện|cánh hoa|petal|风一吹，花瓣纷纷落了下来。|Gió vừa thổi, cánh hoa rơi lả tả.|When the wind blew, the petals fell one after another.|承接
+花蕾|huālěi|hoa lôi|nụ hoa|flower bud|春天来了，树上长满了花蕾。|Mùa xuân đến, trên cây đầy nụ hoa.|Spring is here, and the trees are covered with buds.|结果补语
+划分|huàfēn|hoạch phân|phân chia|to divide|我们把学生划分成三个小组。|Chúng tôi chia học sinh thành ba nhóm.|We divided the students into three groups.|把字句
+华丽|huálì|hoa lệ|lộng lẫy, hoa lệ|gorgeous|她穿着一件华丽的长裙参加晚会。|Cô ấy mặc một chiếc váy dài lộng lẫy dự tiệc tối.|She wore a gorgeous long gown to the party.|着
+华侨|huáqiáo|hoa kiều|Hoa kiều|overseas Chinese|很多华侨回国投资办企业。|Nhiều Hoa kiều về nước đầu tư mở doanh nghiệp.|Many overseas Chinese return home to invest and start businesses.|连动句
+化肥|huàféi|hóa phì|phân bón hóa học|chemical fertilizer|过多使用化肥会污染土地。|Dùng quá nhiều phân bón hóa học sẽ gây ô nhiễm đất.|Using too much fertilizer pollutes the soil.|能愿动词
+化石|huàshí|hóa thạch|hóa thạch|fossil|科学家在这里发现了恐龙化石。|Các nhà khoa học đã phát hiện hóa thạch khủng long ở đây.|Scientists discovered dinosaur fossils here.|介词短语
+化验|huàyàn|hóa nghiệm|xét nghiệm|lab test|医生让我先去验个血，看看化验结果。|Bác sĩ bảo tôi đi thử máu trước để xem kết quả xét nghiệm.|The doctor told me to get a blood test first to see the results.|兼语句
+化妆|huàzhuāng|hóa trang|trang điểm|to put on makeup|她每天出门前都要化妆。|Ngày nào trước khi ra khỏi nhà cô ấy cũng trang điểm.|She puts on makeup every day before going out.|时间状语
+画蛇添足|huà shé tiān zú|họa xà thiêm túc|vẽ rắn thêm chân, làm thừa|to overdo it|这篇文章已经很好了，再加这一段就是画蛇添足。|Bài văn này đã rất hay rồi, thêm đoạn này nữa là thừa.|This essay is already good—adding this paragraph would be overdoing it.|是字句

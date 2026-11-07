@@ -1,0 +1,1036 @@
+{
+  "n": 18,
+  "zh": "科技与世界",
+  "vi": "Khoa học công nghệ và thế giới",
+  "en": "Science, technology and the world",
+  "texts": [
+    {
+      "title": "王静给孙月推荐一本书",
+      "paras": [
+        {
+          "zh": "孙月：上次女儿问我飞机是怎么起飞和降落的，真不知道该怎么回答她，她现在总是有各种各样的“为什么”。",
+          "vi": "Tôn Nguyệt: Lần trước con gái hỏi tớ máy bay cất cánh và hạ cánh thế nào, thật không biết nên trả lời nó ra sao, bây giờ nó lúc nào cũng có đủ thứ “tại sao”.",
+          "en": "Sun Yue: Last time my daughter asked me how planes take off and land, and I really didn't know how to answer. She's always asking all sorts of “whys” now."
+        },
+        {
+          "zh": "王静：孩子眼中的世界是美丽和奇特的。有一本书叫《新十万个为什么》，现在卖得非常火。书里的内容都是儿童想知道的科学知识，相信你女儿一定喜欢读。",
+          "vi": "Vương Tịnh: Thế giới trong mắt trẻ con thật đẹp và kỳ lạ. Có một cuốn sách tên là “Mười vạn câu hỏi vì sao mới”, bây giờ bán rất chạy. Nội dung trong sách đều là kiến thức khoa học mà trẻ em muốn biết, tớ tin con gái cậu chắc chắn thích đọc.",
+          "en": "Wang Jing: The world is beautiful and wondrous in a child's eyes. There's a book called The New One Hundred Thousand Whys that's selling really well. It's full of scientific knowledge children want to know, and I'm sure your daughter will love it."
+        },
+        {
+          "zh": "孙月：难道它和我们小时候看的《十万个为什么》不一样吗？作者是谁啊？",
+          "vi": "Tôn Nguyệt: Lẽ nào nó khác với cuốn “Mười vạn câu hỏi vì sao” chúng mình đọc hồi nhỏ à? Tác giả là ai?",
+          "en": "Sun Yue: Is it different from the One Hundred Thousand Whys we read as children? Who's the author?"
+        },
+        {
+          "zh": "王静：作者的名字我没记住。《新十万个为什么》的内容更新，介绍了各种科学知识，包括地球、动物、植物、交通、科学技术、社会和文化等很多方面。",
+          "vi": "Vương Tịnh: Tên tác giả tớ không nhớ. Nội dung cuốn “Mười vạn câu hỏi vì sao mới” mới hơn, giới thiệu đủ loại kiến thức khoa học, gồm nhiều mặt như trái đất, động vật, thực vật, giao thông, khoa học kỹ thuật, xã hội và văn hóa.",
+          "en": "Wang Jing: I don't remember the author's name. The New One Hundred Thousand Whys has more up-to-date content, covering all kinds of scientific knowledge: the Earth, animals, plants, transport, science and technology, society, culture and more."
+        },
+        {
+          "zh": "孙月：太好了！不过她这么小，我不知道她是否能读懂。",
+          "vi": "Tôn Nguyệt: Tốt quá! Nhưng nó còn nhỏ thế, tớ không biết nó có đọc hiểu được không.",
+          "en": "Sun Yue: Great! But she's so young; I don't know whether she'll understand it."
+        },
+        {
+          "zh": "王静：放心吧，这本书的语言简单易懂，一定能增长孩子的科学知识。",
+          "vi": "Vương Tịnh: Yên tâm đi, ngôn ngữ của cuốn sách này đơn giản dễ hiểu, nhất định sẽ giúp tăng thêm kiến thức khoa học cho trẻ.",
+          "en": "Wang Jing: Don't worry, the language in this book is simple and easy to understand. It'll definitely increase children's scientific knowledge."
+        }
+      ],
+      "words": [
+        {
+          "zh": "降落",
+          "py": "jiàngluò",
+          "pos": "đgt.",
+          "vi": "đáp xuống, hạ cánh",
+          "en": "to land"
+        },
+        {
+          "zh": "火",
+          "py": "huǒ",
+          "pos": "tt.",
+          "vi": "chạy, đắt, được nhiều người ưa chuộng",
+          "en": "popular, hot"
+        },
+        {
+          "zh": "作者",
+          "py": "zuòzhě",
+          "pos": "dt.",
+          "vi": "tác giả",
+          "en": "author"
+        },
+        {
+          "zh": "交通",
+          "py": "jiāotōng",
+          "pos": "dt.",
+          "vi": "giao thông, thông tin liên lạc",
+          "en": "transport, traffic"
+        },
+        {
+          "zh": "技术",
+          "py": "jìshù",
+          "pos": "dt.",
+          "vi": "kỹ thuật, công nghệ",
+          "en": "technology"
+        },
+        {
+          "zh": "是否",
+          "py": "shìfǒu",
+          "pos": "phó.",
+          "vi": "hay không",
+          "en": "whether or not"
+        }
+      ]
+    },
+    {
+      "title": "李老师和高老师在聊电脑和互联网技术的发展",
+      "paras": [
+        {
+          "zh": "李老师：现在的大学生一遇到不明白的问题，可以马上在网上查找答案，几秒钟就把问题解决了，这比我们上学的时候方便多了。",
+          "vi": "Thầy Lý: Sinh viên bây giờ cứ gặp vấn đề không hiểu là có thể lên mạng tìm đáp án ngay, mấy giây là giải quyết xong, tiện hơn hồi chúng ta đi học nhiều.",
+          "en": "Mr. Li: Nowadays when university students come across something they don't understand, they can look up the answer online immediately and solve it in seconds. It's much more convenient than when we were at school."
+        },
+        {
+          "zh": "高老师：现在的人们，尤其是大学生开始普遍使用电脑，他们的生活已经离不开电脑。据调查，70%的人遇到问题时，首先想到的就是上网找答案。",
+          "vi": "Cô Cao: Con người bây giờ, nhất là sinh viên, bắt đầu sử dụng máy tính phổ biến, cuộc sống của họ đã không thể rời xa máy tính. Theo khảo sát, 70% người khi gặp vấn đề, điều đầu tiên nghĩ đến là lên mạng tìm đáp án.",
+          "en": "Ms. Gao: People today, especially university students, use computers widely, and their lives already depend on them. According to a survey, 70% of people think first of looking online for answers when they have a problem."
+        },
+        {
+          "zh": "李老师：电脑和互联网技术的发展使学生们的学习方式发生了很多变化，不过天天对着{zhe}电脑看，眼睛实在受不了。",
+          "vi": "Thầy Lý: Sự phát triển của máy tính và công nghệ Internet khiến phương thức học tập của sinh viên thay đổi rất nhiều, nhưng ngày nào cũng nhìn máy tính thì mắt thật sự chịu không nổi.",
+          "en": "Mr. Li: The development of computers and internet technology has changed how students learn a lot, but staring at a computer every day is really too much for your eyes."
+        },
+        {
+          "zh": "高老师：不仅是学习方式，而且连生活方式也发生了很大改变。现在越来越多的学生喜欢在网上写日记，他们说这样可以让朋友及时了解自己的生活。",
+          "vi": "Cô Cao: Không chỉ phương thức học tập mà ngay cả lối sống cũng thay đổi rất nhiều. Bây giờ ngày càng nhiều sinh viên thích viết nhật ký trên mạng, họ nói như vậy có thể giúp bạn bè kịp thời biết về cuộc sống của mình.",
+          "en": "Ms. Gao: Not only how they learn, but even how they live has changed a lot. More and more students like to keep diaries online; they say it lets their friends keep up with their lives."
+        },
+        {
+          "zh": "李老师：这个办法不错，既能方便大家的交流，还能节约用纸，保护环境。但是如果别人都能看到我的日记的话，多不安全啊！",
+          "vi": "Thầy Lý: Cách này hay đấy, vừa tiện cho mọi người giao lưu, lại tiết kiệm giấy, bảo vệ môi trường. Nhưng nếu ai cũng đọc được nhật ký của tôi thì không an toàn biết bao!",
+          "en": "Mr. Li: That's a good idea: it makes communication easier and saves paper, which protects the environment. But if everyone could read my diary, how unsafe would that be!"
+        },
+        {
+          "zh": "高老师：放心吧，可以给网上的日记加密码，那样只有得到了允许，别人才能看到。",
+          "vi": "Cô Cao: Yên tâm đi, có thể đặt mật khẩu cho nhật ký trên mạng, như vậy chỉ khi được cho phép người khác mới đọc được.",
+          "en": "Ms. Gao: Don't worry, you can put a password on an online diary, so others can only read it with permission."
+        }
+      ],
+      "words": [
+        {
+          "zh": "秒",
+          "py": "miǎo",
+          "pos": "lượng.",
+          "vi": "giây",
+          "en": "second"
+        },
+        {
+          "zh": "方式",
+          "py": "fāngshì",
+          "pos": "dt.",
+          "vi": "phương thức, cách thức",
+          "en": "way, mode",
+          "x": true
+        },
+        {
+          "zh": "受不了",
+          "py": "shòubuliǎo",
+          "vi": "chịu không nổi, chịu không được",
+          "en": "can't stand"
+        },
+        {
+          "zh": "日记",
+          "py": "rìjì",
+          "pos": "dt.",
+          "vi": "nhật ký",
+          "en": "diary"
+        },
+        {
+          "zh": "安全",
+          "py": "ānquán",
+          "pos": "tt.",
+          "vi": "an toàn",
+          "en": "safe"
+        },
+        {
+          "zh": "密码",
+          "py": "mìmǎ",
+          "pos": "dt.",
+          "vi": "mật mã",
+          "en": "password"
+        },
+        {
+          "zh": "允许",
+          "py": "yǔnxǔ",
+          "pos": "đgt.",
+          "vi": "cho phép",
+          "en": "to allow"
+        }
+      ]
+    },
+    {
+      "title": "王静和孙月在聊关于梦的情况",
+      "paras": [
+        {
+          "zh": "王静：我昨天晚上做了一个特别奇怪的梦，梦到自己正在一座桥上走，走着{zhe}走着{zhe}，突然开过来一辆车，非常危险，接着又梦见我跳到车上，跟警察一起抓住了一个坏人。",
+          "vi": "Vương Tịnh: Tối qua tớ mơ một giấc mơ rất kỳ lạ, mơ thấy mình đang đi trên một cây cầu, đi mãi đi mãi, đột nhiên có một chiếc xe lao tới, rất nguy hiểm, ngay sau đó lại mơ thấy mình nhảy lên xe, cùng cảnh sát bắt được một kẻ xấu.",
+          "en": "Wang Jing: Last night I had a really strange dream. I was walking across a bridge when suddenly a car came speeding towards me. It was very dangerous. Then I dreamed I jumped onto the car and caught a bad guy together with the police."
+        },
+        {
+          "zh": "孙月：奇怪，你怎么总能记住自己做了什么梦？我好像从来没做过梦。",
+          "vi": "Tôn Nguyệt: Lạ thật, sao cậu luôn nhớ được mình mơ thấy gì nhỉ? Tớ hình như chưa bao giờ nằm mơ.",
+          "en": "Sun Yue: Strange. How can you always remember your dreams? I don't think I've ever dreamed."
+        },
+        {
+          "zh": "王静：每个人都会做梦，区别只是有多有少。有的人睡醒之后还记得梦里的事情，有的人却记不清楚了。你之所以觉得从来没做过梦，只不过是忘记了。",
+          "vi": "Vương Tịnh: Ai cũng nằm mơ, chỉ khác là nhiều hay ít. Có người ngủ dậy vẫn nhớ chuyện trong mơ, có người lại không nhớ rõ. Sở dĩ cậu thấy mình chưa bao giờ nằm mơ, chẳng qua là quên mất thôi.",
+          "en": "Wang Jing: Everyone dreams; the only difference is how much. Some people remember their dreams after waking up, and others don't. The reason you think you've never dreamed is just that you've forgotten."
+        },
+        {
+          "zh": "孙月：你说的有道理，我一般都是一觉{jiào}睡到天亮。很多人认为做梦是上天要告诉他们将来会发生的一些事情，可能上天不想让我知道吧。",
+          "vi": "Tôn Nguyệt: Cậu nói có lý, tớ thường ngủ một mạch đến sáng. Nhiều người cho rằng nằm mơ là trời muốn báo cho họ biết một số chuyện sẽ xảy ra trong tương lai, chắc là trời không muốn cho tớ biết.",
+          "en": "Sun Yue: You have a point. I usually sleep right through until morning. Many people think dreams are heaven telling them what will happen in the future. Maybe heaven doesn't want me to know."
+        },
+        {
+          "zh": "王静：一般晚上睡觉时，身体感觉到什么，人就容易梦到什么内容。记得有一次，我晚饭吃得太咸，那天晚上就梦见自己到处找商店买矿泉水。",
+          "vi": "Vương Tịnh: Thường thì ban đêm lúc ngủ, cơ thể cảm thấy gì thì người ta dễ mơ thấy nội dung đó. Nhớ có lần tớ ăn tối mặn quá, tối hôm đó liền mơ thấy mình đi khắp nơi tìm cửa hàng mua nước khoáng.",
+          "en": "Wang Jing: Usually whatever your body feels when you're asleep at night is what you tend to dream about. I remember once I ate too salty at dinner, and that night I dreamed I was going everywhere looking for a shop to buy mineral water."
+        },
+        {
+          "zh": "孙月：很多人都试着对梦进行解释，有些人甚至专门写过这方面的书，可惜到现在仍然没有一个科学的说法。",
+          "vi": "Tôn Nguyệt: Nhiều người đã thử giải thích giấc mơ, có người thậm chí còn chuyên viết sách về chủ đề này, tiếc là đến nay vẫn chưa có một cách giải thích khoa học.",
+          "en": "Sun Yue: Many people have tried to explain dreams, and some have even written books on the subject, but unfortunately there's still no scientific explanation."
+        }
+      ],
+      "words": [
+        {
+          "zh": "座",
+          "py": "zuò",
+          "pos": "lượng.",
+          "vi": "(dùng cho cây cầu, núi, cao ốc...) tòa, hòn, cây",
+          "en": "measure word for bridges, mountains, buildings"
+        },
+        {
+          "zh": "桥",
+          "py": "qiáo",
+          "pos": "dt.",
+          "vi": "cầu",
+          "en": "bridge"
+        },
+        {
+          "zh": "危险",
+          "py": "wēixiǎn",
+          "pos": "tt.",
+          "vi": "nguy hiểm",
+          "en": "dangerous"
+        },
+        {
+          "zh": "接着",
+          "py": "jiēzhe",
+          "pos": "phó.",
+          "vi": "ngay sau đó",
+          "en": "then, next"
+        },
+        {
+          "zh": "警察",
+          "py": "jǐngchá",
+          "pos": "dt.",
+          "vi": "cảnh sát",
+          "en": "police"
+        },
+        {
+          "zh": "抓",
+          "py": "zhuā",
+          "pos": "đgt.",
+          "vi": "bắt, túm",
+          "en": "to catch, to grab",
+          "x": true
+        },
+        {
+          "zh": "咸",
+          "py": "xián",
+          "pos": "tt.",
+          "vi": "mặn",
+          "en": "salty"
+        },
+        {
+          "zh": "矿泉水",
+          "py": "kuàngquánshuǐ",
+          "pos": "dt.",
+          "vi": "nước suối",
+          "en": "mineral water"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "现在手机不但价格降低了，而且作用也越来越大，打电话、发短信已经成了人们普遍使用的联系方法。除此以外，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方便了人们的生活。举一个例子，迷路时，只要用手机地图查一下地址，马上就能知道怎么去那个地点。现在的手机更像是一部可以拿在手中的电脑，现代人的生活已经越来越离不开手机了。",
+          "vi": "Bây giờ điện thoại di động không những giá giảm mà tác dụng ngày càng lớn, gọi điện, nhắn tin đã trở thành cách liên lạc phổ biến của mọi người. Ngoài ra, bạn còn có thể dùng nó để nghe nhạc, xem phim, đọc sách, chơi game, thanh toán mua sắm…, điều này giúp cuộc sống của con người tiện lợi hơn rất nhiều. Lấy một ví dụ, khi lạc đường, chỉ cần dùng bản đồ trên điện thoại tra địa chỉ là biết ngay cách đến nơi đó. Điện thoại bây giờ càng giống một chiếc máy tính có thể cầm trong tay, cuộc sống của người hiện đại ngày càng không thể rời xa điện thoại.",
+          "en": "Mobile phones are not only cheaper now but also more and more useful: calling and texting have become the most common ways people keep in touch. Besides that, you can use them to listen to music, watch films, read, play games, pay and shop, which makes life much more convenient. For example, when you're lost, just look up the address on a phone map and you'll immediately know how to get there. Today's phones are more like computers you can hold in your hand, and modern people's lives depend on them more and more."
+        }
+      ],
+      "words": [
+        {
+          "zh": "付款",
+          "py": "fù kuǎn",
+          "vi": "trả tiền",
+          "en": "to pay"
+        },
+        {
+          "zh": "举",
+          "py": "jǔ",
+          "pos": "đgt.",
+          "vi": "nêu, đưa ra",
+          "en": "to give (an example)"
+        },
+        {
+          "zh": "迷路",
+          "py": "mí lù",
+          "pos": "đgt.",
+          "vi": "lạc đường",
+          "en": "to get lost"
+        },
+        {
+          "zh": "地址",
+          "py": "dìzhǐ",
+          "pos": "dt.",
+          "vi": "địa chỉ",
+          "en": "address"
+        },
+        {
+          "zh": "地点",
+          "py": "dìdiǎn",
+          "pos": "dt.",
+          "vi": "địa điểm, nơi",
+          "en": "place, location"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "21世纪，我们的生活发生了巨大变化。几千公里以外的国家，以前坐船需要几个月，现在乘坐飞机不过十几个小时。原来寄信需要好几天，现在连邮局都不用去，只要在家里上网发个电子邮件，用不了一分钟，远处的朋友就能收到，比写信封用的时间都短。以前外地的新闻要几天后才能知道，现在只要打开网站，任何信息都可以在第一时间获得。现代科学技术的发展让世界变得越来越小，所以现在人们都把地球叫作“地球村”。",
+          "vi": "Thế kỷ 21, cuộc sống của chúng ta đã thay đổi to lớn. Những đất nước cách xa mấy nghìn kilômét, trước đây đi tàu thủy mất mấy tháng, bây giờ đi máy bay chỉ mười mấy tiếng. Trước đây gửi thư mất mấy ngày, bây giờ đến bưu điện cũng không cần đi, chỉ cần ở nhà lên mạng gửi email, chưa đến một phút bạn bè ở xa đã nhận được, còn nhanh hơn thời gian viết phong bì. Trước đây tin tức ở nơi khác phải mấy ngày sau mới biết, bây giờ chỉ cần mở trang web là có thể nhận được mọi thông tin ngay lập tức. Sự phát triển của khoa học kỹ thuật hiện đại khiến thế giới ngày càng nhỏ lại, vì vậy bây giờ người ta gọi trái đất là “ngôi làng toàn cầu”.",
+          "en": "In the 21st century our lives have changed enormously. Countries thousands of kilometres away used to take months to reach by ship; now it's only a dozen or so hours by plane. Sending a letter used to take several days; now you don't even need to go to the post office: just send an email from home, and in less than a minute a friend far away receives it, faster than writing an envelope. News from elsewhere used to take days to arrive; now just open a website and you can get any information straight away. The development of modern science and technology is making the world smaller and smaller, so people now call the Earth a “global village”."
+        }
+      ],
+      "words": [
+        {
+          "zh": "世纪",
+          "py": "shìjì",
+          "pos": "dt.",
+          "vi": "thế kỷ",
+          "en": "century"
+        },
+        {
+          "zh": "邮局",
+          "py": "yóujú",
+          "pos": "dt.",
+          "vi": "bưu điện",
+          "en": "post office"
+        },
+        {
+          "zh": "收",
+          "py": "shōu",
+          "pos": "đgt.",
+          "vi": "nhận",
+          "en": "to receive"
+        },
+        {
+          "zh": "信封",
+          "py": "xìnfēng",
+          "pos": "dt.",
+          "vi": "phong thư, bì thư",
+          "en": "envelope"
+        },
+        {
+          "zh": "网站",
+          "py": "wǎngzhàn",
+          "pos": "dt.",
+          "vi": "trang web",
+          "en": "website"
+        },
+        {
+          "zh": "信息",
+          "py": "xìnxī",
+          "pos": "dt.",
+          "vi": "tin tức, thông tin",
+          "en": "information"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "王静给孙月推荐了一本什么书？为什么给她推荐这本书？",
+        "label": "课文1",
+        "a": "她推荐了【《新十万个为什么》】。因为【孙月的女儿总是有各种各样的“为什么”，书里的内容都是儿童想知道的科学知识】。",
+        "vi": "Cô ấy giới thiệu cuốn “Mười vạn câu hỏi vì sao mới”. Vì con gái Tôn Nguyệt lúc nào cũng có đủ thứ “tại sao”, nội dung sách đều là kiến thức khoa học mà trẻ em muốn biết.",
+        "en": "She recommended The New One Hundred Thousand Whys, because Sun Yue's daughter is always asking “why”, and the book is full of scientific knowledge children want to know."
+      },
+      {
+        "q": "这本书都有哪些内容？孙月担心什么？王静觉得这本书怎么样？",
+        "label": "课文1",
+        "a": "内容包括【地球、动物、植物、交通、科学技术、社会和文化等很多方面】。孙月担心【女儿太小，不知道她是否能读懂】。王静觉得这本书【语言简单易懂，一定能增长孩子的科学知识】。",
+        "vi": "Nội dung gồm nhiều mặt như trái đất, động vật, thực vật, giao thông, khoa học kỹ thuật, xã hội và văn hóa. Tôn Nguyệt lo con còn nhỏ, không biết có đọc hiểu được không. Vương Tịnh thấy sách ngôn ngữ đơn giản dễ hiểu, nhất định tăng kiến thức khoa học cho trẻ.",
+        "en": "It covers the Earth, animals, plants, transport, science and technology, society, culture and more. Sun Yue worries her daughter is too young to understand it. Wang Jing thinks the language is simple and it will definitely increase children's scientific knowledge."
+      },
+      {
+        "q": "现在的大学生遇到不明白的问题怎么办？调查结果是什么？",
+        "label": "课文2",
+        "a": "他们【马上在网上查找答案】。据调查，【70%的人遇到问题时，首先想到的就是上网找答案】。",
+        "vi": "Họ lên mạng tìm đáp án ngay. Theo khảo sát, 70% người khi gặp vấn đề, điều đầu tiên nghĩ đến là lên mạng tìm đáp án.",
+        "en": "They look up the answer online straight away. According to a survey, 70% of people think first of going online when they have a problem."
+      },
+      {
+        "q": "电脑和互联网技术的发展带来了哪些变化？网上写日记有哪些好处？",
+        "label": "课文2",
+        "a": "【学习方式和生活方式都发生了很大改变】。网上写日记【既能方便大家的交流，还能节约用纸，保护环境】。",
+        "vi": "Cả phương thức học tập lẫn lối sống đều thay đổi lớn. Viết nhật ký trên mạng vừa tiện cho giao lưu, vừa tiết kiệm giấy, bảo vệ môi trường.",
+        "en": "Both how people learn and how they live have changed greatly. Online diaries make communication easier and save paper, protecting the environment."
+      },
+      {
+        "q": "王静昨天晚上做了个什么样的梦？会有人从来没做过梦吗？",
+        "label": "课文3",
+        "a": "她梦到【自己在一座桥上走，突然开过来一辆车，接着又梦见她跳到车上，跟警察一起抓住了一个坏人】。【不会】，每个人都会做梦，只是有的人忘记了。",
+        "vi": "Cô ấy mơ thấy mình đi trên một cây cầu, đột nhiên có xe lao tới, ngay sau đó mơ thấy mình nhảy lên xe, cùng cảnh sát bắt được kẻ xấu. Không có, ai cũng nằm mơ, chỉ là có người quên mất.",
+        "en": "She dreamed she was walking across a bridge when a car suddenly came at her, then she jumped onto it and caught a bad guy with the police. No, everyone dreams; some people just forget."
+      },
+      {
+        "q": "人们对梦进行过哪些解释？目前的研究结果是什么？",
+        "label": "课文3",
+        "a": "很多人认为【做梦是上天要告诉他们将来会发生的一些事情】；也有人认为【身体感觉到什么，人就容易梦到什么】。可惜【到现在仍然没有一个科学的说法】。",
+        "vi": "Nhiều người cho rằng nằm mơ là trời muốn báo cho họ biết chuyện sẽ xảy ra trong tương lai; cũng có người cho rằng cơ thể cảm thấy gì thì dễ mơ thấy cái đó. Tiếc là đến nay vẫn chưa có cách giải thích khoa học.",
+        "en": "Many think dreams are heaven telling them about the future; others think you dream about what your body feels. Unfortunately there's still no scientific explanation."
+      },
+      {
+        "q": "手机都有哪些作用？迷路时怎么用手机帮忙？",
+        "label": "课文4",
+        "a": "手机可以【打电话、发短信、听音乐、看电影、阅读、玩儿游戏、付款购物等】。迷路时，【只要用手机地图查一下地址，马上就能知道怎么去那个地点】。",
+        "vi": "Điện thoại có thể gọi điện, nhắn tin, nghe nhạc, xem phim, đọc sách, chơi game, thanh toán mua sắm… Khi lạc đường, chỉ cần dùng bản đồ điện thoại tra địa chỉ là biết ngay cách đến nơi đó.",
+        "en": "Phones can be used to call, text, listen to music, watch films, read, play games, pay and shop. When you're lost, just look up the address on a phone map to find the way."
+      },
+      {
+        "q": "为什么说现代人的生活越来越离不开手机了？",
+        "label": "课文4",
+        "a": "因为【现在的手机作用越来越大，更像是一部可以拿在手中的电脑，大大方便了人们的生活】。",
+        "vi": "Vì điện thoại bây giờ tác dụng ngày càng lớn, giống như một chiếc máy tính cầm trong tay, giúp cuộc sống tiện lợi hơn rất nhiều.",
+        "en": "Because phones are more and more useful, like computers in your hand, and make life much more convenient."
+      },
+      {
+        "q": "我们的生活发生了哪些变化？请举例说明。",
+        "label": "课文5",
+        "a": "比如，【以前坐船去几千公里以外的国家需要几个月，现在乘坐飞机不过十几个小时；以前寄信需要好几天，现在发电子邮件用不了一分钟】。",
+        "vi": "Ví dụ, trước đây đi tàu thủy đến nước cách mấy nghìn kilômét mất mấy tháng, bây giờ đi máy bay chỉ mười mấy tiếng; trước đây gửi thư mất mấy ngày, bây giờ gửi email chưa đến một phút.",
+        "en": "For example, reaching a country thousands of kilometres away used to take months by ship but now takes a dozen hours by plane; a letter used to take days, but an email takes less than a minute."
+      },
+      {
+        "q": "为什么人们把地球叫作“地球村”？",
+        "label": "课文5",
+        "a": "因为【现代科学技术的发展让世界变得越来越小】。",
+        "vi": "Vì sự phát triển của khoa học kỹ thuật hiện đại khiến thế giới ngày càng nhỏ lại.",
+        "en": "Because modern science and technology are making the world smaller and smaller."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "是否",
+      "uses": [
+        {
+          "vi": "Phó từ 是否 có nghĩa là hay không, có… không, thường được dùng trong văn viết.",
+          "en": "The adverb 是否 means 'whether (or not)'. It is mostly written.",
+          "ex": [
+            {
+              "zh": "不过她这么小，这本书我不知道她【是否】能读懂。",
+              "vi": "Có điều cô bé còn nhỏ thế này, tôi không biết cô bé có đọc hiểu được cuốn sách này không.",
+              "en": "But she's so young, I don't know whether she can understand this book."
+            },
+            {
+              "zh": "有人认为有“夫妻相{xiàng}”的夫妻家庭生活幸福，实际上，婚姻【是否】幸福跟这个没有关系。",
+              "vi": "Có người cho rằng những cặp vợ chồng có “tướng phu thê” thì cuộc sống gia đình hạnh phúc, thực ra hôn nhân có hạnh phúc hay không chẳng liên quan gì đến điều này.",
+              "en": "Some people think couples who look alike have happy family lives, but in fact whether a marriage is happy has nothing to do with that."
+            },
+            {
+              "zh": "现在，如果要问人们选择职业时主要考虑的是什么，不少人会以收入多少作为标准。当然，也有人主要看自己【是否】喜欢这份工作。",
+              "vi": "Hiện nay, nếu hỏi mọi người khi chọn nghề chủ yếu cân nhắc điều gì, không ít người sẽ lấy thu nhập nhiều hay ít làm tiêu chuẩn. Đương nhiên, cũng có người chủ yếu xem mình có thích công việc đó hay không.",
+              "en": "Nowadays, if you ask people what they mainly consider when choosing a career, many will use income as the yardstick. Of course, some people mainly look at whether they like the job."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "A：麻烦你帮我改签到后天的同一航班。\nB：您稍等，我查一下____。",
+            "hint": "是否",
+            "a": "A：麻烦你帮我改签到后天的同一航班。\nB：您稍等，我查一下【后天的航班是否还有座位】。",
+            "vi": "A: Phiền chị đổi vé giúp tôi sang cùng chuyến bay ngày kia.\nB: Anh đợi một chút, tôi tra xem chuyến bay ngày kia còn chỗ hay không.",
+            "en": "A: Could you change my ticket to the same flight the day after tomorrow?\nB: One moment, I'll check whether there are still seats on that flight.",
+            "sample": true
+          },
+          {
+            "q": "当我们听到批评时，应该冷静地{de}想想他们提出的意见或者建议____。",
+            "hint": "是否",
+            "a": "当我们听到批评时，应该冷静地{de}想想他们提出的意见或者建议【是否正确】。",
+            "vi": "Khi nghe lời phê bình, chúng ta nên bình tĩnh suy nghĩ xem ý kiến hoặc đề xuất họ đưa ra có đúng hay không.",
+            "en": "When we're criticized, we should think calmly about whether the opinions or suggestions are correct.",
+            "sample": true
+          },
+          {
+            "q": "一个人____，对于他离成功的远近有着{zhe}重要的影响。",
+            "hint": "是否",
+            "a": "一个人【是否有积极的态度】，对于他离成功的远近有着{zhe}重要的影响。",
+            "vi": "Một người có thái độ tích cực hay không có ảnh hưởng quan trọng đến việc người đó gần hay xa thành công.",
+            "en": "Whether or not a person has a positive attitude has an important effect on how close they are to success.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "受不了",
+      "py": "shòubuliǎo",
+      "uses": [
+        {
+          "vi": "受不了 có nghĩa là chịu không nổi (sự đau đớn, nỗi đau khổ, áp lực, điều bất hạnh, thái độ, tính khí...), thường được dùng trước danh từ hay cụm danh từ.",
+          "en": "受不了 means 'can't stand, can't bear' (pain, suffering, pressure, misfortune, someone's attitude or temper…). It is usually used before a noun or noun phrase.",
+          "ex": [
+            {
+              "zh": "A：我们再去对面的商店看看吧。\nB：我真的【受不了】你了，你到底还要逛多久？",
+              "vi": "A: Mình qua cửa hàng đối diện xem thêm đi.\nB: Mình thật sự chịu hết nổi bạn rồi, rốt cuộc bạn còn định dạo bao lâu nữa?",
+              "en": "A: Let's go and have a look in the shop opposite.\nB: I really can't stand it anymore. How much longer are you going to shop?"
+            },
+            {
+              "zh": "不过天天对着电脑看，眼睛实在【受不了】。",
+              "vi": "Có điều ngày nào cũng nhìn chằm chằm vào máy tính, mắt thật sự chịu không nổi.",
+              "en": "But staring at a computer every day is really too much for my eyes."
+            },
+            {
+              "zh": "A：真【受不了】这样的老师！一个简单的动作让我们练二三十遍。\nB：他对你们严格些好，这样可以让你们打好基础。",
+              "vi": "A: Thật không chịu nổi thầy giáo kiểu này! Một động tác đơn giản mà bắt chúng tôi tập hai ba chục lần.\nB: Thầy nghiêm khắc với các em một chút là tốt, như vậy các em mới xây được nền tảng vững.",
+              "en": "A: I can't stand a teacher like this! He makes us practise one simple move twenty or thirty times.\nB: It's good that he's strict with you. It helps you build a solid foundation."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话",
+        "items": [
+          {
+            "q": "A：____，你桌子上太乱了，找时间好好儿整理一下。\nB：好的，我现在就收拾，一定弄得整整齐齐。",
+            "hint": "受不了",
+            "a": "A：【我真受不了你】，你桌子上太乱了，找时间好好儿整理一下。\nB：好的，我现在就收拾，一定弄得整整齐齐。",
+            "vi": "A: Tôi thật chịu không nổi bạn, bàn của bạn bừa bộn quá, tìm lúc dọn dẹp cho đàng hoàng đi.\nB: Được, tôi dọn ngay bây giờ, nhất định làm cho gọn gàng ngăn nắp.",
+            "en": "A: I can't stand it. Your desk is such a mess. Find time to tidy it properly.\nB: OK, I'll tidy it now and make it really neat.",
+            "sample": true
+          },
+          {
+            "q": "A：开一下窗户吧，____。\nB：是你穿得太多了，把外面那件衣服脱了吧。",
+            "hint": "受不了",
+            "a": "A：开一下窗户吧，【热得我受不了了】。\nB：是你穿得太多了，把外面那件衣服脱了吧。",
+            "vi": "A: Mở cửa sổ ra đi, nóng quá tôi chịu không nổi.\nB: Là do bạn mặc nhiều quá, cởi cái áo ngoài ra đi.",
+            "en": "A: Open the window. I can't stand the heat.\nB: You're wearing too much. Take off your outer layer.",
+            "sample": true
+          },
+          {
+            "q": "A：你怎么又想换工作了？这儿的收入不是挺高的吗？\nB：可是____。",
+            "hint": "受不了",
+            "a": "A：你怎么又想换工作了？这儿的收入不是挺高的吗？\nB：可是【天天加班，我实在受不了了】。",
+            "vi": "A: Sao bạn lại muốn đổi việc? Thu nhập ở đây chẳng phải khá cao sao?\nB: Nhưng ngày nào cũng tăng ca, tôi thật sự chịu không nổi nữa.",
+            "en": "A: Why do you want to change jobs again? Isn't the pay here pretty good?\nB: Yes, but I work overtime every day. I really can't take it any more.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "接着",
+      "uses": [
+        {
+          "vi": "Phó từ 接着 có nghĩa là ngay sau đó (về thời gian), chỉ tình huống khác xảy ra ngay sau tình huống được đề cập trước đó (tiếp theo, tiếp tục).",
+          "en": "The adverb 接着 means 'right after, next, then (continue)': another situation follows immediately after the one mentioned.",
+          "ex": [
+            {
+              "zh": "这本书的内容非常有趣，你看完以后先不要还，我【接着】看。",
+              "vi": "Nội dung cuốn sách này rất thú vị, bạn đọc xong đừng trả vội, để tôi đọc tiếp.",
+              "en": "This book is really interesting. When you've finished it, don't return it yet; I'll read it next."
+            },
+            {
+              "zh": "我昨天晚上做了一个特别奇怪的梦，梦到自己正在一座桥上走，走着走着，突然开过来一辆车，非常危险，【接着】又梦见我跳到车上，跟警察一起抓住了一个坏人。",
+              "vi": "Tối qua tôi mơ một giấc mơ rất kỳ lạ, mơ thấy mình đang đi trên một cây cầu, đi một lúc thì đột nhiên có một chiếc xe lao tới, rất nguy hiểm, sau đó lại mơ thấy mình nhảy lên xe, cùng cảnh sát bắt được một kẻ xấu.",
+              "en": "Last night I had a really strange dream. I dreamt I was walking across a bridge when suddenly a car came at me, very dangerous, and then I dreamt I jumped onto the car and caught a criminal together with the police."
+            },
+            {
+              "zh": "妻子问：“老公，怎么不见你和老王打网球了呢？”丈夫说：“你愿意和一个赢了就得{dé}意，输了就不高兴的人打球吗？”“当然不愿意。我明白了，”妻子【接着】说，“老王也不愿意跟这样的人打。”",
+              "vi": "Vợ hỏi: “Anh ơi, sao không thấy anh chơi quần vợt với lão Vương nữa?” Chồng nói: “Em có muốn chơi với một người thắng thì vênh váo, thua thì cau có không?” “Đương nhiên là không. Em hiểu rồi,” vợ nói tiếp, “lão Vương cũng không muốn chơi với người như thế.”",
+              "en": "The wife asked, “Darling, why don't you play tennis with Lao Wang anymore?” The husband said, “Would you want to play with someone who gloats when he wins and sulks when he loses?” “Of course not. I see,” the wife went on, “Lao Wang doesn't want to play with someone like that either.”"
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "接着—然后",
+        "uses": [
+          {
+            "vi": "Giống nhau: 接着 và 然后 đều chỉ tình huống khác xảy ra ngay sau tình huống được đề cập trước đó.",
+            "en": "Similarity: 接着 and 然后 both mean another situation follows the one just mentioned.",
+            "ex": [
+              {
+                "zh": "他毕业后在老家工作了一年，【接着】/【然后】又考上了北京大学，读研究生。",
+                "vi": "Sau khi tốt nghiệp, anh ấy làm việc ở quê một năm, sau đó lại thi đỗ Đại học Bắc Kinh, học cao học.",
+                "en": "After graduating he worked in his hometown for a year, then got into Peking University as a graduate student."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: Trong trường hợp trên, 接着 là phó từ nhấn mạnh sự nối tiếp ngay lập tức về mặt thời gian; còn 然后 là liên từ, thường được dùng trong cấu trúc “先……然后(再)……”.",
+            "en": "Difference 1: 接着 is an adverb stressing that one thing follows immediately in time; 然后 is a conjunction, often used in 先……然后(再)…… ('first … then …').",
+            "ex": [
+              {
+                "zh": "大学毕业后，他【接着】又考上了研究生。",
+                "vi": "Tốt nghiệp đại học xong, anh ấy liền thi đỗ cao học.",
+                "en": "After college he went straight on to get into graduate school."
+              },
+              {
+                "zh": "咱们先去吃晚饭，【然后】看电影，好不好？",
+                "vi": "Chúng mình đi ăn tối trước, sau đó xem phim, được không?",
+                "en": "Let's have dinner first and then see a film, OK?"
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: Chủ ngữ của 接着 có thể giống hoặc không giống chủ ngữ trong tình huống được đề cập trước đó. Chủ ngữ của 然后 thường giống chủ ngữ trong tình huống được đề cập trước đó.",
+            "en": "Difference 2: the subject of 接着 may or may not be the same as in the previous situation; with 然后 the subject is usually the same.",
+            "ex": [
+              {
+                "zh": "他已经学了一年汉语了，明年还要【接着】学。",
+                "vi": "Anh ấy đã học tiếng Trung một năm rồi, sang năm còn học tiếp.",
+                "en": "He's already studied Chinese for a year and will carry on next year."
+              },
+              {
+                "zh": "这本书你看完了我【接着】看吧。",
+                "vi": "Cuốn sách này bạn đọc xong thì để tôi đọc tiếp nhé.",
+                "en": "When you've finished this book, I'll read it next."
+              },
+              {
+                "zh": "遇到不认识的词语，我会马上查词典，【然后】写在本子上。",
+                "vi": "Gặp từ không biết, tôi sẽ tra từ điển ngay, sau đó ghi vào sổ.",
+                "en": "When I come across a word I don't know, I look it up straight away and then write it in my notebook."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "妹妹刚参加工作一年就买了房子，____就结了婚，今年又生了一个小男孩儿，生活得很幸福。",
+              "key": "接着 ✓ · 然后 ✓",
+              "a": "妹妹刚参加工作一年就买了房子，【接着】/【然后】就结了婚，今年又生了一个小男孩儿，生活得很幸福。",
+              "vi": "Em gái mới đi làm được một năm đã mua nhà, sau đó kết hôn, năm nay lại sinh một bé trai, sống rất hạnh phúc.",
+              "en": "My sister bought a flat after only a year at work, then got married, and this year she had a baby boy. She's very happy."
+            },
+            {
+              "q": "我说完了，你____说吧。",
+              "key": "接着 ✓ · 然后 ✗ (chủ ngữ khác)",
+              "a": "我说完了，你【接着】说吧。",
+              "vi": "Tôi nói xong rồi, bạn nói tiếp đi.",
+              "en": "I've finished. You carry on."
+            },
+            {
+              "q": "你先上网看看吧，多比较比较，____再做决定。",
+              "key": "接着 ✗ · 然后 ✓ (先……然后再……)",
+              "a": "你先上网看看吧，多比较比较，【然后】再做决定。",
+              "vi": "Bạn lên mạng xem trước đi, so sánh nhiều rồi hãy quyết định.",
+              "en": "Have a look online first, compare a few, and then decide."
+            },
+            {
+              "q": "进了商店，妻子先买了一件衬衫，____又买了一条裤子。",
+              "key": "接着 ✓ · 然后 ✓",
+              "a": "进了商店，妻子先买了一件衬衫，【接着】/【然后】又买了一条裤子。",
+              "vi": "Vào cửa hàng, vợ tôi mua một chiếc áo sơ mi trước, sau đó mua thêm một chiếc quần.",
+              "en": "When we went into the shop, my wife first bought a shirt and then a pair of trousers."
+            },
+            {
+              "q": "今天的课就到这儿，下节课____讲这个问题。",
+              "key": "接着 ✓ · 然后 ✗",
+              "a": "今天的课就到这儿，下节课【接着】讲这个问题。",
+              "vi": "Buổi học hôm nay đến đây thôi, tiết sau giảng tiếp vấn đề này.",
+              "en": "That's all for today. We'll carry on with this topic next lesson."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成对话或句子",
+        "items": [
+          {
+            "q": "A：我刚才去打网球了，热死我了，快给我拿条毛巾吧。\nB：____。",
+            "hint": "接着",
+            "a": "A：我刚才去打网球了，热死我了，快给我拿条毛巾吧。\nB：【给你毛巾，接着把这杯水喝了吧】。",
+            "vi": "A: Tôi vừa đi đánh quần vợt, nóng chết mất, mau lấy cho tôi cái khăn.\nB: Khăn của bạn đây, uống luôn cốc nước này đi.",
+            "en": "A: I've just been playing tennis and I'm boiling. Quick, get me a towel.\nB: Here's a towel. Now drink this glass of water.",
+            "sample": true
+          },
+          {
+            "q": "他每天很早起床去锻炼，____。",
+            "hint": "接着",
+            "a": "他每天很早起床去锻炼，【接着就去上班】。",
+            "vi": "Ngày nào anh ấy cũng dậy sớm đi tập thể dục, ngay sau đó đi làm.",
+            "en": "He gets up early every day to exercise, and then goes straight to work.",
+            "sample": true
+          },
+          {
+            "q": "遇到不认识的词语，我会马上查词典，____。",
+            "hint": "接着",
+            "a": "遇到不认识的词语，我会马上查词典，【接着把它写在本子上】。",
+            "vi": "Gặp từ không biết, tôi sẽ tra từ điển ngay, sau đó ghi vào sổ.",
+            "en": "When I come across a word I don't know, I look it up in the dictionary straight away and then write it in my notebook.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "除此以外",
+      "uses": [
+        {
+          "vi": "除此以外 thường được dùng trong văn viết, có nghĩa là ngoài điều này (chỉ nội dung được đề cập trước đó) ra.",
+          "en": "除此以外 ('apart from this, besides') means 'other than what was just mentioned'. It is mostly written.",
+          "ex": [
+            {
+              "zh": "他和弟弟同一天出生，兄弟俩长得很像，但【除此以外】几乎再找不到其他共同点。",
+              "vi": "Anh ấy và em trai sinh cùng một ngày, hai anh em trông rất giống nhau, nhưng ngoài điều đó ra thì gần như không tìm được điểm chung nào khác.",
+              "en": "He and his brother were born on the same day and look very alike, but apart from that you can hardly find anything else they have in common."
+            },
+            {
+              "zh": "北方人过年时爱吃饺子，是因为饺子味道鲜美，【除此以外】，还因为人们忙了一年，过年时全家人坐在一起包饺子，是很好的交流机会。",
+              "vi": "Người miền Bắc Tết thích ăn sủi cảo là vì sủi cảo có vị thơm ngon, ngoài ra còn vì mọi người bận rộn cả năm, Tết cả nhà ngồi cùng nhau gói sủi cảo là cơ hội tốt để trò chuyện.",
+              "en": "Northerners love eating dumplings at New Year because they taste delicious. Besides that, after a busy year, the whole family sitting together making dumplings is a great chance to talk."
+            },
+            {
+              "zh": "……打电话、发短信已经成了人们普遍使用的联系方法。【除此以外】，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方便了人们的生活。",
+              "vi": "…Gọi điện, nhắn tin đã trở thành cách liên lạc phổ biến của mọi người. Ngoài ra, bạn còn có thể dùng nó để nghe nhạc, xem phim, đọc sách, chơi game, thanh toán mua sắm v.v., điều này giúp cuộc sống của mọi người thuận tiện hơn rất nhiều.",
+              "en": "…Calling and texting have become the way everyone keeps in touch. Besides that, you can use it to listen to music, watch films, read, play games, pay for shopping and so on, which makes life much more convenient."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "骑自行车是一种很好的、锻炼身体的方式。____。",
+            "hint": "除此以外",
+            "a": "骑自行车是一种很好的、锻炼身体的方式。【除此以外，它还可以减少空气污染】。",
+            "vi": "Đi xe đạp là một cách rèn luyện thân thể rất tốt. Ngoài ra, nó còn giảm ô nhiễm không khí.",
+            "en": "Cycling is a great way to keep fit. Besides that, it reduces air pollution.",
+            "sample": true
+          },
+          {
+            "q": "冬季皮肤往往容易变得干燥，女性朋友尤其要注意保护皮肤。应该选择保湿的护肤品，____。",
+            "hint": "除此以外",
+            "a": "冬季皮肤往往容易变得干燥，女性朋友尤其要注意保护皮肤。应该选择保湿的护肤品，【除此以外，还要多喝水、多吃水果】。",
+            "vi": "Mùa đông da thường dễ bị khô, các bạn nữ đặc biệt phải chú ý bảo vệ da. Nên chọn mỹ phẩm dưỡng ẩm, ngoài ra còn phải uống nhiều nước, ăn nhiều hoa quả.",
+            "en": "In winter skin easily gets dry, so women especially should look after their skin. Choose moisturizing skincare products, and besides that, drink plenty of water and eat lots of fruit.",
+            "sample": true
+          },
+          {
+            "q": "了解顾客的实际需要十分重要。买东西时，顾客当然会考虑它的质量和价格，____。",
+            "hint": "除此以外",
+            "a": "了解顾客的实际需要十分重要。买东西时，顾客当然会考虑它的质量和价格，【除此以外，还会考虑它是否适合自己】。",
+            "vi": "Hiểu nhu cầu thực tế của khách hàng vô cùng quan trọng. Khi mua đồ, khách đương nhiên cân nhắc chất lượng và giá cả, ngoài ra còn cân nhắc có hợp với mình không.",
+            "en": "Understanding customers' real needs is very important. When buying something, customers of course consider quality and price, and besides that, whether it suits them.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "把……叫作……",
+      "uses": [
+        {
+          "vi": "Trong cấu trúc “把……叫作……”, thành phần đứng sau là tên gọi của thành phần đứng trước (gọi… là…). Theo sau 把 thường là danh từ, đại từ hoặc cụm danh từ.",
+          "en": "In 把……叫作……, what follows 叫作 is the name for what follows 把: 'to call … (by the name) …'. 把 is usually followed by a noun, pronoun or noun phrase.",
+          "ex": [
+            {
+              "zh": "现代科学技术的发展让世界变得越来越小，所以现在人们都【把】地球【叫作】“地球村”。",
+              "vi": "Sự phát triển của khoa học kỹ thuật hiện đại khiến thế giới ngày càng nhỏ lại, vì vậy giờ đây mọi người đều gọi Trái đất là “ngôi làng toàn cầu”.",
+              "en": "Modern science and technology have made the world smaller and smaller, so people now call the Earth a “global village”."
+            },
+            {
+              "zh": "黄河是中国第二大河，从中国西部流向东部，全长5464公里，人们【把】它【叫作】“母亲河”。",
+              "vi": "Hoàng Hà là con sông lớn thứ hai của Trung Quốc, chảy từ phía tây sang phía đông, tổng chiều dài 5464 km, người ta gọi nó là “sông Mẹ”.",
+              "en": "The Yellow River is China's second-longest river, flowing from west to east for 5,464 km. People call it the “Mother River”."
+            },
+            {
+              "zh": "中国人搬了新家后，一般都会邀请亲戚朋友到家里来吃顿饭，热闹一下。人们【把】这个习惯【叫作】“暖房”。",
+              "vi": "Người Trung Quốc sau khi chuyển nhà mới thường mời họ hàng bạn bè đến nhà ăn một bữa cho vui. Người ta gọi phong tục này là “ấm nhà”.",
+              "en": "When Chinese people move into a new home, they usually invite relatives and friends round for a meal to liven the place up. This custom is called “warming the house”."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "在汉语里，像“海”“河”这些字左边的部分是一样的，____。",
+            "hint": "把……叫作……",
+            "a": "在汉语里，像“海”“河”这些字左边的部分是一样的，【人们把它叫作“三点水”】。",
+            "vi": "Trong tiếng Hán, phần bên trái của những chữ như “海”, “河” giống nhau, người ta gọi nó là “ba chấm thủy”.",
+            "en": "In Chinese, characters like 海 and 河 share the same left-hand part, which people call “three drops of water”.",
+            "sample": true
+          },
+          {
+            "q": "中国有56个民族，其中汉族人的数量最多，汉族以外的55个民族由于人数较少，____。",
+            "hint": "把……叫作……",
+            "a": "中国有56个民族，其中汉族人的数量最多，汉族以外的55个民族由于人数较少，【人们把它们叫作“少数民族”】。",
+            "vi": "Trung Quốc có 56 dân tộc, trong đó người Hán đông nhất, 55 dân tộc ngoài người Hán do số người khá ít nên người ta gọi là “dân tộc thiểu số”.",
+            "en": "China has 56 ethnic groups, of which the Han are the most numerous. Because the other 55 have fewer people, they're called “ethnic minorities”.",
+            "sample": true
+          },
+          {
+            "q": "东西的质量和价格是有联系的，质量好的东西一般价格也会比较高。人们习惯上____。",
+            "hint": "把……叫作……",
+            "a": "东西的质量和价格是有联系的，质量好的东西一般价格也会比较高。人们习惯上【把这叫作“一分钱一分货”】。",
+            "vi": "Chất lượng và giá cả của hàng hóa có liên hệ với nhau, đồ chất lượng tốt thường giá cũng khá cao. Người ta quen gọi đó là “tiền nào của nấy”.",
+            "en": "Quality and price are linked: good-quality things are usually more expensive. People usually call this “you get what you pay for”.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "孙月的语气：\n上次女儿问我飞机是怎么起飞和降落的，……",
+          "label": "课文1",
+          "a": "上次女儿问我飞机是怎么起飞和降落的，我真不知道该怎么回答她。王静给我推荐了一本叫《新十万个为什么》的书，现在卖得非常火。书里介绍了各种科学知识，包括地球、动物、植物、交通等很多方面。我担心女儿太小，不知道她是否能读懂，王静说这本书的语言简单易懂，一定能增长孩子的科学知识。",
+          "vi": "Lần trước con gái hỏi tôi máy bay cất cánh và hạ cánh thế nào, tôi thật không biết trả lời ra sao. Vương Tịnh giới thiệu cho tôi một cuốn sách tên “Mười vạn câu hỏi vì sao mới”, bây giờ bán rất chạy. Sách giới thiệu đủ loại kiến thức khoa học, gồm trái đất, động vật, thực vật, giao thông… Tôi lo con còn nhỏ, không biết có đọc hiểu được không, Vương Tịnh nói ngôn ngữ sách đơn giản dễ hiểu, nhất định sẽ tăng kiến thức khoa học cho trẻ.",
+          "en": "Last time my daughter asked me how planes take off and land, and I didn't know how to answer. Wang Jing recommended a book called The New One Hundred Thousand Whys, which is selling really well. It covers all kinds of science, including the Earth, animals, plants and transport. I worried my daughter was too young to understand it, but Wang Jing said the language is simple and it'll definitely increase her scientific knowledge.",
+          "sample": true
+        },
+        {
+          "q": "高老师的语气：\n现在的人们尤其是大学生开始普遍使用电脑，……",
+          "label": "课文2",
+          "a": "现在的人们尤其是大学生开始普遍使用电脑，他们的生活已经离不开电脑。据调查，70%的人遇到问题时，首先想到的就是上网找答案。电脑和互联网技术的发展不仅使学习方式，而且连生活方式也发生了很大改变。现在越来越多的学生喜欢在网上写日记，如果担心不安全，可以给日记加密码。",
+          "vi": "Con người bây giờ, nhất là sinh viên, bắt đầu dùng máy tính phổ biến, cuộc sống của họ không thể rời xa máy tính. Theo khảo sát, 70% người khi gặp vấn đề, đầu tiên nghĩ đến là lên mạng tìm đáp án. Sự phát triển của máy tính và Internet không chỉ thay đổi cách học mà cả lối sống cũng thay đổi lớn. Bây giờ ngày càng nhiều sinh viên thích viết nhật ký trên mạng, nếu lo không an toàn thì có thể đặt mật khẩu.",
+          "en": "People today, especially university students, use computers widely, and their lives depend on them. According to a survey, 70% of people think first of going online when they have a problem. Computers and the internet have changed not only how people learn but how they live. More and more students keep online diaries, and if they're worried about safety, they can add a password.",
+          "sample": true
+        },
+        {
+          "q": "王静的语气：\n我昨天晚上做了一个特别奇怪的梦，……",
+          "label": "课文3",
+          "a": "我昨天晚上做了一个特别奇怪的梦，梦到自己正在一座桥上走，突然开过来一辆车，非常危险，接着又梦见我跳到车上，跟警察一起抓住了一个坏人。孙月说她好像从来没做过梦，我告诉她每个人都会做梦，她只不过是忘记了。一般晚上睡觉时，身体感觉到什么，人就容易梦到什么内容。",
+          "vi": "Tối qua tôi mơ một giấc mơ rất kỳ lạ, mơ thấy mình đang đi trên một cây cầu, đột nhiên có xe lao tới, rất nguy hiểm, ngay sau đó mơ thấy mình nhảy lên xe, cùng cảnh sát bắt được một kẻ xấu. Tôn Nguyệt nói hình như cô ấy chưa bao giờ nằm mơ, tôi bảo ai cũng nằm mơ, chỉ là cô ấy quên mất thôi. Thường thì ban đêm lúc ngủ, cơ thể cảm thấy gì thì dễ mơ thấy cái đó.",
+          "en": "Last night I had a really strange dream: I was walking across a bridge when a car came speeding towards me, then I jumped onto it and caught a bad guy with the police. Sun Yue said she's never dreamed, but I told her everyone dreams; she's just forgotten. Usually what your body feels when you sleep is what you tend to dream about.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "收",
+        "座",
+        "安全",
+        "危险",
+        "降落"
+      ],
+      "items": [
+        {
+          "q": "北京有一____山，叫香山，非常有名。每到秋天，满山都是红叶，风景特别漂亮。",
+          "key": "座",
+          "a": "北京有一【座】山，叫香山，非常有名。每到秋天，满山都是红叶，风景特别漂亮。",
+          "vi": "Bắc Kinh có một ngọn núi tên là Hương Sơn, rất nổi tiếng. Cứ đến mùa thu, cả núi toàn lá đỏ, phong cảnh đặc biệt đẹp.",
+          "en": "There's a mountain in Beijing called Xiangshan that's very famous. Every autumn it's covered in red leaves, and the scenery is especially beautiful."
+        },
+        {
+          "q": "有些人直接拿自己的生日做银行卡或信用卡的密码。其实，这样做很不____。",
+          "key": "安全",
+          "a": "有些人直接拿自己的生日做银行卡或信用卡的密码。其实，这样做很不【安全】。",
+          "vi": "Có người lấy luôn ngày sinh của mình làm mật khẩu thẻ ngân hàng hoặc thẻ tín dụng. Thật ra làm vậy rất không an toàn.",
+          "en": "Some people use their birthday as their bank or credit card PIN. In fact, that's very unsafe."
+        },
+        {
+          "q": "无论对自己还是对其他人来说，喝完酒开车都是极其____的。",
+          "key": "危险",
+          "a": "无论对自己还是对其他人来说，喝完酒开车都是极其【危险】的。",
+          "vi": "Dù đối với bản thân hay người khác, uống rượu xong lái xe đều vô cùng nguy hiểm.",
+          "en": "Whether for yourself or for others, drink-driving is extremely dangerous."
+        },
+        {
+          "q": "说出去的话很难____回。因此，生气时不要随便说话，这时候说的一般都是气话，会给别人留下不好的印象，甚至会伤害别人。",
+          "key": "收",
+          "a": "说出去的话很难【收】回。因此，生气时不要随便说话，这时候说的一般都是气话，会给别人留下不好的印象，甚至会伤害别人。",
+          "vi": "Lời đã nói ra rất khó rút lại. Vì vậy, lúc tức giận đừng nói bừa, lúc này nói ra thường là lời nói lúc nóng giận, sẽ để lại ấn tượng không tốt, thậm chí làm tổn thương người khác.",
+          "en": "Words once spoken are hard to take back. So don't speak carelessly when you're angry; what you say then is usually said in anger, gives a bad impression and may even hurt people."
+        },
+        {
+          "q": "各位乘客，大家好，感谢大家乘坐此次航班，我们的飞机将于20分钟后____在北京首都国际机场。",
+          "key": "降落",
+          "a": "各位乘客，大家好，感谢大家乘坐此次航班，我们的飞机将于20分钟后【降落】在北京首都国际机场。",
+          "vi": "Kính thưa quý khách, cảm ơn quý khách đã đi chuyến bay này, máy bay của chúng ta sẽ hạ cánh xuống sân bay quốc tế Thủ đô Bắc Kinh sau 20 phút nữa.",
+          "en": "Ladies and gentlemen, thank you for flying with us. We'll be landing at Beijing Capital International Airport in 20 minutes."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "地点",
+        "地址",
+        "技术",
+        "迷路",
+        "咸"
+      ],
+      "items": [
+        {
+          "q": "A：饺子很香，不过鸡蛋汤稍微有点儿____。\nB：那我下次少放点儿盐。",
+          "key": "咸",
+          "a": "A：饺子很香，不过鸡蛋汤稍微有点儿【咸】。\nB：那我下次少放点儿盐。",
+          "vi": "A: Sủi cảo rất thơm, nhưng canh trứng hơi mặn một chút.\nB: Vậy lần sau tôi cho ít muối hơn.",
+          "en": "A: The dumplings are delicious, but the egg soup is a little salty.\nB: Then I'll put less salt in next time."
+        },
+        {
+          "q": "A：对面那条街上新开了一家理发店，听说那儿的理发师____还不错。\nB：是吗？正好我也该理发了，那明天下班后我去试试。",
+          "key": "技术",
+          "a": "A：对面那条街上新开了一家理发店，听说那儿的理发师【技术】还不错。\nB：是吗？正好我也该理发了，那明天下班后我去试试。",
+          "vi": "A: Con phố đối diện mới mở một tiệm cắt tóc, nghe nói tay nghề thợ ở đó khá tốt.\nB: Vậy à? Vừa hay tôi cũng nên cắt tóc rồi, mai tan làm tôi đi thử.",
+          "en": "A: A new hairdresser's has opened on the street opposite. I hear the hairdresser there is quite skilled.\nB: Really? I need a haircut anyway. I'll try it after work tomorrow."
+        },
+        {
+          "q": "A：我怎么觉得咱们好像____了？\nB：没有，我以前来过这儿，前面路口左转就到了。",
+          "key": "迷路",
+          "a": "A：我怎么觉得咱们好像【迷路】了？\nB：没有，我以前来过这儿，前面路口左转就到了。",
+          "vi": "A: Sao tôi thấy hình như chúng ta lạc đường rồi?\nB: Không đâu, tôi từng đến đây, ngã tư phía trước rẽ trái là đến.",
+          "en": "A: Why do I feel like we're lost?\nB: We're not. I've been here before. Turn left at the junction ahead and we're there."
+        },
+        {
+          "q": "A：能把照片发到我邮箱里吗？\nB：没问题，把你的邮箱____告诉我，我整理好了就发给你。",
+          "key": "地址",
+          "a": "A：能把照片发到我邮箱里吗？\nB：没问题，把你的邮箱【地址】告诉我，我整理好了就发给你。",
+          "vi": "A: Có thể gửi ảnh vào hộp thư của tôi không?\nB: Không vấn đề gì, cho tôi địa chỉ hộp thư của bạn, tôi sắp xếp xong sẽ gửi.",
+          "en": "A: Could you send the photos to my email?\nB: Sure. Give me your email address and I'll send them once I've sorted them out."
+        },
+        {
+          "q": "A：今天下午我们还是两点在东门集合吗？\nB：时间不变，____改在西门了。快去整理一下东西吧，我们马上出发。",
+          "key": "地点",
+          "a": "A：今天下午我们还是两点在东门集合吗？\nB：时间不变，【地点】改在西门了。快去整理一下东西吧，我们马上出发。",
+          "vi": "A: Chiều nay chúng ta vẫn tập trung ở cổng đông lúc hai giờ chứ?\nB: Thời gian không đổi, địa điểm đổi sang cổng tây rồi. Mau đi sắp xếp đồ đạc đi, chúng ta sắp xuất phát.",
+          "en": "A: Are we still meeting at the east gate at two this afternoon?\nB: Same time, but the meeting place has changed to the west gate. Go and get your things ready; we're leaving soon."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 点",
+    "en": "Words sharing a character: 点",
+    "words": [
+      {
+        "zh": "地点",
+        "py": "dìdiǎn",
+        "vi": "địa điểm",
+        "en": "place"
+      },
+      {
+        "zh": "特点",
+        "py": "tèdiǎn",
+        "vi": "đặc điểm",
+        "en": "characteristic"
+      },
+      {
+        "zh": "优点",
+        "py": "yōudiǎn",
+        "vi": "ưu điểm",
+        "en": "strength"
+      },
+      {
+        "zh": "缺点",
+        "py": "quēdiǎn",
+        "vi": "khuyết điểm",
+        "en": "weakness"
+      },
+      {
+        "zh": "重点",
+        "py": "zhòngdiǎn",
+        "vi": "trọng điểm",
+        "en": "key point"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "A：你联系马记者了吗？\nB：联系过了，我已经通知他会议【地点】改到首都饭店了。",
+        "vi": "A: Bạn liên hệ phóng viên Mã chưa?\nB: Liên hệ rồi, tôi đã báo anh ấy địa điểm họp đổi sang khách sạn Thủ Đô.",
+        "en": "A: Have you contacted the reporter, Mr. Ma?\nB: Yes, I've told him the meeting place has been changed to the Capital Hotel."
+      },
+      {
+        "zh": "A：你对我们国家的文化了解多少？\nB：我知道中国功夫很厉害，京剧也很有【特点】。",
+        "vi": "A: Bạn hiểu biết bao nhiêu về văn hóa nước chúng tôi?\nB: Tôi biết võ thuật Trung Quốc rất lợi hại, Kinh kịch cũng rất có đặc sắc.",
+        "en": "A: How much do you know about our country's culture?\nB: I know Chinese kung fu is impressive, and Peking opera is very distinctive."
+      },
+      {
+        "zh": "人应该学会认识自己。不仅要看到自己的【优点】，也要了解自己的【缺点】，并且要努力改掉缺点。只有这样，才会逐渐变得成熟起来。",
+        "vi": "Con người nên học cách nhận thức bản thân. Không chỉ phải thấy ưu điểm của mình mà còn phải hiểu khuyết điểm của mình, đồng thời cố gắng sửa khuyết điểm. Chỉ có như vậy mới dần trở nên chín chắn.",
+        "en": "People should learn to know themselves: see not only their strengths but also their weaknesses, and work hard to correct them. Only then will they gradually mature."
+      },
+      {
+        "zh": "A：材料这么厚，我估计看不完了。\nB：复习要注意方法，复习【重点】内容应该来得及。",
+        "vi": "A: Tài liệu dày thế này, tôi đoán đọc không hết.\nB: Ôn tập phải chú ý phương pháp, ôn nội dung trọng tâm thì chắc kịp.",
+        "en": "A: There's so much material, I don't think I'll get through it.\nB: Revise methodically. If you focus on the key points, you should have time."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "地点",
+        "特点",
+        "优点",
+        "缺点",
+        "重点"
+      ],
+      "items": [
+        {
+          "q": "教育学生时，要根据学生的____选择不同的方法。",
+          "key": "特点",
+          "a": "教育学生时，要根据学生的【特点】选择不同的方法。",
+          "vi": "Khi dạy học sinh, phải dựa vào đặc điểm của học sinh để chọn phương pháp khác nhau.",
+          "en": "When teaching students, you should choose different methods according to their characteristics."
+        },
+        {
+          "q": "现在有个通知，十一月七日上午八点有中国文化研讨会，____在图书馆三楼会议室，希望大家准时参加。",
+          "key": "地点",
+          "a": "现在有个通知，十一月七日上午八点有中国文化研讨会，【地点】在图书馆三楼会议室，希望大家准时参加。",
+          "vi": "Có một thông báo: 8 giờ sáng ngày 7 tháng 11 có hội thảo văn hóa Trung Quốc, địa điểm ở phòng họp tầng ba thư viện, mong mọi người tham gia đúng giờ.",
+          "en": "Announcement: there's a seminar on Chinese culture at 8 a.m. on November 7th in the third-floor meeting room of the library. Please be on time."
+        },
+        {
+          "q": "由于时间限制，这份材料我就不向大家详细介绍了，我只对其中的____简单说明一下。",
+          "key": "重点",
+          "a": "由于时间限制，这份材料我就不向大家详细介绍了，我只对其中的【重点】简单说明一下。",
+          "vi": "Do giới hạn thời gian, tài liệu này tôi không giới thiệu chi tiết với mọi người, tôi chỉ nói sơ qua những điểm trọng tâm trong đó.",
+          "en": "Due to time limits, I won't go through this material in detail; I'll just briefly explain the key points."
+        },
+        {
+          "q": "A：你对小李的印象怎么样？\nB：他的____是有礼貌，诚实，能吃苦，____是太马虎、太粗心了，不适合我们的工作。",
+          "key": "优点 / 缺点",
+          "a": "A：你对小李的印象怎么样？\nB：他的【优点】是有礼貌，诚实，能吃苦，【缺点】是太马虎、太粗心了，不适合我们的工作。",
+          "vi": "A: Bạn có ấn tượng thế nào về Tiểu Lý?\nB: Ưu điểm của cậu ấy là lễ phép, thật thà, chịu khó, khuyết điểm là quá cẩu thả, không hợp với công việc của chúng ta.",
+          "en": "A: What's your impression of Xiao Li?\nB: His strengths are that he's polite, honest and hard-working; his weakness is that he's too careless for our work."
+        }
+      ]
+    }
+  }
+}

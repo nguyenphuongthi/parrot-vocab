@@ -1,0 +1,1035 @@
+{
+  "n": 19,
+  "zh": "生活的味道",
+  "vi": "Mùi vị của cuộc sống",
+  "en": "The flavour of life",
+  "texts": [
+    {
+      "title": "马克申请下个学期继续在学校学习",
+      "paras": [
+        {
+          "zh": "马克：老师，您好！我希望下个学期在这里继续学习，请问还需要重新申请吗？",
+          "vi": "Mark: Thưa cô, em chào cô! Em muốn học kỳ sau tiếp tục học ở đây, xin hỏi có cần nộp đơn lại không ạ?",
+          "en": "Mark: Hello! I'd like to carry on studying here next semester. Do I need to apply again?"
+        },
+        {
+          "zh": "高老师：是的。给你表格，出生年月、性别、护照号码都要填，还有联系地址、联系电话。",
+          "vi": "Cô Cao: Đúng vậy. Đây là mẫu đơn, năm tháng sinh, giới tính, số hộ chiếu đều phải điền, còn có địa chỉ liên lạc, số điện thoại liên lạc.",
+          "en": "Ms. Gao: Yes. Here's the form. You need to fill in your date of birth, sex and passport number, as well as your contact address and phone number."
+        },
+        {
+          "zh": "马克：真抱歉，我不小心把护照号码填错了，您能再给我一份新的申请表吗？",
+          "vi": "Mark: Thật xin lỗi, em không cẩn thận điền sai số hộ chiếu, cô có thể cho em một tờ đơn mới không ạ?",
+          "en": "Mark: I'm so sorry, I've accidentally filled in my passport number wrong. Could you give me a new application form?"
+        },
+        {
+          "zh": "高老师：没关系，不用道歉，谁都有粗心填错的时候。申请表都被别人拿走了，我给你重新打印一份，你等一下。",
+          "vi": "Cô Cao: Không sao, không cần xin lỗi, ai cũng có lúc sơ ý điền sai. Đơn bị người khác lấy hết rồi, cô in lại cho em một tờ, em đợi một chút.",
+          "en": "Ms. Gao: That's fine, no need to apologize. Everyone makes careless mistakes sometimes. The forms have all been taken, so I'll print you a new one. Wait a moment."
+        },
+        {
+          "zh": "（高老师打印，马克填表。）",
+          "vi": "(Cô Cao in đơn, Mark điền đơn.)",
+          "en": "(Ms. Gao prints the form and Mark fills it in.)"
+        },
+        {
+          "zh": "马克：这次我按照要求都填写完了，请问还需要做别的事情吗？",
+          "vi": "Mark: Lần này em đã điền xong theo yêu cầu, xin hỏi còn cần làm việc gì khác không ạ?",
+          "en": "Mark: I've filled it all in as required this time. Is there anything else I need to do?"
+        },
+        {
+          "zh": "高老师：请把你的护照给我，我们要把护照复印一下。",
+          "vi": "Cô Cao: Em đưa hộ chiếu cho cô, chúng tôi cần photo hộ chiếu.",
+          "en": "Ms. Gao: Please give me your passport. We need to photocopy it."
+        }
+      ],
+      "words": [
+        {
+          "zh": "学期",
+          "py": "xuéqī",
+          "pos": "dt.",
+          "vi": "học kỳ",
+          "en": "semester"
+        },
+        {
+          "zh": "出生",
+          "py": "chūshēng",
+          "pos": "đgt.",
+          "vi": "ra đời, sinh ra",
+          "en": "to be born"
+        },
+        {
+          "zh": "性别",
+          "py": "xìngbié",
+          "pos": "dt.",
+          "vi": "giới tính",
+          "en": "sex, gender"
+        },
+        {
+          "zh": "道歉",
+          "py": "dào qiàn",
+          "pos": "đgt.",
+          "vi": "xin lỗi",
+          "en": "to apologize"
+        },
+        {
+          "zh": "打印",
+          "py": "dǎyìn",
+          "pos": "đgt.",
+          "vi": "in",
+          "en": "to print"
+        },
+        {
+          "zh": "复印",
+          "py": "fùyìn",
+          "pos": "đgt.",
+          "vi": "photocopy, sao chụp",
+          "en": "to photocopy"
+        }
+      ]
+    },
+    {
+      "title": "王静做饺子时手受伤了",
+      "paras": [
+        {
+          "zh": "李进：呀，你的手怎么流血{xiě}了？等一下，我给你包起来。",
+          "vi": "Lý Tiến: Ối, tay em sao chảy máu thế? Đợi chút, anh băng lại cho em.",
+          "en": "Li Jin: Oh, your hand is bleeding! Wait a moment, I'll bandage it."
+        },
+        {
+          "zh": "王静：没关系，我想给你做点儿羊肉饺子，刚才用刀切肉的时候把手弄破了。",
+          "vi": "Vương Tịnh: Không sao, em muốn làm ít sủi cảo thịt cừu cho anh, lúc nãy dùng dao thái thịt bị đứt tay.",
+          "en": "Wang Jing: It's nothing. I wanted to make you some lamb dumplings, and I cut my hand with the knife while chopping the meat."
+        },
+        {
+          "zh": "李进：你也太不小心了，不过好像不太严重，过几天就好了。衣服上也有一点儿血{xiě}，你把衣服脱下来，我给你洗洗。",
+          "vi": "Lý Tiến: Em không cẩn thận quá, nhưng hình như không nghiêm trọng lắm, mấy hôm là khỏi. Trên áo cũng dính chút máu, em cởi áo ra anh giặt cho.",
+          "en": "Li Jin: You're so careless! But it doesn't look too serious; it'll be better in a few days. There's a bit of blood on your clothes too. Take them off and I'll wash them."
+        },
+        {
+          "zh": "王静：看来今天吃不上羊肉饺子了。",
+          "vi": "Vương Tịnh: Xem ra hôm nay không được ăn sủi cảo thịt cừu rồi.",
+          "en": "Wang Jing: Looks like we won't get to eat lamb dumplings today."
+        },
+        {
+          "zh": "李进：那我们就吃点儿别的。我常去的那家理发店附近有个餐厅，那里的包子很好吃，我一会儿去买一点儿。",
+          "vi": "Lý Tiến: Vậy mình ăn món khác. Gần tiệm cắt tóc anh hay đến có một nhà hàng, bánh bao ở đó rất ngon, lát nữa anh đi mua một ít.",
+          "en": "Li Jin: Then let's eat something else. There's a restaurant near the hairdresser's I often go to that does really good steamed buns. I'll go and get some in a bit."
+        },
+        {
+          "zh": "王静：好吧，我衣服口袋里有十几块零钱，买包子应该够。",
+          "vi": "Vương Tịnh: Được thôi, trong túi áo em có mười mấy tệ tiền lẻ, mua bánh bao chắc đủ.",
+          "en": "Wang Jing: OK. There's a dozen or so yuan in change in my pocket. That should be enough for the buns."
+        }
+      ],
+      "words": [
+        {
+          "zh": "饺子",
+          "py": "jiǎozi",
+          "pos": "dt.",
+          "vi": "bánh chẻo, sủi cảo",
+          "en": "dumpling"
+        },
+        {
+          "zh": "刀",
+          "py": "dāo",
+          "pos": "dt.",
+          "vi": "con dao",
+          "en": "knife"
+        },
+        {
+          "zh": "破",
+          "py": "pò",
+          "pos": "tt.",
+          "vi": "bị đứt, bị thủng",
+          "en": "broken, cut"
+        },
+        {
+          "zh": "脱",
+          "py": "tuō",
+          "pos": "đgt.",
+          "vi": "cởi ra",
+          "en": "to take off"
+        },
+        {
+          "zh": "理发",
+          "py": "lǐ fà",
+          "pos": "đgt.",
+          "vi": "cắt tóc",
+          "en": "to have a haircut"
+        },
+        {
+          "zh": "包子",
+          "py": "bāozi",
+          "pos": "dt.",
+          "vi": "bánh bao",
+          "en": "steamed bun"
+        },
+        {
+          "zh": "零钱",
+          "py": "língqián",
+          "pos": "dt.",
+          "vi": "tiền lẻ",
+          "en": "small change"
+        }
+      ]
+    },
+    {
+      "title": "安娜帮助马克练习舞蹈动作",
+      "paras": [
+        {
+          "zh": "马克：我早上跟你打招呼，你没看见。想不到又在这儿碰见你了。",
+          "vi": "Mark: Sáng nay tớ chào cậu mà cậu không thấy. Không ngờ lại gặp cậu ở đây.",
+          "en": "Mark: I said hello to you this morning but you didn't see me. Fancy running into you here again."
+        },
+        {
+          "zh": "安娜：真是对不起，我不是故意的，今天早上我忘戴眼镜了，看不清楚。",
+          "vi": "Anna: Thật xin lỗi, tớ không cố ý đâu, sáng nay tớ quên đeo kính nên nhìn không rõ.",
+          "en": "Anna: I'm really sorry, I didn't mean to ignore you. I forgot my glasses this morning and couldn't see clearly."
+        },
+        {
+          "zh": "马克：刚才我在旁边看到你跳中国舞了，没看出来你跳得这么好！难道你以前在你们国家就学过中国舞蹈吗？",
+          "vi": "Mark: Lúc nãy tớ đứng bên cạnh thấy cậu múa điệu múa Trung Quốc, không nhận ra cậu múa đẹp như vậy! Lẽ nào trước đây cậu đã học múa Trung Quốc ở nước cậu rồi à?",
+          "en": "Mark: Just now I watched you doing Chinese dance. I never realized you danced so well! Did you learn Chinese dance back in your country?"
+        },
+        {
+          "zh": "安娜：我小时候妈妈教我跳过两年的舞，所以稍微有点儿基础。再说，舞蹈不仅是一门艺术，也是一种“语言”，这种语言与国籍无关，无论哪个国家的人都能看懂。",
+          "vi": "Anna: Hồi nhỏ mẹ dạy tớ múa hai năm nên cũng có chút nền tảng. Hơn nữa, múa không chỉ là một môn nghệ thuật mà còn là một loại “ngôn ngữ”, ngôn ngữ này không liên quan đến quốc tịch, người nước nào cũng xem hiểu được.",
+          "en": "Anna: My mum taught me dance for two years when I was little, so I have a bit of a foundation. Besides, dance isn't just an art, it's also a kind of “language”, one that has nothing to do with nationality. People from any country can understand it."
+        },
+        {
+          "zh": "马克：太好了！我刚学习跳这种舞没多久，你帮我看看，我的这个动作对不对。",
+          "vi": "Mark: Tốt quá! Tớ mới học điệu múa này chưa lâu, cậu xem giúp tớ động tác này có đúng không.",
+          "en": "Mark: Great! I've only just started learning this dance. Can you see if I'm doing this move right?"
+        },
+        {
+          "zh": "安娜：你这个动作做得还是不太标准，我给你跳一遍。你仔细看着{zhe}，应该像我这样：先抬胳膊，然后抬腿，最后头再向右转一下。",
+          "vi": "Anna: Động tác này của cậu vẫn chưa chuẩn lắm, tớ múa cho cậu xem một lượt. Cậu nhìn kỹ nhé, phải giống tớ thế này: trước tiên giơ tay lên, sau đó nhấc chân, cuối cùng quay đầu sang phải.",
+          "en": "Anna: Your move isn't quite right yet. I'll dance it once for you. Watch carefully; it should be like this: first raise your arms, then lift your leg, and finally turn your head to the right."
+        }
+      ],
+      "words": [
+        {
+          "zh": "打招呼",
+          "py": "dǎ zhāohu",
+          "vi": "chào hỏi, chào",
+          "en": "to greet"
+        },
+        {
+          "zh": "戴",
+          "py": "dài",
+          "pos": "đgt.",
+          "vi": "đeo, mang",
+          "en": "to wear (glasses, hat)"
+        },
+        {
+          "zh": "眼镜",
+          "py": "yǎnjìng",
+          "pos": "dt.",
+          "vi": "mắt kính",
+          "en": "glasses"
+        },
+        {
+          "zh": "舞蹈",
+          "py": "wǔdǎo",
+          "pos": "dt.",
+          "vi": "điệu múa",
+          "en": "dance",
+          "x": true
+        },
+        {
+          "zh": "国籍",
+          "py": "guójí",
+          "pos": "dt.",
+          "vi": "quốc tịch",
+          "en": "nationality"
+        },
+        {
+          "zh": "抬",
+          "py": "tái",
+          "pos": "đgt.",
+          "vi": "giơ lên, đưa lên",
+          "en": "to raise, to lift"
+        },
+        {
+          "zh": "胳膊",
+          "py": "gēbo",
+          "pos": "dt.",
+          "vi": "cánh tay",
+          "en": "arm"
+        },
+        {
+          "zh": "转",
+          "py": "zhuǎn",
+          "pos": "đgt.",
+          "vi": "quay, xoay",
+          "en": "to turn"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "马克去年租的房子离马路很近，对面有大大小小的商店，周围环境非常吵。所以，房子还没到期，马克就开始着急换房子了。有一天，他在小区门口看到一个租房子的广告。广告上说房子交通方便，周围很安静，厨房很大。总的来说，这套房子他很满意，于是他就记下了房东的手机号码。可回家后打电话，电话总是占线。第二天，他路过小区门口时，又仔细看了一下广告，原来在记号码的时候写错了一个数字。",
+          "vi": "Căn nhà Mark thuê năm ngoái rất gần đường cái, đối diện có đủ loại cửa hàng lớn nhỏ, môi trường xung quanh rất ồn ào. Vì vậy, nhà chưa hết hạn thuê, Mark đã bắt đầu sốt ruột muốn đổi nhà. Một hôm, cậu thấy ở cổng khu dân cư một quảng cáo cho thuê nhà. Quảng cáo nói nhà đi lại thuận tiện, xung quanh rất yên tĩnh, bếp rất rộng. Nhìn chung cậu rất hài lòng với căn nhà này, thế là ghi lại số điện thoại của chủ nhà. Nhưng về nhà gọi điện thì máy lúc nào cũng bận. Ngày hôm sau, khi đi ngang qua cổng khu dân cư, cậu xem kỹ lại quảng cáo, thì ra lúc ghi số đã viết sai một chữ số.",
+          "en": "The flat Mark rented last year was right by the main road, with all sorts of shops opposite, and the surroundings were very noisy. So before his lease was even up, Mark started looking for somewhere else. One day he saw an advert for a flat to rent at the entrance to a housing estate. It said the flat had good transport links, quiet surroundings and a big kitchen. All in all, he was very happy with it, so he wrote down the landlord's mobile number. But when he called from home, the line was always busy. The next day, passing the estate entrance, he looked at the advert again carefully and found he'd written one digit wrong."
+        }
+      ],
+      "words": [
+        {
+          "zh": "租",
+          "py": "zū",
+          "pos": "đgt.",
+          "vi": "thuê, cho thuê",
+          "en": "to rent"
+        },
+        {
+          "zh": "吵",
+          "py": "chǎo",
+          "pos": "tt.",
+          "vi": "ồn ào",
+          "en": "noisy",
+          "x": true
+        },
+        {
+          "zh": "厨房",
+          "py": "chúfáng",
+          "pos": "dt.",
+          "vi": "nhà bếp",
+          "en": "kitchen"
+        },
+        {
+          "zh": "房东",
+          "py": "fángdōng",
+          "pos": "dt.",
+          "vi": "chủ nhà (nhà cho thuê)",
+          "en": "landlord"
+        },
+        {
+          "zh": "占线",
+          "py": "zhànxiàn",
+          "pos": "đgt.",
+          "vi": "(đường dây điện thoại) bận",
+          "en": "(of a phone line) to be busy"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "很多外国人认为所有中国人都会功夫和乒乓球，其实只是喜爱这两种运动的中国人比较多。中国人特别喜欢打乒乓球，在中国你会发现到处都有乒乓球桌。像乒乓球、羽毛球、跑步等运动对条件要求不高，所以它们都成为人们运动不错的选择。人们常说“生命在于运动”，所以很多人一到周末就会到体育馆打几场球。“乒乓球”这个名字也很有意思，“乒”和“乓”就是打球时发出的声音。在看乒乓球比赛时，尤其是在运动员发球的时候，观众要安静，禁止大声讲话或者离开座位随便走动。",
+          "vi": "Nhiều người nước ngoài cho rằng người Trung Quốc ai cũng biết võ thuật và bóng bàn, thật ra chỉ là người Trung Quốc yêu thích hai môn thể thao này khá nhiều. Người Trung Quốc đặc biệt thích chơi bóng bàn, ở Trung Quốc bạn sẽ thấy đâu đâu cũng có bàn bóng bàn. Những môn như bóng bàn, cầu lông, chạy bộ không đòi hỏi điều kiện cao nên đều trở thành lựa chọn vận động không tồi của mọi người. Người ta thường nói “sự sống nằm ở vận động”, vì vậy nhiều người cứ đến cuối tuần là đến nhà thi đấu chơi mấy trận bóng. Cái tên “乒乓球” cũng rất thú vị, “乒” và “乓” chính là âm thanh phát ra khi đánh bóng. Khi xem thi đấu bóng bàn, nhất là lúc vận động viên giao bóng, khán giả phải giữ yên lặng, cấm nói to hoặc rời khỏi chỗ ngồi đi lại tùy tiện.",
+          "en": "Many foreigners think all Chinese people can do kung fu and play table tennis; actually, it's just that many Chinese people love these two sports. Chinese people especially love table tennis, and you'll find tables everywhere in China. Sports like table tennis, badminton and running don't need much in the way of facilities, so they're all good choices for exercise. People often say “life lies in movement”, so many go to the gym to play a few games every weekend. The name pingpang qiu is interesting too: ping and pang are the sounds the ball makes. When watching a match, especially when a player is serving, spectators must be quiet; talking loudly or leaving your seat to wander around is forbidden."
+        }
+      ],
+      "words": [
+        {
+          "zh": "功夫",
+          "py": "gōngfu",
+          "pos": "dt.",
+          "vi": "võ thuật, môn võ kung fu",
+          "en": "kung fu"
+        },
+        {
+          "zh": "乒乓球",
+          "py": "pīngpāngqiú",
+          "pos": "dt.",
+          "vi": "bóng bàn",
+          "en": "table tennis"
+        },
+        {
+          "zh": "羽毛球",
+          "py": "yǔmáoqiú",
+          "pos": "dt.",
+          "vi": "cầu lông",
+          "en": "badminton"
+        },
+        {
+          "zh": "场",
+          "py": "chǎng",
+          "pos": "lượng.",
+          "vi": "(được dùng cho thể thao hay các hoạt động giải trí...) trận",
+          "en": "measure word for matches, games"
+        },
+        {
+          "zh": "禁止",
+          "py": "jìnzhǐ",
+          "pos": "đgt.",
+          "vi": "cấm",
+          "en": "to prohibit"
+        },
+        {
+          "zh": "座位",
+          "py": "zuòwèi",
+          "pos": "dt.",
+          "vi": "chỗ ngồi",
+          "en": "seat"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "填写申请表格时，应该提供哪些方面的信息？",
+        "label": "课文1",
+        "a": "应该提供【出生年月、性别、护照号码，还有联系地址、联系电话】。",
+        "vi": "Phải cung cấp năm tháng sinh, giới tính, số hộ chiếu, còn có địa chỉ và số điện thoại liên lạc.",
+        "en": "Your date of birth, sex, passport number, contact address and phone number."
+      },
+      {
+        "q": "马克把申请表填错后，高老师批评他了吗？为什么？",
+        "label": "课文1",
+        "a": "【没有】。因为高老师觉得【谁都有粗心填错的时候】。",
+        "vi": "Không. Vì cô Cao cho rằng ai cũng có lúc sơ ý điền sai.",
+        "en": "No. Because Ms. Gao thinks everyone makes careless mistakes sometimes."
+      },
+      {
+        "q": "王静的手是怎么弄破的？严重吗？",
+        "label": "课文2",
+        "a": "她【想给李进做羊肉饺子，用刀切肉的时候把手弄破了】。【不太严重】，过几天就好了。",
+        "vi": "Cô ấy muốn làm sủi cảo thịt cừu cho Lý Tiến, lúc dùng dao thái thịt bị đứt tay. Không nghiêm trọng lắm, mấy hôm là khỏi.",
+        "en": "She was making lamb dumplings for Li Jin and cut her hand with the knife while chopping meat. It's not serious; it'll heal in a few days."
+      },
+      {
+        "q": "今天他们能吃到羊肉饺子吗？如果吃不到，他们会怎么办？",
+        "label": "课文2",
+        "a": "【吃不到】。他们会【吃点儿别的，李进去理发店附近的餐厅买包子】。",
+        "vi": "Không ăn được. Họ sẽ ăn món khác, Lý Tiến đi nhà hàng gần tiệm cắt tóc mua bánh bao.",
+        "en": "No. They'll eat something else; Li Jin will buy steamed buns at the restaurant near the hairdresser's."
+      },
+      {
+        "q": "马克认为安娜中国舞跳得好的原因可能是什么？",
+        "label": "课文3",
+        "a": "马克认为安娜【以前在她们国家就学过中国舞蹈】。",
+        "vi": "Mark cho rằng có lẽ trước đây Anna đã học múa Trung Quốc ở nước cô ấy.",
+        "en": "Mark thinks Anna may have learned Chinese dance back in her own country."
+      },
+      {
+        "q": "马克的那个动作做得正确吗？那个动作应该怎么做？",
+        "label": "课文3",
+        "a": "【不太标准】。应该【先抬胳膊，然后抬腿，最后头再向右转一下】。",
+        "vi": "Chưa chuẩn lắm. Phải giơ tay lên trước, sau đó nhấc chân, cuối cùng quay đầu sang phải.",
+        "en": "Not quite right. You should first raise your arms, then lift your leg, and finally turn your head to the right."
+      },
+      {
+        "q": "马克现在租的房子和广告上的房子各有哪些特点？",
+        "label": "课文4",
+        "a": "现在租的房子【离马路很近，对面有大大小小的商店，周围环境非常吵】。广告上的房子【交通方便，周围很安静，厨房很大】。",
+        "vi": "Nhà đang thuê rất gần đường cái, đối diện có nhiều cửa hàng, xung quanh rất ồn. Nhà trong quảng cáo đi lại thuận tiện, xung quanh yên tĩnh, bếp rộng.",
+        "en": "His current flat is right by the main road with shops opposite and very noisy surroundings. The advertised flat has good transport links, quiet surroundings and a big kitchen."
+      },
+      {
+        "q": "马克为什么一直没联系上房东？",
+        "label": "课文4",
+        "a": "因为他【在记号码的时候写错了一个数字】。",
+        "vi": "Vì lúc ghi số điện thoại cậu ấy viết sai một chữ số.",
+        "en": "Because he wrote one digit wrong when noting down the number."
+      },
+      {
+        "q": "很多外国人对中国人有什么印象？这种印象对吗？为什么？",
+        "label": "课文5",
+        "a": "很多外国人认为【所有中国人都会功夫和乒乓球】。这种印象【不对】，其实【只是喜爱这两种运动的中国人比较多】。",
+        "vi": "Nhiều người nước ngoài cho rằng người Trung Quốc ai cũng biết võ thuật và bóng bàn. Ấn tượng này không đúng, thật ra chỉ là người Trung Quốc yêu thích hai môn này khá nhiều.",
+        "en": "Many foreigners think all Chinese people can do kung fu and play table tennis. That's not right; it's just that many Chinese people love these two sports."
+      },
+      {
+        "q": "“乒乓球”这个名字是怎么来的？看乒乓球比赛时要注意哪些问题？",
+        "label": "课文5",
+        "a": "“乒”和“乓”【就是打球时发出的声音】。看比赛时，【尤其是运动员发球的时候，观众要安静，禁止大声讲话或者离开座位随便走动】。",
+        "vi": "“乒” và “乓” chính là âm thanh phát ra khi đánh bóng. Khi xem thi đấu, nhất là lúc vận động viên giao bóng, khán giả phải yên lặng, cấm nói to hoặc rời chỗ ngồi đi lại tùy tiện.",
+        "en": "Ping and pang are the sounds the ball makes. When watching, especially during a serve, spectators must be quiet; no loud talking or leaving your seat to wander around."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "疑问代词活用表示任指",
+      "py": "yíwèn dàicí huóyòng biǎoshì rènzhǐ",
+      "uses": [
+        {
+          "vi": "Đại từ nghi vấn phiếm chỉ: các đại từ nghi vấn 什么 (cái gì), 谁 (ai), 哪 (nào), 哪儿 (đâu, chỗ nào), 哪里 (đâu), 怎么 (thế nào)... có thể được dùng để chỉ bất kỳ người nào hoặc bất kỳ vật gì; chẳng hạn 什么 chỉ bất kỳ thứ gì, 谁 chỉ bất kỳ ai. Những đại từ này thường được dùng kết hợp với 都/也 trong câu.",
+          "en": "Question words used in a general sense: 什么, 谁, 哪, 哪儿, 哪里, 怎么, etc. can refer to any person or thing, e.g. 什么 = anything, 谁 = anyone. They are usually used with 都/也 in the sentence.",
+          "ex": [
+            {
+              "zh": "没关系，不用道歉，【谁】【都】有粗心填错的时候。",
+              "vi": "Không sao, không cần xin lỗi, ai cũng có lúc sơ ý điền sai.",
+              "en": "It's fine, no need to apologise. Everyone fills something in wrong by mistake sometimes."
+            },
+            {
+              "zh": "昨天我做了一个奇怪的梦，但是早上起来【怎么】想【都】想不起来。",
+              "vi": "Hôm qua tôi mơ một giấc mơ kỳ lạ, nhưng sáng dậy nghĩ thế nào cũng không nhớ ra.",
+              "en": "I had a strange dream last night, but this morning I couldn't remember it however hard I tried."
+            },
+            {
+              "zh": "“世界上没有免费的午餐”这句话是说，【什么】东西【都】要通过努力才能得到。",
+              "vi": "Câu “Trên đời không có bữa trưa nào miễn phí” có nghĩa là thứ gì cũng phải nỗ lực mới có được.",
+              "en": "The saying “There's no such thing as a free lunch” means that you only get anything through hard work."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "每个人都有自己的生活，____？",
+            "hint": "谁",
+            "a": "每个人都有自己的生活，【谁也不用羡慕谁】？",
+            "vi": "Mỗi người đều có cuộc sống riêng, ai cần phải ngưỡng mộ ai?",
+            "en": "Everyone has their own life, so why should anyone envy anyone else?",
+            "sample": true
+          },
+          {
+            "q": "____，所以他总是不开心。",
+            "hint": "什么",
+            "a": "【他什么都想要】，所以他总是不开心。",
+            "vi": "Cái gì anh ấy cũng muốn có, nên lúc nào cũng không vui.",
+            "en": "He wants everything, so he's never happy.",
+            "sample": true
+          },
+          {
+            "q": "我已经练习了好几遍了，____？",
+            "hint": "怎么",
+            "a": "我已经练习了好几遍了，【为什么怎么做都做不好呢】？",
+            "vi": "Tôi đã luyện mấy lần rồi, sao làm thế nào cũng không làm tốt được?",
+            "en": "I've practised it several times. Why can't I get it right however I do it?",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "上",
+      "uses": [
+        {
+          "vi": "Động từ 上 được dùng sau động từ khác để làm bổ ngữ chỉ phương hướng hoặc bổ ngữ chỉ khả năng. Khi làm bổ ngữ chỉ phương hướng, 上 có nghĩa mở rộng là mục đích của hành động đã đạt được. Khi làm bổ ngữ chỉ khả năng, 上 diễn tả ý người ta có đạt được mục đích hay không khi thực hiện hành động.",
+          "en": "上 can follow another verb as a directional or potential complement. As a directional complement it can mean the goal of the action has been achieved; as a potential complement (V得上 / V不上) it says whether the goal can be achieved.",
+          "ex": [
+            {
+              "zh": "看来今天吃不【上】羊肉饺子了。",
+              "vi": "Xem ra hôm nay không được ăn sủi cảo thịt cừu rồi.",
+              "en": "Looks like we won't get to have lamb dumplings today."
+            },
+            {
+              "zh": "现在堵车这么厉害，看来今天坐不【上】8点那趟去上海的飞机了。",
+              "vi": "Bây giờ tắc đường kinh khủng thế này, xem ra hôm nay không kịp chuyến bay 8 giờ đi Thượng Hải rồi.",
+              "en": "The traffic is so bad, it looks like I won't make the 8 o'clock flight to Shanghai today."
+            },
+            {
+              "zh": "一听到哥哥考【上】了经济专业的博士，我们全家都特别高兴。",
+              "vi": "Vừa nghe tin anh trai thi đỗ tiến sĩ ngành kinh tế, cả nhà tôi đều vô cùng vui mừng.",
+              "en": "As soon as we heard my brother had got into a PhD in economics, the whole family was thrilled."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "要是你想去云南旅游应该早点儿买火车票，____。",
+            "hint": "上",
+            "a": "要是你想去云南旅游应该早点儿买火车票，【否则可能买不上】。",
+            "vi": "Nếu bạn muốn đi du lịch Vân Nam thì nên mua vé tàu sớm, nếu không có thể không mua được.",
+            "en": "If you want to travel to Yunnan, buy your train ticket early, otherwise you may not get one.",
+            "sample": true
+          },
+          {
+            "q": "早就听说这个饭馆儿的菜特别好吃，____。",
+            "hint": "上",
+            "a": "早就听说这个饭馆儿的菜特别好吃，【今天终于吃上了】。",
+            "vi": "Từ lâu đã nghe nói món ở quán này rất ngon, hôm nay cuối cùng cũng được ăn.",
+            "en": "I'd heard long ago that the food here was delicious, and today I finally got to try it.",
+            "sample": true
+          },
+          {
+            "q": "周末我们本来想去看电影，____。",
+            "hint": "上",
+            "a": "周末我们本来想去看电影，【可是票都卖完了，没看上】。",
+            "vi": "Cuối tuần chúng tôi định đi xem phim, nhưng vé bán hết rồi, không xem được.",
+            "en": "We'd planned to see a film at the weekend, but the tickets had sold out and we didn't get to.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "出来",
+      "uses": [
+        {
+          "vi": "Động từ 出来 có thể được dùng sau động từ khác để làm bổ ngữ chỉ phương hướng, diễn tả hành động/hoạt động nào đó làm cho sự vật thay đổi trạng thái từ không tồn tại sang hiện hữu, từ bị che khuất sang lộ rõ.",
+          "en": "出来 can follow another verb as a directional complement, meaning the action brings something from non-existence into existence, or from hidden to visible.",
+          "ex": [
+            {
+              "zh": "有的人心里有什么看法或意见，嘴上就会直接说【出来】。",
+              "vi": "Có người trong lòng có quan điểm hay ý kiến gì là nói thẳng ra miệng ngay.",
+              "en": "Some people say straight out whatever views or opinions they have."
+            },
+            {
+              "zh": "你要的那篇文章我已经翻译【出来】了，你方便的时候就来取吧。",
+              "vi": "Bài viết bạn cần tôi đã dịch xong rồi, khi nào tiện thì bạn đến lấy nhé.",
+              "en": "I've finished translating the article you wanted. Come and pick it up whenever it's convenient."
+            },
+            {
+              "zh": "刚才我在旁边看到你跳中国舞了，没看【出来】你跳得这么好！",
+              "vi": "Lúc nãy tôi đứng bên cạnh xem bạn múa điệu múa Trung Quốc, không nhận ra là bạn múa đẹp đến thế!",
+              "en": "I was watching you do Chinese dance just now. I had no idea you danced so well!"
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "出来—起来",
+        "uses": [
+          {
+            "vi": "Khác nhau 1: 出来 và 起来 đều được dùng sau động từ khác để làm bổ ngữ chỉ phương hướng hoặc khả năng nhưng có nghĩa khác nhau. 出来 diễn tả hướng của hành động là từ trong ra ngoài, 起来 diễn tả hướng của hành động là từ dưới lên trên.",
+            "en": "Difference 1: both follow a verb as a directional or potential complement but mean different things. 出来 means 'out' (from inside to outside); 起来 means 'up' (from below to above).",
+            "ex": [
+              {
+                "zh": "我的日记本掉到沙发后面了，拿不【出来】了，你来帮我抬一下沙发吧。",
+                "vi": "Cuốn nhật ký của tôi rơi ra sau sofa rồi, không lấy ra được, bạn giúp tôi nâng sofa lên một chút nhé.",
+                "en": "My diary has fallen behind the sofa and I can't get it out. Come and help me lift the sofa."
+              },
+              {
+                "zh": "早上六点，他还睡着，电话突然响了，他连忙坐【起来】接电话。",
+                "vi": "Sáu giờ sáng, anh ấy vẫn đang ngủ thì điện thoại đột nhiên reo, anh vội vàng ngồi dậy nghe máy.",
+                "en": "At six in the morning he was still asleep when the phone suddenly rang, and he quickly sat up to answer it."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: 出来 có thể có nghĩa mở rộng là hành động/hoạt động làm cho sự vật thay đổi trạng thái từ không tồn tại sang hiện hữu, từ bị che khuất sang lộ rõ; 起来 có thể có nghĩa mở rộng là hành động bắt đầu và tiếp diễn.",
+            "en": "Difference 2: in extended use, 出来 means bringing something into existence or into view; 起来 means an action starts and continues.",
+            "ex": [
+              {
+                "zh": "你能算【出来】这两个地方之间的距离是多少公里吗？",
+                "vi": "Bạn có tính ra được khoảng cách giữa hai nơi này là bao nhiêu cây số không?",
+                "en": "Can you work out how many kilometres it is between these two places?"
+              },
+              {
+                "zh": "尽管现在才4月，天气已经开始慢慢热【起来】。",
+                "vi": "Tuy bây giờ mới tháng 4 nhưng thời tiết đã bắt đầu nóng dần lên.",
+                "en": "Although it's only April, the weather is already starting to warm up."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 3: 想出来 chỉ thông tin vốn không có trong đầu mà do người nào đó nghĩ ra sau khi suy nghĩ; 想起来 chỉ thông tin vốn có sẵn trong đầu nhưng họ đã quên mất và sau đó nhớ lại được.",
+            "en": "Difference 3: 想出来 means coming up with something that wasn't in your head before; 想起来 means recalling something you already knew but had forgotten.",
+            "ex": [
+              {
+                "zh": "有几个选择题，实在想不【出来】该选哪个，只好随便选一个。",
+                "vi": "Có mấy câu trắc nghiệm, thật sự nghĩ không ra nên chọn đáp án nào, đành chọn bừa một cái.",
+                "en": "There were a few multiple-choice questions where I really couldn't work out which to pick, so I just chose one at random."
+              },
+              {
+                "zh": "我想【起来】了，那个唱歌的男孩子是高老师的孙子。",
+                "vi": "Tôi nhớ ra rồi, cậu bé hát kia là cháu nội của thầy Cao.",
+                "en": "Now I remember: the boy who's singing is Teacher Gao's grandson."
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "久坐办公室的人有时间一定要站____活动活动。",
+              "key": "出来 ✗ · 起来 ✓",
+              "a": "久坐办公室的人有时间一定要站【起来】活动活动。",
+              "vi": "Người ngồi văn phòng lâu, có thời gian nhất định phải đứng dậy vận động.",
+              "en": "People who sit in an office all day must stand up and move around when they can."
+            },
+            {
+              "q": "这个主意好像是三班的一个学生想____的。",
+              "key": "出来 ✓ · 起来 ✗",
+              "a": "这个主意好像是三班的一个学生想【出来】的。",
+              "vi": "Ý tưởng này hình như là do một học sinh lớp 3 nghĩ ra.",
+              "en": "This idea seems to have been thought up by a student in Class 3."
+            },
+            {
+              "q": "声音听着{zhe}挺熟悉的，不过我一下子想不____了。",
+              "key": "出来 ✗ · 起来 ✓ (nhớ lại)",
+              "a": "声音听着{zhe}挺熟悉的，不过我一下子想不【起来】了。",
+              "vi": "Giọng nói nghe khá quen, nhưng nhất thời tôi không nhớ ra.",
+              "en": "The voice sounds familiar, but I can't place it right now."
+            },
+            {
+              "q": "遇到烦恼事时，你应该想一些办法让自己从不高兴的心情中走____。",
+              "key": "出来 ✓ (từ trong ra ngoài) · 起来 ✗",
+              "a": "遇到烦恼事时，你应该想一些办法让自己从不高兴的心情中走【出来】。",
+              "vi": "Khi gặp chuyện phiền lòng, bạn nên nghĩ cách giúp mình thoát ra khỏi tâm trạng không vui.",
+              "en": "When something upsets you, find ways to get yourself out of your bad mood."
+            },
+            {
+              "q": "你回去后把今天大家在会上提的意见都整理____。",
+              "key": "出来 ✓ · 起来 ✗",
+              "a": "你回去后把今天大家在会上提的意见都整理【出来】。",
+              "vi": "Bạn về rồi sắp xếp lại tất cả ý kiến mọi người đưa ra trong cuộc họp hôm nay.",
+              "en": "When you get back, write up all the suggestions people made at today's meeting."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "经理让小李写一篇文章，____。",
+            "hint": "出来",
+            "a": "经理让小李写一篇文章，【他一个晚上就写出来了】。",
+            "vi": "Giám đốc bảo Tiểu Lý viết một bài văn, cậu ấy một buổi tối đã viết xong.",
+            "en": "The manager asked Xiao Li to write an article, and he wrote it in a single evening.",
+            "sample": true
+          },
+          {
+            "q": "今天老师问了个问题，____。",
+            "hint": "出来",
+            "a": "今天老师问了个问题，【我想了半天也没想出来】。",
+            "vi": "Hôm nay thầy hỏi một câu, tôi nghĩ mãi cũng không nghĩ ra.",
+            "en": "The teacher asked a question today, and I thought about it for ages but couldn't come up with the answer.",
+            "sample": true
+          },
+          {
+            "q": "有的人虽然看到了别人的缺点，____。",
+            "hint": "出来",
+            "a": "有的人虽然看到了别人的缺点，【但是不会直接说出来】。",
+            "vi": "Có người tuy thấy khuyết điểm của người khác nhưng sẽ không nói thẳng ra.",
+            "en": "Some people see others' faults but don't say so directly.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "总的来说",
+      "uses": [
+        {
+          "vi": "总的来说 thường được dùng làm thành phần xen kẽ để diễn tả rằng người nào đó đưa ra nhận xét dựa trên tổng thể hay các tình huống chủ yếu (nhìn chung, nói chung).",
+          "en": "总的来说 is a parenthetical phrase meaning the speaker is commenting on the whole or the main points: 'all in all, generally speaking'.",
+          "ex": [
+            {
+              "zh": "广告上说房子交通方便，周围很安静，厨房很大。【总的来说】，这套房子他很满意，于是他就记下了房东的手机号码。",
+              "vi": "Quảng cáo nói căn nhà đi lại thuận tiện, xung quanh yên tĩnh, bếp rộng. Nhìn chung, anh ấy rất hài lòng với căn nhà này, thế là ghi lại số điện thoại của chủ nhà.",
+              "en": "The ad said the flat had good transport links, quiet surroundings and a big kitchen. All in all he was very happy with it, so he wrote down the landlord's mobile number."
+            },
+            {
+              "zh": "这个公司的工资虽然不算很高，但是奖金很多，所以【总的来说】收入还不错。",
+              "vi": "Lương ở công ty này tuy không tính là cao nhưng thưởng nhiều, nên nhìn chung thu nhập khá tốt.",
+              "en": "The salary at this company isn't that high, but the bonuses are generous, so overall the income is pretty good."
+            },
+            {
+              "zh": "很多人问去丽江旅游怎么样，【总的来说】，丽江景色不错，那里的人也很热情，去那里旅游是个不错的选择。",
+              "vi": "Nhiều người hỏi đi du lịch Lệ Giang thế nào, nói chung, phong cảnh Lệ Giang đẹp, người ở đó cũng rất nhiệt tình, đi du lịch ở đó là một lựa chọn không tồi.",
+              "en": "Lots of people ask what a trip to Lijiang is like. Generally speaking, the scenery is lovely and the people are very friendly, so it's a good choice."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "去国外留学有好处也有坏处，____。",
+            "hint": "总的来说",
+            "a": "去国外留学有好处也有坏处，【总的来说，还是好处多】。",
+            "vi": "Đi du học nước ngoài có lợi cũng có hại, nhìn chung thì lợi vẫn nhiều hơn.",
+            "en": "Studying abroad has advantages and disadvantages, but on the whole there are more advantages.",
+            "sample": true
+          },
+          {
+            "q": "每个人虽然都会遇到一些困难，____。",
+            "hint": "总的来说",
+            "a": "每个人虽然都会遇到一些困难，【总的来说，生活还是美好的】。",
+            "vi": "Ai cũng sẽ gặp một số khó khăn, nhưng nhìn chung cuộc sống vẫn tươi đẹp.",
+            "en": "Everyone meets some difficulties, but on the whole life is still good.",
+            "sample": true
+          },
+          {
+            "q": "这件衣服价格有点儿高，____。",
+            "hint": "总的来说",
+            "a": "这件衣服价格有点儿高，【不过总的来说，质量还是不错的】。",
+            "vi": "Bộ quần áo này giá hơi cao, nhưng nhìn chung chất lượng vẫn khá tốt.",
+            "en": "This piece of clothing is a bit expensive, but on the whole the quality is good.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "在于",
+      "uses": [
+        {
+          "vi": "Động từ 在于 thường được dùng trong văn viết để chỉ bản chất của sự vật, có nghĩa là ở chỗ, chính là. Chủ ngữ của 在于 thường là cụm danh từ; phải dùng danh từ, động từ hay câu ngắn sau 在于 để làm tân ngữ của động từ này.",
+          "en": "The verb 在于 ('to lie in, to rest with') is mostly written and points out the essence of something. Its subject is usually a noun phrase, and it must take a noun, verb or short clause as its object.",
+          "ex": [
+            {
+              "zh": "人们常说“生命【在于】运动”，所以很多人一到周末就会到体育馆打几场球。",
+              "vi": "Người ta thường nói “Sự sống nằm ở vận động”, vì vậy nhiều người cứ đến cuối tuần là ra nhà thi đấu chơi vài trận bóng.",
+              "en": "People often say “Life lies in movement”, so lots of people go to the sports centre to play a few games every weekend."
+            },
+            {
+              "zh": "选择职业的关键【在于】兴趣，当你喜欢做一件事情的时候，你会带着热情去工作，就不会感到累，更不会觉得有太大的压力。",
+              "vi": "Mấu chốt của việc chọn nghề nằm ở sở thích, khi bạn thích làm một việc gì đó, bạn sẽ làm việc với nhiệt huyết, sẽ không thấy mệt, càng không thấy áp lực quá lớn.",
+              "en": "The key to choosing a career lies in interest. When you enjoy what you do, you work with enthusiasm, you don't feel tired, and you certainly don't feel too much pressure."
+            },
+            {
+              "zh": "没有人能一生都顺顺利利、没有失败。区别【在于】有的人能接受失败，找到失败的原因并继续努力；而有的人却在失败面前停下了脚步。",
+              "vi": "Không ai có thể suôn sẻ cả đời, không bao giờ thất bại. Sự khác biệt nằm ở chỗ có người chấp nhận được thất bại, tìm ra nguyên nhân và tiếp tục cố gắng; còn có người lại dừng bước trước thất bại.",
+              "en": "Nobody goes through life smoothly without ever failing. The difference lies in the fact that some people can accept failure, find out why it happened and keep trying, while others stop in their tracks."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "每个人对幸福的理解不同，____。",
+            "hint": "在于",
+            "a": "每个人对幸福的理解不同，【幸福的关键在于自己是否满足】。",
+            "vi": "Mỗi người hiểu về hạnh phúc khác nhau, mấu chốt của hạnh phúc nằm ở chỗ bản thân có thấy đủ hay không.",
+            "en": "Everyone understands happiness differently; the key to happiness lies in whether you yourself are content.",
+            "sample": true
+          },
+          {
+            "q": "取得成功的人都经历过许多失败，____。",
+            "hint": "在于",
+            "a": "取得成功的人都经历过许多失败，【他们和普通人的区别在于他们坚持了下来】。",
+            "vi": "Người thành công đều đã trải qua nhiều thất bại, sự khác biệt giữa họ và người thường nằm ở chỗ họ đã kiên trì đến cùng.",
+            "en": "Successful people have all been through many failures; the difference between them and ordinary people lies in the fact that they kept going.",
+            "sample": true
+          },
+          {
+            "q": "他做事情常常能达到事半功倍的效果，____。",
+            "hint": "在于",
+            "a": "他做事情常常能达到事半功倍的效果，【原因在于他很注意方法】。",
+            "vi": "Anh ấy làm việc thường đạt hiệu quả làm ít được nhiều, nguyên nhân nằm ở chỗ anh ấy rất chú ý phương pháp.",
+            "en": "He often gets twice the result with half the effort; the reason lies in his attention to method.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "高老师的语气：\n如果你希望下个学期继续在这里学习，……",
+          "label": "课文1",
+          "a": "如果你希望下个学期继续在这里学习，就需要重新申请。申请表上出生年月、性别、护照号码都要填，还有联系地址、联系电话。马克不小心把护照号码填错了，我告诉他不用道歉，谁都有粗心填错的时候，又给他重新打印了一份。他填完以后，我们还要把他的护照复印一下。",
+          "vi": "Nếu muốn học kỳ sau tiếp tục học ở đây thì cần nộp đơn lại. Trên đơn phải điền năm tháng sinh, giới tính, số hộ chiếu, còn có địa chỉ và số điện thoại liên lạc. Mark sơ ý điền sai số hộ chiếu, tôi bảo cậu ấy không cần xin lỗi, ai cũng có lúc sơ ý điền sai, rồi in lại cho cậu ấy một tờ. Điền xong, chúng tôi còn phải photo hộ chiếu của cậu ấy.",
+          "en": "If you want to continue studying here next semester, you have to apply again. You need to fill in your date of birth, sex, passport number, contact address and phone number. Mark accidentally filled in his passport number wrong; I told him there was no need to apologize, as everyone makes careless mistakes, and printed him a new form. After he filled it in, we needed to photocopy his passport.",
+          "sample": true
+        },
+        {
+          "q": "王静的语气：\n周末我本来想给李进做点儿羊肉饺子，……",
+          "label": "课文2",
+          "a": "周末我本来想给李进做点儿羊肉饺子，可是用刀切肉的时候把手弄破了。李进说不太严重，过几天就好了，还让我把衣服脱下来，他给我洗洗。看来今天吃不上羊肉饺子了，李进说去他常去的那家理发店附近的餐厅买包子，我衣服口袋里有十几块零钱，买包子应该够。",
+          "vi": "Cuối tuần lúc đầu tôi định làm sủi cảo thịt cừu cho Lý Tiến, nhưng lúc dùng dao thái thịt bị đứt tay. Lý Tiến nói không nghiêm trọng lắm, mấy hôm là khỏi, còn bảo tôi cởi áo ra để anh ấy giặt. Xem ra hôm nay không được ăn sủi cảo thịt cừu rồi, Lý Tiến nói đi mua bánh bao ở nhà hàng gần tiệm cắt tóc anh ấy hay đến, trong túi áo tôi có mười mấy tệ tiền lẻ, mua bánh bao chắc đủ.",
+          "en": "At the weekend I wanted to make lamb dumplings for Li Jin, but I cut my hand with the knife while chopping meat. Li Jin said it wasn't serious and would heal in a few days, and told me to take off my clothes so he could wash them. We couldn't have lamb dumplings, so Li Jin went to buy steamed buns at the restaurant near his hairdresser's. I had a dozen or so yuan in my pocket, which should be enough.",
+          "sample": true
+        },
+        {
+          "q": "安娜的语气：\n今天真不好意思，早上我忘戴眼镜了，……",
+          "label": "课文3",
+          "a": "今天真不好意思，早上我忘戴眼镜了，马克跟我打招呼，我没看见。后来他看到我跳中国舞，以为我以前在我们国家学过。其实是我小时候妈妈教我跳过两年的舞，所以稍微有点儿基础。马克刚学这种舞没多久，他的动作还不太标准，我给他跳了一遍，告诉他应该先抬胳膊，然后抬腿，最后头再向右转一下。",
+          "vi": "Hôm nay thật ngại quá, sáng nay tôi quên đeo kính, Mark chào tôi mà tôi không thấy. Sau đó cậu ấy thấy tôi múa điệu múa Trung Quốc, tưởng trước đây tôi đã học ở nước mình. Thật ra là hồi nhỏ mẹ dạy tôi múa hai năm nên có chút nền tảng. Mark mới học điệu múa này chưa lâu, động tác còn chưa chuẩn, tôi múa cho cậu ấy xem một lượt, bảo cậu ấy giơ tay lên trước, rồi nhấc chân, cuối cùng quay đầu sang phải.",
+          "en": "I'm so embarrassed: I forgot my glasses this morning and didn't see Mark when he said hello. Later he saw me doing Chinese dance and thought I'd learned it in my country. Actually my mum taught me dance for two years when I was little, so I have a bit of a foundation. Mark has only just started learning, and his moves weren't quite right, so I danced it once for him and told him to raise his arms first, then lift his leg, and finally turn his head to the right.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "打招呼",
+        "场",
+        "性别",
+        "吵",
+        "禁止"
+      ],
+      "items": [
+        {
+          "q": "请在表格上填好姓名、____、年龄、职业等，然后再给我们传真过来。",
+          "key": "性别",
+          "a": "请在表格上填好姓名、【性别】、年龄、职业等，然后再给我们传真过来。",
+          "vi": "Vui lòng điền vào mẫu đơn họ tên, giới tính, tuổi, nghề nghiệp…, rồi fax cho chúng tôi.",
+          "en": "Please fill in your name, sex, age, occupation and so on, then fax the form to us."
+        },
+        {
+          "q": "我觉得咱们还是换个地方住吧。这个小区太____了，我怕影响孩子学习和休息。",
+          "key": "吵",
+          "a": "我觉得咱们还是换个地方住吧。这个小区太【吵】了，我怕影响孩子学习和休息。",
+          "vi": "Tôi thấy chúng ta nên đổi chỗ ở thôi. Khu này ồn quá, tôi sợ ảnh hưởng đến việc học và nghỉ ngơi của con.",
+          "en": "I think we'd better move. This estate is too noisy; I'm afraid it'll affect the children's studies and rest."
+        },
+        {
+          "q": "抽烟不但污染空气，影响身体健康，而且在加油站这样的地方抽烟非常危险，因此，很多地方都____抽烟。",
+          "key": "禁止",
+          "a": "抽烟不但污染空气，影响身体健康，而且在加油站这样的地方抽烟非常危险，因此，很多地方都【禁止】抽烟。",
+          "vi": "Hút thuốc không những làm ô nhiễm không khí, ảnh hưởng sức khỏe, mà hút thuốc ở những nơi như trạm xăng còn rất nguy hiểm, vì vậy nhiều nơi cấm hút thuốc.",
+          "en": "Smoking not only pollutes the air and harms your health; smoking somewhere like a petrol station is also very dangerous. So smoking is banned in many places."
+        },
+        {
+          "q": "要想更快适应新环境，其实有很多办法。比如，多和周围的人____，在别人遇到麻烦的时候去帮一把，等等。",
+          "key": "打招呼",
+          "a": "要想更快适应新环境，其实有很多办法。比如，多和周围的人【打招呼】，在别人遇到麻烦的时候去帮一把，等等。",
+          "vi": "Muốn nhanh thích nghi với môi trường mới thật ra có nhiều cách. Ví dụ chào hỏi những người xung quanh nhiều hơn, giúp một tay khi người khác gặp rắc rối…",
+          "en": "There are many ways to adapt to a new environment more quickly, such as greeting the people around you and lending a hand when others have trouble."
+        },
+        {
+          "q": "这个京剧我一直想看，下星期六是他们在这儿的最后一____演出。中午你记得提醒我去买票，否则我就没有机会看了。",
+          "key": "场",
+          "a": "这个京剧我一直想看，下星期六是他们在这儿的最后一【场】演出。中午你记得提醒我去买票，否则我就没有机会看了。",
+          "vi": "Vở Kinh kịch này tôi muốn xem mãi, thứ bảy tuần sau là buổi diễn cuối cùng của họ ở đây. Trưa nay nhớ nhắc tôi đi mua vé, nếu không tôi sẽ không có cơ hội xem nữa.",
+          "en": "I've always wanted to see this Peking opera, and next Saturday is their last performance here. Remember to remind me to buy tickets at lunchtime, otherwise I'll miss my chance."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "占线",
+        "道歉",
+        "座位",
+        "打印",
+        "零钱"
+      ],
+      "items": [
+        {
+          "q": "A：先生，一共二百三十九块七。您付现金还是刷卡？\nB：现金。我带的____应该够了。",
+          "key": "零钱",
+          "a": "A：先生，一共二百三十九块七。您付现金还是刷卡？\nB：现金。我带的【零钱】应该够了。",
+          "vi": "A: Thưa anh, tổng cộng hai trăm ba mươi chín tệ bảy hào. Anh trả tiền mặt hay quẹt thẻ?\nB: Tiền mặt. Tiền lẻ tôi mang chắc đủ.",
+          "en": "A: That's 239.70 altogether, sir. Cash or card?\nB: Cash. I should have enough change."
+        },
+        {
+          "q": "A：请问，您一共几位？\nB：我们一共四个人，麻烦你给我们找个安静点儿的____。",
+          "key": "座位",
+          "a": "A：请问，您一共几位？\nB：我们一共四个人，麻烦你给我们找个安静点儿的【座位】。",
+          "vi": "A: Xin hỏi anh chị đi mấy người?\nB: Chúng tôi tổng cộng bốn người, phiền bạn tìm cho chúng tôi chỗ ngồi yên tĩnh một chút.",
+          "en": "A: How many are you?\nB: Four. Could you find us a quiet table, please?"
+        },
+        {
+          "q": "A：明天几点到？八点来得及来不及？\nB：提前点儿吧，咱们还得{děi}负责____会议材料呢。",
+          "key": "打印",
+          "a": "A：明天几点到？八点来得及来不及？\nB：提前点儿吧，咱们还得{děi}负责【打印】会议材料呢。",
+          "vi": "A: Mai mấy giờ đến? Tám giờ có kịp không?\nB: Sớm hơn chút đi, chúng ta còn phải phụ trách in tài liệu họp.",
+          "en": "A: What time should we arrive tomorrow? Is eight early enough?\nB: Come a bit earlier. We're responsible for printing the meeting documents."
+        },
+        {
+          "q": "A：我是专门来向您____的，我真的觉得很对不起您。\nB：没关系，过去的事情就让它过去吧，你也别太放在心上。",
+          "key": "道歉",
+          "a": "A：我是专门来向您【道歉】的，我真的觉得很对不起您。\nB：没关系，过去的事情就让它过去吧，你也别太放在心上。",
+          "vi": "A: Tôi đặc biệt đến xin lỗi anh, tôi thật sự thấy rất có lỗi với anh.\nB: Không sao, chuyện đã qua thì để nó qua đi, bạn cũng đừng để bụng quá.",
+          "en": "A: I've come specially to apologize. I really feel terrible.\nB: It's all right. Let bygones be bygones; don't take it to heart."
+        },
+        {
+          "q": "A：李经理的电话一直____，去办公室找他，敲了半天门，也没人开。\nB：他刚出去开会了，可能下午才能回来。",
+          "key": "占线",
+          "a": "A：李经理的电话一直【占线】，去办公室找他，敲了半天门，也没人开。\nB：他刚出去开会了，可能下午才能回来。",
+          "vi": "A: Điện thoại của giám đốc Lý cứ bận máy mãi, đến văn phòng tìm thì gõ cửa mãi cũng không ai mở.\nB: Ông ấy vừa đi họp rồi, có lẽ chiều mới về.",
+          "en": "A: Manager Li's line is always busy, and when I went to his office I knocked for ages but nobody answered.\nB: He's just gone out to a meeting. He probably won't be back until the afternoon."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 发",
+    "en": "Words sharing a character: 发",
+    "words": [
+      {
+        "zh": "沙发",
+        "py": "shāfā",
+        "vi": "ghế sofa",
+        "en": "sofa"
+      },
+      {
+        "zh": "发生",
+        "py": "fāshēng",
+        "vi": "xảy ra",
+        "en": "to happen"
+      },
+      {
+        "zh": "发展",
+        "py": "fāzhǎn",
+        "vi": "phát triển",
+        "en": "development"
+      },
+      {
+        "zh": "理发",
+        "py": "lǐ fà",
+        "vi": "cắt tóc",
+        "en": "to have a haircut"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "你回到家就把衣服、书包什么的扔在【沙发】上，房间太乱了，你抽时间收拾一下吧。",
+        "vi": "Con về đến nhà là vứt quần áo, cặp sách lên sofa, phòng bừa bộn quá, con dành thời gian dọn dẹp đi.",
+        "en": "As soon as you get home you throw your clothes, school bag and everything onto the sofa. The room's a mess; find time to tidy it up."
+      },
+      {
+        "zh": "随着年龄的增长，人们对很多事情的看法是会【发生】变化的，有可能和以前的看法完全不同。",
+        "vi": "Cùng với tuổi tác tăng lên, cách nhìn của con người về nhiều chuyện sẽ thay đổi, có thể hoàn toàn khác trước đây.",
+        "en": "As people get older, their views on many things change and may become completely different from before."
+      },
+      {
+        "zh": "我本以为任务能顺利完成，没想到事情的【发展】情况跟我想的正好相反。",
+        "vi": "Tôi vốn tưởng nhiệm vụ sẽ hoàn thành thuận lợi, không ngờ diễn biến sự việc lại hoàn toàn ngược với những gì tôi nghĩ.",
+        "en": "I'd thought the task would go smoothly, but things developed in exactly the opposite way to what I expected."
+      },
+      {
+        "zh": "对面那条街上新开了一家【理发】店，听说那个店的【理发】师技术不错。",
+        "vi": "Con phố đối diện mới mở một tiệm cắt tóc, nghe nói thợ cắt tóc ở đó tay nghề khá tốt.",
+        "en": "A new hairdresser's has opened on the street opposite. I hear the hairdresser there is quite skilled."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "发展",
+        "理发",
+        "沙发",
+        "发生"
+      ],
+      "items": [
+        {
+          "q": "注意速度，我们又不赶时间，太快了容易____危险。",
+          "key": "发生",
+          "a": "注意速度，我们又不赶时间，太快了容易【发生】危险。",
+          "vi": "Chú ý tốc độ, chúng ta có vội gì đâu, nhanh quá dễ xảy ra nguy hiểm.",
+          "en": "Watch your speed. We're not in a hurry, and going too fast can easily lead to danger."
+        },
+        {
+          "q": "商场年底有活动，正在打折，这个黑色的____比平时便宜了一千块。",
+          "key": "沙发",
+          "a": "商场年底有活动，正在打折，这个黑色的【沙发】比平时便宜了一千块。",
+          "vi": "Trung tâm thương mại cuối năm có chương trình, đang giảm giá, chiếc sofa màu đen này rẻ hơn bình thường một nghìn tệ.",
+          "en": "The mall has a year-end sale on, and this black sofa is a thousand yuan cheaper than usual."
+        },
+        {
+          "q": "帮助别人可以积累人际关系，为自己的职业____打下基础。",
+          "key": "发展",
+          "a": "帮助别人可以积累人际关系，为自己的职业【发展】打下基础。",
+          "vi": "Giúp đỡ người khác có thể tích lũy các mối quan hệ, đặt nền tảng cho sự phát triển nghề nghiệp của mình.",
+          "en": "Helping others builds relationships and lays the foundation for your career development."
+        },
+        {
+          "q": "出了南门向左走大约五百米，就能看到一个黄色的二层小楼，____店就在一层。",
+          "key": "理发",
+          "a": "出了南门向左走大约五百米，就能看到一个黄色的二层小楼，【理发】店就在一层。",
+          "vi": "Ra cổng nam rẽ trái đi khoảng năm trăm mét là thấy một tòa nhà nhỏ hai tầng màu vàng, tiệm cắt tóc ở tầng một.",
+          "en": "Go out of the south gate and turn left, and after about 500 metres you'll see a small yellow two-storey building. The hairdresser's is on the ground floor."
+        }
+      ]
+    }
+  }
+}

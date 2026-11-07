@@ -1,0 +1,1087 @@
+{
+  "n": 1,
+  "zh": "简单的爱情",
+  "vi": "Tình yêu đơn giản",
+  "en": "Simple love",
+  "texts": [
+    {
+      "title": "孙月和王静聊王静的男朋友",
+      "paras": [
+        {
+          "zh": "孙月：听说你男朋友李进跟你是一个学校的，是你同学吗？",
+          "vi": "Tôn Nguyệt: Nghe nói bạn trai cậu là Lý Tiến học cùng trường với cậu, là bạn cùng lớp à?",
+          "en": "Sun Yue: I heard your boyfriend Li Jin goes to the same school as you. Is he your classmate?"
+        },
+        {
+          "zh": "王静：是的，他学的是新闻，我学的是法律，我和他不是一个班。",
+          "vi": "Vương Tịnh: Đúng vậy, anh ấy học báo chí, tớ học luật, tớ với anh ấy không cùng lớp.",
+          "en": "Wang Jing: Yes. He studies journalism and I study law, so we're not in the same class."
+        },
+        {
+          "zh": "孙月：那你们俩是怎么认识的？",
+          "vi": "Tôn Nguyệt: Thế hai người quen nhau thế nào?",
+          "en": "Sun Yue: So how did you two meet?"
+        },
+        {
+          "zh": "王静：我们是在一次足球比赛中认识的。我们班跟他们班比赛，他一个人踢进两个球，我对他印象很深，后来就慢慢熟悉了。",
+          "vi": "Vương Tịnh: Bọn tớ quen nhau trong một trận bóng đá. Lớp tớ đá với lớp anh ấy, một mình anh ấy ghi hai bàn, tớ có ấn tượng rất sâu về anh ấy, sau đó dần dần thân quen.",
+          "en": "Wang Jing: We met at a football match. My class played against his, and he scored two goals by himself. He made a strong impression on me, and later we gradually got to know each other."
+        },
+        {
+          "zh": "孙月：你为什么喜欢他？",
+          "vi": "Tôn Nguyệt: Sao cậu lại thích anh ấy?",
+          "en": "Sun Yue: Why do you like him?"
+        },
+        {
+          "zh": "王静：他不仅足球踢得好，性格也不错。",
+          "vi": "Vương Tịnh: Anh ấy không những đá bóng giỏi mà tính cách cũng tốt.",
+          "en": "Wang Jing: Not only is he good at football, he has a nice personality too."
+        }
+      ],
+      "words": [
+        {
+          "zh": "法律",
+          "py": "fǎlǜ",
+          "pos": "dt.",
+          "vi": "pháp luật, luật",
+          "en": "law"
+        },
+        {
+          "zh": "俩",
+          "py": "liǎ",
+          "pos": "sl.",
+          "vi": "hai",
+          "en": "two (people)"
+        },
+        {
+          "zh": "印象",
+          "py": "yìnxiàng",
+          "pos": "dt.",
+          "vi": "ấn tượng",
+          "en": "impression"
+        },
+        {
+          "zh": "深",
+          "py": "shēn",
+          "pos": "tt.",
+          "vi": "sâu sắc",
+          "en": "deep"
+        },
+        {
+          "zh": "熟悉",
+          "py": "shúxi",
+          "pos": "đgt.",
+          "vi": "hiểu rõ",
+          "en": "to know well, to be familiar with"
+        },
+        {
+          "zh": "不仅",
+          "py": "bùjǐn",
+          "pos": "liên.",
+          "vi": "không những, chẳng những",
+          "en": "not only"
+        },
+        {
+          "zh": "性格",
+          "py": "xìnggé",
+          "pos": "dt.",
+          "vi": "tính cách, tính nết",
+          "en": "personality, character"
+        }
+      ],
+      "names": [
+        {
+          "zh": "孙月",
+          "py": "Sūn Yuè",
+          "vi": "Tôn Nguyệt (tên người)",
+          "en": "Sun Yue (a name)"
+        },
+        {
+          "zh": "王静",
+          "py": "Wáng Jìng",
+          "vi": "Vương Tịnh (tên người)",
+          "en": "Wang Jing (a name)"
+        },
+        {
+          "zh": "李进",
+          "py": "Lǐ Jìn",
+          "vi": "Lý Tiến (tên người)",
+          "en": "Li Jin (a name)"
+        }
+      ]
+    },
+    {
+      "title": "王静跟李老师聊她要结婚的事情",
+      "paras": [
+        {
+          "zh": "王静：李老师，我下个月5号就要结婚了。",
+          "vi": "Vương Tịnh: Thầy Lý ơi, ngày 5 tháng sau em kết hôn rồi.",
+          "en": "Wang Jing: Mr. Li, I'm getting married on the 5th of next month."
+        },
+        {
+          "zh": "李老师：你是在开玩笑吧？你们不是才认识一个月？",
+          "vi": "Thầy Lý: Em đùa đấy à? Chẳng phải hai đứa mới quen nhau được một tháng sao?",
+          "en": "Mr. Li: You're joking, right? Didn't you two meet only a month ago?"
+        },
+        {
+          "zh": "王静：虽然我们认识的时间不长，但我从来没这么快乐过。",
+          "vi": "Vương Tịnh: Tuy chúng em quen nhau chưa lâu nhưng em chưa bao giờ vui như thế này.",
+          "en": "Wang Jing: We haven't known each other long, but I've never been this happy."
+        },
+        {
+          "zh": "李老师：两个人在一起，最好能有共同的兴趣和爱好。",
+          "vi": "Thầy Lý: Hai người ở bên nhau thì tốt nhất là có chung sở thích.",
+          "en": "Mr. Li: When two people are together, it's best if they share the same interests and hobbies."
+        },
+        {
+          "zh": "王静：我们有很多共同的爱好，经常一起打球、唱歌、做菜。",
+          "vi": "Vương Tịnh: Chúng em có rất nhiều sở thích chung, thường cùng nhau chơi bóng, hát, nấu ăn.",
+          "en": "Wang Jing: We have lots of hobbies in common. We often play ball, sing and cook together."
+        },
+        {
+          "zh": "李老师：看来你真的找到适合你的人了。祝你们幸福！",
+          "vi": "Thầy Lý: Xem ra em thật sự đã tìm được người phù hợp với mình rồi. Chúc hai em hạnh phúc!",
+          "en": "Mr. Li: It looks like you've really found the right person. I wish you both every happiness!"
+        }
+      ],
+      "words": [
+        {
+          "zh": "开玩笑",
+          "py": "kāi wánxiào",
+          "vi": "nói đùa, đùa",
+          "en": "to joke"
+        },
+        {
+          "zh": "从来",
+          "py": "cónglái",
+          "pos": "phó.",
+          "vi": "từ trước đến nay, từ trước đến giờ",
+          "en": "always (until now); never (with negative)"
+        },
+        {
+          "zh": "最好",
+          "py": "zuìhǎo",
+          "pos": "phó.",
+          "vi": "tốt nhất",
+          "en": "had better, it's best to"
+        },
+        {
+          "zh": "共同",
+          "py": "gòngtóng",
+          "pos": "tt.",
+          "vi": "chung, cùng",
+          "en": "common, shared"
+        },
+        {
+          "zh": "适合",
+          "py": "shìhé",
+          "pos": "đgt.",
+          "vi": "phù hợp",
+          "en": "to suit, to fit"
+        },
+        {
+          "zh": "幸福",
+          "py": "xìngfú",
+          "pos": "tt.",
+          "vi": "hạnh phúc",
+          "en": "happy"
+        }
+      ],
+      "names": [
+        {
+          "zh": "李",
+          "py": "Lǐ",
+          "vi": "Lý (họ)",
+          "en": "Li (a surname)"
+        }
+      ]
+    },
+    {
+      "title": "高老师和李老师聊结婚后的生活",
+      "paras": [
+        {
+          "zh": "高老师：听说您跟妻子结婚快二十年了？",
+          "vi": "Cô Cao: Nghe nói anh với vợ cưới nhau sắp được hai mươi năm rồi?",
+          "en": "Ms. Gao: I hear you and your wife have been married for almost twenty years?"
+        },
+        {
+          "zh": "李老师：到6月9号，我们就结婚二十年了。这么多年，我们的生活一直挺幸福的。",
+          "vi": "Thầy Lý: Đến ngày 9 tháng 6 là chúng tôi cưới nhau được hai mươi năm. Bao nhiêu năm nay cuộc sống của chúng tôi luôn khá hạnh phúc.",
+          "en": "Mr. Li: On June 9th we'll have been married for twenty years. All these years, our life together has been pretty happy."
+        },
+        {
+          "zh": "高老师：我和丈夫刚结婚的时候，每天都觉得很新鲜，在一起有说不完的话。但是现在……",
+          "vi": "Cô Cao: Hồi tôi với chồng mới cưới, ngày nào cũng thấy mới mẻ, ở bên nhau nói mãi không hết chuyện. Nhưng bây giờ thì…",
+          "en": "Ms. Gao: When my husband and I had just got married, every day felt new and we never ran out of things to say. But now…"
+        },
+        {
+          "zh": "李老师：两个人共同生活，只有浪漫和新鲜感是不够的。",
+          "vi": "Thầy Lý: Hai người sống chung với nhau, chỉ có lãng mạn và cảm giác mới mẻ thì không đủ.",
+          "en": "Mr. Li: When two people live together, romance and novelty alone aren't enough."
+        },
+        {
+          "zh": "高老师：您说得对！我现在每天看到的都是他的缺点。",
+          "vi": "Cô Cao: Anh nói đúng! Bây giờ ngày nào tôi cũng chỉ thấy toàn khuyết điểm của anh ấy.",
+          "en": "Ms. Gao: You're right! Now all I see every day are his faults."
+        },
+        {
+          "zh": "李老师：两个人在一起时间长了，就会有很多问题。只有接受了他的缺点，你们才能更好地{de}一起生活。",
+          "vi": "Thầy Lý: Hai người ở với nhau lâu thì sẽ có nhiều vấn đề. Chỉ khi chấp nhận khuyết điểm của anh ấy thì hai người mới có thể sống với nhau tốt hơn.",
+          "en": "Mr. Li: When two people have been together a long time, problems come up. Only by accepting his faults can you live together better."
+        }
+      ],
+      "words": [
+        {
+          "zh": "生活",
+          "py": "shēnghuó",
+          "pos": "dt./đgt.",
+          "vi": "cuộc sống; sống",
+          "en": "life; to live"
+        },
+        {
+          "zh": "刚",
+          "py": "gāng",
+          "pos": "phó.",
+          "vi": "vừa, vừa mới",
+          "en": "just"
+        },
+        {
+          "zh": "浪漫",
+          "py": "làngmàn",
+          "pos": "tt.",
+          "vi": "lãng mạn",
+          "en": "romantic"
+        },
+        {
+          "zh": "够",
+          "py": "gòu",
+          "pos": "đgt.",
+          "vi": "đủ",
+          "en": "to be enough"
+        },
+        {
+          "zh": "缺点",
+          "py": "quēdiǎn",
+          "pos": "dt.",
+          "vi": "khuyết điểm, thiếu sót",
+          "en": "shortcoming, fault"
+        },
+        {
+          "zh": "接受",
+          "py": "jiēshòu",
+          "pos": "đgt.",
+          "vi": "chấp nhận",
+          "en": "to accept"
+        }
+      ],
+      "names": [
+        {
+          "zh": "高",
+          "py": "Gāo",
+          "vi": "Cao (họ)",
+          "en": "Gao (a surname)"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "很多女孩子羡慕浪漫的爱情。那什么是浪漫呢？年轻人说：浪漫是她想要月亮时，你不会给她星星；中年人说：浪漫是即使晚上加班到零点，到家时，自己家里也还亮着灯；老年人说：浪漫其实就像歌中唱的那样，“我能想到最浪漫的事，就是和你一起慢慢变老。”其实，让我们感动的，就是生活中简单的爱情。有时候，简单就是最大的幸福。",
+          "vi": "Nhiều cô gái ngưỡng mộ tình yêu lãng mạn. Vậy lãng mạn là gì? Người trẻ nói: lãng mạn là khi cô ấy muốn mặt trăng, bạn sẽ không đưa cô ấy ngôi sao; người trung niên nói: lãng mạn là dù tối tăng ca đến nửa đêm, khi về đến nhà, nhà mình vẫn còn sáng đèn; người già nói: lãng mạn thật ra giống như trong bài hát, “Điều lãng mạn nhất anh có thể nghĩ đến là cùng em từ từ già đi.” Thật ra, điều làm chúng ta cảm động chính là tình yêu giản dị trong cuộc sống. Có những lúc, giản dị chính là hạnh phúc lớn nhất.",
+          "en": "Many girls long for a romantic love. So what is romance? Young people say: romance is when she wants the moon, you don't give her the stars. Middle-aged people say: romance is when, even after working overtime until midnight, you come home to find the lights still on. Old people say: romance is just like the song goes, “The most romantic thing I can think of is growing old slowly together with you.” In fact, what moves us is the simple love in everyday life. Sometimes, simplicity is the greatest happiness."
+        }
+      ],
+      "words": [
+        {
+          "zh": "羡慕",
+          "py": "xiànmù",
+          "pos": "đgt.",
+          "vi": "ước ao, ngưỡng mộ",
+          "en": "to envy, to admire"
+        },
+        {
+          "zh": "爱情",
+          "py": "àiqíng",
+          "pos": "dt.",
+          "vi": "tình yêu (giữa nam và nữ)",
+          "en": "romantic love"
+        },
+        {
+          "zh": "星星",
+          "py": "xīngxing",
+          "pos": "dt.",
+          "vi": "ngôi sao",
+          "en": "star",
+          "x": true
+        },
+        {
+          "zh": "即使",
+          "py": "jíshǐ",
+          "pos": "liên.",
+          "vi": "cho dù",
+          "en": "even if"
+        },
+        {
+          "zh": "加班",
+          "py": "jiā bān",
+          "pos": "đgt.",
+          "vi": "tăng ca, làm thêm giờ",
+          "en": "to work overtime"
+        },
+        {
+          "zh": "亮",
+          "py": "liàng",
+          "pos": "đgt.",
+          "vi": "chiếu sáng, tỏa sáng",
+          "en": "to be lit, to shine",
+          "x": true
+        },
+        {
+          "zh": "感动",
+          "py": "gǎndòng",
+          "pos": "đgt.",
+          "vi": "cảm động, làm xúc động",
+          "en": "to move, to touch (emotionally)"
+        }
+      ]
+    },
+    {
+      "paras": [
+        {
+          "zh": "说到结婚，人们就会很自然地{de}想起爱情。爱情是结婚的重要原因，但两个人共同生活，不仅需要浪漫的爱情，更需要性格上互相吸引。",
+          "vi": "Nói đến kết hôn, người ta sẽ rất tự nhiên nghĩ đến tình yêu. Tình yêu là lý do quan trọng để kết hôn, nhưng hai người sống chung không chỉ cần tình yêu lãng mạn mà càng cần tính cách thu hút lẫn nhau.",
+          "en": "When it comes to marriage, people naturally think of love. Love is an important reason for getting married, but for two people to live together, they need not only romantic love but, even more, personalities that attract each other."
+        },
+        {
+          "zh": "我丈夫是个很幽默的人。即使是很普通的事情，从他嘴里说出来也会变得很有意思。在我难过的时候，他总是有办法让我高兴起来。而且他的脾气也不错，结婚快十年了，我们俩几乎没因为什么事红过脸，很多人都特别羡慕我们。",
+          "vi": "Chồng tôi là một người rất hài hước. Dù là chuyện rất bình thường, qua miệng anh ấy kể ra cũng trở nên rất thú vị. Lúc tôi buồn, anh ấy luôn có cách làm tôi vui lên. Hơn nữa tính khí anh ấy cũng tốt, cưới nhau sắp mười năm rồi, hai vợ chồng tôi gần như chưa từng vì chuyện gì mà đỏ mặt với nhau, nhiều người đặc biệt ngưỡng mộ chúng tôi.",
+          "en": "My husband is a very funny person. Even very ordinary things become interesting when he tells them. Whenever I'm upset, he always finds a way to cheer me up. He's also good-tempered: we've been married for nearly ten years and have hardly ever fallen out over anything. Lots of people really envy us."
+        }
+      ],
+      "words": [
+        {
+          "zh": "自然",
+          "py": "zìrán",
+          "pos": "phó.",
+          "vi": "đương nhiên, hiển nhiên",
+          "en": "naturally"
+        },
+        {
+          "zh": "原因",
+          "py": "yuányīn",
+          "pos": "dt.",
+          "vi": "nguyên nhân",
+          "en": "reason, cause"
+        },
+        {
+          "zh": "互相",
+          "py": "hùxiāng",
+          "pos": "phó.",
+          "vi": "lẫn nhau, qua lại",
+          "en": "mutually, each other"
+        },
+        {
+          "zh": "吸引",
+          "py": "xīyǐn",
+          "pos": "đgt.",
+          "vi": "hấp dẫn, thu hút",
+          "en": "to attract"
+        },
+        {
+          "zh": "幽默",
+          "py": "yōumò",
+          "pos": "tt.",
+          "vi": "hóm hỉnh, khôi hài",
+          "en": "humorous"
+        },
+        {
+          "zh": "脾气",
+          "py": "píqi",
+          "pos": "dt.",
+          "vi": "tính tình, tính khí",
+          "en": "temper, temperament"
+        }
+      ]
+    }
+  ],
+  "questions": {
+    "title": "根据课文内容回答问题",
+    "items": [
+      {
+        "q": "王静跟李进是怎么认识的？",
+        "label": "课文1",
+        "a": "【他们是在一次足球比赛中认识的】。王静的班跟李进的班比赛，李进一个人踢进两个球，王静对他印象很深。",
+        "vi": "Họ quen nhau trong một trận bóng đá. Lớp của Vương Tịnh đá với lớp của Lý Tiến, một mình Lý Tiến ghi hai bàn, Vương Tịnh có ấn tượng rất sâu về anh ấy.",
+        "en": "They met at a football match. Wang Jing's class played Li Jin's class, Li Jin scored two goals by himself, and he made a strong impression on Wang Jing."
+      },
+      {
+        "q": "王静为什么喜欢李进？",
+        "label": "课文1",
+        "a": "因为李进【不仅足球踢得好，性格也不错】。",
+        "vi": "Vì Lý Tiến không những đá bóng giỏi mà tính cách cũng tốt.",
+        "en": "Because Li Jin not only plays football well but also has a nice personality."
+      },
+      {
+        "q": "王静什么时候结婚？她跟李进认识多长时间了？",
+        "label": "课文2",
+        "a": "王静【下个月5号】结婚。她跟李进才认识【一个月】。",
+        "vi": "Vương Tịnh kết hôn vào ngày 5 tháng sau. Cô ấy mới quen Lý Tiến được một tháng.",
+        "en": "Wang Jing is getting married on the 5th of next month. She has only known Li Jin for a month."
+      },
+      {
+        "q": "王静和李进有哪些共同的爱好？",
+        "label": "课文2",
+        "a": "他们【经常一起打球、唱歌、做菜】。",
+        "vi": "Họ thường cùng nhau chơi bóng, hát và nấu ăn.",
+        "en": "They often play ball, sing and cook together."
+      },
+      {
+        "q": "李老师和爱人的关系怎么样？高老师呢？",
+        "label": "课文3",
+        "a": "李老师和爱人结婚快二十年了，【生活一直挺幸福的】。高老师【现在每天看到的都是丈夫的缺点】。",
+        "vi": "Thầy Lý và vợ cưới nhau sắp hai mươi năm, cuộc sống luôn khá hạnh phúc. Còn cô Cao bây giờ ngày nào cũng chỉ thấy khuyết điểm của chồng.",
+        "en": "Mr. Li and his wife have been married for almost twenty years and have always been pretty happy. Ms. Gao, on the other hand, now sees only her husband's faults every day."
+      },
+      {
+        "q": "丈夫和妻子两个人怎样才能很好地{de}生活在一起？",
+        "label": "课文3",
+        "a": "只有浪漫和新鲜感是不够的，【只有接受了对方的缺点，才能更好地{de}一起生活】。",
+        "vi": "Chỉ có lãng mạn và cảm giác mới mẻ thì không đủ, phải chấp nhận khuyết điểm của đối phương thì mới có thể sống với nhau tốt hơn.",
+        "en": "Romance and novelty alone aren't enough. Only by accepting each other's faults can they live together better."
+      },
+      {
+        "q": "关于浪漫，年轻人、中年人、老年人有什么不同的看法？",
+        "label": "课文4",
+        "a": "年轻人说，浪漫是【她想要月亮时，你不会给她星星】；中年人说，浪漫是【即使晚上加班到零点，到家时家里也还亮着灯】；老年人说，浪漫是【和你一起慢慢变老】。",
+        "vi": "Người trẻ nói lãng mạn là khi cô ấy muốn mặt trăng thì bạn sẽ không đưa ngôi sao; người trung niên nói lãng mạn là dù tăng ca đến nửa đêm, về nhà vẫn thấy nhà sáng đèn; người già nói lãng mạn là cùng nhau từ từ già đi.",
+        "en": "Young people say romance is not giving her the stars when she wants the moon; middle-aged people say it's coming home to a lit house even after working overtime until midnight; old people say it's growing old slowly together."
+      },
+      {
+        "q": "什么样的爱情让人感动？",
+        "label": "课文4",
+        "a": "【生活中简单的爱情】让人感动。",
+        "vi": "Tình yêu giản dị trong cuộc sống làm người ta cảm động.",
+        "en": "The simple love of everyday life is what moves people."
+      },
+      {
+        "q": "爱情跟结婚是什么关系？",
+        "label": "课文5",
+        "a": "【爱情是结婚的重要原因】，但两个人共同生活，不仅需要浪漫的爱情，更需要性格上互相吸引。",
+        "vi": "Tình yêu là lý do quan trọng để kết hôn, nhưng hai người sống chung không chỉ cần tình yêu lãng mạn mà càng cần tính cách thu hút nhau.",
+        "en": "Love is an important reason for marriage, but living together needs not only romance but, even more, personalities that attract each other."
+      },
+      {
+        "q": "“我”的丈夫是个什么样的人？",
+        "label": "课文5",
+        "a": "他是个【很幽默的人】，总是有办法让“我”高兴起来，而且【脾气也不错】。",
+        "vi": "Anh ấy là người rất hài hước, luôn có cách làm “tôi” vui lên, hơn nữa tính khí cũng tốt.",
+        "en": "He's a very funny person who always finds a way to cheer “me” up, and he's also good-tempered."
+      }
+    ]
+  },
+  "points": [
+    {
+      "title": "不仅……也/还/而且……",
+      "uses": [
+        {
+          "vi": "Liên từ 不仅 được dùng trong vế câu thứ nhất, 也/还/而且 thường được dùng trong vế câu thứ hai để diễn tả thông tin bổ sung bên cạnh thông tin đã được đề cập ở vế câu thứ nhất. Khi chủ ngữ của hai vế câu giống nhau, 不仅 được đặt sau chủ ngữ; khi chủ ngữ của hai vế câu khác nhau, 不仅 được đặt trước chủ ngữ.",
+          "en": "The conjunction 不仅 (not only) is used in the first clause, and 也/还/而且 usually appear in the second clause to add information beyond what the first clause says. When both clauses share the same subject, 不仅 goes after the subject; when the subjects differ, 不仅 goes before the subject.",
+          "ex": [
+            {
+              "zh": "他【不仅】足球踢得好，性格【也】不错。",
+              "vi": "Anh ấy không những đá bóng giỏi mà tính cách cũng rất tốt.",
+              "en": "He not only plays football well, he also has a nice personality."
+            },
+            {
+              "zh": "小时候，他经常生病，所以每天都去跑步锻炼身体。谁也没有想到，长大以后，他【不仅】身体健康，【还】成了一名长跑运动员。",
+              "vi": "Hồi nhỏ cậu ấy hay ốm nên ngày nào cũng đi chạy bộ rèn luyện thân thể. Không ai ngờ lớn lên cậu ấy không những khỏe mạnh mà còn trở thành vận động viên chạy đường dài.",
+              "en": "As a child he was often ill, so he went running every day to get stronger. Nobody expected that when he grew up he would not only be healthy but also become a long-distance runner."
+            },
+            {
+              "zh": "我打算去云南玩儿，听说那边【不仅】很美，【而且】人也非常热情。",
+              "vi": "Tôi định đi Vân Nam chơi, nghe nói ở đó không những rất đẹp mà người dân còn vô cùng nhiệt tình.",
+              "en": "I'm planning a trip to Yunnan. I hear it's not only beautiful there, but the people are also really warm."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子",
+        "items": [
+          {
+            "q": "李老师不仅喜欢看电影，____。",
+            "hint": "也",
+            "a": "李老师不仅喜欢看电影，【也喜欢听音乐】。",
+            "vi": "Thầy Lý không những thích xem phim mà còn thích nghe nhạc.",
+            "en": "Mr. Li not only likes watching films, he also likes listening to music.",
+            "sample": true
+          },
+          {
+            "q": "他____，还喜欢游泳。",
+            "hint": "不仅",
+            "a": "他【不仅喜欢打篮球】，还喜欢游泳。",
+            "vi": "Anh ấy không những thích chơi bóng rổ mà còn thích bơi.",
+            "en": "He not only likes playing basketball, he also likes swimming.",
+            "sample": true
+          },
+          {
+            "q": "不仅我会做中国菜，____。",
+            "hint": "而且",
+            "a": "不仅我会做中国菜，【而且我妈妈也会做】。",
+            "vi": "Không chỉ tôi biết nấu món Trung Quốc mà mẹ tôi cũng biết nấu.",
+            "en": "Not only can I cook Chinese food, my mother can too.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "从来",
+      "uses": [
+        {
+          "vi": "Phó từ 从来 thường được dùng trong câu phủ định (从来不/从来没) để diễn tả rằng sự vật/sự việc nào đó luôn có tính chất, đặc điểm như vậy từ trước đến nay.",
+          "en": "The adverb 从来 means something has always been this way, from the past until now. It is mostly used in negative sentences: 从来不 / 从来没 = never.",
+          "ex": [
+            {
+              "zh": "老张这个人开会【从来】不迟到。今天到现在还没来，可能是有什么事情，你打个电话问问他吧。",
+              "vi": "Ông Trương xưa nay đi họp chưa bao giờ đến muộn. Hôm nay giờ này vẫn chưa tới, chắc là có việc gì đó, bạn gọi điện hỏi anh ấy xem.",
+              "en": "Lao Zhang is never late for meetings. He still isn't here today, so something may have come up. Give him a call."
+            },
+            {
+              "zh": "虽然我们认识的时间不长，但我【从来】没这么快乐过。",
+              "vi": "Tuy chúng ta quen nhau chưa lâu nhưng tôi chưa bao giờ vui như thế này.",
+              "en": "Although we haven't known each other long, I've never been this happy."
+            },
+            {
+              "zh": "这家面馆【从来】只卖一种东西：牛肉面。因为面做得很好吃，而且不贵，很多新客人变成了老客人，老客人又带来更多新客人。",
+              "vi": "Quán mì này từ trước đến nay chỉ bán một món: mì bò. Vì mì làm rất ngon lại không đắt nên nhiều khách mới đã thành khách quen, khách quen lại dẫn thêm nhiều khách mới.",
+              "en": "This noodle shop has only ever sold one thing: beef noodles. Because they're delicious and cheap, many new customers became regulars, and the regulars brought in even more new customers."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "很多人一回家就把门一关，____，住了几年还不知道邻居姓什么。",
+            "hint": "从来不",
+            "a": "很多人一回家就把门一关，【从来不跟邻居说话】，住了几年还不知道邻居姓什么。",
+            "vi": "Nhiều người cứ về nhà là đóng cửa lại, chưa bao giờ nói chuyện với hàng xóm, ở mấy năm rồi vẫn không biết hàng xóm họ gì.",
+            "en": "Many people shut the door as soon as they get home and never talk to their neighbours. After living there for years, they still don't know their neighbours' names.",
+            "sample": true
+          },
+          {
+            "q": "我经常在电梯里遇到她，可能她也在这座大楼里上班。但是我们____。",
+            "hint": "从来没",
+            "a": "我经常在电梯里遇到她，可能她也在这座大楼里上班。但是我们【从来没说过话】。",
+            "vi": "Tôi thường gặp cô ấy trong thang máy, có lẽ cô ấy cũng làm việc trong tòa nhà này. Nhưng chúng tôi chưa từng nói chuyện với nhau.",
+            "en": "I often see her in the lift; she probably works in this building too. But we've never spoken.",
+            "sample": true
+          },
+          {
+            "q": "A：你丈夫说话真有意思！\nB：____。",
+            "hint": "从来都",
+            "a": "A：你丈夫说话真有意思！\nB：【是啊，他从来都是这样，跟谁都能开玩笑】。",
+            "vi": "A: Chồng chị nói chuyện thú vị thật!\nB: Đúng vậy, từ trước đến nay anh ấy luôn như thế, với ai cũng đùa được.",
+            "en": "A: Your husband is so funny!\nB: Yes, he's always been like that. He can joke with anyone.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "刚",
+      "uses": [
+        {
+          "vi": "Phó từ 刚 chỉ hành động hay tình huống xảy ra cách đây không lâu, được dùng sau chủ ngữ và trước động từ.",
+          "en": "The adverb 刚 (just) indicates that an action or situation happened not long ago. It goes after the subject and before the verb.",
+          "ex": [
+            {
+              "zh": "我上午【刚】借的那本书，怎么找不到了？",
+              "vi": "Quyển sách tôi vừa mượn sáng nay sao lại không tìm thấy nữa nhỉ?",
+              "en": "Why can't I find the book I just borrowed this morning?"
+            },
+            {
+              "zh": "A：我【刚】从会议室过来，怎么一个人也没有？\nB：对不起，今天的会议改到明天上午了。",
+              "vi": "A: Tôi vừa từ phòng họp qua đây, sao chẳng có ai cả vậy?\nB: Xin lỗi, cuộc họp hôm nay đã dời sang sáng mai rồi.",
+              "en": "A: I just came from the meeting room. Why is nobody there?\nB: Sorry, today's meeting has been moved to tomorrow morning."
+            },
+            {
+              "zh": "我和丈夫【刚】结婚的时候，每天都觉得很新鲜，在一起有说不完的话。",
+              "vi": "Hồi tôi và chồng mới cưới, ngày nào cũng thấy mới mẻ, ở bên nhau nói mãi không hết chuyện.",
+              "en": "When my husband and I had just got married, every day felt new, and we never ran out of things to talk about."
+            }
+          ]
+        }
+      ],
+      "cmp": {
+        "title": "刚—刚才",
+        "uses": [
+          {
+            "vi": "Giống nhau: 刚 và 刚才 đều chỉ hành động hay tình huống xảy ra cách đây không lâu, đều có thể làm trạng ngữ.",
+            "en": "Similarity: both 刚 and 刚才 refer to something that happened a short time ago, and both can be adverbials.",
+            "ex": [
+              {
+                "zh": "你叔叔【刚】/【刚才】打电话来说给你发了个电子邮件。",
+                "vi": "Chú của bạn vừa gọi điện tới, nói đã gửi cho bạn một email.",
+                "en": "Your uncle just called to say he's sent you an email."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 1: 刚 là phó từ, chỉ đứng sau chủ ngữ và trước động từ; còn 刚才 là danh từ chỉ thời gian, có thể đứng trước hoặc sau chủ ngữ.",
+            "en": "Difference 1: 刚 is an adverb and can only go after the subject, before the verb; 刚才 is a time noun and can go either before or after the subject.",
+            "ex": [
+              {
+                "zh": "我【刚】看了邮箱，没有新邮件。",
+                "vi": "Tôi vừa xem hộp thư, không có thư mới.",
+                "en": "I just checked my inbox. There's no new mail."
+              },
+              {
+                "zh": "我【刚才】去洗手间了，你给我打电话了？",
+                "vi": "Lúc nãy tôi đi vệ sinh, bạn gọi cho tôi à?",
+                "en": "I went to the restroom just now. Did you call me?"
+              },
+              {
+                "zh": "【刚才】我去洗手间了，你给我打电话了？",
+                "vi": "Lúc nãy tôi đi vệ sinh, bạn gọi cho tôi à?",
+                "en": "Just now I went to the restroom. Did you call me?"
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 2: Có thể dùng từ ngữ chỉ thời gian trước 刚 nhưng không được dùng trước 刚才.",
+            "en": "Difference 2: a time expression can come before 刚, but not before 刚才.",
+            "ex": [
+              {
+                "zh": "我上个月【刚】结婚，正准备和我先生一起出去旅游。",
+                "vi": "Tháng trước tôi vừa kết hôn, đang chuẩn bị cùng chồng đi du lịch.",
+                "en": "I just got married last month and I'm getting ready to go travelling with my husband."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 3: Có thể dùng từ ngữ chỉ thời lượng sau động từ trong câu có 刚, nhưng không được dùng trong câu có 刚才.",
+            "en": "Difference 3: in a sentence with 刚, the verb can be followed by a duration phrase; this is not possible with 刚才.",
+            "ex": [
+              {
+                "zh": "他【刚】来一会儿。",
+                "vi": "Anh ấy mới đến được một lúc.",
+                "en": "He's only been here a little while."
+              }
+            ]
+          },
+          {
+            "vi": "Khác nhau 4: Có thể dùng từ phủ định sau 刚才 nhưng không được dùng sau 刚.",
+            "en": "Difference 4: a negative word can follow 刚才, but not 刚.",
+            "ex": [
+              {
+                "zh": "你为什么【刚才】不说，现在才说？",
+                "vi": "Sao lúc nãy bạn không nói, bây giờ mới nói?",
+                "en": "Why didn't you say so just now? Why only now?"
+              }
+            ]
+          }
+        ],
+        "practice": {
+          "title": "选词填空",
+          "items": [
+            {
+              "q": "我____给妈妈打了一个电话。",
+              "key": "刚 ✓ · 刚才 ✓",
+              "a": "我【刚】/【刚才】给妈妈打了一个电话。",
+              "vi": "Tôi vừa gọi điện cho mẹ.",
+              "en": "I just called my mum."
+            },
+            {
+              "q": "我昨天____到，有点儿累，想休息休息。",
+              "key": "刚 ✓ · 刚才 ✗ (trước có từ chỉ thời gian)",
+              "a": "我昨天【刚】到，有点儿累，想休息休息。",
+              "vi": "Hôm qua tôi mới đến, hơi mệt, muốn nghỉ ngơi một chút.",
+              "en": "I only arrived yesterday. I'm a bit tired and want to rest."
+            },
+            {
+              "q": "你____不在办公室，我把东西给你同事了。",
+              "key": "刚 ✗ · 刚才 ✓ (sau có từ phủ định)",
+              "a": "你【刚才】不在办公室，我把东西给你同事了。",
+              "vi": "Lúc nãy bạn không có ở văn phòng nên tôi đưa đồ cho đồng nghiệp của bạn rồi.",
+              "en": "You weren't in the office just now, so I gave the things to your colleague."
+            },
+            {
+              "q": "不好意思，____我太忙了，没时间跟你说话。",
+              "key": "刚 ✗ · 刚才 ✓ (đứng trước chủ ngữ)",
+              "a": "不好意思，【刚才】我太忙了，没时间跟你说话。",
+              "vi": "Xin lỗi, lúc nãy tôi bận quá, không có thời gian nói chuyện với bạn.",
+              "en": "Sorry, I was too busy just now to talk to you."
+            },
+            {
+              "q": "我____搬来一个星期，对这儿的环境还不太熟悉。",
+              "key": "刚 ✓ · 刚才 ✗ (sau động từ có thời lượng)",
+              "a": "我【刚】搬来一个星期，对这儿的环境还不太熟悉。",
+              "vi": "Tôi mới chuyển đến được một tuần, vẫn chưa quen lắm với môi trường ở đây.",
+              "en": "I only moved here a week ago and I'm not very familiar with the area yet."
+            }
+          ]
+        }
+      },
+      "practice": {
+        "title": "完成对话",
+        "items": [
+          {
+            "q": "A：你们俩认识很久了吧？\nB：____。",
+            "hint": "刚",
+            "a": "A：你们俩认识很久了吧？\nB：【不，我们刚认识一个星期】。",
+            "vi": "A: Hai người quen nhau lâu rồi nhỉ?\nB: Không, chúng tôi mới quen nhau được một tuần.",
+            "en": "A: You two must have known each other for a long time.\nB: No, we only met a week ago.",
+            "sample": true
+          },
+          {
+            "q": "A：你对这儿的生活习惯了吗？\nB：____，现在好多了。",
+            "hint": "刚",
+            "a": "A：你对这儿的生活习惯了吗？\nB：【刚来的时候不太习惯】，现在好多了。",
+            "vi": "A: Bạn đã quen với cuộc sống ở đây chưa?\nB: Lúc mới đến thì chưa quen lắm, bây giờ đỡ nhiều rồi.",
+            "en": "A: Have you got used to life here?\nB: Not really at first, but it's much better now.",
+            "sample": true
+          },
+          {
+            "q": "A：他汉语说得怎么样？\nB：____。",
+            "hint": "刚",
+            "a": "A：他汉语说得怎么样？\nB：【他刚学了半年，已经说得很不错了】。",
+            "vi": "A: Anh ấy nói tiếng Trung thế nào?\nB: Anh ấy mới học nửa năm mà đã nói khá tốt rồi.",
+            "en": "A: How's his Chinese?\nB: He's only been learning for six months, and he already speaks it quite well.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "即使……也……",
+      "uses": [
+        {
+          "vi": "Liên từ 即使 được dùng trong vế câu thứ nhất, thường kết hợp với 也 trong vế câu thứ hai. Cấu trúc này thường chỉ mối quan hệ nhượng bộ có tính chất giả thuyết và cũng có thể chỉ sự việc đã tồn tại hoặc xảy ra. 即使 có thể đứng trước hay sau chủ ngữ của vế câu thứ nhất.",
+          "en": "The conjunction 即使 (even if) is used in the first clause and is usually paired with 也 in the second. It mostly expresses a hypothetical concession, but can also refer to something that already exists or has happened. 即使 can go before or after the subject of the first clause.",
+          "ex": [
+            {
+              "zh": "你应该多回家看看老人，【即使】只是跟他们吃吃饭、聊聊天，他们【也】会觉得很幸福。",
+              "vi": "Bạn nên về nhà thăm bố mẹ nhiều hơn, dù chỉ là ăn bữa cơm, trò chuyện với họ thôi thì họ cũng sẽ thấy rất hạnh phúc.",
+              "en": "You should go home and visit your parents more often. Even if you just eat and chat with them, they'll feel very happy."
+            },
+            {
+              "zh": "大部分人每天晚上最少应该睡7个小时，但有些人【即使】只睡5个小时【也】没问题。",
+              "vi": "Đa số mọi người mỗi tối nên ngủ ít nhất 7 tiếng, nhưng có người dù chỉ ngủ 5 tiếng cũng không sao.",
+              "en": "Most people should sleep at least 7 hours a night, but some are fine even with just 5."
+            },
+            {
+              "zh": "浪漫是【即使】晚上加班到零点，到家时，自己家里【也】还亮着灯。",
+              "vi": "Lãng mạn là dù tối tăng ca đến nửa đêm, lúc về tới nhà, đèn trong nhà mình vẫn còn sáng.",
+              "en": "Romance is when, even if you work overtime until midnight, the light is still on when you get home."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话",
+        "items": [
+          {
+            "q": "A：你丈夫工作真忙！\nB：是啊！他即使星期天，____。",
+            "hint": "也",
+            "a": "A：你丈夫工作真忙！\nB：是啊！他即使星期天，【也要去公司加班】。",
+            "vi": "A: Chồng chị bận việc thật!\nB: Đúng vậy! Dù là chủ nhật anh ấy cũng phải đến công ty tăng ca.",
+            "en": "A: Your husband is so busy with work!\nB: Yes! Even on Sundays he has to go into the office and work overtime.",
+            "sample": true
+          },
+          {
+            "q": "A：你身体怎么这么好啊？\nB：____，也会每天锻炼身体。",
+            "hint": "即使",
+            "a": "A：你身体怎么这么好啊？\nB：【即使工作再忙】，也会每天锻炼身体。",
+            "vi": "A: Sao sức khỏe bạn tốt thế?\nB: Dù công việc bận đến đâu tôi cũng tập thể dục mỗi ngày.",
+            "en": "A: How come you're so healthy?\nB: However busy I am at work, I still exercise every day.",
+            "sample": true
+          },
+          {
+            "q": "A：你一定要跟他结婚吗？\nB：当然！____。",
+            "hint": "即使……也……",
+            "a": "A：你一定要跟他结婚吗？\nB：当然！【即使父母不同意，我也要跟他结婚】。",
+            "vi": "A: Bạn nhất định phải cưới anh ấy à?\nB: Tất nhiên! Dù bố mẹ không đồng ý, tôi cũng sẽ cưới anh ấy.",
+            "en": "A: Are you really set on marrying him?\nB: Of course! Even if my parents don't agree, I'm going to marry him.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "（在）……上",
+      "uses": [
+        {
+          "vi": "Danh từ chỉ phương vị 上 được dùng sau danh từ khác. Ngoài nghĩa là trên bề mặt của vật nào đó, 上 còn có nghĩa là trong phạm vi nào đó, xét về khía cạnh nào đó.",
+          "en": "The locative noun 上 follows another noun. Besides 'on the surface of' something, it can also mean 'within a certain scope' or 'in terms of a certain aspect'.",
+          "ex": [
+            {
+              "zh": "今天的作业是复习生词，明天课【上】听写。",
+              "vi": "Bài tập hôm nay là ôn từ mới, ngày mai trên lớp sẽ nghe viết.",
+              "en": "Today's homework is to review the new words. There'll be a dictation in class tomorrow."
+            },
+            {
+              "zh": "来北方好几年了吧？你觉得北方和南方【在】饮食【上】有什么不同？",
+              "vi": "Bạn ra miền Bắc mấy năm rồi nhỉ? Bạn thấy miền Bắc và miền Nam khác nhau thế nào về ăn uống?",
+              "en": "You've been in the north for quite a few years now, right? How do you think the north and the south differ when it comes to food?"
+            },
+            {
+              "zh": "两个人共同生活，不仅需要浪漫的爱情，更需要性格【上】互相吸引。",
+              "vi": "Hai người chung sống không chỉ cần tình yêu lãng mạn mà càng cần thu hút lẫn nhau về tính cách.",
+              "en": "For two people to share a life, they need not only romantic love but, even more, to be drawn to each other in personality."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成对话",
+        "items": [
+          {
+            "q": "A：你在这儿学习、生活都还好吧？\nB：____。",
+            "hint": "……上",
+            "a": "A：你在这儿学习、生活都还好吧？\nB：【学习上没什么问题，生活上还有点儿不习惯】。",
+            "vi": "A: Việc học và cuộc sống của bạn ở đây vẫn ổn chứ?\nB: Về học tập thì không có vấn đề gì, về sinh hoạt thì vẫn hơi chưa quen.",
+            "en": "A: Are your studies and life here going all right?\nB: My studies are fine, but I'm still not quite used to daily life here.",
+            "sample": true
+          },
+          {
+            "q": "A：你觉得这件事情应该怎么解决？\nB：____。",
+            "hint": "……上",
+            "a": "A：你觉得这件事情应该怎么解决？\nB：【我觉得应该先在方法上找找问题】。",
+            "vi": "A: Bạn thấy việc này nên giải quyết thế nào?\nB: Tôi thấy trước hết nên tìm xem vấn đề nằm ở phương pháp.",
+            "en": "A: How do you think this should be dealt with?\nB: I think we should first look for the problem in our methods.",
+            "sample": true
+          },
+          {
+            "q": "A：老张这个人怎么样？\nB：____。",
+            "hint": "……上",
+            "a": "A：老张这个人怎么样？\nB：【他在工作上很认真，在生活上也很关心别人】。",
+            "vi": "A: Ông Trương là người thế nào?\nB: Trong công việc ông ấy rất nghiêm túc, trong cuộc sống cũng rất quan tâm đến người khác.",
+            "en": "A: What's Lao Zhang like?\nB: He's very conscientious at work, and in everyday life he's very caring towards others.",
+            "sample": true
+          }
+        ]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "title": "复述",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "王静的语气：\n我叫王静，我的男朋友叫李进。……",
+          "label": "课文1",
+          "a": "我叫王静，我的男朋友叫李进。他跟我是一个学校的，他学的是新闻，我学的是法律，我们不是一个班。我们是在一次足球比赛中认识的，他一个人踢进两个球，我对他印象很深，后来就慢慢熟悉了。他不仅足球踢得好，性格也不错。",
+          "vi": "Tôi tên là Vương Tịnh, bạn trai tôi tên là Lý Tiến. Anh ấy học cùng trường với tôi, anh ấy học báo chí, tôi học luật, chúng tôi không cùng lớp. Chúng tôi quen nhau trong một trận bóng đá, một mình anh ấy ghi hai bàn, tôi có ấn tượng rất sâu về anh ấy, sau đó dần dần thân quen. Anh ấy không những đá bóng giỏi mà tính cách cũng tốt.",
+          "en": "My name is Wang Jing and my boyfriend is Li Jin. He goes to my school; he studies journalism and I study law, so we're not in the same class. We met at a football match where he scored two goals by himself. He made a strong impression on me, and we gradually got to know each other. Not only is he good at football, he also has a nice personality.",
+          "sample": true
+        },
+        {
+          "q": "王静的语气：\n我下个月5号就要结婚了，……",
+          "label": "课文2",
+          "a": "我下个月5号就要结婚了，李老师以为我在开玩笑，因为我们才认识一个月。虽然我们认识的时间不长，但我从来没这么快乐过。我们有很多共同的爱好，经常一起打球、唱歌、做菜。李老师说我真的找到了适合我的人，祝我们幸福。",
+          "vi": "Ngày 5 tháng sau tôi kết hôn. Thầy Lý tưởng tôi nói đùa vì chúng tôi mới quen nhau một tháng. Tuy quen nhau chưa lâu nhưng tôi chưa bao giờ vui như thế này. Chúng tôi có nhiều sở thích chung, thường cùng chơi bóng, hát, nấu ăn. Thầy Lý nói tôi thật sự đã tìm được người phù hợp và chúc chúng tôi hạnh phúc.",
+          "en": "I'm getting married on the 5th of next month. Mr. Li thought I was joking, because we only met a month ago. We haven't known each other long, but I've never been this happy. We have lots of hobbies in common and often play ball, sing and cook together. Mr. Li said I had really found the right person and wished us happiness.",
+          "sample": true
+        },
+        {
+          "q": "高老师的语气：\n我和丈夫刚结婚的时候，……",
+          "label": "课文3",
+          "a": "我和丈夫刚结婚的时候，每天都觉得很新鲜，在一起有说不完的话。但是现在，我每天看到的都是他的缺点。李老师告诉我，两个人共同生活，只有浪漫和新鲜感是不够的，只有接受了他的缺点，我们才能更好地{de}一起生活。",
+          "vi": "Hồi tôi với chồng mới cưới, ngày nào cũng thấy mới mẻ, ở bên nhau nói mãi không hết chuyện. Nhưng bây giờ ngày nào tôi cũng chỉ thấy khuyết điểm của anh ấy. Thầy Lý nói với tôi, hai người sống chung chỉ có lãng mạn và cảm giác mới mẻ thì không đủ, chỉ khi chấp nhận khuyết điểm của anh ấy thì chúng tôi mới sống với nhau tốt hơn được.",
+          "en": "When my husband and I had just married, every day felt new and we never ran out of things to say. But now all I see are his faults. Mr. Li told me that romance and novelty alone aren't enough for two people living together; only by accepting his faults can we live together better.",
+          "sample": true
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "印象",
+        "接受",
+        "熟悉",
+        "共同",
+        "吸引"
+      ],
+      "items": [
+        {
+          "q": "他们两个人____努力，终于完成了工作。",
+          "key": "共同",
+          "a": "他们两个人【共同】努力，终于完成了工作。",
+          "vi": "Hai người họ cùng nhau cố gắng, cuối cùng đã hoàn thành công việc.",
+          "en": "The two of them worked together and finally finished the job."
+        },
+        {
+          "q": "那个地方特别漂亮，每年都会____很多国内外的游客。",
+          "key": "吸引",
+          "a": "那个地方特别漂亮，每年都会【吸引】很多国内外的游客。",
+          "vi": "Nơi đó đặc biệt đẹp, năm nào cũng thu hút rất nhiều du khách trong và ngoài nước.",
+          "en": "That place is especially beautiful and attracts lots of tourists from home and abroad every year."
+        },
+        {
+          "q": "在我的____中，他一直是个很幽默的人。",
+          "key": "印象",
+          "a": "在我的【印象】中，他一直是个很幽默的人。",
+          "vi": "Trong ấn tượng của tôi, anh ấy luôn là một người rất hài hước.",
+          "en": "As far as I remember, he's always been a very funny person."
+        },
+        {
+          "q": "我是一个南方人，很难____每天吃面条。",
+          "key": "接受",
+          "a": "我是一个南方人，很难【接受】每天吃面条。",
+          "vi": "Tôi là người miền Nam, rất khó chấp nhận ngày nào cũng ăn mì.",
+          "en": "I'm a southerner. I find it hard to accept eating noodles every day."
+        },
+        {
+          "q": "这个事你最好先问一下李老师，这方面他比我____。",
+          "key": "熟悉",
+          "a": "这个事你最好先问一下李老师，这方面他比我【熟悉】。",
+          "vi": "Việc này tốt nhất bạn nên hỏi thầy Lý trước, về mặt này thầy ấy rành hơn tôi.",
+          "en": "You'd better ask Mr. Li about this first. He knows more about it than I do."
+        }
+      ]
+    },
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "脾气",
+        "从来",
+        "感动",
+        "羡慕",
+        "开玩笑"
+      ],
+      "items": [
+        {
+          "q": "A：下个星期的游泳比赛你参加吗？\nB：你别跟我____了，我没学过游泳，怎么参加比赛啊？",
+          "key": "开玩笑",
+          "a": "A：下个星期的游泳比赛你参加吗？\nB：你别跟我【开玩笑】了，我没学过游泳，怎么参加比赛啊？",
+          "vi": "A: Cuộc thi bơi tuần sau bạn có tham gia không?\nB: Bạn đừng đùa tôi nữa, tôi chưa học bơi bao giờ, thi thế nào được?",
+          "en": "A: Are you taking part in next week's swimming competition?\nB: You must be joking. I've never learned to swim. How could I compete?"
+        },
+        {
+          "q": "A：小李这个人怎么样？\nB：他虽然____很大，但工作很认真。",
+          "key": "脾气",
+          "a": "A：小李这个人怎么样？\nB：他虽然【脾气】很大，但工作很认真。",
+          "vi": "A: Tiểu Lý là người thế nào?\nB: Tuy anh ấy nóng tính nhưng làm việc rất nghiêm túc.",
+          "en": "A: What's Xiao Li like?\nB: He's got quite a temper, but he works very hard."
+        },
+        {
+          "q": "A：真____你，找了个那么漂亮的女朋友！\nB：她不仅长得漂亮，也很聪明。",
+          "key": "羡慕",
+          "a": "A：真【羡慕】你，找了个那么漂亮的女朋友！\nB：她不仅长得漂亮，也很聪明。",
+          "vi": "A: Ghen tị với bạn thật, tìm được cô bạn gái xinh thế!\nB: Cô ấy không những xinh mà còn rất thông minh.",
+          "en": "A: I really envy you, finding such a beautiful girlfriend!\nB: She's not only beautiful, she's also very clever."
+        },
+        {
+          "q": "A：都这么晚了，他怎么还没到？\nB：他以前____不迟到，今天是怎么了？",
+          "key": "从来",
+          "a": "A：都这么晚了，他怎么还没到？\nB：他以前【从来】不迟到，今天是怎么了？",
+          "vi": "A: Muộn thế này rồi, sao anh ấy vẫn chưa đến?\nB: Trước đây anh ấy chưa bao giờ đến muộn, hôm nay bị sao vậy nhỉ?",
+          "en": "A: It's so late. Why hasn't he arrived yet?\nB: He's never been late before. What's happened today?"
+        },
+        {
+          "q": "A：这个电影讲了一个爱情故事，很浪漫，让人特别____。\nB：你们女孩子就是喜欢看这种电影。",
+          "key": "感动",
+          "a": "A：这个电影讲了一个爱情故事，很浪漫，让人特别【感动】。\nB：你们女孩子就是喜欢看这种电影。",
+          "vi": "A: Bộ phim này kể một câu chuyện tình yêu rất lãng mạn, khiến người ta đặc biệt cảm động.\nB: Mấy cô gái các bạn đúng là thích xem loại phim này.",
+          "en": "A: This film tells a very romantic love story. It's really moving.\nB: You girls just love that kind of film."
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "同字词",
+    "vi": "Những từ có chữ giống nhau: 感",
+    "en": "Words sharing a character: 感",
+    "words": [
+      {
+        "zh": "感到",
+        "py": "gǎndào",
+        "vi": "cảm thấy",
+        "en": "to feel"
+      },
+      {
+        "zh": "感动",
+        "py": "gǎndòng",
+        "vi": "cảm động",
+        "en": "to be moved"
+      },
+      {
+        "zh": "感冒",
+        "py": "gǎnmào",
+        "vi": "bị cảm",
+        "en": "to catch a cold; a cold"
+      },
+      {
+        "zh": "感兴趣",
+        "py": "gǎn xìngqù",
+        "vi": "cảm thấy hứng thú",
+        "en": "to be interested"
+      }
+    ],
+    "examples": [
+      {
+        "zh": "他的话让我【感到】事情有点儿不对。",
+        "vi": "Lời anh ấy nói khiến tôi cảm thấy sự việc có gì đó không ổn.",
+        "en": "What he said made me feel something wasn't quite right."
+      },
+      {
+        "zh": "这部电影讲的是一个浪漫的爱情故事，很多人都被【感动】得哭了。",
+        "vi": "Bộ phim này kể về một câu chuyện tình yêu lãng mạn, nhiều người cảm động đến phát khóc.",
+        "en": "This film tells a romantic love story, and many people were moved to tears."
+      },
+      {
+        "zh": "A：怎么了？生病了？\nB：有点儿发烧，还有点儿头疼，可能是【感冒】了。",
+        "vi": "A: Sao thế? Ốm à?\nB: Hơi sốt, lại hơi đau đầu, có lẽ bị cảm rồi.",
+        "en": "A: What's wrong? Are you ill?\nB: I've got a bit of a temperature and a headache. I've probably caught a cold."
+      },
+      {
+        "zh": "很多留学生到中国学习汉语，是因为他们对中国文化【感兴趣】。",
+        "vi": "Nhiều lưu học sinh đến Trung Quốc học tiếng Trung là vì họ cảm thấy hứng thú với văn hóa Trung Quốc.",
+        "en": "Many international students come to China to learn Chinese because they are interested in Chinese culture."
+      }
+    ],
+    "practice": {
+      "title": "选词填空",
+      "bank": [
+        "感到",
+        "感动",
+        "感冒",
+        "感兴趣"
+      ],
+      "items": [
+        {
+          "q": "A：我____了，明天想请一天假{jià}。\nB：没问题。你最好去医院看一下。",
+          "key": "感冒",
+          "a": "A：我【感冒】了，明天想请一天假{jià}。\nB：没问题。你最好去医院看一下。",
+          "vi": "A: Tôi bị cảm rồi, mai muốn xin nghỉ một ngày.\nB: Không vấn đề gì. Tốt nhất bạn nên đi bệnh viện khám.",
+          "en": "A: I've caught a cold and I'd like to take tomorrow off.\nB: No problem. You'd better see a doctor."
+        },
+        {
+          "q": "张老师上课的时候经常讲一些有趣的故事，让这些一年级的学生们对历史越来越____了。",
+          "key": "感兴趣",
+          "a": "张老师上课的时候经常讲一些有趣的故事，让这些一年级的学生们对历史越来越【感兴趣】了。",
+          "vi": "Cô Trương lúc lên lớp thường kể những câu chuyện thú vị, khiến các em học sinh lớp một ngày càng hứng thú với lịch sử.",
+          "en": "Ms. Zhang often tells interesting stories in class, which makes these first-year students more and more interested in history."
+        },
+        {
+          "q": "等车的时候，我随便买了张报纸，看了没几页，就看到一个小故事，虽然不长，但是让我很____。",
+          "key": "感动",
+          "a": "等车的时候，我随便买了张报纸，看了没几页，就看到一个小故事，虽然不长，但是让我很【感动】。",
+          "vi": "Lúc đợi xe, tôi mua đại một tờ báo, đọc chưa được mấy trang thì thấy một câu chuyện nhỏ, tuy không dài nhưng khiến tôi rất cảm động.",
+          "en": "While waiting for the bus, I bought a newspaper on a whim. A few pages in, I came across a short story. It wasn't long, but it really moved me."
+        },
+        {
+          "q": "当你帮助别人时，不但会让别人____被关心，你自己也会更快乐。",
+          "key": "感到",
+          "a": "当你帮助别人时，不但会让别人【感到】被关心，你自己也会更快乐。",
+          "vi": "Khi bạn giúp đỡ người khác, không những khiến người khác cảm thấy được quan tâm mà chính bạn cũng sẽ vui hơn.",
+          "en": "When you help others, not only do they feel cared for, you also become happier yourself."
+        }
+      ]
+    }
+  }
+}

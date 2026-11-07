@@ -1,0 +1,903 @@
+{
+  "n": 31,
+  "zh": "登门槛效应",
+  "vi": "Hiệu ứng “thò chân vào cửa”",
+  "en": "The foot-in-the-door effect",
+  "texts": [
+    {
+      "title": "登门槛效应",
+      "paras": [
+        {
+          "zh": "一个朋友在报社当编辑。一天他去请假，他先问领导：“您今天心情好吗？”领导说：“怎么了？”朋友答：“嗯{ǹg}，如果您心情好，我就说件事；心情不好就改天再说。”领导有了兴趣，假，就这样轻易地{de}请好了。",
+          "vi": "Một người bạn của tôi làm biên tập viên ở tòa soạn báo. Một hôm anh ấy đi xin nghỉ phép, trước tiên anh hỏi lãnh đạo: “Hôm nay tâm trạng anh có tốt không?” Lãnh đạo nói: “Sao thế?” Bạn tôi đáp: “Dạ, nếu tâm trạng anh tốt thì em nói một chuyện; tâm trạng không tốt thì hôm khác hẵng nói.” Lãnh đạo thấy hứng thú, và thế là đơn xin nghỉ được duyệt một cách dễ dàng.",
+          "en": "A friend of mine works as an editor at a newspaper. One day he wanted to ask for leave, so he first asked his boss: “Are you in a good mood today?” The boss said: “Why?” My friend replied: “Well, if you're in a good mood, I'll mention something; if not, I'll bring it up another day.” The boss's interest was piqued, and just like that, the leave was easily granted."
+        },
+        {
+          "zh": "不得不说，这位朋友很会利用“登门槛效应”来处理问题。",
+          "vi": "Phải nói rằng, người bạn này rất biết tận dụng “hiệu ứng thò chân vào cửa” để giải quyết vấn đề.",
+          "en": "I have to say, my friend really knows how to use the “foot-in-the-door effect” to deal with things."
+        },
+        {
+          "zh": "心理学家曾做过“登门槛技术”的现场实验。他们派人到两个社区，劝人们在屋前立一块“小心驾驶”的圆形标志。在第一个社区，研究人员直接向人们提出要求，结果很多人表示拒绝，接受率仅为{wéi}17%。在第二个社区，研究人员把同样的事情分成两个步骤：先向大家出示一份赞成安全驾驶的请愿书，请求他们在上面签字，几周后再提出立牌要求，这次接受者竟然达到了55%。第一个步骤的签字是很容易的，几乎所有人都照做了，大家可能都没意识到，这个小小的“登门槛行为”对接下来的决定产生了重要影响。",
+          "vi": "Các nhà tâm lý học từng làm thí nghiệm thực địa về “kỹ thuật thò chân vào cửa”. Họ cử người đến hai khu dân cư, khuyên mọi người dựng trước nhà một tấm biển tròn ghi “Lái xe cẩn thận”. Ở khu thứ nhất, nhân viên nghiên cứu trực tiếp đưa ra yêu cầu, kết quả nhiều người từ chối, tỷ lệ đồng ý chỉ là 17%. Ở khu thứ hai, nhân viên nghiên cứu chia việc tương tự thành hai bước: trước tiên đưa cho mọi người xem một bản kiến nghị ủng hộ lái xe an toàn, đề nghị họ ký tên vào, vài tuần sau mới đưa ra yêu cầu dựng biển, lần này số người đồng ý vậy mà đạt tới 55%. Bước ký tên đầu tiên rất dễ, hầu như ai cũng làm theo, có lẽ mọi người đều không nhận ra rằng “hành vi thò chân vào cửa” nho nhỏ này đã ảnh hưởng quan trọng đến quyết định tiếp theo.",
+          "en": "Psychologists once carried out a field experiment on the “foot-in-the-door technique”. They sent people to two neighbourhoods to persuade residents to put up a round “Drive Carefully” sign in front of their homes. In the first neighbourhood, the researchers asked directly, and many people refused: only 17% agreed. In the second, they split the same request into two steps: first they showed people a petition in favour of safe driving and asked them to sign it; a few weeks later they asked about the sign. This time, a remarkable 55% agreed. Signing in the first step was easy, and almost everyone did it; probably nobody realised that this small “foot-in-the-door” act would have an important influence on their next decision."
+        },
+        {
+          "zh": "日常生活中也是这样。当你想要求某人做某件较大的事情，又担心对方不愿意做时，可以先向他/她提出做一件同类型的、比较容易的事。比如你想与一个女孩谈恋爱，如果一开始就迫切地{de}提出要跟她约会，女孩可能会犹豫，甚至表现得很冷淡；如果你说“饭总是要吃的吧，一起吃饭吧”，她答应了，那接下来是去看电影还是泡酒吧都无所谓了。你想让同事帮你值班或写报告什么的，直接说八成儿{r}会被拒绝，把事情模糊化，“能不能帮个小忙”，“不会占用你很多时间”，台阶一铺，事情就容易多了……",
+          "vi": "Trong cuộc sống hằng ngày cũng vậy. Khi bạn muốn yêu cầu ai đó làm một việc tương đối lớn, lại lo đối phương không muốn làm, thì có thể đề nghị họ làm một việc cùng loại, tương đối dễ trước. Ví dụ bạn muốn hẹn hò với một cô gái, nếu ngay từ đầu đã vội vàng đề nghị hẹn hò, cô gái có thể sẽ do dự, thậm chí tỏ ra rất lạnh nhạt; nếu bạn nói “Cơm thì kiểu gì cũng phải ăn mà, cùng đi ăn cơm nhé”, cô ấy đồng ý rồi thì tiếp theo đi xem phim hay đi quán bar cũng chẳng sao cả. Bạn muốn đồng nghiệp trực ca hộ hoặc viết báo cáo hộ, nói thẳng ra thì tám phần mười sẽ bị từ chối, hãy nói một cách mơ hồ đi, “có thể giúp một chút việc nhỏ không”, “sẽ không chiếm nhiều thời gian của cậu đâu”, bậc thang đã trải sẵn thì mọi việc dễ hơn nhiều…",
+          "en": "It's the same in everyday life. When you want someone to do something fairly big but worry that they won't want to, you can first ask them to do something similar but easier. For example, if you want to go out with a girl and you urgently ask her on a date right at the start, she may hesitate or even act cold. If you say, “We've all got to eat, so let's have a meal together,” and she agrees, then whether you go to a film or a bar afterwards hardly matters. If you want a colleague to cover your shift or write a report for you, asking directly will probably get you turned down; keep it vague — “Could you do me a small favour?”, “It won't take much of your time” — and once you've laid down the first step, things get much easier…"
+        },
+        {
+          "zh": "你可能会说，这些小动作会让人觉得你很狡猾。但是不得不承认，有了这些小动作的帮助，别人的确更愿意接受你的请求。有时候，当你自认为{wéi}了不起时，别人通常觉得你这人不过如此；可是当你放低身段时，会缩短与人的距离，别人并不会看不起你，反而会觉得你为{wéi}人谦虚。实践证明，第二种人得{dé}到的总是比第一种人更多。",
+          "vi": "Có thể bạn sẽ nói, những động tác nhỏ này khiến người khác cảm thấy bạn rất xảo quyệt. Nhưng phải thừa nhận rằng, nhờ có những động tác nhỏ này, người khác quả thật sẵn lòng chấp nhận lời đề nghị của bạn hơn. Đôi khi, khi bạn tự cho mình là giỏi giang ghê gớm, người khác thường cảm thấy bạn cũng chỉ đến thế mà thôi; nhưng khi bạn hạ thấp mình xuống, sẽ rút ngắn khoảng cách với mọi người, người khác không hề coi thường bạn, ngược lại còn cảm thấy bạn là người khiêm tốn. Thực tiễn chứng minh, người thuộc loại thứ hai bao giờ cũng nhận được nhiều hơn loại thứ nhất.",
+          "en": "You might say these little tricks make you seem cunning. But you have to admit that, with their help, people really are more willing to accept your requests. Sometimes, when you think you're really something, others usually find you nothing special; but when you take a humbler stance, you close the distance between yourself and others, and rather than looking down on you, they think you're modest. Experience shows that the second kind of person always gets more than the first."
+        }
+      ],
+      "source": "改编自《休闲》2011年第3期，作者：郭茗儿",
+      "words": [
+        {
+          "zh": "门槛",
+          "py": "ménkǎn",
+          "pos": "dt.",
+          "vi": "ngưỡng cửa, bậc cửa",
+          "en": "threshold",
+          "x": true
+        },
+        {
+          "zh": "报社",
+          "py": "bàoshè",
+          "pos": "dt.",
+          "vi": "tòa soạn báo",
+          "en": "newspaper office"
+        },
+        {
+          "zh": "编辑",
+          "py": "biānjí",
+          "pos": "dt.",
+          "vi": "biên tập viên",
+          "en": "editor"
+        },
+        {
+          "zh": "嗯",
+          "py": "ǹg",
+          "pos": "ct.",
+          "vi": "ừ, dạ (dùng để chỉ sự đồng ý, khẳng định)",
+          "en": "uh-huh, yes (showing agreement)"
+        },
+        {
+          "zh": "轻易",
+          "py": "qīngyì",
+          "pos": "tt.",
+          "vi": "dễ dàng",
+          "en": "easy; lightly, rashly"
+        },
+        {
+          "zh": "处理",
+          "py": "chǔlǐ",
+          "pos": "đgt.",
+          "vi": "giải quyết, xử lý",
+          "en": "to handle, to deal with"
+        },
+        {
+          "zh": "社区",
+          "py": "shèqū",
+          "pos": "dt.",
+          "vi": "phường xã, khu vực, phố, khu dân cư",
+          "en": "community, neighbourhood",
+          "x": true
+        },
+        {
+          "zh": "劝",
+          "py": "quàn",
+          "pos": "đgt.",
+          "vi": "khuyên",
+          "en": "to persuade, to advise"
+        },
+        {
+          "zh": "圆",
+          "py": "yuán",
+          "pos": "tt.",
+          "vi": "tròn",
+          "en": "round"
+        },
+        {
+          "zh": "标志",
+          "py": "biāozhì",
+          "pos": "dt.",
+          "vi": "ký hiệu, biển báo",
+          "en": "sign, mark"
+        },
+        {
+          "zh": "出示",
+          "py": "chūshì",
+          "pos": "đgt.",
+          "vi": "trình ra, đưa cho xem",
+          "en": "to show, to present"
+        },
+        {
+          "zh": "赞成",
+          "py": "zànchéng",
+          "pos": "đgt.",
+          "vi": "đồng ý, tán thành",
+          "en": "to approve of, to be in favour of"
+        },
+        {
+          "zh": "请愿书",
+          "py": "qǐngyuànshū",
+          "pos": "dt.",
+          "vi": "đơn xin, đơn thỉnh cầu, bản kiến nghị",
+          "en": "petition",
+          "x": true
+        },
+        {
+          "zh": "恋爱",
+          "py": "liàn'ài",
+          "pos": "dt.",
+          "vi": "tình yêu",
+          "en": "love, romance"
+        },
+        {
+          "zh": "迫切",
+          "py": "pòqiè",
+          "pos": "tt.",
+          "vi": "cấp bách, khẩn cấp, bức thiết, thiết tha",
+          "en": "urgent, pressing"
+        },
+        {
+          "zh": "犹豫",
+          "py": "yóuyù",
+          "pos": "tt.",
+          "vi": "do dự, lưỡng lự",
+          "en": "hesitant"
+        },
+        {
+          "zh": "冷淡",
+          "py": "lěngdàn",
+          "pos": "tt.",
+          "vi": "lạnh nhạt, hờ hững",
+          "en": "cold, indifferent"
+        },
+        {
+          "zh": "无所谓",
+          "py": "wúsuǒwèi",
+          "pos": "đgt.",
+          "vi": "không sao cả, không hề gì",
+          "en": "not to matter, to be indifferent"
+        },
+        {
+          "zh": "值班",
+          "py": "zhí bān",
+          "pos": "đgt.",
+          "vi": "trực ban, trực ca",
+          "en": "to be on duty",
+          "x": true
+        },
+        {
+          "zh": "报告",
+          "py": "bàogào",
+          "pos": "dt.",
+          "vi": "bản báo cáo",
+          "en": "report"
+        },
+        {
+          "zh": "八成（儿）",
+          "py": "bāchéng (r)",
+          "pos": "phó.",
+          "vi": "hầu như, chắc chắn, tám phần mười",
+          "en": "most likely, probably",
+          "x": true
+        },
+        {
+          "zh": "模糊",
+          "py": "móhu",
+          "pos": "tt.",
+          "vi": "mơ hồ, mập mờ",
+          "en": "vague, blurred"
+        },
+        {
+          "zh": "狡猾",
+          "py": "jiǎohuá",
+          "pos": "tt.",
+          "vi": "xảo quyệt, xảo trá",
+          "en": "cunning, sly"
+        },
+        {
+          "zh": "了不起",
+          "py": "liǎobuqǐ",
+          "pos": "tt.",
+          "vi": "tài ba, giỏi, vĩ đại",
+          "en": "amazing, remarkable"
+        },
+        {
+          "zh": "身段",
+          "py": "shēnduàn",
+          "pos": "dt.",
+          "vi": "dáng vẻ, thái độ",
+          "en": "posture, airs",
+          "x": true
+        },
+        {
+          "zh": "缩短",
+          "py": "suōduǎn",
+          "pos": "đgt.",
+          "vi": "rút ngắn",
+          "en": "to shorten"
+        },
+        {
+          "zh": "看不起",
+          "py": "kànbuqǐ",
+          "pos": "đgt.",
+          "vi": "khinh thường, xem thường",
+          "en": "to look down on"
+        },
+        {
+          "zh": "谦虚",
+          "py": "qiānxū",
+          "pos": "tt.",
+          "vi": "khiêm tốn",
+          "en": "modest"
+        },
+        {
+          "zh": "实践",
+          "py": "shíjiàn",
+          "pos": "dt./đgt.",
+          "vi": "thực tiễn; thực hành",
+          "en": "practice; to put into practice"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "嗯",
+      "py": "ńg / ňg / ǹg",
+      "uses": [
+        {
+          "vi": "嗯 là thán từ. 1. Đọc ńg, biểu thị nghi vấn (hả? hử?).",
+          "en": "嗯 is an interjection. 1. Read ńg, it expresses a question (eh? huh?).",
+          "ex": [
+            {
+              "zh": "【嗯{ńg}】？不是28号，难道是我记错了？",
+              "vi": "Hả? Không phải ngày 28, lẽ nào tôi nhớ nhầm?",
+              "en": "Eh? It's not the 28th? Could I have remembered it wrong?"
+            },
+            {
+              "zh": "【嗯{ńg}】？人都去哪儿了？",
+              "vi": "Hả? Mọi người đi đâu hết rồi?",
+              "en": "Huh? Where has everyone gone?"
+            }
+          ]
+        },
+        {
+          "vi": "2. Đọc ňg, biểu thị cảm thấy bất ngờ hoặc cho rằng không nên như vậy (ơ! hừm!).",
+          "en": "2. Read ňg, it expresses surprise or a feeling that something shouldn't be so (what! hmm!).",
+          "ex": [
+            {
+              "zh": "【嗯{ňg}】！你的房间为什么这么冷？",
+              "vi": "Ơ! Sao phòng của bạn lạnh thế?",
+              "en": "What! Why is your room so cold?"
+            },
+            {
+              "zh": "【嗯{ňg}】！你怎么还没走啊？",
+              "vi": "Ơ! Sao bạn vẫn chưa đi?",
+              "en": "Hmm! Why haven't you left yet?"
+            }
+          ]
+        },
+        {
+          "vi": "3. Đọc ǹg, biểu thị đồng ý hoặc tán thành (ừ, vâng, dạ).",
+          "en": "3. Read ǹg, it expresses agreement or approval (uh-huh, yes, OK).",
+          "ex": [
+            {
+              "zh": "【嗯{ǹg}】，如果您心情好，我就说件事；心情不好就改天再说。",
+              "vi": "Dạ, nếu tâm trạng anh tốt thì em nói một chuyện; tâm trạng không tốt thì hôm khác hẵng nói.",
+              "en": "Well, if you're in a good mood, I'll mention something; if not, I'll bring it up another day."
+            },
+            {
+              "zh": "【嗯{ǹg}】，没问题，我这就给她送去。",
+              "vi": "Vâng, không vấn đề gì, tôi mang đến cho cô ấy ngay đây.",
+              "en": "OK, no problem. I'll take it to her right now."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "判断下列句中的“嗯”是哪种意思并在括号中填上正确的标点符号",
+        "items": [
+          {
+            "q": "嗯{ng}（ ）我记住了，明天给你发邮件。",
+            "key": "ǹg, đồng ý · dấu phẩy ，",
+            "a": "【嗯{ǹg}，】我记住了，明天给你发邮件。",
+            "vi": "Ừ, tôi nhớ rồi, ngày mai gửi email cho bạn.",
+            "en": "OK, got it. I'll email you tomorrow."
+          },
+          {
+            "q": "嗯{ng}（ ）小明怎么又忘了关灯啦？",
+            "key": "ňg, bất ngờ / không hài lòng · dấu chấm than ！",
+            "a": "【嗯{ňg}！】小明怎么又忘了关灯啦？",
+            "vi": "Ơ! Sao Tiểu Minh lại quên tắt đèn rồi?",
+            "en": "What! Has Xiao Ming forgotten to turn the light off again?"
+          },
+          {
+            "q": "嗯{ng}（ ）我的手机怎么不见了？",
+            "key": "ńg, nghi vấn · dấu hỏi ？",
+            "a": "【嗯{ńg}？】我的手机怎么不见了？",
+            "vi": "Hả? Sao điện thoại của tôi biến mất rồi?",
+            "en": "Huh? Where's my phone gone?"
+          }
+        ]
+      }
+    },
+    {
+      "title": "轻易",
+      "uses": [
+        {
+          "vi": "轻易 là tính từ, có nghĩa là “đơn giản, dễ dàng”, thường làm trạng ngữ.",
+          "en": "轻易 is an adjective meaning “simple, easy”; it usually acts as an adverbial.",
+          "ex": [
+            {
+              "zh": "领导有了兴趣，假，就这样【轻易】地{de}请好了。",
+              "vi": "Lãnh đạo thấy hứng thú, và thế là đơn xin nghỉ được duyệt một cách dễ dàng.",
+              "en": "The boss's interest was piqued, and just like that, the leave was easily granted."
+            },
+            {
+              "zh": "任何胜利都不是【轻易】得{dé}到的，背后都要付出艰辛的努力。",
+              "vi": "Bất kỳ thắng lợi nào cũng không dễ dàng có được, phía sau đều phải bỏ ra nỗ lực gian khổ.",
+              "en": "No victory comes easily; behind each one lies hard work."
+            }
+          ]
+        },
+        {
+          "vi": "轻易 còn có thể là phó từ, biểu thị thái độ xử lý sự việc không thận trọng, tùy tiện (tùy tiện, dễ dãi). Thường dùng trong câu phủ định tạo thành cấu trúc “轻易不……”, có nghĩa là “rất ít khi (làm…)”.",
+          "en": "轻易 can also be an adverb meaning rashly, lightly. It's often used in negative sentences in the pattern 轻易不……, meaning “rarely (does …)”.",
+          "ex": [
+            {
+              "zh": "他这个人的特点，是从不【轻易】决定，也不【轻易】转变。",
+              "vi": "Đặc điểm của anh ấy là không bao giờ quyết định tùy tiện, cũng không dễ dàng thay đổi.",
+              "en": "What's characteristic of him is that he never makes decisions lightly, and never changes his mind lightly either."
+            },
+            {
+              "zh": "他为{wéi}人好强，【轻易】不求人，这次向咱们借钱，一定是遇到什么难事了。",
+              "vi": "Anh ấy là người hiếu thắng, rất ít khi nhờ vả ai, lần này hỏi vay tiền chúng ta, chắc chắn là gặp chuyện khó khăn gì rồi.",
+              "en": "He's a proud man who rarely asks anyone for help; if he's asked us for a loan this time, he must be in some kind of trouble."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "这条路改为{wéi}单行{xíng}线后，____。",
+            "hint": "轻易（形容词）",
+            "a": "这条路改为{wéi}单行{xíng}线后，【车辆就能轻易地{de}通过了】。",
+            "vi": "Sau khi con đường này đổi thành đường một chiều, xe cộ có thể dễ dàng đi qua rồi.",
+            "en": "Since this road was made one-way, cars can get through easily.",
+            "sample": true
+          },
+          {
+            "q": "A：爸，天这么热，你们怎么不开空调啊？\nB：____。",
+            "hint": "轻易不……",
+            "a": "A：爸，天这么热，你们怎么不开空调啊？\nB：【我们老了，怕着{zháo}凉，轻易不开空调】。",
+            "vi": "A: Bố ơi, trời nóng thế này sao bố mẹ không bật điều hòa?\nB: Bố mẹ già rồi, sợ bị cảm lạnh, ít khi bật điều hòa lắm.",
+            "en": "A: Dad, it's so hot. Why don't you put the air conditioning on?\nB: We're old and afraid of catching a chill, so we hardly ever use it.",
+            "sample": true
+          },
+          {
+            "q": "A：现在骗子越来越多，这个星期我都接到两个骗人的电话了。\nB：____。",
+            "hint": "轻易不……",
+            "a": "A：现在骗子越来越多，这个星期我都接到两个骗人的电话了。\nB：【所以陌生人的电话我轻易不接】。",
+            "vi": "A: Bây giờ kẻ lừa đảo ngày càng nhiều, tuần này tôi đã nhận được hai cuộc điện thoại lừa đảo rồi.\nB: Vì thế điện thoại của người lạ tôi rất ít khi nghe.",
+            "en": "A: There are more and more scammers these days. I've had two scam calls this week already.\nB: That's why I rarely answer calls from strangers.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "轻易—容易",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: khi làm tính từ, 轻易 và 容易 đều có thể biểu thị làm việc không tốn sức.",
+          "en": "Similarity: as adjectives, 轻易 and 容易 can both mean that something takes little effort.",
+          "ex": []
+        },
+        {
+          "vi": "Khác nhau 1: 轻易 nghiêng về làm việc nhẹ nhàng, không tốn sức, thường làm trạng ngữ; 容易 ngoài biểu thị việc đơn giản, không khó làm, còn có thể biểu thị bản thân nội dung sự việc không phức tạp, có thể đứng một mình làm vị ngữ.",
+          "en": "Difference 1: 轻易 stresses doing something without effort and usually acts as an adverbial; 容易 means a matter is simple and not hard to do, and can also mean its content isn't complicated; it can be a predicate on its own.",
+          "ex": [
+            {
+              "zh": "她从小学习就好，高考时很【轻易】地{de}考上了名牌大学，接着又读了研究生。",
+              "vi": "Cô ấy từ nhỏ đã học giỏi, kỳ thi đại học dễ dàng đỗ vào trường danh tiếng, tiếp đó lại học lên cao học.",
+              "en": "She was always good at school; she got into a top university easily in the entrance exam, and then went on to do a master's."
+            },
+            {
+              "zh": "今天的考试特别【容易】，我半个小时就答完了。",
+              "vi": "Bài thi hôm nay đặc biệt dễ, nửa tiếng tôi đã làm xong.",
+              "en": "Today's exam was really easy; I finished it in half an hour."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: 轻易 không có nghĩa này; 容易 còn biểu thị khả năng xảy ra một thay đổi nào đó là lớn (dễ, hay).",
+          "en": "Difference 2: 容易 can also mean that a change is likely to happen (prone to, easily); 轻易 has no such meaning.",
+          "ex": [
+            {
+              "zh": "他最近心情不好，【容易】发脾气。",
+              "vi": "Dạo này tâm trạng anh ấy không tốt, dễ nổi nóng.",
+              "en": "He's been in a bad mood lately and loses his temper easily."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 3: 轻易 còn là phó từ, biểu thị tùy tiện; 容易 không có cách dùng này.",
+          "en": "Difference 3: 轻易 is also an adverb meaning rashly, lightly; 容易 has no such use.",
+          "ex": [
+            {
+              "zh": "我爱书，无论走到哪里，我从不【轻易】放过书摊、书店。",
+              "vi": "Tôi yêu sách, dù đi đến đâu tôi cũng không bao giờ dễ dàng bỏ qua các sạp sách, hiệu sách.",
+              "en": "I love books; wherever I go, I never pass a bookstall or bookshop without stopping."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "据说这位刘先生从不____花钱请人吃饭。",
+            "key": "轻易 ✓ · 容易 ✗ (phó từ: tùy tiện)",
+            "a": "据说这位刘先生从不【轻易】花钱请人吃饭。",
+            "vi": "Nghe nói ông Lưu này không bao giờ tùy tiện bỏ tiền mời người khác ăn cơm.",
+            "en": "They say Mr Liu never lightly spends money treating people to meals."
+          },
+          {
+            "q": "看完信后，____不动感情的父亲眼圈都红了。",
+            "key": "轻易 ✓ · 容易 ✗ (轻易不…: rất ít khi)",
+            "a": "看完信后，【轻易】不动感情的父亲眼圈都红了。",
+            "vi": "Đọc xong lá thư, người cha vốn rất ít khi xúc động cũng đỏ hoe mắt.",
+            "en": "After reading the letter, even my father, who rarely shows emotion, had red eyes."
+          },
+          {
+            "q": "你这样做，不了解情况的人很____误会。",
+            "key": "轻易 ✗ · 容易 ✓ (khả năng xảy ra lớn)",
+            "a": "你这样做，不了解情况的人很【容易】误会。",
+            "vi": "Bạn làm như vậy, người không hiểu tình hình rất dễ hiểu lầm.",
+            "en": "If you do that, people who don't know the situation could easily misunderstand."
+          },
+          {
+            "q": "我们双方都没有____放弃自己的意愿。",
+            "key": "轻易 ✓ · 容易 ✗ (phó từ: dễ dàng, tùy tiện)",
+            "a": "我们双方都没有【轻易】放弃自己的意愿。",
+            "vi": "Cả hai bên chúng tôi đều không dễ dàng từ bỏ mong muốn của mình.",
+            "en": "Neither side gave up its wishes lightly."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "缩短",
+            "长度/距离/时间/路线"
+          ],
+          "vi": "rút ngắn độ dài / khoảng cách / thời gian / tuyến đường",
+          "en": "shorten the length / distance / time / route"
+        },
+        {
+          "zh": [
+            "处理",
+            "问题/矛盾/关系/工作/信息/文件/商品"
+          ],
+          "vi": "xử lý vấn đề / mâu thuẫn / quan hệ / công việc / thông tin / văn bản / hàng hóa",
+          "en": "handle problems / conflicts / relationships / work / information / documents / goods"
+        }
+      ]
+    },
+    {
+      "a": "定语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "狡猾的",
+            "狐狸/敌人"
+          ],
+          "vi": "con cáo / kẻ thù xảo quyệt",
+          "en": "a sly fox / a cunning enemy"
+        },
+        {
+          "zh": [
+            "了{liǎo}不起的",
+            "人物/贡献/成绩/发明/创造/民族/母亲"
+          ],
+          "vi": "nhân vật / cống hiến / thành tích / phát minh / sáng tạo / dân tộc / người mẹ vĩ đại",
+          "en": "a remarkable figure / contribution / achievement / invention / creation / nation / mother"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "迫切地{de}",
+            "要求/需要/希望/盼望/寻找"
+          ],
+          "vi": "tha thiết yêu cầu / cấp thiết cần / tha thiết hy vọng / mong mỏi / tìm kiếm",
+          "en": "urgently demand / need / hope / long for / look for"
+        },
+        {
+          "zh": [
+            "轻易（地{de}）",
+            "相信/放弃/改变/实现/答应/错过（机会）/发表（意见）/达到（目标）"
+          ],
+          "vi": "dễ dàng tin / từ bỏ / thay đổi / thực hiện / đồng ý / bỏ lỡ (cơ hội) / phát biểu (ý kiến) / đạt được (mục tiêu)",
+          "en": "readily believe / give up / change / achieve / agree / miss (a chance) / voice (an opinion) / reach (a goal)"
+        }
+      ]
+    },
+    {
+      "a": "主语",
+      "b": "谓语",
+      "rows": [
+        {
+          "zh": [
+            "视线/记忆/声音/印象/意思/光线/字迹",
+            "模糊"
+          ],
+          "vi": "tầm nhìn / ký ức / âm thanh / ấn tượng / ý nghĩa / ánh sáng / nét chữ mờ nhạt",
+          "en": "blurred vision / a hazy memory / a faint voice / impression / vague meaning / dim light / smudged writing"
+        },
+        {
+          "zh": [
+            "态度/表情/关系/生意/反应",
+            "冷淡"
+          ],
+          "vi": "thái độ / vẻ mặt / quan hệ lạnh nhạt / làm ăn ế ẩm / phản ứng hờ hững",
+          "en": "a cold attitude / expression / relationship / slack business / a lukewarm response"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "迫切",
+        "无所谓",
+        "了{liǎo}不起",
+        "标志",
+        "处理",
+        "赞成"
+      ],
+      "items": [
+        {
+          "q": "每次比赛之前，我都要仔细记一些比赛线路周围的____。",
+          "key": "标志",
+          "a": "每次比赛之前，我都要仔细记一些比赛线路周围的【标志】。",
+          "vi": "Trước mỗi cuộc thi, tôi đều phải ghi nhớ kỹ một số biển báo xung quanh tuyến đường thi đấu.",
+          "en": "Before every race, I carefully memorise some of the landmarks along the route."
+        },
+        {
+          "q": "大家都不____让刘研去负责上海的项目。",
+          "key": "赞成",
+          "a": "大家都不【赞成】让刘研去负责上海的项目。",
+          "vi": "Mọi người đều không tán thành để Lưu Nghiên phụ trách dự án ở Thượng Hải.",
+          "en": "Nobody is in favour of putting Liu Yan in charge of the Shanghai project."
+        },
+        {
+          "q": "平时很多问题都是他去____的，别人根本不会。",
+          "key": "处理",
+          "a": "平时很多问题都是他去【处理】的，别人根本不会。",
+          "vi": "Bình thường nhiều vấn đề đều do anh ấy xử lý, người khác hoàn toàn không biết làm.",
+          "en": "He's usually the one who deals with problems; nobody else has a clue."
+        },
+        {
+          "q": "如果新工作有发展空间，工资低一点儿也____。",
+          "key": "无所谓",
+          "a": "如果新工作有发展空间，工资低一点儿也【无所谓】。",
+          "vi": "Nếu công việc mới có không gian phát triển thì lương thấp một chút cũng không sao.",
+          "en": "If the new job has room for growth, a slightly lower salary doesn't matter."
+        },
+        {
+          "q": "公司____需要开发出适合亚洲市场的新产品。",
+          "key": "迫切",
+          "a": "公司【迫切】需要开发出适合亚洲市场的新产品。",
+          "vi": "Công ty cấp thiết cần phát triển sản phẩm mới phù hợp với thị trường châu Á.",
+          "en": "The company urgently needs to develop new products for the Asian market."
+        },
+        {
+          "q": "不就是买了个新手机吗？有什么____的。",
+          "key": "了不起",
+          "a": "不就是买了个新手机吗？有什么【了{liǎo}不起】的。",
+          "vi": "Chẳng phải chỉ là mua cái điện thoại mới thôi sao? Có gì ghê gớm đâu.",
+          "en": "So you bought a new phone. What's so great about that?"
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "没想到，主任的态度很____，不同意他去。",
+          "opts": [
+            "A. 冷淡",
+            "B. 清淡"
+          ],
+          "key": "A",
+          "a": "没想到，主任的态度很【冷淡】，不同意他去。",
+          "vi": "Không ngờ thái độ của chủ nhiệm rất lạnh nhạt, không đồng ý cho anh ấy đi.",
+          "en": "Unexpectedly, the director was very cool about it and didn't agree to let him go."
+        },
+        {
+          "q": "当经理有什么____的。",
+          "opts": [
+            "A. 了不起",
+            "B. 不得了"
+          ],
+          "key": "A",
+          "a": "当经理有什么【了{liǎo}不起】的。",
+          "vi": "Làm giám đốc thì có gì ghê gớm đâu.",
+          "en": "What's so great about being a manager?"
+        },
+        {
+          "q": "你自己一个人去花园里玩儿，妈妈____了吗？",
+          "opts": [
+            "A. 赞成",
+            "B. 同意"
+          ],
+          "key": "B",
+          "a": "你自己一个人去花园里玩儿，妈妈【同意】了吗？",
+          "vi": "Con một mình ra vườn chơi, mẹ đã đồng ý chưa?",
+          "en": "Has Mum said you can go and play in the garden on your own?"
+        },
+        {
+          "q": "挺好的工作为什么要辞职？你怎么这么____啊？",
+          "opts": [
+            "A. 糊涂",
+            "B. 模糊"
+          ],
+          "key": "A",
+          "a": "挺好的工作为什么要辞职？你怎么这么【糊涂】啊？",
+          "vi": "Công việc tốt như thế sao lại nghỉ? Sao bạn hồ đồ thế?",
+          "en": "Why quit such a good job? How could you be so muddle-headed?"
+        }
+      ]
+    },
+    {
+      "title": "画线连接可以搭配的词语",
+      "bank": [
+        "消息",
+        "资料",
+        "意见",
+        "证件",
+        "模糊",
+        "谦虚",
+        "犹豫",
+        "迫切"
+      ],
+      "items": [
+        {
+          "q": "出示 ____",
+          "key": "证件",
+          "a": "出示【证件】",
+          "vi": "xuất trình giấy tờ",
+          "en": "show one's ID"
+        },
+        {
+          "q": "赞成 ____",
+          "key": "意见",
+          "a": "赞成【意见】",
+          "vi": "tán thành ý kiến",
+          "en": "agree with a view"
+        },
+        {
+          "q": "编辑 ____",
+          "key": "资料",
+          "a": "编辑【资料】",
+          "vi": "biên tập tư liệu",
+          "en": "edit material"
+        },
+        {
+          "q": "报告 ____",
+          "key": "消息",
+          "a": "报告【消息】",
+          "vi": "báo tin",
+          "en": "report the news"
+        },
+        {
+          "q": "待人 ____",
+          "key": "谦虚",
+          "a": "待人【谦虚】",
+          "vi": "đối xử với người khác khiêm tốn",
+          "en": "modest with others"
+        },
+        {
+          "q": "图像 ____",
+          "key": "模糊",
+          "a": "图像【模糊】",
+          "vi": "hình ảnh mờ",
+          "en": "a blurry image"
+        },
+        {
+          "q": "愿望 ____",
+          "key": "迫切",
+          "a": "愿望【迫切】",
+          "vi": "mong muốn tha thiết",
+          "en": "an urgent wish"
+        },
+        {
+          "q": "动作 ____",
+          "key": "犹豫",
+          "a": "动作【犹豫】",
+          "vi": "động tác do dự",
+          "en": "hesitant movements"
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "朋友是如何请好假的",
+          "hint": "编辑、领导、心情、改天、兴趣、轻易、利用、处理",
+          "a": "一个在报社当【编辑】的朋友去请假，他先问【领导】：“您今天【心情】好吗？如果心情好，我就说件事；心情不好就【改天】再说。”领导有了【兴趣】，假就【轻易】地{de}请好了。这位朋友很会【利用】“登门槛效应”来【处理】问题。",
+          "vi": "Một người bạn làm biên tập viên ở tòa soạn đi xin nghỉ, trước tiên anh ấy hỏi lãnh đạo: “Hôm nay tâm trạng anh có tốt không? Nếu tốt thì em nói một chuyện; không tốt thì hôm khác hẵng nói.” Lãnh đạo thấy hứng thú, thế là xin nghỉ dễ dàng được duyệt. Người bạn này rất biết tận dụng “hiệu ứng thò chân vào cửa” để giải quyết vấn đề.",
+          "en": "A friend who's an editor at a newspaper wanted leave. He first asked his boss: “Are you in a good mood today? If so, I'll mention something; if not, I'll bring it up another day.” The boss got curious, and the leave was easily granted. My friend really knows how to use the “foot-in-the-door effect”.",
+          "sample": true
+        },
+        {
+          "q": "心理学家的实验",
+          "hint": "社区、驾驶、标志、拒绝、接受、步骤、赞成、签字",
+          "a": "心理学家派人到两个【社区】，劝人们在屋前立“小心【驾驶】”的【标志】。在第一个社区直接提要求，很多人【拒绝】，【接受】率只有17%。在第二个社区分成两个【步骤】：先请大家在【赞成】安全驾驶的请愿书上【签字】，几周后再提立牌要求，接受者达到了55%。",
+          "vi": "Các nhà tâm lý học cử người đến hai khu dân cư, khuyên mọi người dựng biển “Lái xe cẩn thận” trước nhà. Ở khu thứ nhất đưa ra yêu cầu trực tiếp, nhiều người từ chối, tỷ lệ đồng ý chỉ 17%. Ở khu thứ hai chia làm hai bước: trước tiên mời mọi người ký tên vào bản kiến nghị ủng hộ lái xe an toàn, vài tuần sau mới đề nghị dựng biển, số người đồng ý đạt 55%.",
+          "en": "Psychologists sent people to two neighbourhoods to ask residents to put up “Drive Carefully” signs. In the first, they asked directly; many refused, and only 17% agreed. In the second, they used two steps: first asking people to sign a petition supporting safe driving, then asking about the sign a few weeks later — and 55% agreed.",
+          "sample": true
+        },
+        {
+          "q": "如何向人提出请求",
+          "hint": "迫切、犹豫、冷淡、答应、无所谓、模糊、台阶",
+          "a": "想跟女孩谈恋爱，如果一开始就【迫切】地{de}提出约会，她可能会【犹豫】、【冷淡】；如果先请她吃饭，她【答应】了，接下来去哪儿都【无所谓】了。想让同事帮忙，直接说可能会被拒绝，把事情【模糊】化，【台阶】一铺，事情就容易多了。",
+          "vi": "Muốn hẹn hò với một cô gái, nếu ngay từ đầu đã vội vàng đề nghị hẹn hò, cô ấy có thể do dự, lạnh nhạt; nếu mời cô ấy ăn cơm trước, cô ấy đồng ý rồi thì tiếp theo đi đâu cũng không sao. Muốn đồng nghiệp giúp đỡ, nói thẳng có thể bị từ chối, nói mơ hồ đi, trải sẵn bậc thang thì việc sẽ dễ hơn nhiều.",
+          "en": "If you want to go out with a girl and ask her on a date urgently from the start, she may hesitate or act cold; if you first invite her for a meal and she agrees, where you go next hardly matters. If you want a colleague's help, asking directly may get you refused; keep it vague, lay down a first step, and things get much easier.",
+          "sample": true
+        },
+        {
+          "q": "“放低身段”的好处",
+          "hint": "了{liǎo}不起、通常、缩短距离、看不起、谦虚",
+          "a": "当你自认为{wéi}【了{liǎo}不起】时，别人【通常】觉得你不过如此；当你放低身段时，会【缩短】与人的【距离】，别人不会【看不起】你，反而觉得你为{wéi}人【谦虚】。",
+          "vi": "Khi bạn tự cho mình là giỏi giang ghê gớm, người khác thường thấy bạn cũng chỉ đến thế; khi bạn hạ thấp mình, sẽ rút ngắn khoảng cách với mọi người, người khác không coi thường bạn, ngược lại còn thấy bạn khiêm tốn.",
+          "en": "When you think you're really something, others usually find you nothing special; when you take a humbler stance, you close the distance with others, and rather than looking down on you, they find you modest.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "行为1",
+    "vi": "Hành vi (1)",
+    "en": "Actions and behaviour (1)",
+    "words": [
+      {
+        "zh": "推辞",
+        "py": "tuīcí",
+        "vi": "từ chối khéo, thoái thác",
+        "en": "to decline (politely)"
+      },
+      {
+        "zh": "议论",
+        "py": "yìlùn",
+        "vi": "bàn tán, bình luận",
+        "en": "to discuss, to comment on"
+      },
+      {
+        "zh": "转告",
+        "py": "zhuǎngào",
+        "vi": "chuyển lời",
+        "en": "to pass on (a message)"
+      },
+      {
+        "zh": "祝福",
+        "py": "zhùfú",
+        "vi": "chúc phúc",
+        "en": "to bless; blessing"
+      },
+      {
+        "zh": "握手",
+        "py": "wòshǒu",
+        "vi": "bắt tay",
+        "en": "to shake hands"
+      },
+      {
+        "zh": "看望",
+        "py": "kànwàng",
+        "vi": "thăm, thăm hỏi",
+        "en": "to visit (someone)"
+      },
+      {
+        "zh": "问候",
+        "py": "wènhòu",
+        "vi": "hỏi thăm",
+        "en": "to send regards, to greet"
+      },
+      {
+        "zh": "处理",
+        "py": "chǔlǐ",
+        "vi": "xử lý",
+        "en": "to handle"
+      },
+      {
+        "zh": "恭喜",
+        "py": "gōngxǐ",
+        "vi": "chúc mừng",
+        "en": "to congratulate"
+      },
+      {
+        "zh": "宣布",
+        "py": "xuānbù",
+        "vi": "tuyên bố",
+        "en": "to announce"
+      },
+      {
+        "zh": "信任",
+        "py": "xìnrèn",
+        "vi": "tín nhiệm, tin tưởng",
+        "en": "to trust"
+      },
+      {
+        "zh": "配合",
+        "py": "pèihé",
+        "vi": "phối hợp",
+        "en": "to cooperate"
+      },
+      {
+        "zh": "当心",
+        "py": "dāngxīn",
+        "vi": "cẩn thận, coi chừng",
+        "en": "to be careful, to watch out"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "我把李阳、刘方调到你们部门，他们会全力____你的工作。",
+          "key": "配合",
+          "a": "我把李阳、刘方调到你们部门，他们会全力【配合】你的工作。",
+          "vi": "Tôi điều Lý Dương, Lưu Phương sang bộ phận của anh, họ sẽ dốc toàn lực phối hợp với công việc của anh.",
+          "en": "I'm transferring Li Yang and Liu Fang to your department; they'll give you their full cooperation."
+        },
+        {
+          "q": "____是对孩子最大的鼓励，也是给孩子最好的爱。",
+          "key": "信任",
+          "a": "【信任】是对孩子最大的鼓励，也是给孩子最好的爱。",
+          "vi": "Tin tưởng là sự khích lệ lớn nhất đối với trẻ, cũng là tình yêu tốt nhất dành cho trẻ.",
+          "en": "Trust is the greatest encouragement you can give a child, and the best love too."
+        },
+        {
+          "q": "在校长{zhǎng}和师生们再三邀请下，刘先生____不过，只好走上讲台。",
+          "key": "推辞",
+          "a": "在校长{zhǎng}和师生们再三邀请下，刘先生【推辞】不过，只好走上讲台。",
+          "vi": "Trước lời mời hết lần này đến lần khác của hiệu trưởng và thầy trò, ông Lưu không từ chối được, đành bước lên bục giảng.",
+          "en": "With the headmaster, teachers and students inviting him again and again, Mr Liu couldn't refuse and had to go up to the podium."
+        },
+        {
+          "q": "听说你接到北大的录取通知书啦？____你啊！",
+          "key": "恭喜",
+          "a": "听说你接到北大的录取通知书啦？【恭喜】你啊！",
+          "vi": "Nghe nói bạn nhận được giấy báo trúng tuyển của Đại học Bắc Kinh rồi à? Chúc mừng bạn nhé!",
+          "en": "I hear you've got your offer from Peking University? Congratulations!"
+        }
+      ]
+    }
+  }
+}

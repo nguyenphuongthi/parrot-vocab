@@ -1,0 +1,955 @@
+{
+  "n": 22,
+  "zh": "阅读与思考",
+  "vi": "Đọc và suy nghĩ",
+  "en": "Reading and thinking",
+  "texts": [
+    {
+      "title": "阅读与思考",
+      "paras": [
+        {
+          "zh": "很多家长可能过分强调阅读的作用，觉得多读书就能够把作文写得特别好。这个观点是不客观、不全面的，我们需要转变自己的观念。",
+          "vi": "Nhiều phụ huynh có lẽ quá nhấn mạnh tác dụng của việc đọc, cho rằng đọc nhiều sách là có thể viết văn đặc biệt hay. Quan điểm này không khách quan, không toàn diện, chúng ta cần thay đổi quan niệm của mình.",
+          "en": "Many parents probably overemphasise the role of reading, thinking that reading lots of books will make their children write excellent essays. This view isn't objective or comprehensive; we need to change our way of thinking."
+        },
+        {
+          "zh": "我曾经听一位美国的小学老师说，他们十分重视和学生一起讨论问题。比如，他们讨论过《卖火柴的小女孩儿》是写给谁看的，还讨论过灰姑娘的故事。老师讲完故事之后，问同学们：灰姑娘一旦进了这个王宫，成为王子的心上人，她的梦想实现了，一切幸福都属于她之后，这时她应该怎样对待她的继母，应该怎样对待她的两个姐姐？",
+          "vi": "Tôi từng nghe một giáo viên tiểu học người Mỹ kể rằng họ rất coi trọng việc cùng học sinh thảo luận vấn đề. Ví dụ, họ từng thảo luận xem “Cô bé bán diêm” được viết cho ai đọc, còn thảo luận cả câu chuyện Cô bé Lọ Lem. Kể xong câu chuyện, cô giáo hỏi các em: Một khi Lọ Lem đã vào hoàng cung, trở thành người trong mộng của hoàng tử, ước mơ đã thành hiện thực, mọi hạnh phúc đều thuộc về cô rồi, thì lúc đó cô nên đối xử với mẹ kế thế nào, nên đối xử với hai người chị thế nào?",
+          "en": "I once heard an American primary school teacher say that they place great importance on discussing questions together with their pupils. For example, they had discussed who “The Little Match Girl” was written for, and they had also discussed the story of Cinderella. After telling the story, the teacher asked the class: once Cinderella has entered the palace and become the prince's sweetheart, once her dream has come true and all happiness is hers, how should she treat her stepmother, and how should she treat her two stepsisters?"
+        },
+        {
+          "zh": "为什么要讨论这个问题呢？因为这是一种情感交换。老师和学生通过讨论得{dé}出的结论是：一个已经拥有巨大幸福的人，应该原谅和理解那些伤害过自己的人。另外还要承认人性中一些先天的不完美，就是说作为一个母亲，在自己的亲生女儿和不是亲生的灰姑娘之间，难免会更疼爱自己亲生的女儿，很难完全平等地{de}对待她们。可能你觉得继母很自私，但这种行为有自然倾向的理由，与道德没有必然的关系。",
+          "vi": "Vì sao phải thảo luận vấn đề này? Vì đây là một sự trao đổi tình cảm. Kết luận mà cô và trò rút ra qua thảo luận là: Một người đã có được hạnh phúc to lớn nên tha thứ và thấu hiểu những người từng làm tổn thương mình. Ngoài ra còn phải thừa nhận một số điểm không hoàn hảo bẩm sinh trong bản tính con người, nghĩa là, là một người mẹ, giữa con gái ruột của mình và Lọ Lem không phải con ruột, khó tránh khỏi sẽ thương con gái ruột hơn, rất khó đối xử hoàn toàn bình đẳng với họ. Có thể bạn thấy mẹ kế rất ích kỷ, nhưng hành vi này có lý do từ khuynh hướng tự nhiên, không có quan hệ tất yếu với đạo đức.",
+          "en": "Why discuss this question? Because it's a kind of emotional exchange. The conclusion the teacher and pupils reached through discussion was that someone who already has great happiness should forgive and understand those who have hurt them. They should also recognise some innate imperfections in human nature: as a mother, between her own daughter and Cinderella, who isn't her daughter, she will inevitably love her own daughter more, and it's very hard to treat them completely equally. You may think the stepmother is selfish, but there's a natural reason for this behaviour; it isn't necessarily a question of morality."
+        },
+        {
+          "zh": "自从我听说了这件事，就开始思考应该如何阅读，除了阅读还应该做什么。你看这个老师在讲童话的时候，已经在有意识地{de}把这种情感影响，甚至把人性的价值判断，都给了孩子们。如果只是单纯地{de}主张阅读而不强调思考，那是片面的。",
+          "vi": "Từ khi nghe chuyện này, tôi bắt đầu suy nghĩ nên đọc như thế nào, ngoài đọc ra còn nên làm gì. Bạn xem, cô giáo này khi kể truyện cổ tích đã có ý thức truyền cho bọn trẻ sự ảnh hưởng về tình cảm này, thậm chí cả sự phán đoán giá trị về bản tính con người. Nếu chỉ đơn thuần chủ trương đọc mà không nhấn mạnh suy nghĩ thì đó là phiến diện.",
+          "en": "Ever since I heard about this, I've been thinking about how we should read and what else we should do besides reading. When this teacher told a fairy tale, she was consciously passing on this emotional influence — and even value judgements about human nature — to the children. Simply advocating reading without stressing thinking is one-sided."
+        },
+        {
+          "zh": "“知识”两个字我始终认为它是要分开来谈的，“知”就是知感，“识”就是认识。所谓“知感”就是别人告诉你、说给你听、要求你记住的那一部分。但只有这一部分是不够的，还要有认识、思考。",
+          "vi": "Hai chữ “tri thức”, tôi luôn cho rằng phải tách ra mà bàn: “tri” là tri giác, “thức” là nhận thức. Cái gọi là “tri giác” chính là phần người khác bảo bạn, nói cho bạn nghe, yêu cầu bạn ghi nhớ. Nhưng chỉ có phần này thì chưa đủ, còn phải có nhận thức, suy nghĩ.",
+          "en": "I've always believed that the two characters of 知识 (knowledge) should be discussed separately: 知 is perception, and 识 is understanding. “Perception” is the part that others tell you, explain to you and ask you to remember. But that part alone isn't enough; you also need understanding and thought."
+        }
+      ],
+      "source": "改编自《北京青年报》，作者：梁晓声",
+      "words": [
+        {
+          "zh": "过分",
+          "py": "guòfèn",
+          "pos": "tt.",
+          "vi": "quá đáng, quá mức",
+          "en": "excessive, going too far"
+        },
+        {
+          "zh": "强调",
+          "py": "qiángdiào",
+          "pos": "đgt.",
+          "vi": "nhấn mạnh",
+          "en": "to stress, to emphasise"
+        },
+        {
+          "zh": "作文",
+          "py": "zuòwén",
+          "pos": "dt.",
+          "vi": "bài làm văn, bài tập làm văn",
+          "en": "composition, essay"
+        },
+        {
+          "zh": "观点",
+          "py": "guāndiǎn",
+          "pos": "dt.",
+          "vi": "quan điểm",
+          "en": "point of view"
+        },
+        {
+          "zh": "客观",
+          "py": "kèguān",
+          "pos": "tt.",
+          "vi": "khách quan",
+          "en": "objective"
+        },
+        {
+          "zh": "全面",
+          "py": "quánmiàn",
+          "pos": "tt.",
+          "vi": "toàn diện, mọi mặt",
+          "en": "comprehensive, all-round"
+        },
+        {
+          "zh": "转变",
+          "py": "zhuǎnbiàn",
+          "pos": "đgt.",
+          "vi": "thay đổi, chuyển biến",
+          "en": "to change, to transform"
+        },
+        {
+          "zh": "观念",
+          "py": "guānniàn",
+          "pos": "dt.",
+          "vi": "quan niệm, tư tưởng",
+          "en": "concept, way of thinking"
+        },
+        {
+          "zh": "火柴",
+          "py": "huǒchái",
+          "pos": "dt.",
+          "vi": "diêm, que diêm",
+          "en": "match"
+        },
+        {
+          "zh": "灰",
+          "py": "huī",
+          "pos": "dt./tt.",
+          "vi": "tro; xám",
+          "en": "ash; grey"
+        },
+        {
+          "zh": "一旦",
+          "py": "yídàn",
+          "pos": "phó.",
+          "vi": "một khi",
+          "en": "once, in case"
+        },
+        {
+          "zh": "王宫",
+          "py": "wánggōng",
+          "pos": "dt.",
+          "vi": "hoàng cung",
+          "en": "royal palace",
+          "x": true
+        },
+        {
+          "zh": "王子",
+          "py": "wángzǐ",
+          "pos": "dt.",
+          "vi": "hoàng tử",
+          "en": "prince"
+        },
+        {
+          "zh": "属于",
+          "py": "shǔyú",
+          "pos": "đgt.",
+          "vi": "thuộc về",
+          "en": "to belong to"
+        },
+        {
+          "zh": "对待",
+          "py": "duìdài",
+          "pos": "đgt.",
+          "vi": "đối xử, đối đãi",
+          "en": "to treat"
+        },
+        {
+          "zh": "交换",
+          "py": "jiāohuàn",
+          "pos": "đgt.",
+          "vi": "trao đổi",
+          "en": "to exchange"
+        },
+        {
+          "zh": "拥有",
+          "py": "yōngyǒu",
+          "pos": "đgt.",
+          "vi": "có, sở hữu",
+          "en": "to have, to possess",
+          "x": true
+        },
+        {
+          "zh": "巨大",
+          "py": "jùdà",
+          "pos": "tt.",
+          "vi": "to lớn",
+          "en": "huge, enormous"
+        },
+        {
+          "zh": "承认",
+          "py": "chéngrèn",
+          "pos": "đgt.",
+          "vi": "thừa nhận, chấp nhận",
+          "en": "to admit, to acknowledge"
+        },
+        {
+          "zh": "人性",
+          "py": "rénxìng",
+          "pos": "dt.",
+          "vi": "bản tính con người, nhân tính",
+          "en": "human nature",
+          "x": true
+        },
+        {
+          "zh": "完美",
+          "py": "wánměi",
+          "pos": "tt.",
+          "vi": "hoàn hảo, hoàn mỹ",
+          "en": "perfect"
+        },
+        {
+          "zh": "难免",
+          "py": "nánmiǎn",
+          "pos": "tt.",
+          "vi": "khó tránh",
+          "en": "hard to avoid, inevitable"
+        },
+        {
+          "zh": "疼爱",
+          "py": "téng'ài",
+          "pos": "đgt.",
+          "vi": "thương yêu",
+          "en": "to love dearly, to dote on"
+        },
+        {
+          "zh": "平等",
+          "py": "píngděng",
+          "pos": "tt.",
+          "vi": "bình đẳng",
+          "en": "equal"
+        },
+        {
+          "zh": "自私",
+          "py": "zìsī",
+          "pos": "tt.",
+          "vi": "ích kỷ",
+          "en": "selfish"
+        },
+        {
+          "zh": "倾向",
+          "py": "qīngxiàng",
+          "pos": "đgt./dt.",
+          "vi": "nghiêng về; khuynh hướng",
+          "en": "to incline towards; tendency",
+          "x": true
+        },
+        {
+          "zh": "理由",
+          "py": "lǐyóu",
+          "pos": "dt.",
+          "vi": "lý do",
+          "en": "reason"
+        },
+        {
+          "zh": "道德",
+          "py": "dàodé",
+          "pos": "dt.",
+          "vi": "đạo đức",
+          "en": "morality, ethics"
+        },
+        {
+          "zh": "自从",
+          "py": "zìcóng",
+          "pos": "giới.",
+          "vi": "từ lúc, từ khi",
+          "en": "since"
+        },
+        {
+          "zh": "童话",
+          "py": "tónghuà",
+          "pos": "dt.",
+          "vi": "truyện cổ tích, truyện đồng thoại",
+          "en": "fairy tale",
+          "x": true
+        },
+        {
+          "zh": "价值",
+          "py": "jiàzhí",
+          "pos": "dt.",
+          "vi": "giá trị",
+          "en": "value"
+        },
+        {
+          "zh": "单纯",
+          "py": "dānchún",
+          "pos": "tt.",
+          "vi": "đơn thuần, đơn giản; chỉ",
+          "en": "simple, pure; merely"
+        },
+        {
+          "zh": "主张",
+          "py": "zhǔzhāng",
+          "pos": "đgt./dt.",
+          "vi": "cho là, tán thành; chủ trương",
+          "en": "to advocate; position, view"
+        },
+        {
+          "zh": "知感",
+          "py": "zhīgǎn",
+          "pos": "dt.",
+          "vi": "tri giác",
+          "en": "perception",
+          "x": true
+        }
+      ],
+      "names": [
+        {
+          "zh": "《卖火柴的小女孩儿》",
+          "py": "Mài Huǒchái de Xiǎo Nǚháir",
+          "vi": "Cô bé bán diêm",
+          "en": "The Little Match Girl"
+        },
+        {
+          "zh": "灰姑娘",
+          "py": "Huīgūniang",
+          "vi": "Cô bé Lọ Lem",
+          "en": "Cinderella"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "一旦",
+      "uses": [
+        {
+          "vi": "一旦 là phó từ, biểu thị một thời điểm không xác định, một ngày đột nhiên đến, hoặc giả sử có một ngày như thế (một khi, một mai, hễ).",
+          "en": "一旦 is an adverb referring to an indefinite time — a day that suddenly comes, or a hypothetical day when something happens (once, if ever).",
+          "ex": [
+            {
+              "zh": "长{zhǎng}大后，我终于明白了这个道理：女人【一旦】做了母亲，就变得矛盾了。",
+              "vi": "Lớn lên rồi, cuối cùng tôi đã hiểu ra đạo lý này: phụ nữ một khi đã làm mẹ thì sẽ trở nên mâu thuẫn.",
+              "en": "When I grew up, I finally understood this: once a woman becomes a mother, she becomes full of contradictions."
+            },
+            {
+              "zh": "灰姑娘【一旦】进了这个王宫，……应该怎样对待她的继母，应该怎样对待她的两个姐姐？",
+              "vi": "Một khi Lọ Lem đã vào hoàng cung, … nên đối xử với mẹ kế thế nào, nên đối xử với hai người chị thế nào?",
+              "en": "Once Cinderella has entered the palace, … how should she treat her stepmother, and how should she treat her two stepsisters?"
+            },
+            {
+              "zh": "所谓私人空间，是指我们身体周围的一定的空间，【一旦】有人闯入这个空间，我们就会感觉不舒服、不自在。",
+              "vi": "Cái gọi là không gian riêng tư là chỉ một khoảng không gian nhất định quanh cơ thể chúng ta, một khi có người xâm nhập vào khoảng không gian này, chúng ta sẽ cảm thấy khó chịu, không thoải mái.",
+              "en": "Personal space refers to a certain area around our bodies; once someone intrudes into it, we feel uncomfortable and ill at ease."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "A：明年就要毕业了，你有什么计划？\nB：____。",
+            "hint": "一旦",
+            "a": "A：明年就要毕业了，你有什么计划？\nB：【我想先找份工作，一旦有了经验，就自己开公司】。",
+            "vi": "A: Sang năm là tốt nghiệp rồi, bạn có kế hoạch gì?\nB: Tôi muốn tìm việc trước, một khi có kinh nghiệm rồi thì tự mở công ty.",
+            "en": "A: You're graduating next year. What are your plans?\nB: I want to get a job first, and once I've got some experience, I'll start my own company.",
+            "sample": true
+          },
+          {
+            "q": "A：我每天都听中文广播，但感觉听力水平还是没有提高。\nB：____。",
+            "hint": "一旦",
+            "a": "A：我每天都听中文广播，但感觉听力水平还是没有提高。\nB：【别着{zháo}急，坚持下去，一旦听惯了，就会进步得很快】。",
+            "vi": "A: Ngày nào tôi cũng nghe đài tiếng Trung, nhưng cảm thấy trình độ nghe vẫn chưa tiến bộ.\nB: Đừng sốt ruột, cứ kiên trì, một khi đã nghe quen rồi thì sẽ tiến bộ rất nhanh.",
+            "en": "A: I listen to Chinese radio every day, but my listening doesn't seem to be improving.\nB: Don't worry, keep at it. Once you get used to it, you'll improve very quickly.",
+            "sample": true
+          },
+          {
+            "q": "天冷了，多穿点儿，____。",
+            "hint": "一旦",
+            "a": "天冷了，多穿点儿，【一旦感冒了，就会影响工作】。",
+            "vi": "Trời lạnh rồi, mặc thêm áo vào, một khi bị cảm thì sẽ ảnh hưởng đến công việc.",
+            "en": "It's getting cold; wrap up warm. Once you catch a cold, it'll affect your work.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "难免",
+      "uses": [
+        {
+          "vi": "难免 là tính từ, nghĩa là không dễ tránh được, không tránh khỏi.",
+          "en": "难免 is an adjective meaning hard to avoid, inevitable.",
+          "ex": [
+            {
+              "zh": "刚开始工作，这样的错误是【难免】的。",
+              "vi": "Mới bắt đầu đi làm, những sai sót như thế này là khó tránh khỏi.",
+              "en": "When you've just started a job, mistakes like this are inevitable."
+            },
+            {
+              "zh": "朋友间【难免】会产生矛盾、误会甚至是伤害。",
+              "vi": "Giữa bạn bè với nhau khó tránh khỏi nảy sinh mâu thuẫn, hiểu lầm, thậm chí là tổn thương.",
+              "en": "Between friends, conflicts, misunderstandings and even hurt are bound to arise."
+            },
+            {
+              "zh": "……作为一个母亲，在自己的亲生女儿和不是亲生的灰姑娘之间，【难免】会更疼爱自己亲生的女儿，很难完全平等地{de}对待她们。",
+              "vi": "… là một người mẹ, giữa con gái ruột của mình và Lọ Lem không phải con ruột, khó tránh khỏi sẽ thương con gái ruột hơn, rất khó đối xử hoàn toàn bình đẳng với họ.",
+              "en": "… as a mother, between her own daughter and Cinderella, who isn't her daughter, she will inevitably love her own daughter more, and it's very hard to treat them completely equally."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "A：这孩子真是太淘气了！\nB：____。",
+            "hint": "难免",
+            "a": "A：这孩子真是太淘气了！\nB：【小孩子难免淘气一点儿，长{zhǎng}大了就好了】。",
+            "vi": "A: Đứa bé này nghịch quá!\nB: Trẻ con khó tránh khỏi nghịch ngợm một chút, lớn lên là ổn thôi.",
+            "en": "A: This child is so naughty!\nB: Kids are bound to be a bit naughty; he'll grow out of it.",
+            "sample": true
+          },
+          {
+            "q": "刚刚退休的老人____。",
+            "hint": "难免",
+            "a": "刚刚退休的老人【难免会觉得生活有点儿无聊】。",
+            "vi": "Người già vừa mới nghỉ hưu khó tránh khỏi cảm thấy cuộc sống hơi buồn tẻ.",
+            "en": "People who've just retired are bound to find life a bit boring.",
+            "sample": true
+          },
+          {
+            "q": "A：马上就要考试了，我觉得很紧张。\nB：____。",
+            "hint": "难免",
+            "a": "A：马上就要考试了，我觉得很紧张。\nB：【考试前紧张是难免的，放松一点儿就好了】。",
+            "vi": "A: Sắp thi rồi, tôi thấy rất căng thẳng.\nB: Trước kỳ thi căng thẳng là khó tránh khỏi, thả lỏng một chút là được.",
+            "en": "A: The exam's coming up and I'm really nervous.\nB: It's natural to be nervous before an exam. Just try to relax a bit.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "自从",
+      "uses": [
+        {
+          "vi": "自从 là giới từ, biểu thị bắt đầu từ một thời điểm nào đó trong quá khứ (từ khi, từ lúc).",
+          "en": "自从 is a preposition showing that something starts from a point in the past (since, ever since).",
+          "ex": [
+            {
+              "zh": "【自从】城市出现后，它就成为人类生活的中心。",
+              "vi": "Từ khi thành phố xuất hiện, nó đã trở thành trung tâm của đời sống con người.",
+              "en": "Ever since cities appeared, they have been the centre of human life."
+            },
+            {
+              "zh": "【自从】有了长{zhǎng}大后成为作家这个理想之后，他每天都坚持写作。",
+              "vi": "Từ khi có ước mơ lớn lên trở thành nhà văn, ngày nào cậu ấy cũng kiên trì viết.",
+              "en": "Ever since he decided he wanted to be a writer when he grew up, he has kept writing every day."
+            },
+            {
+              "zh": "【自从】我听说了这件事，就开始思考应该如何阅读，除了阅读还应该做什么。",
+              "vi": "Từ khi nghe chuyện này, tôi bắt đầu suy nghĩ nên đọc như thế nào, ngoài đọc ra còn nên làm gì.",
+              "en": "Ever since I heard about this, I've been thinking about how we should read and what else we should do besides reading."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "自从我来中国以后，____。",
+            "hint": "自从",
+            "a": "自从我来中国以后，【我的汉语水平提高得很快】。",
+            "vi": "Từ khi tôi đến Trung Quốc, trình độ tiếng Trung của tôi tiến bộ rất nhanh.",
+            "en": "Since I came to China, my Chinese has improved very quickly.",
+            "sample": true
+          },
+          {
+            "q": "____，我的观念就转变了。",
+            "hint": "自从",
+            "a": "【自从读了这本书】，我的观念就转变了。",
+            "vi": "Từ khi đọc cuốn sách này, quan niệm của tôi đã thay đổi.",
+            "en": "Ever since I read this book, my way of thinking has changed.",
+            "sample": true
+          },
+          {
+            "q": "A：你跟你同屋现在的关系怎么样？\nB：____。",
+            "hint": "自从",
+            "a": "A：你跟你同屋现在的关系怎么样？\nB：【自从上次一起去旅行以后，我们就成了好朋友】。",
+            "vi": "A: Bây giờ quan hệ giữa bạn và bạn cùng phòng thế nào?\nB: Từ sau lần cùng đi du lịch, chúng tôi đã trở thành bạn tốt.",
+            "en": "A: How are things between you and your roommate now?\nB: Ever since we went travelling together last time, we've been good friends.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "平等—公平",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: 平等 và 公平 đều là tính từ, ý nghĩa gần nhau, đôi khi có thể thay thế cho nhau.",
+          "en": "Similarity: 平等 and 公平 are both adjectives with similar meanings and are sometimes interchangeable.",
+          "ex": [
+            {
+              "zh": "作为一个母亲，在自己的亲生女儿和不是亲生的灰姑娘之间，难免会更疼爱自己亲生的女儿，很难完全【平等】/【公平】地{de}对待她们。",
+              "vi": "Là một người mẹ, giữa con gái ruột của mình và Lọ Lem không phải con ruột, khó tránh khỏi sẽ thương con gái ruột hơn, rất khó đối xử hoàn toàn bình đẳng / công bằng với họ.",
+              "en": "As a mother, between her own daughter and Cinderella, who isn't her daughter, she will inevitably love her own daughter more, and it's very hard to treat them completely equally / fairly."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 1: 平等 nhấn mạnh quyền lợi hoặc đãi ngộ mà người với người có được trong xã hội là như nhau (bình đẳng); 公平 nhấn mạnh xử lý sự việc hợp tình hợp lý, không thiên vị bên nào (công bằng).",
+          "en": "Difference 1: 平等 stresses that people have the same rights or treatment in society (equal); 公平 stresses handling things reasonably without favouring either side (fair).",
+          "ex": [
+            {
+              "zh": "法律面前人人【平等】。",
+              "vi": "Mọi người đều bình đẳng trước pháp luật.",
+              "en": "Everyone is equal before the law."
+            },
+            {
+              "zh": "我们应当【公平】竞争。",
+              "vi": "Chúng ta nên cạnh tranh công bằng.",
+              "en": "We should compete fairly."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: 平等 thường dùng cho tình huống mang tính phổ biến, chung chung; 公平 có thể dùng cho người hoặc việc cụ thể.",
+          "en": "Difference 2: 平等 is mostly used for general situations; 公平 can be used for specific people or matters.",
+          "ex": [
+            {
+              "zh": "现实社会中，女人与男人有时并不【平等】。",
+              "vi": "Trong xã hội hiện thực, phụ nữ và nam giới đôi khi không hề bình đẳng.",
+              "en": "In real society, women and men are sometimes far from equal."
+            },
+            {
+              "zh": "我认为公司对这次事情的处理不够【公平】。",
+              "vi": "Tôi cho rằng cách công ty xử lý chuyện lần này chưa đủ công bằng.",
+              "en": "I don't think the company handled this matter fairly enough."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "机会对每个人来说都是____的。",
+            "key": "平等 ✓ · 公平 ✗ (tình huống chung, ai cũng như nhau)",
+            "a": "机会对每个人来说都是【平等】的。",
+            "vi": "Cơ hội đối với mỗi người đều bình đẳng.",
+            "en": "Opportunities are equal for everyone."
+          },
+          {
+            "q": "这次比赛很____，没有什么问题。",
+            "key": "平等 ✗ · 公平 ✓ (việc cụ thể)",
+            "a": "这次比赛很【公平】，没有什么问题。",
+            "vi": "Cuộc thi lần này rất công bằng, không có vấn đề gì.",
+            "en": "This competition was very fair; there were no problems."
+          },
+          {
+            "q": "作为法官，你做事应该____。",
+            "key": "平等 ✗ · 公平 ✓ (xử lý không thiên vị)",
+            "a": "作为法官，你做事应该【公平】。",
+            "vi": "Là thẩm phán, anh làm việc phải công bằng.",
+            "en": "As a judge, you should act fairly."
+          },
+          {
+            "q": "人生来是____的，人人都有权追求自由和幸福。",
+            "key": "平等 ✓ · 公平 ✗ (quyền lợi như nhau)",
+            "a": "人生来是【平等】的，人人都有权追求自由和幸福。",
+            "vi": "Con người sinh ra là bình đẳng, ai cũng có quyền theo đuổi tự do và hạnh phúc.",
+            "en": "All people are born equal; everyone has the right to pursue freedom and happiness."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "承认",
+            "事实/错误"
+          ],
+          "vi": "thừa nhận sự thật / sai lầm",
+          "en": "admit the facts / a mistake"
+        },
+        {
+          "zh": [
+            "转变",
+            "方法/方式/观念/思路/态度"
+          ],
+          "vi": "thay đổi phương pháp / cách thức / quan niệm / hướng suy nghĩ / thái độ",
+          "en": "change one's method / approach / thinking / line of thought / attitude"
+        },
+        {
+          "zh": [
+            "交换",
+            "物品/位置/意见"
+          ],
+          "vi": "trao đổi đồ vật / đổi chỗ / trao đổi ý kiến",
+          "en": "exchange items / swap places / exchange views"
+        },
+        {
+          "zh": [
+            "有/坚持",
+            "主张"
+          ],
+          "vi": "có chủ kiến / giữ vững chủ trương",
+          "en": "have one's own views / stick to one's position"
+        }
+      ]
+    },
+    {
+      "a": "定语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "完美的",
+            "人/世界/生活/婚姻/计划"
+          ],
+          "vi": "con người / thế giới / cuộc sống / hôn nhân / kế hoạch hoàn hảo",
+          "en": "a perfect person / world / life / marriage / plan"
+        },
+        {
+          "zh": [
+            "平等的",
+            "地位/待遇/权利"
+          ],
+          "vi": "địa vị / đãi ngộ / quyền lợi bình đẳng",
+          "en": "equal status / treatment / rights"
+        },
+        {
+          "zh": [
+            "自私的",
+            "人/想法/行为"
+          ],
+          "vi": "con người / suy nghĩ / hành vi ích kỷ",
+          "en": "a selfish person / idea / act"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "过分（地{de}）",
+            "强调/追求"
+          ],
+          "vi": "quá nhấn mạnh / quá theo đuổi",
+          "en": "overemphasise / pursue too much"
+        },
+        {
+          "zh": [
+            "全面（地{de}）",
+            "看/了解/思考/发展"
+          ],
+          "vi": "nhìn nhận / tìm hiểu / suy nghĩ / phát triển toàn diện",
+          "en": "look at / understand / think about / develop comprehensively"
+        },
+        {
+          "zh": [
+            "认真/正确/冷静/客观/公平（地{de}）",
+            "对待"
+          ],
+          "vi": "đối xử nghiêm túc / đúng đắn / bình tĩnh / khách quan / công bằng",
+          "en": "treat seriously / correctly / calmly / objectively / fairly"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "承认",
+        "过分",
+        "价值",
+        "客观",
+        "理由",
+        "主张"
+      ],
+      "items": [
+        {
+          "q": "虽然这次的错误有点儿严重，但你应该勇敢地{de}____。",
+          "key": "承认",
+          "a": "虽然这次的错误有点儿严重，但你应该勇敢地{de}【承认】。",
+          "vi": "Tuy lỗi lần này hơi nghiêm trọng, nhưng bạn nên dũng cảm thừa nhận.",
+          "en": "Although this mistake is rather serious, you should have the courage to admit it."
+        },
+        {
+          "q": "人都是有感情甚至自私的，很难做到任何时候都很____。",
+          "key": "客观",
+          "a": "人都是有感情甚至自私的，很难做到任何时候都很【客观】。",
+          "vi": "Con người đều có tình cảm, thậm chí ích kỷ, rất khó lúc nào cũng khách quan được.",
+          "en": "People have feelings and can even be selfish; it's hard to be objective all the time."
+        },
+        {
+          "q": "你的这个建议很有____，我马上告诉总裁。",
+          "key": "价值",
+          "a": "你的这个建议很有【价值】，我马上告诉总裁。",
+          "vi": "Đề xuất này của anh rất có giá trị, tôi sẽ báo ngay cho tổng giám đốc.",
+          "en": "Your suggestion is very valuable. I'll tell the CEO right away."
+        },
+        {
+          "q": "他____将会议地点改在上海，因为这次的合作伙伴对我们来说非常重要。",
+          "key": "主张",
+          "a": "他【主张】将会议地点改在上海，因为这次的合作伙伴对我们来说非常重要。",
+          "vi": "Anh ấy chủ trương đổi địa điểm hội nghị sang Thượng Hải, vì đối tác lần này rất quan trọng đối với chúng ta.",
+          "en": "He's in favour of moving the meeting to Shanghai, because this partner is very important to us."
+        },
+        {
+          "q": "你这种做法太____了，我不能接受！",
+          "key": "过分",
+          "a": "你这种做法太【过分】了，我不能接受！",
+          "vi": "Cách làm này của anh quá đáng lắm, tôi không thể chấp nhận!",
+          "en": "What you've done is going too far. I can't accept it!"
+        },
+        {
+          "q": "希望你能给我一个好的____，解释清楚你为什么这么做。",
+          "key": "理由",
+          "a": "希望你能给我一个好的【理由】，解释清楚你为什么这么做。",
+          "vi": "Hy vọng anh có thể cho tôi một lý do thỏa đáng, giải thích rõ vì sao anh làm vậy.",
+          "en": "I hope you can give me a good reason and explain clearly why you did this."
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "你可以试着{zhe}____一下思路，可能会快一点解决问题。",
+          "opts": [
+            "A. 变化",
+            "B. 转变"
+          ],
+          "key": "B",
+          "a": "你可以试着{zhe}【转变】一下思路，可能会快一点解决问题。",
+          "vi": "Bạn có thể thử thay đổi hướng suy nghĩ, có lẽ sẽ giải quyết vấn đề nhanh hơn.",
+          "en": "Try changing your approach; you might solve the problem faster."
+        },
+        {
+          "q": "我不同意你的____，我觉得这部电影很不错。",
+          "opts": [
+            "A. 观点",
+            "B. 观念"
+          ],
+          "key": "A",
+          "a": "我不同意你的【观点】，我觉得这部电影很不错。",
+          "vi": "Tôi không đồng ý với quan điểm của bạn, tôi thấy bộ phim này rất hay.",
+          "en": "I don't agree with your view; I think this film is very good."
+        },
+        {
+          "q": "这次新产品销售得不好的____是宣传推广做得不够。",
+          "opts": [
+            "A. 原因",
+            "B. 理由"
+          ],
+          "key": "A",
+          "a": "这次新产品销售得不好的【原因】是宣传推广做得不够。",
+          "vi": "Nguyên nhân sản phẩm mới lần này bán không chạy là do quảng bá chưa đủ.",
+          "en": "The reason the new product hasn't sold well is that it wasn't promoted enough."
+        },
+        {
+          "q": "他太____了，这样很容易被人骗。",
+          "opts": [
+            "A. 单调",
+            "B. 单纯"
+          ],
+          "key": "B",
+          "a": "他太【单纯】了，这样很容易被人骗。",
+          "vi": "Anh ấy đơn thuần quá, như vậy rất dễ bị người ta lừa.",
+          "en": "He's too naive; he could easily be cheated."
+        }
+      ]
+    },
+    {
+      "title": "画线连接可以搭配的词语",
+      "bank": [
+        "我们",
+        "意见",
+        "错误",
+        "观念",
+        "了解",
+        "行为",
+        "计划",
+        "对待"
+      ],
+      "items": [
+        {
+          "q": "交换 ____",
+          "key": "意见",
+          "a": "交换【意见】",
+          "vi": "trao đổi ý kiến",
+          "en": "exchange views"
+        },
+        {
+          "q": "转变 ____",
+          "key": "观念",
+          "a": "转变【观念】",
+          "vi": "thay đổi quan niệm",
+          "en": "change one's thinking"
+        },
+        {
+          "q": "属于 ____",
+          "key": "我们",
+          "a": "属于【我们】",
+          "vi": "thuộc về chúng ta",
+          "en": "belong to us"
+        },
+        {
+          "q": "承认 ____",
+          "key": "错误",
+          "a": "承认【错误】",
+          "vi": "thừa nhận sai lầm",
+          "en": "admit a mistake"
+        },
+        {
+          "q": "完美的 ____",
+          "key": "计划",
+          "a": "完美的【计划】",
+          "vi": "kế hoạch hoàn hảo",
+          "en": "a perfect plan"
+        },
+        {
+          "q": "自私的 ____",
+          "key": "行为",
+          "a": "自私的【行为】",
+          "vi": "hành vi ích kỷ",
+          "en": "selfish behaviour"
+        },
+        {
+          "q": "全面地{de} ____",
+          "key": "了解",
+          "a": "全面地{de}【了解】",
+          "vi": "tìm hiểu toàn diện",
+          "en": "understand thoroughly"
+        },
+        {
+          "q": "平等地{de} ____",
+          "key": "对待",
+          "a": "平等地{de}【对待】",
+          "vi": "đối xử bình đẳng",
+          "en": "treat equally"
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "一些家长的观念",
+          "hint": "过分、作文、客观、转变",
+          "a": "很多家长【过分】强调阅读的作用，觉得多读书就能把【作文】写好。作者认为这个观点不【客观】、不全面，我们需要【转变】观念。",
+          "vi": "Nhiều phụ huynh quá nhấn mạnh tác dụng của việc đọc, cho rằng đọc nhiều sách là có thể viết văn hay. Tác giả cho rằng quan điểm này không khách quan, không toàn diện, chúng ta cần thay đổi quan niệm.",
+          "en": "Many parents overemphasise reading, thinking that reading a lot will make their children write good essays. The author thinks this view isn't objective or comprehensive and that we need to change our thinking.",
+          "sample": true
+        },
+        {
+          "q": "关于《灰姑娘》的讨论",
+          "hint": "一旦、对待、交换、承认、难免、平等、理由",
+          "a": "一位美国老师问学生：灰姑娘【一旦】进了王宫，应该怎样【对待】继母和姐姐？这是一种情感【交换】。结论是：幸福的人应该原谅伤害过自己的人；还要【承认】人性的不完美，继母【难免】更疼爱亲生女儿，很难【平等】地{de}对待她们，这种行为有自然的【理由】，与道德没有必然的关系。",
+          "vi": "Một giáo viên người Mỹ hỏi học sinh: Một khi Lọ Lem đã vào hoàng cung, nên đối xử với mẹ kế và các chị thế nào? Đây là một sự trao đổi tình cảm. Kết luận là: người hạnh phúc nên tha thứ cho những người từng làm tổn thương mình; còn phải thừa nhận bản tính con người không hoàn hảo, mẹ kế khó tránh khỏi thương con ruột hơn, rất khó đối xử bình đẳng, hành vi này có lý do tự nhiên, không có quan hệ tất yếu với đạo đức.",
+          "en": "An American teacher asked her pupils: once Cinderella is in the palace, how should she treat her stepmother and stepsisters? This is an emotional exchange. The conclusion: a happy person should forgive those who hurt them, and we must accept that human nature is imperfect — a stepmother will inevitably love her own daughter more and find it hard to treat them equally; there's a natural reason for this, and it isn't necessarily a moral issue.",
+          "sample": true
+        },
+        {
+          "q": "作者的思考",
+          "hint": "自从、价值、单纯",
+          "a": "【自从】听说了这件事，作者就开始思考应该如何阅读。老师讲童话时把情感影响和人性的【价值】判断都给了孩子们。如果只是【单纯】地{de}主张阅读而不强调思考，那是片面的。",
+          "vi": "Từ khi nghe chuyện này, tác giả bắt đầu suy nghĩ nên đọc thế nào. Cô giáo khi kể truyện cổ tích đã truyền cho trẻ cả sự ảnh hưởng về tình cảm lẫn sự phán đoán giá trị về bản tính con người. Nếu chỉ đơn thuần chủ trương đọc mà không nhấn mạnh suy nghĩ thì là phiến diện.",
+          "en": "Since hearing this, the author has been thinking about how to read. When telling the fairy tale, the teacher passed on emotional influence and value judgements about human nature. Simply advocating reading without stressing thinking is one-sided.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "写作表达",
+    "vi": "Viết và diễn đạt",
+    "en": "Writing and expression",
+    "words": [
+      {
+        "zh": "作文",
+        "py": "zuòwén",
+        "vi": "bài tập làm văn",
+        "en": "composition, essay"
+      },
+      {
+        "zh": "论文",
+        "py": "lùnwén",
+        "vi": "luận văn",
+        "en": "thesis, paper"
+      },
+      {
+        "zh": "主题",
+        "py": "zhǔtí",
+        "vi": "chủ đề",
+        "en": "theme"
+      },
+      {
+        "zh": "题目",
+        "py": "tímù",
+        "vi": "đầu đề, đề bài",
+        "en": "title, topic; question"
+      },
+      {
+        "zh": "话题",
+        "py": "huàtí",
+        "vi": "đề tài (câu chuyện)",
+        "en": "topic of conversation"
+      },
+      {
+        "zh": "目录",
+        "py": "mùlù",
+        "vi": "mục lục",
+        "en": "table of contents"
+      },
+      {
+        "zh": "提纲",
+        "py": "tígāng",
+        "vi": "đề cương, dàn ý",
+        "en": "outline"
+      },
+      {
+        "zh": "标点",
+        "py": "biāodiǎn",
+        "vi": "dấu câu",
+        "en": "punctuation"
+      },
+      {
+        "zh": "废话",
+        "py": "fèihuà",
+        "vi": "lời thừa, lời vô ích",
+        "en": "nonsense, idle talk"
+      },
+      {
+        "zh": "胡说",
+        "py": "húshuō",
+        "vi": "nói bậy, nói càn",
+        "en": "to talk nonsense"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "买书的时候我一般会先看看前面的____，这样可以了解书的大概内容。",
+          "key": "目录",
+          "a": "买书的时候我一般会先看看前面的【目录】，这样可以了解书的大概内容。",
+          "vi": "Khi mua sách tôi thường xem mục lục ở đầu sách trước, như vậy có thể biết được nội dung đại khái của cuốn sách.",
+          "en": "When I buy a book, I usually look at the table of contents first to get an idea of what it's about."
+        },
+        {
+          "q": "这不是一篇研究型的文章，算不上是一篇____。",
+          "key": "论文",
+          "a": "这不是一篇研究型的文章，算不上是一篇【论文】。",
+          "vi": "Đây không phải là một bài viết mang tính nghiên cứu, không được coi là một bài luận văn.",
+          "en": "This isn't a research article; it doesn't count as an academic paper."
+        },
+        {
+          "q": "这个地方的____用错了，这是书的名字，应该用书名号。",
+          "key": "标点",
+          "a": "这个地方的【标点】用错了，这是书的名字，应该用书名号。",
+          "vi": "Chỗ này dùng sai dấu câu rồi, đây là tên sách, phải dùng dấu ngoặc tên sách.",
+          "en": "The punctuation here is wrong. This is a book title, so you should use title marks."
+        },
+        {
+          "q": "你现在完全是在说____，解决不了问题！",
+          "key": "废话",
+          "a": "你现在完全是在说【废话】，解决不了问题！",
+          "vi": "Bây giờ anh toàn nói những lời vô ích, không giải quyết được vấn đề gì!",
+          "en": "You're just talking nonsense now; it won't solve anything!"
+        }
+      ]
+    }
+  }
+}

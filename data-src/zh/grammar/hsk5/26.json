@@ -1,0 +1,997 @@
+{
+  "n": 26,
+  "zh": "你属于哪一种“忙”？",
+  "vi": "Bạn thuộc nhóm người “bận rộn” nào?",
+  "en": "What kind of “busy” are you?",
+  "texts": [
+    {
+      "title": "你属于哪一种“忙”",
+      "paras": [
+        {
+          "zh": "工作中的忙碌大概可以分为{wéi}三种：第一种忙，忙得很被动，总是被事情追着{zhe}、赶着{zhe}，人几乎成了工作的奴隶；第二种忙，忙得很主动，忙而不乱，人是工作的主人；第三种忙，忙得有些虚伪，因为在他们的思想中，已经把忙与成功、闲与失败联系到一起，所以，这样的人总是想办法让自己忙。",
+          "vi": "Sự bận rộn trong công việc đại khái có thể chia làm ba loại: loại bận thứ nhất là bận một cách bị động, lúc nào cũng bị công việc đuổi theo, thúc ép, con người gần như trở thành nô lệ của công việc; loại bận thứ hai là bận một cách chủ động, bận mà không rối, con người là chủ nhân của công việc; loại bận thứ ba là bận có phần giả tạo, vì trong suy nghĩ của họ đã gắn bận rộn với thành công, nhàn rỗi với thất bại, vì thế những người này lúc nào cũng tìm cách khiến mình bận rộn.",
+          "en": "Being busy at work can roughly be divided into three kinds. The first kind is passive: you're always being chased and driven by things, and you almost become a slave to your work. The second kind is active: busy but not frantic, you're the master of your work. The third kind is somewhat fake: in these people's minds, busyness is linked with success and leisure with failure, so they're always finding ways to keep themselves busy."
+        },
+        {
+          "zh": "你属于哪种忙呢？",
+          "vi": "Bạn thuộc loại bận nào?",
+          "en": "Which kind of busy are you?"
+        },
+        {
+          "zh": "我有一个体会：现实中，我们不一定知道正确的道路是什么，但时时反省、总结，却可以使我们不会在错误的道路上走得太远。",
+          "vi": "Tôi có một điều cảm nhận: trong thực tế, chúng ta chưa chắc đã biết con đường đúng đắn là gì, nhưng thường xuyên tự kiểm điểm, tổng kết lại có thể giúp chúng ta không đi quá xa trên con đường sai lầm.",
+          "en": "Here's something I've learned: in real life we don't necessarily know what the right path is, but constantly reflecting and taking stock can keep us from going too far down the wrong one."
+        },
+        {
+          "zh": "据说，曾经有一位很有个性、极爱冒险的大导演到南美丛林拍有关古代印加文明的纪录片。他雇了20来个当地人为{wèi}他带路和搬运行李。这批当地人个个都表现出色，尽管他们背{bēi}着{zhe}重重的行李，但他们的脚力过人，健步如飞。一连三天，他们都很顺利地{de}实现了原定的计划。到了第四天，大导演一早醒来就催着{zhe}大家上路。然而，当地人却拒绝行动。大导演非常着{zháo}急，一来，耽误了时间，日程就得{děi}重新安排；二来，会因为费用增加而让投资人不高兴，至于这部影片的投资人，可是一位大人物，他可不敢得{dé}罪。经过沟通，大导演总算搞明白了，当地人自古就有一种习俗：在赶路时，用尽{jìn}全力地{de}向前冲，但每走上三天，便要休息一天。当大导演进一步询问原因时，当地人的回答令他受益终生。",
+          "vi": "Nghe nói, từng có một đạo diễn lớn rất cá tính, cực kỳ thích mạo hiểm, đến rừng rậm Nam Mỹ quay một bộ phim tài liệu về nền văn minh Inca cổ đại. Ông thuê khoảng 20 người dân địa phương dẫn đường và khuân vác hành lý cho mình. Nhóm người địa phương này ai cũng thể hiện xuất sắc, tuy cõng hành lý nặng trĩu nhưng sức chân của họ hơn người, bước đi thoăn thoắt như bay. Liên tiếp ba ngày, họ đều suôn sẻ hoàn thành kế hoạch đã định. Đến ngày thứ tư, vừa sáng sớm tỉnh dậy, ông đạo diễn đã giục mọi người lên đường. Thế nhưng, người địa phương lại từ chối đi. Ông đạo diễn vô cùng sốt ruột: một là lỡ mất thời gian, lịch trình sẽ phải sắp xếp lại; hai là chi phí tăng sẽ khiến nhà đầu tư không vui, mà nhà đầu tư của bộ phim này lại là một nhân vật lớn, ông không dám làm phật lòng. Qua trao đổi, cuối cùng ông đạo diễn cũng hiểu ra, người địa phương từ xưa đã có một tập tục: khi đi đường, họ dốc hết sức lao về phía trước, nhưng cứ đi được ba ngày thì phải nghỉ một ngày. Khi ông đạo diễn hỏi thêm nguyên nhân, câu trả lời của người địa phương khiến ông được lợi suốt đời.",
+          "en": "It's said that a famous director with a strong personality and a great love of adventure once went to the South American jungle to film a documentary about the ancient Inca civilisation. He hired around twenty locals to guide him and carry the luggage. Every one of them did an excellent job: though they carried heavy loads, they had extraordinary stamina and walked as if flying. For three days running they kept to the planned schedule without any problems. On the fourth day, the director woke early and urged everyone to set off. But the locals refused to move. The director was very anxious: for one thing, the delay would mean rearranging the schedule; for another, the extra cost would upset the investor — and the film's investor was a very important person whom he didn't dare offend. After talking it over, the director finally understood: the locals had an ancient custom. When travelling, they pushed forward with all their strength, but after every three days of walking they had to rest for one. When the director asked why, their answer stayed with him for the rest of his life."
+        },
+        {
+          "zh": "“那是为了让我们的灵魂，能够追得上我们赶了三天路的疲劳的身体。”",
+          "vi": "“Đó là để linh hồn của chúng tôi có thể đuổi kịp thân thể mệt mỏi đã đi đường suốt ba ngày.”",
+          "en": "“It's so that our souls can catch up with our tired bodies, which have been travelling for three days.”"
+        },
+        {
+          "zh": "多么富有哲理的话！在这个提倡和鼓励竞争的时代，我们常常只顾低头拉车，却少了抬头看路，少了思考、总结这一重要的步骤。",
+          "vi": "Một câu nói giàu triết lý biết bao! Trong thời đại đề cao và khuyến khích cạnh tranh này, chúng ta thường chỉ biết cúi đầu kéo xe mà thiếu đi việc ngẩng đầu nhìn đường, thiếu đi bước quan trọng là suy nghĩ và tổng kết.",
+          "en": "What profound words! In this age that promotes and encourages competition, we often just keep our heads down and pull the cart, forgetting to look up at the road and missing the important step of thinking things over and taking stock."
+        },
+        {
+          "zh": "从20世纪80年代起，比尔·盖茨每年都要进行两次为{wéi}期一周的“闭关”。在这一周的时间里，他会把自己关在一所房子里，包括家人在内的任何人他都一律不见，使自己完全不受日常工作的打扰。盖茨的这种令人寂寞难耐的“闭关”不只是一种休息方式，更是一种高效率的工作方式。",
+          "vi": "Từ những năm 80 của thế kỷ 20, mỗi năm Bill Gates đều “bế quan” hai lần, mỗi lần kéo dài một tuần. Trong một tuần đó, ông sẽ tự nhốt mình trong một ngôi nhà, bất kỳ ai, kể cả người nhà, ông cũng nhất loạt không gặp, để bản thân hoàn toàn không bị công việc thường ngày quấy rầy. Kiểu “bế quan” cô độc khó chịu nổi này của Gates không chỉ là một cách nghỉ ngơi, mà còn là một phương thức làm việc hiệu quả cao.",
+          "en": "Since the 1980s, Bill Gates has gone into “seclusion” for a week twice a year. During that week he shuts himself away in a house and sees no one at all, not even his family, so that he's completely free from the interruptions of daily work. This unbearably lonely “retreat” is not just a way of resting; it's also a highly efficient way of working."
+        },
+        {
+          "zh": "忙碌的人们，请多给自己一点思考的时间吧。",
+          "vi": "Hỡi những người bận rộn, hãy dành cho mình thêm chút thời gian để suy nghĩ.",
+          "en": "Busy people, please give yourselves a little more time to think."
+        }
+      ],
+      "source": "改编自《青年参考》，作者：毛尧飞、杨立军",
+      "words": [
+        {
+          "zh": "忙碌",
+          "py": "mánglù",
+          "pos": "tt.",
+          "vi": "bận rộn",
+          "en": "busy",
+          "x": true
+        },
+        {
+          "zh": "被动",
+          "py": "bèidòng",
+          "pos": "tt.",
+          "vi": "bị động",
+          "en": "passive",
+          "x": true
+        },
+        {
+          "zh": "奴隶",
+          "py": "núlì",
+          "pos": "dt.",
+          "vi": "nô lệ",
+          "en": "slave",
+          "x": true
+        },
+        {
+          "zh": "虚伪",
+          "py": "xūwěi",
+          "pos": "tt.",
+          "vi": "giả dối, không thật",
+          "en": "false, hypocritical",
+          "x": true
+        },
+        {
+          "zh": "思想",
+          "py": "sīxiǎng",
+          "pos": "dt.",
+          "vi": "ý nghĩ, tư tưởng",
+          "en": "thought, thinking"
+        },
+        {
+          "zh": "反省",
+          "py": "fǎnxǐng",
+          "pos": "đgt.",
+          "vi": "tự kiểm điểm, tự xét lại mình",
+          "en": "to reflect on oneself",
+          "x": true
+        },
+        {
+          "zh": "据说",
+          "py": "jùshuō",
+          "pos": "đgt.",
+          "vi": "nghe nói, nghe đồn",
+          "en": "it is said"
+        },
+        {
+          "zh": "个性",
+          "py": "gèxìng",
+          "pos": "dt.",
+          "vi": "cá tính",
+          "en": "personality"
+        },
+        {
+          "zh": "冒险",
+          "py": "mào xiǎn",
+          "pos": "đgt.",
+          "vi": "mạo hiểm",
+          "en": "to take risks, to have adventures"
+        },
+        {
+          "zh": "丛林",
+          "py": "cónglín",
+          "pos": "dt.",
+          "vi": "rừng rậm, rừng cây",
+          "en": "jungle, forest",
+          "x": true
+        },
+        {
+          "zh": "文明",
+          "py": "wénmíng",
+          "pos": "dt.",
+          "vi": "nền văn minh",
+          "en": "civilisation"
+        },
+        {
+          "zh": "纪录",
+          "py": "jìlù",
+          "pos": "dt./đgt.",
+          "vi": "tư liệu ghi lại tại chỗ; ghi lại, ghi chép",
+          "en": "record; to record"
+        },
+        {
+          "zh": "雇",
+          "py": "gù",
+          "pos": "đgt.",
+          "vi": "thuê, mướn",
+          "en": "to hire",
+          "x": true
+        },
+        {
+          "zh": "来",
+          "py": "lái",
+          "pos": "trợ.",
+          "vi": "khoảng, chừng",
+          "en": "about, around (after a number)",
+          "x": true
+        },
+        {
+          "zh": "批",
+          "py": "pī",
+          "pos": "lượng.",
+          "vi": "tốp, nhóm, đợt",
+          "en": "batch, group"
+        },
+        {
+          "zh": "出色",
+          "py": "chūsè",
+          "pos": "tt.",
+          "vi": "xuất sắc",
+          "en": "outstanding, excellent"
+        },
+        {
+          "zh": "健步如飞",
+          "py": "jiànbù-rúfēi",
+          "vi": "bước đi mạnh mẽ, thoăn thoắt như bay",
+          "en": "to walk briskly, as if flying",
+          "x": true
+        },
+        {
+          "zh": "一连",
+          "py": "yìlián",
+          "pos": "phó.",
+          "vi": "liên tiếp, liền",
+          "en": "in a row, in succession",
+          "x": true
+        },
+        {
+          "zh": "耽误",
+          "py": "dānwu",
+          "pos": "đgt.",
+          "vi": "làm chậm trễ, để lỡ",
+          "en": "to delay, to hold up"
+        },
+        {
+          "zh": "至于",
+          "py": "zhìyú",
+          "pos": "giới.",
+          "vi": "còn (về)",
+          "en": "as for"
+        },
+        {
+          "zh": "投资",
+          "py": "tóu zī",
+          "pos": "đgt.",
+          "vi": "đầu tư",
+          "en": "to invest"
+        },
+        {
+          "zh": "人物",
+          "py": "rénwù",
+          "pos": "dt.",
+          "vi": "nhân vật, người có vai vế",
+          "en": "figure, personage"
+        },
+        {
+          "zh": "得罪",
+          "py": "dézuì",
+          "pos": "đgt.",
+          "vi": "làm phật lòng, xúc phạm",
+          "en": "to offend",
+          "x": true
+        },
+        {
+          "zh": "总算",
+          "py": "zǒngsuàn",
+          "pos": "phó.",
+          "vi": "cuối cùng cũng; nói chung là",
+          "en": "at last, finally; on the whole"
+        },
+        {
+          "zh": "搞",
+          "py": "gǎo",
+          "pos": "đgt.",
+          "vi": "làm, tạo ra",
+          "en": "to do, to make, to get"
+        },
+        {
+          "zh": "习俗",
+          "py": "xísú",
+          "pos": "dt.",
+          "vi": "tập tục",
+          "en": "custom",
+          "x": true
+        },
+        {
+          "zh": "灵魂",
+          "py": "línghún",
+          "pos": "dt.",
+          "vi": "linh hồn, tâm hồn",
+          "en": "soul",
+          "x": true
+        },
+        {
+          "zh": "疲劳",
+          "py": "píláo",
+          "pos": "tt.",
+          "vi": "mệt mỏi, mệt nhọc",
+          "en": "tired, fatigued"
+        },
+        {
+          "zh": "哲理",
+          "py": "zhélǐ",
+          "pos": "dt.",
+          "vi": "triết lý",
+          "en": "philosophy, wisdom",
+          "x": true
+        },
+        {
+          "zh": "提倡",
+          "py": "tíchàng",
+          "pos": "đgt.",
+          "vi": "đề xướng, chủ trương, khuyến khích",
+          "en": "to advocate, to promote"
+        },
+        {
+          "zh": "步骤",
+          "py": "bùzhòu",
+          "pos": "dt.",
+          "vi": "bước",
+          "en": "step"
+        },
+        {
+          "zh": "闭关",
+          "py": "bìguān",
+          "pos": "đgt.",
+          "vi": "bế quan, tịnh cư",
+          "en": "to shut oneself away, to go into seclusion",
+          "x": true
+        },
+        {
+          "zh": "一律",
+          "py": "yílǜ",
+          "pos": "phó.",
+          "vi": "nhất loạt, hết thảy",
+          "en": "without exception, all"
+        },
+        {
+          "zh": "寂寞",
+          "py": "jìmò",
+          "pos": "tt.",
+          "vi": "cô đơn, cô độc",
+          "en": "lonely"
+        },
+        {
+          "zh": "效率",
+          "py": "xiàolǜ",
+          "pos": "dt.",
+          "vi": "năng suất, hiệu suất",
+          "en": "efficiency"
+        }
+      ],
+      "names": [
+        {
+          "zh": "印加",
+          "py": "Yìnjiā",
+          "vi": "đế chế Inca (đế chế lớn nhất châu Mỹ trước thời Columbus)",
+          "en": "the Inca Empire (the largest empire in pre-Columbian America)"
+        },
+        {
+          "zh": "比尔·盖茨",
+          "py": "Bǐ'ěr Gàicí",
+          "vi": "Bill Gates",
+          "en": "Bill Gates"
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "来",
+      "uses": [
+        {
+          "vi": "来 là trợ từ, dùng sau số từ hoặc số lượng từ như “十、百、千” để biểu thị số ước lượng (khoảng, chừng, ngoài).",
+          "en": "来 is a particle used after numbers such as 十, 百, 千 or number-measure phrases to show an approximate amount (about, or so).",
+          "ex": [
+            {
+              "zh": "他雇了20【来】个当地人为{wèi}他带路和搬运行李。",
+              "vi": "Ông thuê khoảng 20 người dân địa phương dẫn đường và khuân vác hành lý cho mình.",
+              "en": "He hired around twenty locals to guide him and carry the luggage."
+            },
+            {
+              "zh": "按照老人教的方法，他几乎每天都能钓到5斤【来】重的大鱼。",
+              "vi": "Theo cách ông lão dạy, hầu như ngày nào anh ấy cũng câu được cá to nặng chừng 5 cân.",
+              "en": "Following the old man's method, he catches a big fish of about 5 jin almost every day."
+            }
+          ]
+        },
+        {
+          "vi": "来 còn có thể dùng sau các số từ “一、二、三”, tạo thành cấu trúc “一来……，二来……”, biểu thị liệt kê lý do (một là …, hai là …).",
+          "en": "来 can also follow 一, 二, 三 to form the pattern “一来……，二来……”, listing reasons (for one thing …, for another …).",
+          "ex": [
+            {
+              "zh": "今天是大年三十，我们来看看大家，【一来】是给大家送水果，【二来】是看看大家过节还有什么难处。",
+              "vi": "Hôm nay là ba mươi Tết, chúng tôi đến thăm mọi người, một là mang hoa quả biếu mọi người, hai là xem mọi người đón Tết còn khó khăn gì không.",
+              "en": "It's New Year's Eve, and we've come to see everyone: firstly to bring you some fruit, and secondly to see whether you have any difficulties over the holiday."
+            },
+            {
+              "zh": "我对上海很有感情，【一来】上大学时在那里住过几年，【二来】我太太也是上海人。",
+              "vi": "Tôi rất có tình cảm với Thượng Hải, một là hồi học đại học từng sống ở đó mấy năm, hai là vợ tôi cũng là người Thượng Hải.",
+              "en": "I'm very fond of Shanghai: for one thing, I lived there for several years at university; for another, my wife is from Shanghai."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "这所学校是小班上课，每个班____。",
+            "hint": "来",
+            "a": "这所学校是小班上课，每个班【只有十来个学生】。",
+            "vi": "Trường này học theo lớp nhỏ, mỗi lớp chỉ có khoảng mười học sinh.",
+            "en": "This school has small classes, with only about ten students in each.",
+            "sample": true
+          },
+          {
+            "q": "四川好玩儿的地方可多了，去旅游____。",
+            "hint": "来",
+            "a": "四川好玩儿的地方可多了，去旅游【至少得{děi}玩儿十来天】。",
+            "vi": "Tứ Xuyên có rất nhiều nơi vui chơi, đi du lịch thì ít nhất phải chơi chừng mười ngày.",
+            "en": "There are so many fun places in Sichuan; if you go there you'll need at least ten days or so.",
+            "sample": true
+          },
+          {
+            "q": "A：你下班走路回家？为什么不坐车呢？\nB：____。",
+            "hint": "一来……，二来……",
+            "a": "A：你下班走路回家？为什么不坐车呢？\nB：【一来路不远，二来可以锻炼锻炼身体】。",
+            "vi": "A: Tan làm bạn đi bộ về nhà à? Sao không đi xe?\nB: Một là đường không xa, hai là có thể rèn luyện sức khỏe.",
+            "en": "A: You walk home from work? Why don't you take the bus?\nB: For one thing it isn't far, and for another I get some exercise.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "至于",
+      "uses": [
+        {
+          "vi": "至于 là động từ, biểu thị đạt đến một mức độ nào đó, phần nhiều dùng trong câu hỏi phản vấn (đến mức, đến nỗi).",
+          "en": "至于 is a verb meaning to go so far as, to reach a certain degree; it's mostly used in rhetorical questions.",
+          "ex": [
+            {
+              "zh": "我只是和你开个玩笑，你【至于】生那么大的气吗？",
+              "vi": "Tôi chỉ đùa với bạn một chút, bạn có cần giận đến thế không?",
+              "en": "I was only joking. Do you really need to get so angry?"
+            },
+            {
+              "zh": "什么？一件衬衫要一千来块钱。哪【至于】那么贵呢？",
+              "vi": "Cái gì? Một chiếc áo sơ mi mà mất khoảng một nghìn tệ. Làm gì đến mức đắt như thế?",
+              "en": "What? About a thousand yuan for a shirt? How can it possibly be that expensive?"
+            }
+          ]
+        },
+        {
+          "vi": "至于 cũng có thể làm giới từ, dùng trong cấu trúc “(A)……，至于(B)……” để chuyển sang nói về một việc khác (còn về).",
+          "en": "至于 can also be a preposition in the pattern “(A)……，至于(B)……”, introducing another matter (as for).",
+          "ex": [
+            {
+              "zh": "……【至于】这部影片的投资人，可是一位大人物，他可不敢得{dé}罪。",
+              "vi": "… còn nhà đầu tư của bộ phim này lại là một nhân vật lớn, ông không dám làm phật lòng.",
+              "en": "… as for the film's investor, he was a very important person whom the director didn't dare offend."
+            },
+            {
+              "zh": "我只知道他是六班的学生，【至于】住在哪儿，我就不清楚了。",
+              "vi": "Tôi chỉ biết cậu ấy là học sinh lớp 6, còn sống ở đâu thì tôi không rõ.",
+              "en": "I only know he's a student in Class 6; as for where he lives, I've no idea."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "我只记得他说过要去买礼物，____。",
+            "hint": "至于",
+            "a": "我只记得他说过要去买礼物，【至于买什么礼物，他没说】。",
+            "vi": "Tôi chỉ nhớ anh ấy nói muốn đi mua quà, còn mua quà gì thì anh ấy không nói.",
+            "en": "I only remember him saying he was going to buy a present; as for what present, he didn't say.",
+            "sample": true
+          },
+          {
+            "q": "我刚毕业，现在最重要的是找到工作，____。",
+            "hint": "至于",
+            "a": "我刚毕业，现在最重要的是找到工作，【至于工资高不高，我不太在乎】。",
+            "vi": "Tôi mới tốt nghiệp, bây giờ quan trọng nhất là tìm được việc làm, còn lương cao hay không thì tôi không quá để tâm.",
+            "en": "I've just graduated, so the most important thing now is to find a job; as for whether the pay is good, I don't really mind.",
+            "sample": true
+          },
+          {
+            "q": "A：听说李阳病了，明天的活动他恐怕参加不了了。\nB：____。",
+            "hint": "至于",
+            "a": "A：听说李阳病了，明天的活动他恐怕参加不了了。\nB：【他只是有点儿感冒，不至于参加不了吧】。",
+            "vi": "A: Nghe nói Lý Dương bị ốm, e rằng ngày mai cậu ấy không tham gia hoạt động được.\nB: Cậu ấy chỉ hơi cảm thôi, chắc không đến mức không tham gia được đâu.",
+            "en": "A: I hear Li Yang's ill. I'm afraid he won't be able to take part in tomorrow's event.\nB: He's only got a bit of a cold. Surely it's not so bad that he can't come?",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "总算",
+      "uses": [
+        {
+          "vi": "总算 là phó từ, biểu thị sau một thời gian khá dài, mong muốn nào đó cuối cùng đã thành hiện thực (cuối cùng cũng).",
+          "en": "总算 is an adverb showing that after quite a long time a wish has finally come true (at last, finally).",
+          "ex": [
+            {
+              "zh": "经过沟通，大导演【总算】搞明白了，……",
+              "vi": "Qua trao đổi, cuối cùng ông đạo diễn cũng hiểu ra, …",
+              "en": "After talking it over, the director finally understood …"
+            },
+            {
+              "zh": "【总算】把活儿{r}干{gàn}完了，可把我累坏了。",
+              "vi": "Cuối cùng cũng làm xong việc, mệt muốn chết.",
+              "en": "At last I've finished the job — it's worn me out."
+            }
+          ]
+        },
+        {
+          "vi": "总算 còn có thể biểu thị nhìn chung cũng tạm được, tạm chấp nhận được (dù sao cũng, coi như cũng).",
+          "en": "总算 can also mean that, on the whole, things are acceptable (at least, all things considered).",
+          "ex": [
+            {
+              "zh": "虽然我对这家宾馆不太满意，但【总算】有个睡觉的地方了。",
+              "vi": "Tuy tôi không hài lòng lắm với khách sạn này, nhưng dù sao cũng có chỗ để ngủ rồi.",
+              "en": "Although I'm not very happy with this hotel, at least I've got somewhere to sleep."
+            },
+            {
+              "zh": "临走前能和你见上一面，这趟【总算】没有白来！",
+              "vi": "Trước khi đi được gặp bạn một lần, chuyến này coi như không uổng công!",
+              "en": "Getting to see you before I leave means this trip wasn't wasted after all!"
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "____，但没有选择回老家，而是留在这里打工。",
+            "hint": "总算",
+            "a": "【他读了四年大学，总算拿到了毕业证书】，但没有选择回老家，而是留在这里打工。",
+            "vi": "Anh ấy học đại học bốn năm, cuối cùng cũng lấy được bằng tốt nghiệp, nhưng không chọn về quê mà ở lại đây làm thuê.",
+            "en": "After four years at university he finally got his degree, but instead of going back home, he stayed here to work.",
+            "sample": true
+          },
+          {
+            "q": "A：李强的咖啡馆准备了半年，又是装修，又是办各种手续，真不容易。\nB：是啊！____。",
+            "hint": "总算",
+            "a": "A：李强的咖啡馆准备了半年，又是装修，又是办各种手续，真不容易。\nB：是啊！【现在总算开业了】。",
+            "vi": "A: Quán cà phê của Lý Cường chuẩn bị mất nửa năm, nào là sửa sang, nào là làm đủ các loại thủ tục, thật không dễ dàng.\nB: Đúng vậy! Bây giờ cuối cùng cũng khai trương rồi.",
+            "en": "A: Li Qiang spent six months getting his café ready — the renovation, all the paperwork — it wasn't easy.\nB: Yes! At least it's finally open now.",
+            "sample": true
+          },
+          {
+            "q": "A：琳琳这次化学考了78分，比期中考试提高了10分呢。\nB：化学是她最头疼的科目了，____。",
+            "hint": "总算",
+            "a": "A：琳琳这次化学考了78分，比期中考试提高了10分呢。\nB：化学是她最头疼的科目了，【能考这么多总算不错了】。",
+            "vi": "A: Lần này Lâm Lâm thi hóa được 78 điểm, tăng 10 điểm so với kỳ thi giữa kỳ đấy.\nB: Hóa là môn cô bé đau đầu nhất, thi được như vậy coi như cũng khá rồi.",
+            "en": "A: Linlin got 78 in chemistry this time — 10 points up on the mid-term.\nB: Chemistry's her worst subject, so that's not bad at all.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "总算—终于",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: 总算 và 终于 đều là phó từ, đều mang nghĩa sau một thời gian khá dài thay đổi hoặc chờ đợi thì xuất hiện một tình huống nào đó.",
+          "en": "Similarity: 总算 and 终于 are both adverbs meaning that something happens after a fairly long period of change or waiting.",
+          "ex": [
+            {
+              "zh": "这青年后来努力学艺，【总算】/【终于】有了一点儿小名气。",
+              "vi": "Chàng thanh niên này về sau chăm chỉ học nghề, cuối cùng cũng có chút danh tiếng.",
+              "en": "Later this young man worked hard at his craft and finally became a little bit famous."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 1: với 总算, kết quả của sự việc thường là tình huống mong muốn xảy ra; với 终于, kết quả phần nhiều là tình huống mong muốn nhưng cũng có thể là tình huống không như ý.",
+          "en": "Difference 1: with 总算 the outcome is generally something hoped for; with 终于 it's mostly something hoped for, but it can also be something undesirable.",
+          "ex": [
+            {
+              "zh": "到北京的第二年，我【总算】找到了一份比较满意的工作。",
+              "vi": "Năm thứ hai đến Bắc Kinh, cuối cùng tôi cũng tìm được một công việc khá ưng ý.",
+              "en": "In my second year in Beijing, I finally found a job I was fairly happy with."
+            },
+            {
+              "zh": "尽管他也很想去，但他【终于】还是放弃了留学的打算。",
+              "vi": "Mặc dù anh ấy cũng rất muốn đi, nhưng cuối cùng anh ấy vẫn từ bỏ ý định đi du học.",
+              "en": "Although he really wanted to go, in the end he gave up the idea of studying abroad."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: 总算 còn có thể biểu thị nhìn chung cũng tạm được; 终于 không có nghĩa và cách dùng này.",
+          "en": "Difference 2: 总算 can also mean “on the whole, acceptable”; 终于 has no such meaning or use.",
+          "ex": [
+            {
+              "zh": "他才学了半年外语，能说成这样，【总算】不错了。",
+              "vi": "Anh ấy mới học ngoại ngữ nửa năm mà nói được như vậy, coi như là khá rồi.",
+              "en": "He's only been learning the language for six months, so speaking it this well is pretty good."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "他多次想告诉她，但____没说出口。",
+            "key": "总算 ✗ · 终于 ✓ (kết quả không như ý)",
+            "a": "他多次想告诉她，但【终于】没说出口。",
+            "vi": "Anh ấy nhiều lần muốn nói với cô ấy, nhưng rốt cuộc vẫn không nói ra.",
+            "en": "He wanted to tell her many times, but in the end he never said it."
+          },
+          {
+            "q": "可让我担心的事____还是发生了。",
+            "key": "总算 ✗ · 终于 ✓ (kết quả không như ý)",
+            "a": "可让我担心的事【终于】还是发生了。",
+            "vi": "Nhưng điều khiến tôi lo lắng rốt cuộc vẫn xảy ra.",
+            "en": "But what I'd been worried about happened in the end."
+          },
+          {
+            "q": "整整一个星期没出门，我____把这几本厚厚的书读完了。",
+            "key": "总算 ✓ · 终于 ✓",
+            "a": "整整一个星期没出门，我【总算】/【终于】把这几本厚厚的书读完了。",
+            "vi": "Suốt một tuần không ra khỏi nhà, cuối cùng tôi cũng đọc xong mấy cuốn sách dày cộp này.",
+            "en": "After a whole week without going out, I finally finished these thick books."
+          },
+          {
+            "q": "听了李阳这些话后，妈妈____有点放心了。",
+            "key": "总算 ✓ · 终于 ✓",
+            "a": "听了李阳这些话后，妈妈【总算】/【终于】有点放心了。",
+            "vi": "Nghe những lời này của Lý Dương, cuối cùng mẹ cũng hơi yên tâm.",
+            "en": "After hearing what Li Yang said, his mother finally felt a bit reassured."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "提倡",
+            "科学/戒烟/对话/节约/诚实/平等"
+          ],
+          "vi": "đề cao khoa học / khuyến khích cai thuốc / đối thoại / tiết kiệm / trung thực / bình đẳng",
+          "en": "promote science / quitting smoking / dialogue / thrift / honesty / equality"
+        },
+        {
+          "zh": [
+            "耽误",
+            "工作/时间/孩子/生产/休息/约会/看病"
+          ],
+          "vi": "làm lỡ công việc / mất thời gian / làm hại con trẻ / ảnh hưởng sản xuất / mất giờ nghỉ / lỡ hẹn / lỡ việc khám bệnh",
+          "en": "hold up work / waste time / hold a child back / delay production / cut into rest / miss a date / delay seeing a doctor"
+        }
+      ]
+    },
+    {
+      "a": "定语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "寂寞的",
+            "朋友/年代/感觉/心情"
+          ],
+          "vi": "người bạn cô đơn / thời đại cô quạnh / cảm giác cô đơn / tâm trạng cô đơn",
+          "en": "a lonely friend / a lonely era / a feeling of loneliness / a lonely mood"
+        },
+        {
+          "zh": [
+            "出色的",
+            "人物/医生/成绩/表现"
+          ],
+          "vi": "nhân vật / bác sĩ / thành tích / biểu hiện xuất sắc",
+          "en": "an outstanding figure / doctor / result / performance"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "大力/积极（地{de}）",
+            "提倡"
+          ],
+          "vi": "ra sức / tích cực khuyến khích",
+          "en": "vigorously / actively promote"
+        },
+        {
+          "zh": [
+            "长期（地{de}）/纷纷/大胆（地{de}）",
+            "投资"
+          ],
+          "vi": "đầu tư lâu dài / lần lượt đầu tư / mạnh dạn đầu tư",
+          "en": "invest long-term / one after another / boldly"
+        }
+      ]
+    },
+    {
+      "a": "中心语",
+      "b": "补语",
+      "rows": [
+        {
+          "zh": [
+            "算",
+            "不清/不出/得{de}上/不了{liǎo}"
+          ],
+          "vi": "tính không rõ / tính không ra / được coi là / không tính được",
+          "en": "can't work out / can't calculate / count as / can't be counted"
+        },
+        {
+          "zh": [
+            "搞",
+            "错/成/出来/得准确"
+          ],
+          "vi": "làm sai / làm thành / làm ra / làm cho chính xác",
+          "en": "get wrong / turn into / come up with / get right"
+        }
+      ]
+    },
+    {
+      "a": "数量词",
+      "b": "名词",
+      "rows": [
+        {
+          "zh": [
+            "一部",
+            "纪录片"
+          ],
+          "vi": "một bộ phim tài liệu",
+          "en": "a documentary"
+        },
+        {
+          "zh": [
+            "一批",
+            "货/学生"
+          ],
+          "vi": "một lô hàng / một tốp học sinh",
+          "en": "a batch of goods / a group of students"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "寂寞",
+        "至于",
+        "耽误",
+        "提倡",
+        "一律",
+        "出色"
+      ],
+      "items": [
+        {
+          "q": "现在饭馆都____节约，不浪费食物，“光盘”的意思就是把点的菜吃光。",
+          "key": "提倡",
+          "a": "现在饭馆都【提倡】节约，不浪费食物，“光盘”的意思就是把点的菜吃光。",
+          "vi": "Bây giờ các nhà hàng đều khuyến khích tiết kiệm, không lãng phí thức ăn, “đĩa sạch” nghĩa là ăn hết những món đã gọi.",
+          "en": "Restaurants now all promote thrift and not wasting food; “clean plate” means eating up everything you've ordered."
+        },
+        {
+          "q": "上次约刘经理见面，路上堵车，____了很长时间，这次可别再出问题了。",
+          "key": "耽误",
+          "a": "上次约刘经理见面，路上堵车，【耽误】了很长时间，这次可别再出问题了。",
+          "vi": "Lần trước hẹn gặp giám đốc Lưu, trên đường bị tắc xe, mất rất nhiều thời gian, lần này đừng để xảy ra chuyện nữa.",
+          "en": "Last time we arranged to meet Manager Liu, we got stuck in traffic and were held up for ages. Let's not have any problems this time."
+        },
+        {
+          "q": "按规定，小动物____不准带上飞机。",
+          "key": "一律",
+          "a": "按规定，小动物【一律】不准带上飞机。",
+          "vi": "Theo quy định, tất cả động vật nhỏ đều không được mang lên máy bay.",
+          "en": "According to the rules, no small animals of any kind may be taken onto the plane."
+        },
+        {
+          "q": "她有些____，想让我到她那儿陪她聊聊天。",
+          "key": "寂寞",
+          "a": "她有些【寂寞】，想让我到她那儿陪她聊聊天。",
+          "vi": "Cô ấy hơi cô đơn, muốn tôi đến chỗ cô ấy trò chuyện cùng.",
+          "en": "She's feeling a bit lonely and wants me to go over and keep her company."
+        },
+        {
+          "q": "他顶住了压力，____地{de}发挥了自己的水平，打败了强敌。",
+          "key": "出色",
+          "a": "他顶住了压力，【出色】地{de}发挥了自己的水平，打败了强敌。",
+          "vi": "Anh ấy chịu được áp lực, phát huy xuất sắc trình độ của mình, đánh bại đối thủ mạnh.",
+          "en": "He held up under pressure, played brilliantly and beat a strong opponent."
+        },
+        {
+          "q": "你们两口子{zi}吵架归吵架，不____要闹离婚吧？",
+          "key": "至于",
+          "a": "你们两口子{zi}吵架归吵架，不【至于】要闹离婚吧？",
+          "vi": "Hai vợ chồng cãi nhau thì cãi nhau, chắc không đến mức đòi ly hôn chứ?",
+          "en": "You two may argue, but surely it doesn't have to come to divorce?"
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "为了保证病人的休息，午饭后____不准探视。",
+          "opts": [
+            "A. 一律",
+            "B. 都"
+          ],
+          "key": "A",
+          "a": "为了保证病人的休息，午饭后【一律】不准探视。",
+          "vi": "Để đảm bảo bệnh nhân được nghỉ ngơi, sau bữa trưa nhất loạt không được thăm bệnh.",
+          "en": "To make sure patients can rest, no visiting is allowed after lunch."
+        },
+        {
+          "q": "你怎么____的？不是说好了周末和小丽见面的吗？怎么又不去了？",
+          "opts": [
+            "A. 搞",
+            "B. 做"
+          ],
+          "key": "A",
+          "a": "你怎么【搞】的？不是说好了周末和小丽见面的吗？怎么又不去了？",
+          "vi": "Cậu làm sao thế? Chẳng phải đã hẹn cuối tuần gặp Tiểu Lệ rồi sao? Sao lại không đi nữa?",
+          "en": "What's going on with you? Didn't you agree to meet Xiao Li at the weekend? Why aren't you going now?"
+        },
+        {
+          "q": "因为有大雾，飞机不能起飞。____了您的宝贵时间，非常抱歉！",
+          "opts": [
+            "A. 耽误",
+            "B. 影响"
+          ],
+          "key": "A",
+          "a": "因为有大雾，飞机不能起飞。【耽误】了您的宝贵时间，非常抱歉！",
+          "vi": "Vì sương mù dày, máy bay không thể cất cánh. Làm lỡ thời gian quý báu của quý khách, chúng tôi vô cùng xin lỗi!",
+          "en": "Because of heavy fog, the plane can't take off. We're very sorry for taking up your valuable time!"
+        },
+        {
+          "q": "马向阳在那儿当县长{zhǎng}时，____地{de}完成了任务。",
+          "opts": [
+            "A. 出色",
+            "B. 优秀"
+          ],
+          "key": "A",
+          "a": "马向阳在那儿当县长{zhǎng}时，【出色】地{de}完成了任务。",
+          "vi": "Khi làm huyện trưởng ở đó, Mã Hướng Dương đã hoàn thành nhiệm vụ một cách xuất sắc.",
+          "en": "When Ma Xiangyang was county head there, he carried out his duties brilliantly."
+        }
+      ]
+    },
+    {
+      "title": "给括号里的词选择适当的位置",
+      "items": [
+        {
+          "q": "看到房间满是灰尘，他发起A了愁，刚B坐了十C个D小时火车，实在没力气收拾了。",
+          "hint": "来",
+          "key": "C",
+          "a": "看到房间满是灰尘，他发起了愁，刚坐了十【来】个小时火车，实在没力气收拾了。",
+          "vi": "Thấy căn phòng đầy bụi, anh ấy bắt đầu rầu rĩ, vừa ngồi tàu hỏa hơn mười tiếng, thật sự không còn sức dọn dẹp.",
+          "en": "Seeing the room full of dust, he felt dismayed: he'd just spent ten-odd hours on the train and really had no energy left to clean."
+        },
+        {
+          "q": "我A找刘明天来B当导演，其实是C有点儿D的。",
+          "hint": "冒险",
+          "key": "D",
+          "a": "我找刘明天来当导演，其实是有点儿【冒险】的。",
+          "vi": "Tôi tìm Lưu Minh Thiên làm đạo diễn, thật ra là hơi mạo hiểm.",
+          "en": "Getting Liu Mingtian to direct was actually a bit of a risk."
+        },
+        {
+          "q": "A按学校B规定，缺课60节以上的学生C不允许D参加考试。",
+          "hint": "一律",
+          "key": "C",
+          "a": "按学校规定，缺课60节以上的学生【一律】不允许参加考试。",
+          "vi": "Theo quy định của trường, học sinh nghỉ học trên 60 tiết đều nhất loạt không được dự thi.",
+          "en": "According to school rules, students who miss more than 60 classes are not allowed to sit the exam, without exception."
+        },
+        {
+          "q": "小丽A地{de}完成了B比赛的各项动作，C取得了第一名D的好成绩。",
+          "hint": "出色",
+          "key": "A",
+          "a": "小丽【出色】地{de}完成了比赛的各项动作，取得了第一名的好成绩。",
+          "vi": "Tiểu Lệ đã hoàn thành xuất sắc các động tác thi đấu, giành được thành tích tốt là hạng nhất.",
+          "en": "Xiao Li performed every move in the competition brilliantly and won first place."
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "三种“忙”",
+          "hint": "被动、奴隶、主动、虚伪",
+          "a": "第一种忙很【被动】，总是被事情追着{zhe}，人成了工作的【奴隶】；第二种忙很【主动】，忙而不乱，人是工作的主人；第三种忙有些【虚伪】，这样的人把忙和成功联系在一起，总是想办法让自己忙。",
+          "vi": "Loại bận thứ nhất rất bị động, lúc nào cũng bị công việc đuổi theo, con người thành nô lệ của công việc; loại thứ hai rất chủ động, bận mà không rối, con người là chủ nhân của công việc; loại thứ ba hơi giả tạo, những người này gắn bận rộn với thành công, luôn tìm cách khiến mình bận.",
+          "en": "The first kind of busy is passive: always chased by things, people become slaves to work. The second is active: busy but orderly, people are masters of their work. The third is somewhat fake: such people link busyness with success and always find ways to keep busy.",
+          "sample": true
+        },
+        {
+          "q": "大导演的拍摄经历",
+          "hint": "纪录片、雇、出色、一连、耽误、投资、沟通、灵魂",
+          "a": "一位大导演到南美丛林拍【纪录片】，【雇】了20来个当地人带路、搬行李。他们表现【出色】，【一连】三天都很顺利。第四天当地人却不走了，导演很着{zháo}急，怕【耽误】时间，也怕【投资】人不高兴。经过【沟通】才知道，当地人每走三天就要休息一天，为{wèi}的是让【灵魂】追上疲劳的身体。",
+          "vi": "Một đạo diễn lớn đến rừng rậm Nam Mỹ quay phim tài liệu, thuê khoảng 20 người địa phương dẫn đường, khuân hành lý. Họ thể hiện xuất sắc, liên tiếp ba ngày đều suôn sẻ. Ngày thứ tư người địa phương lại không chịu đi, đạo diễn rất sốt ruột, sợ lỡ thời gian, cũng sợ nhà đầu tư không vui. Qua trao đổi mới biết, người địa phương cứ đi ba ngày phải nghỉ một ngày, để linh hồn đuổi kịp thân thể mệt mỏi.",
+          "en": "A famous director went to the South American jungle to shoot a documentary and hired about twenty locals to guide him and carry the luggage. They did brilliantly, and for three days running everything went smoothly. On the fourth day the locals refused to move; the director was anxious about losing time and upsetting his investor. After talking with them, he learned that they rest one day in every four so that their souls can catch up with their tired bodies.",
+          "sample": true
+        },
+        {
+          "q": "比尔·盖茨的“闭关”",
+          "hint": "为{wéi}期、一律、寂寞、效率、思考",
+          "a": "比尔·盖茨每年都要进行两次【为{wéi}期】一周的“闭关”，把自己关在一所房子里，任何人都【一律】不见。这种令人【寂寞】难耐的“闭关”也是一种高【效率】的工作方式。忙碌的人们应该多给自己一点【思考】的时间。",
+          "vi": "Mỗi năm Bill Gates đều “bế quan” hai lần, mỗi lần một tuần, tự nhốt mình trong một ngôi nhà, nhất loạt không gặp bất kỳ ai. Kiểu “bế quan” cô độc khó chịu nổi này cũng là một phương thức làm việc hiệu quả cao. Những người bận rộn nên dành cho mình thêm chút thời gian suy nghĩ.",
+          "en": "Twice a year Bill Gates goes into a week of “seclusion”, shutting himself in a house and seeing nobody at all. This lonely retreat is also a highly efficient way of working. Busy people should give themselves more time to think.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "社会关系 · 婚恋",
+    "vi": "Quan hệ xã hội · Tình yêu và hôn nhân",
+    "en": "Social relations · Love and marriage",
+    "words": [
+      {
+        "zh": "演讲",
+        "py": "yǎnjiǎng",
+        "vi": "diễn thuyết",
+        "en": "to give a speech; speech"
+      },
+      {
+        "zh": "发言",
+        "py": "fāyán",
+        "vi": "phát biểu",
+        "en": "to speak; speech"
+      },
+      {
+        "zh": "宴会",
+        "py": "yànhuì",
+        "vi": "tiệc, yến tiệc",
+        "en": "banquet"
+      },
+      {
+        "zh": "嘉宾",
+        "py": "jiābīn",
+        "vi": "khách quý",
+        "en": "honoured guest"
+      },
+      {
+        "zh": "证件",
+        "py": "zhèngjiàn",
+        "vi": "giấy tờ tùy thân",
+        "en": "identity documents, papers"
+      },
+      {
+        "zh": "名片",
+        "py": "míngpiàn",
+        "vi": "danh thiếp",
+        "en": "business card"
+      },
+      {
+        "zh": "嫁",
+        "py": "jià",
+        "vi": "lấy chồng",
+        "en": "(of a woman) to marry"
+      },
+      {
+        "zh": "娶",
+        "py": "qǔ",
+        "vi": "lấy vợ",
+        "en": "(of a man) to marry"
+      },
+      {
+        "zh": "分手",
+        "py": "fēn shǒu",
+        "vi": "chia tay",
+        "en": "to break up"
+      },
+      {
+        "zh": "怀孕",
+        "py": "huáiyùn",
+        "vi": "mang thai",
+        "en": "to be pregnant"
+      },
+      {
+        "zh": "吻",
+        "py": "wěn",
+        "vi": "hôn",
+        "en": "to kiss"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "这是我的____，我们保持联系，希望将来有机会一起合作。",
+          "key": "名片",
+          "a": "这是我的【名片】，我们保持联系，希望将来有机会一起合作。",
+          "vi": "Đây là danh thiếp của tôi, chúng ta giữ liên lạc nhé, mong sau này có cơ hội hợp tác.",
+          "en": "Here's my card. Let's keep in touch; I hope we'll have a chance to work together in future."
+        },
+        {
+          "q": "明天，希望公司的总裁刘明先生来学校____，你想去听听吗？",
+          "key": "演讲",
+          "a": "明天，希望公司的总裁刘明先生来学校【演讲】，你想去听听吗？",
+          "vi": "Ngày mai, tổng giám đốc công ty Hy Vọng là ông Lưu Minh đến trường diễn thuyết, bạn có muốn đi nghe không?",
+          "en": "Tomorrow Liu Ming, CEO of Hope Group, is coming to give a talk at the school. Do you want to go and listen?"
+        },
+        {
+          "q": "老师，请问我报名时，都需要带什么____啊？",
+          "key": "证件",
+          "a": "老师，请问我报名时，都需要带什么【证件】啊？",
+          "vi": "Thưa thầy, cho em hỏi khi đăng ký em cần mang những giấy tờ gì ạ?",
+          "en": "Excuse me, what documents do I need to bring when I register?"
+        },
+        {
+          "q": "出席开幕式的____都联系好了。",
+          "key": "嘉宾",
+          "a": "出席开幕式的【嘉宾】都联系好了。",
+          "vi": "Các khách quý dự lễ khai mạc đều đã liên hệ xong.",
+          "en": "All the guests attending the opening ceremony have been contacted."
+        }
+      ]
+    }
+  }
+}

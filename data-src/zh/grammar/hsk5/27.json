@@ -1,0 +1,922 @@
+{
+  "n": 27,
+  "zh": "下棋",
+  "vi": "Đánh cờ",
+  "en": "Playing chess",
+  "texts": [
+    {
+      "title": "下棋",
+      "paras": [
+        {
+          "zh": "我父亲是一位象棋教练。那一年，我大学放假回家，父亲要跟我下棋，我高兴地{de}答应了。",
+          "vi": "Bố tôi là một huấn luyện viên cờ tướng. Năm ấy, tôi được nghỉ học ở trường đại học về nhà, bố muốn đánh cờ với tôi, tôi vui vẻ đồng ý.",
+          "en": "My father is a Chinese chess coach. One year, when I came home from university for the holidays, he wanted to play chess with me, and I happily agreed."
+        },
+        {
+          "zh": "父亲让我先走三步。不到三分钟，我的棋子损失大半，棋盘上空空的，只剩下几个子了。没办法，眼睁睁看着{zhe}父亲“将{jiāng}军”，我输了。",
+          "vi": "Bố cho tôi đi trước ba nước. Chưa đến ba phút, quân cờ của tôi đã mất quá nửa, bàn cờ trống trơn, chỉ còn lại mấy quân. Không còn cách nào, tôi trơ mắt nhìn bố “chiếu tướng”, tôi thua rồi.",
+          "en": "My father let me make the first three moves. In less than three minutes I'd lost more than half my pieces; my side of the board was nearly empty, with only a few pieces left. There was nothing I could do but watch helplessly as he said “Checkmate”. I'd lost."
+        },
+        {
+          "zh": "我不服气，说：“这次运气不好，再来！”第二局又输了，“这次没发挥好，我们再来”！几局下来，基本上都是不到10分钟我就败下阵来。我有些灰心。父亲看看我说：“你初学棋，输是正常的。但是你要知道输在什么地方，要吸取教训。否则，你就再下上10年，也未必能赢。”",
+          "vi": "Tôi không phục, nói: “Lần này vận may không tốt, chơi lại!” Ván thứ hai lại thua, “Lần này con chưa phát huy tốt, chơi lại nữa!” Mấy ván liền, hầu như chưa đến 10 phút là tôi đã bại trận. Tôi hơi nản lòng. Bố nhìn tôi nói: “Con mới học cờ, thua là bình thường. Nhưng con phải biết thua ở chỗ nào, phải rút ra bài học. Nếu không, con có đánh thêm 10 năm nữa cũng chưa chắc đã thắng.”",
+          "en": "I wasn't having it: “Bad luck this time. Again!” I lost the second game too. “I didn't play my best that time. Let's go again!” After several games, I'd basically been beaten in under ten minutes each time. I was a bit disheartened. My father looked at me and said: “You've only just started learning chess, so losing is normal. But you need to know where you're losing and learn your lesson. Otherwise, even if you play for another ten years, you won't necessarily win.”"
+        },
+        {
+          "zh": "“我知道，我技术没你好，经验也不足。”",
+          "vi": "“Con biết, kỹ thuật của con không bằng bố, kinh nghiệm cũng chưa đủ.”",
+          "en": "“I know. My technique isn't as good as yours, and I don't have enough experience.”"
+        },
+        {
+          "zh": "“这只是次要因素，不是最重要的。”",
+          "vi": "“Đó chỉ là nhân tố thứ yếu, không phải quan trọng nhất.”",
+          "en": "“That's only a minor factor. It's not the most important one.”"
+        },
+        {
+          "zh": "“那最重要的是什么？”我奇怪地{de}问。",
+          "vi": "“Vậy quan trọng nhất là gì ạ?” Tôi ngạc nhiên hỏi.",
+          "en": "“Then what's the most important thing?” I asked, puzzled."
+        },
+        {
+          "zh": "“最重要的问题在于你心态不对。你不够珍惜你的棋子。”",
+          "vi": "“Vấn đề quan trọng nhất nằm ở chỗ tâm lý của con không đúng. Con không đủ quý trọng quân cờ của mình.”",
+          "en": "“The most important problem is your attitude. You don't value your pieces enough.”"
+        },
+        {
+          "zh": "“怎么不珍惜呀？我每走一步，都想半天。”我否认说。",
+          "vi": "“Sao lại không quý trọng ạ? Mỗi nước đi con đều nghĩ rất lâu.” Tôi phủ nhận.",
+          "en": "“How can you say I don't value them? I think for ages before every move,” I protested."
+        },
+        {
+          "zh": "“那是后来。开始你是这样吗？我仔细观察过，你三分之二的棋子是在前三分之一的时间失去的。这期间你好像很有把握，下棋时不假思索，拿起来就走，失去了也不觉得可惜。因为你觉得棋子很多，失一两个不算什么。后三分之二的时间，你又犯了相反的错误：对棋子过于珍惜，每走一步都过于谨慎，一个棋子也不想失，反而一个一个都失去了。”",
+          "vi": "“Đó là về sau. Lúc đầu con có như vậy không? Bố đã quan sát kỹ, hai phần ba số quân cờ của con bị mất trong một phần ba thời gian đầu. Trong khoảng thời gian đó con có vẻ rất chắc chắn, đánh cờ chẳng cần suy nghĩ, cầm lên là đi, mất quân cũng không thấy tiếc. Vì con cảm thấy quân cờ còn nhiều, mất một hai quân chẳng là gì. Hai phần ba thời gian sau, con lại phạm sai lầm ngược lại: quá quý trọng quân cờ, mỗi nước đi đều quá thận trọng, một quân cũng không muốn mất, kết quả lại mất từng quân một.”",
+          "en": "“That was later. Were you like that at the start? I watched carefully: you lost two-thirds of your pieces in the first third of the game. During that time you seemed very sure of yourself; you moved without thinking, picking up a piece and playing it straight away, and you didn't feel sorry when you lost one, because you thought you had plenty and losing one or two didn't matter. In the last two-thirds you made the opposite mistake: you valued your pieces too much and were over-cautious with every move. You didn't want to lose a single piece, and yet you lost them one after another.”"
+        },
+        {
+          "zh": "说到这，父亲停下来，把棋子重新在棋盘上摆好，抬起头，看着{zhe}我，问：“这是一盘待下的棋。我问你，下棋的基本原则是什么？”",
+          "vi": "Nói đến đây, bố dừng lại, xếp lại các quân cờ trên bàn cờ, ngẩng đầu lên nhìn tôi, hỏi: “Đây là một ván cờ đang chờ đánh. Bố hỏi con, nguyên tắc cơ bản của việc đánh cờ là gì?”",
+          "en": "At this point my father stopped, set the pieces back up on the board, raised his head, looked at me and asked: “Here's a game waiting to be played. Let me ask you: what's the basic principle of playing chess?”"
+        },
+        {
+          "zh": "我想也没想，脱口而出：“赢啊！”",
+          "vi": "Tôi chẳng cần nghĩ, buột miệng nói ngay: “Thắng ạ!”",
+          "en": "Without even thinking, I blurted out: “To win!”"
+        },
+        {
+          "zh": "“那是目的。”父亲用责备的眼光看了我一眼，“至于原则，是要考虑得失。有得必然有失，有失才会有得。每走一步，你事先都应该想清楚：为了赢得什么，你愿意失去什么，这样才可能赢。可惜，大部分人都像你这样，开始不考虑得失，等到后来失去得多了，又开始舍不得，后果就是屡下屡败。其实不仅是下棋，人生也是如此啊！”",
+          "vi": "“Đó là mục đích.” Bố nhìn tôi bằng ánh mắt trách móc, “Còn nguyên tắc là phải cân nhắc được mất. Có được ắt có mất, có mất mới có được. Mỗi nước đi, con đều phải nghĩ kỹ trước: để giành được gì, con sẵn sàng mất đi cái gì, như vậy mới có thể thắng. Đáng tiếc là phần lớn mọi người đều giống con, lúc đầu không cân nhắc được mất, đến khi về sau mất nhiều rồi lại bắt đầu tiếc, hậu quả là đánh lần nào thua lần ấy. Thật ra không chỉ đánh cờ, đời người cũng như vậy đấy!”",
+          "en": "“That's the goal.” My father gave me a reproachful look. “The principle is to weigh gains and losses. Where there's gain there's bound to be loss, and only through loss can there be gain. Before every move, you should think clearly about what you're willing to give up in order to gain something; only then can you win. Unfortunately, most people are like you: at first they don't think about gains and losses, and later, when they've lost a lot, they start to cling on, and the result is that they lose game after game. And it's not just chess — life is like that too!”"
+        }
+      ],
+      "source": "改编自《今日中学生》，作者：林夕",
+      "words": [
+        {
+          "zh": "（象）棋",
+          "py": "(xiàng) qí",
+          "pos": "dt.",
+          "vi": "cờ (tướng)",
+          "en": "(Chinese) chess"
+        },
+        {
+          "zh": "教练",
+          "py": "jiàoliàn",
+          "pos": "dt.",
+          "vi": "huấn luyện viên",
+          "en": "coach"
+        },
+        {
+          "zh": "答应",
+          "py": "dāying",
+          "pos": "đgt.",
+          "vi": "đồng ý, ưng thuận",
+          "en": "to agree, to promise"
+        },
+        {
+          "zh": "损失",
+          "py": "sǔnshī",
+          "pos": "đgt.",
+          "vi": "mất, tổn thất",
+          "en": "to lose; loss"
+        },
+        {
+          "zh": "睁",
+          "py": "zhēng",
+          "pos": "đgt.",
+          "vi": "mở (mắt)",
+          "en": "to open (one's eyes)"
+        },
+        {
+          "zh": "眼睁睁",
+          "py": "yǎnzhēngzhēng",
+          "pos": "tt.",
+          "vi": "trơ mắt (nhìn)",
+          "en": "helplessly (watching)"
+        },
+        {
+          "zh": "将军",
+          "py": "jiāngjūn",
+          "pos": "dt.",
+          "vi": "tướng quân",
+          "en": "general"
+        },
+        {
+          "zh": "将军",
+          "py": "jiāng jūn",
+          "pos": "đgt.",
+          "vi": "chiếu tướng (trong đánh cờ)",
+          "en": "to check (in chess)",
+          "x": true
+        },
+        {
+          "zh": "服气",
+          "py": "fúqì",
+          "pos": "đgt.",
+          "vi": "chịu phục, chịu thua",
+          "en": "to be convinced, to accept defeat",
+          "x": true
+        },
+        {
+          "zh": "运气",
+          "py": "yùnqi",
+          "pos": "dt.",
+          "vi": "số đỏ, vận may",
+          "en": "luck"
+        },
+        {
+          "zh": "局",
+          "py": "jú",
+          "pos": "lượng.",
+          "vi": "ván",
+          "en": "(measure word for games) game, round",
+          "x": true
+        },
+        {
+          "zh": "发挥",
+          "py": "fāhuī",
+          "pos": "đgt.",
+          "vi": "phát huy",
+          "en": "to bring into play, to perform"
+        },
+        {
+          "zh": "灰心",
+          "py": "huīxīn",
+          "pos": "tt.",
+          "vi": "nản lòng, chán nản",
+          "en": "discouraged, disheartened"
+        },
+        {
+          "zh": "吸取",
+          "py": "xīqǔ",
+          "pos": "đgt.",
+          "vi": "hấp thu, rút ra",
+          "en": "to absorb, to draw (a lesson)"
+        },
+        {
+          "zh": "教训",
+          "py": "jiàoxùn",
+          "pos": "dt.",
+          "vi": "bài học kinh nghiệm",
+          "en": "lesson (learned from experience)"
+        },
+        {
+          "zh": "未必",
+          "py": "wèibì",
+          "pos": "phó.",
+          "vi": "chưa chắc, không hẳn",
+          "en": "not necessarily"
+        },
+        {
+          "zh": "次要",
+          "py": "cìyào",
+          "pos": "tt.",
+          "vi": "thứ yếu, không quan trọng",
+          "en": "secondary, minor"
+        },
+        {
+          "zh": "因素",
+          "py": "yīnsù",
+          "pos": "dt.",
+          "vi": "nhân tố",
+          "en": "factor"
+        },
+        {
+          "zh": "在于",
+          "py": "zàiyú",
+          "pos": "đgt.",
+          "vi": "cốt ở, ở chỗ",
+          "en": "to lie in, to consist in"
+        },
+        {
+          "zh": "心态",
+          "py": "xīntài",
+          "pos": "dt.",
+          "vi": "tâm lý, trạng thái tâm lý",
+          "en": "mentality, attitude",
+          "x": true
+        },
+        {
+          "zh": "珍惜",
+          "py": "zhēnxī",
+          "pos": "đgt.",
+          "vi": "quý trọng",
+          "en": "to cherish, to value"
+        },
+        {
+          "zh": "否认",
+          "py": "fǒurèn",
+          "pos": "đgt.",
+          "vi": "phủ nhận, bác bỏ",
+          "en": "to deny"
+        },
+        {
+          "zh": "观察",
+          "py": "guānchá",
+          "pos": "đgt.",
+          "vi": "quan sát, theo dõi",
+          "en": "to observe"
+        },
+        {
+          "zh": "失去",
+          "py": "shīqù",
+          "pos": "đgt.",
+          "vi": "mất",
+          "en": "to lose"
+        },
+        {
+          "zh": "期间",
+          "py": "qījiān",
+          "pos": "dt.",
+          "vi": "thời gian, thời kỳ",
+          "en": "period, time"
+        },
+        {
+          "zh": "把握",
+          "py": "bǎwò",
+          "pos": "dt.",
+          "vi": "sự chắc chắn, sự tin chắc",
+          "en": "certainty, confidence"
+        },
+        {
+          "zh": "不假思索",
+          "py": "bùjiǎ-sīsuǒ",
+          "vi": "không cần cân nhắc, không cần suy nghĩ",
+          "en": "without thinking",
+          "x": true
+        },
+        {
+          "zh": "犯",
+          "py": "fàn",
+          "pos": "đgt.",
+          "vi": "phạm (sai lầm, tội…)",
+          "en": "to commit (an error, a crime)",
+          "x": true
+        },
+        {
+          "zh": "过于",
+          "py": "guòyú",
+          "pos": "phó.",
+          "vi": "quá, quá đáng",
+          "en": "too, excessively",
+          "x": true
+        },
+        {
+          "zh": "原则",
+          "py": "yuánzé",
+          "pos": "dt.",
+          "vi": "nguyên tắc",
+          "en": "principle"
+        },
+        {
+          "zh": "责备",
+          "py": "zébèi",
+          "pos": "đgt.",
+          "vi": "quở trách, chỉ trích",
+          "en": "to reproach, to blame"
+        },
+        {
+          "zh": "必然",
+          "py": "bìrán",
+          "pos": "tt.",
+          "vi": "thế nào cũng, chắc chắn, tất nhiên",
+          "en": "inevitable, certain"
+        },
+        {
+          "zh": "事先",
+          "py": "shìxiān",
+          "pos": "dt.",
+          "vi": "trước đó, trước",
+          "en": "beforehand, in advance"
+        },
+        {
+          "zh": "舍不得",
+          "py": "shěbude",
+          "pos": "đgt.",
+          "vi": "không nỡ, tiếc rẻ, luyến tiếc",
+          "en": "to be unwilling to part with, to begrudge"
+        },
+        {
+          "zh": "后果",
+          "py": "hòuguǒ",
+          "pos": "dt.",
+          "vi": "hậu quả",
+          "en": "consequence"
+        },
+        {
+          "zh": "屡",
+          "py": "lǚ",
+          "pos": "phó.",
+          "vi": "nhiều lần",
+          "en": "repeatedly",
+          "x": true
+        }
+      ]
+    }
+  ],
+  "points": [
+    {
+      "title": "动词+下来",
+      "py": "dòngcí + xiàlai",
+      "uses": [
+        {
+          "vi": "“Động từ + 下来” biểu thị hoàn thành, đôi khi kiêm nghĩa tách rời hoặc cố định lại.",
+          "en": "“Verb + 下来” shows completion, sometimes also with a sense of coming away from something or becoming fixed.",
+          "ex": [
+            {
+              "zh": "你的论文大概什么时候发表？定【下来】了吗？",
+              "vi": "Luận văn của bạn khoảng khi nào công bố? Đã định xong chưa?",
+              "en": "When will your paper be published, roughly? Has it been settled yet?"
+            },
+            {
+              "zh": "你看，那张纸是从这本书里撕【下来】的。",
+              "vi": "Bạn xem, tờ giấy đó là xé ra từ cuốn sách này.",
+              "en": "Look, that sheet of paper was torn out of this book."
+            },
+            {
+              "zh": "几局【下来】，基本上都是不到10分钟我就败下阵来。",
+              "vi": "Mấy ván liền, hầu như chưa đến 10 phút là tôi đã bại trận.",
+              "en": "After several games, I'd basically been beaten in under ten minutes each time."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "房间里太热了，____。",
+            "hint": "动词+下来",
+            "a": "房间里太热了，【你把外套脱下来吧】。",
+            "vi": "Trong phòng nóng quá, bạn cởi áo khoác ra đi.",
+            "en": "It's too hot in here. Take your coat off.",
+            "sample": true
+          },
+          {
+            "q": "这套房子不错，____。",
+            "hint": "动词+下来",
+            "a": "这套房子不错，【我们就租下来吧】。",
+            "vi": "Căn nhà này được đấy, chúng ta thuê luôn đi.",
+            "en": "This flat's nice. Let's take it.",
+            "sample": true
+          },
+          {
+            "q": "A：为什么你跟他们说话的时候要带个录音机呢？\nB：____。",
+            "hint": "动词+下来",
+            "a": "A：为什么你跟他们说话的时候要带个录音机呢？\nB：【我想把他们说的话都录下来，以后写报道用】。",
+            "vi": "A: Sao bạn nói chuyện với họ lại mang theo máy ghi âm?\nB: Tôi muốn ghi âm lại hết những gì họ nói, sau này dùng để viết bài.",
+            "en": "A: Why do you take a recorder with you when you talk to them?\nB: I want to record everything they say so I can use it for my report later.",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "舍不得",
+      "uses": [
+        {
+          "vi": "舍不得 là động từ, biểu thị không muốn từ bỏ, tiêu tốn hoặc sử dụng (không nỡ, tiếc). Hình thức khẳng định “舍得” thường dùng trong câu hỏi hoặc câu trả lời, câu so sánh.",
+          "en": "舍不得 is a verb meaning to be unwilling to give up, spend or use something (can't bear to, begrudge). The affirmative form 舍得 is mostly used in questions, answers or comparisons.",
+          "ex": [
+            {
+              "zh": "把你最喜欢的玩具送给小朋友，你【舍得】吗？",
+              "vi": "Tặng đồ chơi con thích nhất cho bạn nhỏ, con có nỡ không?",
+              "en": "Could you bear to give your favourite toy to a friend?"
+            },
+            {
+              "zh": "有些人对于把钱花在为{wèi}家庭和自己的生活增加乐趣的事情上，总是有些【舍不得】。",
+              "vi": "Có một số người lúc nào cũng hơi tiếc khi tiêu tiền vào những việc làm tăng thêm niềm vui cho gia đình và cuộc sống của bản thân.",
+              "en": "Some people always begrudge spending money on things that would add enjoyment to their family's lives and their own."
+            },
+            {
+              "zh": "可惜，大部分人都像你这样，开始不考虑得失，等到后来失去得多了，又开始【舍不得】，后果就是屡下屡败。",
+              "vi": "Đáng tiếc là phần lớn mọi người đều giống con, lúc đầu không cân nhắc được mất, đến khi về sau mất nhiều rồi lại bắt đầu tiếc, hậu quả là đánh lần nào thua lần ấy.",
+              "en": "Unfortunately, most people are like you: at first they don't think about gains and losses, and later, when they've lost a lot, they start to cling on, and the result is that they lose game after game."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "完成句子或对话",
+        "items": [
+          {
+            "q": "A：这么好的工作，你怎么舍得辞职？！\nB：____。",
+            "hint": "舍不得",
+            "a": "A：这么好的工作，你怎么舍得辞职？！\nB：【我也舍不得，可是我想去国外读书】。",
+            "vi": "A: Công việc tốt như vậy, sao bạn nỡ nghỉ?!\nB: Tôi cũng tiếc lắm, nhưng tôi muốn ra nước ngoài học.",
+            "en": "A: How could you bear to quit such a good job?!\nB: I didn't want to, but I want to go and study abroad.",
+            "sample": true
+          },
+          {
+            "q": "买了件新衣服舍不得穿，结果____。",
+            "hint": "舍不得",
+            "a": "买了件新衣服舍不得穿，结果【第二年就穿不上了】。",
+            "vi": "Mua bộ quần áo mới mà tiếc không mặc, kết quả sang năm thì mặc không vừa nữa.",
+            "en": "I bought some new clothes but saved them for best, and by the next year they didn't fit.",
+            "sample": true
+          },
+          {
+            "q": "A：我们真的要花这么多钱去做新产品的推广吗？\nB：____。",
+            "hint": "舍不得",
+            "a": "A：我们真的要花这么多钱去做新产品的推广吗？\nB：【舍不得花钱宣传，产品怎么卖得出去呢】？",
+            "vi": "A: Chúng ta thật sự phải bỏ ra nhiều tiền như vậy để quảng bá sản phẩm mới sao?\nB: Tiếc tiền quảng cáo thì sản phẩm làm sao bán được?",
+            "en": "A: Do we really have to spend so much money promoting the new product?\nB: If we won't spend money on publicity, how will we ever sell it?",
+            "sample": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "损失—失去",
+      "compare": true,
+      "uses": [
+        {
+          "vi": "Giống nhau: 损失 và 失去 đều có thể làm động từ, đều có nghĩa vốn có mà sau đó không còn nữa.",
+          "en": "Similarity: 损失 and 失去 can both be verbs meaning to no longer have what one had.",
+          "ex": [
+            {
+              "zh": "每走一步，你事先都应该想清楚：为了赢得什么，你愿意【损失】/【失去】什么，这样才可能赢。",
+              "vi": "Mỗi nước đi, con đều phải nghĩ kỹ trước: để giành được gì, con sẵn sàng mất đi cái gì, như vậy mới có thể thắng.",
+              "en": "Before every move you should think clearly about what you're willing to give up in order to gain something; only then can you win."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 1: 损失 biểu thị giảm bớt, hao hụt (tổn thất); 失去 thường chỉ hoàn toàn không còn nữa (mất).",
+          "en": "Difference 1: 损失 means a reduction or loss of part of something; 失去 usually means losing it completely.",
+          "ex": [
+            {
+              "zh": "不到三分钟，我的棋子【损失】大半。",
+              "vi": "Chưa đến ba phút, quân cờ của tôi đã mất quá nửa.",
+              "en": "In less than three minutes I'd lost more than half my pieces."
+            },
+            {
+              "zh": "战争让他【失去】了家庭。",
+              "vi": "Chiến tranh đã khiến anh ấy mất đi gia đình.",
+              "en": "The war cost him his family."
+            }
+          ]
+        },
+        {
+          "vi": "Khác nhau 2: 损失 có thể làm danh từ (sự tổn thất, thiệt hại); 失去 không thể làm danh từ.",
+          "en": "Difference 2: 损失 can be a noun (a loss, damage); 失去 cannot.",
+          "ex": [
+            {
+              "zh": "公司会赔偿我们的【损失】。",
+              "vi": "Công ty sẽ bồi thường thiệt hại cho chúng ta.",
+              "en": "The company will compensate us for our losses."
+            }
+          ]
+        }
+      ],
+      "practice": {
+        "title": "选词填空",
+        "items": [
+          {
+            "q": "生意失败，他____了很多钱。",
+            "key": "损失 ✓ · 失去 ✗ (hao hụt tiền bạc)",
+            "a": "生意失败，他【损失】了很多钱。",
+            "vi": "Làm ăn thất bại, anh ấy mất rất nhiều tiền.",
+            "en": "His business failed and he lost a lot of money."
+          },
+          {
+            "q": "因为一场病，他____了记忆。",
+            "key": "损失 ✗ · 失去 ✓ (hoàn toàn không còn)",
+            "a": "因为一场病，他【失去】了记忆。",
+            "vi": "Vì một trận ốm, anh ấy mất trí nhớ.",
+            "en": "Because of an illness, he lost his memory."
+          },
+          {
+            "q": "要珍惜时间，因为____的时间永远都不会再回来。",
+            "key": "损失 ✗ · 失去 ✓",
+            "a": "要珍惜时间，因为【失去】的时间永远都不会再回来。",
+            "vi": "Phải biết quý trọng thời gian, vì thời gian đã mất sẽ mãi mãi không quay lại.",
+            "en": "Treasure your time, because time once lost never comes back."
+          },
+          {
+            "q": "这次火灾造成了巨大的____。",
+            "key": "损失 ✓ · 失去 ✗ (danh từ)",
+            "a": "这次火灾造成了巨大的【损失】。",
+            "vi": "Vụ hỏa hoạn lần này đã gây ra thiệt hại to lớn.",
+            "en": "The fire caused enormous damage."
+          }
+        ]
+      }
+    }
+  ],
+  "colloc": [
+    {
+      "a": "动词",
+      "b": "宾语",
+      "rows": [
+        {
+          "zh": [
+            "接受/总结/吸取",
+            "教训"
+          ],
+          "vi": "chấp nhận / tổng kết / rút ra bài học",
+          "en": "accept / sum up / learn a lesson"
+        },
+        {
+          "zh": [
+            "珍惜",
+            "时间/现在/朋友/生命"
+          ],
+          "vi": "quý trọng thời gian / hiện tại / bạn bè / sinh mạng",
+          "en": "value time / the present / friends / life"
+        }
+      ]
+    },
+    {
+      "a": "定语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "重要/决定（性）/关键",
+            "因素"
+          ],
+          "vi": "nhân tố quan trọng / quyết định / then chốt",
+          "en": "an important / decisive / key factor"
+        },
+        {
+          "zh": [
+            "严重（的）",
+            "后果"
+          ],
+          "vi": "hậu quả nghiêm trọng",
+          "en": "serious consequences"
+        }
+      ]
+    },
+    {
+      "a": "状语",
+      "b": "中心语",
+      "rows": [
+        {
+          "zh": [
+            "认真/仔细（地{de}）",
+            "观察"
+          ],
+          "vi": "quan sát nghiêm túc / cẩn thận",
+          "en": "observe carefully / closely"
+        },
+        {
+          "zh": [
+            "充分/尽{jìn}情（地{de}）",
+            "发挥"
+          ],
+          "vi": "phát huy đầy đủ / hết mình",
+          "en": "make full use of / give free rein to"
+        }
+      ]
+    },
+    {
+      "a": "中心语",
+      "b": "补语",
+      "rows": [
+        {
+          "zh": [
+            "睁",
+            "开/大"
+          ],
+          "vi": "mở mắt ra / mở to mắt",
+          "en": "open (one's eyes) / open wide"
+        },
+        {
+          "zh": [
+            "把握",
+            "好/住"
+          ],
+          "vi": "nắm bắt tốt / nắm chắc",
+          "en": "grasp well / seize (an opportunity)"
+        }
+      ]
+    },
+    {
+      "a": "数量词",
+      "b": "名词",
+      "rows": [
+        {
+          "zh": [
+            "一盘/局",
+            "棋"
+          ],
+          "vi": "một ván cờ",
+          "en": "a game of chess"
+        },
+        {
+          "zh": [
+            "一个/条",
+            "原则"
+          ],
+          "vi": "một nguyên tắc",
+          "en": "a principle"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "title": "选择合适的词语填空",
+      "bank": [
+        "把握",
+        "发挥",
+        "观察",
+        "教训",
+        "因素",
+        "眼睁睁"
+      ],
+      "items": [
+        {
+          "q": "吸取____才能避免以后再次发生同样的问题。",
+          "key": "教训",
+          "a": "吸取【教训】才能避免以后再次发生同样的问题。",
+          "vi": "Rút ra bài học mới có thể tránh được vấn đề tương tự xảy ra lần nữa sau này.",
+          "en": "Only by learning our lesson can we avoid the same problem happening again."
+        },
+        {
+          "q": "工作压力太大、不能兼顾工作和家庭是影响幸福感的重要____。",
+          "key": "因素",
+          "a": "工作压力太大、不能兼顾工作和家庭是影响幸福感的重要【因素】。",
+          "vi": "Áp lực công việc quá lớn, không thể cùng lúc quan tâm đến công việc và gia đình là nhân tố quan trọng ảnh hưởng đến cảm giác hạnh phúc.",
+          "en": "Too much work pressure and being unable to balance work and family are important factors affecting happiness."
+        },
+        {
+          "q": "希望你在比赛中____好，赛出好成绩！",
+          "key": "发挥",
+          "a": "希望你在比赛中【发挥】好，赛出好成绩！",
+          "vi": "Mong bạn phát huy tốt trong cuộc thi, giành được thành tích tốt!",
+          "en": "I hope you perform well in the competition and get a great result!"
+        },
+        {
+          "q": "只有做好准备的人才能____住机会。",
+          "key": "把握",
+          "a": "只有做好准备的人才能【把握】住机会。",
+          "vi": "Chỉ người đã chuẩn bị kỹ mới có thể nắm bắt được cơ hội.",
+          "en": "Only those who are well prepared can seize opportunities."
+        },
+        {
+          "q": "你就这样____地{de}看着{zhe}他摔倒了？！",
+          "key": "眼睁睁",
+          "a": "你就这样【眼睁睁】地{de}看着{zhe}他摔倒了？！",
+          "vi": "Bạn cứ thế trơ mắt nhìn cậu ấy ngã sao?!",
+          "en": "You just stood there and watched him fall?!"
+        },
+        {
+          "q": "仔细____周围的大自然，你会发现很多有意思的东西。",
+          "key": "观察",
+          "a": "仔细【观察】周围的大自然，你会发现很多有意思的东西。",
+          "vi": "Quan sát kỹ thiên nhiên xung quanh, bạn sẽ phát hiện rất nhiều điều thú vị.",
+          "en": "Observe the nature around you carefully and you'll discover lots of interesting things."
+        }
+      ]
+    },
+    {
+      "title": "选择正确答案",
+      "items": [
+        {
+          "q": "这几次考试我都考得不太好，觉得有点儿____。",
+          "opts": [
+            "A. 灰心",
+            "B. 死心"
+          ],
+          "key": "A",
+          "a": "这几次考试我都考得不太好，觉得有点儿【灰心】。",
+          "vi": "Mấy lần thi này tôi đều làm bài không tốt lắm, cảm thấy hơi nản lòng.",
+          "en": "I haven't done very well in the last few exams and I'm feeling a bit discouraged."
+        },
+        {
+          "q": "在国外工作____，我一直很想念我的家乡和家人。",
+          "opts": [
+            "A. 时期",
+            "B. 期间"
+          ],
+          "key": "B",
+          "a": "在国外工作【期间】，我一直很想念我的家乡和家人。",
+          "vi": "Trong thời gian làm việc ở nước ngoài, tôi luôn rất nhớ quê hương và gia đình.",
+          "en": "While I was working abroad, I always missed my hometown and family."
+        },
+        {
+          "q": "如果有变动，请____24小时告诉我。",
+          "opts": [
+            "A. 事先",
+            "B. 提前"
+          ],
+          "key": "B",
+          "a": "如果有变动，请【提前】24小时告诉我。",
+          "vi": "Nếu có thay đổi, xin báo cho tôi trước 24 giờ.",
+          "en": "If there are any changes, please let me know 24 hours in advance."
+        },
+        {
+          "q": "你要想清楚，这样做的____很严重！",
+          "opts": [
+            "A. 后果",
+            "B. 结果"
+          ],
+          "key": "A",
+          "a": "你要想清楚，这样做的【后果】很严重！",
+          "vi": "Bạn phải nghĩ cho kỹ, làm như vậy hậu quả rất nghiêm trọng!",
+          "en": "Think it through — doing this could have serious consequences!"
+        }
+      ]
+    },
+    {
+      "title": "给括号里的词选择适当的位置",
+      "items": [
+        {
+          "q": "你A说得这么复杂，我B觉得他C能D听懂。",
+          "hint": "未必",
+          "key": "C",
+          "a": "你说得这么复杂，我觉得他【未必】能听懂。",
+          "vi": "Bạn nói phức tạp như vậy, tôi thấy chưa chắc anh ấy đã hiểu.",
+          "en": "You've made it so complicated, I don't think he'll necessarily understand."
+        },
+        {
+          "q": "A我看，老板没有糟糕的，B关键C你D怎样去和他沟通。",
+          "hint": "在于",
+          "key": "C",
+          "a": "我看，老板没有糟糕的，关键【在于】你怎样去和他沟通。",
+          "vi": "Theo tôi, không có ông chủ nào tệ cả, then chốt là ở chỗ bạn giao tiếp với họ như thế nào.",
+          "en": "In my view there's no such thing as a bad boss; the key lies in how you communicate with them."
+        },
+        {
+          "q": "在很多A家庭中，夫妻B同时C工作并D做家务。",
+          "hint": "双方",
+          "key": "B",
+          "a": "在很多家庭中，夫妻【双方】同时工作并做家务。",
+          "vi": "Trong nhiều gia đình, cả hai vợ chồng đều đi làm và cùng làm việc nhà.",
+          "en": "In many families, both husband and wife work and do housework."
+        },
+        {
+          "q": "开始学滑雪A的时候，我花了很长时间B学习C怎么停D。",
+          "hint": "下来",
+          "key": "D",
+          "a": "开始学滑雪的时候，我花了很长时间学习怎么停【下来】。",
+          "vi": "Lúc mới học trượt tuyết, tôi mất rất nhiều thời gian học cách dừng lại.",
+          "en": "When I started learning to ski, I spent a long time learning how to stop."
+        }
+      ]
+    },
+    {
+      "title": "根据下面的提示词复述课文内容",
+      "kind": "retell",
+      "items": [
+        {
+          "q": "父亲与我下棋",
+          "hint": "教练、答应、损失、眼睁睁、灰心",
+          "a": "我父亲是一位象棋【教练】。放假回家时，父亲要跟我下棋，我【答应】了。不到三分钟，我的棋子就【损失】大半，只能【眼睁睁】看着{zhe}父亲“将{jiāng}军”。几局下来，我都输了，有些【灰心】。",
+          "vi": "Bố tôi là huấn luyện viên cờ tướng. Khi được nghỉ về nhà, bố muốn đánh cờ với tôi, tôi đồng ý. Chưa đến ba phút, quân cờ của tôi đã mất quá nửa, chỉ có thể trơ mắt nhìn bố “chiếu tướng”. Mấy ván liền tôi đều thua, hơi nản lòng.",
+          "en": "My father is a chess coach. When I came home for the holidays, he wanted to play with me and I agreed. In under three minutes I'd lost over half my pieces and could only watch helplessly as he checkmated me. I lost game after game and felt rather discouraged.",
+          "sample": true
+        },
+        {
+          "q": "输的原因",
+          "hint": "吸取、未必、因素、在于、否认、观察、失去、把握",
+          "a": "父亲说我要【吸取】教训，否则再下10年也【未必】能赢。技术和经验只是次要【因素】，最重要的问题【在于】我不够珍惜棋子。我【否认】，父亲说他仔细【观察】过，我三分之二的棋子是在前三分之一的时间【失去】的，那时我好像很有【把握】，不假思索；后来又过于谨慎，反而一个一个都失去了。",
+          "vi": "Bố nói tôi phải rút ra bài học, nếu không có đánh thêm 10 năm cũng chưa chắc thắng. Kỹ thuật và kinh nghiệm chỉ là nhân tố thứ yếu, vấn đề quan trọng nhất nằm ở chỗ tôi không đủ quý trọng quân cờ. Tôi phủ nhận, bố nói ông đã quan sát kỹ, hai phần ba số quân của tôi bị mất trong một phần ba thời gian đầu, lúc đó tôi có vẻ rất chắc chắn, đi chẳng cần nghĩ; về sau lại quá thận trọng, kết quả lại mất từng quân một.",
+          "en": "My father said I must learn my lesson, or I might not win even after ten more years. Technique and experience were only minor factors; the real problem was that I didn't value my pieces. I denied it, but he said he'd watched carefully: I lost two-thirds of my pieces in the first third of the game, when I seemed very confident and played without thinking; then I became over-cautious and lost them one by one.",
+          "sample": true
+        },
+        {
+          "q": "下棋与人生",
+          "hint": "原则、必然、事先、舍不得、后果",
+          "a": "父亲说，下棋的基本【原则】是考虑得失，有得【必然】有失。每走一步都要【事先】想清楚为了赢得什么愿意失去什么。很多人开始不考虑得失，后来又【舍不得】，【后果】就是屡下屡败。人生也是如此。",
+          "vi": "Bố nói, nguyên tắc cơ bản của đánh cờ là cân nhắc được mất, có được ắt có mất. Mỗi nước đi đều phải nghĩ kỹ trước để giành được gì thì sẵn sàng mất gì. Nhiều người lúc đầu không cân nhắc được mất, về sau lại tiếc, hậu quả là đánh lần nào thua lần ấy. Đời người cũng như vậy.",
+          "en": "My father said the basic principle of chess is weighing gains and losses: where there's gain there's bound to be loss. Before every move you should think about what you'll give up to gain something. Many people don't think about this at first, then later can't bear to lose anything, and the result is defeat after defeat. Life is the same.",
+          "sample": true
+        }
+      ]
+    }
+  ],
+  "ext": {
+    "topic": "家居2",
+    "vi": "Đồ gia dụng (2)",
+    "en": "Home (2)",
+    "words": [
+      {
+        "zh": "夹子",
+        "py": "jiāzi",
+        "vi": "cái kẹp",
+        "en": "clip, clamp"
+      },
+      {
+        "zh": "梳子",
+        "py": "shūzi",
+        "vi": "cái lược",
+        "en": "comb"
+      },
+      {
+        "zh": "肥皂",
+        "py": "féizào",
+        "vi": "xà phòng",
+        "en": "soap"
+      },
+      {
+        "zh": "扇子",
+        "py": "shànzi",
+        "vi": "cái quạt",
+        "en": "fan"
+      },
+      {
+        "zh": "剪刀",
+        "py": "jiǎndāo",
+        "vi": "cái kéo",
+        "en": "scissors"
+      },
+      {
+        "zh": "绳子",
+        "py": "shéngzi",
+        "vi": "sợi dây",
+        "en": "rope, string"
+      },
+      {
+        "zh": "锁",
+        "py": "suǒ",
+        "vi": "ổ khóa",
+        "en": "lock"
+      },
+      {
+        "zh": "叉子",
+        "py": "chāzi",
+        "vi": "cái nĩa",
+        "en": "fork"
+      },
+      {
+        "zh": "锅",
+        "py": "guō",
+        "vi": "nồi, chảo",
+        "en": "pot, wok"
+      },
+      {
+        "zh": "壶",
+        "py": "hú",
+        "vi": "ấm, bình",
+        "en": "pot, kettle"
+      },
+      {
+        "zh": "盆",
+        "py": "pén",
+        "vi": "chậu",
+        "en": "basin, pot"
+      },
+      {
+        "zh": "火柴",
+        "py": "huǒchái",
+        "vi": "que diêm",
+        "en": "match"
+      }
+    ],
+    "practice": {
+      "title": "从上表中选择合适的词语填空",
+      "items": [
+        {
+          "q": "这份文件有好几页，拿个____夹一下吧，别丢了。",
+          "key": "夹子",
+          "a": "这份文件有好几页，拿个【夹子】夹一下吧，别丢了。",
+          "vi": "Tài liệu này có mấy trang, lấy cái kẹp kẹp lại đi, kẻo mất.",
+          "en": "This document has several pages. Put a clip on it so none go missing."
+        },
+        {
+          "q": "一把钥匙开一把____。",
+          "key": "锁",
+          "a": "一把钥匙开一把【锁】。",
+          "vi": "Một chiếc chìa khóa mở một ổ khóa.",
+          "en": "One key opens one lock."
+        },
+        {
+          "q": "中国人吃饭习惯用筷子，西方人吃饭习惯用刀和____。",
+          "key": "叉子",
+          "a": "中国人吃饭习惯用筷子，西方人吃饭习惯用刀和【叉子】。",
+          "vi": "Người Trung Quốc quen dùng đũa khi ăn, người phương Tây quen dùng dao và nĩa.",
+          "en": "Chinese people usually eat with chopsticks, while Westerners use a knife and fork."
+        },
+        {
+          "q": "周末的下午，坐在阳光下，喝____茶，感觉很舒服。",
+          "key": "壶",
+          "a": "周末的下午，坐在阳光下，喝【壶】茶，感觉很舒服。",
+          "vi": "Buổi chiều cuối tuần, ngồi dưới nắng, uống một ấm trà, cảm thấy thật dễ chịu.",
+          "en": "Sitting in the sun on a weekend afternoon with a pot of tea feels wonderful."
+        }
+      ]
+    }
+  }
+}
