@@ -1,0 +1,18 @@
+/* ================= Điểm vào CSS =================
+   Thứ tự import quyết định quy tắc nào thắng – file sau ghi đè file trước.
+   tokens       – thời lượng, đường cong chuyển động dùng chung (biến CSS)
+   base         – bố cục gốc: đầu trang, tab, đăng nhập, lưới chữ, chi tiết từ, ngữ pháp
+   app          – thiết kế pastel: màu theo ngôn ngữ / cấp, khung trang, flashcard, thống kê, cài đặt, điện thoại
+   motion       – hiệu ứng động chung: nền, tab, thẻ xuất hiện, flashcard, chú vẹt đi dạo
+   scene        – khung cảnh thanh đầu trang (trời, đất, cây, làn của chú vẹt)
+   fx           – hiệu ứng gắn với việc học: pháo giấy, huy hiệu, nét chữ Hangul, karaoke, vẹt ôm thẻ…
+   transitions  – chuyển trang trượt theo hướng tab, mở / đóng khung, phản hồi khi chấm flashcard
+   levels       – các mức hiệu ứng Đầy đủ / Nhẹ / Tắt và "giảm chuyển động" (nạp cuối để ghi đè mọi thứ) */
+@import './tokens.css';
+@import './base.css';
+@import './app.css';
+@import './motion.css';
+@import './scene.css';
+@import './fx.css';
+@import './transitions.css';
+@import './levels.css';

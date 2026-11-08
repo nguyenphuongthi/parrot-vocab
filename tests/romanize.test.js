@@ -1,7 +1,7 @@
 // Ví dụ lấy từ văn bản "국어의 로마자 표기법" (국립국어원) và 표준 발음법.
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { compose, decompose, pronounce, pronunciationHint, romanize } from '../src/ko/romanize.js';
+import { compose, decompose, pronounce, pronunciationHint, romanize } from '../src/features/ko/romanize.js';
 
 const cases = {
   // Mũi hoá, ㄹ hoá (제3장 제1항)

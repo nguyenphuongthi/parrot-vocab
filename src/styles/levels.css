@@ -1,0 +1,89 @@
+/* ================= Mức hiệu ứng =================
+   <html data-motion> do lib/motion.js đặt theo Cài đặt → "Hiệu ứng chuyển động":
+     full     – Đầy đủ
+     lite     – Nhẹ: tắt nền, khung cảnh và các vòng lặp trang trí; giữ hiệu ứng khi bấm, lật thẻ, chuyển trang
+     reduced  – Tự động + máy bật "giảm chuyển động": như Nhẹ, và mọi hiệu ứng còn lại chỉ là mờ dần
+     off      – Tắt hết
+   Nạp cuối cùng để ghi đè mọi file khác. */
+
+/* ---------- Nhẹ + giảm chuyển động: bỏ phần trang trí chạy liên tục ---------- */
+:root:is([data-motion='lite'], [data-motion='reduced'], [data-motion='off']) :is(
+    .glyph,
+    .spark,
+    .cloud,
+    .star,
+    .flake,
+    .firefly,
+    .drop,
+    .puddle,
+    .butterfly,
+    .lang-wave
+  ) {
+  display: none;
+}
+:root:is([data-motion='lite'], [data-motion='reduced']) :is(
+    .blob,
+    .sun,
+    .tree-wrap .tree,
+    .flower,
+    .cat-tail,
+    .cat-zzz,
+    .sm-arm,
+    .frog,
+    .p-umbrella,
+    .logo.is-animated,
+    .logo.is-animated *,
+    .lang-btn.is-on .lang-glyph,
+    .goal-streak .ic,
+    .goal-streak .flame,
+    .sign,
+    .hammock,
+    .empty-zzz,
+    .book-page,
+    .glass,
+    .count-badge,
+    .hug-head,
+    .hug-head svg,
+    .hug-toes,
+    .hug-wing,
+    .level-pet *
+  ),
+:root:is([data-motion='lite'], [data-motion='reduced']) :is(.goal-bar span, .badge.is-on, .dot-badge)::after {
+  animation: none !important;
+}
+
+/* ---------- Giảm chuyển động: không dịch chuyển, chỉ mờ dần ---------- */
+:root[data-motion='reduced'] *,
+:root[data-motion='reduced'] *::before,
+:root[data-motion='reduced'] *::after {
+  animation: none !important;
+  transition: none !important;
+}
+:root[data-motion='reduced'] :is(.big-confetti, .confetti) {
+  display: none;
+}
+:root[data-motion='reduced'] :is(.page, .detail, .level-body, .panel-body, .en-body, .fc-front, .fc-back, .flashcard, .toast) {
+  animation: fade-in var(--dur-2) ease-out !important;
+}
+:root[data-motion='reduced'] :is(.detail, .level-body, .panel-body, .en-body).is-closing,
+:root[data-motion='reduced'] .toast.is-leaving {
+  animation: fade-out var(--dur-close) ease-in forwards !important;
+}
+/* Đúng / sai vẫn có tín hiệu – chỉ là viền sáng lên, không lắc */
+:root[data-motion='reduced'] .flashcard.got-wrong {
+  animation: glow-wrong 700ms ease-out !important;
+}
+:root[data-motion='reduced'] .flashcard.got-right {
+  animation: glow-right 700ms ease-out !important;
+}
+
+/* ---------- Tắt hết ---------- */
+:root[data-motion='off'] *,
+:root[data-motion='off'] *::before,
+:root[data-motion='off'] *::after {
+  animation: none !important;
+  transition: none !important;
+}
+:root[data-motion='off'] :is(.big-confetti, .confetti) {
+  display: none;
+}

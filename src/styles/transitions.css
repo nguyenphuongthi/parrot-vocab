@@ -1,0 +1,167 @@
+/* ================= Chuyển trang, mở / đóng, phản hồi flashcard =================
+   Dùng biến trong tokens.css. Mức "giảm chuyển động" / "tắt" xử lý ở levels.css. */
+
+/* ---------- Chuyển trang: trang mới trượt vào từ phía của nó ----------
+   App.jsx gắn from-right / from-left theo vị trí trang (tab bên phải → trượt từ phải vào); không có hướng
+   (tải lần đầu) thì dùng page-in cũ trong motion.css. */
+.page.from-right {
+  animation: page-from-right var(--dur-3) var(--ease-out);
+}
+.page.from-left {
+  animation: page-from-left var(--dur-3) var(--ease-out);
+}
+@keyframes page-from-right {
+  from {
+    opacity: 0;
+    transform: translateX(40px);
+  }
+}
+@keyframes page-from-left {
+  from {
+    opacity: 0;
+    transform: translateX(-40px);
+  }
+}
+
+/* ---------- Khung chi tiết: mọc ra từ cột của ô vừa bấm, thu lại khi đóng ----------
+   --sel-x đặt trên .grid (lib/motion.js → originOf). */
+.detail {
+  transform-origin: var(--sel-x, 50%) 0;
+  animation: detail-open var(--dur-2) var(--ease-out);
+}
+@keyframes detail-open {
+  from {
+    opacity: 0;
+    transform: translateY(-6px) scale(0.94);
+  }
+}
+
+/* ---------- Đóng: khung chi tiết, khối cấp / bài, mục mở/thu, mục từ tiếng Anh ----------
+   Thời lượng = CLOSE_MS trong lib/motion.js. Chiều cao co dần về 0 trên trình duyệt hỗ trợ
+   interpolate-size (Chrome / Edge 129+); nơi khác chỉ mờ dần. */
+.detail.is-closing,
+.level-body.is-closing,
+.panel-body.is-closing,
+.en-body.is-closing {
+  interpolate-size: allow-keywords;
+  overflow: clip;
+  pointer-events: none;
+  animation: collapse var(--dur-close) var(--ease-in) forwards;
+}
+@keyframes collapse {
+  to {
+    opacity: 0;
+    height: 0;
+    padding-block: 0;
+    margin-block: 0;
+    border-block-width: 0;
+  }
+}
+/* Mở: mục nhỏ thì mở rộng dần chiều cao (khối cấp nhiều chữ vẫn dùng page-in cho nhẹ) */
+.panel-body,
+.en-body {
+  interpolate-size: allow-keywords;
+  overflow: clip;
+  animation: expand var(--dur-2) var(--ease-out);
+}
+@keyframes expand {
+  from {
+    opacity: 0;
+    height: 0;
+    padding-block: 0;
+  }
+}
+
+/* ---------- Thông báo: trượt xuống mờ dần khi tự ẩn ---------- */
+.toast.is-leaving {
+  animation: toast-out var(--toast-out) var(--ease-in) forwards;
+}
+@keyframes toast-out {
+  to {
+    opacity: 0;
+    transform: translateY(14px) scale(0.95);
+  }
+}
+
+/* ---------- Flashcard ---------- */
+/* Bản sao của thẻ vừa chấm, bay ra (lib/motion.js → flyOut) – không chạy lại hiệu ứng vào của thẻ */
+.fc-ghost,
+.fc-ghost * {
+  animation: none !important;
+  transition: none !important;
+}
+
+/* Trả lời sai: lắc nhẹ; đúng: viền xanh lan ra một lần */
+.flashcard.got-wrong {
+  animation: shake 420ms var(--ease-out);
+}
+.flashcard.got-right {
+  animation: glow-right 700ms ease-out;
+}
+@keyframes shake {
+  10%,
+  90% {
+    transform: translateX(-1px);
+  }
+  20%,
+  80% {
+    transform: translateX(3px);
+  }
+  30%,
+  50%,
+  70% {
+    transform: translateX(-6px);
+  }
+  40%,
+  60% {
+    transform: translateX(6px);
+  }
+}
+@keyframes glow-right {
+  from {
+    box-shadow:
+      0 0 0 0 color-mix(in srgb, var(--m2) 55%, transparent),
+      var(--shadow-lg);
+  }
+  to {
+    box-shadow:
+      0 0 0 18px transparent,
+      var(--shadow-lg);
+  }
+}
+@keyframes glow-wrong {
+  from {
+    box-shadow:
+      0 0 0 0 color-mix(in srgb, var(--danger) 50%, transparent),
+      var(--shadow-lg);
+  }
+  to {
+    box-shadow:
+      0 0 0 18px transparent,
+      var(--shadow-lg);
+  }
+}
+
+/* Vuốt thẻ: nhãn "Chưa thuộc" / "Đã thuộc" rõ dần theo khoảng kéo (độ mờ đặt trong Flashcards.jsx) */
+.fc-stamp {
+  position: absolute;
+  top: 38%;
+  left: 50%;
+  z-index: 3;
+  padding: 6px 14px;
+  border: 2px solid currentColor;
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--surface) 88%, transparent);
+  font-size: 20px;
+  font-weight: 700;
+  white-space: nowrap;
+  pointer-events: none;
+}
+.fc-stamp.s0 {
+  color: var(--m0);
+  transform: translateX(-50%) rotate(6deg);
+}
+.fc-stamp.s2 {
+  color: var(--m2);
+  transform: translateX(-50%) rotate(-6deg);
+}

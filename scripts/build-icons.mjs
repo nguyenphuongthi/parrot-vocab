@@ -1,11 +1,11 @@
-// Tạo icon (SVG + PNG) cho web app (public/icons) và extension (extension/icons) từ linh vật trong src/components/mascot.js.
+// Tạo icon (SVG + PNG) cho web app (public/icons) và extension (extension/icons) từ linh vật trong src/components/mascot/mascot.js.
 // Cần Chrome (dùng puppeteer-core).
 //   node scripts/build-icons.mjs
 import { existsSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import puppeteer from 'puppeteer-core';
-import { MASCOT_SVG } from '../src/components/mascot.js';
+import { MASCOT_SVG } from '../src/components/mascot/mascot.js';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DIRS = [join(root, 'public', 'icons'), join(root, 'extension', 'icons')];
