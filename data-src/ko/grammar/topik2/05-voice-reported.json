@@ -1,0 +1,112 @@
+{
+  "id": "k2-voice",
+  "name": "Bị động, sai khiến, làm giúp và câu gián tiếp",
+  "points": [
+    {
+      "id": "passive-ko",
+      "title": "Bị động: -이- / -히- / -리- / -기-",
+      "sub": "Được, bị (động từ bị động)",
+      "level": 2,
+      "form": ["-이-: 보다 → 【보이다】 · 쓰다 → 쓰이다 · 놓다 → 놓이다", "-히-: 닫다 → 【닫히다】 · 먹다 → 먹히다 · 막다 → 막히다 · 잡다 → 잡히다", "-리-: 열다 → 【열리다】 · 듣다 → 들리다 · 팔다 → 팔리다 · 걸다 → 걸리다", "-기-: 안다 → 안기다 · 끊다 → 【끊기다】 · 쫓다 → 쫓기다", "N하다 → N되다 (취소하다 → 취소되다)"],
+      "uses": [
+        {
+          "vi": "Chủ ngữ chịu tác động; người thực hiện thường không nói ra.",
+          "ex": [
+            ["창문이 【열렸어요】.", "Cửa sổ đã mở ra."],
+            ["길이 많이 【막혀요】.", "Đường tắc lắm."],
+            ["여기서 바다가 【보여요】.", "Từ đây nhìn thấy biển."],
+            ["회의가 【취소됐어요】.", "Cuộc họp đã bị huỷ."]
+          ]
+        }
+      ],
+      "practice": [
+        ["바람 때문에 문이 ___. (닫다 → bị động, quá khứ)", "닫혔어요"],
+        ["음악 소리가 ___. (듣다 → bị động)", "들려요"]
+      ]
+    },
+    {
+      "id": "ge-hada",
+      "title": "V-게 하다",
+      "sub": "Bắt / để / khiến ai làm gì (sai khiến)",
+      "level": 2,
+      "form": ["Người + 을/를 hoặc 에게 + gốc + 【게 하다】"],
+      "uses": [
+        {
+          "vi": "Làm cho người khác thực hiện hành động hoặc rơi vào trạng thái.",
+          "ex": [
+            ["엄마가 저에게 방을 청소하【게 했어요】.", "Mẹ bắt tôi dọn phòng."],
+            ["선생님이 학생들을 일찍 집에 가【게 하셨어요】.", "Thầy cho học sinh về nhà sớm."],
+            ["걱정하【게 해서】 미안해요.", "Xin lỗi vì đã làm bạn lo."]
+          ]
+        }
+      ],
+      "practice": [
+        ["의사가 저에게 술을 마시지 못하___ 했어요.", "게"]
+      ]
+    },
+    {
+      "id": "a-juda",
+      "title": "V-아 / 어 주다 · 드리다",
+      "sub": "Làm (gì) cho ai",
+      "level": 2,
+      "form": ["ㅏ, ㅗ + 【아 주다】 · khác + 【어 주다】 · cho người trên: 【-아/어 드리다】"],
+      "uses": [
+        {
+          "vi": "Làm việc gì đó vì lợi ích của người khác.",
+          "ex": [
+            ["친구가 저를 도와【줬어요】.", "Bạn đã giúp tôi."],
+            ["제가 할머니께 길을 가르쳐 【드렸어요】.", "Tôi đã chỉ đường cho bà cụ."],
+            ["가방 들어 【드릴까요】?", "Tôi xách túi giúp ông nhé?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["아버지께 편지를 써 ___. (người trên – quá khứ)", "드렸어요"]
+      ]
+    },
+    {
+      "id": "dago-hada",
+      "title": "-다고 하다",
+      "sub": "Câu gián tiếp – câu kể: (ai đó) nói rằng …",
+      "level": 2,
+      "form": ["Động từ: không patchim + 【ㄴ다고 해요】 / có patchim + 【는다고 해요】", "Tính từ, 있다/없다: + 【다고 해요】 · N + 【(이)라고 해요】", "Quá khứ: -았/었다고 해요 · Tương lai: -(으)ㄹ 거라고 해요", "Rút gọn khi nói: -대요 / -(이)래요"],
+      "uses": [
+        {
+          "vi": "Thuật lại lời người khác hoặc thông tin nghe được.",
+          "ex": [
+            ["민수 씨가 내일 바쁘【다고 했어요】.", "Minsu nói ngày mai bận."],
+            ["뉴스에서 비가 온【다고 해요】.", "Trên tin tức nói trời sẽ mưa."],
+            ["그 사람이 의사【래요】.", "Nghe nói người đó là bác sĩ."]
+          ]
+        }
+      ],
+      "practice": [
+        ["친구가 김치를 좋아한___ 했어요.", "다고"],
+        ["동생이 배가 고프___ 해요.", "다고"]
+      ],
+      "see": ["nyago-hada"]
+    },
+    {
+      "id": "nyago-hada",
+      "title": "-냐고 · -(으)라고 · -자고 하다",
+      "sub": "Câu gián tiếp – câu hỏi, mệnh lệnh, rủ rê",
+      "level": 2,
+      "form": ["Câu hỏi: gốc + 【(느)냐고 하다 / 묻다】 (văn nói: -냐고 cho mọi gốc)", "Mệnh lệnh: không patchim + 【라고】 / có patchim + 【으라고 하다】 · Phủ định: -지 말라고", "Rủ rê: gốc + 【자고 하다】 · Nhờ cho mình: -아/어 달라고 하다"],
+      "uses": [
+        {
+          "vi": "Thuật lại câu hỏi, yêu cầu và lời rủ của người khác.",
+          "ex": [
+            ["선생님이 숙제를 했【냐고】 물어보셨어요.", "Thầy hỏi tôi đã làm bài tập chưa."],
+            ["의사가 푹 쉬【라고】 했어요.", "Bác sĩ bảo tôi nghỉ ngơi cho khoẻ."],
+            ["친구가 같이 영화 보【자고】 했어요.", "Bạn rủ tôi cùng xem phim."],
+            ["동생이 돈을 빌려 【달라고】 했어요.", "Em tôi nhờ cho mượn tiền."]
+          ]
+        }
+      ],
+      "practice": [
+        ["엄마가 일찍 들어오___ 했어요. (mệnh lệnh)", "라고"],
+        ["친구가 주말에 같이 놀___ 했어요. (rủ)", "자고"]
+      ]
+    }
+  ]
+}

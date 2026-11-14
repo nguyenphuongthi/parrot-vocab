@@ -1,0 +1,120 @@
+{
+  "id": "reported",
+  "name": "Câu tường thuật",
+  "intro": "Kể lại lời người khác: thường lùi thì, đổi đại từ và từ chỉ thời gian, nơi chốn.",
+  "points": [
+    {
+      "id": "reported-statements",
+      "title": "Reported statements",
+      "sub": "Tường thuật câu kể",
+      "level": "B1",
+      "form": ["S + 【said (that)】 / 【told + người (that)】 + mệnh đề lùi thì", "Lùi thì: hiện tại → quá khứ · quá khứ / hiện tại hoàn thành → quá khứ hoàn thành · will → would · can → could", "Đổi từ: now → then · today → that day · tomorrow → the next day · here → there"],
+      "uses": [
+        {
+          "vi": "Khi động từ tường thuật ở quá khứ, lùi thì của câu được kể.",
+          "ex": [
+            ["“I'm tired.” → She 【said】 she 【was】 tired.", "“Tôi mệt.” → Cô ấy nói cô ấy mệt."],
+            ["“I'll call you tomorrow.” → He 【told me】 he 【would】 call me 【the next day】.", "“Mai anh sẽ gọi cho em.” → Anh ấy bảo sẽ gọi cho tôi vào hôm sau."],
+            ["“We've finished.” → They said they 【had finished】.", "“Chúng tôi xong rồi.” → Họ nói họ đã xong."]
+          ]
+        },
+        {
+          "vi": "Không cần lùi thì nếu điều đó vẫn còn đúng, hoặc động từ tường thuật ở hiện tại.",
+          "ex": [
+            ["She said she 【lives】 in Hanoi. (vẫn sống ở đó)", "Cô ấy nói cô ấy sống ở Hà Nội."],
+            ["He 【says】 he's busy.", "Anh ấy bảo anh ấy bận."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["She said me that she was busy.", "She told me that she was busy. / She said that she was busy.", "Tell + người; say không có người ngay sau."],
+        ["He told that he was hungry.", "He said that he was hungry.", "Tell cần tân ngữ chỉ người."]
+      ],
+      "practice": [
+        ["“I like pizza.” → He said he ___ pizza.", "liked"],
+        ["“I can't swim.” → She said she ___ swim.", "couldn't"],
+        ["My teacher ___ me that I had made progress. (said/told)", "told"]
+      ]
+    },
+    {
+      "id": "reported-questions",
+      "title": "Reported questions",
+      "sub": "Tường thuật câu hỏi",
+      "level": "B1",
+      "form": ["S + 【asked (người)】 + từ để hỏi + S + V (lùi thì, KHÔNG đảo ngữ)", "Câu hỏi có/không: asked + 【if / whether】 + S + V"],
+      "uses": [
+        {
+          "vi": "Câu hỏi tường thuật có thứ tự của câu khẳng định, không có dấu hỏi, không dùng do / did.",
+          "ex": [
+            ["“Where do you work?” → She 【asked me where I worked】.", "“Bạn làm ở đâu?” → Cô ấy hỏi tôi làm ở đâu."],
+            ["“Are you coming?” → He asked 【if I was coming】.", "“Bạn có đến không?” → Anh ấy hỏi tôi có đến không."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["He asked me where did I live.", "He asked me where I lived.", "Không đảo ngữ, không dùng did."]
+      ],
+      "practice": [
+        ["“What time is it?” → She asked what time it ___.", "was"],
+        ["“Do you like jazz?” → He asked me ___ I liked jazz.", "if/whether"]
+      ]
+    },
+    {
+      "id": "reported-commands",
+      "title": "Reported commands & requests",
+      "sub": "Tường thuật mệnh lệnh, lời nhờ",
+      "level": "B1",
+      "form": ["S + 【told / asked】 + người + 【(not) to V】"],
+      "uses": [
+        {
+          "vi": "Mệnh lệnh dùng told, lời nhờ dùng asked; phủ định đặt not trước to.",
+          "ex": [
+            ["“Sit down.” → The teacher 【told us to sit】 down.", "“Ngồi xuống.” → Cô giáo bảo chúng tôi ngồi xuống."],
+            ["“Please help me.” → She 【asked me to help】 her.", "“Giúp tôi với.” → Cô ấy nhờ tôi giúp."],
+            ["“Don't be late.” → Mum told me 【not to be】 late.", "“Đừng về muộn.” → Mẹ dặn tôi đừng về muộn."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["He told me don't go.", "He told me not to go.", "Phủ định: not to + V."]
+      ],
+      "practice": [
+        ["“Close the door, please.” → He asked me ___ close the door.", "to"],
+        ["“Don't touch it!” → She told the kids ___ to touch it.", "not"]
+      ]
+    },
+    {
+      "id": "reporting-verbs",
+      "title": "Reporting verbs: suggest, advise, deny…",
+      "sub": "Động từ tường thuật và cấu trúc đi kèm",
+      "level": "B2",
+      "form": ["+ to V: 【agree, offer, promise, refuse, threaten】", "+ người + to V: 【advise, remind, warn, persuade, encourage, invite】", "+ V-ing: 【admit, deny, suggest, recommend】 · + giới từ + V-ing: 【apologise for, accuse sb of, insist on】"],
+      "uses": [
+        {
+          "vi": "Thay vì lặp said / told, dùng động từ thể hiện ý định của người nói – câu gọn và chính xác hơn.",
+          "ex": [
+            ["He 【promised to】 call me.", "Anh ấy hứa sẽ gọi cho tôi."],
+            ["The doctor 【advised me to】 rest.", "Bác sĩ khuyên tôi nghỉ ngơi."],
+            ["She 【denied taking】 the money.", "Cô ấy chối không lấy tiền."],
+            ["He 【apologised for being】 late.", "Anh ấy xin lỗi vì đến muộn."]
+          ]
+        },
+        {
+          "vi": "Suggest có hai cấu trúc: suggest + V-ing, hoặc suggest (that) + S + (should) V. Không dùng suggest + người + to V.",
+          "ex": [
+            ["She 【suggested going】 to the beach. / She 【suggested (that) we go】 to the beach.", "Cô ấy gợi ý đi biển."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["He suggested me to see a doctor.", "He suggested (that) I see a doctor. / He advised me to see a doctor.", "Suggest không đi với người + to V."]
+      ],
+      "practice": [
+        ["She refused ___ (answer) my question.", "to answer"],
+        ["He admitted ___ (break) the vase.", "breaking"],
+        ["They accused him ___ lying.", "of"]
+      ],
+      "see": ["subjunctive"]
+    }
+  ]
+}

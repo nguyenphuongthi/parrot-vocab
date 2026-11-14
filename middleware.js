@@ -1,11 +1,11 @@
-// Vercel Routing Middleware: chỉ cho tải nội dung bài học (/data/*) khi đã đăng nhập.
+// Vercel Routing Middleware: chỉ cho tải nội dung bài học (/data/*) và gọi API tra từ (/api/*) khi đã đăng nhập.
 // Trình duyệt gửi access token của phiên Supabase trong cookie (src/lib/supabase.js đặt cookie này);
 // middleware hỏi Supabase Auth xem token còn hợp lệ không. Giao diện (index.html, assets/) vẫn tải được
 // để hiện trang đăng nhập, nhưng không chứa dữ liệu bài học.
 import { next } from '@vercel/functions';
 import { ACCESS_COOKIE, SUPABASE_ANON_KEY, SUPABASE_URL } from './supabase.config.js';
 
-export const config = { matcher: '/data/:path*' };
+export const config = { matcher: ['/data/:path*', '/api/:path*'] };
 
 const verified = new Map(); // token -> hết hạn lúc (ms); giữ trong bộ nhớ của instance để đỡ gọi lại
 const CACHE_MS = 5 * 60_000;

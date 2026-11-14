@@ -3,7 +3,7 @@ import LevelSection from './LevelSection.jsx';
 import { fold } from '../../lib/text.js';
 import { loadIndex, loadLevel } from './data.js';
 import { UNAUTHORIZED } from '../../lib/supabase.js';
-import { usePersisted } from '../../lib/usePersisted.js';
+import { usePersisted } from '../../hooks/usePersisted.js';
 
 export default function ZhVocab({ onUnauthorized }) {
   const [index, setIndex] = useState(null);

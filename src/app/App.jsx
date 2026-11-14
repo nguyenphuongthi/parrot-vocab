@@ -1,9 +1,9 @@
 import { lazy, Suspense, useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import Login from './Login.jsx';
+import Login from '../features/auth/Login.jsx';
 import { supabase, setAccessCookie } from '../lib/supabase.js';
 import { clearLocal, loadLocal, startSync, syncNow, useSyncStatus, useTable } from '../lib/store.js';
 import { isDue } from '../lib/srs.js';
-import { LANGS } from '../lib/langs.js';
+import { LANGS, isGrammarKey } from '../lib/langs.js';
 import { useSettings } from '../lib/settings.js';
 import { Loader } from '../components/mascot/Logo.jsx';
 import Scenery from '../components/scene/Scenery.jsx';
@@ -19,11 +19,18 @@ const GrammarView = lazy(() => import('../features/zh/GrammarView.jsx'));
 const KoAlphabet = lazy(() => import('../features/ko/KoAlphabet.jsx'));
 const KoWords = lazy(() => import('../features/ko/KoWords.jsx'));
 const KoPhrases = lazy(() => import('../features/ko/KoPhrases.jsx'));
+const GrammarBook = lazy(() => import('../features/grammar/GrammarBook.jsx'));
 const Flashcards = lazy(() => import('../features/review/Flashcards.jsx'));
 const StatsView = lazy(() => import('../features/stats/StatsView.jsx'));
 const SettingsView = lazy(() => import('../features/settings/SettingsView.jsx'));
 
 const LAST_ROUTE = 'languages.route';
+
+// Nguồn tham khảo ghi ở chân trang ngữ pháp
+const EN_GRAMMAR_FOOTER =
+  'Phạm vi và cấp độ CEFR tham khảo English Grammar Profile (Cambridge University Press & Assessment) và British Council LearnEnglish. Giải thích, ví dụ và bài tập được soạn riêng.';
+const KO_GRAMMAR_FOOTER =
+  'Phạm vi theo ngữ pháp sơ cấp của TOPIK I, tham khảo danh mục ngữ pháp giáo dục tiếng Hàn của Viện Quốc ngữ Quốc gia (국립국어원) và giáo trình 세종한국어. Giải thích, ví dụ và bài tập được soạn riêng.';
 
 // Đường dẫn: #/en/words, #/zh/grammar4, #/ko/alphabet, #/stats, #/settings …
 function parseRoute(hash) {
@@ -88,9 +95,10 @@ const go = (hash) => {
 // Số thẻ cần ôn hôm nay của từng ngôn ngữ (huy hiệu trên tab Flashcard)
 // Tiến độ cho khung cảnh: số từ đã thuộc (cây lớn dần) và hàm chọn một từ đang học (chú vẹt nói)
 function wordOfItem(key) {
+  if (isGrammarKey(key)) return null;
   if (key.startsWith('zh:')) {
     const id = key.slice(3);
-    return id.startsWith('g') ? null : { text: id.slice(id.indexOf('-') + 1), lang: 'zh' };
+    return { text: id.slice(id.indexOf('-') + 1), lang: 'zh' };
   }
   // "ko:w:일(1)" → "일" (bỏ phần phân biệt từ đồng âm)
   if (key.startsWith('ko:')) return { text: key.slice(5).replace(/\(.*\)$/, ''), lang: 'ko' };
@@ -103,7 +111,7 @@ function useLearning(currentLang) {
   const mastered = useMemo(() => {
     let n = 0;
     for (const w of Object.values(words)) if (w.mark === 2) n++;
-    for (const [k, v] of Object.entries(items)) if (v?.mark === 2 && !k.startsWith('zh:g')) n++;
+    for (const [k, v] of Object.entries(items)) if (v?.mark === 2 && !isGrammarKey(k)) n++;
     return n;
   }, [words, items]);
   const pickWord = useCallback(() => {
@@ -128,7 +136,7 @@ function useDueCounts() {
     const out = { en: 0, zh: 0, ko: 0 };
     for (const w of Object.values(words)) if (isDue(w)) out.en++;
     for (const [k, v] of Object.entries(items)) {
-      if (k.startsWith('zh:g')) continue; // điểm ngữ pháp không có trong flashcard
+      if (isGrammarKey(k)) continue; // điểm ngữ pháp không có trong flashcard
       if (isDue(v)) out[k.slice(0, 2)]++;
     }
     return out;
@@ -177,13 +185,44 @@ function Shell({ onLogout, onUnauthorized }) {
   if (route.page === 'stats') page = <StatsView />;
   else if (route.page === 'settings') page = <SettingsView onLogout={onLogout} />;
   else if (route.tab === 'review') page = <Flashcards key={lang} lang={lang} />;
-  else if (lang === 'en') page = <EnglishWords />;
+  else if (lang === 'en') {
+    page =
+      route.tab === 'grammar' ? (
+        <GrammarBook
+          key="en"
+          lang="en"
+          path="/data/en/grammar.json"
+          storageKey="en.grammar"
+          onUnauthorized={onUnauthorized}
+          footer={EN_GRAMMAR_FOOTER}
+        />
+      ) : (
+        <EnglishWords onUnauthorized={onUnauthorized} />
+      );
+  }
   else if (lang === 'zh') {
     page =
       route.tab === 'vocab' ? <ZhVocab onUnauthorized={onUnauthorized} />
       : <GrammarView key={route.tab} level={route.tab === 'grammar4' ? 4 : 5} onUnauthorized={onUnauthorized} />;
   } else {
-    page = route.tab === 'alphabet' ? <KoAlphabet /> : route.tab === 'words' ? <KoWords /> : <KoPhrases />;
+    const topik = { grammar1: 1, grammar2: 2 }[route.tab];
+    page =
+      topik ? (
+        <GrammarBook
+          key={route.tab}
+          lang="ko"
+          path={`/data/ko/grammar${topik}.json`}
+          storageKey={`ko.grammar${topik}`}
+          onUnauthorized={onUnauthorized}
+          footer={KO_GRAMMAR_FOOTER}
+        />
+      ) : route.tab === 'alphabet' ? (
+        <KoAlphabet />
+      ) : route.tab === 'words' ? (
+        <KoWords onUnauthorized={onUnauthorized} />
+      ) : (
+        <KoPhrases onUnauthorized={onUnauthorized} />
+      );
   }
 
   return (

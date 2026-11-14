@@ -1,9 +1,17 @@
-// Flashcard trên bản web (Chrome headless, màn hình điện thoại cảm ứng): tự đọc mỗi thẻ mới, vuốt để chấm,
+// Flashcard trong trang Kho từ của extension (Chrome headless, màn hình điện thoại cảm ứng): tự đọc mỗi thẻ mới, vuốt để chấm,
 // mục tiêu ngày, nguồn "Từ mới 7 ngày qua" / "Từ hay quên", tổng kết cuối lượt, trắc nghiệm 4 đáp án.
 const { test } = require('node:test');
 const assert = require('node:assert/strict');
-const { chromePath, launch, startStaticServer } = require('./helpers/browser');
+const { chromePath, launch, pageShim, startStaticServer } = require('./helpers/browser');
 const { createFakeSupabase } = require('./helpers/fake-supabase');
+
+// Đăng nhập đồng bộ như khi bấm "Đăng nhập & đồng bộ" trong Cài đặt (gửi thẳng message, không qua form mật khẩu
+// – Chrome headless hiện hộp lưu mật khẩu sau khi submit và nuốt các thao tác tiếp theo).
+const signIn = (page, sb, email, password = 'pw') =>
+  page.evaluate(
+    (msg) => chrome.runtime.sendMessage(msg),
+    { type: 'syncSignIn', url: sb.url, anonKey: sb.anonKey, email, password }
+  );
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const DAY = 24 * 60 * 60 * 1000;
@@ -25,6 +33,7 @@ test('flashcard: tự đọc, vuốt để chấm, mục tiêu ngày, tổng k�
   const errors = [];
   page.on('pageerror', (e) => errors.push(e.message));
   page.on('console', (m) => m.type() === 'error' && !/favicon|Failed to load resource/.test(m.text()) && errors.push(m.text()));
+  await page.evaluateOnNewDocument(pageShim());
   await page.evaluateOnNewDocument(() => {
     window.__csp = [];
     document.addEventListener('securitypolicyviolation', (e) => window.__csp.push(`${e.violatedDirective} ${e.blockedURI}`));
@@ -65,9 +74,7 @@ test('flashcard: tự đọc, vuốt để chấm, mục tiêu ngày, tổng k�
 
   try {
     await page.goto(origin + '/', { waitUntil: 'networkidle0' });
-    await page.type('#gate-form [name=email]', email);
-    await page.type('#gate-form [name=password]', 'pw');
-    await page.click('#gate-form button');
+    assert.equal((await signIn(page, sb, email)).ok, true);
     await page.waitForFunction(() => document.querySelectorAll('.item').length === 4);
 
     await page.click('[data-tab="cards"]');
@@ -156,17 +163,6 @@ test('flashcard: tự đọc, vuốt để chấm, mục tiêu ngày, tổng k�
     await page.click('#settings-form button[type=submit]');
     await page.waitForFunction(() => settings.dailyGoal === 5);
     assert.match(await text('#tab-cards .goal'), /Hôm nay 5\/5 thẻ · ✓ đạt mục tiêu.*🔥 1 ngày liên tiếp/);
-
-    // Tải lại trang ngay ở tab Flashcard: trình duyệt chưa cho phát âm → đọc ở lần chạm đầu tiên
-    await page.evaluate(() => (location.hash = 'cards'));
-    await page.reload({ waitUntil: 'networkidle0' });
-    await page.waitForFunction(() => document.querySelectorAll('.choice').length === 4);
-    await sleep(300);
-    assert.deepEqual(await spoken(), [], 'chưa có thao tác nào: chưa đọc');
-    const word4 = await currentWord();
-    await page.mouse.click(5, 5);
-    await page.waitForFunction(() => window.__spoken.length === 1);
-    assert.deepEqual(await spoken(), [`${word4}|en-US`]);
 
     await sleep(300);
     assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth), 'không cuộn ngang trang điện thoại');

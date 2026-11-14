@@ -1,0 +1,139 @@
+{
+  "id": "prepositions",
+  "name": "Giới từ",
+  "intro": "Giới từ tiếng Anh ít khi dịch một – một sang tiếng Việt; hãy học theo cụm.",
+  "points": [
+    {
+      "id": "prep-time",
+      "title": "In / on / at (time)",
+      "sub": "Giới từ chỉ thời gian",
+      "level": "A1",
+      "form": ["【at】 + giờ, thời điểm: at 7 o'clock, at night, at the weekend (Anh–Anh), at Christmas", "【on】 + ngày, thứ: on Monday, on 2 September, on my birthday", "【in】 + tháng, năm, mùa, buổi: in May, in 2025, in summer, in the morning"],
+      "uses": [
+        {
+          "vi": "Đi từ nhỏ đến lớn: at (điểm) → on (ngày) → in (khoảng dài).",
+          "ex": [
+            ["The meeting starts 【at】 9:30.", "Cuộc họp bắt đầu lúc 9 giờ 30."],
+            ["I was born 【on】 15 March 2003.", "Tôi sinh ngày 15 tháng 3 năm 2003."],
+            ["We usually travel 【in】 August.", "Chúng tôi thường đi du lịch vào tháng Tám."]
+          ]
+        }
+      ],
+      "notes": ["Không dùng giới từ trước this, next, last, every, tomorrow, yesterday: I'll see you next week."],
+      "mistakes": [
+        ["See you on next Monday.", "See you next Monday.", "Không dùng on trước next."],
+        ["in Sunday morning", "on Sunday morning", "Buổi của một ngày cụ thể dùng on."]
+      ],
+      "practice": [
+        ["My birthday is ___ June.", "in"],
+        ["The shop closes ___ 10 pm.", "at"],
+        ["What did you do ___ Saturday?", "on"]
+      ]
+    },
+    {
+      "id": "prep-place",
+      "title": "In / on / at (place)",
+      "sub": "Giới từ chỉ nơi chốn",
+      "level": "A1",
+      "form": ["【in】: bên trong không gian (in the room, in Vietnam, in the car)", "【on】: trên bề mặt, đường, tầng (on the table, on the wall, on Le Loi Street, on the second floor, on the bus)", "【at】: một điểm, địa chỉ, sự kiện (at the door, at 25 Hang Bai, at school, at a party)"],
+      "uses": [
+        {
+          "vi": "Chọn giới từ theo cách người nói hình dung vị trí.",
+          "ex": [
+            ["Your keys are 【on】 the table.", "Chìa khoá của bạn ở trên bàn."],
+            ["She lives 【in】 Da Nang, 【on】 Bach Dang Street.", "Cô ấy sống ở Đà Nẵng, trên đường Bạch Đằng."],
+            ["I'll meet you 【at】 the station.", "Tôi sẽ gặp bạn ở nhà ga."]
+          ]
+        }
+      ],
+      "notes": ["in a car / in a taxi nhưng on a bus / on a train / on a plane."],
+      "practice": [
+        ["There's a picture ___ the wall.", "on"],
+        ["I'm waiting ___ the bus stop.", "at"],
+        ["They live ___ a small village.", "in"]
+      ]
+    },
+    {
+      "id": "prep-movement",
+      "title": "Prepositions of movement",
+      "sub": "Giới từ chỉ sự chuyển động: into, out of, across, through…",
+      "level": "A2",
+      "form": ["to · into · out of · onto · off · across · along · through · past · over · under · up · down · towards · round"],
+      "uses": [
+        {
+          "vi": "Mô tả hướng di chuyển, hay dùng khi chỉ đường.",
+          "ex": [
+            ["Go 【along】 this street and turn left.", "Đi dọc con phố này rồi rẽ trái."],
+            ["Walk 【across】 the bridge and 【past】 the market.", "Đi qua cầu rồi đi qua chợ."],
+            ["The cat jumped 【onto】 the sofa.", "Con mèo nhảy lên ghế sofa."],
+            ["We drove 【through】 a long tunnel.", "Chúng tôi lái xe qua một đường hầm dài."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I went to home.", "I went home.", "Home, there, here không dùng to."]
+      ],
+      "practice": [
+        ["She got ___ the taxi and paid the driver. (ra khỏi)", "out of"]
+      ]
+    },
+    {
+      "id": "prep-for-during",
+      "title": "For / during / while · by / until",
+      "sub": "Trong bao lâu, trong suốt, trong khi · trước / cho đến khi",
+      "level": "B1",
+      "form": ["【for】 + khoảng thời gian (for two hours) · 【during】 + danh từ (during the film) · 【while】 + mệnh đề", "【by】 = không muộn hơn (hạn chót) · 【until】 = kéo dài cho tới lúc"],
+      "uses": [
+        {
+          "vi": "Phân biệt các từ chỉ khoảng thời gian.",
+          "ex": [
+            ["I slept 【for】 ten hours.", "Tôi ngủ mười tiếng."],
+            ["He fell asleep 【during】 the meeting.", "Anh ấy ngủ gật trong cuộc họp."],
+            ["She called 【while】 I was out.", "Cô ấy gọi khi tôi đi vắng."]
+          ]
+        },
+        {
+          "vi": "By là hạn chót, until là kéo dài liên tục.",
+          "ex": [
+            ["Please send it 【by】 Friday.", "Vui lòng gửi trước (hoặc vào) thứ Sáu."],
+            ["I'll wait 【until】 6 o'clock.", "Tôi sẽ đợi đến 6 giờ."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I lived there during three years.", "I lived there for three years.", "Khoảng thời gian dùng for."]
+      ],
+      "practice": [
+        ["You must finish the report ___ Monday. (hạn chót)", "by"],
+        ["It rained ___ the whole night. (trong suốt)", "during/all through"]
+      ]
+    },
+    {
+      "id": "dependent-prepositions",
+      "title": "Adjective / verb + preposition",
+      "sub": "Tính từ và động từ đi với giới từ cố định",
+      "level": "B1",
+      "form": ["Tính từ: good 【at】 · interested 【in】 · afraid 【of】 · proud 【of】 · different 【from】 · responsible 【for】 · married 【to】 · keen 【on】", "Động từ: depend 【on】 · listen 【to】 · wait 【for】 · belong 【to】 · apply 【for】 · agree 【with】 sb · worry 【about】"],
+      "uses": [
+        {
+          "vi": "Những cụm này phải học thuộc; sau giới từ là danh từ hoặc V-ing.",
+          "ex": [
+            ["She's very good 【at】 maths.", "Cô ấy rất giỏi toán."],
+            ["I'm afraid 【of】 flying.", "Tôi sợ đi máy bay."],
+            ["It depends 【on】 the weather.", "Còn tuỳ thời tiết."],
+            ["Are you waiting 【for】 someone?", "Bạn đang đợi ai à?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I'm interested about history.", "I'm interested in history.", "Interested in."],
+        ["Listen me!", "Listen to me!", "Listen cần to."]
+      ],
+      "practice": [
+        ["Who is responsible ___ this project?", "for"],
+        ["My opinion is different ___ yours.", "from"],
+        ["I agree ___ you.", "with"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": "linking",
+  "name": "Liên từ và từ nối",
+  "intro": "Nối ý trong câu và giữa các câu: thêm ý, đối lập, nguyên nhân, kết quả, mục đích.",
+  "points": [
+    {
+      "id": "and-but-so-because",
+      "title": "And / but / or / so / because",
+      "sub": "Liên từ cơ bản",
+      "level": "A1",
+      "form": ["【and】 thêm ý · 【but】 đối lập · 【or】 lựa chọn · 【so】 kết quả · 【because】 nguyên nhân"],
+      "uses": [
+        {
+          "vi": "Nối hai mệnh đề hoặc hai từ cùng loại.",
+          "ex": [
+            ["I like tea 【but】 my wife likes coffee.", "Tôi thích trà còn vợ tôi thích cà phê."],
+            ["It was raining, 【so】 we stayed home.", "Trời mưa nên chúng tôi ở nhà."],
+            ["I was late 【because】 the traffic was terrible.", "Tôi đến muộn vì tắc đường kinh khủng."],
+            ["Do you want rice 【or】 noodles?", "Bạn muốn ăn cơm hay mì?"]
+          ]
+        }
+      ],
+      "notes": ["Because of + danh từ: because of the rain."],
+      "mistakes": [
+        ["Because it rained, so we stayed home.", "Because it rained, we stayed home. / It rained, so we stayed home.", "Không dùng because và so trong cùng một câu (tiếng Việt “vì… nên…”)."],
+        ["Although it was cold, but we went out.", "Although it was cold, we went out.", "Không dùng although và but cùng lúc."]
+      ],
+      "practice": [
+        ["I was tired, ___ I went to bed early.", "so"],
+        ["We couldn't play ___ of the rain.", "because"]
+      ]
+    },
+    {
+      "id": "although-despite",
+      "title": "Although / even though / despite / in spite of",
+      "sub": "Mặc dù",
+      "level": "B1",
+      "form": ["【although / even though / though】 + mệnh đề (S + V)", "【despite / in spite of】 + danh từ / V-ing / the fact that + mệnh đề"],
+      "uses": [
+        {
+          "vi": "Hai cấu trúc khác nhau: although + câu, despite + danh từ / V-ing. Even though nhấn mạnh hơn.",
+          "ex": [
+            ["【Although】 it was late, we kept working.", "Mặc dù đã muộn, chúng tôi vẫn làm tiếp."],
+            ["【Despite】 the rain, the match continued.", "Bất chấp trời mưa, trận đấu vẫn tiếp tục."],
+            ["【In spite of】 feeling ill, she went to work.", "Dù cảm thấy ốm, cô ấy vẫn đi làm."],
+            ["He bought it, 【even though】 he didn't need it.", "Anh ấy vẫn mua dù không cần."]
+          ]
+        }
+      ],
+      "notes": ["Though đứng cuối câu khi nói = tuy vậy: It's expensive. It's really good, though."],
+      "mistakes": [
+        ["Despite it was cold, …", "Although it was cold, … / Despite the cold, …", "Despite không đi với mệnh đề."],
+        ["In spite the weather…", "In spite of the weather…", "Phải có of."]
+      ],
+      "practice": [
+        ["___ the traffic, we arrived on time. (despite/although)", "Despite"],
+        ["___ she's rich, she isn't happy. (despite/although)", "Although/Even though/Though"]
+      ]
+    },
+    {
+      "id": "however-therefore",
+      "title": "However / nevertheless / therefore / as a result",
+      "sub": "Từ nối giữa các câu (văn viết)",
+      "level": "B1",
+      "form": ["Đối lập: 【However, / Nevertheless, / On the other hand,】", "Kết quả: 【Therefore, / As a result, / Consequently,】", "Vị trí: đầu câu (có dấu phẩy) hoặc giữa câu"],
+      "uses": [
+        {
+          "vi": "Nối hai câu riêng biệt, thường dùng trong bài viết, email trang trọng.",
+          "ex": [
+            ["The hotel was expensive. 【However】, the service was excellent.", "Khách sạn đắt. Tuy nhiên, dịch vụ rất tuyệt."],
+            ["He didn't study. 【As a result】, he failed the exam.", "Anh ấy không học. Kết quả là trượt kỳ thi."],
+            ["Prices have risen; 【therefore】, demand has fallen.", "Giá đã tăng; do đó nhu cầu đã giảm."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["However it was cheap, I didn't buy it.", "Although it was cheap, I didn't buy it.", "However không nối hai mệnh đề trong cùng câu như although."]
+      ],
+      "practice": [
+        ["The plan sounds good. ___, it's too expensive. (Tuy nhiên)", "However/Nevertheless"]
+      ]
+    },
+    {
+      "id": "adding-ideas",
+      "title": "Also / as well as / moreover / in addition",
+      "sub": "Thêm ý: cũng, ngoài ra",
+      "level": "B1",
+      "form": ["【also】 (trước động từ thường, sau to be) · 【too / as well】 (cuối câu)", "【as well as / besides / in addition to】 + danh từ / V-ing", "【Moreover, / Furthermore, / In addition,】 đầu câu (trang trọng)"],
+      "uses": [
+        {
+          "vi": "Bổ sung thông tin, mức độ trang trọng khác nhau.",
+          "ex": [
+            ["She 【also】 speaks French.", "Cô ấy cũng nói tiếng Pháp."],
+            ["I like jazz 【too】.", "Tôi cũng thích nhạc jazz."],
+            ["【As well as】 teaching, he writes books.", "Ngoài dạy học, anh ấy còn viết sách."],
+            ["The flat is small. 【Moreover】, it's very noisy.", "Căn hộ nhỏ. Hơn nữa, lại rất ồn."]
+          ]
+        }
+      ],
+      "practice": [
+        ["Besides ___ (play) the piano, she sings.", "playing"]
+      ]
+    },
+    {
+      "id": "purpose-so-that",
+      "title": "So that / in order that",
+      "sub": "Để mà (mục đích có chủ ngữ)",
+      "level": "B1",
+      "form": ["… 【so that】 + S + can / could / will / would + V"],
+      "uses": [
+        {
+          "vi": "Dùng khi phần mục đích có chủ ngữ riêng hoặc có động từ khuyết thiếu.",
+          "ex": [
+            ["I'll leave the key 【so that】 you can get in.", "Tôi sẽ để lại chìa khoá để bạn vào được."],
+            ["She spoke slowly 【so that】 everyone could understand.", "Cô ấy nói chậm để mọi người hiểu được."]
+          ]
+        }
+      ],
+      "practice": [
+        ["Turn down the music so ___ the baby can sleep.", "that"]
+      ],
+      "see": ["infinitive-purpose"]
+    },
+    {
+      "id": "while-whereas",
+      "title": "While / whereas",
+      "sub": "Trong khi (đối chiếu hai điều)",
+      "level": "B2",
+      "form": ["Mệnh đề 1 + 【whereas / while】 + mệnh đề 2"],
+      "uses": [
+        {
+          "vi": "So sánh hai sự thật trái ngược nhau.",
+          "ex": [
+            ["My sister loves sport, 【whereas】 I prefer reading.", "Chị tôi mê thể thao, còn tôi thích đọc sách hơn."],
+            ["【While】 the north has four seasons, the south has only two.", "Trong khi miền Bắc có bốn mùa, miền Nam chỉ có hai."]
+          ]
+        }
+      ],
+      "practice": [
+        ["Some people like summer, ___ others prefer winter. (đối chiếu)", "whereas/while"]
+      ]
+    },
+    {
+      "id": "as-since-reason",
+      "title": "As / since / due to / owing to",
+      "sub": "Bởi vì (trang trọng hơn because)",
+      "level": "B2",
+      "form": ["【as / since】 + mệnh đề (thường đầu câu)", "【due to / owing to / because of】 + danh từ"],
+      "uses": [
+        {
+          "vi": "As / since nêu lý do mà người nghe có thể đã biết; due to thường gặp trong thông báo.",
+          "ex": [
+            ["【As】 it's your birthday, I'll pay.", "Vì hôm nay sinh nhật bạn nên tôi trả tiền."],
+            ["【Since】 you're here, can you help me?", "Bạn đã ở đây rồi thì giúp tôi nhé?"],
+            ["The flight was delayed 【due to】 bad weather.", "Chuyến bay bị hoãn do thời tiết xấu."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Due to it was raining…", "Due to the rain… / As it was raining…", "Due to đi với danh từ."]
+      ],
+      "practice": [
+        ["The match was cancelled ___ to the storm.", "due/owing"]
+      ]
+    },
+    {
+      "id": "advanced-concession",
+      "title": "Much as / adjective + as + S + be / may",
+      "sub": "Nhượng bộ nâng cao: dù … đến mấy",
+      "level": "C1",
+      "form": ["【Much as】 + S + V (= dù rất…)", "Tính từ / trạng từ + 【as / though】 + S + V", "S + 【may】 + V, but … (thừa nhận rồi phản bác)"],
+      "uses": [
+        {
+          "vi": "Cách nói “mặc dù” trang trọng, giàu sắc thái trong văn viết.",
+          "ex": [
+            ["【Much as】 I like him, I can't lend him any more money.", "Dù quý anh ấy đến mấy, tôi không thể cho anh ấy vay thêm tiền."],
+            ["【Strange as it may seem】, I've never seen the sea.", "Nghe có vẻ lạ, nhưng tôi chưa từng thấy biển."],
+            ["He 【may】 be rich, 【but】 he isn't happy.", "Anh ta có thể giàu thật, nhưng không hạnh phúc."]
+          ]
+        }
+      ],
+      "practice": [
+        ["Tired ___ she was, she kept working.", "as/though"],
+        ["___ as I'd love to come, I'm too busy.", "Much"]
+      ]
+    },
+    {
+      "id": "hence-thus",
+      "title": "Thus / hence / consequently / whereas",
+      "sub": "Từ nối học thuật chỉ kết quả",
+      "level": "C1",
+      "form": ["【Thus,】 / 【Consequently,】 + mệnh đề", "【hence】 + danh từ / cụm từ (= vì thế mà có…)"],
+      "uses": [
+        {
+          "vi": "Dùng trong bài luận, báo cáo để nêu hệ quả một cách ngắn gọn.",
+          "ex": [
+            ["The data was incomplete; 【thus】, no clear conclusion could be drawn.", "Dữ liệu không đầy đủ; do đó không thể rút ra kết luận rõ ràng."],
+            ["The product is handmade, 【hence】 the high price.", "Sản phẩm làm thủ công, vì thế giá cao."]
+          ]
+        }
+      ],
+      "practice": [
+        ["The roads were icy, ___ the delay. (vì thế mà có)", "hence"]
+      ]
+    }
+  ]
+}

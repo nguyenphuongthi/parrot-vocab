@@ -1,0 +1,267 @@
+{
+  "id": "spoken",
+  "name": "Ngữ pháp giao tiếp",
+  "intro": "Những mẫu câu người bản xứ dùng hằng ngày khi nói: nhờ vả lịch sự, gợi ý, đồng ý, làm mềm câu, rút gọn và các từ đệm. Sách giáo khoa ít dạy nhưng rất cần để nói tự nhiên.",
+  "points": [
+    {
+      "id": "polite-requests",
+      "title": "Polite requests: Could you…? Would you mind…?",
+      "sub": "Nhờ vả lịch sự",
+      "level": "A2",
+      "form": ["Can / Could / Would you + V…?", "Would you mind + 【V-ing】…? · Do you mind if I + V…?", "Rất lịch sự: I was wondering if you could + V…"],
+      "uses": [
+        {
+          "vi": "Càng dài và gián tiếp càng lịch sự. Với người lạ, sếp, khách hàng nên dùng could / would you mind thay vì mệnh lệnh.",
+          "ex": [
+            ["【Could you】 send me the file, please?", "Bạn gửi giúp mình file được không?"],
+            ["【Would you mind】 clos【ing】 the window?", "Bạn có phiền đóng giúp cửa sổ không?"],
+            ["【I was wondering if you could】 help me with my CV.", "Không biết anh có thể giúp em xem CV được không ạ."]
+          ]
+        },
+        {
+          "vi": "Trả lời Would you mind…? : đồng ý thì nói No, not at all / Of course not (= không phiền gì).",
+          "ex": [
+            ["Would you mind waiting a moment? — 【No, not at all】.", "Phiền bạn đợi một chút nhé? — Không sao đâu."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Would you mind to help me?", "Would you mind helping me?", "Mind + V-ing."],
+        ["Would you mind…? — Yes, sure! (ý: đồng ý)", "No, not at all.", "Yes nghĩa là có phiền."]
+      ],
+      "practice": [
+        ["Would you mind ___ (turn) the music down?", "turning"],
+        ["I was wondering ___ you could give me a lift.", "if"]
+      ],
+      "see": ["permission-requests"]
+    },
+    {
+      "id": "offers-suggestions",
+      "title": "Offers & suggestions",
+      "sub": "Đề nghị giúp đỡ và gợi ý: Shall I…? Why don't we…?",
+      "level": "A2",
+      "form": ["Đề nghị giúp: 【Shall I / Should I / Do you want me to / I'll】 + V", "Gợi ý: 【Let's】 + V · 【Why don't we / you】 + V? · 【How about / What about】 + V-ing? · 【Shall we】 + V?"],
+      "uses": [
+        {
+          "vi": "Đề nghị giúp đỡ người khác.",
+          "ex": [
+            ["【Shall I】 carry that for you?", "Để tôi xách giúp nhé?"],
+            ["【Do you want me to】 pick you up?", "Bạn có muốn tôi qua đón không?"]
+          ]
+        },
+        {
+          "vi": "Gợi ý cùng làm hoặc khuyên người khác.",
+          "ex": [
+            ["【Why don't we】 order pizza?", "Hay mình gọi pizza đi?"],
+            ["【How about】 going to the beach this weekend?", "Cuối tuần này đi biển thì sao?"],
+            ["【Shall we】 start?", "Chúng ta bắt đầu nhé?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["How about go to the cinema?", "How about going to the cinema?", "How about + V-ing."],
+        ["Why don't we to eat out?", "Why don't we eat out?", "Why don't we + V nguyên mẫu."]
+      ],
+      "practice": [
+        ["What about ___ (have) lunch together?", "having"],
+        ["___ I open the window? It's hot in here. (đề nghị giúp)", "Shall/Should"]
+      ]
+    },
+    {
+      "id": "short-answers-reply",
+      "title": "Reply questions & echo responses",
+      "sub": "Đáp lại để thể hiện quan tâm: Oh, did you? Really? Have you?",
+      "level": "B1",
+      "form": ["Câu hỏi đáp lại: 【trợ động từ + đại từ】? (khớp với câu người kia)"],
+      "uses": [
+        {
+          "vi": "Người nghe dùng câu hỏi ngắn để tỏ ra quan tâm, ngạc nhiên – không thật sự hỏi. Giúp hội thoại tự nhiên hơn chỉ nói “Really?”.",
+          "ex": [
+            ["I went to Japan last month. — 【Did you】? How was it?", "Tháng trước tôi đi Nhật. — Vậy à? Thế nào?"],
+            ["I've just got engaged! — 【Have you】? Congratulations!", "Tôi vừa đính hôn! — Thật á? Chúc mừng nhé!"],
+            ["She can't come. — Oh, 【can't she】? What a shame.", "Cô ấy không đến được. — Ồ, vậy à? Tiếc thế."]
+          ]
+        }
+      ],
+      "practice": [
+        ["I'm learning Korean. — Oh, ___ you? That's great.", "are"],
+        ["He doesn't eat meat. — ___ he? I didn't know that.", "Doesn't"]
+      ]
+    },
+    {
+      "id": "softening",
+      "title": "Softening: I'm afraid, a bit, kind of, I think",
+      "sub": "Làm mềm câu nói, từ chối và chê khéo",
+      "level": "B1",
+      "form": ["【I'm afraid】 + mệnh đề (tin không vui, từ chối)", "【a bit / slightly / kind of / sort of】 + tính từ", "【not very】 + tính từ tích cực (thay cho tính từ tiêu cực)", "【I think / I don't think / maybe / perhaps】"],
+      "uses": [
+        {
+          "vi": "Người Anh tránh nói thẳng điều tiêu cực. Dùng các cách này để lịch sự và tránh làm mất lòng.",
+          "ex": [
+            ["【I'm afraid】 I can't make it on Friday.", "Tiếc là thứ Sáu tôi không đến được."],
+            ["The room is 【a bit】 small.", "Căn phòng hơi nhỏ."],
+            ["It's 【not very】 good. (thay vì: It's bad.)", "Nó không được hay lắm."],
+            ["【I don't think】 that's a good idea.", "Tôi không nghĩ đó là ý hay."]
+          ]
+        }
+      ],
+      "notes": ["Nói I don't think it's true tự nhiên hơn I think it isn't true."],
+      "practice": [
+        ["I'm ___ we're fully booked tonight. (lấy làm tiếc)", "afraid"]
+      ]
+    },
+    {
+      "id": "spoken-ellipsis",
+      "title": "Spoken ellipsis: Sounds good! Want some?",
+      "sub": "Rút gọn khi nói: bỏ chủ ngữ và trợ động từ",
+      "level": "B1",
+      "form": ["Bỏ chủ ngữ + trợ động từ ở đầu câu khi ngữ cảnh đã rõ: (Do you) want a drink? · (It) sounds great. · (I) see you later. · (Have you) got a minute?"],
+      "uses": [
+        {
+          "vi": "Trong hội thoại thân mật, người bản xứ lược đầu câu. Hiểu được để nghe tốt; dùng khi nói chuyện với bạn bè (không dùng trong văn viết trang trọng).",
+          "ex": [
+            ["【Sounds】 good to me.", "Nghe được đấy."],
+            ["【Want】 some coffee?", "Uống cà phê không?"],
+            ["【Got】 a minute?", "Rảnh một phút không?"],
+            ["【Never been】 there.", "Chưa đến đó bao giờ."],
+            ["【Told you】 so!", "Đã bảo rồi mà!"]
+          ]
+        }
+      ],
+      "practice": [
+        ["(Do you) ___ a lift? — Yes, please! (muốn)", "want/need"]
+      ]
+    },
+    {
+      "id": "discourse-markers",
+      "title": "Discourse markers: well, actually, anyway, by the way",
+      "sub": "Từ đệm, từ chuyển ý trong hội thoại",
+      "level": "B1",
+      "form": ["【Well】 (ngập ngừng, chuẩn bị nói điều khó) · 【Actually】 (thật ra – sửa lại, nói điều bất ngờ)", "【Anyway】 (quay lại chủ đề / kết thúc) · 【By the way】 (nhân tiện) · 【I mean】 (ý tôi là) · 【You know】 · 【So】 (vậy thì, mở đầu)"],
+      "uses": [
+        {
+          "vi": "Giúp câu chuyện trôi chảy, cho người nghe biết bạn đang chuyển ý, sửa lời hay giữ lượt nói.",
+          "ex": [
+            ["Did you like the film? — 【Well】, it was OK.", "Bạn thích phim không? — À, cũng được."],
+            ["I thought he was American. 【Actually】, he's Canadian.", "Tôi tưởng anh ấy là người Mỹ. Thật ra anh ấy là người Canada."],
+            ["【By the way】, have you seen Nam recently?", "À nhân tiện, dạo này bạn có gặp Nam không?"],
+            ["【Anyway】, I'd better go. See you!", "Thôi, mình phải đi đây. Gặp lại nhé!"]
+          ]
+        }
+      ],
+      "notes": ["Actually không có nghĩa “hiện nay” (currently) – đây là lỗi rất phổ biến của người Việt."],
+      "mistakes": [
+        ["Actually I'm working at a bank. (ý: hiện nay)", "Currently / At the moment I'm working at a bank.", "Actually = thật ra."]
+      ],
+      "practice": [
+        ["Oh, ___ the way, Lan called you this morning.", "by"]
+      ]
+    },
+    {
+      "id": "vague-language",
+      "title": "Vague language: -ish, or so, and stuff",
+      "sub": "Nói chung chung, ước lượng",
+      "level": "B2",
+      "form": ["Ước lượng: 【about / around / roughly】 + số · số + 【or so】 · số / màu + 【-ish】 (sevenish, reddish)", "Liệt kê chưa hết: 【and stuff / and things like that / or something】", "Không chắc tên: 【thingy / whatsit】"],
+      "uses": [
+        {
+          "vi": "Khi nói, người bản xứ thường không nói chính xác tuyệt đối – nghe tự nhiên và thoải mái hơn.",
+          "ex": [
+            ["Let's meet at 【sevenish】.", "Gặp nhau tầm 7 giờ nhé."],
+            ["There were 【fifty or so】 people.", "Có khoảng năm mươi người."],
+            ["I bought some vegetables, fruit 【and stuff】.", "Tôi mua ít rau, hoa quả các thứ."],
+            ["Do you want to grab a coffee 【or something】?", "Đi uống cà phê hay gì đó không?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["The trip takes three hours ___ so.", "or"]
+      ]
+    },
+    {
+      "id": "opinions",
+      "title": "Giving opinions: I reckon, if you ask me",
+      "sub": "Nêu ý kiến, đồng ý và phản đối",
+      "level": "B1",
+      "form": ["Nêu ý kiến: 【I reckon / I'd say / If you ask me / In my opinion / Personally,】", "Đồng ý: 【Absolutely. / I couldn't agree more. / That's true.】", "Phản đối nhẹ: 【I see what you mean, but… / I'm not sure about that. / I see your point, but…】"],
+      "uses": [
+        {
+          "vi": "Văn nói đa dạng hơn “I think”; phản đối lịch sự bằng cách ghi nhận ý người kia trước.",
+          "ex": [
+            ["【I reckon】 it'll be cheaper online.", "Tôi đoán mua online sẽ rẻ hơn."],
+            ["【If you ask me】, he's making a big mistake.", "Theo tôi thì anh ấy đang phạm sai lầm lớn."],
+            ["【I couldn't agree more】.", "Tôi hoàn toàn đồng ý."],
+            ["【I see what you mean, but】 it's too risky.", "Tôi hiểu ý bạn, nhưng việc đó quá rủi ro."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I am agree with you.", "I agree with you.", "Agree là động từ, không dùng với am."]
+      ],
+      "practice": [
+        ["I couldn't agree ___. (hoàn toàn đồng ý)", "more"]
+      ]
+    },
+    {
+      "id": "always-continuous",
+      "title": "Always + continuous (annoyance)",
+      "sub": "Phàn nàn thói quen gây khó chịu: He's always losing his keys!",
+      "level": "B2",
+      "form": ["S + be + 【always / constantly / forever】 + V-ing"],
+      "uses": [
+        {
+          "vi": "Dùng thì tiếp diễn với always để thể hiện bực mình về một thói quen lặp đi lặp lại.",
+          "ex": [
+            ["My brother 【is always borrowing】 my clothes!", "Em tôi suốt ngày mượn quần áo của tôi!"],
+            ["You【're constantly checking】 your phone.", "Bạn cứ xem điện thoại suốt thôi."],
+            ["She 【was always complaining】 about her job.", "Hồi đó cô ấy lúc nào cũng than phiền về công việc."]
+          ]
+        }
+      ],
+      "practice": [
+        ["My roommate is always ___ (leave) dirty dishes in the sink!", "leaving"]
+      ]
+    },
+    {
+      "id": "advice-phrases",
+      "title": "Giving advice: If I were you / You might want to",
+      "sub": "Khuyên nhủ khéo léo",
+      "level": "B1",
+      "form": ["【If I were you, I'd】 + V", "【You might want to / You could】 + V (nhẹ nhàng)", "【Have you thought about / tried】 + V-ing?", "【It might be a good idea to】 + V"],
+      "uses": [
+        {
+          "vi": "Các cách khuyên nhẹ nhàng hơn you should, phù hợp khi nói với đồng nghiệp, người lớn tuổi.",
+          "ex": [
+            ["【If I were you, I'd】 talk to your manager.", "Nếu là bạn, tôi sẽ nói chuyện với quản lý."],
+            ["【You might want to】 check the address again.", "Có lẽ bạn nên kiểm tra lại địa chỉ."],
+            ["【Have you tried】 restarting it?", "Bạn thử khởi động lại chưa?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["Have you thought about ___ (take) a break?", "taking"]
+      ],
+      "see": ["second-conditional", "should"]
+    },
+    {
+      "id": "heads-tails",
+      "title": "Heads & tails: That film, it was amazing.",
+      "sub": "Đưa chủ đề lên đầu hoặc thêm vào cuối câu khi nói",
+      "level": "C1",
+      "form": ["Head: 【danh từ (chủ đề)】, + câu có đại từ: That new café, have you been there?", "Tail: câu + 【, danh từ / đại từ + trợ động từ】: He's really nice, your brother. · It was great, that was."],
+      "uses": [
+        {
+          "vi": "Văn nói thân mật: nêu chủ đề trước để người nghe theo kịp, hoặc thêm “đuôi” để làm rõ / nhấn mạnh. Không dùng trong văn viết trang trọng.",
+          "ex": [
+            ["【My sister】, she's a nurse in Da Nang.", "Chị tôi ấy, chị làm y tá ở Đà Nẵng."],
+            ["It's a lovely place, 【Hoi An】.", "Đẹp lắm, Hội An ấy."],
+            ["She's really clever, 【she is】.", "Cô ấy thông minh thật đấy."]
+          ]
+        }
+      ],
+      "practice": [
+        ["He's a great cook, ___ dad. (của tôi)", "my"]
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@ import { useDetailKeys } from '../../components/ui/DetailNav.jsx';
 import { MarkFilter, MarkGlyph } from '../../components/ui/Mark.jsx';
 import { useLangItems } from '../../lib/store.js';
 import { STATES, markOf } from '../../lib/srs.js';
-import { useColumns } from '../../lib/useColumns.js';
+import { useColumns } from '../../hooks/useColumns.js';
 import { originOf, usePresence, useSelection } from '../../lib/motion.js';
 
 // Đếm theo mức trong một cấp: mục chưa có bản ghi = chưa thuộc.

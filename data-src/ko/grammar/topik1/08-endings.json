@@ -1,0 +1,66 @@
+{
+  "id": "k1-endings",
+  "name": "Đuôi câu cảm thán và xác nhận",
+  "points": [
+    {
+      "id": "neyo",
+      "title": "V/A-네요",
+      "sub": "… quá nhỉ! (cảm thán khi vừa nhận ra)",
+      "level": 1,
+      "form": ["Gốc + 【네요】 (gốc kết thúc bằng ㄹ: bỏ ㄹ – 살다 → 사네요)", "N이네요 / 네요"],
+      "uses": [
+        {
+          "vi": "Bày tỏ ngạc nhiên, cảm xúc về điều vừa thấy, nghe, trải nghiệm.",
+          "ex": [
+            ["와, 경치가 정말 아름답【네요】!", "Ồ, cảnh đẹp thật đấy!"],
+            ["한국어를 잘하시【네요】.", "Bạn nói tiếng Hàn giỏi quá."],
+            ["벌써 12시【네요】.", "Đã 12 giờ rồi nhỉ."]
+          ]
+        }
+      ],
+      "practice": [
+        ["이 케이크 정말 맛있___! (cảm thán)", "네요"]
+      ]
+    },
+    {
+      "id": "jiyo",
+      "title": "V/A-지요 (죠)?",
+      "sub": "… nhỉ? / … đúng không? (xác nhận điều cả hai cùng biết)",
+      "level": 1,
+      "form": ["Gốc + 【지요?】 → rút gọn 【죠?】 · N(이)지요?"],
+      "uses": [
+        {
+          "vi": "Xác nhận, tìm sự đồng tình (giống câu hỏi đuôi tiếng Anh); xuống giọng khi khẳng định.",
+          "ex": [
+            ["오늘 날씨 좋【죠】?", "Hôm nay trời đẹp nhỉ?"],
+            ["한국 음식 좋아하시【죠】?", "Anh thích món Hàn đúng không?"],
+            ["그럼요, 당연하【지요】.", "Tất nhiên rồi, đương nhiên mà."]
+          ]
+        }
+      ],
+      "practice": [
+        ["내일 시험이 있___? (xác nhận – dạng rút gọn)", "죠"]
+      ]
+    },
+    {
+      "id": "eunde-yo",
+      "title": "V/A-(으)ㄴ데요 / 는데요",
+      "sub": "… mà / thì … (dẫn dắt, chờ phản hồi, phản bác nhẹ)",
+      "level": 1,
+      "form": ["Động từ, 있다/없다 + 【는데요】", "Tính từ: không patchim + 【ㄴ데요】 / có patchim + 【은데요】 · N인데요"],
+      "uses": [
+        {
+          "vi": "Nói ra một bối cảnh và chờ người nghe phản hồi, hoặc đáp nhẹ nhàng (từ chối, phản bác) – rất hay gặp khi nghe điện thoại, ở cửa hàng.",
+          "ex": [
+            ["여보세요? 저 민수【인데요】.", "Alo? Em Minsu đây ạ."],
+            ["이거 좀 비싼【데요】.", "Cái này hơi đắt ạ."],
+            ["저는 안 갔【는데요】?", "Tôi có đi đâu?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["죄송하지만 지금 사장님이 안 계시___. (는데요 / 은데요)", "는데요"]
+      ]
+    }
+  ]
+}

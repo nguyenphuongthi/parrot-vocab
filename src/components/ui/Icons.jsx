@@ -19,6 +19,12 @@ export const SearchIcon = (p) => (
   </Svg>
 );
 
+export const CloseIcon = (p) => (
+  <Svg {...p}>
+    <path d="M6 6l12 12M18 6 6 18" />
+  </Svg>
+);
+
 export const ChartIcon = (p) => (
   <Svg {...p}>
     <path d="M4 20V10M10 20V4M16 20v-7M22 20H2" />

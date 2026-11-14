@@ -1,0 +1,259 @@
+{
+  "id": "future",
+  "name": "Diễn đạt tương lai",
+  "intro": "Tiếng Anh có nhiều cách nói về tương lai; chọn cách nào tuỳ vào việc đó là quyết định tức thời, dự định, lịch hẹn hay lịch trình.",
+  "points": [
+    {
+      "id": "will",
+      "title": "Will",
+      "sub": "Sẽ – dự đoán, quyết định tức thời, hứa, đề nghị",
+      "level": "A1",
+      "form": ["S + 【will】 ('ll) + V", "Phủ định: 【won't】 + V · Câu hỏi: 【Will】 + S + V…?"],
+      "uses": [
+        {
+          "vi": "Quyết định ngay lúc nói, lời hứa, lời đề nghị giúp đỡ.",
+          "ex": [
+            ["It's cold. I【'll】 close the window.", "Lạnh quá. Để tôi đóng cửa sổ."],
+            ["I 【won't】 tell anyone, I promise.", "Tớ hứa sẽ không kể với ai."],
+            ["Don't worry, I【'll】 help you.", "Đừng lo, tôi sẽ giúp bạn."]
+          ]
+        },
+        {
+          "vi": "Dự đoán dựa trên ý kiến, niềm tin (I think, probably, I'm sure).",
+          "ex": [
+            ["I think it 【will】 be sunny tomorrow.", "Tôi nghĩ mai trời sẽ nắng."],
+            ["You【'll】 love this place.", "Bạn sẽ thích nơi này cho xem."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I will to call you.", "I will call you.", "Sau will là động từ nguyên mẫu không to."]
+      ],
+      "practice": [
+        ["The phone's ringing. I ___ get it.", "'ll/will"],
+        ["Don't eat that – you ___ feel sick. (phủ định: will not)", "won't"]
+      ],
+      "see": ["going-to", "will-vs-going-to"]
+    },
+    {
+      "id": "going-to",
+      "title": "Be going to",
+      "sub": "Định làm – dự định; dự đoán có căn cứ",
+      "level": "A1",
+      "form": ["am / is / are + 【going to】 + V"],
+      "uses": [
+        {
+          "vi": "Dự định, kế hoạch đã quyết từ trước lúc nói.",
+          "ex": [
+            ["I【'm going to】 study abroad next year.", "Năm sau tôi định đi du học."],
+            ["What 【are】 you 【going to】 do this weekend?", "Cuối tuần này bạn định làm gì?"]
+          ]
+        },
+        {
+          "vi": "Dự đoán dựa trên dấu hiệu nhìn thấy ngay bây giờ.",
+          "ex": [
+            ["Look at those clouds! It【's going to】 rain.", "Nhìn mây kìa! Sắp mưa rồi."],
+            ["Be careful – you【're going to】 fall!", "Cẩn thận – sắp ngã bây giờ!"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I going to visit my aunt.", "I'm going to visit my aunt.", "Cần to be trước going to."]
+      ],
+      "practice": [
+        ["We ___ going to paint the kitchen this weekend.", "are/'re"],
+        ["She's pregnant. She's ___ to have a baby.", "going"]
+      ]
+    },
+    {
+      "id": "will-vs-going-to",
+      "title": "Will vs be going to",
+      "sub": "Phân biệt will và be going to",
+      "level": "A2",
+      "form": ["Quyết định lúc nói → 【will】 · Dự định có sẵn → 【going to】", "Dự đoán theo ý kiến → 【will】 · Dự đoán có bằng chứng trước mắt → 【going to】"],
+      "uses": [
+        {
+          "vi": "So sánh trong cùng một tình huống.",
+          "ex": [
+            ["A: We've run out of milk. B: Oh, I【'll】 buy some.", "A: Hết sữa rồi. B: Ồ, để tôi đi mua."],
+            ["A: Why are you taking your bag? B: I【'm going to】 buy some milk.", "A: Sao cầm túi thế? B: Tôi định đi mua sữa."]
+          ]
+        }
+      ],
+      "practice": [
+        ["A: I can't open this jar. B: Give it to me, I ___ open it. (will/am going to)", "'ll/will"],
+        ["I've decided. I ___ learn to drive this summer. (will/am going to)", "am going to/'m going to"]
+      ]
+    },
+    {
+      "id": "future-arrangements",
+      "title": "Present continuous & present simple for the future",
+      "sub": "Hiện tại tiếp diễn (lịch hẹn) và hiện tại đơn (lịch trình)",
+      "level": "A2",
+      "form": ["Lịch hẹn đã sắp xếp: am / is / are + 【V-ing】 + thời gian tương lai", "Lịch trình cố định (tàu xe, lịch học, sự kiện): 【present simple】"],
+      "uses": [
+        {
+          "vi": "Hiện tại tiếp diễn cho việc đã hẹn, đã sắp xếp với người khác (đã đặt vé, đã hẹn giờ).",
+          "ex": [
+            ["I【'm seeing】 the dentist on Friday.", "Thứ Sáu tôi có hẹn với nha sĩ."],
+            ["We【're flying】 to Phu Quoc tomorrow morning.", "Sáng mai chúng tôi bay đi Phú Quốc."]
+          ]
+        },
+        {
+          "vi": "Hiện tại đơn cho lịch trình, thời gian biểu chính thức.",
+          "ex": [
+            ["The film 【starts】 at 7:30.", "Phim bắt đầu lúc 7 giờ 30."],
+            ["Our flight 【leaves】 at 6 am.", "Chuyến bay của chúng tôi cất cánh lúc 6 giờ sáng."]
+          ]
+        }
+      ],
+      "practice": [
+        ["What time ___ the next bus leave?", "does"],
+        ["I ___ (meet) Hoa for lunch tomorrow – we booked a table.", "am meeting/'m meeting"]
+      ]
+    },
+    {
+      "id": "time-clauses-future",
+      "title": "Time clauses: when / as soon as / until + present",
+      "sub": "Mệnh đề thời gian về tương lai dùng thì hiện tại",
+      "level": "B1",
+      "form": ["will + V … 【when / as soon as / before / after / until / once】 + 【hiện tại đơn】 (hoặc hiện tại hoàn thành)"],
+      "uses": [
+        {
+          "vi": "Sau các liên từ chỉ thời gian, tiếng Anh dùng thì hiện tại dù nói về tương lai (giống mệnh đề if).",
+          "ex": [
+            ["I'll call you 【when I arrive】.", "Khi nào đến nơi tôi sẽ gọi cho bạn."],
+            ["Wait here 【until I come back】.", "Đợi ở đây đến khi tôi quay lại."],
+            ["You can go out 【as soon as you've finished】 your homework.", "Làm xong bài tập là con được ra ngoài chơi."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I'll tell him when he will come.", "I'll tell him when he comes.", "Không dùng will sau when (mệnh đề thời gian)."]
+      ],
+      "practice": [
+        ["We'll start dinner when Dad ___ (get) home.", "gets"],
+        ["I won't leave until you ___ (tell) me the truth.", "tell"]
+      ],
+      "see": ["first-conditional"]
+    },
+    {
+      "id": "future-continuous",
+      "title": "Future continuous",
+      "sub": "Tương lai tiếp diễn",
+      "level": "B1",
+      "form": ["will be + 【V-ing】"],
+      "uses": [
+        {
+          "vi": "Việc đang diễn ra tại một thời điểm trong tương lai.",
+          "ex": [
+            ["This time tomorrow I【'll be lying】 on the beach.", "Giờ này ngày mai tôi đang nằm dài trên bãi biển."],
+            ["Don't call at eight – we【'll be having】 dinner.", "Đừng gọi lúc 8 giờ – lúc đó bọn tôi đang ăn tối."]
+          ]
+        },
+        {
+          "vi": "Hỏi lịch trình của người khác một cách lịch sự (không có ý nhờ vả).",
+          "ex": [
+            ["【Will】 you 【be using】 the car tonight?", "Tối nay anh có dùng xe không?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["At 10 am tomorrow, I ___ (sit) my exam.", "will be sitting/'ll be sitting"]
+      ]
+    },
+    {
+      "id": "future-perfect",
+      "title": "Future perfect (simple & continuous)",
+      "sub": "Tương lai hoàn thành: sẽ xong trước một mốc",
+      "level": "B2",
+      "form": ["will have + 【V3】 (by + mốc thời gian)", "will have been + 【V-ing】 (for + khoảng thời gian, tính đến mốc tương lai)"],
+      "uses": [
+        {
+          "vi": "Việc sẽ hoàn tất trước một thời điểm trong tương lai.",
+          "ex": [
+            ["By 2030, I 【will have finished】 my PhD.", "Đến năm 2030 tôi sẽ học xong tiến sĩ."],
+            ["The film 【will have started】 by the time we get there.", "Lúc mình đến nơi thì phim đã bắt đầu rồi."]
+          ]
+        },
+        {
+          "vi": "Dạng tiếp diễn nhấn mạnh tổng thời gian tính đến mốc tương lai.",
+          "ex": [
+            ["Next June, I 【will have been working】 here for ten years.", "Đến tháng Sáu tới là tôi làm ở đây tròn mười năm."]
+          ]
+        }
+      ],
+      "practice": [
+        ["By the end of the month, we ___ (save) enough money.", "will have saved/'ll have saved"],
+        ["In May she ___ (teach) for 20 years. (tiếp diễn)", "will have been teaching/'ll have been teaching"]
+      ]
+    },
+    {
+      "id": "about-to",
+      "title": "Be about to / be due to / be to",
+      "sub": "Sắp sửa, theo dự kiến, theo sắp xếp chính thức",
+      "level": "B2",
+      "form": ["be 【about to】 + V (sắp sửa, ngay bây giờ)", "be 【due to】 + V (theo kế hoạch, giờ giấc)", "be 【to】 + V (sắp xếp chính thức, mệnh lệnh – văn trang trọng, tin tức)"],
+      "uses": [
+        {
+          "vi": "Diễn tả tương lai rất gần hoặc đã được lên lịch.",
+          "ex": [
+            ["Hurry up! The train 【is about to】 leave.", "Nhanh lên! Tàu sắp chạy rồi."],
+            ["The new bridge 【is due to】 open in March.", "Cây cầu mới dự kiến khánh thành vào tháng Ba."],
+            ["The Prime Minister 【is to】 visit Japan next week.", "Thủ tướng sẽ thăm Nhật Bản vào tuần tới."]
+          ]
+        }
+      ],
+      "notes": ["Was / were about to = suýt nữa thì, định làm thì bị ngắt: I was about to call you when you texted."],
+      "practice": [
+        ["Sit down, the show is ___ to start.", "about"],
+        ["The plane is ___ to land at 6:40.", "due"]
+      ]
+    },
+    {
+      "id": "future-in-past",
+      "title": "Was going to / would (future in the past)",
+      "sub": "Tương lai nhìn từ quá khứ: đã định… (nhưng)",
+      "level": "B2",
+      "form": ["was / were 【going to】 + V", "【would】 + V (trong lời kể, câu tường thuật)"],
+      "uses": [
+        {
+          "vi": "Dự định trong quá khứ, thường không thực hiện được.",
+          "ex": [
+            ["I 【was going to】 call you, but I forgot.", "Tôi đã định gọi cho bạn nhưng quên mất."],
+            ["We 【were going to】 travel, but then Covid happened.", "Chúng tôi đã định đi du lịch, rồi dịch Covid xảy ra."]
+          ]
+        },
+        {
+          "vi": "Kể lại điều mà lúc đó là tương lai.",
+          "ex": [
+            ["She knew she 【would】 see him again.", "Cô ấy biết mình sẽ gặp lại anh ấy."]
+          ]
+        }
+      ],
+      "practice": [
+        ["I ___ going to buy that dress, but it was sold out.", "was"]
+      ]
+    },
+    {
+      "id": "bound-likely",
+      "title": "Be bound to / be likely to / be sure to",
+      "sub": "Chắc chắn sẽ, có khả năng sẽ",
+      "level": "B2",
+      "form": ["be 【bound to / sure to / certain to】 + V (chắc chắn)", "be 【likely / unlikely to】 + V · It's likely that + mệnh đề"],
+      "uses": [
+        {
+          "vi": "Dự đoán với các mức độ chắc chắn khác nhau, thay cho will.",
+          "ex": [
+            ["Don't worry, she's 【bound to】 call you back.", "Đừng lo, kiểu gì cô ấy cũng gọi lại cho bạn."],
+            ["Prices 【are likely to】 rise next year.", "Giá có khả năng sẽ tăng vào năm tới."],
+            ["He's 【unlikely to】 win.", "Anh ấy khó mà thắng."]
+          ]
+        }
+      ],
+      "practice": [
+        ["Take a map – you're ___ to get lost otherwise. (chắc chắn)", "bound/sure/certain"]
+      ]
+    }
+  ]
+}

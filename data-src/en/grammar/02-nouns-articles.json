@@ -1,0 +1,432 @@
+{
+  "id": "nouns",
+  "name": "Danh từ, mạo từ và lượng từ",
+  "intro": "Tiếng Việt không chia số nhiều và không có mạo từ, nên đây là phần người Việt hay mắc lỗi nhất.",
+  "points": [
+    {
+      "id": "plurals",
+      "title": "Plural nouns",
+      "sub": "Danh từ số nhiều: -s, -es, bất quy tắc",
+      "level": "A1",
+      "form": ["Thường: + 【s】 (book → books)", "-s, -sh, -ch, -x, -o: + 【es】 (bus → buses, potato → potatoes)", "Phụ âm + y: y → 【ies】 (city → cities) · -f/-fe → 【ves】 (knife → knives)", "Bất quy tắc: man → men, woman → women, child → children, person → people, foot → feet, tooth → teeth, mouse → mice"],
+      "uses": [
+        {
+          "vi": "Danh từ đếm được có từ hai trở lên phải ở dạng số nhiều, kể cả khi đã có số đếm hay many, a lot of.",
+          "ex": [
+            ["I have three 【brothers】.", "Tôi có ba anh trai."],
+            ["Many 【people】 work from home now.", "Bây giờ nhiều người làm việc ở nhà."],
+            ["The 【children】 are playing outside.", "Bọn trẻ đang chơi ngoài trời."]
+          ]
+        }
+      ],
+      "notes": ["Một số danh từ không đổi: sheep, fish, deer, series. Một số luôn số nhiều: trousers, jeans, glasses, scissors."],
+      "mistakes": [
+        ["I bought two book.", "I bought two books.", "Có số đếm vẫn phải thêm -s."],
+        ["There are many childs.", "There are many children.", "Child là danh từ bất quy tắc."]
+      ],
+      "practice": [
+        ["two ___ (box)", "boxes"],
+        ["three ___ (baby)", "babies"],
+        ["My ___ hurt. (foot – số nhiều)", "feet"]
+      ]
+    },
+    {
+      "id": "countable-uncountable",
+      "title": "Countable & uncountable nouns",
+      "sub": "Danh từ đếm được và không đếm được",
+      "level": "A2",
+      "form": ["Đếm được: a/an + số ít · số nhiều (an apple, apples)", "Không đếm được: không có a/an, không có số nhiều, động từ số ít (water, money, information)", "Đếm bằng đơn vị: 【a piece of】 advice, 【a cup of】 tea, 【a bottle of】 water"],
+      "uses": [
+        {
+          "vi": "Nhiều danh từ không đếm được trong tiếng Anh lại đếm được trong tiếng Việt: advice, information, news, furniture, luggage, homework, equipment, research, traffic.",
+          "ex": [
+            ["Can you give me some 【advice】?", "Bạn cho tôi vài lời khuyên được không?"],
+            ["The 【news】 【is】 good.", "Tin tức tốt."],
+            ["I've got 【two pieces of】 luggage.", "Tôi có hai kiện hành lý."]
+          ]
+        },
+        {
+          "vi": "Một số danh từ có cả hai nghĩa: đếm được khi chỉ một cái / một lần, không đếm được khi chỉ chất liệu hoặc khái niệm chung.",
+          "ex": [
+            ["Two 【coffees】, please.", "Cho hai ly cà phê."],
+            ["I don't drink 【coffee】.", "Tôi không uống cà phê."],
+            ["We had 【a great time】. / I don't have 【time】.", "Chúng tôi đã có khoảng thời gian tuyệt vời. / Tôi không có thời gian."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["She gave me many advices.", "She gave me a lot of advice.", "Advice không đếm được."],
+        ["I have a lot of homeworks.", "I have a lot of homework.", "Homework không đếm được."]
+      ],
+      "practice": [
+        ["Could I have some ___? (information)", "information"],
+        ["The furniture ___ very expensive. (be)", "is"],
+        ["a ___ of bread (miếng / ổ)", "piece/slice/loaf"]
+      ],
+      "see": ["much-many", "some-any"]
+    },
+    {
+      "id": "a-an",
+      "title": "A / an",
+      "sub": "Mạo từ không xác định",
+      "level": "A1",
+      "form": ["【a】 + âm phụ âm: a car, a university /ju/", "【an】 + âm nguyên âm: an apple, an hour /aʊ/"],
+      "uses": [
+        {
+          "vi": "Nhắc đến một thứ lần đầu, hoặc một thứ bất kỳ trong nhóm (người nghe chưa biết cụ thể cái nào).",
+          "ex": [
+            ["I saw 【a】 good film yesterday.", "Hôm qua tôi xem một bộ phim hay."],
+            ["Can I borrow 【a】 pen?", "Cho tôi mượn một cây bút được không?"]
+          ]
+        },
+        {
+          "vi": "Nói nghề nghiệp, phân loại: tiếng Anh bắt buộc có a/an trước danh từ số ít đếm được.",
+          "ex": [
+            ["My sister is 【a】 nurse.", "Chị tôi là y tá."],
+            ["It's 【an】 interesting idea.", "Đó là một ý thú vị."]
+          ]
+        },
+        {
+          "vi": "Mỗi (tần suất, giá, tốc độ).",
+          "ex": [
+            ["I go to the gym three times 【a】 week.", "Tôi đi tập gym ba lần mỗi tuần."],
+            ["It costs 50,000 dong 【a】 kilo.", "Giá 50.000 đồng một ký."]
+          ]
+        }
+      ],
+      "notes": ["Chọn a/an theo ÂM đầu, không theo chữ cái: an MBA, a European, an honest man."],
+      "mistakes": [
+        ["He is engineer.", "He is an engineer.", "Nghề nghiệp số ít cần a/an."],
+        ["a hour", "an hour", "H câm, âm đầu là nguyên âm."]
+      ],
+      "practice": [
+        ["She's ___ university student.", "a"],
+        ["We waited for ___ hour.", "an"],
+        ["My dad is ___ engineer.", "an"]
+      ],
+      "see": ["the", "zero-article"]
+    },
+    {
+      "id": "the",
+      "title": "The",
+      "sub": "Mạo từ xác định",
+      "level": "A1",
+      "form": ["【the】 + danh từ (mọi loại: số ít, số nhiều, không đếm được)"],
+      "uses": [
+        {
+          "vi": "Người nghe đã biết là cái nào: vì đã nhắc đến trước đó, vì chỉ có một trong ngữ cảnh, hoặc vì có phần bổ nghĩa xác định.",
+          "ex": [
+            ["I bought a shirt and a hat. 【The】 shirt was cheap.", "Tôi mua một cái áo và một cái mũ. Cái áo thì rẻ."],
+            ["Can you close 【the】 window?", "Bạn đóng cửa sổ (cái ở phòng này) được không?"],
+            ["【The】 man in the red jacket is my boss.", "Người đàn ông mặc áo khoác đỏ là sếp tôi."]
+          ]
+        },
+        {
+          "vi": "Thứ duy nhất và một số nhóm cố định: the sun, the internet, the sea, the police; dãy núi, sông, biển, quốc gia số nhiều (the Alps, the Mekong, the USA, the Philippines); so sánh nhất và số thứ tự.",
+          "ex": [
+            ["【The】 sun rises in the east.", "Mặt trời mọc ở hướng đông."],
+            ["She's 【the】 best student in our class.", "Cô ấy là học sinh giỏi nhất lớp."],
+            ["It's on 【the】 third floor.", "Nó ở tầng ba."]
+          ]
+        },
+        {
+          "vi": "Chơi nhạc cụ và một số cụm cố định: play the piano, go to the cinema, in the morning, on the phone.",
+          "ex": [
+            ["He plays 【the】 guitar.", "Anh ấy chơi guitar."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Sun is very hot today.", "The sun is very hot today.", "Thứ duy nhất dùng the."],
+        ["She is best singer in Vietnam.", "She is the best singer in Vietnam.", "So sánh nhất cần the."]
+      ],
+      "practice": [
+        ["I have a cat and a dog. ___ cat is black.", "The"],
+        ["Who is ___ tallest person in your family?", "the"],
+        ["Can you play ___ piano?", "the"]
+      ],
+      "see": ["a-an", "zero-article"]
+    },
+    {
+      "id": "zero-article",
+      "title": "No article (zero article)",
+      "sub": "Khi nào KHÔNG dùng mạo từ",
+      "level": "A2",
+      "form": ["Ø + danh từ số nhiều / không đếm được khi nói chung chung", "Ø + tên người, thành phố, phần lớn quốc gia, châu lục, bữa ăn, môn học, môn thể thao, ngôn ngữ"],
+      "uses": [
+        {
+          "vi": "Nói chung về một loại người / vật (không chỉ cái cụ thể nào).",
+          "ex": [
+            ["【Dogs】 are loyal animals.", "Chó là loài vật trung thành."],
+            ["I don't like 【coffee】.", "Tôi không thích cà phê."],
+            ["【Life】 is short.", "Đời người ngắn ngủi."]
+          ]
+        },
+        {
+          "vi": "Tên riêng, bữa ăn, môn học, thể thao, ngôn ngữ, phương tiện sau by.",
+          "ex": [
+            ["We had 【lunch】 in 【Da Nang】.", "Chúng tôi ăn trưa ở Đà Nẵng."],
+            ["She studies 【maths】 and plays 【tennis】.", "Cô ấy học toán và chơi tennis."],
+            ["I go to work 【by bus】.", "Tôi đi làm bằng xe buýt."]
+          ]
+        },
+        {
+          "vi": "Nơi chốn khi nói đến mục đích chính: go to school (đi học), be in hospital (nằm viện), go to bed, at home, at work. Có the khi nói đến toà nhà: go to the school (đến trường để họp phụ huynh).",
+          "ex": [
+            ["My son goes to 【school】 at 7.", "Con trai tôi đi học lúc 7 giờ."],
+            ["I went to 【the】 school to meet his teacher.", "Tôi đến trường để gặp cô giáo của nó."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["The life is beautiful.", "Life is beautiful.", "Danh từ trừu tượng nói chung không dùng the."],
+        ["I like the music. (ý: âm nhạc nói chung)", "I like music.", "Nói chung không có the."]
+      ],
+      "practice": [
+        ["___ students in my class are friendly. (học sinh lớp tôi – cụ thể)", "The"],
+        ["___ is good for your health. (Exercise / The exercise)", "Exercise"],
+        ["He goes to work by ___. (train / the train)", "train"]
+      ],
+      "see": ["the"]
+    },
+    {
+      "id": "some-any",
+      "title": "Some / any / no",
+      "sub": "Một vài, nào, không có",
+      "level": "A1",
+      "form": ["Khẳng định: 【some】 + số nhiều / không đếm được", "Phủ định, câu hỏi: 【any】", "【no】 + danh từ = not any"],
+      "uses": [
+        {
+          "vi": "Some trong câu khẳng định; any trong câu phủ định và câu hỏi.",
+          "ex": [
+            ["There are 【some】 eggs in the fridge.", "Có vài quả trứng trong tủ lạnh."],
+            ["We don't have 【any】 bread.", "Chúng ta không còn chút bánh mì nào."],
+            ["Do you have 【any】 questions?", "Các bạn có câu hỏi nào không?"]
+          ]
+        },
+        {
+          "vi": "Dùng some trong câu hỏi khi mời hoặc nhờ (mong câu trả lời là “có”).",
+          "ex": [
+            ["Would you like 【some】 tea?", "Bạn uống chút trà nhé?"],
+            ["Can I have 【some】 water, please?", "Cho tôi xin chút nước."]
+          ]
+        },
+        {
+          "vi": "Any trong câu khẳng định = bất kỳ … nào cũng được.",
+          "ex": [
+            ["Take 【any】 seat you like.", "Ngồi chỗ nào bạn thích cũng được."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I don't have no money.", "I don't have any money. / I have no money.", "Tiếng Anh chuẩn không dùng hai từ phủ định."]
+      ],
+      "practice": [
+        ["Is there ___ sugar left?", "any"],
+        ["I bought ___ flowers for my mum.", "some"],
+        ["Would you like ___ cake?", "some"]
+      ],
+      "see": ["indefinite-pronouns"]
+    },
+    {
+      "id": "much-many",
+      "title": "Much / many / a lot of",
+      "sub": "Nhiều",
+      "level": "A1",
+      "form": ["【many】 + danh từ đếm được số nhiều", "【much】 + danh từ không đếm được", "【a lot of / lots of】 + cả hai loại", "How 【many】…? · How 【much】…?"],
+      "uses": [
+        {
+          "vi": "Trong câu khẳng định, a lot of tự nhiên hơn; much và many hay dùng trong câu phủ định và câu hỏi.",
+          "ex": [
+            ["She has 【a lot of】 friends.", "Cô ấy có rất nhiều bạn."],
+            ["I don't have 【much】 time.", "Tôi không có nhiều thời gian."],
+            ["How 【many】 languages do you speak?", "Bạn nói được mấy thứ tiếng?"]
+          ]
+        }
+      ],
+      "notes": ["Too much / too many / so many dùng bình thường trong câu khẳng định: There's too much traffic."],
+      "mistakes": [
+        ["How much people came?", "How many people came?", "People đếm được."],
+        ["I have much money.", "I have a lot of money.", "Câu khẳng định thường dùng a lot of."]
+      ],
+      "practice": [
+        ["How ___ does it cost?", "much"],
+        ["There aren't ___ cars on the road today.", "many"]
+      ],
+      "see": ["few-little"]
+    },
+    {
+      "id": "few-little",
+      "title": "A few / a little / few / little",
+      "sub": "Một vài, một chút – và gần như không",
+      "level": "A2",
+      "form": ["【a few】 / 【few】 + danh từ đếm được số nhiều", "【a little】 / 【little】 + danh từ không đếm được"],
+      "uses": [
+        {
+          "vi": "A few / a little: có một ít (đủ, mang nghĩa tích cực).",
+          "ex": [
+            ["I have 【a few】 friends in Hanoi.", "Tôi có vài người bạn ở Hà Nội."],
+            ["Add 【a little】 salt.", "Thêm một chút muối."]
+          ]
+        },
+        {
+          "vi": "Few / little (không có a): rất ít, gần như không (nghĩa tiêu cực).",
+          "ex": [
+            ["【Few】 people understood the joke.", "Gần như chẳng ai hiểu câu đùa."],
+            ["There's 【little】 hope now.", "Giờ chẳng còn mấy hy vọng."]
+          ]
+        }
+      ],
+      "notes": ["Khi nói, người bản xứ hay thay few/little bằng not many / not much: Not many people came."],
+      "mistakes": [
+        ["I need a few advice.", "I need a little advice.", "Advice không đếm được → a little."]
+      ],
+      "practice": [
+        ["Can you wait ___ minutes? (a few/a little)", "a few"],
+        ["He speaks ___ English, but enough to travel. (a little/little)", "a little"]
+      ]
+    },
+    {
+      "id": "all-both-each",
+      "title": "All / both / each / every / either / neither / none",
+      "sub": "Tất cả, cả hai, mỗi, một trong hai, không ai",
+      "level": "B1",
+      "form": ["Hai người / vật: 【both】 (cả hai) · 【either】 (một trong hai) · 【neither】 (không cái nào)", "Ba trở lên: 【all】 · 【none】", "【each / every】 + danh từ số ít, động từ số ít", "… of + the / my / them: both of them, none of us, each of the rooms"],
+      "uses": [
+        {
+          "vi": "Với hai đối tượng.",
+          "ex": [
+            ["【Both】 my parents are doctors.", "Cả bố lẫn mẹ tôi đều là bác sĩ."],
+            ["You can sit on 【either】 side.", "Bạn ngồi bên nào cũng được."],
+            ["【Neither】 answer is correct.", "Cả hai đáp án đều sai."]
+          ]
+        },
+        {
+          "vi": "Với ba đối tượng trở lên; each nhấn mạnh từng cái riêng lẻ, every nhấn mạnh cả nhóm không trừ ai.",
+          "ex": [
+            ["【All】 the students passed.", "Tất cả học sinh đều đỗ."],
+            ["【None of】 my friends live nearby.", "Không người bạn nào của tôi sống gần đây."],
+            ["【Each】 room has its own bathroom.", "Mỗi phòng có phòng tắm riêng."],
+            ["I run 【every】 morning.", "Sáng nào tôi cũng chạy bộ."]
+          ]
+        }
+      ],
+      "notes": ["Neither… nor / either… or / both… and nối hai thành phần: Neither Tom nor Anna came."],
+      "mistakes": [
+        ["Every students have a laptop.", "Every student has a laptop.", "Every + danh từ số ít, động từ số ít."],
+        ["Both of them didn't come.", "Neither of them came.", "Phủ định cả hai dùng neither."]
+      ],
+      "practice": [
+        ["___ of my two sisters likes spicy food. (cả hai đều không)", "Neither"],
+        ["___ child gets a present. (each/all)", "Each"],
+        ["I've read ___ his books – all five of them.", "all"]
+      ]
+    },
+    {
+      "id": "indefinite-pronouns",
+      "title": "Someone, anything, nowhere…",
+      "sub": "Đại từ bất định",
+      "level": "A2",
+      "form": ["some- / any- / no- / every- + 【-one / -body】 (người) · 【-thing】 (vật) · 【-where】 (nơi)", "Động từ số ít: Everyone 【is】 here."],
+      "uses": [
+        {
+          "vi": "Quy tắc giống some / any / no: some- câu khẳng định, any- câu phủ định và câu hỏi, no- tự mang nghĩa phủ định.",
+          "ex": [
+            ["【Someone】 called you this morning.", "Sáng nay có người gọi cho bạn."],
+            ["I didn't say 【anything】.", "Tôi không nói gì cả."],
+            ["There's 【nowhere】 to park.", "Không có chỗ nào để đỗ xe."],
+            ["【Everybody】 loves her.", "Ai cũng yêu quý cô ấy."]
+          ]
+        },
+        {
+          "vi": "Tính từ đứng SAU đại từ bất định; else = khác.",
+          "ex": [
+            ["Let's go 【somewhere quiet】.", "Mình đi đâu đó yên tĩnh đi."],
+            ["Is there 【anything else】?", "Còn gì nữa không?"]
+          ]
+        }
+      ],
+      "notes": ["Khi nói, they / their dùng cho someone, everyone: Someone left their umbrella."],
+      "mistakes": [
+        ["I didn't see nobody.", "I didn't see anybody. / I saw nobody.", "Không dùng hai từ phủ định."],
+        ["Everyone are happy.", "Everyone is happy.", "Everyone đi với động từ số ít."]
+      ],
+      "practice": [
+        ["Is ___ hungry? (ai đó – câu hỏi)", "anyone/anybody"],
+        ["I want to eat something ___. (khác)", "else"],
+        ["There's ___ in the box. It's empty.", "nothing"]
+      ]
+    },
+    {
+      "id": "one-ones",
+      "title": "One / ones",
+      "sub": "Thay cho danh từ đếm được để khỏi lặp",
+      "level": "B1",
+      "form": ["the / this / a + (tính từ) + 【one】 (số ít)", "the / these + (tính từ) + 【ones】 (số nhiều)"],
+      "uses": [
+        {
+          "vi": "Thay cho danh từ đếm được vừa nhắc, thường dùng khi lựa chọn.",
+          "ex": [
+            ["I don't like the red shirt. I prefer the blue 【one】.", "Tôi không thích cái áo đỏ. Tôi thích cái màu xanh hơn."],
+            ["These shoes are too small. Do you have bigger 【ones】?", "Đôi giày này chật quá. Có đôi to hơn không?"],
+            ["Which 【one】 is yours?", "Cái nào là của bạn?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I need some water. Can I have a cold one?", "Can I have some cold water?", "One không thay cho danh từ không đếm được."]
+      ],
+      "practice": [
+        ["My phone is old. I want a new ___.", "one"],
+        ["The green apples are sweeter than the red ___.", "ones"]
+      ]
+    },
+    {
+      "id": "the-adjective",
+      "title": "The + adjective (the rich, the young)",
+      "sub": "The + tính từ chỉ một nhóm người",
+      "level": "B2",
+      "form": ["【the】 + tính từ = nhóm người có đặc điểm đó (động từ số nhiều)", "the rich · the poor · the elderly · the young · the unemployed · the disabled"],
+      "uses": [
+        {
+          "vi": "Nói chung về một nhóm người trong xã hội; không thêm -s vào tính từ.",
+          "ex": [
+            ["【The rich】 are getting richer.", "Người giàu ngày càng giàu thêm."],
+            ["We should do more to help 【the elderly】.", "Chúng ta nên làm nhiều hơn để giúp người cao tuổi."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["The poors need help.", "The poor need help.", "Tính từ không thêm -s."]
+      ],
+      "practice": [
+        ["The government promised more jobs for the ___. (thất nghiệp)", "unemployed"]
+      ]
+    },
+    {
+      "id": "advanced-quantifiers",
+      "title": "A great deal of / plenty of / a number of vs the number of",
+      "sub": "Lượng từ nâng cao",
+      "level": "B2",
+      "form": ["【a great deal of / a large amount of】 + không đếm được", "【a large number of / a number of】 + số nhiều + động từ số nhiều", "【the number of】 + số nhiều + động từ 【số ít】 · 【plenty of】 + cả hai (đủ, dư)"],
+      "uses": [
+        {
+          "vi": "Các lượng từ trang trọng hơn a lot of, hay dùng khi viết; chú ý a number of và the number of chia động từ khác nhau.",
+          "ex": [
+            ["The project required 【a great deal of】 effort.", "Dự án đòi hỏi rất nhiều công sức."],
+            ["【A number of】 students 【have】 complained.", "Một số sinh viên đã phàn nàn."],
+            ["【The number of】 tourists 【has】 doubled.", "Số lượng khách du lịch đã tăng gấp đôi."],
+            ["Don't worry, we've got 【plenty of】 time.", "Đừng lo, chúng ta còn dư thời gian."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["The number of cars are increasing.", "The number of cars is increasing.", "Chủ ngữ là the number → số ít."]
+      ],
+      "practice": [
+        ["A large ___ of people attended the concert.", "number"],
+        ["The number of accidents ___ fallen this year. (has/have)", "has"]
+      ]
+    }
+  ]
+}

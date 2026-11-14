@@ -1,4 +1,4 @@
-// Đồng bộ sổ từ với Supabase (chạy trong background, hoặc ngay trong trang ở bản web).
+// Đồng bộ sổ từ với Supabase (chạy trong background của extension).
 // chrome.storage.local vẫn là bản chính trên máy: dùng được khi offline, thay đổi chưa gửi nằm trong `dirty`.
 // Mọi lần ghi kho từ đi qua withWriteLock (shared.js) để không đè lên thao tác của người dùng.
 // Lưu trong storage:
@@ -223,7 +223,7 @@ function schedulePush() {
 }
 
 // ---------- Kích hoạt ----------
-// Chỉ nơi giữ vai trò đồng bộ mới tự kích hoạt: background của extension, hoặc chính trang web.
+// Chỉ nơi giữ vai trò đồng bộ (SYNC_HOST) mới tự kích hoạt: background của extension.
 // Trang Kho từ bên trong extension cũng nạp file này nhưng chỉ gọi qua background.
 
 function ensureSyncAlarm() {
@@ -242,5 +242,4 @@ if (globalThis.SYNC_HOST) {
   chrome.alarms.onAlarm.addListener((alarm) => {
     if (alarm.name === SYNC_ALARM) syncNow();
   });
-  if (globalThis.VEL_WEB) ensureSyncAlarm();
 }

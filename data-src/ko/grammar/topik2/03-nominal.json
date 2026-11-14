@@ -1,0 +1,143 @@
+{
+  "id": "k2-nominal",
+  "name": "Danh từ hoá và cấu trúc với 것",
+  "points": [
+    {
+      "id": "neun-geot",
+      "title": "V-는 것",
+      "sub": "Việc …, sự … (danh từ hoá động từ)",
+      "level": 2,
+      "form": ["Gốc động từ + 【는 것】 (văn nói: 는 거, 는 게 = 는 것이, 는 걸 = 는 것을)"],
+      "uses": [
+        {
+          "vi": "Biến hành động thành danh từ để làm chủ ngữ, tân ngữ (sở thích, khó khăn…).",
+          "ex": [
+            ["제 취미는 사진을 찍【는 것】이에요.", "Sở thích của tôi là chụp ảnh."],
+            ["한국어로 말하【는 게】 어려워요.", "Nói bằng tiếng Hàn thì khó."],
+            ["저는 요리하【는 걸】 좋아해요.", "Tôi thích nấu ăn."]
+          ]
+        }
+      ],
+      "practice": [
+        ["제 취미는 노래를 부르는 ___이에요.", "것"]
+      ]
+    },
+    {
+      "id": "gi-nominal",
+      "title": "V-기 + 좋다 / 싫다 / 쉽다 / 어렵다 · 시작하다",
+      "sub": "Danh từ hoá với -기",
+      "level": 2,
+      "form": ["Gốc + 【기】 + 좋다 / 싫다 / 쉽다 / 어렵다 / 편하다 / 힘들다", "Gốc + 【기 시작하다】 (bắt đầu)"],
+      "uses": [
+        {
+          "vi": "Nhận xét việc làm gì đó dễ / khó / dễ chịu…, hoặc bắt đầu làm gì.",
+          "ex": [
+            ["이 신발은 걷【기 편해요】.", "Đôi giày này đi rất thoải mái."],
+            ["한글은 배우【기 쉬워요】.", "Hangul dễ học."],
+            ["비가 오【기 시작했어요】.", "Trời bắt đầu mưa."]
+          ]
+        }
+      ],
+      "practice": [
+        ["이 책은 글씨가 작아서 읽___ 어려워요.", "기"]
+      ]
+    },
+    {
+      "id": "neun-ge-eottaeyo",
+      "title": "V-는 게 어때요? · V-는 게 좋겠어요",
+      "sub": "… thì sao? / Nên … thì hơn (khuyên, gợi ý)",
+      "level": 2,
+      "form": ["Gốc + 【는 게 어때요?】 · Gốc + 【는 게 좋겠어요】 · 【-지 않는 게 좋겠어요】"],
+      "uses": [
+        {
+          "vi": "Gợi ý, khuyên nhẹ nhàng.",
+          "ex": [
+            ["택시를 타【는 게 어때요】?", "Đi taxi thì sao?"],
+            ["좀 쉬【는 게 좋겠어요】.", "Bạn nên nghỉ ngơi một chút thì hơn."],
+            ["밤늦게 먹지 않【는 게 좋겠어요】.", "Không nên ăn khuya thì tốt hơn."]
+          ]
+        }
+      ],
+      "practice": [
+        ["병원에 가는 게 ___? (thì sao)", "어때요"]
+      ]
+    },
+    {
+      "id": "l-yejeongida",
+      "title": "V-(으)ㄹ 예정이다",
+      "sub": "Dự kiến sẽ … (kế hoạch chính thức)",
+      "level": 2,
+      "form": ["Không patchim / patchim ㄹ + 【ㄹ 예정이에요】 · Có patchim + 【을 예정이에요】"],
+      "uses": [
+        {
+          "vi": "Lịch trình, kế hoạch đã định (trang trọng, hay gặp trong thông báo).",
+          "ex": [
+            ["공연은 7시에 시작【할 예정입니다】.", "Buổi biểu diễn dự kiến bắt đầu lúc 7 giờ."],
+            ["다음 달에 결혼【할 예정이에요】.", "Tháng sau tôi dự kiến kết hôn."]
+          ]
+        }
+      ],
+      "practice": [
+        ["회의는 오후 2시에 끝___ 예정이에요. (끝나다)", "날"]
+      ]
+    },
+    {
+      "id": "neun-de-geollida",
+      "title": "V-는 데 (시간) 걸리다 / (돈) 들다",
+      "sub": "Để làm … mất (thời gian / tiền)",
+      "level": 2,
+      "form": ["Gốc + 【는 데】 + thời gian + 걸리다 · tiền + 들다"],
+      "uses": [
+        {
+          "vi": "Nói thời gian hoặc chi phí cần để làm việc gì.",
+          "ex": [
+            ["회사에 가【는 데】 한 시간 【걸려요】.", "Đi đến công ty mất một tiếng."],
+            ["집을 고치【는 데】 돈이 많이 【들었어요】.", "Sửa nhà tốn rất nhiều tiền."]
+          ]
+        }
+      ],
+      "practice": [
+        ["이 책을 다 읽는 ___ 일주일 걸렸어요.", "데"]
+      ]
+    },
+    {
+      "id": "neunji-alda",
+      "title": "V/A-는지 / -(으)ㄴ지 알다 · 모르다",
+      "sub": "Biết / không biết (là) … hay không, … thế nào",
+      "level": 2,
+      "form": ["Động từ + 【는지】 · Tính từ + 【(으)ㄴ지】 · N인지 + 알다 / 모르다 / 궁금하다", "Thường đi với từ để hỏi: 어디, 언제, 뭐, 어떻게, 왜"],
+      "uses": [
+        {
+          "vi": "Câu hỏi lồng trong câu (câu hỏi gián tiếp).",
+          "ex": [
+            ["화장실이 어디에 있【는지】 아세요?", "Anh có biết nhà vệ sinh ở đâu không?"],
+            ["그 사람이 누구【인지】 몰라요.", "Tôi không biết người đó là ai."],
+            ["시험이 언제【인지】 궁금해요.", "Tôi muốn biết khi nào thi."]
+          ]
+        }
+      ],
+      "practice": [
+        ["이 단어가 무슨 뜻___ 알아요?", "인지"]
+      ]
+    },
+    {
+      "id": "l-manhada",
+      "title": "V-(으)ㄹ 만하다",
+      "sub": "Đáng để …",
+      "level": 2,
+      "form": ["Không patchim / patchim ㄹ + 【ㄹ 만하다】 · Có patchim + 【을 만하다】"],
+      "uses": [
+        {
+          "vi": "Đáng làm, có giá trị; hoặc ở mức chấp nhận được.",
+          "ex": [
+            ["그 영화는 정말 【볼 만해요】.", "Bộ phim đó thực sự đáng xem."],
+            ["이 음식은 매운데 먹【을 만해요】.", "Món này cay nhưng vẫn ăn được."]
+          ]
+        }
+      ],
+      "practice": [
+        ["경주는 한번 가 ___ 곳이에요. (볼 만한)", "볼 만한"]
+      ]
+    }
+  ]
+}

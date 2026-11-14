@@ -10,3 +10,5 @@ Thumbs.db
 scripts/.migrate-*.json
 .keys/
 note.md
+# Báo cáo sinh ra khi build dữ liệu (npm run data:*), để rà tay
+data-src/*/reports/

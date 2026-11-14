@@ -1,0 +1,159 @@
+{
+  "id": "perfect",
+  "name": "Thì hiện tại hoàn thành",
+  "intro": "Nối quá khứ với hiện tại: kinh nghiệm, việc vừa xong, việc kéo dài đến bây giờ. Đây là thì người Việt dễ nhầm với quá khứ đơn nhất.",
+  "points": [
+    {
+      "id": "present-perfect",
+      "title": "Present perfect: experience",
+      "sub": "Hiện tại hoàn thành – kinh nghiệm, kết quả đến nay",
+      "level": "A2",
+      "form": ["have / has + 【V3】 (phân từ hai: worked, been, seen, written…)", "Phủ định: haven't / hasn't + V3 · Câu hỏi: Have / Has + S + V3…?"],
+      "uses": [
+        {
+          "vi": "Kinh nghiệm trong đời (không nói khi nào): ever, never, before, … times.",
+          "ex": [
+            ["【Have】 you ever 【eaten】 durian?", "Bạn đã bao giờ ăn sầu riêng chưa?"],
+            ["I【've】 never 【been】 to Europe.", "Tôi chưa bao giờ đến châu Âu."],
+            ["She【's read】 this book three times.", "Cô ấy đã đọc cuốn này ba lần."]
+          ]
+        },
+        {
+          "vi": "Việc trong quá khứ có kết quả còn ở hiện tại.",
+          "ex": [
+            ["I【've lost】 my wallet. (= bây giờ không có ví)", "Tôi bị mất ví rồi."],
+            ["They【've bought】 a new house.", "Họ đã mua nhà mới."]
+          ]
+        }
+      ],
+      "notes": ["Been to = đã đi và đã về; gone to = đã đi và còn ở đó: He's gone to Hanoi (giờ anh ấy đang ở Hà Nội)."],
+      "mistakes": [
+        ["I have seen him yesterday.", "I saw him yesterday.", "Có mốc thời gian xác định thì dùng quá khứ đơn."],
+        ["Did you ever try sushi?", "Have you ever tried sushi?", "Hỏi kinh nghiệm dùng hiện tại hoàn thành (tiếng Anh–Anh)."]
+      ],
+      "practice": [
+        ["I ___ (never / ride) a horse.", "have never ridden/'ve never ridden"],
+        ["Have you ever ___ (meet) a famous person?", "met"],
+        ["She ___ (break) her arm, so she can't write.", "has broken/'s broken"]
+      ],
+      "see": ["just-already-yet", "present-perfect-vs-past"]
+    },
+    {
+      "id": "just-already-yet",
+      "title": "Just / already / yet / still",
+      "sub": "Vừa mới, đã … rồi, chưa, vẫn",
+      "level": "A2",
+      "form": ["have 【just】 / 【already】 + V3 (giữa câu)", "… 【yet】? / haven't … 【yet】 (cuối câu)", "S + 【still】 + haven't + V3"],
+      "uses": [
+        {
+          "vi": "Just = vừa mới; already = đã … rồi (sớm hơn mong đợi); yet = chưa / … chưa? (câu phủ định, câu hỏi); still = vẫn (chưa) – nhấn mạnh sự chậm trễ.",
+          "ex": [
+            ["I【've just】 finished my homework.", "Tôi vừa làm xong bài tập."],
+            ["She【's already】 left.", "Cô ấy đi mất rồi."],
+            ["Have you called him 【yet】?", "Bạn gọi cho anh ấy chưa?"],
+            ["I 【still】 haven't found a job.", "Tôi vẫn chưa tìm được việc."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I didn't finish yet.", "I haven't finished yet.", "Tiếng Anh–Anh dùng hiện tại hoàn thành với yet."]
+      ],
+      "practice": [
+        ["Have you done your homework ___?", "yet"],
+        ["Don't tell me the ending – I haven't seen the film ___.", "yet"],
+        ["We've ___ had lunch, so we're not hungry. (vừa mới)", "just"]
+      ]
+    },
+    {
+      "id": "for-since",
+      "title": "Present perfect with for / since / how long",
+      "sub": "Việc bắt đầu trong quá khứ và còn kéo dài đến nay",
+      "level": "A2",
+      "form": ["have / has + V3 + 【for】 + khoảng thời gian (for two years)", "have / has + V3 + 【since】 + mốc (since 2020, since I was ten)", "【How long】 have you + V3…?"],
+      "uses": [
+        {
+          "vi": "Tình trạng bắt đầu trong quá khứ và vẫn còn đúng bây giờ. Tiếng Việt dùng hiện tại (“tôi sống ở đây 5 năm rồi”), tiếng Anh phải dùng thì hoàn thành.",
+          "ex": [
+            ["I【've lived】 here 【for】 five years.", "Tôi sống ở đây được 5 năm rồi."],
+            ["We【've known】 each other 【since】 high school.", "Chúng tôi quen nhau từ hồi cấp ba."],
+            ["【How long】 have you 【worked】 there?", "Bạn làm ở đó bao lâu rồi?"]
+          ]
+        }
+      ],
+      "notes": ["It's + khoảng thời gian + since + quá khứ đơn: It's two years since I last saw her."],
+      "mistakes": [
+        ["I live here since 2019.", "I have lived here since 2019.", "Since đi với thì hoàn thành."],
+        ["I've worked here since three years.", "I've worked here for three years.", "Khoảng thời gian dùng for."]
+      ],
+      "practice": [
+        ["She has been a teacher ___ 2015.", "since"],
+        ["They've been married ___ ten years.", "for"],
+        ["How long have you ___ (have) this car?", "had"]
+      ],
+      "see": ["present-perfect-continuous"]
+    },
+    {
+      "id": "present-perfect-vs-past",
+      "title": "Present perfect vs past simple",
+      "sub": "Phân biệt hiện tại hoàn thành và quá khứ đơn",
+      "level": "B1",
+      "form": ["Không nói / không quan trọng khi nào, liên quan đến hiện tại → 【present perfect】", "Thời điểm đã xong, xác định (yesterday, in 2010, ago, when…) → 【past simple】"],
+      "uses": [
+        {
+          "vi": "Hiện tại hoàn thành mở đầu tin tức, quá khứ đơn kể chi tiết.",
+          "ex": [
+            ["I【've been】 to Thailand. I 【went】 there in 2022.", "Tôi đã đến Thái Lan rồi. Tôi đi năm 2022."],
+            ["Have you 【heard】? Nam 【has had】 an accident. He 【fell】 off his bike this morning.", "Nghe tin chưa? Nam bị tai nạn. Sáng nay cậu ấy ngã xe."]
+          ]
+        },
+        {
+          "vi": "Khoảng thời gian chưa kết thúc (today, this week, this year) dùng hiện tại hoàn thành; đã kết thúc dùng quá khứ đơn.",
+          "ex": [
+            ["I【've drunk】 three coffees today.", "Hôm nay tôi đã uống ba ly cà phê."],
+            ["I 【drank】 three coffees yesterday.", "Hôm qua tôi uống ba ly cà phê."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["When have you arrived?", "When did you arrive?", "Câu hỏi when hỏi mốc thời gian → quá khứ đơn."],
+        ["I have finished university in 2020.", "I finished university in 2020.", "Có năm cụ thể → quá khứ đơn."]
+      ],
+      "practice": [
+        ["I ___ (see) that film last weekend.", "saw"],
+        ["___ you ever tried bungee jumping?", "Have"],
+        ["She ___ (work) here since March.", "has worked/has been working"]
+      ]
+    },
+    {
+      "id": "present-perfect-continuous",
+      "title": "Present perfect continuous",
+      "sub": "Hiện tại hoàn thành tiếp diễn",
+      "level": "B1",
+      "form": ["have / has been + 【V-ing】"],
+      "uses": [
+        {
+          "vi": "Hoạt động kéo dài từ quá khứ đến bây giờ, nhấn mạnh quá trình, thời lượng.",
+          "ex": [
+            ["I【've been learning】 English for six years.", "Tôi học tiếng Anh được sáu năm rồi."],
+            ["How long 【have】 you 【been waiting】?", "Bạn đợi bao lâu rồi?"]
+          ]
+        },
+        {
+          "vi": "Giải thích dấu vết, kết quả của một hoạt động vừa mới diễn ra.",
+          "ex": [
+            ["You're out of breath. 【Have】 you 【been running】?", "Bạn thở hổn hển thế. Vừa chạy à?"],
+            ["The ground is wet. It【's been raining】.", "Đất ướt. Trời vừa mưa."]
+          ]
+        }
+      ],
+      "notes": ["Nói SỐ LƯỢNG đã làm được thì dùng hiện tại hoàn thành đơn: I've written three emails (không: I've been writing three emails)."],
+      "mistakes": [
+        ["I've been knowing her since 2010.", "I've known her since 2010.", "Know là động từ trạng thái."]
+      ],
+      "practice": [
+        ["My hands are dirty because I ___ (garden).", "have been gardening/'ve been gardening"],
+        ["She ___ (study) for three hours. She needs a break.", "has been studying/'s been studying"]
+      ]
+    }
+  ]
+}

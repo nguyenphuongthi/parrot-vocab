@@ -1,0 +1,304 @@
+{
+  "id": "k2-endings",
+  "name": "Đuôi câu: phỏng đoán, quyết định, thay đổi",
+  "points": [
+    {
+      "id": "l-raeyo",
+      "title": "V-(으)ㄹ래요",
+      "sub": "Tôi muốn … / Bạn có muốn …? (ý muốn – thân mật)",
+      "level": 2,
+      "form": ["Không patchim / patchim ㄹ + 【ㄹ래요】 · Có patchim + 【을래요】"],
+      "uses": [
+        {
+          "vi": "Nói ý muốn của mình hoặc hỏi ý người nghe, thân mật hơn -(으)ㄹ까요.",
+          "ex": [
+            ["저는 비빔밥 먹【을래요】.", "Tôi ăn bibimbap."],
+            ["같이 영화 【볼래요】?", "Đi xem phim với tớ không?"],
+            ["뭐 마【실래요】?", "Bạn muốn uống gì?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["저는 집에서 ___. (쉬다)", "쉴래요"]
+      ]
+    },
+    {
+      "id": "geot-gatda",
+      "title": "V/A-(으)ㄴ / 는 / (으)ㄹ 것 같다",
+      "sub": "Hình như, có lẽ, chắc là",
+      "level": 2,
+      "form": ["Hiện tại: động từ + 【는 것 같아요】 · tính từ + 【(으)ㄴ 것 같아요】", "Quá khứ: động từ + 【(으)ㄴ 것 같아요】", "Phỏng đoán tương lai / chưa chắc: + 【(으)ㄹ 것 같아요】"],
+      "uses": [
+        {
+          "vi": "Phỏng đoán dựa trên quan sát; cũng dùng để nói ý kiến một cách nhẹ nhàng, khiêm tốn.",
+          "ex": [
+            ["밖에 비가 오【는 것 같아요】.", "Hình như ngoài trời đang mưa."],
+            ["민수 씨가 벌써 【간 것 같아요】.", "Hình như Minsu đã về rồi."],
+            ["내일은 추【울 것 같아요】.", "Có lẽ mai sẽ lạnh."],
+            ["이 옷이 더 예【쁜 것 같아요】.", "Tôi thấy bộ này đẹp hơn."]
+          ]
+        }
+      ],
+      "practice": [
+        ["저 사람은 학생인 ___ 같아요.", "것"],
+        ["시험이 어려___ 것 같아요. (tương lai – ㅂ bất quy tắc)", "울"]
+      ],
+      "see": ["a-boida"]
+    },
+    {
+      "id": "a-boida",
+      "title": "A-아 / 어 보이다",
+      "sub": "Trông có vẻ …",
+      "level": 2,
+      "form": ["ㅏ, ㅗ + 【아 보여요】 · khác + 【어 보여요】 · 하다 → 【해 보여요】"],
+      "uses": [
+        {
+          "vi": "Nhận xét bề ngoài của người, vật (chỉ dùng với tính từ).",
+          "ex": [
+            ["피곤【해 보여요】.", "Trông bạn có vẻ mệt."],
+            ["이 케이크 맛있【어 보여요】.", "Bánh này trông ngon quá."],
+            ["오늘 기분이 좋【아 보이네요】.", "Hôm nay trông bạn vui nhỉ."]
+          ]
+        }
+      ],
+      "practice": [
+        ["그 가방 비싸 ___. (trông có vẻ)", "보여요"]
+      ]
+    },
+    {
+      "id": "giro-hada",
+      "title": "V-기로 하다",
+      "sub": "Quyết định / hẹn là sẽ …",
+      "level": 2,
+      "form": ["Gốc động từ + 【기로 했어요】 (thường ở quá khứ)"],
+      "uses": [
+        {
+          "vi": "Quyết định của bản thân hoặc thoả thuận với người khác.",
+          "ex": [
+            ["내년부터 운동하【기로 했어요】.", "Tôi đã quyết định từ năm sau sẽ tập thể dục."],
+            ["친구하고 주말에 만나【기로 했어요】.", "Tôi đã hẹn với bạn cuối tuần gặp nhau."]
+          ]
+        }
+      ],
+      "practice": [
+        ["담배를 끊___ 했어요.", "기로"]
+      ]
+    },
+    {
+      "id": "lkka-hada",
+      "title": "V-(으)ㄹ까 하다",
+      "sub": "Đang tính / định (chưa chắc)",
+      "level": 2,
+      "form": ["Không patchim / patchim ㄹ + 【ㄹ까 해요】 · Có patchim + 【을까 해요】"],
+      "uses": [
+        {
+          "vi": "Ý định còn mơ hồ, đang cân nhắc.",
+          "ex": [
+            ["이번 휴가에 제주도에 【갈까 해요】.", "Kỳ nghỉ này tôi đang tính đi Jeju."],
+            ["머리를 짧게 자【를까 해요】.", "Tôi đang định cắt tóc ngắn."]
+          ]
+        }
+      ],
+      "practice": [
+        ["주말에 집에서 ___ 해요. (쉬다)", "쉴까"]
+      ]
+    },
+    {
+      "id": "ge-doeda",
+      "title": "V-게 되다",
+      "sub": "Trở nên, được / bị (thay đổi do hoàn cảnh)",
+      "level": 2,
+      "form": ["Gốc động từ + 【게 되다】"],
+      "uses": [
+        {
+          "vi": "Kết quả thay đổi không phải do ý muốn ban đầu, hoặc do hoàn cảnh đưa đến.",
+          "ex": [
+            ["회사 때문에 서울에서 살【게 됐어요】.", "Vì công việc mà tôi chuyển đến sống ở Seoul."],
+            ["한국 드라마를 보고 한국어를 좋아하【게 됐어요】.", "Xem phim Hàn rồi tôi dần thích tiếng Hàn."]
+          ]
+        }
+      ],
+      "practice": [
+        ["다음 달부터 이 회사에서 일하___ 됐어요.", "게"]
+      ]
+    },
+    {
+      "id": "a-jida",
+      "title": "A-아 / 어지다",
+      "sub": "Trở nên … (tính chất thay đổi)",
+      "level": 2,
+      "form": ["ㅏ, ㅗ + 【아지다】 · khác + 【어지다】 · 하다 → 【해지다】"],
+      "uses": [
+        {
+          "vi": "Biến tính từ thành động từ chỉ sự thay đổi trạng thái.",
+          "ex": [
+            ["날씨가 추【워졌어요】.", "Thời tiết đã trở lạnh."],
+            ["한국어 실력이 좋【아졌어요】.", "Trình độ tiếng Hàn đã tốt lên."],
+            ["요즘 바【빠졌어요】.", "Dạo này tôi bận hơn."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["날씨가 따뜻하게 됐어요.", "날씨가 따뜻해졌어요.", "Tính từ chỉ sự thay đổi tự nhiên dùng -아/어지다."]
+      ],
+      "practice": [
+        ["방이 깨끗___. (하다 → trở nên – quá khứ)", "해졌어요"]
+      ]
+    },
+    {
+      "id": "a-itda",
+      "title": "V-아 / 어 있다",
+      "sub": "Đang ở trạng thái (kết quả còn duy trì)",
+      "level": 2,
+      "form": ["Nội động từ / bị động + 【아/어 있다】 (앉다 → 앉아 있다, 열리다 → 열려 있다)"],
+      "uses": [
+        {
+          "vi": "Trạng thái sau khi hành động kết thúc vẫn còn (khác -고 있다 là hành động đang diễn ra).",
+          "ex": [
+            ["문이 열【려 있어요】.", "Cửa đang mở."],
+            ["할머니가 의자에 앉【아 계세요】.", "Bà đang ngồi trên ghế."],
+            ["벽에 그림이 걸【려 있어요】.", "Trên tường có treo bức tranh."]
+          ]
+        }
+      ],
+      "notes": ["옷을 입고 있어요 (đang mặc / đang mặc sẵn) – với động từ mặc, đội, đeo dùng -고 있다 cho trạng thái."],
+      "practice": [
+        ["책상 위에 책이 놓여 ___.", "있어요"]
+      ]
+    },
+    {
+      "id": "janayo",
+      "title": "V/A-잖아요",
+      "sub": "… mà! (nhắc điều người nghe đã biết)",
+      "level": 2,
+      "form": ["Gốc + 【잖아요】 · N(이)잖아요"],
+      "uses": [
+        {
+          "vi": "Nhắc lại, nhấn mạnh lý do mà cả hai đều biết; văn nói thân mật.",
+          "ex": [
+            ["제가 말했【잖아요】.", "Tôi đã nói rồi mà."],
+            ["오늘은 일요일이【잖아요】. 그래서 문을 안 열어요.", "Hôm nay là chủ nhật mà. Nên cửa hàng không mở."]
+          ]
+        }
+      ],
+      "practice": [
+        ["밖에 비가 오___. 우산 가져가세요.", "잖아요"]
+      ]
+    },
+    {
+      "id": "gunyo",
+      "title": "V/A-(는)군요",
+      "sub": "Thì ra là …! (nhận ra điều mới)",
+      "level": 2,
+      "form": ["Động từ + 【는군요】 · Tính từ + 【군요】 · N(이)군요 · Quá khứ: -았/었군요"],
+      "uses": [
+        {
+          "vi": "Ngạc nhiên khi biết thông tin mới (thường qua lời người khác kể).",
+          "ex": [
+            ["아, 그래서 늦었【군요】.", "À, thì ra vì thế mà đến muộn."],
+            ["한국어를 3년이나 공부하셨【군요】.", "Thì ra anh đã học tiếng Hàn những ba năm."]
+          ]
+        }
+      ],
+      "practice": [
+        ["그 사람이 가수였___. (thì ra)", "군요"]
+      ]
+    },
+    {
+      "id": "eumyeon-doeda",
+      "title": "V-(으)면 되다",
+      "sub": "Chỉ cần … là được",
+      "level": 2,
+      "form": ["Không patchim / patchim ㄹ + 【면 돼요】 · Có patchim + 【으면 돼요】"],
+      "uses": [
+        {
+          "vi": "Điều kiện đủ để đạt được việc gì; hay dùng khi hướng dẫn.",
+          "ex": [
+            ["여기에 이름을 쓰【면 돼요】.", "Chỉ cần viết tên vào đây là được."],
+            ["이 버스를 타【면 돼요】.", "Bạn chỉ cần đi xe buýt này là được."]
+          ]
+        }
+      ],
+      "practice": [
+        ["이 버튼을 누르___ 돼요.", "면"]
+      ]
+    },
+    {
+      "id": "ayagetda",
+      "title": "V-아 / 어야겠다",
+      "sub": "Chắc phải … (quyết tâm của người nói)",
+      "level": 2,
+      "form": ["ㅏ, ㅗ + 【아야겠어요】 · khác + 【어야겠어요】 · 하다 → 【해야겠어요】"],
+      "uses": [
+        {
+          "vi": "Người nói tự thấy cần làm gì và quyết định làm.",
+          "ex": [
+            ["너무 피곤해요. 오늘은 일찍 자【야겠어요】.", "Mệt quá. Hôm nay chắc phải ngủ sớm."],
+            ["살이 쪘어요. 운동을 【해야겠어요】.", "Tôi tăng cân rồi. Phải tập thể dục thôi."]
+          ]
+        }
+      ],
+      "practice": [
+        ["시험이 다음 주예요. 열심히 공부___. (하다)", "해야겠어요"]
+      ]
+    },
+    {
+      "id": "eun-pyeonida",
+      "title": "V/A-(으)ㄴ / 는 편이다",
+      "sub": "Thuộc dạng, khá là …",
+      "level": 2,
+      "form": ["Động từ + 【는 편이다】 · Tính từ + 【(으)ㄴ 편이다】"],
+      "uses": [
+        {
+          "vi": "Nhận xét xu hướng chung một cách mềm mỏng, không tuyệt đối.",
+          "ex": [
+            ["저는 많이 먹【는 편이에요】.", "Tôi thuộc dạng ăn nhiều."],
+            ["이 식당은 가격이 싼 【편이에요】.", "Quán này giá thuộc loại rẻ."]
+          ]
+        }
+      ],
+      "practice": [
+        ["동생은 키가 큰 ___이에요.", "편"]
+      ]
+    },
+    {
+      "id": "neun-jungida",
+      "title": "V-는 중이다 · N 중이다",
+      "sub": "Đang trong lúc …",
+      "level": 2,
+      "form": ["Gốc động từ + 【는 중이에요】 · N + 【중이에요】 (회의 중, 수업 중, 공사 중)"],
+      "uses": [
+        {
+          "vi": "Đang ở giữa quá trình làm việc gì (trang trọng hơn -고 있다, hay gặp trên biển báo).",
+          "ex": [
+            ["지금 회의 【중이에요】.", "Bây giờ đang họp."],
+            ["새 집을 찾【는 중이에요】.", "Tôi đang tìm nhà mới."]
+          ]
+        }
+      ],
+      "practice": [
+        ["지금 통화하는 ___이에요.", "중"]
+      ]
+    },
+    {
+      "id": "eumyeon-joketda",
+      "title": "V/A-았 / 었으면 좋겠다",
+      "sub": "Ước gì, mong là …",
+      "level": 2,
+      "form": ["Gốc + 【았/었으면 좋겠어요】 (hoặc -(으)면 좋겠어요)"],
+      "uses": [
+        {
+          "vi": "Bày tỏ mong muốn, hy vọng.",
+          "ex": [
+            ["빨리 방학이 됐【으면 좋겠어요】.", "Mong kỳ nghỉ đến nhanh."],
+            ["내일 날씨가 좋【았으면 좋겠어요】.", "Mong mai trời đẹp."],
+            ["시험에 합격했【으면 좋겠어요】.", "Mong là thi đỗ."]
+          ]
+        }
+      ],
+      "practice": [
+        ["돈이 많았___ 좋겠어요.", "으면"]
+      ]
+    }
+  ]
+}

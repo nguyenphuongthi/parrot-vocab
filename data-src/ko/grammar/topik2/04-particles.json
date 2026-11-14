@@ -1,0 +1,144 @@
+{
+  "id": "k2-particles",
+  "name": "Trợ từ (sơ cấp 2)",
+  "points": [
+    {
+      "id": "bakke",
+      "title": "N밖에 + phủ định",
+      "sub": "Chỉ (có) … thôi (ít hơn mong đợi)",
+      "level": 2,
+      "form": ["N + 【밖에】 + 없다 / 안 / 못 / 모르다 (luôn đi với phủ định)"],
+      "uses": [
+        {
+          "vi": "Giống 만 nhưng nhấn mạnh sự ít ỏi, không đủ, và động từ phải ở dạng phủ định.",
+          "ex": [
+            ["지갑에 만 원【밖에】 없어요.", "Trong ví chỉ còn mười nghìn won."],
+            ["어제 세 시간【밖에】 못 잤어요.", "Hôm qua tôi chỉ ngủ được ba tiếng."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["저는 한국어밖에 알아요.", "저는 한국어밖에 몰라요. / 저는 한국어만 알아요.", "밖에 phải đi với phủ định."]
+      ],
+      "practice": [
+        ["교실에 학생이 두 명___ 없어요.", "밖에"]
+      ]
+    },
+    {
+      "id": "cheoreom",
+      "title": "N처럼 · N같이 · N 같은",
+      "sub": "Như, giống như",
+      "level": 2,
+      "form": ["N + 【처럼 / 같이】 + động từ / tính từ", "N + 【같은】 + N (… như N)"],
+      "uses": [
+        {
+          "vi": "So sánh giống nhau.",
+          "ex": [
+            ["동생은 가수【처럼】 노래를 잘해요.", "Em tôi hát hay như ca sĩ."],
+            ["얼음【같이】 차가워요.", "Lạnh như băng."],
+            ["저도 언니 【같은】 사람이 되고 싶어요.", "Tôi cũng muốn trở thành người như chị."]
+          ]
+        }
+      ],
+      "practice": [
+        ["그 아이는 인형___ 귀여워요.", "처럼/같이"]
+      ]
+    },
+    {
+      "id": "ina-amount",
+      "title": "N(이)나 (số lượng)",
+      "sub": "Tận, những … (nhiều hơn mong đợi)",
+      "level": 2,
+      "form": ["Số lượng: không patchim + 【나】 / có patchim + 【이나】"],
+      "uses": [
+        {
+          "vi": "Ngạc nhiên vì số lượng nhiều (ngược với 밖에).",
+          "ex": [
+            ["커피를 다섯 잔【이나】 마셨어요.", "Tôi đã uống những năm ly cà phê."],
+            ["두 시간【이나】 기다렸어요.", "Tôi đã đợi tận hai tiếng."]
+          ]
+        }
+      ],
+      "practice": [
+        ["어제 열 시간___ 잤어요.", "이나"]
+      ]
+    },
+    {
+      "id": "mada",
+      "title": "N마다",
+      "sub": "Mỗi, mọi",
+      "level": 2,
+      "form": ["N + 【마다】 (주말마다, 사람마다, 날마다)"],
+      "uses": [
+        {
+          "vi": "Lặp lại đều đặn hoặc không có ngoại lệ.",
+          "ex": [
+            ["주말【마다】 등산을 가요.", "Cuối tuần nào tôi cũng đi leo núi."],
+            ["사람【마다】 생각이 달라요.", "Mỗi người một suy nghĩ."]
+          ]
+        }
+      ],
+      "notes": ["Không dùng 매일마다 (thừa) – nói 매일 hoặc 날마다."],
+      "practice": [
+        ["아침___ 커피를 마셔요.", "마다"]
+      ]
+    },
+    {
+      "id": "irado",
+      "title": "N(이)라도",
+      "sub": "Dù chỉ là … cũng được (lựa chọn tạm)",
+      "level": 2,
+      "form": ["Không patchim + 【라도】 / có patchim + 【이라도】"],
+      "uses": [
+        {
+          "vi": "Không phải lựa chọn tốt nhất nhưng chấp nhận được.",
+          "ex": [
+            ["밥이 없으면 라면【이라도】 먹을게요.", "Không có cơm thì tôi ăn mì gói cũng được."],
+            ["바쁘면 전화【라도】 하세요.", "Nếu bận thì ít nhất cũng gọi điện nhé."]
+          ]
+        }
+      ],
+      "practice": [
+        ["시간이 없으면 주말에___ 만나요.", "라도"]
+      ]
+    },
+    {
+      "id": "mankeum",
+      "title": "N만큼",
+      "sub": "Bằng, như (mức độ)",
+      "level": 2,
+      "form": ["N + 【만큼】 · V/A-(으)ㄴ/는/(으)ㄹ 만큼"],
+      "uses": [
+        {
+          "vi": "So sánh mức độ ngang bằng.",
+          "ex": [
+            ["동생도 형【만큼】 키가 커요.", "Em cũng cao bằng anh."],
+            ["먹을 【만큼】만 담으세요.", "Chỉ lấy vừa đủ lượng mình ăn."]
+          ]
+        }
+      ],
+      "practice": [
+        ["저는 언니___ 노래를 잘 못해요.", "만큼"]
+      ]
+    },
+    {
+      "id": "e-daehae",
+      "title": "N에 대해(서) · N에 대한",
+      "sub": "Về (chủ đề)",
+      "level": 2,
+      "form": ["N + 【에 대해서】 + động từ · N + 【에 대한】 + N"],
+      "uses": [
+        {
+          "vi": "Chỉ chủ đề được nói đến, tìm hiểu.",
+          "ex": [
+            ["한국 문화【에 대해서】 발표했어요.", "Tôi đã thuyết trình về văn hoá Hàn Quốc."],
+            ["환경【에 대한】 책을 읽었어요.", "Tôi đã đọc sách về môi trường."]
+          ]
+        }
+      ],
+      "practice": [
+        ["이 문제에 ___ 어떻게 생각해요? (대해)", "대해"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "id": "basics",
+  "name": "Nền tảng: to be, đại từ, sở hữu",
+  "intro": "Những khối xây dựng đầu tiên của câu tiếng Anh: động từ to be, đại từ, cách nói sở hữu và câu mệnh lệnh.",
+  "points": [
+    {
+      "id": "to-be",
+      "title": "To be: am / is / are",
+      "sub": "Động từ “là, thì, ở” – thì hiện tại",
+      "level": "A1",
+      "form": ["I 【am】 · he / she / it 【is】 · you / we / they 【are】", "Phủ định: am not · isn't · aren't", "Câu hỏi: 【Am】 I…? · 【Is】 she…? · 【Are】 you…?"],
+      "uses": [
+        {
+          "vi": "Giới thiệu tên, nghề nghiệp, quốc tịch, tuổi; mô tả tính chất, cảm xúc. Lưu ý tiếng Anh nói tuổi, đói, lạnh… bằng to be chứ không dùng “have”.",
+          "ex": [
+            ["I【'm】 Lan. I【'm】 a student.", "Tôi là Lan. Tôi là sinh viên."],
+            ["She【's】 twenty-two years old.", "Cô ấy 22 tuổi."],
+            ["We【're】 hungry.", "Chúng tôi đói."]
+          ]
+        },
+        {
+          "vi": "Nói vị trí: ở đâu.",
+          "ex": [
+            ["The keys 【are】 on the table.", "Chìa khoá ở trên bàn."],
+            ["【Is】 your mum at home?", "Mẹ bạn có ở nhà không?"]
+          ]
+        }
+      ],
+      "notes": ["Khi nói, thường rút gọn: I'm, you're, he's, it's, we're, they're.", "Trả lời ngắn không rút gọn ở dạng khẳng định: Yes, I am. (không nói *Yes, I'm.)"],
+      "mistakes": [
+        ["I have 20 years old.", "I am 20 years old.", "Tuổi dùng to be, không dùng have."],
+        ["She very tired.", "She is very tired.", "Tiếng Việt bỏ được “thì / là”, tiếng Anh bắt buộc có to be trước tính từ."]
+      ],
+      "practice": [
+        ["My parents ___ teachers.", "are"],
+        ["___ it cold today?", "Is"],
+        ["I ___ not ready yet.", "am"]
+      ]
+    },
+    {
+      "id": "there-is",
+      "title": "There is / There are",
+      "sub": "Có (cái gì đó tồn tại ở đâu)",
+      "level": "A1",
+      "form": ["There 【is】 + danh từ số ít / không đếm được", "There 【are】 + danh từ số nhiều", "Câu hỏi: 【Is there】…? · 【Are there】…? — Phủ định: There isn't / There aren't"],
+      "uses": [
+        {
+          "vi": "Nói rằng một thứ có / tồn tại ở một nơi. Đây là cách tự nhiên để giới thiệu thông tin mới, thay vì dịch từng chữ “có” thành have.",
+          "ex": [
+            ["【There's】 a bank near my house.", "Có một ngân hàng gần nhà tôi."],
+            ["【There are】 thirty students in my class.", "Lớp tôi có 30 học sinh."],
+            ["【Is there】 any milk in the fridge?", "Trong tủ lạnh có sữa không?"]
+          ]
+        }
+      ],
+      "notes": ["Thì quá khứ: there was / there were; tương lai: there will be.", "Với danh sách, động từ hợp với danh từ đầu tiên: There is a pen and two books on the desk."],
+      "mistakes": [
+        ["It has a park near here.", "There is a park near here.", "“Có” chỉ sự tồn tại dùng there is, không dùng it has."],
+        ["There is many people.", "There are many people.", "People là số nhiều."]
+      ],
+      "practice": [
+        ["___ some apples in the bag.", "There are"],
+        ["___ a problem with my phone.", "There is/There's"],
+        ["Are ___ any good restaurants here?", "there"]
+      ]
+    },
+    {
+      "id": "have-got",
+      "title": "Have / have got",
+      "sub": "Có (sở hữu), quan hệ, bệnh tật",
+      "level": "A1",
+      "form": ["I / you / we / they 【have】 — he / she / it 【has】", "Anh: I【've got】 · she【's got】", "Câu hỏi: 【Do you have】…? / 【Have you got】…?"],
+      "uses": [
+        {
+          "vi": "Nói về sở hữu, gia đình, đặc điểm cơ thể, bệnh. Have got thường dùng trong tiếng Anh–Anh khi nói; have dùng ở mọi nơi.",
+          "ex": [
+            ["I 【have】 two brothers.", "Tôi có hai anh trai."],
+            ["She【's got】 long black hair.", "Cô ấy có mái tóc đen dài."],
+            ["【Do you have】 a pen?", "Bạn có bút không?"]
+          ]
+        }
+      ],
+      "notes": ["Have got chỉ dùng ở hiện tại. Quá khứ luôn là had: I had a cold last week.", "Have còn dùng trong nhiều cụm hành động (không thay bằng have got): have breakfast, have a shower, have fun."],
+      "mistakes": [
+        ["He have a car.", "He has a car.", "Ngôi thứ ba số ít dùng has."],
+        ["Have you a pen?", "Do you have a pen? / Have you got a pen?", "Câu hỏi với have cần trợ động từ do (hoặc dùng have got)."]
+      ],
+      "practice": [
+        ["My sister ___ (have) a new job.", "has"],
+        ["___ you got any brothers?", "Have"],
+        ["We ___ (not have) a garden.", "don't have/haven't got"]
+      ]
+    },
+    {
+      "id": "pronouns",
+      "title": "Subject & object pronouns",
+      "sub": "Đại từ chủ ngữ và tân ngữ: I/me, he/him…",
+      "level": "A1",
+      "form": ["Chủ ngữ: I · you · he · she · it · we · they", "Tân ngữ: 【me】 · you · 【him】 · 【her】 · it · 【us】 · 【them】"],
+      "uses": [
+        {
+          "vi": "Đại từ chủ ngữ đứng trước động từ (ai làm). Đại từ tân ngữ đứng sau động từ hoặc giới từ (làm cho ai, với ai).",
+          "ex": [
+            ["【She】 loves 【him】.", "Cô ấy yêu anh ấy."],
+            ["Can you help 【me】?", "Bạn giúp tôi được không?"],
+            ["I'm going with 【them】.", "Tôi đi cùng họ."]
+          ]
+        },
+        {
+          "vi": "Trong câu trả lời ngắn và sau to be, người bản xứ dùng đại từ tân ngữ.",
+          "ex": [
+            ["Who's there? — 【Me】!", "Ai đấy? — Tôi đây!"],
+            ["It's 【him】 in the photo.", "Người trong ảnh là anh ấy."]
+          ]
+        }
+      ],
+      "notes": ["Tiếng Anh không bỏ chủ ngữ như tiếng Việt: It's raining (không nói *Is raining).", "It dùng cho đồ vật, con vật, và chủ ngữ giả khi nói thời tiết, thời gian, khoảng cách."],
+      "mistakes": [
+        ["Me and him went out.", "He and I went out.", "Ở vị trí chủ ngữ (văn viết) dùng đại từ chủ ngữ; lịch sự đặt I sau."],
+        ["Between you and I…", "Between you and me…", "Sau giới từ dùng đại từ tân ngữ."]
+      ],
+      "practice": [
+        ["Tom is my friend. I see ___ every day.", "him"],
+        ["My parents called and I talked to ___.", "them"],
+        ["Anna and ___ are in the same class. (I/me)", "I"]
+      ]
+    },
+    {
+      "id": "possessives",
+      "title": "Possessive adjectives & pronouns",
+      "sub": "Tính từ và đại từ sở hữu: my/mine, your/yours…",
+      "level": "A1",
+      "form": ["Tính từ sở hữu + danh từ: 【my】 · your · his · her · its · our · their", "Đại từ sở hữu (đứng một mình): 【mine】 · yours · his · hers · ours · theirs"],
+      "uses": [
+        {
+          "vi": "Tính từ sở hữu luôn đi kèm danh từ. Đại từ sở hữu thay cho cả cụm “tính từ sở hữu + danh từ” để khỏi lặp.",
+          "ex": [
+            ["This is 【my】 bag. Where's 【yours】?", "Đây là túi của tôi. Túi của bạn đâu?"],
+            ["The dog wagged 【its】 tail.", "Con chó vẫy đuôi."],
+            ["Is this phone 【hers】?", "Điện thoại này của cô ấy à?"]
+          ]
+        },
+        {
+          "vi": "Tiếng Anh dùng tính từ sở hữu với bộ phận cơ thể và đồ dùng cá nhân, nơi tiếng Việt thường bỏ.",
+          "ex": [
+            ["I washed 【my】 hands.", "Tôi rửa tay."],
+            ["He put on 【his】 jacket.", "Anh ấy mặc áo khoác."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["It's a friend of me.", "It's a friend of mine.", "Cấu trúc a … of + đại từ sở hữu."],
+        ["The company changed it's logo.", "The company changed its logo.", "Its (sở hữu) không có dấu nháy; it's = it is."]
+      ],
+      "practice": [
+        ["That isn't my coat. ___ is blue. (Mine/My)", "Mine"],
+        ["They love ___ new flat. (their/theirs)", "their"],
+        ["Is this your seat or ___? (her/hers)", "hers"]
+      ],
+      "see": ["possessive-s"]
+    },
+    {
+      "id": "possessive-s",
+      "title": "Possessive ’s and of",
+      "sub": "Sở hữu cách: Lan's book, the end of the film",
+      "level": "A1",
+      "form": ["Người / con vật: danh từ + 【's】 (số nhiều có s: 【s'】)", "Đồ vật, ý trừu tượng: the … 【of】 the …"],
+      "uses": [
+        {
+          "vi": "Dùng 's với người, con vật, tổ chức, thời gian. Số nhiều đã có -s thì chỉ thêm dấu nháy.",
+          "ex": [
+            ["This is 【Minh's】 laptop.", "Đây là laptop của Minh."],
+            ["My 【parents'】 house is old.", "Nhà của bố mẹ tôi đã cũ."],
+            ["The 【children's】 toys are everywhere.", "Đồ chơi của bọn trẻ vứt khắp nơi."],
+            ["I need 【a week's】 holiday.", "Tôi cần một tuần nghỉ."]
+          ]
+        },
+        {
+          "vi": "Với đồ vật và phần của một thứ, dùng of.",
+          "ex": [
+            ["the top 【of】 the page", "đầu trang"],
+            ["the name 【of】 the street", "tên con phố"]
+          ]
+        }
+      ],
+      "notes": ["Nơi chốn quen thuộc thường bỏ danh từ: at the doctor's, at my aunt's (ở nhà dì)."],
+      "mistakes": [
+        ["the car of my father", "my father's car", "Với người, dùng 's tự nhiên hơn."],
+        ["the students's books", "the students' books", "Số nhiều tận cùng -s chỉ thêm dấu nháy."]
+      ],
+      "practice": [
+        ["This is my ___ room. (sister)", "sister's"],
+        ["The ___ uniforms are blue. (players – số nhiều)", "players'"],
+        ["the end ___ the story", "of"]
+      ]
+    },
+    {
+      "id": "demonstratives",
+      "title": "This / that / these / those",
+      "sub": "Từ chỉ định: này, kia",
+      "level": "A1",
+      "form": ["Gần: 【this】 (số ít) · 【these】 (số nhiều)", "Xa: 【that】 (số ít) · 【those】 (số nhiều)"],
+      "uses": [
+        {
+          "vi": "Chỉ người, vật ở gần hoặc xa người nói; dùng trước danh từ hoặc đứng một mình.",
+          "ex": [
+            ["【This】 coffee is too sweet.", "Cà phê này ngọt quá."],
+            ["Are 【those】 your shoes?", "Kia có phải giày của bạn không?"],
+            ["【These】 are my friends.", "Đây là các bạn tôi."]
+          ]
+        },
+        {
+          "vi": "Giới thiệu và trên điện thoại: this cho mình / người mình giới thiệu; that hỏi người ở đầu dây bên kia.",
+          "ex": [
+            ["【This】 is my colleague, Nam.", "Đây là đồng nghiệp của tôi, Nam."],
+            ["Hello, 【this】 is Mai. Is 【that】 Lan?", "Alo, Mai đây. Lan phải không?"]
+          ]
+        }
+      ],
+      "notes": ["That còn chỉ điều vừa được nói: That's a good idea!"],
+      "mistakes": [
+        ["This shoes are new.", "These shoes are new.", "Danh từ số nhiều đi với these / those."]
+      ],
+      "practice": [
+        ["Look at ___ birds over there!", "those"],
+        ["___ is my brother, Huy.", "This"]
+      ]
+    },
+    {
+      "id": "imperatives",
+      "title": "Imperatives & let's",
+      "sub": "Câu mệnh lệnh, lời đề nghị cùng làm",
+      "level": "A1",
+      "form": ["Động từ nguyên mẫu: 【Open】 the door.", "Phủ định: 【Don't】 + V", "Rủ cùng làm: 【Let's】 + V · 【Let's not】 + V"],
+      "uses": [
+        {
+          "vi": "Ra lệnh, hướng dẫn, chỉ đường, cảnh báo. Thêm please để lịch sự hơn.",
+          "ex": [
+            ["【Turn】 left at the lights.", "Rẽ trái ở đèn giao thông."],
+            ["【Don't】 touch that – it's hot!", "Đừng chạm vào – nóng đấy!"],
+            ["Please 【sit】 down.", "Mời ngồi."]
+          ]
+        },
+        {
+          "vi": "Let's đề nghị cả người nói và người nghe cùng làm.",
+          "ex": [
+            ["【Let's】 take a break.", "Mình nghỉ một lát đi."],
+            ["【Let's not】 argue about it.", "Đừng cãi nhau chuyện đó nữa."]
+          ]
+        }
+      ],
+      "notes": ["Với người lạ, mệnh lệnh trực tiếp có thể bất lịch sự; nên dùng Could you…? (xem phần Ngữ pháp giao tiếp)."],
+      "mistakes": [
+        ["Don't to worry.", "Don't worry.", "Sau don't là động từ nguyên mẫu không to."]
+      ],
+      "practice": [
+        ["___ be late tomorrow! (phủ định)", "Don't"],
+        ["___ go to the cinema tonight. (rủ cùng đi)", "Let's"]
+      ],
+      "see": ["polite-requests"]
+    },
+    {
+      "id": "reflexive",
+      "title": "Reflexive pronouns",
+      "sub": "Đại từ phản thân: myself, yourself…",
+      "level": "A2",
+      "form": ["myself · yourself · himself · herself · itself · ourselves · yourselves · themselves"],
+      "uses": [
+        {
+          "vi": "Khi chủ ngữ và tân ngữ là cùng một người (tự làm cho mình).",
+          "ex": [
+            ["I cut 【myself】 while cooking.", "Tôi bị đứt tay khi nấu ăn."],
+            ["Help 【yourself】 to some cake.", "Cứ tự nhiên lấy bánh nhé."]
+          ]
+        },
+        {
+          "vi": "Nhấn mạnh “chính người đó”, hoặc by + đại từ phản thân = một mình, tự làm không ai giúp.",
+          "ex": [
+            ["She built the website 【herself】.", "Chính cô ấy tự làm trang web."],
+            ["He lives 【by himself】.", "Anh ấy sống một mình."]
+          ]
+        }
+      ],
+      "notes": ["Một số động từ tiếng Việt có “tự” nhưng tiếng Anh không dùng phản thân: relax, feel, wash, shave, dress (thường): I feel tired, I got dressed."],
+      "mistakes": [
+        ["They love themself.", "They love themselves.", "Số nhiều dùng -selves."],
+        ["Relax yourself.", "Relax.", "Relax không dùng với đại từ phản thân."]
+      ],
+      "practice": [
+        ["Did you make this cake ___?", "yourself"],
+        ["We enjoyed ___ at the party.", "ourselves"]
+      ],
+      "see": ["each-other"]
+    },
+    {
+      "id": "each-other",
+      "title": "Each other / one another",
+      "sub": "Lẫn nhau",
+      "level": "B1",
+      "form": ["Chủ ngữ số nhiều + V + 【each other】", "Sở hữu: 【each other's】"],
+      "uses": [
+        {
+          "vi": "Hành động qua lại giữa hai hay nhiều người. Khác với -selves (mỗi người tự làm cho mình).",
+          "ex": [
+            ["Lan and Mai text 【each other】 every day.", "Lan và Mai nhắn tin cho nhau mỗi ngày."],
+            ["They looked at 【each other】 and laughed.", "Họ nhìn nhau rồi cười."],
+            ["We know 【each other's】 families.", "Chúng tôi biết gia đình của nhau."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["They love themselves. (ý: yêu nhau)", "They love each other.", "Themselves = mỗi người tự yêu bản thân."]
+      ],
+      "practice": [
+        ["My brother and I don't talk to ___ much.", "each other/one another"]
+      ]
+    }
+  ]
+}

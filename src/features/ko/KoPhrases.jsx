@@ -1,10 +1,11 @@
 // Câu giao tiếp tiếng Hàn theo tình huống. Mặc định ẩn nghĩa để tự đoán trước; bấm vào câu để hiện.
 import { useEffect, useState } from 'react';
-import { useKo, KoSpeak } from './KoWords.jsx';
+import { KoSpeak } from './KoWords.jsx';
+import { useKo } from './data.js';
 import { MarkButton, MarkFilter } from '../../components/ui/Mark.jsx';
 import { itemKey, setMark, useLangItems } from '../../lib/store.js';
 import { markOf } from '../../lib/srs.js';
-import { usePersisted } from '../../lib/usePersisted.js';
+import { usePersisted } from '../../hooks/usePersisted.js';
 import { useKaraoke } from '../../lib/speech.js';
 import { getSettings } from '../../lib/settings.js';
 
@@ -49,12 +50,13 @@ function Phrase({ e, mark, revealAll, index }) {
   );
 }
 
-export default function KoPhrases() {
-  const data = useKo();
+export default function KoPhrases({ onUnauthorized }) {
+  const { data, error } = useKo(onUnauthorized);
   const progress = useLangItems('ko');
   const [revealAll, setRevealAll] = usePersisted('ko.phrases.reveal', false);
   const [situation, setSituation] = usePersisted('ko.phrases.situation', 'greeting');
   const [filter, setFilter] = useState(null);
+  if (error) return <p className="error">{error}</p>;
   if (!data) return <p className="loading">Đang tải…</p>;
   const current = data.situations.find((s) => s.id === situation) || data.situations[0];
   const counts = [0, 0, 0];
