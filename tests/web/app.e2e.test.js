@@ -231,6 +231,20 @@ test('học và đồng bộ cả 3 ngôn ngữ', { skip, timeout: 90_000 }, asy
   await tap(page, '.grammar-book .pills .pill:nth-child(4)');
   await page.waitForFunction(() => document.querySelectorAll('.gb-point').length > 0 && [...document.querySelectorAll('.gb-point .cefr')].every((e) => e.textContent === 'C1'));
 
+  // Bảng tra cứu: tìm động từ bất quy tắc theo dạng quá khứ; từ thẻ 12 thì mở điểm ngữ pháp chi tiết
+  await tap(page, '.grammar-book .seg button:nth-child(2)');
+  await page.waitForSelector('.verbs-table tbody tr');
+  await page.type('.ref-search input', 'went');
+  await page.waitForFunction(() => {
+    const rows = [...document.querySelectorAll('.verbs-table tbody tr')];
+    return rows.length === 1 && rows[0].querySelector('b').textContent === 'go';
+  });
+  await snap('05c-en-reference');
+  await tap(page, '.en-reference .panel:nth-child(2) .panel-head');
+  await page.waitForSelector('.tense-card .link-btn');
+  await tap(page, '.tense-card .link-btn');
+  await page.waitForFunction(() => document.querySelector('.gb-detail .gb-title')?.textContent === 'Present simple');
+
   // Ngữ pháp TOPIK 1, 2: ví dụ tiếng Hàn có phiên âm Latin
   await page.goto(base + '/#/ko/grammar1');
   await page.waitForSelector('.gb-unit');

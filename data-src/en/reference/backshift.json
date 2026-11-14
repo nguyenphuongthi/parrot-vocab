@@ -1,0 +1,28 @@
+{
+  "about": "Lùi thì và đổi từ trong câu tường thuật (khi động từ tường thuật ở quá khứ: said, told, asked…). point = id điểm ngữ pháp chi tiết.",
+  "point": "reported-statements",
+  "tenses": [
+    ["Present simple", "Past simple", "“I work here.”", "She said she worked there."],
+    ["Present continuous", "Past continuous", "“I'm cooking.”", "He said he was cooking."],
+    ["Present perfect", "Past perfect", "“I've finished.”", "She said she had finished."],
+    ["Past simple", "Past perfect", "“I saw him.”", "He said he had seen him."],
+    ["Past continuous", "Past perfect continuous", "“I was sleeping.”", "She said she had been sleeping."],
+    ["will", "would", "“I'll help you.”", "He said he would help me."],
+    ["can", "could", "“I can swim.”", "She said she could swim."],
+    ["may", "might", "“I may be late.”", "He said he might be late."],
+    ["must (bắt buộc)", "had to / must", "“I must go.”", "She said she had to go."],
+    ["Past perfect · would · could · should · might", "không đổi", "“You should rest.”", "He said I should rest."]
+  ],
+  "words": [
+    ["now", "then / at that time"],
+    ["today", "that day"],
+    ["tonight", "that night"],
+    ["yesterday", "the day before / the previous day"],
+    ["tomorrow", "the next day / the following day"],
+    ["last week", "the week before / the previous week"],
+    ["next week", "the following week / the week after"],
+    ["… ago", "… before / … earlier"],
+    ["here", "there"],
+    ["this / these", "that / those"]
+  ]
+}

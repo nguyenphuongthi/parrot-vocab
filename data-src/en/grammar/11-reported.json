@@ -47,7 +47,8 @@
           "vi": "Câu hỏi tường thuật có thứ tự của câu khẳng định, không có dấu hỏi, không dùng do / did.",
           "ex": [
             ["“Where do you work?” → She 【asked me where I worked】.", "“Bạn làm ở đâu?” → Cô ấy hỏi tôi làm ở đâu."],
-            ["“Are you coming?” → He asked 【if I was coming】.", "“Bạn có đến không?” → Anh ấy hỏi tôi có đến không."]
+            ["“Are you coming?” → He asked 【if I was coming】.", "“Bạn có đến không?” → Anh ấy hỏi tôi có đến không."],
+            ["“Can you swim?” → She asked me 【if I could swim】.", "“Bạn biết bơi không?” → Cô ấy hỏi tôi có biết bơi không."]
           ]
         }
       ],
@@ -115,6 +116,30 @@
         ["They accused him ___ lying.", "of"]
       ],
       "see": ["subjunctive"]
+    },
+    {
+      "id": "reported-time-place",
+      "title": "Reported speech: time & place words",
+      "sub": "Đổi từ chỉ thời gian, nơi chốn trong câu tường thuật",
+      "level": "B1",
+      "form": ["now → 【then】 · today → 【that day】 · tonight → that night", "yesterday → 【the day before / the previous day】 · tomorrow → 【the next day / the following day】", "last week → the week before · next week → the following week · ago → before", "here → 【there】 · this → 【that】 · these → those"],
+      "uses": [
+        {
+          "vi": "Khi kể lại vào một thời điểm / nơi khác, phải đổi các từ này cho đúng góc nhìn của người kể.",
+          "ex": [
+            ["“I'm busy today.” → She said she was busy 【that day】.", "“Hôm nay tôi bận.” → Cô ấy nói hôm đó cô ấy bận."],
+            ["“I saw him yesterday.” → He said he had seen him 【the day before】.", "“Hôm qua tôi gặp anh ta.” → Anh ấy nói đã gặp anh ta hôm trước."],
+            ["“I'll wait here.” → He said he would wait 【there】.", "“Tôi sẽ đợi ở đây.” → Anh ấy nói sẽ đợi ở đó."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["(Kể lại một tuần sau) She said she would come tomorrow.", "She said she would come the next day.", "Đổi tomorrow khi thời điểm kể đã khác."]
+      ],
+      "practice": [
+        ["“I'm leaving now.” → He said he was leaving ___.", "then"],
+        ["“We met two years ago.” → They said they had met two years ___.", "before"]
+      ]
     }
   ]
 }

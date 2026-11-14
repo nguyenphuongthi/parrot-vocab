@@ -57,7 +57,10 @@
         ["___ you pass me the salt, please?", "Could/Can/Would"],
         ["___ I ask you a question? (trang trọng nhất)", "May"]
       ],
-      "see": ["polite-requests"]
+      "see": ["polite-requests"],
+      "mistakes": [
+        ["Can you to help me?", "Can you help me?", "Sau can / could không có to."]
+      ]
     },
     {
       "id": "must-have-to",
@@ -159,9 +162,14 @@
       ],
       "notes": ["Câu hỏi về khả năng thường dùng Do you think…? hoặc Is it likely…? thay vì Might…?"],
       "practice": [
-        ["I'm not sure, but I ___ visit my parents this weekend.", "might/may/could"]
+        ["I'm not sure, but I ___ visit my parents this weekend.", "might/may/could"],
+        ["Take a jacket – it ___ get cold later.", "might/may/could"]
       ],
-      "see": ["deduction-present"]
+      "see": ["deduction-present"],
+      "mistakes": [
+        ["She mights come.", "She might come.", "Modal không thêm -s."],
+        ["Maybe she will might come.", "She might come. / Maybe she will come.", "Không dùng hai modal cạnh nhau."]
+      ]
     },
     {
       "id": "deduction-present",
@@ -239,6 +247,9 @@
       "practice": [
         ["I'm so full. I ___ have eaten so much. (lẽ ra không nên)", "shouldn't/should not"],
         ["You should have ___ (tell) me earlier!", "told"]
+      ],
+      "mistakes": [
+        ["You should told me.", "You should have told me.", "Should have + V3."]
       ]
     },
     {
@@ -263,7 +274,11 @@
         }
       ],
       "practice": [
-        ["We ___ have hurried – the train was late anyway. (đã vội nhưng không cần)", "needn't"]
+        ["We ___ have hurried – the train was late anyway. (đã vội nhưng không cần)", "needn't"],
+        ["I ___ to take a taxi because my friend gave me a lift. (không cần – quá khứ)", "didn't need"]
+      ],
+      "mistakes": [
+        ["You needn't to come.", "You needn't come. / You don't need to come.", "Needn't (modal) không đi với to."]
       ]
     },
     {
@@ -319,7 +334,107 @@
         }
       ],
       "practice": [
-        ["The phone's ringing. That ___ be my mum – she always calls at 8.", "will/'ll"]
+        ["The phone's ringing. That ___ be my mum – she always calls at 8.", "will/'ll"],
+        ["Don't call her now – she'll ___ asleep. (be)", "be"]
+      ],
+      "mistakes": [
+        ["The phone's ringing. That must be will John.", "That'll be John. / That must be John.", "Chỉ dùng một modal."]
+      ]
+    },
+    {
+      "id": "be-allowed-to",
+      "title": "Be allowed to / be permitted to",
+      "sub": "Được phép (theo quy định)",
+      "level": "A2",
+      "form": ["S + am / is / are + 【(not) allowed to】 + V", "Quá khứ: was / were allowed to · Tương lai: will be allowed to"],
+      "uses": [
+        {
+          "vi": "Nói về sự cho phép do quy định, luật lệ, người có thẩm quyền; dùng được ở mọi thì (khác can).",
+          "ex": [
+            ["You【're not allowed to】 use your phone during the exam.", "Bạn không được dùng điện thoại trong giờ thi."],
+            ["When I was a child, I 【wasn't allowed to】 stay out late.", "Hồi nhỏ tôi không được phép đi chơi khuya."],
+            ["【Are】 we 【allowed to】 take photos here?", "Chúng tôi có được chụp ảnh ở đây không?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["We don't allow to smoke here.", "We aren't allowed to smoke here. / Smoking isn't allowed here.", "Người được phép làm chủ ngữ dùng bị động be allowed to."]
+      ],
+      "practice": [
+        ["Passengers are not allowed ___ smoke on the plane.", "to"],
+        ["Were you ___ to go out on school nights?", "allowed"]
+      ]
+    },
+    {
+      "id": "be-supposed-to",
+      "title": "Be supposed to",
+      "sub": "Lẽ ra phải, được cho là phải (theo kế hoạch, quy định)",
+      "level": "B1",
+      "form": ["S + be + 【supposed to】 + V", "Quá khứ: was / were supposed to (lẽ ra phải… nhưng đã không)"],
+      "uses": [
+        {
+          "vi": "Điều được mong đợi, đã sắp xếp hoặc theo quy định – thường ngụ ý thực tế không như vậy.",
+          "ex": [
+            ["You【're supposed to】 wear a helmet on a motorbike.", "Đi xe máy thì phải đội mũ bảo hiểm."],
+            ["The train 【was supposed to】 arrive at 6, but it was late.", "Lẽ ra tàu đến lúc 6 giờ, nhưng lại muộn."],
+            ["This film 【is supposed to】 be really good.", "Nghe nói bộ phim này rất hay."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["You are suppose to be here at 8.", "You are supposed to be here at 8.", "Viết supposed (có -d)."]
+      ],
+      "practice": [
+        ["We were ___ to meet at 7, but she didn't come.", "supposed"],
+        ["You're not supposed ___ park here.", "to"]
+      ]
+    },
+    {
+      "id": "modal-continuous",
+      "title": "Modal + be + -ing",
+      "sub": "Động từ khuyết thiếu dạng tiếp diễn: should be doing, must be working",
+      "level": "B2",
+      "form": ["must / might / can't / should + 【be + V-ing】 (hiện tại đang diễn ra)", "must / might / should + 【have been + V-ing】 (quá khứ, kéo dài)"],
+      "uses": [
+        {
+          "vi": "Suy luận hoặc nhận xét về việc đang diễn ra ngay lúc này / đã kéo dài trong quá khứ.",
+          "ex": [
+            ["She's not answering. She 【must be driving】.", "Cô ấy không nghe máy. Chắc đang lái xe."],
+            ["You 【should be studying】, not playing games!", "Lẽ ra con phải đang học, chứ không phải chơi game!"],
+            ["He 【might have been sleeping】 when you called.", "Có lẽ anh ấy đang ngủ khi bạn gọi."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["He must sleep now. (ý: chắc đang ngủ)", "He must be sleeping now.", "Suy luận về việc đang diễn ra dùng must be + V-ing."]
+      ],
+      "practice": [
+        ["Listen! Someone ___ be knocking at the door. (chắc là)", "must"],
+        ["It's 11 pm. You should ___ sleeping.", "be"]
+      ]
+    },
+    {
+      "id": "might-as-well",
+      "title": "Might as well / may well",
+      "sub": "Thôi thì cứ… / rất có thể",
+      "level": "C1",
+      "form": ["S + 【might / may as well】 + V = không có lựa chọn nào tốt hơn, thì cứ làm", "S + 【may / might / could well】 + V = rất có khả năng"],
+      "uses": [
+        {
+          "vi": "Hai cấu trúc trông giống nhau nhưng nghĩa khác nhau.",
+          "ex": [
+            ["The bus has gone. We 【might as well】 walk.", "Xe buýt đi mất rồi. Thôi thì mình đi bộ vậy."],
+            ["Prices 【may well】 rise again next year.", "Giá rất có thể sẽ lại tăng vào năm sau."],
+            ["You 【could well】 be right.", "Rất có thể bạn đúng."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["We might as well to wait.", "We might as well wait.", "Sau might as well là V nguyên mẫu."]
+      ],
+      "practice": [
+        ["Nobody else is coming, so we ___ as well start. (thôi thì)", "might/may"],
+        ["She may ___ be the best candidate. (rất có thể)", "well"]
       ]
     }
   ]

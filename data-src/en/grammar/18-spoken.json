@@ -86,6 +86,9 @@
       "practice": [
         ["I'm learning Korean. — Oh, ___ you? That's great.", "are"],
         ["He doesn't eat meat. — ___ he? I didn't know that.", "Doesn't"]
+      ],
+      "mistakes": [
+        ["I've been to Japan. — Did you?", "Have you?", "Câu đáp phải khớp trợ động từ (have)."]
       ]
     },
     {
@@ -107,7 +110,11 @@
       ],
       "notes": ["Nói I don't think it's true tự nhiên hơn I think it isn't true."],
       "practice": [
-        ["I'm ___ we're fully booked tonight. (lấy làm tiếc)", "afraid"]
+        ["I'm ___ we're fully booked tonight. (lấy làm tiếc)", "afraid"],
+        ["The room is a ___ small, but it's clean. (hơi)", "bit/little"]
+      ],
+      "mistakes": [
+        ["Your report is bad. (với đồng nghiệp)", "Your report isn't quite there yet. / It needs a bit more work.", "Nói giảm nhẹ để giữ lịch sự."]
       ]
     },
     {
@@ -129,7 +136,11 @@
         }
       ],
       "practice": [
-        ["(Do you) ___ a lift? — Yes, please! (muốn)", "want/need"]
+        ["(Do you) ___ a lift? — Yes, please! (muốn)", "want/need"],
+        ["(Does it) ___ good? — Yes, delicious! (taste)", "Tastes"]
+      ],
+      "mistakes": [
+        ["(Email gửi khách hàng) Got your message. Will check.", "I have received your message and will check it.", "Rút gọn chỉ dùng khi nói chuyện thân mật."]
       ]
     },
     {
@@ -154,7 +165,8 @@
         ["Actually I'm working at a bank. (ý: hiện nay)", "Currently / At the moment I'm working at a bank.", "Actually = thật ra."]
       ],
       "practice": [
-        ["Oh, ___ the way, Lan called you this morning.", "by"]
+        ["Oh, ___ the way, Lan called you this morning.", "by"],
+        ["___, I'd better go now. See you tomorrow! (thôi / dù sao)", "Anyway"]
       ]
     },
     {
@@ -175,7 +187,11 @@
         }
       ],
       "practice": [
-        ["The trip takes three hours ___ so.", "or"]
+        ["The trip takes three hours ___ so.", "or"],
+        ["I bought some bread, milk and ___ like that.", "things"]
+      ],
+      "mistakes": [
+        ["Let's meet at 7-ish o'clock.", "Let's meet at sevenish / around 7.", "-ish gắn trực tiếp với số, không thêm o'clock."]
       ]
     },
     {
@@ -199,7 +215,8 @@
         ["I am agree with you.", "I agree with you.", "Agree là động từ, không dùng với am."]
       ],
       "practice": [
-        ["I couldn't agree ___. (hoàn toàn đồng ý)", "more"]
+        ["I couldn't agree ___. (hoàn toàn đồng ý)", "more"],
+        ["If you ___ me, it's a waste of money.", "ask"]
       ]
     },
     {
@@ -219,7 +236,11 @@
         }
       ],
       "practice": [
-        ["My roommate is always ___ (leave) dirty dishes in the sink!", "leaving"]
+        ["My roommate is always ___ (leave) dirty dishes in the sink!", "leaving"],
+        ["You're ___ interrupting me! (lúc nào cũng)", "always/constantly/forever"]
+      ],
+      "mistakes": [
+        ["He always is losing his keys!", "He is always losing his keys!", "Always đứng sau to be."]
       ]
     },
     {
@@ -239,9 +260,13 @@
         }
       ],
       "practice": [
-        ["Have you thought about ___ (take) a break?", "taking"]
+        ["Have you thought about ___ (take) a break?", "taking"],
+        ["You might want ___ check the timetable first.", "to"]
       ],
-      "see": ["second-conditional", "should"]
+      "see": ["second-conditional", "should"],
+      "mistakes": [
+        ["If I am you, I will apologise.", "If I were you, I'd apologise.", "Lời khuyên dùng câu điều kiện loại 2."]
+      ]
     },
     {
       "id": "heads-tails",
@@ -260,7 +285,137 @@
         }
       ],
       "practice": [
-        ["He's a great cook, ___ dad. (của tôi)", "my"]
+        ["He's a great cook, ___ dad. (của tôi)", "my"],
+        ["That new café, ___ you been there yet?", "have"]
+      ],
+      "mistakes": [
+        ["(Bài luận) Social media, it has changed our lives.", "Social media has changed our lives.", "Head / tail chỉ dùng trong văn nói."]
+      ]
+    },
+    {
+      "id": "exclamations",
+      "title": "Exclamations: What a…! How…! So / Such",
+      "sub": "Câu cảm thán",
+      "level": "A2",
+      "form": ["【What a / an】 + (tính từ) + danh từ số ít!", "【What】 + (tính từ) + danh từ số nhiều / không đếm được!", "【How】 + tính từ / trạng từ! · It's 【so】 + adj! · It's 【such a】 + adj + N!"],
+      "uses": [
+        {
+          "vi": "Bày tỏ cảm xúc mạnh (ngạc nhiên, khen, chê).",
+          "ex": [
+            ["【What a】 beautiful view!", "Cảnh đẹp quá!"],
+            ["【What】 lovely weather!", "Thời tiết dễ chịu quá!"],
+            ["【How】 kind of you!", "Bạn tốt bụng quá!"],
+            ["This is 【such a】 great idea!", "Ý tưởng hay quá!"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["What a lovely weather!", "What lovely weather!", "Weather không đếm được → không dùng a."],
+        ["How beautiful view!", "What a beautiful view!", "Có danh từ dùng what (a)."]
+      ],
+      "practice": [
+        ["___ a surprise to see you here!", "What"],
+        ["___ delicious this soup is!", "How"]
+      ]
+    },
+    {
+      "id": "invitations",
+      "title": "Invitations: accepting & declining",
+      "sub": "Mời, nhận lời và từ chối",
+      "level": "A2",
+      "form": ["Mời: 【Would you like to】 V…? · 【Do you fancy】 + V-ing…? (Anh–Anh) · 【Are you free】 on…?", "Nhận lời: I'd love to. · That sounds great! · Why not?", "Từ chối: 【I'd love to, but】 … · I'm afraid I can't. · Maybe another time."],
+      "uses": [
+        {
+          "vi": "Từ chối lịch sự thường gồm: cảm ơn / tiếc nuối + lý do + đề nghị khác.",
+          "ex": [
+            ["【Do you fancy】 going to the cinema tonight?", "Tối nay đi xem phim không?"],
+            ["【I'd love to】! What time?", "Tuyệt quá! Mấy giờ?"],
+            ["【I'd love to, but】 I have to work late. 【Maybe another time】?", "Mình rất muốn, nhưng phải làm muộn. Hẹn dịp khác nhé?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Do you fancy to go out?", "Do you fancy going out?", "Fancy + V-ing."],
+        ["No, I don't want. (từ chối lời mời)", "Thanks, but I'm afraid I can't.", "Từ chối thẳng nghe bất lịch sự."]
+      ],
+      "practice": [
+        ["Would you like ___ join us for lunch?", "to"],
+        ["I'd love to, ___ I'm busy that day.", "but"]
+      ],
+      "see": ["would-like", "offers-suggestions"]
+    },
+    {
+      "id": "clarification",
+      "title": "Asking for clarification & repetition",
+      "sub": "Hỏi lại, làm rõ ý",
+      "level": "A2",
+      "form": ["【Sorry, could you repeat that?】 · Sorry, I didn't catch that.", "【What do you mean by】 …? · 【Do you mean】 …?", "【So, you're saying】 … ? (xác nhận lại)"],
+      "uses": [
+        {
+          "vi": "Khi chưa nghe rõ hoặc chưa hiểu, những câu này lịch sự hơn nhiều so với What? hay Huh?.",
+          "ex": [
+            ["【Sorry, I didn't catch】 your name.", "Xin lỗi, tôi chưa nghe rõ tên bạn."],
+            ["【What do you mean by】 “ASAP”?", "“ASAP” nghĩa là gì vậy?"],
+            ["【So, you're saying】 the meeting is cancelled?", "Vậy ý anh là cuộc họp bị huỷ à?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Repeat!", "Sorry, could you repeat that, please?", "Mệnh lệnh trống không nghe thô lỗ."],
+        ["What do you mean “deadline”?", "What do you mean by “deadline”?", "Cấu trúc đúng có by."]
+      ],
+      "practice": [
+        ["Sorry, I didn't ___ that. Could you say it again? (nghe kịp)", "catch"],
+        ["What do you mean ___ “flexible hours”?", "by"]
+      ]
+    },
+    {
+      "id": "complaints-apologies",
+      "title": "Polite complaints & apologies",
+      "sub": "Phàn nàn và xin lỗi lịch sự",
+      "level": "B1",
+      "form": ["Phàn nàn: 【I'm afraid there's a problem with】 … · 【I'm sorry to bother you, but】 …", "Xin lỗi: 【I'm (really) sorry for / about】 + N / V-ing · 【I apologise for】 … (trang trọng)", "Đáp lời xin lỗi: That's OK. / Don't worry about it. / No problem."],
+      "uses": [
+        {
+          "vi": "Mở đầu nhẹ nhàng rồi mới nêu vấn đề – đặc biệt quan trọng ở khách sạn, nhà hàng, email công việc.",
+          "ex": [
+            ["【I'm afraid there's a problem with】 my room – the air conditioner isn't working.", "Tôi e là phòng tôi có vấn đề – điều hoà không chạy."],
+            ["【I'm sorry to bother you, but】 could you turn the music down?", "Xin lỗi làm phiền, bạn vặn nhỏ nhạc được không?"],
+            ["【I'm really sorry for】 being late.", "Tôi rất xin lỗi vì đến muộn."],
+            ["We 【apologise for】 any inconvenience.", "Chúng tôi xin lỗi vì sự bất tiện."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I'm sorry for late.", "I'm sorry for being late. / I'm sorry I'm late.", "Sau for là V-ing hoặc danh từ."]
+      ],
+      "practice": [
+        ["I'm sorry to ___ you, but is this seat free? (làm phiền)", "bother"],
+        ["We apologise ___ the delay.", "for"]
+      ]
+    },
+    {
+      "id": "interrupting",
+      "title": "Interrupting & holding the floor",
+      "sub": "Ngắt lời lịch sự và giữ lượt nói (họp, thảo luận)",
+      "level": "B2",
+      "form": ["Ngắt lời: 【Sorry to interrupt, but】 … · 【Can I just add something?】 · If I could just come in here…", "Giữ lượt: 【Let me finish】 … · 【Just a second】 – I'm almost done.", "Quay lại chủ đề: 【Going back to】 … · 【As I was saying】 …"],
+      "uses": [
+        {
+          "vi": "Trong cuộc họp hay thảo luận nhóm, các mẫu câu này giúp chen ý mà không bị coi là bất lịch sự.",
+          "ex": [
+            ["【Sorry to interrupt, but】 we're running out of time.", "Xin lỗi ngắt lời, nhưng chúng ta sắp hết giờ."],
+            ["【Can I just add something?】 I think the budget is too low.", "Cho tôi bổ sung một ý được không? Tôi nghĩ ngân sách quá thấp."],
+            ["【As I was saying】, the project starts in May.", "Như tôi đang nói, dự án bắt đầu vào tháng Năm."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Wait, wait, I talk first!", "Sorry, can I just finish my point?", "Giữ lượt nói một cách lịch sự."]
+      ],
+      "practice": [
+        ["Sorry to ___, but I have a question. (ngắt lời)", "interrupt"],
+        ["As I ___ saying, we need more staff.", "was"]
       ]
     }
   ]

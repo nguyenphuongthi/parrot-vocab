@@ -77,7 +77,8 @@
         ["However it was cheap, I didn't buy it.", "Although it was cheap, I didn't buy it.", "However không nối hai mệnh đề trong cùng câu như although."]
       ],
       "practice": [
-        ["The plan sounds good. ___, it's too expensive. (Tuy nhiên)", "However/Nevertheless"]
+        ["The plan sounds good. ___, it's too expensive. (Tuy nhiên)", "However/Nevertheless"],
+        ["The flight was delayed. ___, we missed our connection. (Kết quả là)", "As a result/Therefore/Consequently"]
       ]
     },
     {
@@ -98,7 +99,11 @@
         }
       ],
       "practice": [
-        ["Besides ___ (play) the piano, she sings.", "playing"]
+        ["Besides ___ (play) the piano, she sings.", "playing"],
+        ["In ___ to English, she speaks Japanese.", "addition"]
+      ],
+      "mistakes": [
+        ["She also speaks French too.", "She also speaks French. / She speaks French too.", "Không dùng also và too cùng lúc."]
       ]
     },
     {
@@ -112,14 +117,19 @@
           "vi": "Dùng khi phần mục đích có chủ ngữ riêng hoặc có động từ khuyết thiếu.",
           "ex": [
             ["I'll leave the key 【so that】 you can get in.", "Tôi sẽ để lại chìa khoá để bạn vào được."],
-            ["She spoke slowly 【so that】 everyone could understand.", "Cô ấy nói chậm để mọi người hiểu được."]
+            ["She spoke slowly 【so that】 everyone could understand.", "Cô ấy nói chậm để mọi người hiểu được."],
+            ["I wrote it down 【so that】 I wouldn't forget.", "Tôi ghi lại để khỏi quên."]
           ]
         }
       ],
       "practice": [
-        ["Turn down the music so ___ the baby can sleep.", "that"]
+        ["Turn down the music so ___ the baby can sleep.", "that"],
+        ["Speak louder so that everyone ___ hear you.", "can"]
       ],
-      "see": ["infinitive-purpose"]
+      "see": ["infinitive-purpose"],
+      "mistakes": [
+        ["I study hard so that pass the exam.", "I study hard so that I can pass the exam. / I study hard to pass the exam.", "So that + mệnh đề có chủ ngữ."]
+      ]
     },
     {
       "id": "while-whereas",
@@ -132,12 +142,17 @@
           "vi": "So sánh hai sự thật trái ngược nhau.",
           "ex": [
             ["My sister loves sport, 【whereas】 I prefer reading.", "Chị tôi mê thể thao, còn tôi thích đọc sách hơn."],
-            ["【While】 the north has four seasons, the south has only two.", "Trong khi miền Bắc có bốn mùa, miền Nam chỉ có hai."]
+            ["【While】 the north has four seasons, the south has only two.", "Trong khi miền Bắc có bốn mùa, miền Nam chỉ có hai."],
+            ["Lan prefers tea, 【whereas】 her husband drinks only coffee.", "Lan thích trà, còn chồng cô chỉ uống cà phê."]
           ]
         }
       ],
       "practice": [
-        ["Some people like summer, ___ others prefer winter. (đối chiếu)", "whereas/while"]
+        ["Some people like summer, ___ others prefer winter. (đối chiếu)", "whereas/while"],
+        ["Summers in Hanoi are hot, ___ winters are cold. (trong khi đó)", "whereas/while"]
+      ],
+      "mistakes": [
+        ["Whereas I like cats. My sister likes dogs.", "I like cats, whereas my sister likes dogs.", "Whereas nối hai mệnh đề trong cùng một câu."]
       ]
     },
     {
@@ -160,7 +175,8 @@
         ["Due to it was raining…", "Due to the rain… / As it was raining…", "Due to đi với danh từ."]
       ],
       "practice": [
-        ["The match was cancelled ___ to the storm.", "due/owing"]
+        ["The match was cancelled ___ to the storm.", "due/owing"],
+        ["___ you're tired, I'll drive. (vì – đầu câu)", "As/Since"]
       ]
     },
     {
@@ -182,6 +198,9 @@
       "practice": [
         ["Tired ___ she was, she kept working.", "as/though"],
         ["___ as I'd love to come, I'm too busy.", "Much"]
+      ],
+      "mistakes": [
+        ["Much as I like him but I can't help him.", "Much as I like him, I can't help him.", "Không dùng but sau mệnh đề much as."]
       ]
     },
     {
@@ -195,12 +214,117 @@
           "vi": "Dùng trong bài luận, báo cáo để nêu hệ quả một cách ngắn gọn.",
           "ex": [
             ["The data was incomplete; 【thus】, no clear conclusion could be drawn.", "Dữ liệu không đầy đủ; do đó không thể rút ra kết luận rõ ràng."],
-            ["The product is handmade, 【hence】 the high price.", "Sản phẩm làm thủ công, vì thế giá cao."]
+            ["The product is handmade, 【hence】 the high price.", "Sản phẩm làm thủ công, vì thế giá cao."],
+            ["Costs have risen sharply; 【thus】, prices must increase.", "Chi phí tăng mạnh; do đó giá phải tăng."]
           ]
         }
       ],
       "practice": [
-        ["The roads were icy, ___ the delay. (vì thế mà có)", "hence"]
+        ["The roads were icy, ___ the delay. (vì thế mà có)", "hence"],
+        ["The data was limited; ___, the results should be treated with caution. (do đó – học thuật)", "thus/therefore/consequently"]
+      ],
+      "mistakes": [
+        ["Hence, the high price is because of handmade.", "The product is handmade, hence the high price.", "Hence + danh từ đứng sau mệnh đề nêu nguyên nhân."]
+      ]
+    },
+    {
+      "id": "sequencing",
+      "title": "First, then, after that, finally",
+      "sub": "Từ nối chỉ trình tự",
+      "level": "A2",
+      "form": ["Bắt đầu: 【First (of all), / To begin with,】", "Tiếp theo: 【Then, / Next, / After that, / Afterwards,】", "Kết thúc: 【Finally, / In the end, / Lastly,】"],
+      "uses": [
+        {
+          "vi": "Sắp xếp các bước, kể lại sự việc theo thứ tự – rất hữu ích khi hướng dẫn và kể chuyện.",
+          "ex": [
+            ["【First】, wash the rice. 【Then】 add water.", "Đầu tiên vo gạo. Sau đó cho nước vào."],
+            ["We had dinner. 【After that】, we went to the cinema.", "Chúng tôi ăn tối. Sau đó đi xem phim."],
+            ["【Finally】, check your answers.", "Cuối cùng, kiểm tra lại đáp án."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["After, we went home.", "After that / Afterwards, we went home.", "After đứng một mình đầu câu không tự nhiên; dùng after that / afterwards."],
+        ["At last, add salt. (bước cuối công thức)", "Finally, add salt.", "At last = cuối cùng (sau khi chờ đợi lâu)."]
+      ],
+      "practice": [
+        ["___ of all, turn on the computer.", "First"],
+        ["We waited for hours. At ___, the bus came. (sau khi chờ lâu)", "last"]
+      ]
+    },
+    {
+      "id": "correlatives",
+      "title": "Both … and / either … or / neither … nor / not only … but also",
+      "sub": "Liên từ đi theo cặp",
+      "level": "B1",
+      "form": ["【both A and B】 (cả … lẫn) · 【either A or B】 (hoặc … hoặc)", "【neither A nor B】 (không … cũng không) · 【not only A but (also) B】 (không những … mà còn)", "A và B cùng loại từ (song song)"],
+      "uses": [
+        {
+          "vi": "Nối hai thành phần cùng loại; với neither / either … nor / or, động từ hợp với chủ ngữ gần nhất.",
+          "ex": [
+            ["She speaks 【both】 English 【and】 French.", "Cô ấy nói được cả tiếng Anh lẫn tiếng Pháp."],
+            ["You can pay 【either】 in cash 【or】 by card.", "Bạn có thể trả bằng tiền mặt hoặc thẻ."],
+            ["【Neither】 my brother 【nor】 I 【am】 good at maths.", "Cả anh tôi lẫn tôi đều không giỏi toán."],
+            ["He is 【not only】 smart 【but also】 kind.", "Anh ấy không những thông minh mà còn tốt bụng."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Neither Tom or Mary came.", "Neither Tom nor Mary came.", "Neither đi với nor."],
+        ["She is not only beautiful but also she is smart.", "She is not only beautiful but also smart.", "Hai vế song song, không lặp chủ ngữ."]
+      ],
+      "practice": [
+        ["___ Lan nor her sister likes spicy food.", "Neither"],
+        ["You can have either tea ___ coffee.", "or"]
+      ],
+      "see": ["all-both-each", "inversion"]
+    },
+    {
+      "id": "giving-examples",
+      "title": "For example / such as / for instance / like",
+      "sub": "Đưa ví dụ",
+      "level": "B1",
+      "form": ["【For example, / For instance,】 + câu đầy đủ", "【such as / like】 + danh từ (đứng sau danh từ chung)", "【e.g.】 (viết tắt, văn viết)"],
+      "uses": [
+        {
+          "vi": "For example đứng đầu câu (hoặc giữa câu, có dấu phẩy); such as đi ngay trước danh sách danh từ.",
+          "ex": [
+            ["Many fruits, 【such as】 mangoes and durians, grow in the south.", "Nhiều loại trái cây như xoài và sầu riêng mọc ở miền Nam."],
+            ["Exercise has many benefits. 【For example】, it reduces stress.", "Tập thể dục có nhiều lợi ích. Ví dụ, nó giảm căng thẳng."],
+            ["I love outdoor sports, 【like】 hiking and cycling.", "Tôi thích các môn thể thao ngoài trời như leo núi và đạp xe."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Such as, she likes reading.", "For example, she likes reading.", "Such as không đứng đầu câu trước mệnh đề."]
+      ],
+      "practice": [
+        ["I enjoy water sports, ___ as swimming and surfing.", "such"],
+        ["___ example, many students work part-time.", "For"]
+      ]
+    },
+    {
+      "id": "summarising",
+      "title": "In conclusion / overall / to sum up / on the whole",
+      "sub": "Tổng kết, kết luận",
+      "level": "B2",
+      "form": ["Kết bài: 【In conclusion, / To sum up, / To conclude,】", "Nhận xét chung: 【Overall, / On the whole, / All in all,】"],
+      "uses": [
+        {
+          "vi": "Mở đầu đoạn kết bài luận, báo cáo, hoặc tóm tắt số liệu (IELTS Writing Task 1: Overall,…).",
+          "ex": [
+            ["【In conclusion】, the advantages outweigh the disadvantages.", "Tóm lại, lợi nhiều hơn hại."],
+            ["【Overall】, sales increased over the period.", "Nhìn chung, doanh số tăng trong suốt giai đoạn."],
+            ["【On the whole】, I enjoyed the trip.", "Nhìn chung tôi thích chuyến đi."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["In conclusion, I think that in conclusion…", "In conclusion, …", "Không lặp từ nối; dùng một lần ở đầu đoạn kết."]
+      ],
+      "practice": [
+        ["___ sum up, technology has changed education. ", "To"],
+        ["___, the number of tourists rose steadily. (nhìn chung – mô tả số liệu)", "Overall"]
       ]
     }
   ]

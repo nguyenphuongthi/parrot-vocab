@@ -1,0 +1,89 @@
+{
+  "about": "12 thì tiếng Anh: tên, công thức (khẳng định / phủ định / câu hỏi), cách dùng chính, dấu hiệu nhận biết, ví dụ. point = id điểm ngữ pháp chi tiết.",
+  "tenses": [
+    {
+      "name": "Present simple", "vi": "Hiện tại đơn", "point": "present-simple",
+      "form": ["S + V(s/es)", "S + don't / doesn't + V", "Do / Does + S + V?"],
+      "use": "Thói quen, sự thật, lịch trình cố định",
+      "signals": "always, usually, often, sometimes, never, every day, on Mondays",
+      "ex": ["She works in a bank.", "Cô ấy làm ở ngân hàng."]
+    },
+    {
+      "name": "Present continuous", "vi": "Hiện tại tiếp diễn", "point": "present-continuous",
+      "form": ["S + am / is / are + V-ing", "S + am / is / are + not + V-ing", "Am / Is / Are + S + V-ing?"],
+      "use": "Đang xảy ra lúc nói, tạm thời, lịch hẹn tương lai gần",
+      "signals": "now, right now, at the moment, today, Look!, Listen!",
+      "ex": ["I'm studying for my exam now.", "Bây giờ tôi đang ôn thi."]
+    },
+    {
+      "name": "Present perfect", "vi": "Hiện tại hoàn thành", "point": "present-perfect",
+      "form": ["S + have / has + V3", "S + haven't / hasn't + V3", "Have / Has + S + V3?"],
+      "use": "Kinh nghiệm, kết quả còn ở hiện tại, kéo dài đến nay",
+      "signals": "ever, never, just, already, yet, so far, for, since, recently",
+      "ex": ["I've lived here since 2020.", "Tôi sống ở đây từ năm 2020."]
+    },
+    {
+      "name": "Present perfect continuous", "vi": "Hiện tại hoàn thành tiếp diễn", "point": "present-perfect-continuous",
+      "form": ["S + have / has been + V-ing", "S + haven't / hasn't been + V-ing", "Have / Has + S + been + V-ing?"],
+      "use": "Hoạt động kéo dài đến nay, nhấn mạnh quá trình",
+      "signals": "for, since, all day, how long, lately",
+      "ex": ["She's been waiting for an hour.", "Cô ấy đã đợi một tiếng rồi."]
+    },
+    {
+      "name": "Past simple", "vi": "Quá khứ đơn", "point": "past-simple",
+      "form": ["S + V2 / V-ed", "S + didn't + V", "Did + S + V?"],
+      "use": "Việc đã xong ở thời điểm xác định trong quá khứ",
+      "signals": "yesterday, last week, ago, in 2010, when I was young",
+      "ex": ["We visited Hue last year.", "Năm ngoái chúng tôi đi Huế."]
+    },
+    {
+      "name": "Past continuous", "vi": "Quá khứ tiếp diễn", "point": "past-continuous",
+      "form": ["S + was / were + V-ing", "S + wasn't / weren't + V-ing", "Was / Were + S + V-ing?"],
+      "use": "Đang diễn ra tại một thời điểm quá khứ, bối cảnh, bị xen ngang",
+      "signals": "at 8 pm yesterday, while, when, at that time",
+      "ex": ["I was cooking when you called.", "Tôi đang nấu ăn khi bạn gọi."]
+    },
+    {
+      "name": "Past perfect", "vi": "Quá khứ hoàn thành", "point": "past-perfect",
+      "form": ["S + had + V3", "S + hadn't + V3", "Had + S + V3?"],
+      "use": "Việc xảy ra trước một mốc / việc khác trong quá khứ",
+      "signals": "before, after, by the time, already, when (+ quá khứ đơn)",
+      "ex": ["The film had started when we arrived.", "Phim đã bắt đầu khi chúng tôi đến."]
+    },
+    {
+      "name": "Past perfect continuous", "vi": "Quá khứ hoàn thành tiếp diễn", "point": "past-perfect-continuous",
+      "form": ["S + had been + V-ing", "S + hadn't been + V-ing", "Had + S + been + V-ing?"],
+      "use": "Kéo dài đến một mốc quá khứ, nhấn mạnh thời lượng",
+      "signals": "for, since, how long, before, until then",
+      "ex": ["He was tired because he had been working all day.", "Anh ấy mệt vì đã làm việc cả ngày."]
+    },
+    {
+      "name": "Future simple (will)", "vi": "Tương lai đơn", "point": "will",
+      "form": ["S + will + V", "S + won't + V", "Will + S + V?"],
+      "use": "Quyết định tức thời, dự đoán, lời hứa, đề nghị",
+      "signals": "tomorrow, next week, I think, probably, soon",
+      "ex": ["I think it will rain tomorrow.", "Tôi nghĩ mai trời sẽ mưa."]
+    },
+    {
+      "name": "Future continuous", "vi": "Tương lai tiếp diễn", "point": "future-continuous",
+      "form": ["S + will be + V-ing", "S + won't be + V-ing", "Will + S + be + V-ing?"],
+      "use": "Đang diễn ra tại một thời điểm tương lai",
+      "signals": "this time tomorrow, at 9 am next Monday",
+      "ex": ["This time tomorrow I'll be flying to Seoul.", "Giờ này ngày mai tôi đang bay sang Seoul."]
+    },
+    {
+      "name": "Future perfect", "vi": "Tương lai hoàn thành", "point": "future-perfect",
+      "form": ["S + will have + V3", "S + won't have + V3", "Will + S + have + V3?"],
+      "use": "Sẽ hoàn tất trước một mốc tương lai",
+      "signals": "by + mốc tương lai, by the time, before",
+      "ex": ["By 2030, I'll have finished my degree.", "Đến năm 2030 tôi sẽ học xong."]
+    },
+    {
+      "name": "Future perfect continuous", "vi": "Tương lai hoàn thành tiếp diễn", "point": "future-perfect",
+      "form": ["S + will have been + V-ing", "S + won't have been + V-ing", "Will + S + have been + V-ing?"],
+      "use": "Tổng thời gian kéo dài tính đến một mốc tương lai",
+      "signals": "for + khoảng thời gian + by / next…",
+      "ex": ["Next year I'll have been teaching for 10 years.", "Năm sau là tôi dạy học tròn 10 năm."]
+    }
+  ]
+}

@@ -76,13 +76,17 @@
           "vi": "So sánh trong cùng một tình huống.",
           "ex": [
             ["A: We've run out of milk. B: Oh, I【'll】 buy some.", "A: Hết sữa rồi. B: Ồ, để tôi đi mua."],
-            ["A: Why are you taking your bag? B: I【'm going to】 buy some milk.", "A: Sao cầm túi thế? B: Tôi định đi mua sữa."]
+            ["A: Why are you taking your bag? B: I【'm going to】 buy some milk.", "A: Sao cầm túi thế? B: Tôi định đi mua sữa."],
+            ["Look at the sky! It【's going to】 rain. / I think it【'll】 rain tomorrow.", "Nhìn trời kìa! Sắp mưa rồi. / Tôi nghĩ mai trời sẽ mưa."]
           ]
         }
       ],
       "practice": [
         ["A: I can't open this jar. B: Give it to me, I ___ open it. (will/am going to)", "'ll/will"],
         ["I've decided. I ___ learn to drive this summer. (will/am going to)", "am going to/'m going to"]
+      ],
+      "mistakes": [
+        ["Look at that car! It will crash!", "Look at that car! It's going to crash!", "Có dấu hiệu ngay trước mắt dùng be going to."]
       ]
     },
     {
@@ -110,6 +114,9 @@
       "practice": [
         ["What time ___ the next bus leave?", "does"],
         ["I ___ (meet) Hoa for lunch tomorrow – we booked a table.", "am meeting/'m meeting"]
+      ],
+      "mistakes": [
+        ["I will meet my boss at 3 pm tomorrow – it's in my calendar.", "I'm meeting my boss at 3 pm tomorrow.", "Lịch hẹn đã sắp xếp dùng hiện tại tiếp diễn."]
       ]
     },
     {
@@ -159,7 +166,11 @@
         }
       ],
       "practice": [
-        ["At 10 am tomorrow, I ___ (sit) my exam.", "will be sitting/'ll be sitting"]
+        ["At 10 am tomorrow, I ___ (sit) my exam.", "will be sitting/'ll be sitting"],
+        ["Don't call me at 9 – I ___ (drive) to work then.", "will be driving/'ll be driving"]
+      ],
+      "mistakes": [
+        ["This time next week I will lie on the beach.", "This time next week I'll be lying on the beach.", "Việc đang diễn ra tại một thời điểm tương lai dùng will be + V-ing."]
       ]
     },
     {
@@ -186,6 +197,9 @@
       "practice": [
         ["By the end of the month, we ___ (save) enough money.", "will have saved/'ll have saved"],
         ["In May she ___ (teach) for 20 years. (tiếp diễn)", "will have been teaching/'ll have been teaching"]
+      ],
+      "mistakes": [
+        ["By next year I will finish my degree.", "By next year I will have finished my degree.", "By + mốc tương lai nhấn mạnh việc hoàn tất → will have + V3."]
       ]
     },
     {
@@ -208,6 +222,9 @@
       "practice": [
         ["Sit down, the show is ___ to start.", "about"],
         ["The plane is ___ to land at 6:40.", "due"]
+      ],
+      "mistakes": [
+        ["The train is about to leaving.", "The train is about to leave.", "Be about to + V nguyên mẫu."]
       ]
     },
     {
@@ -232,7 +249,11 @@
         }
       ],
       "practice": [
-        ["I ___ going to buy that dress, but it was sold out.", "was"]
+        ["I ___ going to buy that dress, but it was sold out.", "was"],
+        ["We ___ going to have a picnic, but it rained.", "were"]
+      ],
+      "mistakes": [
+        ["I was going to calling you.", "I was going to call you.", "Was going to + V nguyên mẫu."]
       ]
     },
     {
@@ -252,8 +273,37 @@
         }
       ],
       "practice": [
-        ["Take a map – you're ___ to get lost otherwise. (chắc chắn)", "bound/sure/certain"]
+        ["Take a map – you're ___ to get lost otherwise. (chắc chắn)", "bound/sure/certain"],
+        ["The new law is ___ to change much. (khó mà)", "unlikely"]
+      ],
+      "mistakes": [
+        ["It is likely to rain is high.", "It is likely to rain. / Rain is likely.", "Be likely to + V; không ghép thêm be high."]
       ]
+    },
+    {
+      "id": "shall",
+      "title": "Shall I / Shall we",
+      "sub": "Đề nghị giúp, rủ rê, hỏi ý kiến",
+      "level": "A2",
+      "form": ["【Shall I】 + V…? (tôi … nhé?) · 【Shall we】 + V…? (chúng ta … nhé?)", "What / Where / When 【shall we】 + V…?"],
+      "uses": [
+        {
+          "vi": "Shall chủ yếu dùng trong câu hỏi với I / we để đề nghị hoặc hỏi ý kiến (Anh–Anh).",
+          "ex": [
+            ["【Shall I】 open the window?", "Tôi mở cửa sổ nhé?"],
+            ["【Shall we】 go for a walk?", "Chúng ta đi dạo nhé?"],
+            ["What time 【shall we】 meet?", "Mấy giờ chúng ta gặp nhau?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Shall you help me?", "Will you help me? / Could you help me?", "Nhờ người khác dùng will / could you, không dùng shall you."]
+      ],
+      "practice": [
+        ["___ I carry your bag for you?", "Shall"],
+        ["Where shall ___ go for dinner? (chúng ta)", "we"]
+      ],
+      "see": ["offers-suggestions"]
     }
   ]
 }

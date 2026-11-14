@@ -154,6 +154,30 @@
         ["My hands are dirty because I ___ (garden).", "have been gardening/'ve been gardening"],
         ["She ___ (study) for three hours. She needs a break.", "has been studying/'s been studying"]
       ]
+    },
+    {
+      "id": "first-time",
+      "title": "It's the first time I've… / the best … I've ever…",
+      "sub": "Lần đầu tiên, … nhất từng …",
+      "level": "B1",
+      "form": ["It's / This is the 【first (second…) time】 + S + 【have / has + V3】", "It was the first time + S + 【had + V3】", "the + so sánh nhất + N + S + 【have ever + V3】"],
+      "uses": [
+        {
+          "vi": "Sau cấu trúc “lần đầu tiên” và so sánh nhất về trải nghiệm, tiếng Anh dùng thì hoàn thành.",
+          "ex": [
+            ["This is 【the first time】 I【've been】 to Hanoi.", "Đây là lần đầu tiên tôi đến Hà Nội."],
+            ["It was 【the first time】 she 【had flown】.", "Đó là lần đầu tiên cô ấy đi máy bay."],
+            ["That's 【the best】 film I【've ever seen】.", "Đó là bộ phim hay nhất tôi từng xem."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["It's the first time I come here.", "It's the first time I've come here.", "Sau the first time dùng hiện tại hoàn thành."]
+      ],
+      "practice": [
+        ["This is the first time I ___ (eat) sushi.", "have eaten/'ve eaten"],
+        ["She's the kindest person I've ___ met.", "ever"]
+      ]
     }
   ]
 }

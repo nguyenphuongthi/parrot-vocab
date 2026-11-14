@@ -281,3 +281,142 @@
     font-size: 16px;
   }
 }
+
+/* ---------- Chuyển “Điểm ngữ pháp / Bảng tra cứu” ---------- */
+.seg {
+  display: inline-flex;
+  gap: 4px;
+  margin-bottom: 14px;
+  padding: 4px;
+  border-radius: 999px;
+  background: var(--surface);
+  box-shadow: 0 1px 3px rgb(20 20 30 / 6%);
+}
+.seg button {
+  padding: 7px 16px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+.seg button.is-on {
+  background: var(--accent-fill, var(--accent));
+  color: var(--on-accent, #fff);
+}
+
+/* ---------- Bảng tra cứu ---------- */
+.en-reference .panel + .panel {
+  margin-top: 12px;
+}
+.ref-search {
+  max-width: 420px;
+  margin-bottom: 6px;
+}
+.ref-table-wrap {
+  overflow-x: auto;
+  margin: 8px 0 12px;
+  border-radius: 14px;
+  background: var(--surface);
+}
+.ref-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+.ref-table th,
+.ref-table td {
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: top;
+}
+.ref-table th {
+  position: sticky;
+  top: 0;
+  background: var(--surface-2);
+  color: var(--muted);
+  font-size: 12.5px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.ref-table tbody tr:hover {
+  background: var(--surface-2);
+}
+.verbs-table td:nth-child(-n + 3) {
+  white-space: nowrap;
+}
+.ref-actions {
+  white-space: nowrap;
+  text-align: right;
+}
+.ref-actions .icon-btn {
+  margin-left: 4px;
+  vertical-align: middle;
+}
+
+.tense-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 10px;
+}
+.tense-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 14px 16px;
+  border-radius: 18px;
+  background: color-mix(in srgb, var(--tone) var(--tone-amt, 40%), var(--surface));
+}
+.tense-card header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 2px 8px;
+}
+.tense-card h4 {
+  margin: 0;
+  color: var(--tone-ink);
+  font-size: 16.5px;
+}
+.tense-card p {
+  margin: 0;
+  font-size: 14.5px;
+}
+.tense-form {
+  display: grid;
+  gap: 2px;
+  margin: 0;
+  padding: 8px 10px;
+  list-style: none;
+  border-radius: 10px;
+  background: var(--surface);
+  font-size: 14.5px;
+  font-weight: 550;
+}
+.tense-sign {
+  display: inline-block;
+  width: 1.3em;
+  color: var(--tone-ink);
+  font-weight: 800;
+}
+.tense-ex {
+  display: flex;
+  flex-direction: column;
+}
+.tense-card .link-btn {
+  align-self: flex-start;
+  margin-top: auto;
+}
+.en-reference .panel-head > span:first-child {
+  font-family: var(--ui);
+  font-size: 18px;
+  font-weight: 650;
+}
+.ref-actions .icon-btn {
+  display: inline-grid;
+  width: 30px;
+  height: 30px;
+}
