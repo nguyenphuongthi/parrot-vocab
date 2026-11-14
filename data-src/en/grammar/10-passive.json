@@ -1,0 +1,155 @@
+{
+  "id": "passive",
+  "name": "Câu bị động",
+  "intro": "Dùng khi người / vật chịu tác động quan trọng hơn người làm, hoặc không biết ai làm. Tiếng Việt hay dùng “được / bị”, nhưng tiếng Anh dùng bị động rộng hơn nhiều.",
+  "points": [
+    {
+      "id": "passive-basic",
+      "title": "Passive: present & past simple",
+      "sub": "Bị động thì hiện tại đơn và quá khứ đơn",
+      "level": "A2",
+      "form": ["am / is / are + 【V3】", "was / were + 【V3】", "(+ by + người / vật thực hiện, nếu cần)"],
+      "uses": [
+        {
+          "vi": "Nhấn mạnh đối tượng chịu tác động; người làm không rõ, không quan trọng hoặc hiển nhiên.",
+          "ex": [
+            ["English 【is spoken】 all over the world.", "Tiếng Anh được nói khắp thế giới."],
+            ["My bike 【was stolen】 last night.", "Xe đạp của tôi bị mất cắp tối qua."],
+            ["This bridge 【was built】 in 1902.", "Cây cầu này được xây năm 1902."]
+          ]
+        },
+        {
+          "vi": "Chỉ thêm by khi người thực hiện là thông tin quan trọng.",
+          "ex": [
+            ["The Tale of Kieu 【was written by】 Nguyen Du.", "Truyện Kiều do Nguyễn Du viết."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["The house built in 1990.", "The house was built in 1990.", "Bị động cần to be + V3."],
+        ["The accident was happened.", "The accident happened.", "Happen là nội động từ, không có bị động."]
+      ],
+      "practice": [
+        ["Rice ___ (grow) in many Asian countries.", "is grown"],
+        ["The letters ___ (send) yesterday.", "were sent"]
+      ],
+      "see": ["passive-tenses"]
+    },
+    {
+      "id": "passive-tenses",
+      "title": "Passive in other tenses & with modals",
+      "sub": "Bị động ở các thì khác và với động từ khuyết thiếu",
+      "level": "B1",
+      "form": ["Tiếp diễn: is / was 【being】 + V3", "Hoàn thành: has / had 【been】 + V3", "Tương lai, modal: will / can / must / should 【be】 + V3", "Modal hoàn thành: should 【have been】 + V3"],
+      "uses": [
+        {
+          "vi": "Giữ nguyên thì của câu chủ động, chỉ đổi phần động từ sang to be (chia theo thì) + V3.",
+          "ex": [
+            ["The road 【is being repaired】.", "Con đường đang được sửa."],
+            ["Your order 【has been shipped】.", "Đơn hàng của bạn đã được gửi đi."],
+            ["The results 【will be announced】 on Monday.", "Kết quả sẽ được công bố vào thứ Hai."],
+            ["Phones 【must be switched】 off.", "Điện thoại phải được tắt."]
+          ]
+        }
+      ],
+      "practice": [
+        ["The new hospital ___ (build) at the moment.", "is being built"],
+        ["All the tickets ___ (sell) already.", "have been sold"],
+        ["This problem should ___ dealt with immediately.", "be"]
+      ]
+    },
+    {
+      "id": "causative",
+      "title": "Have / get something done",
+      "sub": "Thể truyền khiến: nhờ / thuê người khác làm",
+      "level": "B1",
+      "form": ["S + 【have / get】 + vật + 【V3】", "Nhờ / bảo ai làm: have + người + V · get + người + to V"],
+      "uses": [
+        {
+          "vi": "Mình không tự làm mà nhờ hoặc trả tiền cho người khác làm.",
+          "ex": [
+            ["I 【had my hair cut】 yesterday.", "Hôm qua tôi đi cắt tóc."],
+            ["We need to 【get the car repaired】.", "Chúng ta cần mang xe đi sửa."],
+            ["I'll 【have the technician check】 it.", "Tôi sẽ nhờ kỹ thuật viên kiểm tra."]
+          ]
+        },
+        {
+          "vi": "Việc không may xảy ra với mình.",
+          "ex": [
+            ["She 【had her phone stolen】 on the bus.", "Cô ấy bị mất điện thoại trên xe buýt."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I cut my hair at the salon. (ý: thợ cắt)", "I had my hair cut at the salon.", "Không tự làm thì dùng have something done."]
+      ],
+      "practice": [
+        ["I'm going to have my eyes ___ (test).", "tested"],
+        ["We got the house ___ (paint) last month.", "painted"]
+      ]
+    },
+    {
+      "id": "passive-reporting",
+      "title": "It is said that… / He is said to…",
+      "sub": "Bị động với động từ tường thuật",
+      "level": "B2",
+      "form": ["It + is / was + 【said / believed / thought / reported】 + that + mệnh đề", "S + is / was + said + 【to V】 (cùng lúc) / 【to have V3】 (xảy ra trước)"],
+      "uses": [
+        {
+          "vi": "Đưa tin, nêu ý kiến chung mà không nói rõ ai nói – rất hay gặp trong tin tức, bài luận.",
+          "ex": [
+            ["【It is believed that】 the painting is worth millions.", "Người ta tin rằng bức tranh trị giá hàng triệu."],
+            ["She 【is said to be】 the best doctor in town.", "Người ta nói cô ấy là bác sĩ giỏi nhất thành phố."],
+            ["The thief 【is thought to have escaped】 through the window.", "Tên trộm được cho là đã trốn qua cửa sổ."]
+          ]
+        }
+      ],
+      "practice": [
+        ["It ___ reported that the storm caused serious damage.", "is/was"],
+        ["He is believed ___ have left the country.", "to"]
+      ]
+    },
+    {
+      "id": "get-passive",
+      "title": "Get + past participle",
+      "sub": "Bị động với get (văn nói) và các cụm get married, get lost…",
+      "level": "B2",
+      "form": ["S + 【get】 (chia theo thì) + V3"],
+      "uses": [
+        {
+          "vi": "Văn nói thay be bằng get, thường cho việc bất ngờ, không mong muốn; và nhiều cụm cố định.",
+          "ex": [
+            ["He 【got fired】 last week.", "Tuần trước anh ấy bị đuổi việc."],
+            ["Our flight 【got cancelled】.", "Chuyến bay của chúng tôi bị huỷ."],
+            ["They 【got married】 in 2020.", "Họ cưới nhau năm 2020."],
+            ["We 【got lost】 in the old town.", "Chúng tôi bị lạc ở phố cổ."]
+          ]
+        }
+      ],
+      "practice": [
+        ["Be careful or you'll get ___ (hurt).", "hurt"]
+      ]
+    },
+    {
+      "id": "passive-infinitive-gerund",
+      "title": "Passive infinitives & gerunds",
+      "sub": "Bị động ở dạng to V và V-ing: to be done, being done, having been done",
+      "level": "C1",
+      "form": ["to be + V3 · to have been + V3", "being + V3 · having been + V3"],
+      "uses": [
+        {
+          "vi": "Khi động từ đứng sau một động từ / giới từ khác nhưng mang nghĩa bị động.",
+          "ex": [
+            ["Everyone wants 【to be loved】.", "Ai cũng muốn được yêu thương."],
+            ["I hate 【being told】 what to do.", "Tôi ghét bị người khác bảo phải làm gì."],
+            ["He denied 【having been paid】 for the article.", "Anh ta phủ nhận đã được trả tiền cho bài báo."],
+            ["The work seems 【to have been finished】 in a hurry.", "Công việc có vẻ đã được làm vội vàng."]
+          ]
+        }
+      ],
+      "practice": [
+        ["She doesn't like ___ (interrupt) when she's speaking. (bị động V-ing)", "being interrupted"]
+      ]
+    }
+  ]
+}

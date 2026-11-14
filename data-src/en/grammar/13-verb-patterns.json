@@ -1,0 +1,254 @@
+{
+  "id": "verb-patterns",
+  "name": "Mẫu động từ: to V hay V-ing",
+  "intro": "Động từ đứng sau một động từ khác phải theo đúng mẫu: to + V, V-ing hay V nguyên mẫu. Phần lớn phải học thuộc theo nhóm.",
+  "points": [
+    {
+      "id": "verb-to-infinitive",
+      "title": "Verb + to infinitive",
+      "sub": "Động từ + to V: want to, decide to…",
+      "level": "A2",
+      "form": ["want · would like · hope · decide · plan · need · agree · promise · refuse · learn · manage · afford · seem · offer + 【to V】"],
+      "uses": [
+        {
+          "vi": "Các động từ hướng tới tương lai, mong muốn, quyết định thường đi với to V.",
+          "ex": [
+            ["I 【want to】 learn Korean.", "Tôi muốn học tiếng Hàn."],
+            ["We 【decided to】 stay at home.", "Chúng tôi quyết định ở nhà."],
+            ["She 【managed to】 find a parking space.", "Cô ấy xoay xở tìm được chỗ đỗ xe."],
+            ["I can't 【afford to】 buy a new car.", "Tôi không đủ tiền mua xe mới."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I want go home.", "I want to go home.", "Want + to V."]
+      ],
+      "practice": [
+        ["They agreed ___ (help) us.", "to help"],
+        ["I hope ___ (see) you soon.", "to see"]
+      ],
+      "see": ["verb-ing", "verb-object-infinitive"]
+    },
+    {
+      "id": "verb-ing",
+      "title": "Verb + -ing",
+      "sub": "Động từ + V-ing: enjoy doing, finish doing…",
+      "level": "A2",
+      "form": ["enjoy · finish · mind · avoid · keep · practise · suggest · consider · miss · imagine · can't stand · give up · look forward to + 【V-ing】", "Sau giới từ luôn là 【V-ing】: interested in learning, good at cooking"],
+      "uses": [
+        {
+          "vi": "Nhóm động từ chỉ sở thích, thói quen, việc đang / đã làm thường đi với V-ing.",
+          "ex": [
+            ["I 【enjoy cooking】 for my friends.", "Tôi thích nấu ăn cho bạn bè."],
+            ["Have you 【finished doing】 your homework?", "Con làm xong bài tập chưa?"],
+            ["Would you 【mind opening】 the window?", "Bạn có phiền mở giúp cửa sổ không?"],
+            ["I'm 【looking forward to seeing】 you.", "Tôi rất mong được gặp bạn."]
+          ]
+        },
+        {
+          "vi": "V-ing làm chủ ngữ (danh động từ).",
+          "ex": [
+            ["【Swimming】 is good for your health.", "Bơi lội tốt cho sức khoẻ."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I look forward to hear from you.", "I look forward to hearing from you.", "To trong look forward to là giới từ → V-ing."],
+        ["She is good at sing.", "She is good at singing.", "Sau giới từ dùng V-ing."]
+      ],
+      "practice": [
+        ["He keeps ___ (ask) me the same question.", "asking"],
+        ["I'm interested in ___ (learn) photography.", "learning"],
+        ["Do you mind ___ (wait) a moment?", "waiting"]
+      ]
+    },
+    {
+      "id": "verb-ing-or-to",
+      "title": "Verbs + -ing or to V (change of meaning)",
+      "sub": "Động từ đi được với cả hai nhưng đổi nghĩa: remember, stop, try…",
+      "level": "B1",
+      "form": ["remember / forget + 【V-ing】 (nhớ / quên việc đã làm) · + 【to V】 (nhớ / quên việc phải làm)", "stop + 【V-ing】 (thôi làm) · + 【to V】 (dừng lại để làm việc khác)", "try + 【V-ing】 (thử làm xem sao) · + 【to V】 (cố gắng làm)", "regret + V-ing (hối tiếc đã làm) · + to say / tell / inform (lấy làm tiếc phải báo)"],
+      "uses": [
+        {
+          "vi": "Cùng một động từ, hai mẫu cho hai nghĩa khác nhau.",
+          "ex": [
+            ["I 【remember meeting】 her at a party. / 【Remember to lock】 the door.", "Tôi nhớ đã gặp cô ấy ở bữa tiệc. / Nhớ khoá cửa nhé."],
+            ["He 【stopped smoking】. / He 【stopped to buy】 some water.", "Anh ấy bỏ thuốc. / Anh ấy dừng lại để mua nước."],
+            ["【Try restarting】 your computer. / I 【tried to call】 you but couldn't get through.", "Thử khởi động lại máy xem. / Tôi đã cố gọi cho bạn mà không được."]
+          ]
+        },
+        {
+          "vi": "Like, love, hate, prefer, start, begin, continue dùng được cả hai, nghĩa gần như không đổi.",
+          "ex": [
+            ["It 【started raining】. / It 【started to rain】.", "Trời bắt đầu mưa."]
+          ]
+        }
+      ],
+      "practice": [
+        ["Did you remember ___ (buy) milk? We need some.", "to buy"],
+        ["I'll never forget ___ (see) the sea for the first time.", "seeing"],
+        ["We stopped ___ (have) lunch at a small restaurant.", "to have"]
+      ]
+    },
+    {
+      "id": "verb-object-infinitive",
+      "title": "Verb + object + to V / make, let + V",
+      "sub": "Muốn / bảo ai làm gì; bắt / để ai làm gì",
+      "level": "B1",
+      "form": ["want / ask / tell / advise / allow / expect / encourage + 【người + to V】", "【make / let】 + người + V (không to) · 【help】 + người + (to) V"],
+      "uses": [
+        {
+          "vi": "Muốn, nhờ, cho phép người khác làm gì.",
+          "ex": [
+            ["My parents 【want me to】 become a doctor.", "Bố mẹ muốn tôi trở thành bác sĩ."],
+            ["The teacher 【allowed us to】 leave early.", "Cô giáo cho chúng tôi về sớm."]
+          ]
+        },
+        {
+          "vi": "Make = bắt / khiến; let = để cho, cho phép. Theo sau là động từ nguyên mẫu không to.",
+          "ex": [
+            ["This song always 【makes me cry】.", "Bài hát này lúc nào cũng làm tôi khóc."],
+            ["My boss 【let me go】 home early.", "Sếp cho tôi về sớm."],
+            ["Can you 【help me carry】 this?", "Giúp tôi xách cái này được không?"]
+          ]
+        }
+      ],
+      "notes": ["Bị động của make dùng to: I was made to wait for an hour."],
+      "mistakes": [
+        ["I want that you come.", "I want you to come.", "Want + người + to V."],
+        ["She made me to clean the room.", "She made me clean the room.", "Make + người + V không to."]
+      ],
+      "practice": [
+        ["My mum won't let me ___ (stay) out late.", "stay"],
+        ["I'd like you ___ (meet) my parents.", "to meet"]
+      ]
+    },
+    {
+      "id": "infinitive-purpose",
+      "title": "Infinitive of purpose",
+      "sub": "To V / in order to / so as to: để làm gì",
+      "level": "A2",
+      "form": ["… + 【to V】 / 【in order to】 V / 【so as to】 V", "Phủ định: in order 【not to】 / so as 【not to】 V"],
+      "uses": [
+        {
+          "vi": "Nói mục đích của hành động. Không dùng for + V.",
+          "ex": [
+            ["I went to the bank 【to get】 some money.", "Tôi ra ngân hàng để rút tiền."],
+            ["She's saving money 【in order to】 study abroad.", "Cô ấy tiết kiệm tiền để đi du học."],
+            ["We left early 【so as not to】 miss the train.", "Chúng tôi đi sớm để không lỡ tàu."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I came here for study English.", "I came here to study English.", "Mục đích dùng to + V, không dùng for + V."]
+      ],
+      "practice": [
+        ["He went to the shop ___ buy some bread.", "to"]
+      ],
+      "see": ["purpose-so-that"]
+    },
+    {
+      "id": "it-adjective-to",
+      "title": "It's + adjective + to V / too, enough + to V",
+      "sub": "Thật … khi làm gì; quá … để; đủ … để",
+      "level": "A2",
+      "form": ["It's + tính từ + (for + người) + 【to V】", "【too】 + tính từ + (for sb) + to V · tính từ + 【enough】 + to V · enough + danh từ + to V"],
+      "uses": [
+        {
+          "vi": "It là chủ ngữ giả, phần to V mới là chủ ngữ thật.",
+          "ex": [
+            ["【It's】 difficult 【to learn】 a new language.", "Học một ngôn ngữ mới thật khó."],
+            ["【It's】 important 【for you to】 sleep well.", "Ngủ đủ giấc rất quan trọng với bạn."]
+          ]
+        },
+        {
+          "vi": "Too = quá (nên không thể); enough = đủ. Enough đứng sau tính từ nhưng trước danh từ.",
+          "ex": [
+            ["The coffee is 【too hot to drink】.", "Cà phê nóng quá không uống được."],
+            ["He isn't 【old enough to】 drive.", "Cậu ấy chưa đủ tuổi lái xe."],
+            ["We don't have 【enough time to】 finish.", "Chúng ta không có đủ thời gian để làm xong."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["She is enough old to vote.", "She is old enough to vote.", "Enough đứng sau tính từ."],
+        ["It's too much hot.", "It's too hot.", "Too + tính từ, không thêm much."]
+      ],
+      "practice": [
+        ["This box is too heavy ___ me to lift.", "for"],
+        ["Are you tall ___ to reach the top shelf?", "enough"]
+      ]
+    },
+    {
+      "id": "be-used-to",
+      "title": "Be used to / get used to + V-ing",
+      "sub": "Quen với / dần quen với",
+      "level": "B1",
+      "form": ["be 【used to】 + V-ing / danh từ: đã quen", "get 【used to】 + V-ing / danh từ: dần quen", "Khác: 【used to】 + V = đã từng (thói quen cũ)"],
+      "uses": [
+        {
+          "vi": "To ở đây là giới từ nên theo sau là V-ing hoặc danh từ.",
+          "ex": [
+            ["I【'm used to】 getting up early.", "Tôi quen dậy sớm rồi."],
+            ["It took me months to 【get used to】 the cold weather.", "Tôi mất mấy tháng mới quen với thời tiết lạnh."],
+            ["She 【isn't used to】 driving on the left.", "Cô ấy chưa quen lái xe bên trái."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I'm used to get up early.", "I'm used to getting up early.", "Be used to + V-ing."]
+      ],
+      "practice": [
+        ["You'll soon get used to ___ (work) at night.", "working"],
+        ["I used to ___ (live) in the countryside, but now I live in the city.", "live"]
+      ],
+      "see": ["used-to"]
+    },
+    {
+      "id": "phrasal-verbs",
+      "title": "Phrasal verbs: word order",
+      "sub": "Cụm động từ: tách được và không tách được",
+      "level": "B1",
+      "form": ["Tách được: turn 【it】 off · turn off 【the light】 / turn 【the light】 off", "Đại từ (it, them, him…) bắt buộc đứng giữa: pick 【them】 up", "Không tách được: look 【after】 sb · get 【on】 the bus · run 【into】 sb"],
+      "uses": [
+        {
+          "vi": "Cụm động từ = động từ + tiểu từ (up, off, on, out…), nghĩa thường khác hẳn động từ gốc.",
+          "ex": [
+            ["Please 【turn off】 your phones. / Please 【turn them off】.", "Vui lòng tắt điện thoại."],
+            ["I'll 【pick you up】 at 7.", "7 giờ tôi đón bạn."],
+            ["Who 【looks after】 your kids?", "Ai trông con cho bạn?"],
+            ["We 【ran out of】 milk.", "Chúng tôi hết sữa."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Turn off it.", "Turn it off.", "Đại từ đứng giữa động từ và tiểu từ."]
+      ],
+      "practice": [
+        ["These are your shoes. Put ___ on. (đại từ)", "them"],
+        ["Can you look ___ my cat while I'm away?", "after"]
+      ]
+    },
+    {
+      "id": "perfect-gerund-infinitive",
+      "title": "Perfect infinitive & gerund: to have done, having done",
+      "sub": "To V / V-ing hoàn thành – việc xảy ra trước",
+      "level": "C1",
+      "form": ["seem / appear / be said + 【to have + V3】", "deny / admit / regret / remember + 【having + V3】"],
+      "uses": [
+        {
+          "vi": "Nhấn mạnh hành động xảy ra trước thời điểm của động từ chính.",
+          "ex": [
+            ["She seems 【to have lost】 weight.", "Cô ấy có vẻ đã giảm cân."],
+            ["I'm sorry 【to have kept】 you waiting.", "Xin lỗi vì đã để bạn phải đợi."],
+            ["He regrets 【having left】 school so early.", "Anh ấy hối hận vì đã bỏ học quá sớm."]
+          ]
+        }
+      ],
+      "practice": [
+        ["He claims ___ have met the president. (to)", "to"],
+        ["She denied ___ taken the money. (having)", "having"]
+      ]
+    }
+  ]
+}

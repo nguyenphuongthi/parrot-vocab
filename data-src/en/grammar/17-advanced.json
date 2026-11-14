@@ -1,0 +1,221 @@
+{
+  "id": "advanced",
+  "name": "Cấu trúc câu nâng cao và nhấn mạnh",
+  "intro": "Các cấu trúc giúp câu văn nhấn mạnh, trang trọng và mạch lạc hơn – cần cho IELTS / bài viết học thuật (B2–C1).",
+  "points": [
+    {
+      "id": "noun-clauses",
+      "title": "Noun clauses: that / whether / what",
+      "sub": "Mệnh đề danh từ",
+      "level": "B2",
+      "form": ["【that】 + mệnh đề (sự thật / ý kiến)", "【whether / if】 + mệnh đề (có hay không)", "【what / how / why…】 + S + V (= điều mà / cách mà)"],
+      "uses": [
+        {
+          "vi": "Một mệnh đề đóng vai trò danh từ: làm chủ ngữ, tân ngữ hoặc bổ ngữ.",
+          "ex": [
+            ["【What】 you said really hurt me.", "Những gì bạn nói làm tôi rất tổn thương."],
+            ["I don't know 【whether】 he'll come.", "Tôi không biết anh ấy có đến không."],
+            ["The problem is 【that】 we don't have enough staff.", "Vấn đề là chúng tôi không đủ nhân viên."],
+            ["【How】 she did it is a mystery.", "Cô ấy đã làm điều đó bằng cách nào vẫn là bí ẩn."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I don't understand what does he mean.", "I don't understand what he means.", "Mệnh đề danh từ không đảo ngữ."]
+      ],
+      "practice": [
+        ["___ he told you isn't true. (điều mà)", "What"],
+        ["I'm not sure ___ I can come. (có hay không)", "whether/if"]
+      ]
+    },
+    {
+      "id": "cleft-sentences",
+      "title": "Cleft sentences",
+      "sub": "Câu chẻ: It is… that… / What… is…",
+      "level": "B2",
+      "form": ["【It is / was】 + phần nhấn mạnh + 【that / who】 + phần còn lại", "【What】 + S + V + 【is / was】 + phần nhấn mạnh", "All (that) / The thing (that) / The reason (why) … is …"],
+      "uses": [
+        {
+          "vi": "Tách câu ra để nhấn mạnh một thành phần, thường để sửa thông tin hoặc làm nổi bật ý.",
+          "ex": [
+            ["【It was】 Lan 【who】 broke the vase, not me.", "Chính Lan làm vỡ bình hoa, không phải tôi."],
+            ["【It's】 the price 【that】 worries me.", "Chính giá cả mới làm tôi lo."],
+            ["【What I need is】 a long holiday.", "Thứ tôi cần là một kỳ nghỉ dài."],
+            ["【All I want is】 some peace and quiet.", "Tất cả những gì tôi muốn là chút yên tĩnh."]
+          ]
+        }
+      ],
+      "practice": [
+        ["It ___ in 2010 that we first met.", "was"],
+        ["___ I love about this city is the food.", "What"]
+      ]
+    },
+    {
+      "id": "emphatic-do",
+      "title": "Emphatic do / does / did",
+      "sub": "Nhấn mạnh bằng trợ động từ",
+      "level": "B2",
+      "form": ["S + 【do / does / did】 + V (nhấn giọng vào trợ động từ)"],
+      "uses": [
+        {
+          "vi": "Khẳng định mạnh, đặc biệt khi phản bác hoặc tương phản với điều vừa nói.",
+          "ex": [
+            ["I 【did】 lock the door – I'm sure!", "Tôi có khoá cửa mà – chắc chắn luôn!"],
+            ["She doesn't sing well, but she 【does】 dance beautifully.", "Cô ấy hát không hay nhưng nhảy thì đẹp thật."],
+            ["【Do】 sit down.", "Mời anh ngồi đi (lịch sự, nhiệt tình)."]
+          ]
+        }
+      ],
+      "practice": [
+        ["You think I didn't call him, but I ___ call him!", "did"]
+      ]
+    },
+    {
+      "id": "inversion",
+      "title": "Inversion after negative adverbials",
+      "sub": "Đảo ngữ sau trạng từ phủ định: Never have I…",
+      "level": "C1",
+      "form": ["【Never / Rarely / Seldom / Little】 + trợ động từ + S + V", "【Not only】 + trợ động từ + S + V, 【but】 … also …", "【Hardly / Scarcely】 had S + V3 【when】… · 【No sooner】 had S + V3 【than】…", "【Not until / Only when / Only after】 + mệnh đề, + trợ động từ + S + V · 【Under no circumstances】 + trợ động từ + S"],
+      "uses": [
+        {
+          "vi": "Đưa trạng từ phủ định / hạn chế lên đầu câu rồi đảo trợ động từ – trang trọng, nhấn mạnh, hay gặp trong văn viết và diễn văn.",
+          "ex": [
+            ["【Never have I】 seen such a beautiful sunset.", "Chưa bao giờ tôi thấy hoàng hôn đẹp đến thế."],
+            ["【Not only did he】 forget my birthday, 【but】 he 【also】 forgot our anniversary.", "Anh ấy không những quên sinh nhật tôi mà còn quên cả ngày kỷ niệm."],
+            ["【No sooner had】 we arrived 【than】 it started to rain.", "Chúng tôi vừa đến nơi thì trời đổ mưa."],
+            ["【Only when】 I got home 【did I】 realise I'd lost my wallet.", "Mãi đến khi về nhà tôi mới nhận ra mình mất ví."],
+            ["【Under no circumstances should you】 share your password.", "Trong mọi trường hợp, bạn không được chia sẻ mật khẩu."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Never I have seen…", "Never have I seen…", "Phải đảo trợ động từ lên trước chủ ngữ."],
+        ["Not only he is smart but also…", "Not only is he smart, but he is also…", "Not only đầu câu cần đảo ngữ."]
+      ],
+      "practice": [
+        ["Rarely ___ I eat fast food. (trợ động từ)", "do"],
+        ["Hardly had I sat down ___ the phone rang.", "when"],
+        ["Not until midnight ___ she finish her essay.", "did"]
+      ],
+      "see": ["inverted-conditionals"]
+    },
+    {
+      "id": "subjunctive",
+      "title": "Subjunctive & it's time / would rather + past",
+      "sub": "Thức giả định: I suggest he go…; It's time we left",
+      "level": "C1",
+      "form": ["suggest / recommend / insist / demand / It's essential + that + S + 【V nguyên mẫu】 (không chia, kể cả ngôi thứ ba)", "【It's (high / about) time】 + S + quá khứ đơn", "would rather + S + quá khứ đơn (muốn người khác làm)"],
+      "uses": [
+        {
+          "vi": "Giả định trang trọng sau các động từ / tính từ đề nghị, yêu cầu, tầm quan trọng. Tiếng Anh–Anh hay dùng should + V thay thế.",
+          "ex": [
+            ["The doctor recommended that she 【rest】 for a week.", "Bác sĩ khuyên cô ấy nghỉ ngơi một tuần."],
+            ["It's essential that every student 【be】 on time.", "Điều quan trọng là mọi học sinh phải đúng giờ."],
+            ["They insisted that he 【should apologise】.", "Họ khăng khăng đòi anh ấy xin lỗi."]
+          ]
+        },
+        {
+          "vi": "It's time + quá khứ: đã đến lúc (và hơi muộn rồi).",
+          "ex": [
+            ["【It's time】 we 【went】 home.", "Đến lúc mình về nhà rồi."],
+            ["【It's high time】 you 【found】 a job.", "Đã đến lúc bạn phải tìm việc rồi đấy."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I suggest that he goes to the doctor.", "I suggest that he go / should go to the doctor.", "Văn trang trọng dùng nguyên mẫu (hoặc should + V)."],
+        ["It's time we go.", "It's time we went. / It's time to go.", "It's time + S + quá khứ đơn."]
+      ],
+      "practice": [
+        ["It's high time you ___ (start) revising.", "started"],
+        ["The manager demanded that the report ___ (be) finished today.", "be"]
+      ]
+    },
+    {
+      "id": "ellipsis-substitution",
+      "title": "Ellipsis & substitution: so, not, do so",
+      "sub": "Tỉnh lược và thay thế để tránh lặp",
+      "level": "C1",
+      "form": ["think / hope / expect / suppose / be afraid + 【so / not】", "【do so】 · 【one / ones】 · bỏ phần lặp sau trợ động từ / to: I'd like to (go)."],
+      "uses": [
+        {
+          "vi": "Thay cả một mệnh đề bằng so / not, hoặc lược phần đã rõ – giúp lời nói tự nhiên, bài viết không lặp từ.",
+          "ex": [
+            ["Will it rain? — I 【hope not】.", "Trời có mưa không? — Mong là không."],
+            ["Is she coming? — I 【think so】.", "Cô ấy có đến không? — Tôi nghĩ là có."],
+            ["You can come if you want 【to】.", "Bạn có thể đến nếu muốn."],
+            ["Applicants who wish to 【do so】 may submit online.", "Ứng viên nào muốn có thể nộp trực tuyến."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I think yes.", "I think so.", "Tiếng Anh dùng so, không dùng yes."],
+        ["I don't hope so.", "I hope not.", "Với hope dùng hope not."]
+      ],
+      "practice": [
+        ["Is the shop open on Sundays? — I'm afraid ___. (không)", "not"],
+        ["Have you finished? — Yes, I think ___.", "so"]
+      ]
+    },
+    {
+      "id": "nominalisation",
+      "title": "Nominalisation",
+      "sub": "Danh từ hoá – văn phong học thuật",
+      "level": "C1",
+      "form": ["Động từ / tính từ → danh từ: decide → 【decision】, grow → 【growth】, important → 【importance】", "the + danh từ + of + …"],
+      "uses": [
+        {
+          "vi": "Chuyển hành động thành danh từ để câu ngắn gọn, khách quan – đặc trưng của bài luận, báo cáo.",
+          "ex": [
+            ["Prices increased rapidly. → 【The rapid increase in prices】…", "Giá tăng nhanh. → Sự tăng nhanh của giá cả…"],
+            ["【The government's decision】 to raise taxes surprised many people.", "Quyết định tăng thuế của chính phủ khiến nhiều người bất ngờ."],
+            ["【The development of】 new technology has changed education.", "Sự phát triển của công nghệ mới đã thay đổi giáo dục."]
+          ]
+        }
+      ],
+      "practice": [
+        ["The population grew → The ___ of the population (danh từ)", "growth"]
+      ]
+    },
+    {
+      "id": "so-such-inversion",
+      "title": "So + adjective + inversion / Such was…",
+      "sub": "Đảo ngữ với so / such",
+      "level": "C1",
+      "form": ["【So】 + tính từ / trạng từ + 【trợ động từ / be + S】 + that…", "【Such】 + be + danh từ + that…"],
+      "uses": [
+        {
+          "vi": "Đưa so / such lên đầu để nhấn mạnh mức độ, văn phong trang trọng hoặc văn chương.",
+          "ex": [
+            ["【So tired was she】 that she fell asleep at her desk.", "Cô ấy mệt đến nỗi ngủ gục trên bàn."],
+            ["【Such was】 the demand 【that】 the tickets sold out in minutes.", "Nhu cầu lớn đến mức vé bán hết trong vài phút."]
+          ]
+        }
+      ],
+      "practice": [
+        ["So loud ___ the music that we couldn't talk.", "was"]
+      ],
+      "see": ["inversion", "so-such"]
+    },
+    {
+      "id": "hedging",
+      "title": "Hedging: tend to, appear to, it could be argued",
+      "sub": "Nói giảm, thận trọng trong văn học thuật",
+      "level": "C1",
+      "form": ["【tend to / appear to / seem to】 + V", "【It could be argued that / It is possible that / There is some evidence that】…", "Trạng từ: 【arguably, apparently, generally, to some extent】"],
+      "uses": [
+        {
+          "vi": "Tránh khẳng định tuyệt đối khi chưa đủ bằng chứng – một yêu cầu quan trọng của bài luận IELTS, bài báo khoa học.",
+          "ex": [
+            ["Young people 【tend to】 spend more time online.", "Người trẻ có xu hướng dành nhiều thời gian trên mạng hơn."],
+            ["【It could be argued that】 technology has made us less patient.", "Có thể cho rằng công nghệ khiến chúng ta kém kiên nhẫn hơn."],
+            ["This is 【arguably】 the most important factor.", "Đây có lẽ là yếu tố quan trọng nhất."]
+          ]
+        }
+      ],
+      "practice": [
+        ["Older people ___ to prefer printed newspapers. (có xu hướng)", "tend"]
+      ]
+    }
+  ]
+}

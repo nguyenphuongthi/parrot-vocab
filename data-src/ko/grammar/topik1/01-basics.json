@@ -1,0 +1,179 @@
+{
+  "id": "k1-basics",
+  "name": "Câu cơ bản: là, có, không",
+  "intro": "Tiếng Hàn đặt động từ ở CUỐI câu (Chủ ngữ – Tân ngữ – Động từ) và đuôi câu cho biết mức độ lịch sự. Đuôi -아요/어요 là lịch sự thân thiện, dùng hằng ngày.",
+  "points": [
+    {
+      "id": "ieyo",
+      "title": "N이에요 / 예요",
+      "sub": "Là N (câu khẳng định lịch sự)",
+      "level": 1,
+      "form": ["Danh từ có patchim + 【이에요】 (학생이에요)", "Danh từ không có patchim + 【예요】 (의사예요)", "Câu hỏi: lên giọng ở cuối – 학생이에요?"],
+      "uses": [
+        {
+          "vi": "Giới thiệu tên, nghề nghiệp, quốc tịch; nói “đây / đó là gì”. Patchim là phụ âm cuối của âm tiết (ví dụ ㄴ trong 생).",
+          "ex": [
+            ["저는 학생【이에요】.", "Tôi là học sinh."],
+            ["제 이름은 민수【예요】.", "Tên tôi là Minsu."],
+            ["이것은 뭐【예요】? — 사과【예요】.", "Cái này là gì? — Là quả táo."]
+          ]
+        }
+      ],
+      "notes": ["Dạng trang trọng: N입니다 / N입니까? (저는 학생입니다)."],
+      "mistakes": [
+        ["의사이에요.", "의사예요.", "의사 không có patchim nên dùng 예요."]
+      ],
+      "practice": [
+        ["저는 베트남 사람___.", "이에요"],
+        ["우리 언니는 가수___.", "예요"]
+      ]
+    },
+    {
+      "id": "anieyo",
+      "title": "N이 / 가 아니에요",
+      "sub": "Không phải là N",
+      "level": 1,
+      "form": ["Danh từ có patchim + 【이 아니에요】", "Danh từ không có patchim + 【가 아니에요】"],
+      "uses": [
+        {
+          "vi": "Phủ định của 이에요/예요.",
+          "ex": [
+            ["저는 한국 사람【이 아니에요】.", "Tôi không phải người Hàn Quốc."],
+            ["이거는 제 가방【이 아니에요】.", "Đây không phải túi của tôi."],
+            ["그 사람은 의사【가 아니에요】. 간호사예요.", "Người đó không phải bác sĩ. Là y tá."]
+          ]
+        }
+      ],
+      "notes": ["Trang trọng: N이/가 아닙니다."],
+      "practice": [
+        ["저는 선생님___ 아니에요.", "이"],
+        ["이건 커피___ 아니에요. 차예요.", "가"]
+      ]
+    },
+    {
+      "id": "itda-eopda",
+      "title": "있다 / 없다",
+      "sub": "Có / không có; ở / không ở",
+      "level": 1,
+      "form": ["N이/가 【있어요】 / 【없어요】 (có / không có)", "N은/는 + nơi chốn + 에 【있어요】 (ở đâu)"],
+      "uses": [
+        {
+          "vi": "Nói về sở hữu, sự tồn tại.",
+          "ex": [
+            ["저는 동생이 【있어요】.", "Tôi có em."],
+            ["오늘은 시간이 【없어요】.", "Hôm nay tôi không có thời gian."]
+          ]
+        },
+        {
+          "vi": "Nói vị trí: ở đâu (kết hợp với trợ từ 에).",
+          "ex": [
+            ["화장실은 2층에 【있어요】.", "Nhà vệ sinh ở tầng 2."],
+            ["엄마는 지금 집에 【없어요】.", "Mẹ bây giờ không có ở nhà."]
+          ]
+        }
+      ],
+      "notes": ["Kính ngữ chỉ người: 계세요 (ở) · 안 계세요. Có: 있으세요."],
+      "practice": [
+        ["교실에 학생이 많이 ___.", "있어요"],
+        ["미안해요. 저는 돈이 ___.", "없어요"]
+      ],
+      "see": ["e-place"]
+    },
+    {
+      "id": "a-eoyo",
+      "title": "V/A-아요 / 어요",
+      "sub": "Đuôi câu lịch sự thân thiện (hiện tại)",
+      "level": 1,
+      "form": ["Nguyên âm cuối của gốc là ㅏ, ㅗ + 【아요】 (가다 → 가요, 좋다 → 좋아요)", "Nguyên âm khác + 【어요】 (먹다 → 먹어요, 마시다 → 마셔요)", "하다 → 【해요】"],
+      "uses": [
+        {
+          "vi": "Dạng chia thông dụng nhất trong giao tiếp hằng ngày; cùng một dạng dùng cho câu kể, câu hỏi (lên giọng) và cả lời đề nghị.",
+          "ex": [
+            ["저는 밥을 먹【어요】.", "Tôi ăn cơm."],
+            ["날씨가 좋【아요】.", "Thời tiết đẹp."],
+            ["지금 뭐 【해요】?", "Bây giờ bạn làm gì?"]
+          ]
+        }
+      ],
+      "notes": ["Gốc kết thúc bằng nguyên âm thường rút gọn: 가 + 아요 → 가요, 오 + 아요 → 와요, 배우 + 어요 → 배워요, 마시 + 어요 → 마셔요, 되 + 어요 → 돼요."],
+      "mistakes": [
+        ["먹아요", "먹어요", "Nguyên âm cuối ㅓ nên dùng 어요."],
+        ["공부하어요", "공부해요", "하다 luôn thành 해요."]
+      ],
+      "practice": [
+        ["저는 커피를 ___. (마시다)", "마셔요"],
+        ["친구를 ___. (만나다)", "만나요"],
+        ["한국어를 ___. (공부하다)", "공부해요"]
+      ],
+      "see": ["seumnida"]
+    },
+    {
+      "id": "seumnida",
+      "title": "V/A-(스)ㅂ니다 / -(스)ㅂ니까?",
+      "sub": "Đuôi câu trang trọng",
+      "level": 1,
+      "form": ["Gốc kết thúc bằng nguyên âm + 【ㅂ니다】 (가다 → 갑니다)", "Gốc có patchim + 【습니다】 (먹다 → 먹습니다)", "Câu hỏi: 【-ㅂ니까 / -습니까?】"],
+      "uses": [
+        {
+          "vi": "Dùng trong phát biểu, thông báo, tin tức, công việc, quân đội, với người lạ cần tôn trọng.",
+          "ex": [
+            ["처음 뵙겠【습니다】.", "Rất hân hạnh được gặp (lần đầu)."],
+            ["회의는 3시에 시작【합니다】.", "Cuộc họp bắt đầu lúc 3 giờ."],
+            ["어디에 가【십니까】?", "Ngài đi đâu ạ?"]
+          ]
+        }
+      ],
+      "notes": ["Gốc kết thúc bằng ㄹ: bỏ ㄹ rồi thêm ㅂ니다 (살다 → 삽니다, 만들다 → 만듭니다)."],
+      "practice": [
+        ["감사___. (하다)", "합니다"],
+        ["저는 김치를 잘 ___. (먹다)", "먹습니다"]
+      ]
+    },
+    {
+      "id": "an-negation",
+      "title": "안 V/A · V/A-지 않다",
+      "sub": "Không (phủ định ý chí / trạng thái)",
+      "level": 1,
+      "form": ["【안】 + động từ / tính từ (안 가요)", "Gốc + 【지 않아요】 (가지 않아요)", "N하다: N 【안 해요】 (공부 안 해요)"],
+      "uses": [
+        {
+          "vi": "Phủ định thông thường: không làm (vì không muốn) hoặc không có tính chất đó. 안 hay dùng khi nói, -지 않다 trang trọng hơn.",
+          "ex": [
+            ["저는 고기를 【안】 먹어요.", "Tôi không ăn thịt."],
+            ["오늘은 날씨가 춥【지 않아요】.", "Hôm nay trời không lạnh."],
+            ["주말에는 일【안】 해요.", "Cuối tuần tôi không làm việc."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["안 공부해요.", "공부 안 해요.", "Với động từ N하다, đặt 안 trước 하다."]
+      ],
+      "practice": [
+        ["저는 술을 ___ 마셔요.", "안"],
+        ["이 음식은 맵___ 않아요.", "지"]
+      ],
+      "see": ["mot-negation"]
+    },
+    {
+      "id": "mot-negation",
+      "title": "못 V · V-지 못하다",
+      "sub": "Không thể (phủ định khả năng)",
+      "level": 1,
+      "form": ["【못】 + động từ (못 가요)", "Gốc + 【지 못해요】", "N하다: N 【못 해요】 (운전 못 해요)"],
+      "uses": [
+        {
+          "vi": "Muốn nhưng không làm được vì không có khả năng hoặc hoàn cảnh không cho phép. Chỉ dùng với động từ.",
+          "ex": [
+            ["저는 수영을 【못】 해요.", "Tôi không biết bơi."],
+            ["어제는 바빠서 숙제를 【못】 했어요.", "Hôm qua bận quá nên tôi không làm được bài tập."],
+            ["너무 매워서 먹【지 못해요】.", "Cay quá nên tôi không ăn được."]
+          ]
+        }
+      ],
+      "notes": ["못 + ㄴ/ㅁ/nguyên âm đọc biến âm: 못 해요 [모태요], 못 먹어요 [몬머거요]."],
+      "practice": [
+        ["다리가 아파서 걸을 수 없어요 = 다리가 아파서 ___ 걸어요.", "못"]
+      ]
+    }
+  ]
+}

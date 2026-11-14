@@ -227,11 +227,14 @@ const hangulKey = (s) => (s || '').replace(/[^가-힣]/g, '');
 function useKoreanDeck() {
   const progress = useLangItems('ko');
   const [data, setData] = useState(null);
+  const [error, setError] = useState(null);
   useEffect(() => {
-    loadKo().then(setData);
+    loadKo()
+      .then(setData)
+      .catch((e) => setError(e.message));
   }, []);
   return useMemo(() => {
-    if (!data) return { ready: false, cards: [], scopes: [] };
+    if (!data) return { ready: false, error, cards: [], scopes: [] };
     const all = [...data.words, ...data.phrases];
     const cards = all.map((e, i) => ({
       key: `ko:${e.id}`,
@@ -240,7 +243,8 @@ function useKoreanDeck() {
       word: e.ko,
       wordLang: 'ko',
       meaning: e.vi,
-      scopes: new Set([e.kind === 'p' ? 'phrases' : e.group, e.kind === 'p' ? 'phrases' : 'words']),
+      scopes: new Set(e.kind === 'p' ? ['phrases'] : [e.group, 'words', `topik${e.level}`]),
+      level: e.level ? { label: `TOPIK ${e.level}`, rank: e.level - 1 } : null,
       order: i,
       answers: [hangulKey(e.ko)],
       entry: progress[e.id],
@@ -255,11 +259,12 @@ function useKoreanDeck() {
     }));
     const scopes = [
       { id: 'words', label: 'Tất cả từ vựng', count: data.words.length },
+      ...[1, 2].map((l) => ({ id: `topik${l}`, label: `Từ vựng TOPIK ${l}`, count: data.words.filter((e) => e.level === l).length })),
       ...data.topics.map((t) => ({ id: t.id, label: `· ${t.name}`, count: t.items.length })),
       { id: 'phrases', label: 'Câu giao tiếp', count: data.phrases.length },
     ];
     return { ready: true, cards, scopes, hasNew: true, scopeLabel: 'Từ vựng + câu giao tiếp' };
-  }, [data, progress]);
+  }, [data, progress, error]);
 }
 
 // Hook dữ liệu thẻ theo ngôn ngữ. Nơi gọi phải gắn key={lang} để mỗi ngôn ngữ là một component riêng

@@ -1,0 +1,185 @@
+{
+  "id": "relative",
+  "name": "Mệnh đề quan hệ và mệnh đề phân từ",
+  "intro": "Gộp hai câu bằng who, which, that…: tiếng Việt đặt “mà” sau danh từ, tiếng Anh cũng vậy nhưng phải chọn đúng đại từ.",
+  "points": [
+    {
+      "id": "defining-relative",
+      "title": "Defining relative clauses",
+      "sub": "Mệnh đề quan hệ xác định: who / which / that / whose / where",
+      "level": "B1",
+      "form": ["Người: 【who / that】 · Vật: 【which / that】", "Sở hữu: 【whose】 + danh từ · Nơi chốn: 【where】 · Thời gian: 【when】"],
+      "uses": [
+        {
+          "vi": "Cho biết đang nói đến người / vật NÀO; không có dấu phẩy vì thiếu nó câu không rõ nghĩa.",
+          "ex": [
+            ["The woman 【who】 lives next door is a nurse.", "Người phụ nữ sống cạnh nhà tôi là y tá."],
+            ["I lost the book 【that】 you gave me.", "Tôi làm mất cuốn sách mà bạn tặng."],
+            ["That's the boy 【whose】 mother is a singer.", "Đó là cậu bé có mẹ là ca sĩ."],
+            ["This is the café 【where】 we first met.", "Đây là quán cà phê nơi chúng ta gặp nhau lần đầu."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["The man which called you…", "The man who called you…", "Người dùng who / that."],
+        ["The book that I bought it is good.", "The book that I bought is good.", "Không lặp lại đại từ sau mệnh đề quan hệ."]
+      ],
+      "practice": [
+        ["I have a friend ___ speaks five languages.", "who/that"],
+        ["Is this the bus ___ goes to the airport?", "which/that"],
+        ["She's the girl ___ brother plays in a band.", "whose"]
+      ],
+      "see": ["non-defining-relative", "omit-relative"]
+    },
+    {
+      "id": "non-defining-relative",
+      "title": "Non-defining relative clauses",
+      "sub": "Mệnh đề quan hệ không xác định (có dấu phẩy)",
+      "level": "B1",
+      "form": ["Danh từ đã xác định 【,】 who / which / whose / where … 【,】", "Không dùng that; không được lược đại từ"],
+      "uses": [
+        {
+          "vi": "Thêm thông tin phụ về người / vật đã rõ là ai, cái gì. Bỏ mệnh đề đi câu vẫn đủ nghĩa.",
+          "ex": [
+            ["My father, 【who】 is 60, still plays football.", "Bố tôi, năm nay 60 tuổi, vẫn đá bóng."],
+            ["Hoi An, 【which】 is in central Vietnam, is famous for its lanterns.", "Hội An, ở miền Trung, nổi tiếng với đèn lồng."]
+          ]
+        },
+        {
+          "vi": "Which có thể thay cho cả mệnh đề phía trước.",
+          "ex": [
+            ["He passed the exam, 【which】 surprised everyone.", "Anh ấy thi đỗ, điều đó làm mọi người bất ngờ."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["My mother, that is a teacher, …", "My mother, who is a teacher, …", "Mệnh đề có dấu phẩy không dùng that."]
+      ],
+      "practice": [
+        ["Da Lat, ___ is in the mountains, has cool weather.", "which"],
+        ["She failed the test, ___ was a shock to her parents.", "which"]
+      ]
+    },
+    {
+      "id": "omit-relative",
+      "title": "Omitting the relative pronoun",
+      "sub": "Lược bỏ đại từ quan hệ",
+      "level": "B1",
+      "form": ["Lược được khi who / which / that là 【tân ngữ】 trong mệnh đề xác định"],
+      "uses": [
+        {
+          "vi": "Nếu sau who / which / that là một chủ ngữ khác, có thể bỏ đại từ quan hệ (rất phổ biến khi nói).",
+          "ex": [
+            ["The film (【that】) we saw was great. → The film 【we saw】 was great.", "Bộ phim chúng tôi xem rất hay."],
+            ["Is this the person (【who】) you were talking about?", "Đây có phải người bạn vừa nhắc đến không?"]
+          ]
+        }
+      ],
+      "notes": ["Không lược được khi đại từ là chủ ngữ: The man who called you (không: *The man called you…)."],
+      "practice": [
+        ["The film we ___ (see) last night was boring.", "saw"],
+        ["Is this the key you were looking ___?", "for"]
+      ]
+    },
+    {
+      "id": "relative-prepositions",
+      "title": "Prepositions in relative clauses",
+      "sub": "Giới từ trong mệnh đề quan hệ: the person to whom…",
+      "level": "B2",
+      "form": ["Thân mật: … (that / who) + V + 【giới từ】 (giới từ ở cuối)", "Trang trọng: 【giới từ + whom / which】 + S + V"],
+      "uses": [
+        {
+          "vi": "Hai cách đặt giới từ; whom chỉ dùng ngay sau giới từ hoặc văn rất trang trọng.",
+          "ex": [
+            ["That's the girl I told you 【about】.", "Đó là cô gái tôi kể với bạn."],
+            ["The company 【for which】 she works is based in Singapore.", "Công ty mà cô ấy làm việc có trụ sở tại Singapore."],
+            ["The person 【to whom】 this letter is addressed has moved.", "Người nhận lá thư này đã chuyển đi."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["The house in which I live in…", "The house in which I live… / The house I live in…", "Giới từ chỉ xuất hiện một lần."]
+      ],
+      "practice": [
+        ["This is the topic ___ which I want to talk. (giới từ)", "about"]
+      ]
+    },
+    {
+      "id": "participle-clauses",
+      "title": "Participle clauses",
+      "sub": "Mệnh đề phân từ: rút gọn bằng V-ing / V3 / having V3",
+      "level": "B2",
+      "form": ["Rút gọn mệnh đề quan hệ: the man 【sitting】 there (= who is sitting) · a car 【made】 in Japan (= which was made)", "Trạng ngữ: 【V-ing】 (cùng lúc / nguyên nhân) · 【Having + V3】 (xảy ra trước) · 【V3】 (bị động)"],
+      "uses": [
+        {
+          "vi": "Rút gọn mệnh đề quan hệ chủ động bằng V-ing, bị động bằng V3.",
+          "ex": [
+            ["Who's the woman 【talking】 to your father?", "Người phụ nữ đang nói chuyện với bố bạn là ai?"],
+            ["Most of the goods 【sold】 here are imported.", "Phần lớn hàng bán ở đây là hàng nhập khẩu."]
+          ]
+        },
+        {
+          "vi": "Thay mệnh đề trạng ngữ (khi, vì, sau khi) – chủ ngữ hai vế phải giống nhau. Hay gặp trong văn viết.",
+          "ex": [
+            ["【Feeling】 tired, I went to bed early.", "Thấy mệt nên tôi đi ngủ sớm."],
+            ["【Having finished】 her work, she went home.", "Làm xong việc, cô ấy về nhà."],
+            ["【Built】 in 1880, the church is the oldest in the city.", "Được xây năm 1880, nhà thờ là lâu đời nhất thành phố."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Walking down the street, the rain started.", "Walking down the street, I got caught in the rain.", "Chủ ngữ của mệnh đề phân từ phải là người làm hành động (ở đây là I, không phải the rain)."]
+      ],
+      "practice": [
+        ["The man ___ (stand) at the door is my uncle.", "standing"],
+        ["___ (finish) dinner, we went for a walk. (đã xong trước)", "Having finished"]
+      ]
+    },
+    {
+      "id": "whatever-whoever",
+      "title": "Whatever / whoever / wherever / however",
+      "sub": "Bất cứ cái gì, bất cứ ai, dù thế nào",
+      "level": "B2",
+      "form": ["whatever · whoever · whichever · wherever · whenever · 【however + tính từ / trạng từ】"],
+      "uses": [
+        {
+          "vi": "Bất cứ … nào (không giới hạn), hoặc dù … đi nữa.",
+          "ex": [
+            ["Take 【whatever】 you need.", "Cần gì cứ lấy."],
+            ["【Whoever】 wins, we'll celebrate.", "Dù ai thắng, chúng ta vẫn ăn mừng."],
+            ["Sit 【wherever】 you like.", "Ngồi đâu tuỳ bạn."],
+            ["【However hard】 I try, I can't remember her name.", "Dù cố mấy tôi cũng không nhớ tên cô ấy."]
+          ]
+        }
+      ],
+      "practice": [
+        ["Call me ___ you need help. (bất cứ khi nào)", "whenever"],
+        ["___ much it costs, I'll buy it.", "However"]
+      ]
+    },
+    {
+      "id": "some-of-whom",
+      "title": "Some of whom / most of which / whereby",
+      "sub": "Lượng từ + of whom / which; whereby (nhờ đó)",
+      "level": "C1",
+      "form": ["… , 【some / many / most / none / both / all】 + 【of whom】 (người) / 【of which】 (vật)", "【whereby】 = theo đó, nhờ đó (văn trang trọng)"],
+      "uses": [
+        {
+          "vi": "Mệnh đề quan hệ không xác định với lượng từ – gọn hơn tách thành hai câu.",
+          "ex": [
+            ["She has three brothers, 【all of whom】 are doctors.", "Cô ấy có ba anh trai, tất cả đều là bác sĩ."],
+            ["We visited several temples, 【most of which】 were built in the 11th century.", "Chúng tôi thăm nhiều ngôi chùa, phần lớn được xây vào thế kỷ 11."],
+            ["They introduced a system 【whereby】 employees can work from home.", "Họ áp dụng một hệ thống theo đó nhân viên có thể làm việc ở nhà."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I have two cousins, both of them live abroad.", "I have two cousins, both of whom live abroad.", "Nối mệnh đề cần whom, không dùng them."]
+      ],
+      "practice": [
+        ["He wrote ten books, most of ___ became bestsellers.", "which"],
+        ["I met many people, some of ___ were very friendly.", "whom"]
+      ]
+    }
+  ]
+}

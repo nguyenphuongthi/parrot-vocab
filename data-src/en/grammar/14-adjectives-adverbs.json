@@ -1,0 +1,294 @@
+{
+  "id": "adjectives-adverbs",
+  "name": "Tính từ, trạng từ và so sánh",
+  "intro": "Tính từ bổ nghĩa cho danh từ, trạng từ bổ nghĩa cho động từ, tính từ hoặc cả câu. Phần này gồm cả các cấu trúc so sánh.",
+  "points": [
+    {
+      "id": "adjective-position",
+      "title": "Adjectives: position & order",
+      "sub": "Vị trí và thứ tự tính từ",
+      "level": "A2",
+      "form": ["Tính từ đứng 【trước danh từ】 (a red car) hoặc 【sau be / look / feel / seem】 (The car is red.)", "Thứ tự: ý kiến → kích thước → tuổi → hình dạng → màu → nguồn gốc → chất liệu → mục đích + danh từ"],
+      "uses": [
+        {
+          "vi": "Ngược với tiếng Việt (“áo đỏ”), tiếng Anh đặt tính từ trước danh từ, và tính từ không có số nhiều.",
+          "ex": [
+            ["She bought a 【beautiful】 dress.", "Cô ấy mua một chiếc váy đẹp."],
+            ["You 【look】 【tired】.", "Trông bạn mệt mỏi."],
+            ["a 【lovely little old】 house", "một ngôi nhà nhỏ cũ xinh xắn"],
+            ["a 【big black Italian leather】 bag", "một chiếc túi da Ý lớn màu đen"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["They are goods students.", "They are good students.", "Tính từ không thêm -s."],
+        ["a car red", "a red car", "Tính từ đứng trước danh từ."]
+      ],
+      "practice": [
+        ["She has ___ hair. (long / black – đúng thứ tự)", "long black"]
+      ]
+    },
+    {
+      "id": "ed-ing-adjectives",
+      "title": "-ed vs -ing adjectives",
+      "sub": "Bored hay boring? Cảm xúc của người vs tính chất của vật",
+      "level": "A2",
+      "form": ["【-ed】: cảm giác của người (bored, interested, tired, excited, surprised)", "【-ing】: thứ gây ra cảm giác đó (boring, interesting, tiring, exciting, surprising)"],
+      "uses": [
+        {
+          "vi": "-ed nói ai đó cảm thấy thế nào; -ing nói người / vật / việc khiến người khác cảm thấy như vậy.",
+          "ex": [
+            ["I'm 【bored】. This lesson is 【boring】.", "Tôi chán quá. Bài học này chán thật."],
+            ["She was 【surprised】 by the 【surprising】 news.", "Cô ấy bất ngờ trước tin tức đáng ngạc nhiên đó."],
+            ["Are you 【interested】 in art?", "Bạn có quan tâm đến nghệ thuật không?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I'm very boring today.", "I'm very bored today.", "I'm boring = tôi là người nhàm chán."]
+      ],
+      "practice": [
+        ["The film was really ___. (excite)", "exciting"],
+        ["I was ___ after the long walk. (tire)", "tired"]
+      ]
+    },
+    {
+      "id": "adverbs-manner",
+      "title": "Adverbs of manner",
+      "sub": "Trạng từ chỉ cách thức: quickly, well…",
+      "level": "A2",
+      "form": ["Tính từ + 【-ly】: slow → slowly, careful → carefully, easy → easily", "Bất quy tắc: good → 【well】 · fast → fast · hard → hard · late → late"],
+      "uses": [
+        {
+          "vi": "Trạng từ bổ nghĩa cho động từ (làm như thế nào), thường đứng sau động từ hoặc sau tân ngữ.",
+          "ex": [
+            ["Please drive 【carefully】.", "Làm ơn lái xe cẩn thận."],
+            ["She speaks English 【very well】.", "Cô ấy nói tiếng Anh rất giỏi."],
+            ["He works 【hard】.", "Anh ấy làm việc chăm chỉ."]
+          ]
+        }
+      ],
+      "notes": ["Hardly = hầu như không (không phải trạng từ của hard): I hardly know him.", "Sau look, feel, smell, taste, sound, seem dùng tính từ: The food smells good."],
+      "mistakes": [
+        ["She sings very good.", "She sings very well.", "Bổ nghĩa động từ dùng trạng từ well."],
+        ["He speaks English fluent.", "He speaks English fluently.", "Cần trạng từ."]
+      ],
+      "practice": [
+        ["He answered the question ___. (correct)", "correctly"],
+        ["You did the job really ___. (good)", "well"]
+      ]
+    },
+    {
+      "id": "adverbs-frequency",
+      "title": "Adverbs of frequency",
+      "sub": "Trạng từ tần suất: always, usually, sometimes, never…",
+      "level": "A1",
+      "form": ["always · usually · often · sometimes · rarely / seldom · never", "Vị trí: 【trước động từ thường】 · 【sau to be / trợ động từ】"],
+      "uses": [
+        {
+          "vi": "Cho biết việc xảy ra thường xuyên đến mức nào.",
+          "ex": [
+            ["I 【always】 have breakfast.", "Tôi luôn ăn sáng."],
+            ["She's 【never】 late.", "Cô ấy không bao giờ đến muộn."],
+            ["We 【don't often】 eat out.", "Chúng tôi không hay ăn ngoài."],
+            ["【Sometimes】 I walk to work.", "Thỉnh thoảng tôi đi bộ đi làm."]
+          ]
+        }
+      ],
+      "notes": ["Cụm dài hơn đứng cuối câu: once a week, every day, twice a month."],
+      "mistakes": [
+        ["I go always to the gym.", "I always go to the gym.", "Trạng từ tần suất đứng trước động từ thường."],
+        ["He never is late.", "He is never late.", "Đứng sau to be."]
+      ],
+      "practice": [
+        ["She ___ drinks coffee. She hates it. (không bao giờ)", "never"]
+      ]
+    },
+    {
+      "id": "adverbs-degree",
+      "title": "Adverbs of degree: very, quite, rather, pretty…",
+      "sub": "Trạng từ chỉ mức độ",
+      "level": "B1",
+      "form": ["extremely / really / very > pretty / quite (khá) > a bit / slightly (hơi)", "Tính từ “tuyệt đối” (amazing, freezing, perfect) dùng 【absolutely / completely / totally】, không dùng very"],
+      "uses": [
+        {
+          "vi": "Làm mạnh hoặc giảm nhẹ tính từ, trạng từ. Quite trong tiếng Anh–Anh thường mang nghĩa “khá” (không hẳn là rất).",
+          "ex": [
+            ["The test was 【quite】 easy.", "Bài kiểm tra khá dễ."],
+            ["It's 【a bit】 expensive.", "Hơi đắt một chút."],
+            ["The view was 【absolutely】 amazing.", "Cảnh đẹp tuyệt vời."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["It was very delicious.", "It was absolutely delicious / really delicious.", "Delicious đã mang nghĩa mạnh; very delicious nghe không tự nhiên với nhiều người bản xứ."]
+      ],
+      "practice": [
+        ["It's ___ freezing outside! (absolutely/very)", "absolutely"]
+      ]
+    },
+    {
+      "id": "comparatives",
+      "title": "Comparatives",
+      "sub": "So sánh hơn",
+      "level": "A2",
+      "form": ["Tính từ ngắn: + 【-er than】 (cheap → cheaper, big → bigger, easy → easier)", "Tính từ dài: 【more … than】 (more expensive)", "Bất quy tắc: good → better · bad → worse · far → further · much / many → more", "Mức độ: much / far / a lot / a bit + so sánh hơn"],
+      "uses": [
+        {
+          "vi": "So sánh hai người, vật.",
+          "ex": [
+            ["Hanoi is 【colder than】 Saigon in winter.", "Mùa đông Hà Nội lạnh hơn Sài Gòn."],
+            ["This phone is 【more expensive than】 that one.", "Điện thoại này đắt hơn cái kia."],
+            ["Your English is 【much better】 now.", "Bây giờ tiếng Anh của bạn tốt hơn nhiều."],
+            ["Could you speak 【a bit more slowly】?", "Bạn nói chậm hơn chút được không?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["She is more tall than me.", "She is taller than me.", "Tính từ ngắn thêm -er."],
+        ["It's more better.", "It's better / much better.", "Không dùng hai lần so sánh."]
+      ],
+      "practice": [
+        ["My bag is ___ (heavy) than yours.", "heavier"],
+        ["This exercise is ___ difficult than the last one.", "more"],
+        ["The weather today is ___ (bad) than yesterday.", "worse"]
+      ],
+      "see": ["superlatives", "as-as"]
+    },
+    {
+      "id": "superlatives",
+      "title": "Superlatives",
+      "sub": "So sánh nhất",
+      "level": "A2",
+      "form": ["【the】 + tính từ ngắn + 【-est】 (the cheapest)", "【the most】 + tính từ dài (the most beautiful)", "Bất quy tắc: the best · the worst · the furthest", "… in + nơi / nhóm · … of + số lượng · … I've ever + V3"],
+      "uses": [
+        {
+          "vi": "So sánh một người / vật với cả nhóm.",
+          "ex": [
+            ["Fansipan is 【the highest】 mountain in Vietnam.", "Fansipan là ngọn núi cao nhất Việt Nam."],
+            ["That was 【the best】 meal I've ever had.", "Đó là bữa ăn ngon nhất tôi từng ăn."],
+            ["She's 【the most hard-working】 person in our team.", "Cô ấy là người chăm chỉ nhất nhóm chúng tôi."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["He is the tallest of the class.", "He is the tallest in the class.", "Nơi chốn / nhóm dùng in."]
+      ],
+      "practice": [
+        ["It's the ___ (good) film of the year.", "best"],
+        ["This is the ___ expensive hotel in town.", "most"]
+      ]
+    },
+    {
+      "id": "as-as",
+      "title": "As … as / not as … as",
+      "sub": "So sánh bằng và không bằng",
+      "level": "A2",
+      "form": ["【as】 + tính từ / trạng từ + 【as】", "【not as / not so】 … as", "the same (+ danh từ) as · twice / three times as … as"],
+      "uses": [
+        {
+          "vi": "Bằng nhau hoặc không bằng.",
+          "ex": [
+            ["My brother is 【as tall as】 my father.", "Anh tôi cao bằng bố tôi."],
+            ["The test was【n't as hard as】 I expected.", "Bài kiểm tra không khó như tôi tưởng."],
+            ["My salary is 【the same as】 yours.", "Lương của tôi bằng lương của bạn."],
+            ["This flat is 【twice as big as】 my old one.", "Căn hộ này rộng gấp đôi căn cũ của tôi."]
+          ]
+        }
+      ],
+      "practice": [
+        ["She isn't as old ___ she looks.", "as"],
+        ["Run as fast ___ you can!", "as"]
+      ]
+    },
+    {
+      "id": "the-more",
+      "title": "The more …, the more …",
+      "sub": "Càng … càng …",
+      "level": "B2",
+      "form": ["【The】 + so sánh hơn + S + V, 【the】 + so sánh hơn + S + V"],
+      "uses": [
+        {
+          "vi": "Hai sự việc thay đổi cùng nhau.",
+          "ex": [
+            ["【The more】 you practise, 【the better】 you get.", "Càng luyện tập càng giỏi."],
+            ["【The older】 I get, 【the less】 I sleep.", "Càng lớn tuổi tôi càng ngủ ít."],
+            ["【The sooner】, 【the better】.", "Càng sớm càng tốt."]
+          ]
+        }
+      ],
+      "practice": [
+        ["The ___ (hard) you work, the more you earn.", "harder"]
+      ]
+    },
+    {
+      "id": "so-such",
+      "title": "So / such (… that)",
+      "sub": "Quá … đến nỗi",
+      "level": "B1",
+      "form": ["【so】 + tính từ / trạng từ (+ that…)", "【such】 + (a / an) + tính từ + danh từ (+ that…)", "so much / many / little / few + danh từ"],
+      "uses": [
+        {
+          "vi": "Nhấn mạnh mức độ, thường kèm kết quả.",
+          "ex": [
+            ["It was 【so】 hot 【that】 we stayed inside.", "Trời nóng đến nỗi chúng tôi ở trong nhà."],
+            ["She's 【such a】 kind person.", "Cô ấy là người tốt bụng quá."],
+            ["There were 【so many】 people that I couldn't see the stage.", "Đông người đến nỗi tôi không nhìn thấy sân khấu."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["It was so a good film.", "It was such a good film.", "Có danh từ dùng such a."]
+      ],
+      "practice": [
+        ["He spoke ___ quickly that I didn't understand.", "so"],
+        ["They have ___ a beautiful garden.", "such"]
+      ]
+    },
+    {
+      "id": "compound-adjectives",
+      "title": "Compound adjectives (a ten-minute walk)",
+      "sub": "Tính từ ghép",
+      "level": "B2",
+      "form": ["số + danh từ 【số ít】 có gạch nối: a 【five-star】 hotel, a 【ten-minute】 walk", "tính từ / trạng từ + phân từ: 【well-known】, 【good-looking】, 【long-lasting】"],
+      "uses": [
+        {
+          "vi": "Ghép hai từ thành một tính từ đứng trước danh từ; danh từ trong số đo không thêm -s.",
+          "ex": [
+            ["It's a 【ten-minute】 walk from here.", "Đi bộ từ đây mất mười phút."],
+            ["She's a 【well-known】 writer.", "Cô ấy là nhà văn nổi tiếng."],
+            ["We need a 【full-time】 designer.", "Chúng tôi cần một nhà thiết kế toàn thời gian."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["a two-weeks holiday", "a two-week holiday", "Danh từ trong tính từ ghép ở dạng số ít."]
+      ],
+      "practice": [
+        ["We stayed in a ___ hotel. (five / star → tính từ ghép)", "five-star"],
+        ["It was a three-___ journey. (hour)", "hour"]
+      ]
+    },
+    {
+      "id": "intensifying-comparatives",
+      "title": "By far / nowhere near / considerably + comparison",
+      "sub": "Nhấn mạnh và giảm nhẹ so sánh",
+      "level": "C1",
+      "form": ["Mạnh: 【far / much / considerably / significantly】 + so sánh hơn · 【by far】 + so sánh nhất", "Nhẹ: 【slightly / marginally / a little】 + so sánh hơn", "Không bằng: 【nowhere near / not nearly】 as … as · 【nothing like】 as … as"],
+      "uses": [
+        {
+          "vi": "Cho biết mức chênh lệch – rất cần khi mô tả số liệu, biểu đồ.",
+          "ex": [
+            ["This is 【by far】 the best option.", "Đây là lựa chọn tốt nhất, hơn hẳn."],
+            ["Sales were 【significantly higher】 in 2024.", "Doanh số năm 2024 cao hơn đáng kể."],
+            ["The sequel is 【nowhere near as good as】 the original.", "Phần tiếp theo kém xa phần đầu."]
+          ]
+        }
+      ],
+      "practice": [
+        ["She is ___ far the most talented student in the class.", "by"],
+        ["The second test was ___ near as difficult as the first.", "nowhere"]
+      ]
+    }
+  ]
+}

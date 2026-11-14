@@ -1,0 +1,223 @@
+{
+  "id": "past",
+  "name": "Thì quá khứ",
+  "intro": "Kể lại sự việc đã xảy ra: hành động hoàn tất, bối cảnh đang diễn ra, thói quen trong quá khứ và việc xảy ra trước một mốc quá khứ.",
+  "points": [
+    {
+      "id": "was-were",
+      "title": "Was / were",
+      "sub": "To be ở quá khứ",
+      "level": "A1",
+      "form": ["I / he / she / it 【was】 · you / we / they 【were】", "Phủ định: wasn't · weren't — Câu hỏi: Was…? · Were…?"],
+      "uses": [
+        {
+          "vi": "Mô tả trạng thái, vị trí, cảm xúc trong quá khứ; sinh ra (be born).",
+          "ex": [
+            ["I 【was】 tired yesterday.", "Hôm qua tôi mệt."],
+            ["【Were】 you at home last night?", "Tối qua bạn có ở nhà không?"],
+            ["She 【was born】 in 2001.", "Cô ấy sinh năm 2001."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I born in Hue.", "I was born in Hue.", "Be born luôn có to be."]
+      ],
+      "practice": [
+        ["The film ___ really boring.", "was"],
+        ["Where ___ you on Saturday?", "were"]
+      ]
+    },
+    {
+      "id": "past-simple",
+      "title": "Past simple",
+      "sub": "Thì quá khứ đơn",
+      "level": "A1",
+      "form": ["Có quy tắc: V + 【-ed】 (work → worked, stop → stopped, study → studied)", "Bất quy tắc: go → 【went】, see → 【saw】, buy → 【bought】…", "Phủ định: 【didn't】 + V · Câu hỏi: 【Did】 + S + V…?"],
+      "uses": [
+        {
+          "vi": "Hành động đã xong ở một thời điểm xác định trong quá khứ (yesterday, last week, in 2019, ago, when I was a child).",
+          "ex": [
+            ["We 【visited】 Hoi An last summer.", "Hè năm ngoái chúng tôi đi Hội An."],
+            ["I 【didn't see】 him at the party.", "Tôi không thấy anh ấy ở bữa tiệc."],
+            ["When 【did】 you 【start】 learning English?", "Bạn bắt đầu học tiếng Anh khi nào?"]
+          ]
+        },
+        {
+          "vi": "Chuỗi hành động nối tiếp nhau khi kể chuyện.",
+          "ex": [
+            ["She 【opened】 the door, 【looked】 around and 【left】.", "Cô ấy mở cửa, nhìn quanh rồi rời đi."]
+          ]
+        }
+      ],
+      "notes": ["Đuôi -ed đọc /t/ sau âm vô thanh (worked), /d/ sau âm hữu thanh (played), /ɪd/ sau t, d (wanted, needed)."],
+      "mistakes": [
+        ["I didn't went there.", "I didn't go there.", "Sau did / didn't dùng động từ nguyên mẫu."],
+        ["Yesterday I go to the market.", "Yesterday I went to the market.", "Có mốc quá khứ phải chia quá khứ."]
+      ],
+      "practice": [
+        ["I ___ (buy) a new phone last week.", "bought"],
+        ["___ you enjoy the concert?", "Did"],
+        ["They ___ (not / come) to class yesterday.", "didn't come/did not come"]
+      ],
+      "see": ["past-continuous", "present-perfect-vs-past"]
+    },
+    {
+      "id": "past-continuous",
+      "title": "Past continuous",
+      "sub": "Thì quá khứ tiếp diễn",
+      "level": "A2",
+      "form": ["was / were + 【V-ing】"],
+      "uses": [
+        {
+          "vi": "Việc đang diễn ra tại một thời điểm trong quá khứ.",
+          "ex": [
+            ["At 9 pm last night I 【was watching】 TV.", "Lúc 9 giờ tối qua tôi đang xem TV."],
+            ["What 【were】 you 【doing】 when I called?", "Lúc tôi gọi bạn đang làm gì?"]
+          ]
+        },
+        {
+          "vi": "Tả bối cảnh cho câu chuyện.",
+          "ex": [
+            ["It 【was raining】 and people 【were hurrying】 home.", "Trời đang mưa và mọi người đang vội vã về nhà."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I was knowing the answer.", "I knew the answer.", "Động từ trạng thái không dùng -ing."]
+      ],
+      "practice": [
+        ["At 7 o'clock this morning, I ___ (have) breakfast.", "was having"],
+        ["The children ___ (play) in the garden all afternoon.", "were playing"]
+      ],
+      "see": ["when-while"]
+    },
+    {
+      "id": "when-while",
+      "title": "Past simple vs past continuous: when / while",
+      "sub": "Hành động đang diễn ra thì một việc khác xen vào",
+      "level": "A2",
+      "form": ["【While】 + quá khứ tiếp diễn, quá khứ đơn", "Quá khứ tiếp diễn + 【when】 + quá khứ đơn"],
+      "uses": [
+        {
+          "vi": "Việc dài (đang diễn ra) dùng quá khứ tiếp diễn, việc ngắn xen vào dùng quá khứ đơn.",
+          "ex": [
+            ["I 【was cooking】 【when】 the phone 【rang】.", "Tôi đang nấu ăn thì điện thoại reo."],
+            ["【While】 she 【was walking】 home, she 【saw】 an accident.", "Trong lúc đi bộ về nhà, cô ấy thấy một vụ tai nạn."]
+          ]
+        },
+        {
+          "vi": "Hai việc cùng diễn ra song song: cả hai đều quá khứ tiếp diễn.",
+          "ex": [
+            ["【While】 I 【was studying】, my brother 【was playing】 games.", "Trong khi tôi học thì em tôi chơi game."]
+          ]
+        }
+      ],
+      "notes": ["Hai việc nối tiếp (việc này xong rồi mới đến việc kia) dùng hai quá khứ đơn: When he arrived, we started dinner."],
+      "mistakes": [
+        ["When I watched TV, the lights went out.", "When I was watching TV, the lights went out.", "Việc đang diễn ra dùng tiếp diễn."]
+      ],
+      "practice": [
+        ["I ___ (sleep) when you called.", "was sleeping"],
+        ["While we were having dinner, someone ___ (knock) on the door.", "knocked"]
+      ]
+    },
+    {
+      "id": "used-to",
+      "title": "Used to",
+      "sub": "Đã từng (thói quen, trạng thái trong quá khứ nay không còn)",
+      "level": "A2",
+      "form": ["S + 【used to】 + V", "Phủ định: didn't 【use to】 + V · Câu hỏi: Did… 【use to】 + V?"],
+      "uses": [
+        {
+          "vi": "Việc thường xảy ra hoặc tình trạng đúng trong quá khứ, bây giờ không còn nữa.",
+          "ex": [
+            ["I 【used to】 live in Da Lat.", "Trước đây tôi từng sống ở Đà Lạt."],
+            ["He 【used to】 smoke, but he quit.", "Anh ấy từng hút thuốc nhưng đã bỏ."],
+            ["【Did】 you 【use to】 play football?", "Hồi trước bạn có hay đá bóng không?"]
+          ]
+        }
+      ],
+      "notes": ["Không dùng used to cho việc chỉ xảy ra một lần hoặc nêu rõ bao nhiêu lần.", "Đừng nhầm với be used to + V-ing (quen với)."],
+      "mistakes": [
+        ["I use to go there when I was young.", "I used to go there when I was young.", "Câu khẳng định viết used to."],
+        ["I used to go to Japan in 2018.", "I went to Japan in 2018.", "Việc một lần dùng quá khứ đơn."]
+      ],
+      "practice": [
+        ["There ___ to be a cinema here.", "used"],
+        ["Did you ___ to have long hair?", "use"]
+      ],
+      "see": ["would-past", "be-used-to"]
+    },
+    {
+      "id": "would-past",
+      "title": "Would for past habits",
+      "sub": "Would kể lại thói quen trong quá khứ",
+      "level": "B2",
+      "form": ["S + 【would】 + V (chỉ cho hành động lặp lại)"],
+      "uses": [
+        {
+          "vi": "Khi kể chuyện, hồi tưởng về những việc thường làm ngày xưa (giống used to), nhưng chỉ dùng cho hành động, không dùng cho trạng thái.",
+          "ex": [
+            ["Every summer we 【would】 go to my grandparents' village.", "Mùa hè nào chúng tôi cũng về quê ông bà."],
+            ["My dad 【would】 read to us before bed.", "Bố tôi thường đọc truyện cho chúng tôi trước khi ngủ."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I would have a dog when I was a child.", "I used to have a dog when I was a child.", "Trạng thái (have, live, be) dùng used to, không dùng would."]
+      ],
+      "practice": [
+        ["When I was little, my grandmother ___ tell us stories every night. (would/used)", "would"],
+        ["We ___ to live near the sea. (would/used)", "used"]
+      ]
+    },
+    {
+      "id": "past-perfect",
+      "title": "Past perfect",
+      "sub": "Thì quá khứ hoàn thành",
+      "level": "B1",
+      "form": ["had + 【V3 / V-ed】 (phân từ hai)"],
+      "uses": [
+        {
+          "vi": "Việc xảy ra TRƯỚC một việc hoặc mốc khác trong quá khứ (“đã … rồi”).",
+          "ex": [
+            ["When we arrived, the film 【had】 already 【started】.", "Lúc chúng tôi đến thì phim đã bắt đầu rồi."],
+            ["I 【had never seen】 snow before I went to Japan.", "Trước khi sang Nhật tôi chưa từng thấy tuyết."],
+            ["She was upset because she 【had lost】 her keys.", "Cô ấy buồn vì đã làm mất chìa khoá."]
+          ]
+        }
+      ],
+      "notes": ["Nếu thứ tự đã rõ nhờ before / after, có thể dùng quá khứ đơn: After I finished work, I went home."],
+      "mistakes": [
+        ["I had gone to Hanoi last year.", "I went to Hanoi last year.", "Không có mốc quá khứ thứ hai thì dùng quá khứ đơn."]
+      ],
+      "practice": [
+        ["By the time the police came, the thief ___ (escape).", "had escaped"],
+        ["I didn't recognise him because he ___ (change) a lot.", "had changed"]
+      ],
+      "see": ["past-perfect-continuous", "third-conditional"]
+    },
+    {
+      "id": "past-perfect-continuous",
+      "title": "Past perfect continuous",
+      "sub": "Thì quá khứ hoàn thành tiếp diễn",
+      "level": "B2",
+      "form": ["had been + 【V-ing】"],
+      "uses": [
+        {
+          "vi": "Việc kéo dài liên tục đến một thời điểm trong quá khứ, thường nhấn mạnh thời lượng hoặc giải thích kết quả nhìn thấy lúc đó.",
+          "ex": [
+            ["We 【had been waiting】 for an hour when the bus finally came.", "Chúng tôi đã đợi cả tiếng thì xe buýt mới đến."],
+            ["His eyes were red because he 【had been crying】.", "Mắt cậu ấy đỏ vì đã khóc."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["She had been knowing him for years.", "She had known him for years.", "Động từ trạng thái không dùng dạng tiếp diễn."]
+      ],
+      "practice": [
+        ["I was exhausted because I ___ (work) all day.", "had been working"]
+      ]
+    }
+  ]
+}

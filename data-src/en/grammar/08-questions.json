@@ -1,0 +1,196 @@
+{
+  "id": "questions",
+  "name": "Câu hỏi và câu phủ định",
+  "intro": "Tiếng Anh đảo trợ động từ lên trước chủ ngữ để hỏi – khác tiếng Việt chỉ thêm “không?”, “à?” ở cuối câu.",
+  "points": [
+    {
+      "id": "yes-no-questions",
+      "title": "Yes/No questions & short answers",
+      "sub": "Câu hỏi có / không và câu trả lời ngắn",
+      "level": "A1",
+      "form": ["Trợ động từ (be / do / have / modal) + S + …?", "Trả lời ngắn: Yes, I 【do】. / No, she 【isn't】. / Yes, we 【can】."],
+      "uses": [
+        {
+          "vi": "Đảo be hoặc modal lên trước; nếu không có thì mượn do / does / did.",
+          "ex": [
+            ["【Are】 you hungry? — Yes, I 【am】.", "Bạn đói không? — Có."],
+            ["【Does】 he like football? — No, he 【doesn't】.", "Anh ấy có thích bóng đá không? — Không."],
+            ["【Can】 you drive? — Yes, I 【can】.", "Bạn lái xe được không? — Được."]
+          ]
+        }
+      ],
+      "notes": ["Câu trả lời chỉ Yes / No nghe cộc lốc; thêm trợ động từ cho tự nhiên hơn."],
+      "mistakes": [
+        ["You like coffee?", "Do you like coffee?", "Văn viết cần đảo trợ động từ (văn nói thân mật có thể dùng ngữ điệu)."]
+      ],
+      "practice": [
+        ["___ they live near here? — Yes, they do.", "Do"],
+        ["Is she your sister? — No, she ___.", "isn't/is not"]
+      ]
+    },
+    {
+      "id": "wh-questions",
+      "title": "Wh- questions",
+      "sub": "Câu hỏi với từ để hỏi: what, where, when, why, how…",
+      "level": "A1",
+      "form": ["Từ để hỏi + trợ động từ + S + V…?", "what · where · when · who · whose · which · why · how · how much / many / long / often / far / old"],
+      "uses": [
+        {
+          "vi": "Từ để hỏi đứng đầu câu, sau đó là thứ tự câu hỏi.",
+          "ex": [
+            ["【Where】 do you live?", "Bạn sống ở đâu?"],
+            ["【What time】 does the shop open?", "Mấy giờ cửa hàng mở cửa?"],
+            ["【How long】 have you been here?", "Bạn ở đây bao lâu rồi?"],
+            ["【Whose】 bag is this?", "Túi này của ai?"]
+          ]
+        },
+        {
+          "vi": "Giới từ thường đứng cuối câu hỏi khi nói.",
+          "ex": [
+            ["Who are you talking 【to】?", "Bạn đang nói chuyện với ai?"],
+            ["What are you looking 【for】?", "Bạn đang tìm gì vậy?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Where you live?", "Where do you live?", "Thiếu trợ động từ."],
+        ["What time the train leaves?", "What time does the train leave?", "Cần does và động từ nguyên mẫu."]
+      ],
+      "practice": [
+        ["___ often do you go to the gym?", "How"],
+        ["___ did you buy that jacket? — At the market.", "Where"],
+        ["Why ___ you late yesterday?", "were"]
+      ]
+    },
+    {
+      "id": "subject-questions",
+      "title": "Subject vs object questions",
+      "sub": "Câu hỏi về chủ ngữ (không dùng do / does / did)",
+      "level": "A2",
+      "form": ["Hỏi chủ ngữ: 【Who / What】 + V (chia theo thì)…?", "Hỏi tân ngữ: Who / What + 【do / did】 + S + V…?"],
+      "uses": [
+        {
+          "vi": "Khi who / what chính là chủ ngữ (người / vật làm hành động), giữ nguyên thứ tự câu khẳng định, không thêm do / did.",
+          "ex": [
+            ["【Who called】 you? — Lan called me.", "Ai gọi cho bạn thế? — Lan gọi."],
+            ["Who 【did you call】? — I called Lan.", "Bạn gọi cho ai? — Tôi gọi cho Lan."],
+            ["【What happened】?", "Chuyện gì đã xảy ra vậy?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["What did happen?", "What happened?", "What là chủ ngữ nên không dùng did."]
+      ],
+      "practice": [
+        ["Who ___ (break) the window? — Tom did.", "broke"],
+        ["Who ___ you meet at the party? — I met Hoa.", "did"]
+      ]
+    },
+    {
+      "id": "question-tags",
+      "title": "Question tags",
+      "sub": "Câu hỏi đuôi: …, isn't it? / …, don't you?",
+      "level": "B1",
+      "form": ["Câu khẳng định + 【trợ động từ phủ định + đại từ】? (It's cold, isn't it?)", "Câu phủ định + 【trợ động từ khẳng định + đại từ】? (You don't smoke, do you?)", "Đặc biệt: I am → 【aren't I】? · Let's → 【shall we】? · mệnh lệnh → 【will you】?"],
+      "uses": [
+        {
+          "vi": "Xuống giọng ở đuôi: muốn người nghe đồng ý (mình gần như chắc). Lên giọng: thật sự hỏi để kiểm tra.",
+          "ex": [
+            ["It's a beautiful day, 【isn't it】?", "Trời đẹp quá nhỉ?"],
+            ["You've met my brother, 【haven't you】?", "Bạn gặp anh tôi rồi, phải không?"],
+            ["She didn't come, 【did she】?", "Cô ấy không đến, đúng không?"],
+            ["Let's go, 【shall we】?", "Mình đi nhé?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["He likes tea, isn't it?", "He likes tea, doesn't he?", "Đuôi phải khớp trợ động từ và chủ ngữ, không dùng isn't it cho mọi câu."]
+      ],
+      "practice": [
+        ["You're Vietnamese, ___ you?", "aren't"],
+        ["They went home early, ___ they?", "didn't"],
+        ["She can swim, ___ she?", "can't"]
+      ]
+    },
+    {
+      "id": "indirect-questions",
+      "title": "Indirect questions",
+      "sub": "Câu hỏi gián tiếp (lịch sự): Do you know where…?",
+      "level": "B1",
+      "form": ["Could you tell me / Do you know / I wonder + 【từ để hỏi + S + V】 (thứ tự câu khẳng định)", "Câu hỏi có/không: … 【if / whether】 + S + V"],
+      "uses": [
+        {
+          "vi": "Hỏi lịch sự hơn, nhất là với người lạ. Phần sau không đảo ngữ và không dùng do / does / did.",
+          "ex": [
+            ["Could you tell me 【where the station is】?", "Bạn chỉ giúp tôi nhà ga ở đâu được không?"],
+            ["Do you know 【what time it starts】?", "Bạn có biết mấy giờ bắt đầu không?"],
+            ["I wonder 【if she's coming】.", "Không biết cô ấy có đến không."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Can you tell me where is the bank?", "Can you tell me where the bank is?", "Câu hỏi gián tiếp giữ thứ tự S + V."],
+        ["Do you know what time does it open?", "Do you know what time it opens?", "Bỏ does trong phần gián tiếp."]
+      ],
+      "practice": [
+        ["Do you know how much this ___? (cost)", "costs"],
+        ["Could you tell me ___ the museum is open today? (có / không)", "if/whether"]
+      ],
+      "see": ["reported-questions"]
+    },
+    {
+      "id": "negative-questions",
+      "title": "Negative questions",
+      "sub": "Câu hỏi phủ định: Don't you…? Isn't it…?",
+      "level": "B2",
+      "form": ["【Don't / Isn't / Haven't / Can't】 + S + …?"],
+      "uses": [
+        {
+          "vi": "Thể hiện ngạc nhiên, hoặc mong người nghe đồng ý.",
+          "ex": [
+            ["【Don't】 you like it? I thought you loved pizza!", "Bạn không thích à? Tớ tưởng bạn mê pizza!"],
+            ["【Isn't】 she beautiful?", "Cô ấy đẹp quá phải không?"],
+            ["【Haven't】 we met before?", "Hình như chúng ta đã gặp nhau rồi thì phải?"]
+          ]
+        }
+      ],
+      "notes": ["Trả lời theo sự thật, không theo câu hỏi: Don't you eat meat? — No, I don't (= tôi không ăn). Yes, I do (= tôi có ăn). Ngược với cách trả lời “Vâng / Không” của tiếng Việt."],
+      "mistakes": [
+        ["Don't you like coffee? — Yes. (ý: đúng, tôi không thích)", "No, I don't.", "Tiếng Anh trả lời theo sự thật: không thích → No."]
+      ],
+      "practice": [
+        ["Didn't you go to the party? — ___, I didn't. I was ill.", "No"]
+      ]
+    },
+    {
+      "id": "so-neither",
+      "title": "So do I / Neither do I",
+      "sub": "Tôi cũng vậy / Tôi cũng không",
+      "level": "A2",
+      "form": ["Đồng tình câu khẳng định: 【So】 + trợ động từ + S", "Đồng tình câu phủ định: 【Neither / Nor】 + trợ động từ + S", "Nói thân mật: Me too. / Me neither."],
+      "uses": [
+        {
+          "vi": "Trợ động từ phải khớp với câu của người kia (am / do / did / can / have…).",
+          "ex": [
+            ["I love K-pop. — 【So do I】.", "Tôi mê K-pop. — Tôi cũng vậy."],
+            ["I can't swim. — 【Neither can I】.", "Tôi không biết bơi. — Tôi cũng không."],
+            ["She went to Da Lat. — 【So did I】!", "Cô ấy đi Đà Lạt. — Tôi cũng đi!"]
+          ]
+        },
+        {
+          "vi": "Không đồng tình thì dùng câu ngắn bình thường.",
+          "ex": [
+            ["I'm tired. — Really? 【I'm not】.", "Tôi mệt quá. — Thật à? Tôi thì không."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I don't like it. — So do I.", "Neither do I.", "Câu phủ định dùng neither."]
+      ],
+      "practice": [
+        ["I've finished. — So ___ I.", "have"],
+        ["Tom wasn't there. — Neither ___ Mai.", "was"]
+      ]
+    }
+  ]
+}

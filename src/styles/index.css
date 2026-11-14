@@ -3,6 +3,7 @@
    tokens       – thời lượng, đường cong chuyển động dùng chung (biến CSS)
    base         – bố cục gốc: đầu trang, tab, đăng nhập, lưới chữ, chi tiết từ, ngữ pháp
    app          – thiết kế pastel: màu theo ngôn ngữ / cấp, khung trang, flashcard, thống kê, cài đặt, điện thoại
+   grammar      – sách ngữ pháp tiếng Anh / tiếng Hàn (dựa trên khung ngữ pháp HSK ở base + app)
    motion       – hiệu ứng động chung: nền, tab, thẻ xuất hiện, flashcard, chú vẹt đi dạo
    scene        – khung cảnh thanh đầu trang (trời, đất, cây, làn của chú vẹt)
    fx           – hiệu ứng gắn với việc học: pháo giấy, huy hiệu, nét chữ Hangul, karaoke, vẹt ôm thẻ…
@@ -11,6 +12,7 @@
 @import './tokens.css';
 @import './base.css';
 @import './app.css';
+@import './grammar.css';
 @import './motion.css';
 @import './scene.css';
 @import './fx.css';

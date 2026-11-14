@@ -1,6 +1,8 @@
 // Gom dữ liệu tiếng Trung từ data-src/zh thành public/data/zh/*.json (chạy: npm run data:zh).
-// - Danh sách từ theo cấp: data-src/levels_raw.json (lấy từ mock.tangce.cn)
-// - Nội dung đã soạn:      data-src/content/hsk{L}*.txt
+// - Danh sách từ theo cấp: data-src/zh/levels_raw.json (lấy từ mock.tangce.cn, tạo bằng scripts/zh/parse_outline.py)
+// - Nội dung đã soạn:      data-src/zh/content/hsk{L}*.txt
+// - Từ điển đối chiếu:     data-src/zh/vendor/cedict_ts.u8 (CC-CEDICT)
+// Báo cáo để rà tay ghi vào data-src/zh/reports/ (không đưa lên git).
 //   词|pinyin|hán việt|nghĩa VI|meaning EN|例句|câu dịch VI|sentence EN|tag[|pinyin câu ghi đè]
 // Pinyin của câu ví dụ được sinh tự động bằng pinyin-pro (theo ngữ cảnh cả câu),
 // có thể ghi đè bằng cột thứ 10 (các âm tiết cách nhau bởi dấu cách, mỗi chữ Hán một âm).
@@ -12,7 +14,9 @@ import { pinyin, customPinyin } from 'pinyin-pro';
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const src = join(root, 'data-src', 'zh');
 const out = join(root, 'public', 'data', 'zh');
+const reports = join(src, 'reports');
 mkdirSync(out, { recursive: true });
+mkdirSync(reports, { recursive: true });
 
 const HAN = /\p{Script=Han}/u;
 const levels = JSON.parse(readFileSync(join(src, 'levels_raw.json'), 'utf8'));
@@ -38,7 +42,7 @@ function readContent(level) {
 
 // Tập âm tiết pinyin hợp lệ (không dấu), lấy từ CC-CEDICT, để tách "péngyou" -> ["péng","you"].
 const SYLLABLES = new Set(['r']);
-for (const line of readFileSync(join(src, 'cedict_ts.u8'), 'utf8').split('\n')) {
+for (const line of readFileSync(join(src, 'vendor', 'cedict_ts.u8'), 'utf8').split('\n')) {
   const m = line.match(/\[(.*?)\]/);
   if (!m) continue;
   for (const s of m[1].toLowerCase().split(' ')) {
@@ -174,11 +178,11 @@ for (const L of Object.keys(levels).sort()) {
 }
 
 writeFileSync(join(out, 'index.json'), JSON.stringify({ levels: summary, tags }));
-writeFileSync(join(src, 'pinyin_report.txt'), report.join('\n') + '\n');
+writeFileSync(join(reports, 'pinyin_report.txt'), report.join('\n') + '\n');
 for (const s of summary) console.log(`HSK${s.level}: ${s.done}/${s.total} từ có dữ liệu`);
-console.log(`Pinyin cần rà (khác thanh điệu giữa từ và câu): ${report.length} -> data-src/pinyin_report.txt`);
+console.log(`Pinyin cần rà (khác thanh điệu giữa từ và câu): ${report.length} -> data-src/zh/reports/pinyin_report.txt`);
 
-// Ngữ pháp: data-src/grammar/hsk{L}/NN.json (mỗi file một bài) -> public/data/grammar{L}.json.
+// Ngữ pháp: data-src/zh/grammar/hsk{L}/NN.json (mỗi file một bài) -> public/data/zh/grammar{L}.json.
 // Điểm ngữ pháp: title, py (tuỳ chọn, ghi đè pinyin tiêu đề), uses, cmp; compare: true khi cả điểm là một
 // mục so sánh cặp từ (词语辨析 không gắn với từ nào ở phần 词语例释), khi đó uses là các ý Giống nhau/Khác nhau.
 // Bài có thể có colloc (词语搭配): [{ a: "动词", b: "宾语", rows: [{ zh: [vế trái, vế phải], vi, en }] }].
@@ -186,7 +190,7 @@ console.log(`Pinyin cần rà (khác thanh điệu giữa từ và câu): ${repo
 // của một chữ; trường py ghi đè pinyin cả câu (âm tiết cách nhau bởi dấu cách, các dòng cách nhau bởi \n).
 // Mỗi ký tự ra [chữ, pinyin] hoặc [chữ]; ký tự thuộc phần tô màu có thêm phần tử thứ ba là 1.
 
-// Sửa các chữ đa âm mà pinyin-pro hay đọc sai trong câu (đã rà trên data-src/grammar_pinyin.txt).
+// Sửa các chữ đa âm mà pinyin-pro hay đọc sai trong câu (đã rà trên data-src/zh/reports/grammar_pinyin.txt).
 const NUMERALS = '一二两三四五六七八九十几';
 function fixPolyphones(ruby) {
   const at = (i) => ruby[i]?.[0] ?? '';
@@ -208,7 +212,7 @@ function fixPolyphones(ruby) {
   return ruby;
 }
 
-const grammarPinyin = []; // mọi dòng pinyin ngữ pháp, ghi ra data-src/grammar_pinyin.txt để rà
+const grammarPinyin = []; // mọi dòng pinyin ngữ pháp, ghi ra data-src/zh/reports/grammar_pinyin.txt để rà
 
 // Một dòng chữ Hán -> ruby (xử lý 【】, 字{pinyin}, ghi đè pinyin cả dòng). Chuỗi gạch dưới _ hoặc ＿ là
 // ô trống của bài tập, được gộp thành một ký tự ＿.
@@ -397,4 +401,4 @@ for (const dir of readdirSync(grammarRoot, { withFileTypes: true })) {
   writeFileSync(join(out, `grammar${L}.json`), JSON.stringify({ level: Number(L), lessons }));
   console.log(`Ngữ pháp HSK${L}: ${lessons.length} bài, ${points} điểm ngữ pháp`);
 }
-writeFileSync(join(src, 'grammar_pinyin.txt'), grammarPinyin.join('\n') + '\n');
+writeFileSync(join(reports, 'grammar_pinyin.txt'), grammarPinyin.join('\n') + '\n');

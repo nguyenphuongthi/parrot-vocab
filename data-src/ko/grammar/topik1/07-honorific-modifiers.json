@@ -1,0 +1,136 @@
+{
+  "id": "k1-honorific",
+  "name": "Kính ngữ, định ngữ và kinh nghiệm",
+  "points": [
+    {
+      "id": "eusi",
+      "title": "V/A-(으)시-",
+      "sub": "Kính ngữ chủ thể (tôn trọng người làm hành động)",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ (bỏ ㄹ) + 【시】 · Có patchim + 【으시】", "Hiện tại: -(으)세요 · Quá khứ: -(으)셨어요 · Tương lai: -(으)실 거예요"],
+      "uses": [
+        {
+          "vi": "Khi chủ ngữ là người lớn tuổi, cấp trên, khách hàng… (không dùng cho bản thân).",
+          "ex": [
+            ["할아버지께서 신문을 읽【으세요】.", "Ông đang đọc báo."],
+            ["선생님이 어제 오【셨어요】.", "Hôm qua thầy giáo đã đến."],
+            ["사장님은 내일 출장 가【실 거예요】.", "Giám đốc ngày mai sẽ đi công tác."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["저는 학생이세요.", "저는 학생이에요.", "Không dùng kính ngữ cho chính mình."]
+      ],
+      "practice": [
+        ["아버지는 회사에 다니___요. (kính ngữ)", "세"]
+      ],
+      "see": ["honorific-words"]
+    },
+    {
+      "id": "honorific-words",
+      "title": "Từ kính ngữ đặc biệt",
+      "sub": "드시다, 주무시다, 계시다, 말씀, 진지, 께서…",
+      "level": 1,
+      "form": ["먹다 / 마시다 → 【드시다】 · 자다 → 【주무시다】 · 있다 → 【계시다】 · 말하다 → 【말씀하시다】 · 죽다 → 돌아가시다", "Danh từ: 집 → 【댁】 · 이름 → 【성함】 · 나이 → 【연세】 · 밥 → 【진지】 · 생일 → 【생신】", "Trợ từ: 이/가 → 【께서】 · 은/는 → 께서는 · 에게 → 【께】"],
+      "uses": [
+        {
+          "vi": "Một số động từ, danh từ có từ kính ngữ riêng thay vì chỉ thêm -(으)시-.",
+          "ex": [
+            ["할머니, 진지 【드셨어요】?", "Bà ơi, bà dùng cơm chưa ạ?"],
+            ["아버지는 지금 방에서 【주무세요】.", "Bố đang ngủ trong phòng."],
+            ["【성함】이 어떻게 되세요?", "Quý danh của anh/chị là gì ạ?"],
+            ["어머니【께서】 【말씀하셨어요】.", "Mẹ đã nói."]
+          ]
+        }
+      ],
+      "notes": ["Khiêm nhường ngữ cho bản thân: 주다 → 드리다 (biếu), 묻다 → 여쭈다, 보다 (gặp) → 뵙다, 저 / 저희 (tôi / chúng tôi)."],
+      "practice": [
+        ["할아버지는 지금 집에 ___. (있다 – kính ngữ)", "계세요"]
+      ]
+    },
+    {
+      "id": "adnominal-verb",
+      "title": "V-는 / -(으)ㄴ / -(으)ㄹ + N",
+      "sub": "Định ngữ của động từ (… mà)",
+      "level": 1,
+      "form": ["Hiện tại: gốc + 【는】 (가는 사람)", "Quá khứ: không patchim + 【ㄴ】 / có patchim + 【은】 (간 곳, 먹은 음식)", "Tương lai, dự định: không patchim + 【ㄹ】 / có patchim + 【을】 (할 일)", "있다 / 없다 → 【있는 / 없는】 (맛있는)"],
+      "uses": [
+        {
+          "vi": "Biến động từ thành bổ ngữ đứng TRƯỚC danh từ (ngược với “mà” của tiếng Việt đứng sau).",
+          "ex": [
+            ["저기 노래하【는】 사람이 제 친구예요.", "Người đang hát đằng kia là bạn tôi."],
+            ["어제 【본】 영화가 재미있었어요.", "Bộ phim (mà) hôm qua tôi xem rất hay."],
+            ["오늘 【할】 일이 많아요.", "Hôm nay có nhiều việc phải làm."],
+            ["【맛있는】 음식을 먹고 싶어요.", "Tôi muốn ăn món gì ngon."]
+          ]
+        }
+      ],
+      "practice": [
+        ["제가 좋아하___ 가수는 아이유예요.", "는"],
+        ["어제 ___ 책이 어디 있어요? (사다 – quá khứ)", "산"]
+      ],
+      "see": ["adnominal-adj"]
+    },
+    {
+      "id": "adnominal-adj",
+      "title": "A-(으)ㄴ + N",
+      "sub": "Định ngữ của tính từ",
+      "level": 1,
+      "form": ["Không patchim + 【ㄴ】 (예쁘다 → 예쁜 꽃)", "Có patchim + 【은】 (작다 → 작은 방)", "ㅂ bất quy tắc: 춥다 → 추운, 덥다 → 더운 · ㄹ: 길다 → 긴"],
+      "uses": [
+        {
+          "vi": "Tính từ đứng trước danh từ để mô tả.",
+          "ex": [
+            ["【예쁜】 옷을 샀어요.", "Tôi đã mua bộ quần áo đẹp."],
+            ["【작은】 가방이 있어요?", "Có túi nhỏ không?"],
+            ["【추운】 날씨를 싫어해요.", "Tôi ghét thời tiết lạnh."]
+          ]
+        }
+      ],
+      "practice": [
+        ["저는 ___ 음식을 좋아해요. (맵다)", "매운"],
+        ["___ 사람 (좋다)", "좋은"]
+      ]
+    },
+    {
+      "id": "a-boda",
+      "title": "V-아 / 어 보다",
+      "sub": "Thử làm …",
+      "level": 1,
+      "form": ["ㅏ, ㅗ + 【아 보다】 · khác + 【어 보다】 · 하다 → 【해 보다】", "-아/어 보세요 (hãy thử) · -아/어 봤어요 (đã từng thử)"],
+      "uses": [
+        {
+          "vi": "Thử làm một việc; ở quá khứ = đã từng (kinh nghiệm).",
+          "ex": [
+            ["이 옷 한번 입【어 보세요】.", "Hãy mặc thử bộ này đi."],
+            ["김치를 먹【어 봤어요】?", "Bạn ăn thử kim chi bao giờ chưa?"],
+            ["제주도에 가 【봤어요】.", "Tôi đã từng đến đảo Jeju."]
+          ]
+        }
+      ],
+      "practice": [
+        ["이 음식을 한번 먹___ 보세요.", "어"]
+      ],
+      "see": ["eun-jeogi-itda"]
+    },
+    {
+      "id": "eun-jeogi-itda",
+      "title": "V-(으)ㄴ 적이 있다 / 없다",
+      "sub": "Đã từng / chưa từng",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ + 【ㄴ 적이 있어요】 · Có patchim + 【은 적이 있어요】", "Thường kết hợp: -아/어 본 적이 있어요"],
+      "uses": [
+        {
+          "vi": "Kinh nghiệm trong quá khứ.",
+          "ex": [
+            ["한국에 【간 적이 있어요】.", "Tôi đã từng đến Hàn Quốc."],
+            ["비행기를 타 【본 적이 없어요】.", "Tôi chưa từng đi máy bay."]
+          ]
+        }
+      ],
+      "practice": [
+        ["그 영화를 ___ 적이 있어요? (보다)", "본"]
+      ]
+    }
+  ]
+}

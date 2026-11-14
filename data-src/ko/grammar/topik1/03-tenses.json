@@ -1,0 +1,131 @@
+{
+  "id": "k1-tenses",
+  "name": "Thì: quá khứ, tương lai, tiếp diễn",
+  "intro": "Tiếng Hàn chia thì bằng cách chèn thêm vào gốc động từ trước đuôi câu.",
+  "points": [
+    {
+      "id": "past-tense",
+      "title": "V/A-았어요 / 었어요",
+      "sub": "Thì quá khứ",
+      "level": 1,
+      "form": ["ㅏ, ㅗ + 【았어요】 (가다 → 갔어요, 오다 → 왔어요)", "Nguyên âm khác + 【었어요】 (먹다 → 먹었어요, 마시다 → 마셨어요)", "하다 → 【했어요】 · N이었어요 / 였어요"],
+      "uses": [
+        {
+          "vi": "Hành động, trạng thái đã xảy ra.",
+          "ex": [
+            ["어제 친구를 만【났어요】.", "Hôm qua tôi đã gặp bạn."],
+            ["점심을 먹【었어요】?", "Bạn ăn trưa chưa?"],
+            ["작년에 저는 학생【이었어요】.", "Năm ngoái tôi là học sinh."]
+          ]
+        }
+      ],
+      "notes": ["Trang trọng: -았/었습니다 (갔습니다, 먹었습니다)."],
+      "mistakes": [
+        ["어제 영화를 봐요.", "어제 영화를 봤어요.", "Có mốc quá khứ phải chia quá khứ."]
+      ],
+      "practice": [
+        ["지난주에 부산에 ___. (가다)", "갔어요"],
+        ["어제 숙제를 ___. (하다)", "했어요"],
+        ["아침에 우유를 ___. (마시다)", "마셨어요"]
+      ]
+    },
+    {
+      "id": "future-l-geoyeyo",
+      "title": "V-(으)ㄹ 거예요",
+      "sub": "Sẽ (dự định); chắc là (phỏng đoán)",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ + 【ㄹ 거예요】 (가다 → 갈 거예요, 만들다 → 만들 거예요)", "Có patchim + 【을 거예요】 (먹다 → 먹을 거예요)"],
+      "uses": [
+        {
+          "vi": "Dự định, kế hoạch tương lai (chủ ngữ ngôi thứ nhất, thứ hai).",
+          "ex": [
+            ["주말에 영화를 볼 【거예요】.", "Cuối tuần tôi sẽ xem phim."],
+            ["방학에 뭐 【할 거예요】?", "Kỳ nghỉ bạn sẽ làm gì?"]
+          ]
+        },
+        {
+          "vi": "Phỏng đoán về người / vật khác.",
+          "ex": [
+            ["내일은 비가 【올 거예요】.", "Ngày mai chắc trời sẽ mưa."]
+          ]
+        }
+      ],
+      "practice": [
+        ["내년에 한국에 ___ 거예요. (가다)", "갈"],
+        ["저녁에 비빔밥을 ___ 거예요. (먹다)", "먹을"]
+      ],
+      "see": ["l-geyo", "gesseoyo"]
+    },
+    {
+      "id": "go-itda",
+      "title": "V-고 있다",
+      "sub": "Đang (tiếp diễn)",
+      "level": 1,
+      "form": ["Gốc động từ + 【고 있어요】", "Kính ngữ: -고 계세요"],
+      "uses": [
+        {
+          "vi": "Hành động đang diễn ra lúc nói, hoặc đang trong một khoảng thời gian.",
+          "ex": [
+            ["지금 밥을 먹【고 있어요】.", "Bây giờ tôi đang ăn cơm."],
+            ["요즘 한국어를 배우【고 있어요】.", "Dạo này tôi đang học tiếng Hàn."],
+            ["할머니는 주무시【고 계세요】.", "Bà đang ngủ."]
+          ]
+        }
+      ],
+      "notes": ["Với hiện tại đơn giản -아요/어요 cũng có thể mang nghĩa “đang” trong ngữ cảnh rõ ràng: 뭐 해요? (Đang làm gì đấy?)."],
+      "practice": [
+        ["동생은 지금 텔레비전을 보___ 있어요.", "고"]
+      ]
+    },
+    {
+      "id": "l-geyo",
+      "title": "V-(으)ㄹ게요",
+      "sub": "Tôi sẽ … (hứa, quyết định có tính đến người nghe)",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ + 【ㄹ게요】 · Có patchim + 【을게요】", "Chỉ dùng với chủ ngữ ngôi thứ nhất"],
+      "uses": [
+        {
+          "vi": "Hứa hẹn, báo cho người nghe biết ý định của mình (thường đáp lại lời người kia).",
+          "ex": [
+            ["제가 【할게요】.", "Để tôi làm."],
+            ["내일 다시 전화【할게요】.", "Mai tôi sẽ gọi lại."],
+            ["먼저 【갈게요】. 안녕히 계세요.", "Tôi về trước nhé. Chào anh ở lại."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["내일 비가 올게요.", "내일 비가 올 거예요.", "-ㄹ게요 chỉ dùng cho ý định của người nói."]
+      ],
+      "practice": [
+        ["걱정하지 마세요. 제가 ___. (돕다 → 도울게요)", "도울게요"],
+        ["이따가 연락___. (하다)", "할게요"]
+      ]
+    },
+    {
+      "id": "gesseoyo",
+      "title": "V/A-겠어요",
+      "sub": "Chắc là / sẽ (phỏng đoán, ý định – trang trọng)",
+      "level": 1,
+      "form": ["Gốc + 【겠어요】 / 【겠습니다】"],
+      "uses": [
+        {
+          "vi": "Phỏng đoán dựa trên điều đang thấy, nghe.",
+          "ex": [
+            ["맛있【겠어요】!", "Trông ngon quá!"],
+            ["많이 피곤하【겠어요】.", "Chắc bạn mệt lắm."]
+          ]
+        },
+        {
+          "vi": "Ý định của người nói (trang trọng) và các câu cố định.",
+          "ex": [
+            ["열심히 하【겠습니다】.", "Tôi sẽ cố gắng hết sức."],
+            ["잘 먹【겠습니다】. · 알【겠습니다】. · 모르【겠어요】.", "Tôi xin phép ăn. · Tôi hiểu rồi ạ. · Tôi không biết nữa."]
+          ]
+        }
+      ],
+      "practice": [
+        ["와, 정말 재미있___어요! (chắc là)", "겠"]
+      ]
+    }
+  ]
+}

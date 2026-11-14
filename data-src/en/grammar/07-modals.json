@@ -1,0 +1,326 @@
+{
+  "id": "modals",
+  "name": "Động từ khuyết thiếu",
+  "intro": "can, could, may, might, must, should, would… đứng trước động từ nguyên mẫu (không to), không thêm -s, không cần do / does.",
+  "points": [
+    {
+      "id": "can-ability",
+      "title": "Can / could / be able to (ability)",
+      "sub": "Có thể, biết (khả năng)",
+      "level": "A1",
+      "form": ["Hiện tại: 【can / can't】 + V", "Quá khứ: 【could / couldn't】 + V", "Các thì khác: 【be able to】 (will be able to, have been able to)"],
+      "uses": [
+        {
+          "vi": "Khả năng, kỹ năng.",
+          "ex": [
+            ["She 【can】 speak three languages.", "Cô ấy nói được ba thứ tiếng."],
+            ["I 【couldn't】 swim when I was five.", "Hồi năm tuổi tôi chưa biết bơi."],
+            ["Will you 【be able to】 come tomorrow?", "Mai bạn đến được không?"]
+          ]
+        },
+        {
+          "vi": "Làm được một việc cụ thể trong quá khứ (một lần, vượt khó): dùng was able to / managed to, không dùng could ở câu khẳng định.",
+          "ex": [
+            ["The fire was big, but everyone 【was able to】 escape.", "Đám cháy lớn nhưng mọi người đều thoát ra được."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["She can to drive.", "She can drive.", "Sau can không có to."],
+        ["He cans swim.", "He can swim.", "Modal không thêm -s."],
+        ["I will can help you.", "I will be able to help you.", "Không đặt hai modal cạnh nhau."]
+      ],
+      "practice": [
+        ["___ you play the guitar?", "Can"],
+        ["I'm sorry, I ___ come to your party last night. (phủ định quá khứ)", "couldn't/could not"],
+        ["After the operation, she'll ___ able to walk again.", "be"]
+      ]
+    },
+    {
+      "id": "permission-requests",
+      "title": "Can / could / may (permission & requests)",
+      "sub": "Xin phép và nhờ vả",
+      "level": "A2",
+      "form": ["Xin phép: 【Can / Could / May】 I + V…?", "Nhờ: 【Can / Could / Would】 you + V…?", "Cho phép: You can / may… · Không cho: You can't / may not…"],
+      "uses": [
+        {
+          "vi": "Mức lịch sự tăng dần: can → could → may (may trang trọng, chỉ dùng với I / we).",
+          "ex": [
+            ["【Can】 I use your phone?", "Cho tôi dùng điện thoại của bạn được không?"],
+            ["【Could】 you speak more slowly, please?", "Bạn nói chậm hơn được không ạ?"],
+            ["【May】 I come in?", "Tôi vào được không ạ?"]
+          ]
+        }
+      ],
+      "notes": ["Could trong câu hỏi xin phép không mang nghĩa quá khứ, chỉ lịch sự hơn. Trả lời: Yes, of course / Sure (không nói *Yes, you could)."],
+      "practice": [
+        ["___ you pass me the salt, please?", "Could/Can/Would"],
+        ["___ I ask you a question? (trang trọng nhất)", "May"]
+      ],
+      "see": ["polite-requests"]
+    },
+    {
+      "id": "must-have-to",
+      "title": "Must / have to",
+      "sub": "Phải (bắt buộc)",
+      "level": "A2",
+      "form": ["【must】 + V (người nói thấy cần thiết, quy định viết)", "【have to / has to】 + V (quy định bên ngoài, hoàn cảnh bắt buộc)", "Quá khứ / tương lai: had to · will have to"],
+      "uses": [
+        {
+          "vi": "Must thường thể hiện ý kiến hoặc mệnh lệnh của người nói; have to nói về quy định, tình huống khách quan.",
+          "ex": [
+            ["I 【must】 call my mum – it's her birthday.", "Tôi phải gọi cho mẹ – hôm nay sinh nhật mẹ."],
+            ["We 【have to】 wear a uniform at work.", "Chúng tôi phải mặc đồng phục khi làm việc."],
+            ["I 【had to】 wait two hours for the bus.", "Tôi đã phải đợi xe buýt hai tiếng."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I must went to the bank yesterday.", "I had to go to the bank yesterday.", "Must không có dạng quá khứ; dùng had to."]
+      ],
+      "practice": [
+        ["She ___ to get up early every day for work.", "has"],
+        ["Did you ___ to pay for the tickets?", "have"]
+      ],
+      "see": ["mustnt-dont-have-to"]
+    },
+    {
+      "id": "mustnt-dont-have-to",
+      "title": "Mustn't vs don't have to",
+      "sub": "Cấm không được vs không cần thiết",
+      "level": "A2",
+      "form": ["【mustn't】 + V = không được phép (cấm)", "【don't / doesn't have to】 + V = không bắt buộc, không cần"],
+      "uses": [
+        {
+          "vi": "Hai dạng phủ định này có nghĩa hoàn toàn khác nhau.",
+          "ex": [
+            ["You 【mustn't】 smoke in here.", "Bạn không được hút thuốc ở đây."],
+            ["You 【don't have to】 come if you're busy.", "Nếu bận thì bạn không cần đến đâu."],
+            ["It's Sunday – I 【don't have to】 work.", "Chủ nhật – tôi không phải đi làm."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["You mustn't pay – it's free.", "You don't have to pay – it's free.", "Miễn phí = không cần trả, không phải bị cấm trả."]
+      ],
+      "practice": [
+        ["You ___ tell anyone. It's a secret! (cấm)", "mustn't/must not"],
+        ["We ___ have to hurry. We've got plenty of time.", "don't"]
+      ],
+      "see": ["need-neednt"]
+    },
+    {
+      "id": "should",
+      "title": "Should / ought to / had better",
+      "sub": "Nên – lời khuyên",
+      "level": "A2",
+      "form": ["【should / shouldn't】 + V", "【ought to】 + V (giống should, trang trọng hơn)", "【had better】 ('d better) + V – nên làm ngay, không thì có hậu quả"],
+      "uses": [
+        {
+          "vi": "Đưa ra lời khuyên, ý kiến về điều đúng nên làm.",
+          "ex": [
+            ["You 【should】 see a doctor.", "Bạn nên đi khám bác sĩ."],
+            ["We 【shouldn't】 waste food.", "Chúng ta không nên lãng phí đồ ăn."],
+            ["What 【should】 I wear?", "Tôi nên mặc gì?"]
+          ]
+        },
+        {
+          "vi": "Had better mạnh hơn should, ngụ ý cảnh báo.",
+          "ex": [
+            ["You【'd better】 leave now or you'll miss the train.", "Bạn nên đi ngay, không thì lỡ tàu đấy."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["You should to sleep more.", "You should sleep more.", "Should không có to."],
+        ["You had better to go.", "You had better go.", "Had better + V nguyên mẫu."]
+      ],
+      "practice": [
+        ["You look tired. You ___ go to bed early.", "should"],
+        ["It's going to rain. We'd ___ take an umbrella.", "better"]
+      ],
+      "see": ["should-have"]
+    },
+    {
+      "id": "might-may",
+      "title": "May / might / could (possibility)",
+      "sub": "Có lẽ, có thể (khả năng xảy ra)",
+      "level": "A2",
+      "form": ["S + 【may / might / could】 + V (khoảng 50% hoặc ít hơn)", "Phủ định: may not / might not (không dùng couldn't với nghĩa này)"],
+      "uses": [
+        {
+          "vi": "Nói về điều có thể xảy ra ở hiện tại hoặc tương lai nhưng không chắc.",
+          "ex": [
+            ["Take an umbrella. It 【might】 rain.", "Mang ô theo đi. Trời có thể mưa đấy."],
+            ["She 【may】 be at the library.", "Có lẽ cô ấy đang ở thư viện."],
+            ["I 【might not】 go to the party.", "Có thể tôi sẽ không đi dự tiệc."]
+          ]
+        }
+      ],
+      "notes": ["Câu hỏi về khả năng thường dùng Do you think…? hoặc Is it likely…? thay vì Might…?"],
+      "practice": [
+        ["I'm not sure, but I ___ visit my parents this weekend.", "might/may/could"]
+      ],
+      "see": ["deduction-present"]
+    },
+    {
+      "id": "deduction-present",
+      "title": "Must / can't / might (deduction – present)",
+      "sub": "Suy luận về hiện tại: chắc hẳn, chắc chắn không, có lẽ",
+      "level": "B1",
+      "form": ["Chắc chắn đúng: 【must】 + V / be", "Chắc chắn không: 【can't】 + V / be", "Có thể: 【might / may / could】 + V / be"],
+      "uses": [
+        {
+          "vi": "Đưa ra kết luận dựa trên bằng chứng.",
+          "ex": [
+            ["You've been working all day. You 【must】 be tired.", "Bạn làm cả ngày rồi. Chắc hẳn bạn mệt lắm."],
+            ["That 【can't】 be Lan – she's in Paris.", "Đó không thể là Lan được – cô ấy đang ở Paris."],
+            ["He's not answering. He 【might】 be in a meeting.", "Anh ấy không nghe máy. Có lẽ đang họp."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["She mustn't be at home – the lights are off.", "She can't be at home – the lights are off.", "Phủ định của suy luận chắc chắn là can't, không phải mustn't."]
+      ],
+      "practice": [
+        ["The restaurant is always full. The food ___ be good.", "must"],
+        ["It ___ be true! I don't believe it.", "can't/cannot"]
+      ],
+      "see": ["deduction-past"]
+    },
+    {
+      "id": "deduction-past",
+      "title": "Must have / can't have / might have + V3",
+      "sub": "Suy luận về quá khứ",
+      "level": "B2",
+      "form": ["【must have】 + V3 (chắc hẳn đã)", "【can't / couldn't have】 + V3 (chắc chắn đã không)", "【might / may / could have】 + V3 (có lẽ đã)"],
+      "uses": [
+        {
+          "vi": "Đoán về điều đã xảy ra dựa trên bằng chứng hiện có.",
+          "ex": [
+            ["The ground is wet. It 【must have rained】 last night.", "Đất ướt. Chắc tối qua trời mưa."],
+            ["She 【can't have forgotten】 – I reminded her twice.", "Không thể nào cô ấy quên được – tôi nhắc hai lần rồi."],
+            ["I can't find my keys. I 【might have left】 them at work.", "Tôi không tìm thấy chìa khoá. Có lẽ tôi để quên ở cơ quan."]
+          ]
+        }
+      ],
+      "notes": ["Khi nói, have đọc nhẹ thành /əv/: must've, might've, could've."],
+      "mistakes": [
+        ["He must went home.", "He must have gone home.", "Suy luận quá khứ dùng modal + have + V3."]
+      ],
+      "practice": [
+        ["Nam isn't here yet. He ___ have missed the bus. (có lẽ)", "might/may/could"],
+        ["You ___ have seen me yesterday – I was in Hue. (chắc chắn không)", "can't/couldn't"],
+        ["She looks so happy. She must have ___ (pass) the exam.", "passed"]
+      ]
+    },
+    {
+      "id": "should-have",
+      "title": "Should have / could have + V3",
+      "sub": "Lẽ ra nên / lẽ ra có thể (tiếc nuối, trách móc)",
+      "level": "B2",
+      "form": ["【should have / shouldn't have】 + V3 (lẽ ra nên / không nên – nhưng đã làm ngược lại)", "【could have】 + V3 (lẽ ra đã có thể – nhưng đã không)"],
+      "uses": [
+        {
+          "vi": "Tiếc nuối hoặc phê bình việc đã làm / không làm trong quá khứ.",
+          "ex": [
+            ["I 【should have studied】 harder.", "Lẽ ra tôi nên học chăm hơn."],
+            ["You 【shouldn't have said】 that to her.", "Lẽ ra bạn không nên nói thế với cô ấy."],
+            ["We 【could have won】 if we had tried.", "Nếu cố gắng thì chúng ta đã có thể thắng."]
+          ]
+        },
+        {
+          "vi": "Could have còn nói về nguy hiểm đã suýt xảy ra.",
+          "ex": [
+            ["That was dangerous – you 【could have been】 killed!", "Nguy hiểm thật – bạn suýt mất mạng đấy!"]
+          ]
+        }
+      ],
+      "practice": [
+        ["I'm so full. I ___ have eaten so much. (lẽ ra không nên)", "shouldn't/should not"],
+        ["You should have ___ (tell) me earlier!", "told"]
+      ]
+    },
+    {
+      "id": "need-neednt",
+      "title": "Need / needn't / didn't need to / needn't have",
+      "sub": "Cần, không cần – và không cần mà vẫn làm",
+      "level": "B2",
+      "form": ["【need to】 + V (động từ thường) · 【needn't】 + V (modal, Anh–Anh)", "【didn't need to】 + V: đã không cần (và thường không làm)", "【needn't have】 + V3: đã làm nhưng hoá ra không cần"],
+      "uses": [
+        {
+          "vi": "Needn't = don't have to (không cần).",
+          "ex": [
+            ["You 【needn't】 bring anything – we have everything.", "Bạn không cần mang gì đâu – chúng tôi có đủ cả."]
+          ]
+        },
+        {
+          "vi": "Phân biệt hai dạng quá khứ.",
+          "ex": [
+            ["I 【didn't need to】 take a taxi – Mai drove me.", "Tôi không cần đi taxi – Mai chở tôi."],
+            ["I 【needn't have】 cooked so much – nobody was hungry.", "Lẽ ra tôi không cần nấu nhiều thế – chẳng ai đói cả."]
+          ]
+        }
+      ],
+      "practice": [
+        ["We ___ have hurried – the train was late anyway. (đã vội nhưng không cần)", "needn't"]
+      ]
+    },
+    {
+      "id": "would-rather",
+      "title": "Would rather / would prefer",
+      "sub": "Thích … hơn",
+      "level": "B1",
+      "form": ["【would rather】 + V (+ than + V)", "【would prefer】 + to V (+ rather than + V)", "would rather + S + 【quá khứ】: muốn người khác làm gì"],
+      "uses": [
+        {
+          "vi": "Nói lựa chọn mình thích hơn trong một tình huống cụ thể.",
+          "ex": [
+            ["I【'd rather】 stay home tonight.", "Tối nay tôi thích ở nhà hơn."],
+            ["I【'd rather】 walk 【than】 take the bus.", "Tôi thà đi bộ còn hơn đi xe buýt."],
+            ["She【'd prefer】 to work from home.", "Cô ấy muốn làm việc ở nhà hơn."]
+          ]
+        },
+        {
+          "vi": "Muốn người khác làm hoặc không làm gì (lịch sự): would rather + S + quá khứ đơn.",
+          "ex": [
+            ["I【'd rather】 you 【didn't】 smoke here.", "Tôi mong bạn đừng hút thuốc ở đây."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I'd rather to stay.", "I'd rather stay.", "Would rather + V nguyên mẫu không to."]
+      ],
+      "practice": [
+        ["I'd rather ___ (have) tea than coffee.", "have"],
+        ["Would you prefer ___ eat now or later?", "to"]
+      ]
+    },
+    {
+      "id": "will-assumption",
+      "title": "Will / would for assumptions and typical behaviour",
+      "sub": "Will đoán chắc về hiện tại; will / would cho tính cách, thói quen",
+      "level": "C1",
+      "form": ["That 【will】 be… (= chắc là)", "S + 【will / would】 + V: thói quen điển hình (nhấn giọng will / would khi phàn nàn)"],
+      "uses": [
+        {
+          "vi": "Will dùng để đoán gần như chắc chắn về hiện tại, dựa trên hiểu biết thông thường.",
+          "ex": [
+            ["There's someone at the door. — That【'll】 be the delivery man.", "Có ai gõ cửa kìa. — Chắc là anh giao hàng."],
+            ["Don't call now – she【'll】 be asleep.", "Đừng gọi lúc này – chắc cô ấy ngủ rồi."]
+          ]
+        },
+        {
+          "vi": "Hành vi đặc trưng, tính cách; nhấn giọng would để chê trách.",
+          "ex": [
+            ["He 【will】 sit for hours without saying a word.", "Anh ấy có thể ngồi hàng giờ không nói một lời."],
+            ["She forgot again? Well, she 【would】!", "Cô ấy lại quên à? Đúng là cô ấy!"]
+          ]
+        }
+      ],
+      "practice": [
+        ["The phone's ringing. That ___ be my mum – she always calls at 8.", "will/'ll"]
+      ]
+    }
+  ]
+}

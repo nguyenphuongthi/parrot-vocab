@@ -1,4 +1,4 @@
-// Dùng chung cho content script, background (importScripts), trang Kho từ và bản web.
+// Dùng chung cho content script, background (importScripts) và trang Kho từ.
 // Dữ liệu trong chrome.storage.local:
 //   settings   – cấu hình người dùng
 //   w:<key>    – mỗi từ một key (key = từ viết thường), để lưu một từ không phải ghi lại cả kho
@@ -7,7 +7,7 @@
 //   dirty      – { [key]: updatedAt } thay đổi (kể cả xoá) chưa đẩy lên Supabase
 //   words      – (định dạng cũ: cả kho trong một key) – được tách ra ở lần ghi đầu tiên
 //
-// Chỉ một nơi được GHI kho từ: background của extension, hoặc chính trang web (platform.js).
+// Chỉ một nơi được GHI kho từ: background của extension (SYNC_HOST).
 // Popup và trang Kho từ gửi thao tác qua callBackground({ type: 'wordOp' }), nơi ghi chạy tuần tự.
 
 const DEFAULT_SETTINGS = {

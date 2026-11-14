@@ -1,4 +1,4 @@
-// Kho từ tiếng Anh: các từ đã lưu bằng extension Vocab English Lens (đồng bộ qua Supabase).
+// Kho từ tiếng Anh: các từ đã lưu bằng extension Vocab English Lens hoặc tra ngay tại đây (đồng bộ qua Supabase).
 import { useMemo, useState } from 'react';
 import { removeEntry, setMark, useTable } from '../../lib/store.js';
 import { countMarks, dueLabel, markOf } from '../../lib/srs.js';
@@ -9,6 +9,8 @@ import EmptyParrot from '../../components/mascot/EmptyParrot.jsx';
 import { usePresence } from '../../lib/motion.js';
 import { CEFR_LEVELS, POS_INFO, POS_ORDER, categoriesOf, categoryName, cefrOf, useCefr, wordClasses } from './cefr.js';
 import { AccentButtons, CefrBadge, Contexts, Details, Meanings, playEnglish } from './parts.jsx';
+import WordLookup from './WordLookup.jsx';
+import { isLookupText } from '../../lib/dictionary.js';
 
 // Màu (tông pastel) của một loại từ – dùng chung cho thẻ từ và nút lọc loại từ
 function toneOfCategory(cat) {
@@ -71,7 +73,7 @@ function WordItem({ w, cefr, open, onToggle, index }) {
   );
 }
 
-export default function EnglishWords() {
+export default function EnglishWords({ onUnauthorized }) {
   const words = useTable('words');
   const settings = useSettings();
   const cefrIndex = useCefr();
@@ -82,6 +84,7 @@ export default function EnglishWords() {
   const [markFilter, setMarkFilter] = useState(null);
   const [open, setOpen] = useState(() => new Set());
   const [limit, setLimit] = useState(60);
+  const [lookup, setLookup] = useState(null); // từ đang tra trong từ điển (null = không tra)
 
   const list = useMemo(() => Object.values(words), [words]);
   const levelOf = (w) => cefrOf(cefrIndex, w);
@@ -102,6 +105,7 @@ export default function EnglishWords() {
   }
 
   const q = query.trim().toLowerCase();
+  const canLookup = isLookupText(query);
   const shown = inTab
     .filter(
       (w) =>
@@ -125,25 +129,30 @@ export default function EnglishWords() {
     setOpen(next);
   };
 
-  if (!list.length) {
-    return (
-      <div className="empty-state">
-        <EmptyParrot kind="book" />
-        <p className="empty-title">Kho từ tiếng Anh đang trống</p>
-        <p className="muted">
-          Từ được lưu bằng extension <b>Vocab English Lens</b> khi bạn đọc web (bôi đen một từ → ☆ Lưu). Extension và app
-          này dùng chung tài khoản Supabase nên từ sẽ tự xuất hiện ở đây sau khi đồng bộ.
-        </p>
-      </div>
-    );
-  }
-
   return (
     <>
-      <div className="toolbar">
+      <form
+        className="toolbar"
+        role="search"
+        onSubmit={(e) => {
+          e.preventDefault();
+          if (canLookup) setLookup(query.trim());
+        }}
+      >
         <label className="search">
           <SearchIcon />
-          <input type="search" placeholder="Tìm từ hoặc nghĩa…" value={query} onChange={(e) => setQuery(e.target.value)} />
+          <input
+            type="search"
+            placeholder="Tìm trong kho hoặc tra từ mới (Enter)…"
+            aria-label="Tìm trong kho hoặc tra từ mới"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+          />
+          {canLookup && (
+            <button type="submit" className="btn small lookup-btn" title="Tra nghĩa trong từ điển và lưu vào kho">
+              Tra từ điển
+            </button>
+          )}
         </label>
         <select value={level} onChange={(e) => setLevel(e.target.value)} aria-label="Lọc theo cấp độ CEFR">
           <option value="all">Mọi cấp độ ({inTab.length})</option>
@@ -158,35 +167,69 @@ export default function EnglishWords() {
           <option value="new">Mới lưu trước</option>
           <option value="az">A → Z</option>
         </select>
-      </div>
+      </form>
 
-      <div className="pills" role="tablist" aria-label="Từ loại">
-        {[['all', 'Tất cả', list.length], ...order.map((c) => [c, categoryName(c), posCounts.get(c)])].map(([c, label, n]) => (
-          <button
-            key={c}
-            type="button"
-            className={`pill ${c === 'all' ? '' : `pill-tone tone-${toneOfCategory(c)}`} ${activePos === c ? 'is-on' : ''}`}
-            aria-pressed={activePos === c}
-            onClick={() => setPos(c)}
-          >
-            {POS_INFO[c] && <b>{POS_INFO[c].abbr}</b>} {label}
-            <span className="pill-count">{n}</span>
-          </button>
-        ))}
-      </div>
+      {lookup && (
+        <WordLookup
+          key={lookup}
+          text={lookup}
+          cefrIndex={cefrIndex}
+          onLookup={(w) => {
+            setQuery(w);
+            setLookup(w);
+          }}
+          onClose={() => setLookup(null)}
+          onUnauthorized={onUnauthorized}
+        />
+      )}
 
-      <div className="filter-row">
-        <MarkFilter counts={countMarks(inTab)} active={markFilter} onPick={(v) => setMarkFilter((f) => (f === v ? null : v))} />
-        {markFilter !== null && (
-          <button type="button" className="link-btn" onClick={() => setMarkFilter(null)}>
-            Bỏ lọc
-          </button>
-        )}
-      </div>
+      {!list.length && !lookup && (
+        <div className="empty-state">
+          <EmptyParrot kind="book" />
+          <p className="empty-title">Kho từ tiếng Anh đang trống</p>
+          <p className="muted">
+            Gõ một từ vào ô phía trên rồi nhấn Enter để tra và lưu. Từ lưu bằng extension <b>Vocab English Lens</b> khi đọc web
+            (bôi đen một từ → ☆ Lưu) cũng tự xuất hiện ở đây sau khi đồng bộ.
+          </p>
+        </div>
+      )}
 
-      {shown.length === 0 && (
+      {list.length > 0 && (
+        <>
+          <div className="pills" role="tablist" aria-label="Từ loại">
+            {[['all', 'Tất cả', list.length], ...order.map((c) => [c, categoryName(c), posCounts.get(c)])].map(([c, label, n]) => (
+              <button
+                key={c}
+                type="button"
+                className={`pill ${c === 'all' ? '' : `pill-tone tone-${toneOfCategory(c)}`} ${activePos === c ? 'is-on' : ''}`}
+                aria-pressed={activePos === c}
+                onClick={() => setPos(c)}
+              >
+                {POS_INFO[c] && <b>{POS_INFO[c].abbr}</b>} {label}
+                <span className="pill-count">{n}</span>
+              </button>
+            ))}
+          </div>
+
+          <div className="filter-row">
+            <MarkFilter counts={countMarks(inTab)} active={markFilter} onPick={(v) => setMarkFilter((f) => (f === v ? null : v))} />
+            {markFilter !== null && (
+              <button type="button" className="link-btn" onClick={() => setMarkFilter(null)}>
+                Bỏ lọc
+              </button>
+            )}
+          </div>
+        </>
+      )}
+
+      {list.length > 0 && shown.length === 0 && (
         <EmptyParrot kind="search">
           <p className="muted">Không có từ nào khớp bộ lọc.</p>
+          {canLookup && !lookup && (
+            <button type="button" className="btn primary" onClick={() => setLookup(query.trim())}>
+              Tra “{query.trim()}” trong từ điển
+            </button>
+          )}
         </EmptyParrot>
       )}
       <div className="en-list">

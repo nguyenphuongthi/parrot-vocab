@@ -1,4 +1,4 @@
-// Mở Chrome headless (dùng Chrome có sẵn trên máy / runner CI) và server tĩnh giống Vercel.
+// Mở Chrome headless (dùng Chrome có sẵn trên máy / runner CI) và server tĩnh cho trang Kho từ của extension.
 const fs = require('fs');
 const http = require('http');
 const path = require('path');
@@ -31,33 +31,25 @@ const TYPES = {
   '.css': 'text/css; charset=utf-8',
   '.png': 'image/png',
   '.svg': 'image/svg+xml',
-  '.json': 'application/json',
-  '.webmanifest': 'application/manifest+json'
+  '.json': 'application/json'
 };
 
 const contentType = (file) => TYPES[path.extname(file)] || 'application/octet-stream';
 
-// Áp dụng rewrites + headers trong extension/vercel.json như Vercel
-function vercelRules() {
-  const config = JSON.parse(fs.readFileSync(path.join(EXT_DIR, 'vercel.json'), 'utf8'));
-  const toRe = (source) => new RegExp('^' + source.replace(/[.]/g, '\\.').replace('(.*)', '(.*)') + '$');
-  return {
-    rewrite: (p) => config.rewrites.find((r) => toRe(r.source).test(p))?.destination || p,
-    headers: (p) =>
-      Object.assign({}, ...config.headers.filter((h) => toRe(h.source).test(p)).flatMap((h) => h.headers.map((x) => ({ [x.key]: x.value }))))
-  };
-}
+// CSP mặc định của trang extension Manifest V3 (bắt script nội tuyến / nguồn ngoài như khi chạy thật),
+// thêm style-src 'self' để giữ quy ước của trang Kho từ: không dùng style nội tuyến.
+const EXTENSION_CSP = "script-src 'self'; object-src 'self'; style-src 'self'";
 
+// Server tĩnh phục vụ thư mục extension/ (trang Kho từ chạy như trang web thường, kèm pageShim()).
 function startStaticServer() {
-  const rules = vercelRules();
   const server = http.createServer((req, res) => {
     const urlPath = decodeURIComponent(new URL(req.url, 'http://x').pathname);
-    const file = path.join(EXT_DIR, rules.rewrite(urlPath));
+    const file = path.join(EXT_DIR, urlPath === '/' ? 'review.html' : urlPath);
     if (!file.startsWith(EXT_DIR) || !fs.existsSync(file) || fs.statSync(file).isDirectory()) {
       res.writeHead(404);
       return res.end();
     }
-    res.writeHead(200, { 'content-type': contentType(file), ...rules.headers(urlPath) });
+    res.writeHead(200, { 'content-type': contentType(file), 'content-security-policy': EXTENSION_CSP });
     fs.createReadStream(file).pipe(res);
   });
   return new Promise((resolve) =>
@@ -65,6 +57,9 @@ function startStaticServer() {
   );
 }
 
+// Mã giả lập chrome.* cho trang Kho từ – nạp bằng page.evaluateOnNewDocument(pageShim())
+const pageShim = () => fs.readFileSync(path.join(__dirname, 'page-shim.js'), 'utf8');
+
 const readExtensionFile = (name) => fs.readFileSync(path.join(EXT_DIR, name));
 
-module.exports = { chromePath, launch, startStaticServer, readExtensionFile, contentType };
+module.exports = { chromePath, launch, startStaticServer, pageShim, readExtensionFile, contentType };

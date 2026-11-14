@@ -1,0 +1,207 @@
+{
+  "id": "k1-connectors",
+  "name": "Nối câu cơ bản",
+  "intro": "Vĩ tố liên kết gắn vào gốc động từ / tính từ ở vế trước để nối hai mệnh đề: và, nhưng, vì, nếu, trước khi…",
+  "points": [
+    {
+      "id": "go-and",
+      "title": "V/A-고",
+      "sub": "Và; rồi (liệt kê, trình tự)",
+      "level": 1,
+      "form": ["Gốc + 【고】 (không đổi theo patchim)"],
+      "uses": [
+        {
+          "vi": "Liệt kê hai hành động / tính chất, hoặc làm việc này rồi đến việc kia.",
+          "ex": [
+            ["이 식당은 싸【고】 맛있어요.", "Quán này rẻ và ngon."],
+            ["저는 밥을 먹【고】 커피를 마셨어요.", "Tôi ăn cơm rồi uống cà phê."],
+            ["형은 회사원이【고】 누나는 학생이에요.", "Anh tôi là nhân viên công ty, còn chị tôi là sinh viên."]
+          ]
+        }
+      ],
+      "notes": ["Thì quá khứ thường chỉ chia ở vế cuối: 어제 영화를 보고 쇼핑했어요."],
+      "practice": [
+        ["언니는 예쁘___ 친절해요.", "고"]
+      ]
+    },
+    {
+      "id": "aseo-reason",
+      "title": "V/A-아서 / 어서",
+      "sub": "Vì … nên …; rồi (hành động nối tiếp có liên quan)",
+      "level": 1,
+      "form": ["ㅏ, ㅗ + 【아서】 · khác + 【어서】 · 하다 → 【해서】 · N이라서 / 라서", "Vế trước KHÔNG chia quá khứ (늦어서, không: *늦었어서)"],
+      "uses": [
+        {
+          "vi": "Lý do, nguyên nhân (thường là lý do khách quan, hay dùng khi xin lỗi, cảm ơn).",
+          "ex": [
+            ["늦【어서】 죄송합니다.", "Xin lỗi vì đến muộn."],
+            ["배가 아【파서】 병원에 갔어요.", "Đau bụng nên tôi đã đi bệnh viện."],
+            ["만【나서】 반갑습니다.", "Rất vui được gặp bạn."]
+          ]
+        },
+        {
+          "vi": "Hành động trước là tiền đề cho hành động sau (cùng địa điểm / đối tượng).",
+          "ex": [
+            ["친구를 만【나서】 같이 밥을 먹었어요.", "Tôi gặp bạn rồi cùng ăn cơm."],
+            ["의자에 앉【아서】 기다리세요.", "Hãy ngồi xuống ghế mà đợi."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["배가 고파서 밥을 먹읍시다.", "배가 고프니까 밥을 먹읍시다.", "Sau -아서 không dùng mệnh lệnh, rủ rê; dùng -(으)니까."]
+      ],
+      "practice": [
+        ["시간이 없___ 택시를 탔어요.", "어서"],
+        ["감기에 걸려___ 학교에 못 갔어요.", "서"]
+      ],
+      "see": ["euniikka"]
+    },
+    {
+      "id": "jiman",
+      "title": "V/A-지만",
+      "sub": "Nhưng",
+      "level": 1,
+      "form": ["Gốc + 【지만】 (có thể chia quá khứ: 했지만)"],
+      "uses": [
+        {
+          "vi": "Hai vế trái ngược nhau.",
+          "ex": [
+            ["한국어는 어렵【지만】 재미있어요.", "Tiếng Hàn khó nhưng thú vị."],
+            ["열심히 공부했【지만】 시험에 떨어졌어요.", "Tôi đã học chăm nhưng vẫn trượt."]
+          ]
+        }
+      ],
+      "practice": [
+        ["이 옷은 예쁘___ 비싸요.", "지만"]
+      ]
+    },
+    {
+      "id": "euniikka",
+      "title": "V/A-(으)니까",
+      "sub": "Vì … nên (hãy) …",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ (bỏ ㄹ) + 【니까】 · Có patchim + 【으니까】", "Có thể chia quá khứ: 왔으니까"],
+      "uses": [
+        {
+          "vi": "Lý do chủ quan của người nói; vế sau dùng được mệnh lệnh, rủ rê (khác -아서).",
+          "ex": [
+            ["비가 오【니까】 우산을 가져가세요.", "Trời mưa nên hãy mang ô theo."],
+            ["시간이 없【으니까】 빨리 갑시다.", "Không có thời gian nên đi nhanh thôi."]
+          ]
+        },
+        {
+          "vi": "Phát hiện sau khi làm gì (V-(으)니까 = khi … thì thấy).",
+          "ex": [
+            ["집에 가【니까】 아무도 없었어요.", "Về đến nhà thì thấy không có ai."]
+          ]
+        }
+      ],
+      "notes": ["Không dùng -(으)니까 trong lời xin lỗi / cảm ơn: 늦어서 죄송해요 (không: *늦으니까 죄송해요)."],
+      "practice": [
+        ["추우___ 문을 닫아 주세요.", "니까"],
+        ["이 영화는 재미없___ 다른 거 봐요.", "으니까"]
+      ]
+    },
+    {
+      "id": "eumyeon",
+      "title": "V/A-(으)면",
+      "sub": "Nếu, khi",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ + 【면】 · Có patchim + 【으면】"],
+      "uses": [
+        {
+          "vi": "Điều kiện, giả định.",
+          "ex": [
+            ["시간이 있【으면】 같이 가요.", "Nếu có thời gian thì cùng đi nhé."],
+            ["봄이 되【면】 꽃이 펴요.", "Khi mùa xuân đến thì hoa nở."],
+            ["모르【면】 물어보세요.", "Không biết thì cứ hỏi."]
+          ]
+        }
+      ],
+      "practice": [
+        ["돈이 많___ 여행을 하고 싶어요.", "으면"],
+        ["피곤하___ 좀 쉬세요.", "면"]
+      ]
+    },
+    {
+      "id": "eumyeonseo",
+      "title": "V-(으)면서",
+      "sub": "Vừa … vừa …",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ + 【면서】 · Có patchim + 【으면서】", "Hai vế cùng chủ ngữ"],
+      "uses": [
+        {
+          "vi": "Hai hành động diễn ra cùng lúc.",
+          "ex": [
+            ["음악을 들으【면서】 공부해요.", "Tôi vừa nghe nhạc vừa học."],
+            ["밥을 먹【으면서】 텔레비전을 봐요.", "Vừa ăn cơm vừa xem TV."]
+          ]
+        }
+      ],
+      "practice": [
+        ["커피를 마시___ 이야기해요.", "면서"]
+      ]
+    },
+    {
+      "id": "gi-jeone",
+      "title": "V-기 전에 · N 전에",
+      "sub": "Trước khi",
+      "level": 1,
+      "form": ["Gốc động từ + 【기 전에】 · N + 【전에】 · thời gian + 전에 (3년 전에 = 3 năm trước)"],
+      "uses": [
+        {
+          "vi": "Hành động ở vế sau xảy ra trước hành động ở vế trước.",
+          "ex": [
+            ["밥을 먹【기 전에】 손을 씻으세요.", "Hãy rửa tay trước khi ăn."],
+            ["자【기 전에】 책을 읽어요.", "Tôi đọc sách trước khi ngủ."],
+            ["수업 【전에】 만나요.", "Gặp nhau trước giờ học nhé."]
+          ]
+        }
+      ],
+      "practice": [
+        ["한국에 오___ 전에 한국어를 공부했어요.", "기"]
+      ],
+      "see": ["eun-hue"]
+    },
+    {
+      "id": "eun-hue",
+      "title": "V-(으)ㄴ 후에 / 다음에 · N 후에",
+      "sub": "Sau khi",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ (bỏ ㄹ) + 【ㄴ 후에】 · Có patchim + 【은 후에】", "후에 = 다음에 = 뒤에 · N + 후에 (수업 후에)"],
+      "uses": [
+        {
+          "vi": "Làm việc này xong rồi mới làm việc kia.",
+          "ex": [
+            ["수업이 끝【난 후에】 친구를 만나요.", "Tan học xong tôi gặp bạn."],
+            ["밥을 먹【은 다음에】 약을 드세요.", "Ăn cơm xong hãy uống thuốc."],
+            ["졸업 【후에】 뭐 할 거예요?", "Sau khi tốt nghiệp bạn sẽ làm gì?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["운동을 ___ 후에 샤워해요. (하다)", "한"]
+      ]
+    },
+    {
+      "id": "eul-ttae",
+      "title": "V/A-(으)ㄹ 때 · N 때",
+      "sub": "Khi, lúc",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ + 【ㄹ 때】 · Có patchim + 【을 때】 · Quá khứ: -았/었을 때", "N + 【때】 (방학 때, 어렸을 때)"],
+      "uses": [
+        {
+          "vi": "Thời điểm xảy ra hành động hay trạng thái.",
+          "ex": [
+            ["심심【할 때】 뭐 해요?", "Khi buồn chán bạn làm gì?"],
+            ["어렸【을 때】 시골에 살았어요.", "Hồi nhỏ tôi sống ở quê."],
+            ["점심 【때】 만나요.", "Gặp nhau lúc ăn trưa nhé."]
+          ]
+        }
+      ],
+      "practice": [
+        ["시간이 있___ 때 전화하세요.", "을"]
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-// Cấu hình Supabase cho bản web (và điền sẵn ô đồng bộ trong extension).
+// Cấu hình Supabase điền sẵn vào ô đồng bộ trong trang Sổ từ của extension.
 // URL + key phải giống supabase.config.js ở thư mục gốc (app dùng chung project – có test kiểm tra).
 // Lấy ở Supabase Dashboard → Project Settings → API Keys.
 // Anon / publishable key được phép công khai: dữ liệu được bảo vệ bằng Row Level Security,

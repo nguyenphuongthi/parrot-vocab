@@ -1,0 +1,184 @@
+{
+  "id": "k2-more",
+  "name": "Hoàn tất, chuẩn bị, cảm xúc và bất quy tắc",
+  "points": [
+    {
+      "id": "a-beorida",
+      "title": "V-아 / 어 버리다",
+      "sub": "… mất rồi, … xong hẳn (tiếc nuối hoặc nhẹ nhõm)",
+      "level": 2,
+      "form": ["ㅏ, ㅗ + 【아 버리다】 · khác + 【어 버리다】 · 하다 → 【해 버리다】"],
+      "uses": [
+        {
+          "vi": "Hành động đã hoàn tất trọn vẹn, thường kèm cảm xúc tiếc nuối hoặc nhẹ nhõm.",
+          "ex": [
+            ["버스가 벌써 떠나 【버렸어요】.", "Xe buýt đi mất rồi."],
+            ["케이크를 다 먹어 【버렸어요】.", "Tôi ăn hết sạch bánh mất rồi."],
+            ["숙제를 다 해 【버렸어요】. 이제 놀 수 있어요!", "Làm xong hết bài tập rồi. Giờ chơi được rồi!"]
+          ]
+        }
+      ],
+      "practice": [
+        ["비밀번호를 잊어 ___. (quá khứ)", "버렸어요"]
+      ]
+    },
+    {
+      "id": "a-nota",
+      "title": "V-아 / 어 놓다 (두다)",
+      "sub": "Làm sẵn, để sẵn",
+      "level": 2,
+      "form": ["ㅏ, ㅗ + 【아 놓다 / 두다】 · khác + 【어 놓다 / 두다】 · 하다 → 【해 놓다】"],
+      "uses": [
+        {
+          "vi": "Làm trước để chuẩn bị, và kết quả được giữ nguyên.",
+          "ex": [
+            ["호텔을 예약해 【놓았어요】.", "Tôi đã đặt khách sạn sẵn rồi."],
+            ["창문을 열어 【두세요】.", "Hãy cứ để cửa sổ mở."]
+          ]
+        }
+      ],
+      "practice": [
+        ["손님이 오기 전에 음식을 만들어 ___. (quá khứ)", "놓았어요/놨어요/두었어요/뒀어요"]
+      ]
+    },
+    {
+      "id": "a-hada-feeling",
+      "title": "A-아 / 어하다",
+      "sub": "Biến tính từ cảm xúc thành động từ (người khác cảm thấy …)",
+      "level": 2,
+      "form": ["좋다 → 【좋아하다】 · 싫다 → 싫어하다 · 무섭다 → 무서워하다 · 기쁘다 → 기뻐하다 · 부럽다 → 부러워하다"],
+      "uses": [
+        {
+          "vi": "Tính từ cảm xúc chỉ dùng cho chính người nói; muốn nói người khác cảm thấy thì dùng -아/어하다 (và nhận tân ngữ 을/를).",
+          "ex": [
+            ["저는 개가 무서워요. / 동생은 개를 【무서워해요】.", "Tôi sợ chó. / Em tôi sợ chó."],
+            ["친구가 선물을 받고 【기뻐했어요】.", "Bạn tôi nhận quà và rất vui."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["동생이 슬퍼요.", "동생이 슬퍼해요.", "Nói cảm xúc của người khác dùng -아/어하다."]
+      ],
+      "practice": [
+        ["아이들이 그 선생님을 정말 ___. (좋다)", "좋아해요"]
+      ]
+    },
+    {
+      "id": "a-ge",
+      "title": "A-게",
+      "sub": "Một cách … (biến tính từ thành trạng từ)",
+      "level": 2,
+      "form": ["Gốc tính từ + 【게】 (예쁘다 → 예쁘게, 맛있다 → 맛있게, 쉽다 → 쉽게)"],
+      "uses": [
+        {
+          "vi": "Bổ nghĩa cho động từ: làm một cách như thế nào.",
+          "ex": [
+            ["맛있【게】 드세요.", "Chúc ăn ngon miệng."],
+            ["머리를 짧【게】 잘랐어요.", "Tôi đã cắt tóc ngắn."],
+            ["재미있【게】 놀았어요.", "Chúng tôi đã chơi rất vui."]
+          ]
+        }
+      ],
+      "practice": [
+        ["방을 깨끗하___ 청소했어요.", "게"]
+      ]
+    },
+    {
+      "id": "gido-hada",
+      "title": "V/A-기도 하다",
+      "sub": "Cũng có khi …, cũng …",
+      "level": 2,
+      "form": ["Gốc + 【기도 하다】 · -기도 하고 -기도 하다 (lúc thì … lúc thì …)"],
+      "uses": [
+        {
+          "vi": "Thêm một hành động / tính chất thỉnh thoảng xảy ra hoặc cùng tồn tại.",
+          "ex": [
+            ["주말에는 집에서 쉬【기도 해요】.", "Cuối tuần có khi tôi nghỉ ở nhà."],
+            ["한국 생활은 재미있【기도 하고】 힘들【기도 해요】.", "Cuộc sống ở Hàn vừa vui vừa vất vả."]
+          ]
+        }
+      ],
+      "practice": [
+        ["가끔 혼자 영화를 보___ 해요.", "기도"]
+      ]
+    },
+    {
+      "id": "ji-anado-doeda",
+      "title": "V-지 않아도 되다 · 안 V-아도 되다",
+      "sub": "Không cần … cũng được",
+      "level": 2,
+      "form": ["Gốc + 【지 않아도 돼요】 · 【안】 + V-아/어도 돼요"],
+      "uses": [
+        {
+          "vi": "Không bắt buộc phải làm (ngược với -아/어야 하다).",
+          "ex": [
+            ["내일은 일찍 오【지 않아도 돼요】.", "Mai không cần đến sớm đâu."],
+            ["돈은 안 내【도 돼요】. 무료예요.", "Không cần trả tiền đâu. Miễn phí."]
+          ]
+        }
+      ],
+      "practice": [
+        ["예약하지 않___ 돼요.", "아도"]
+      ]
+    },
+    {
+      "id": "at-eosseoyo",
+      "title": "V/A-았 / 었었어요",
+      "sub": "Đã từng (trước đây – nay không còn)",
+      "level": 2,
+      "form": ["ㅏ, ㅗ + 【았었어요】 · khác + 【었었어요】 · 하다 → 【했었어요】"],
+      "uses": [
+        {
+          "vi": "Sự việc trong quá khứ đã kết thúc, khác với hiện tại.",
+          "ex": [
+            ["작년에 부산에 살【았었어요】. 지금은 서울에 살아요.", "Năm ngoái tôi sống ở Busan. Bây giờ sống ở Seoul."],
+            ["어렸을 때는 키가 작【았었어요】.", "Hồi nhỏ tôi thấp lắm."]
+          ]
+        }
+      ],
+      "practice": [
+        ["예전에 머리가 길___. (길다 → đã từng)", "었었어요"]
+      ]
+    },
+    {
+      "id": "s-irregular",
+      "title": "ㅅ 불규칙",
+      "sub": "Mất ㅅ trước nguyên âm: 낫다 → 나아요",
+      "level": 2,
+      "form": ["Một số gốc kết thúc bằng ㅅ + nguyên âm → bỏ 【ㅅ】 (không rút gọn nguyên âm)", "낫다 → 나아요 · 짓다 → 지어요 · 붓다 → 부어요 · 젓다 → 저어요", "Không đổi: 웃다 → 웃어요, 씻다 → 씻어요, 벗다 → 벗어요"],
+      "uses": [
+        {
+          "vi": "Chỉ một vài động từ thường gặp.",
+          "ex": [
+            ["감기가 다 【나았어요】.", "Tôi khỏi cảm hẳn rồi."],
+            ["여기에 새 건물을 【지어요】.", "Người ta xây toà nhà mới ở đây."]
+          ]
+        }
+      ],
+      "practice": [
+        ["약을 먹고 빨리 ___. (낫다 + -(으)세요)", "나으세요"]
+      ]
+    },
+    {
+      "id": "h-irregular",
+      "title": "ㅎ 불규칙",
+      "sub": "Tính từ màu sắc, 어떻다…: 빨갛다 → 빨개요",
+      "level": 2,
+      "form": ["Gốc kết thúc bằng ㅎ (tính từ) + 아/어 → bỏ ㅎ, nguyên âm thành 【ㅐ】 (빨갛다 → 빨개요, 어떻다 → 어때요, 그렇다 → 그래요)", "+ -(으)ㄴ, -(으)면 → bỏ ㅎ và 으 (빨간, 어떤, 그러면)", "Không đổi: 좋다 → 좋아요, 넣다, 놓다"],
+      "uses": [
+        {
+          "vi": "Phần lớn tính từ màu sắc và 이렇다 / 그렇다 / 저렇다 / 어떻다.",
+          "ex": [
+            ["하늘이 【파래요】.", "Bầu trời xanh."],
+            ["【빨간】 옷을 입었어요.", "Tôi đã mặc áo đỏ."],
+            ["요즘 【어때요】?", "Dạo này thế nào?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["눈이 와서 세상이 ___. (하얗다)", "하얘요"],
+        ["___ 색을 좋아해요? (어떻다 – định ngữ)", "어떤"]
+      ]
+    }
+  ]
+}

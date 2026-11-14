@@ -2352,3 +2352,73 @@ section.card,
 .grade:not(:disabled):hover .grade-emoji {
   transform: scale(1.18) rotate(-4deg);
 }
+
+/* ---------- Tra từ mới trong Kho từ tiếng Anh (WordLookup) ---------- */
+.search .lookup-btn {
+  flex: none;
+  margin-right: -8px;
+  padding: 5px 12px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.lookup-card {
+  margin: 0 0 14px;
+  padding: 16px 20px 18px;
+  border-radius: 22px;
+}
+.lookup-head {
+  display: flex;
+  align-items: center;
+  gap: 8px 10px;
+  margin-bottom: 8px;
+}
+.lookup-label {
+  padding: 2px 9px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent-text);
+  font-size: 12px;
+  font-weight: 650;
+}
+.lookup-word {
+  font-size: 22px;
+}
+.lookup-close {
+  margin-left: auto;
+}
+.lookup-base {
+  margin: 4px 0;
+}
+.lookup-save {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 10px;
+  margin-top: 14px;
+}
+.lookup-context {
+  flex: 1 1 260px;
+  min-width: 0;
+  height: 40px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+}
+.lookup-saved {
+  width: 100%;
+  margin: 0;
+  color: var(--good);
+  font-weight: 600;
+}
+@media (max-width: 600px) {
+  .lookup-card {
+    padding: 14px 14px 16px;
+  }
+  .search .lookup-btn {
+    padding: 4px 10px;
+    font-size: 13px;
+  }
+}

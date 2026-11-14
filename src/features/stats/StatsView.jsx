@@ -2,7 +2,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { useTable } from '../../lib/store.js';
 import { STATES, countMarks, isDue, marksByDay, reviewsLastDays } from '../../lib/srs.js';
-import { LANGS } from '../../lib/langs.js';
+import { LANGS, isGrammarKey } from '../../lib/langs.js';
 import GoalBar from '../../components/ui/GoalBar.jsx';
 import { MarkGlyph } from '../../components/ui/Mark.jsx';
 import { loadIndex } from '../zh/data.js';
@@ -52,7 +52,7 @@ function useEntries() {
     const out = { en: Object.values(words), zh: [], ko: [] };
     for (const [k, v] of Object.entries(items)) {
       const lang = k.slice(0, 2);
-      if (out[lang]) out[lang].push({ ...v, _id: k.slice(3) });
+      if (out[lang]) out[lang].push({ ...v, _id: k.slice(3), _grammar: isGrammarKey(k) });
     }
     return out;
   }, [words, items]);
@@ -64,7 +64,9 @@ function useTotals() {
     loadIndex()
       .then((i) => setTotals((t) => ({ ...t, zh: i.levels.reduce((s, l) => s + l.total, 0) })))
       .catch(() => {});
-    loadKo().then((d) => setTotals((t) => ({ ...t, ko: d.words.length + d.phrases.length })));
+    loadKo()
+      .then((d) => setTotals((t) => ({ ...t, ko: d.words.length + d.phrases.length })))
+      .catch(() => {});
   }, []);
   return totals;
 }
@@ -81,13 +83,14 @@ function MarkBar({ counts, total }) {
 
 function LangCard({ lang, list, total, index = 0 }) {
   const l = LANGS[lang];
-  // Tiếng Trung: tách từ vựng và ngữ pháp (id ngữ pháp bắt đầu bằng "g")
-  const vocab = lang === 'zh' ? list.filter((e) => !e._id.startsWith('g')) : list;
-  const grammar = lang === 'zh' ? list.filter((e) => e._id.startsWith('g')) : [];
+  // Tách từ vựng và điểm ngữ pháp (ngữ pháp không có trong flashcard, đếm riêng)
+  const vocab = list.filter((e) => !e._grammar);
+  const grammar = list.filter((e) => e._grammar);
   const counts = countMarks(vocab);
   if (total != null && lang !== 'en') counts[0] = Math.max(0, total - counts[1] - counts[2]);
-  const due = vocab.filter((e) => isDue(e)).length; // điểm ngữ pháp không có trong flashcard
-  const shownTotal = lang === 'en' ? list.length : total;
+  const due = vocab.filter((e) => isDue(e)).length;
+  const shownTotal = lang === 'en' ? vocab.length : total;
+  const grammarCounts = countMarks(grammar);
   return (
     <section className="card stat-card" style={{ '--i': index }}>
       <header>
@@ -97,14 +100,14 @@ function LangCard({ lang, list, total, index = 0 }) {
         <div>
           <h3>{l.name}</h3>
           <p className="muted small">
-            {lang === 'en' ? `${list.length} từ đã lưu` : shownTotal != null ? `${shownTotal.toLocaleString('vi-VN')} ${l.unit}` : '…'}
+            {lang === 'en' ? `${vocab.length} từ đã lưu` : shownTotal != null ? `${shownTotal.toLocaleString('vi-VN')} ${l.unit}` : '…'}
           </p>
         </div>
         <span className="stat-due" title="Số thẻ cần ôn hôm nay">
           <b>{due}</b> cần ôn
         </span>
       </header>
-      <MarkBar counts={counts} total={lang === 'en' ? list.length : shownTotal} />
+      <MarkBar counts={counts} total={shownTotal} />
       <ul className="stat-legend">
         {STATES.map((s) => (
           <li key={s.value}>
@@ -115,7 +118,7 @@ function LangCard({ lang, list, total, index = 0 }) {
       </ul>
       {grammar.length > 0 && (
         <p className="muted small">
-          Ngữ pháp HSK: {countMarks(grammar)[2]} đã thuộc · {countMarks(grammar)[1]} hơi nhớ
+          Ngữ pháp: {grammarCounts[2]} đã thuộc · {grammarCounts[1]} hơi nhớ
         </p>
       )}
     </section>

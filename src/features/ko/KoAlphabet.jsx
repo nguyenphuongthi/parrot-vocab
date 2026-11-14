@@ -3,7 +3,7 @@ import { useState } from 'react';
 import {
   BASIC_CONSONANTS, BASIC_VOWELS, BATCHIM, BATCHIM_NOTE, COMPOUND_VOWELS, INTRO, RULES,
   TENSE_CONSONANTS, THREE_WAY, THREE_WAY_NOTE, VOWEL_NOTES,
-} from './data/alphabet.js';
+} from './alphabet.js';
 import { compose, pronounce, romanize } from './romanize.js';
 import { speak, useCanSpeak } from '../../lib/speech.js';
 import { SpeakerIcon } from '../../components/ui/Icons.jsx';

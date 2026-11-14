@@ -1,0 +1,250 @@
+{
+  "id": "k2-connectors",
+  "name": "Nối câu (sơ cấp 2)",
+  "intro": "Các vĩ tố liên kết thường gặp trong đề TOPIK I phần đọc và nghe: bối cảnh, lựa chọn, lý do, mục đích, thời gian.",
+  "points": [
+    {
+      "id": "neunde-connector",
+      "title": "V/A-는데 / -(으)ㄴ데",
+      "sub": "Mà, nhưng, thì (nêu bối cảnh hoặc đối lập)",
+      "level": 2,
+      "form": ["Động từ, 있다/없다 + 【는데】 · Tính từ: không patchim + 【ㄴ데】 / có patchim + 【은데】 · N인데", "Quá khứ: -았/었는데"],
+      "uses": [
+        {
+          "vi": "Đưa ra bối cảnh, thông tin nền trước khi nói ý chính (đề nghị, câu hỏi).",
+          "ex": [
+            ["날씨가 좋【은데】 산책할까요?", "Trời đẹp, mình đi dạo nhé?"],
+            ["지금 마트에 가【는데】 뭐 필요해요?", "Tôi đang đi siêu thị đây, bạn cần gì không?"]
+          ]
+        },
+        {
+          "vi": "Đối lập (giống -지만 nhưng mềm hơn).",
+          "ex": [
+            ["이 식당은 비싼【데】 맛이 없어요.", "Quán này đắt mà không ngon."]
+          ]
+        }
+      ],
+      "practice": [
+        ["배가 ___ 뭐 먹으러 갈래요? (고프다)", "고픈데"],
+        ["열심히 공부했___ 시험을 못 봤어요.", "는데"]
+      ]
+    },
+    {
+      "id": "geona",
+      "title": "V/A-거나 · N(이)나",
+      "sub": "Hoặc",
+      "level": 2,
+      "form": ["Gốc + 【거나】", "Danh từ: không patchim + 【나】 / có patchim + 【이나】"],
+      "uses": [
+        {
+          "vi": "Lựa chọn một trong các hành động / sự vật.",
+          "ex": [
+            ["주말에는 책을 읽【거나】 영화를 봐요.", "Cuối tuần tôi đọc sách hoặc xem phim."],
+            ["커피【나】 차 드릴까요?", "Tôi mời anh cà phê hay trà nhé?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["심심하면 음악을 듣___ 게임을 해요.", "거나"]
+      ]
+    },
+    {
+      "id": "gi-ttaemune",
+      "title": "V/A-기 때문에 · N 때문에",
+      "sub": "Bởi vì (nhấn mạnh lý do)",
+      "level": 2,
+      "form": ["Gốc + 【기 때문에】 (quá khứ: -았/었기 때문에)", "N + 【때문에】 · N이기 때문에 (vì là N)"],
+      "uses": [
+        {
+          "vi": "Nêu lý do một cách rõ ràng, khách quan; hay dùng trong văn viết. Vế sau không dùng mệnh lệnh, rủ rê.",
+          "ex": [
+            ["내일 시험이 있【기 때문에】 오늘은 못 놀아요.", "Vì mai có bài thi nên hôm nay tôi không đi chơi được."],
+            ["눈 【때문에】 비행기가 취소됐어요.", "Vì tuyết nên chuyến bay bị huỷ."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["감기 때문이라서 못 갔어요.", "감기 때문에 못 갔어요.", "N 때문에 dùng trực tiếp."]
+      ],
+      "practice": [
+        ["길이 막히___ 때문에 늦었어요.", "기"],
+        ["비 ___ 소풍을 못 갔어요. (vì)", "때문에"]
+      ]
+    },
+    {
+      "id": "gi-wihaeseo",
+      "title": "V-기 위해(서) · N을/를 위해(서)",
+      "sub": "Để, vì (mục đích)",
+      "level": 2,
+      "form": ["Gốc động từ + 【기 위해서】", "N + 을/를 + 【위해서】 (vì N)"],
+      "uses": [
+        {
+          "vi": "Mục đích của hành động (trang trọng hơn -(으)러 và dùng được với mọi động từ).",
+          "ex": [
+            ["건강을 지키【기 위해서】 매일 운동해요.", "Tôi tập thể dục mỗi ngày để giữ gìn sức khoẻ."],
+            ["가족【을 위해서】 열심히 일해요.", "Tôi làm việc chăm chỉ vì gia đình."]
+          ]
+        }
+      ],
+      "practice": [
+        ["장학금을 받___ 위해서 열심히 공부해요.", "기"]
+      ],
+      "see": ["ryeomyeon"]
+    },
+    {
+      "id": "ado",
+      "title": "V/A-아도 / 어도",
+      "sub": "Dù … cũng",
+      "level": 2,
+      "form": ["ㅏ, ㅗ + 【아도】 · khác + 【어도】 · 하다 → 【해도】 · N이어도 / 여도", "Nhấn mạnh: 아무리 -아/어도 (dù … đến mấy)"],
+      "uses": [
+        {
+          "vi": "Vế sau xảy ra bất kể điều kiện ở vế trước.",
+          "ex": [
+            ["비가 와【도】 축구를 할 거예요.", "Dù trời mưa chúng tôi vẫn sẽ đá bóng."],
+            ["아무리 바빠【도】 아침은 꼭 먹어요.", "Dù bận đến mấy tôi cũng nhất định ăn sáng."]
+          ]
+        }
+      ],
+      "practice": [
+        ["피곤___ 숙제를 해야 해요. (하다)", "해도"]
+      ]
+    },
+    {
+      "id": "daga",
+      "title": "V-다가",
+      "sub": "Đang … thì (chuyển sang việc khác)",
+      "level": 2,
+      "form": ["Gốc động từ + 【다가】 (cùng chủ ngữ)", "-았/었다가: làm xong rồi (đảo ngược / đi rồi về)"],
+      "uses": [
+        {
+          "vi": "Hành động đang làm thì dừng lại hoặc chuyển sang hành động khác.",
+          "ex": [
+            ["공부하【다가】 잠이 들었어요.", "Đang học thì ngủ quên mất."],
+            ["집에 가【다가】 친구를 만났어요.", "Trên đường về nhà tôi gặp bạn."],
+            ["창문을 열【었다가】 추워서 닫았어요.", "Mở cửa sổ ra rồi lạnh quá lại đóng vào."]
+          ]
+        }
+      ],
+      "practice": [
+        ["텔레비전을 보___ 잤어요.", "다가"]
+      ]
+    },
+    {
+      "id": "jamaja",
+      "title": "V-자마자",
+      "sub": "Vừa … liền …",
+      "level": 2,
+      "form": ["Gốc động từ + 【자마자】"],
+      "uses": [
+        {
+          "vi": "Ngay khi việc trước xảy ra thì việc sau xảy ra.",
+          "ex": [
+            ["집에 도착하【자마자】 잤어요.", "Vừa về đến nhà là tôi ngủ luôn."],
+            ["졸업하【자마자】 취직했어요.", "Vừa tốt nghiệp là tôi có việc ngay."]
+          ]
+        }
+      ],
+      "practice": [
+        ["수업이 끝나___ 집에 갔어요.", "자마자"]
+      ]
+    },
+    {
+      "id": "go-naseo",
+      "title": "V-고 나서",
+      "sub": "Sau khi … xong",
+      "level": 2,
+      "form": ["Gốc động từ + 【고 나서】"],
+      "uses": [
+        {
+          "vi": "Nhấn mạnh việc trước hoàn tất rồi mới làm việc sau.",
+          "ex": [
+            ["숙제를 하【고 나서】 게임을 해요.", "Làm bài tập xong rồi mới chơi game."],
+            ["영화가 끝나【고 나서】 밥을 먹었어요.", "Phim hết rồi chúng tôi đi ăn."]
+          ]
+        }
+      ],
+      "practice": [
+        ["샤워를 하___ 나서 잤어요.", "고"]
+      ]
+    },
+    {
+      "id": "neun-dongan",
+      "title": "V-는 동안(에) · N 동안",
+      "sub": "Trong khi, trong suốt",
+      "level": 2,
+      "form": ["Gốc động từ + 【는 동안】 · N(khoảng thời gian) + 【동안】"],
+      "uses": [
+        {
+          "vi": "Khoảng thời gian một hành động kéo dài.",
+          "ex": [
+            ["제가 요리하【는 동안】 청소 좀 해 주세요.", "Trong lúc tôi nấu ăn thì dọn dẹp giúp tôi nhé."],
+            ["방학 【동안】 아르바이트를 했어요.", "Trong kỳ nghỉ tôi đã làm thêm."],
+            ["3년 【동안】 한국에서 살았어요.", "Tôi đã sống ở Hàn ba năm."]
+          ]
+        }
+      ],
+      "practice": [
+        ["아기가 자는 ___ 책을 읽었어요.", "동안"]
+      ]
+    },
+    {
+      "id": "eun-ji",
+      "title": "V-(으)ㄴ 지 (시간)이 되다 / 지나다",
+      "sub": "Đã … được (bao lâu) kể từ khi",
+      "level": 2,
+      "form": ["Không patchim / patchim ㄹ + 【ㄴ 지】 · Có patchim + 【은 지】 + thời gian + 되다 / 지나다 / 넘다"],
+      "uses": [
+        {
+          "vi": "Thời gian trôi qua kể từ khi làm việc gì.",
+          "ex": [
+            ["한국어를 배【운 지】 1년이 됐어요.", "Tôi học tiếng Hàn được một năm rồi."],
+            ["밥을 먹【은 지】 두 시간이 지났어요.", "Ăn cơm xong được hai tiếng rồi."]
+          ]
+        }
+      ],
+      "practice": [
+        ["서울에 ___ 지 3년이 됐어요. (오다)", "온"]
+      ]
+    },
+    {
+      "id": "ryeomyeon",
+      "title": "V-(으)려면",
+      "sub": "Nếu muốn … thì",
+      "level": 2,
+      "form": ["Không patchim / patchim ㄹ + 【려면】 · Có patchim + 【으려면】"],
+      "uses": [
+        {
+          "vi": "Điều kiện cần cho một ý định (hay dùng khi hỏi / chỉ đường, hướng dẫn).",
+          "ex": [
+            ["명동에 가【려면】 몇 번 버스를 타야 돼요?", "Muốn đi Myeongdong thì phải đi xe buýt số mấy?"],
+            ["한국어를 잘하【려면】 매일 연습해야 해요.", "Muốn giỏi tiếng Hàn thì phải luyện tập mỗi ngày."]
+          ]
+        }
+      ],
+      "practice": [
+        ["비자를 받___ 어떻게 해야 해요?", "으려면"]
+      ],
+      "see": ["eumyeon-doeda"]
+    },
+    {
+      "id": "neun-daeshine",
+      "title": "V/A-는 대신(에) · N 대신(에)",
+      "sub": "Thay vì, bù lại",
+      "level": 2,
+      "form": ["Động từ + 【는 대신에】 · N + 【대신에】"],
+      "uses": [
+        {
+          "vi": "Thay thế việc này bằng việc khác, hoặc có cái này bù lại cái kia.",
+          "ex": [
+            ["오늘은 밥 【대신에】 빵을 먹었어요.", "Hôm nay tôi ăn bánh mì thay cơm."],
+            ["제가 요리하【는 대신에】 당신이 설거지하세요.", "Tôi nấu ăn, bù lại anh rửa bát nhé."]
+          ]
+        }
+      ],
+      "practice": [
+        ["커피 ___ 녹차를 마실게요. (thay vì)", "대신에/대신"]
+      ]
+    }
+  ]
+}

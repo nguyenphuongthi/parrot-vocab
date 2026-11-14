@@ -34,6 +34,9 @@ export async function getJson(path) {
     if (data?.session) r = await load();
   }
   if (r.status === 401) throw new Error(UNAUTHORIZED);
-  if (!r.ok) throw new Error(r.statusText || `HTTP ${r.status}`);
+  if (!r.ok) {
+    const body = await r.json().catch(() => null); // API trả { error: "…" } – hiện đúng lý do cho người dùng
+    throw new Error(body?.error || r.statusText || `HTTP ${r.status}`);
+  }
   return r.json();
 }

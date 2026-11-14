@@ -12,11 +12,12 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "node --test --test-concurrency=1 \"tests/**/*.test.js\"",
+    "data:en": "node scripts/build-en.mjs",
     "data:zh": "node scripts/build-zh.mjs",
-    "check:ko": "node scripts/check-ko.mjs",
+    "data:ko": "node scripts/build-ko.mjs",
+    "data:cefr": "node scripts/build-cefr.cjs",
     "migrate:hsk": "node scripts/migrate-hsk-marks.mjs",
     "ping": "node scripts/supabase-ping.mjs",
-    "data:cefr": "node scripts/build-cefr.cjs",
     "icons": "node scripts/build-icons.mjs"
   },
   "dependencies": {

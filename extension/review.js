@@ -621,23 +621,9 @@ function showCard() {
   if (mode === 'listen' || ((mode === 'en-vi' || mode === 'choice') && settings.autoPlay)) playCard(entry.key);
 }
 
-// Bản web: trình duyệt chặn phát âm khi trang chưa có thao tác nào của người dùng (vd. tải lại trang
-// ngay ở tab Flashcard) – thì đợi lần chạm / bấm phím đầu tiên rồi đọc thẻ đang hiện.
-// Extension phát âm ở background nên không bị chặn.
-let pendingPlay = null;
-
+// Phát âm chạy ở background (chrome.tts / offscreen) nên không bị trình duyệt chặn khi trang chưa có thao tác.
 function playCard(key) {
-  if (!VEL_WEB || navigator.userActivation?.hasBeenActive !== false) return play(words[key], settings.accent);
-  if (pendingPlay) return; // đã chờ sẵn – lúc chạm sẽ đọc thẻ đang hiện
-  pendingPlay = () => {
-    document.removeEventListener('pointerdown', pendingPlay, true);
-    document.removeEventListener('keydown', pendingPlay, true);
-    pendingPlay = null;
-    const current = words[deck.queue[0]];
-    if (current && !$('#tab-cards').hidden && !$('#card-area').hidden) play(current, settings.accent);
-  };
-  document.addEventListener('pointerdown', pendingPlay, true);
-  document.addEventListener('keydown', pendingPlay, true);
+  play(words[key], settings.accent);
 }
 
 function flip() {
@@ -779,7 +765,7 @@ $('#flashcard').addEventListener('pointercancel', resetSwipe); // trình duyệt
 // ---------- Thống kê ----------
 
 // Mỗi đường là một mức thuộc, cùng tên và màu với thẻ từ: số từ được đánh dấu vào mức đó trong ngày.
-// Màu: class .c-m<mức> trong review.css (CSP bản web không cho style nội tuyến)
+// Màu: class .c-m<mức> trong review.css (không dùng style nội tuyến)
 const SERIES = STATES.map((s) => ({ id: 'm' + s.value, mark: s.value, label: s.label }));
 const today = new Date();
 let statsMonth = { year: today.getFullYear(), month: today.getMonth() };
@@ -982,11 +968,6 @@ async function renderSync() {
   ]);
   const signedIn = !!syncSession;
 
-  if (VEL_WEB) {
-    document.documentElement.classList.toggle('signed-in', signedIn);
-    document.documentElement.classList.remove('checking');
-  }
-
   syncForm.hidden = signedIn;
   $('#sync-account').hidden = !signedIn;
   if (!syncForm.elements.url.value) {
@@ -1035,42 +1016,9 @@ syncForm.addEventListener('submit', async (e) => {
 
 $('#sync-now').addEventListener('click', () => callBackground({ type: 'syncNow' }).catch(() => {}));
 $('#sync-out').addEventListener('click', async () => {
-  const message = VEL_WEB
-    ? 'Đăng xuất? Kho từ trên thiết bị này sẽ được xoá (vẫn còn trên Supabase).'
-    : 'Đăng xuất? Sổ từ trên máy này vẫn được giữ nguyên.';
-  if (confirm(message)) await callBackground({ type: 'syncSignOut' });
+  if (confirm('Đăng xuất? Sổ từ trên máy này vẫn được giữ nguyên.')) await callBackground({ type: 'syncSignOut' });
 });
 
-// Màn hình đăng nhập của bản web: Project URL và key lấy từ config.js
-$('#gate-form').addEventListener('submit', async (e) => {
-  e.preventDefault();
-  const f = e.target.elements;
-  const button = e.target.querySelector('button');
-  const error = $('#gate-error');
-  error.hidden = true;
-  if (!VEL_CONFIG?.supabaseUrl || !VEL_CONFIG?.supabaseAnonKey) {
-    error.textContent = 'Chưa cấu hình Supabase trong config.js.';
-    error.hidden = false;
-    return;
-  }
-  button.disabled = true;
-  button.textContent = 'Đang đăng nhập…';
-  try {
-    await callBackground({
-      type: 'syncSignIn',
-      url: VEL_CONFIG.supabaseUrl,
-      anonKey: VEL_CONFIG.supabaseAnonKey,
-      email: f.email.value.trim(),
-      password: f.password.value
-    });
-    f.password.value = '';
-  } catch (err) {
-    error.textContent = err.message;
-    error.hidden = false;
-  }
-  button.disabled = false;
-  button.textContent = 'Đăng nhập';
-});
 $('#sync-badge').addEventListener('click', () => (location.hash = 'settings'));
 
 // ---------- Khởi động ----------

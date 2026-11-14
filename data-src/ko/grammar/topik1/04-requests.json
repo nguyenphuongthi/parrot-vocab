@@ -1,0 +1,188 @@
+{
+  "id": "k1-requests",
+  "name": "Yêu cầu, đề nghị, mong muốn",
+  "intro": "Những đuôi câu để nhờ, mời, rủ và nói điều mình muốn.",
+  "points": [
+    {
+      "id": "euseyo",
+      "title": "V-(으)세요",
+      "sub": "Hãy … (yêu cầu lịch sự); kính ngữ hiện tại",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ (bỏ ㄹ) + 【세요】 (가다 → 가세요, 만들다 → 만드세요)", "Có patchim + 【으세요】 (앉다 → 앉으세요)", "Đặc biệt: 먹다 / 마시다 → 드세요 · 자다 → 주무세요 · 있다 → 계세요"],
+      "uses": [
+        {
+          "vi": "Mời, yêu cầu người nghe làm gì một cách lịch sự.",
+          "ex": [
+            ["여기 앉【으세요】.", "Mời ngồi đây."],
+            ["많이 드【세요】.", "Ăn nhiều vào nhé."],
+            ["천천히 말하【세요】.", "Hãy nói chậm thôi."]
+          ]
+        },
+        {
+          "vi": "Kính ngữ khi hỏi / kể về người trên (xem thêm -(으)시-).",
+          "ex": [
+            ["선생님, 어디 가【세요】?", "Thầy đi đâu ạ?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["이쪽으로 ___. (오다)", "오세요"],
+        ["손을 ___. (씻다)", "씻으세요"]
+      ],
+      "see": ["ji-maseyo", "a-juseyo", "eusi"]
+    },
+    {
+      "id": "ji-maseyo",
+      "title": "V-지 마세요",
+      "sub": "Đừng …",
+      "level": 1,
+      "form": ["Gốc động từ + 【지 마세요】 · thân mật: -지 마"],
+      "uses": [
+        {
+          "vi": "Cấm hoặc khuyên đừng làm gì.",
+          "ex": [
+            ["여기에서 사진을 찍【지 마세요】.", "Đừng chụp ảnh ở đây."],
+            ["걱정하【지 마세요】.", "Đừng lo lắng."],
+            ["늦【지 마세요】.", "Đừng đến muộn nhé."]
+          ]
+        }
+      ],
+      "practice": [
+        ["수업 시간에 떠들___ 마세요.", "지"]
+      ]
+    },
+    {
+      "id": "a-juseyo",
+      "title": "V-아 / 어 주세요",
+      "sub": "Hãy … giúp tôi (nhờ vả)",
+      "level": 1,
+      "form": ["ㅏ, ㅗ + 【아 주세요】 · khác + 【어 주세요】 · 하다 → 【해 주세요】", "Cho người trên: -아/어 드릴게요 (tôi sẽ làm cho …)"],
+      "uses": [
+        {
+          "vi": "Nhờ người khác làm gì cho mình.",
+          "ex": [
+            ["문 좀 열【어 주세요】.", "Mở cửa giúp tôi với."],
+            ["사진 좀 찍【어 주세요】.", "Chụp giúp tôi tấm ảnh."],
+            ["다시 한번 말【해 주세요】.", "Hãy nói lại một lần nữa."]
+          ]
+        }
+      ],
+      "notes": ["좀 (một chút) làm lời nhờ mềm hơn. N 주세요 = cho tôi N (khi mua, gọi món): 물 주세요."],
+      "practice": [
+        ["창문 좀 닫___ 주세요.", "아"],
+        ["천천히 말___ 주세요. (하다)", "해"]
+      ]
+    },
+    {
+      "id": "eupsida",
+      "title": "V-(으)ㅂ시다",
+      "sub": "Chúng ta hãy … (rủ rê)",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ (bỏ ㄹ) + 【ㅂ시다】 (가다 → 갑시다)", "Có patchim + 【읍시다】 (먹다 → 먹읍시다)"],
+      "uses": [
+        {
+          "vi": "Rủ cùng làm. Khá cứng, không dùng với người trên; khi nói thân thiện thường dùng -아요/어요 (같이 가요!).",
+          "ex": [
+            ["같이 【갑시다】.", "Chúng ta cùng đi nào."],
+            ["점심 먹【읍시다】.", "Đi ăn trưa thôi."],
+            ["같이 공부해요!", "Cùng học nhé! (thân thiện hơn)"]
+          ]
+        }
+      ],
+      "practice": [
+        ["잠깐 ___. (쉬다)", "쉽시다"]
+      ],
+      "see": ["l-kkayo"]
+    },
+    {
+      "id": "l-kkayo",
+      "title": "V-(으)ㄹ까요?",
+      "sub": "… nhé? / … nhỉ? (rủ, hỏi ý kiến, phỏng đoán)",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ + 【ㄹ까요?】 · Có patchim + 【을까요?】"],
+      "uses": [
+        {
+          "vi": "Rủ người nghe cùng làm (chúng ta … nhé?) hoặc hỏi ý kiến (tôi … nhé?).",
+          "ex": [
+            ["같이 커피 마【실까요】?", "Mình đi uống cà phê nhé?"],
+            ["제가 창문을 【열까요】?", "Tôi mở cửa sổ nhé?"],
+            ["몇 시에 만【날까요】?", "Mấy giờ mình gặp nhau?"]
+          ]
+        },
+        {
+          "vi": "Tự hỏi, phỏng đoán.",
+          "ex": [
+            ["내일 비가 【올까요】?", "Mai trời có mưa không nhỉ?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["주말에 같이 영화 ___? (보다)", "볼까요"],
+        ["뭘 ___? (먹다)", "먹을까요"]
+      ]
+    },
+    {
+      "id": "go-sipda",
+      "title": "V-고 싶다",
+      "sub": "Muốn …",
+      "level": 1,
+      "form": ["Gốc động từ + 【고 싶어요】", "Ngôi thứ ba: 【-고 싶어 해요】"],
+      "uses": [
+        {
+          "vi": "Nói mong muốn của mình hoặc hỏi người nghe. Khi nói về người khác dùng -고 싶어 하다.",
+          "ex": [
+            ["한국에 가【고 싶어요】.", "Tôi muốn đi Hàn Quốc."],
+            ["뭐 먹【고 싶어요】?", "Bạn muốn ăn gì?"],
+            ["동생이 강아지를 키우【고 싶어 해요】.", "Em tôi muốn nuôi chó con."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["물을 마시고 싶다요.", "물을 마시고 싶어요.", "Chia 싶다 thành 싶어요."]
+      ],
+      "practice": [
+        ["저는 가수가 되___ 싶어요.", "고"]
+      ]
+    },
+    {
+      "id": "eureo-gada",
+      "title": "V-(으)러 가다 / 오다",
+      "sub": "Đi / đến để làm gì",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ + 【러】 · Có patchim + 【으러】 + 가다 / 오다 / 다니다"],
+      "uses": [
+        {
+          "vi": "Mục đích của việc đi lại. Chỉ dùng với động từ di chuyển.",
+          "ex": [
+            ["밥 먹【으러】 가요.", "Đi ăn cơm."],
+            ["책을 빌리【러】 도서관에 갔어요.", "Tôi đến thư viện để mượn sách."],
+            ["한국어를 배우【러】 한국에 왔어요.", "Tôi sang Hàn để học tiếng Hàn."]
+          ]
+        }
+      ],
+      "practice": [
+        ["옷을 사___ 백화점에 가요.", "러"]
+      ],
+      "see": ["ryeogo-hada"]
+    },
+    {
+      "id": "ryeogo-hada",
+      "title": "V-(으)려고 하다",
+      "sub": "Định …",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ + 【려고 해요】 · Có patchim + 【으려고 해요】"],
+      "uses": [
+        {
+          "vi": "Dự định, ý định (chưa chắc chắn bằng -ㄹ 거예요).",
+          "ex": [
+            ["다음 달에 이사하【려고 해요】.", "Tháng sau tôi định chuyển nhà."],
+            ["주말에 뭐 하【려고 해요】?", "Cuối tuần bạn định làm gì?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["올해 운전을 배우___ 해요.", "려고"]
+      ]
+    }
+  ]
+}

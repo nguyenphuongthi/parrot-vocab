@@ -4,7 +4,8 @@
 //
 // Bảng:
 //   words – tiếng Anh, key = từ viết thường (định dạng giống hệt extension Vocab English Lens)
-//   items – tiếng Trung / Hàn, key = "zh:<id>" | "ko:<id>"; mục chưa học thì chưa có bản ghi (= chưa thuộc)
+//   items – mục học có sẵn trong app, key = "<en|zh|ko>:<id>" (từ HSK, từ / câu tiếng Hàn, điểm ngữ pháp);
+//           mục chưa học thì chưa có bản ghi (= chưa thuộc). Điểm ngữ pháp: id bắt đầu bằng "g" (isGrammarKey).
 import { useSyncExternalStore } from 'react';
 import * as kv from './kv.js';
 import { supabase } from './supabase.js';
@@ -130,8 +131,10 @@ function explain(error, table) {
   if (['PGRST202', 'PGRST205', '42P01', '42883'].includes(code) || /does not exist|could not find/i.test(error?.message || '')) {
     return table === 'items'
       ? 'Supabase chưa có bảng items – hãy chạy file supabase/schema.sql trong SQL Editor.'
-      : 'Supabase chưa có bảng words – hãy chạy schema của Vocab English Lens.';
+      : 'Supabase chưa có bảng words – hãy chạy file supabase/schema.sql trong SQL Editor.';
   }
+  // Vi phạm ràng buộc khoá: CSDL còn bản cũ (chưa cho phép ngôn ngữ mới, vd. ngữ pháp tiếng Anh "en:g:…")
+  if (code === '23514') return 'Supabase cần cập nhật – hãy chạy lại file supabase/schema.sql trong SQL Editor.';
   if (/fetch|network|Failed to fetch/i.test(error?.message || '')) return 'Không kết nối được Supabase.';
   return error?.message || String(error);
 }

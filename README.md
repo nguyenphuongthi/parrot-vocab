@@ -6,7 +6,7 @@ A personal vocabulary app for three languages, built for Vietnamese learners. Ea
 |---|---|
 | 🇬🇧 **English** | Pick up words while reading the web with a **Chrome extension**, then review them in the app |
 | 🇨🇳 **Chinese** | Learn from the **HSK syllabus and the *标准教程 HSK 4 / HSK 5* textbooks** |
-| 🇰🇷 **Korean** | Start from scratch: **Hangul**, beginner vocabulary and everyday conversation |
+| 🇰🇷 **Korean** | Start from scratch: **Hangul**, then vocabulary, grammar and conversation for **TOPIK I (levels 1–2)** |
 
 All three share one account, one spaced-repetition system and one Supabase database, so progress syncs across the web app, phones and the extension.
 
@@ -43,8 +43,10 @@ English words come from what you actually read. The **Vocab English Lens** Chrom
 - The extension icon shows how many words are due today.
 
 **In the web app**
+- **Look up new words without the extension**: type a word or short phrase in the word bank search box and press Enter (or *Tra từ điển*). You get the Vietnamese meaning, meanings by part of speech, US / UK pronunciation with audio, CEFR level, definitions with Vietnamese translations and a base-form suggestion, and can save it with your own example sentence. Saved words use the same format as the extension and sync to it.
 - **Word bank**: search, filter by part of speech, CEFR level (A1–C2) and mastery level; each word shows its context sentences with links back to the source.
 - **Flashcards**: English → Vietnamese, Vietnamese → English, listening, spelling (any form you have met counts), and multiple choice with distractors of the same part of speech.
+- **Grammar**: 154 grammar points in 18 topics from A1 to C1, explained in Vietnamese, including a **spoken grammar** section (polite requests, suggestions, softening, reply questions, discourse markers…). Each point has its structure, uses with examples (read aloud), common mistakes made by Vietnamese learners, and fill-in exercises that are checked as you type. Points are labelled **Basic (A1–A2) · Intermediate (B1–B2) · Advanced (C1)** and marked ○ ◐ ● like everything else.
 
 ---
 
@@ -81,7 +83,10 @@ English words come from what you actually read. The **Vocab English Lens** Chrom
 - **글자 만들기**: 초성 + 중성 + 받침을 골라 글자를 만들면 그 글자(예: 한)가 획순대로 그려집니다. 어떤 단어나 문장이든 입력하면 실제 발음과 로마자 표기를 보여 줍니다.
 
 **어휘**
-- TOPIK I 수준의 기초 어휘 **639개**, 인사·숫자·가족·음식·교통·쇼핑·날씨 등 **22개 주제**.
+- TOPIK I 어휘 **1,920개** (1급 1,003개 · 2급 917개), 인사·숫자·가족·음식·교통·쇼핑·은행·인터넷·사회 등 **28개 주제**. 급수별로 골라 보고 플래시카드로도 복습할 수 있습니다.
+
+**문법**
+- **TOPIK 1급 62개, 2급 55개** 문법: 조사, 시제, 연결 어미, 종결 어미, 높임말, 피동, 간접 화법, 불규칙 활용 등. 문법마다 형태, 베트남어 설명, 예문(로마자 표기·음성), 자주 하는 실수, 빈칸 채우기 연습이 있습니다.
 - 표기와 발음이 다를 때는 **실제 발음**을 보여 줍니다 (한국어 → [한구거]). 한자어는 **한월음**도 함께 표시합니다 (학교 → học hiệu).
 
 **회화**
@@ -99,11 +104,53 @@ React + Vite web app · Chrome extension (Manifest V3) · Supabase (Auth, Postgr
 
 This repository merges two earlier projects: [eng-vocab-lens](https://github.com/nguyenphuongthi/eng-vocab-lens) and [HSK-Vocab](https://github.com/nguyenphuongthi/HSK-Vocab).
 
+## Project structure
+
+```
+src/
+  app/              app shell: routing, top bar, sign-in state
+  features/         one folder per area: en, zh, ko, grammar (shared EN/KO grammar book),
+                    review (flashcards), stats, settings, auth
+  components/       shared UI: ui (buttons, marks, disclosure…), mascot, scene
+  hooks/            generic React hooks
+  lib/              local store + Supabase sync, SRS, speech, settings, motion
+  styles/           CSS (index.css sets the cascade order)
+public/
+  data/             GENERATED lesson data – served only to signed-in users (middleware.js)
+data-src/           EDITABLE lesson sources – build them into public/data with npm run data:*
+  en/               English grammar
+  zh/               HSK word content, textbook grammar; vendor/ = third-party downloads (CC-CEDICT…)
+  ko/               Korean words by topic, phrases, TOPIK grammar
+scripts/            data builders, icon builder, HSK progress migration, Supabase keep-alive
+  zh/               Python helpers used when authoring HSK content
+extension/          Vocab English Lens – Chrome extension (Manifest V3)
+api/                Vercel Functions (lookup.js: English → Vietnamese word lookup, signed-in users only)
+supabase/schema.sql whole database (tables, RLS, push functions) – safe to re-run
+tests/
+  web/              app unit tests + end-to-end test on the production build
+  extension/        extension unit tests + end-to-end tests in headless Chrome
+```
+
+## Development
+
+| Command | What it does |
+|---|---|
+| `npm run dev` | Start the app (Vite); also serves the `api/` functions (word lookup) |
+| `npm run build` | Production build into `dist/` |
+| `npm test` | All tests; browser tests need Chrome and run `dist/` (build first) |
+| `npm run data:en` · `data:zh` · `data:ko` | Validate `data-src/<lang>` and write `public/data/<lang>` |
+| `npm run data:cefr` | Rebuild CEFR word levels (app + extension) |
+| `npm run icons` | Redraw app and extension icons from the mascot |
+
+Reports for manual checking (pinyin, Korean romanization) are written to `data-src/*/reports/` and are not committed.
+After changing `supabase/schema.sql`, run the whole file again in the Supabase SQL Editor.
+
 ## Data sources & licenses
 
 **English**
 - CEFR levels: CEFR-J Wordlist 1.5 (A1–B2, © Tono Laboratory, TUFS) and Octanove Vocabulary Profile C1/C2 (CC BY-SA 4.0). See [`public/data/en/README.md`](public/data/en/README.md).
 - Meanings, pronunciation and context are looked up and saved by the extension.
+- Grammar: scope and CEFR levels follow the *English Grammar Profile* (Cambridge University Press & Assessment) and British Council *LearnEnglish*; explanations, examples and exercises were written separately (with AI assistance).
 
 **Chinese**
 - Word list from the HSK 2.0 syllabus (mock.tangce.cn). Pinyin checked against CC-CEDICT (CC BY-SA 4.0); example sentence pinyin generated with [pinyin-pro](https://github.com/zh-lx/pinyin-pro).
@@ -113,3 +160,4 @@ This repository merges two earlier projects: [eng-vocab-lens](https://github.com
 - 국립국어원 (National Institute of Korean Language): *국어의 로마자 표기법*, *표준 발음법*, *한국어 학습용 어휘 목록*.
 - The TOPIK I vocabulary list.
 - The *세종한국어* textbooks (King Sejong Institute) for topics and conversation patterns.
+- Grammar scope follows the beginner grammar of TOPIK I and 국립국어원's *한국어교육 문법* lists; explanations, examples and exercises were written separately.

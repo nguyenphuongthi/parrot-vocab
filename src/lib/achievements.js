@@ -5,6 +5,7 @@ import { useTable } from './store.js';
 import { reviewStats } from './srs.js';
 import { useSettings } from './settings.js';
 import { emitFx } from './events.js';
+import { isGrammarKey } from './langs.js';
 
 const SEEN_KEY = 'languages.badges.seen';
 export const JAMO_HEARD_KEY = 'languages.ui.jamoHeard';
@@ -28,9 +29,8 @@ export function learningCounts(words, items) {
   }
   for (const [k, v] of Object.entries(items)) {
     c.reviews += (v.reviewLog || []).length;
-    if (v.mark !== 2) continue;
+    if (v.mark !== 2 || isGrammarKey(k)) continue;
     if (k.startsWith('zh:')) {
-      if (k.startsWith('zh:g')) continue;
       c.zh++;
       if (k.startsWith('zh:1-')) c.hsk1++;
     } else if (k.startsWith('ko:')) {

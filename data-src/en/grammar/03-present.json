@@ -1,0 +1,149 @@
+{
+  "id": "present",
+  "name": "Thì hiện tại",
+  "intro": "Tiếng Anh chia động từ theo thời gian và theo việc hành động là thói quen hay đang diễn ra – điều tiếng Việt chỉ thể hiện bằng các từ như “thường”, “đang”.",
+  "points": [
+    {
+      "id": "present-simple",
+      "title": "Present simple",
+      "sub": "Thì hiện tại đơn",
+      "level": "A1",
+      "form": ["I / you / we / they + V · he / she / it + 【V-s / V-es】", "Phủ định: 【don't / doesn't】 + V", "Câu hỏi: 【Do / Does】 + S + V…?", "Chính tả: go → goes, watch → watches, study → studies, have → has"],
+      "uses": [
+        {
+          "vi": "Thói quen, việc lặp lại, lịch sinh hoạt; thường đi với always, usually, often, sometimes, never, every day.",
+          "ex": [
+            ["I 【get up】 at six every day.", "Ngày nào tôi cũng dậy lúc 6 giờ."],
+            ["She 【doesn't eat】 meat.", "Cô ấy không ăn thịt."],
+            ["How often 【do】 you 【go】 swimming?", "Bạn có hay đi bơi không?"]
+          ]
+        },
+        {
+          "vi": "Sự thật, chân lý, tình trạng lâu dài.",
+          "ex": [
+            ["Water 【boils】 at 100°C.", "Nước sôi ở 100 độ C."],
+            ["My brother 【works】 in a bank.", "Anh tôi làm ở ngân hàng."]
+          ]
+        },
+        {
+          "vi": "Lịch trình, thời gian biểu cố định (kể cả trong tương lai).",
+          "ex": [
+            ["The train 【leaves】 at 8:15 tomorrow.", "Tàu chạy lúc 8 giờ 15 sáng mai."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["He go to school by bike.", "He goes to school by bike.", "Ngôi thứ ba số ít thêm -s/-es."],
+        ["She doesn't likes coffee.", "She doesn't like coffee.", "Sau doesn't là động từ nguyên mẫu."],
+        ["Do she speak English?", "Does she speak English?", "Ngôi thứ ba số ít dùng does."]
+      ],
+      "practice": [
+        ["My father ___ (watch) the news every evening.", "watches"],
+        ["___ your sister live in Hue?", "Does"],
+        ["We ___ (not / work) on Sundays.", "don't work/do not work"]
+      ],
+      "see": ["present-continuous", "adverbs-frequency"]
+    },
+    {
+      "id": "present-continuous",
+      "title": "Present continuous",
+      "sub": "Thì hiện tại tiếp diễn",
+      "level": "A1",
+      "form": ["am / is / are + 【V-ing】", "Chính tả: make → making, run → running, lie → lying"],
+      "uses": [
+        {
+          "vi": "Việc đang xảy ra ngay lúc nói.",
+          "ex": [
+            ["Be quiet! The baby 【is sleeping】.", "Im lặng nào! Em bé đang ngủ."],
+            ["What 【are】 you 【doing】?", "Bạn đang làm gì đấy?"]
+          ]
+        },
+        {
+          "vi": "Việc tạm thời trong khoảng thời gian này (không nhất thiết đúng lúc nói), xu hướng đang thay đổi.",
+          "ex": [
+            ["I【'm reading】 a great book at the moment.", "Dạo này tôi đang đọc một cuốn sách rất hay."],
+            ["Prices 【are going up】.", "Giá cả đang tăng lên."]
+          ]
+        },
+        {
+          "vi": "Kế hoạch đã sắp xếp cho tương lai gần (xem thêm phần thì tương lai).",
+          "ex": [
+            ["We【're meeting】 Lan tonight.", "Tối nay bọn mình gặp Lan."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I am go to work now.", "I am going to work now.", "Cần cả to be và V-ing."],
+        ["She studying now.", "She is studying now.", "Không được bỏ to be."]
+      ],
+      "practice": [
+        ["Look! It ___ (rain).", "is raining/'s raining"],
+        ["They ___ (not / listen) to the teacher.", "aren't listening/are not listening"],
+        ["Why are you ___ (cry)?", "crying"]
+      ],
+      "see": ["present-simple-vs-continuous", "future-arrangements"]
+    },
+    {
+      "id": "present-simple-vs-continuous",
+      "title": "Present simple vs present continuous",
+      "sub": "Phân biệt hiện tại đơn và hiện tại tiếp diễn",
+      "level": "A2",
+      "form": ["Thói quen, lâu dài → 【present simple】", "Đang diễn ra, tạm thời → 【present continuous】"],
+      "uses": [
+        {
+          "vi": "So sánh từng cặp: việc thường làm với việc đang làm bây giờ; công việc lâu dài với tình huống tạm thời.",
+          "ex": [
+            ["I usually 【drink】 tea, but today I【'm drinking】 coffee.", "Tôi thường uống trà, nhưng hôm nay tôi đang uống cà phê."],
+            ["He 【lives】 in Hanoi, but he【's staying】 with his aunt in Saigon this month.", "Anh ấy sống ở Hà Nội, nhưng tháng này đang ở nhờ nhà dì ở Sài Gòn."],
+            ["What 【do】 you 【do】? — I'm a designer. What 【are】 you 【doing】? — I'm cooking.", "Bạn làm nghề gì? — Tôi là nhà thiết kế. Bạn đang làm gì? — Tôi đang nấu ăn."]
+          ]
+        }
+      ],
+      "notes": ["Dấu hiệu thường gặp – hiện tại đơn: always, usually, every…; hiện tại tiếp diễn: now, right now, at the moment, today, this week, Look!, Listen!"],
+      "mistakes": [
+        ["I am working here since 2020.", "I have worked / have been working here since 2020.", "Với since / for nói về khoảng thời gian kéo dài đến nay, dùng thì hoàn thành."]
+      ],
+      "practice": [
+        ["Water ___ (freeze) at 0°C.", "freezes"],
+        ["Shh! I ___ (talk) on the phone.", "am talking/'m talking"],
+        ["She usually walks to work, but today she ___ (take) a taxi.", "is taking/'s taking"]
+      ],
+      "see": ["stative-verbs"]
+    },
+    {
+      "id": "stative-verbs",
+      "title": "Stative verbs",
+      "sub": "Động từ chỉ trạng thái – thường không dùng dạng -ing",
+      "level": "B1",
+      "form": ["Cảm xúc: like, love, hate, want, prefer, need", "Suy nghĩ: know, believe, understand, remember, mean, think (= cho rằng)", "Sở hữu, giác quan: have (= có), own, belong, see, hear, smell, taste, seem, cost"],
+      "uses": [
+        {
+          "vi": "Động từ chỉ trạng thái (không phải hành động) thường giữ thì đơn, kể cả khi nói về lúc hiện tại.",
+          "ex": [
+            ["I 【know】 the answer.", "Tôi biết câu trả lời."],
+            ["This bag 【belongs】 to Mai.", "Cái túi này là của Mai."],
+            ["Do you 【understand】?", "Bạn hiểu không?"]
+          ]
+        },
+        {
+          "vi": "Một số động từ có cả nghĩa trạng thái và nghĩa hành động; nghĩa hành động thì dùng được -ing.",
+          "ex": [
+            ["I 【think】 it's a good idea. / I【'm thinking】 about my plans.", "Tôi cho rằng đó là ý hay. / Tôi đang suy nghĩ về kế hoạch."],
+            ["She 【has】 a car. / She【's having】 lunch.", "Cô ấy có xe hơi. / Cô ấy đang ăn trưa."],
+            ["The soup 【tastes】 good. / He【's tasting】 the soup.", "Súp có vị ngon. / Anh ấy đang nếm súp."]
+          ]
+        }
+      ],
+      "notes": ["Trong quảng cáo và văn nói thân mật đôi khi gặp I'm loving it – đây là cách dùng nhấn mạnh, không phải chuẩn."],
+      "mistakes": [
+        ["I am knowing him for years.", "I have known him for years.", "Know là động từ trạng thái."],
+        ["Are you understanding?", "Do you understand?", "Understand không dùng -ing."]
+      ],
+      "practice": [
+        ["I ___ (need) your help right now.", "need"],
+        ["What are you ___ (think) about? You look worried.", "thinking"],
+        ["This coat ___ (belong) to my father.", "belongs"]
+      ]
+    }
+  ]
+}

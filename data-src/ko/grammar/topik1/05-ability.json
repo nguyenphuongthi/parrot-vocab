@@ -1,0 +1,108 @@
+{
+  "id": "k1-ability",
+  "name": "Khả năng, nghĩa vụ, cho phép",
+  "points": [
+    {
+      "id": "l-su-itda",
+      "title": "V-(으)ㄹ 수 있다 / 없다",
+      "sub": "Có thể / không thể",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ + 【ㄹ 수 있어요】 · Có patchim + 【을 수 있어요】"],
+      "uses": [
+        {
+          "vi": "Khả năng hoặc khả năng xảy ra (hoàn cảnh cho phép).",
+          "ex": [
+            ["저는 한국 노래를 부【를 수 있어요】.", "Tôi có thể hát bài hát Hàn Quốc."],
+            ["오늘은 바빠서 만【날 수 없어요】.", "Hôm nay bận nên không gặp được."],
+            ["여기에서 사진을 찍【을 수 있어요】?", "Ở đây chụp ảnh được không?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["매운 음식을 먹___ 수 있어요?", "을"],
+        ["내일 ___ 수 없어요. (오다)", "올"]
+      ],
+      "see": ["l-jul-alda"]
+    },
+    {
+      "id": "l-jul-alda",
+      "title": "V-(으)ㄹ 줄 알다 / 모르다",
+      "sub": "Biết / không biết (cách làm, kỹ năng)",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ + 【ㄹ 줄 알아요】 · Có patchim + 【을 줄 알아요】"],
+      "uses": [
+        {
+          "vi": "Kỹ năng đã học được (biết bơi, biết lái xe…).",
+          "ex": [
+            ["운전【할 줄 알아요】?", "Bạn biết lái xe không?"],
+            ["저는 김치를 만【들 줄 몰라요】.", "Tôi không biết làm kim chi."]
+          ]
+        }
+      ],
+      "practice": [
+        ["수영___ 줄 알아요? (하다)", "할"]
+      ]
+    },
+    {
+      "id": "aya-hada",
+      "title": "V/A-아야 / 어야 하다 (되다)",
+      "sub": "Phải …",
+      "level": 1,
+      "form": ["ㅏ, ㅗ + 【아야 해요】 · khác + 【어야 해요】 · 하다 → 【해야 해요】", "하다 có thể thay bằng 되다 (văn nói)"],
+      "uses": [
+        {
+          "vi": "Nghĩa vụ, điều cần thiết.",
+          "ex": [
+            ["내일 일찍 일어나【야 해요】.", "Mai tôi phải dậy sớm."],
+            ["숙제를 【해야 돼요】.", "Tôi phải làm bài tập."],
+            ["여권이 있【어야 해요】.", "Phải có hộ chiếu."]
+          ]
+        }
+      ],
+      "practice": [
+        ["약을 먹___ 해요.", "어야"],
+        ["오늘까지 보고서를 ___ 해요. (쓰다)", "써야"]
+      ]
+    },
+    {
+      "id": "ado-doeda",
+      "title": "V-아도 / 어도 되다",
+      "sub": "… cũng được (cho phép)",
+      "level": 1,
+      "form": ["ㅏ, ㅗ + 【아도 돼요】 · khác + 【어도 돼요】 · 하다 → 【해도 돼요】"],
+      "uses": [
+        {
+          "vi": "Xin phép hoặc cho phép.",
+          "ex": [
+            ["창문을 열【어도 돼요】?", "Tôi mở cửa sổ được không?"],
+            ["네, 들어와【도 돼요】.", "Vâng, vào đi."],
+            ["여기 앉【아도 돼요】?", "Tôi ngồi đây được không?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["화장실을 사용___ 돼요? (하다)", "해도"]
+      ],
+      "see": ["eumyeon-an-doeda"]
+    },
+    {
+      "id": "eumyeon-an-doeda",
+      "title": "V-(으)면 안 되다",
+      "sub": "Không được … (cấm)",
+      "level": 1,
+      "form": ["Không patchim / patchim ㄹ + 【면 안 돼요】 · Có patchim + 【으면 안 돼요】"],
+      "uses": [
+        {
+          "vi": "Điều bị cấm, không được phép.",
+          "ex": [
+            ["여기에서 담배를 피우【면 안 돼요】.", "Không được hút thuốc ở đây."],
+            ["수업 시간에 자【면 안 돼요】.", "Không được ngủ trong giờ học."]
+          ]
+        }
+      ],
+      "practice": [
+        ["박물관에서 음식을 먹___ 안 돼요.", "으면"]
+      ]
+    }
+  ]
+}
