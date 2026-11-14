@@ -312,8 +312,63 @@
         ["They love themselves. (ý: yêu nhau)", "They love each other.", "Themselves = mỗi người tự yêu bản thân."]
       ],
       "practice": [
-        ["My brother and I don't talk to ___ much.", "each other/one another"]
+        ["My brother and I don't talk to ___ much.", "each other/one another"],
+        ["The two teams respected ___ other.", "each"]
       ]
+    },
+    {
+      "id": "would-like",
+      "title": "Would like / want",
+      "sub": "Muốn (lịch sự) – mời, gọi món, đề nghị",
+      "level": "A1",
+      "form": ["S + 【would like】 ('d like) + danh từ / to V", "Câu hỏi mời: 【Would you like】 + danh từ / to V…?", "So sánh: like + V-ing = thích (thói quen) · would like + to V = muốn (lúc này)"],
+      "uses": [
+        {
+          "vi": "Cách nói “muốn” lịch sự hơn want, dùng khi gọi món, mua hàng, mời ai đó.",
+          "ex": [
+            ["I【'd like】 a coffee, please.", "Cho tôi một ly cà phê."],
+            ["【Would you like】 to come to my party?", "Bạn có muốn đến dự tiệc của tôi không?"],
+            ["She【'd like】 to work abroad one day.", "Cô ấy muốn một ngày nào đó được làm việc ở nước ngoài."]
+          ]
+        }
+      ],
+      "notes": ["Trả lời lời mời: Yes, please. / I'd love to. / I'm afraid I can't."],
+      "mistakes": [
+        ["I would like go home.", "I would like to go home.", "Would like + to V."],
+        ["Do you like a drink? (ý: mời)", "Would you like a drink?", "Mời dùng would you like; do you like = có thích không (nói chung)."]
+      ],
+      "practice": [
+        ["___ you like some more tea?", "Would"],
+        ["I'd like ___ book a table for two.", "to"]
+      ],
+      "see": ["like-ing", "invitations"]
+    },
+    {
+      "id": "dummy-it",
+      "title": "It for time, weather, distance",
+      "sub": "It làm chủ ngữ giả: It's 5 o'clock, It's raining",
+      "level": "A1",
+      "form": ["【It is / It's】 + thời gian, ngày, thời tiết, nhiệt độ, khoảng cách", "【It takes】 + (người) + thời gian + to V"],
+      "uses": [
+        {
+          "vi": "Tiếng Anh luôn cần chủ ngữ, nên dùng it khi không có chủ ngữ thật (tiếng Việt chỉ nói “mưa rồi”, “5 giờ rồi”).",
+          "ex": [
+            ["【It's】 half past seven.", "Bảy rưỡi rồi."],
+            ["【It's】 very hot today.", "Hôm nay nóng quá."],
+            ["【It's】 about 10 km from here to the airport.", "Từ đây đến sân bay khoảng 10 km."],
+            ["【It takes】 me 30 minutes to get to work.", "Tôi mất 30 phút để đi làm."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Is raining.", "It's raining.", "Không được bỏ chủ ngữ it."],
+        ["It has 30 minutes to get there.", "It takes 30 minutes to get there.", "Thời gian cần để làm gì dùng it takes."]
+      ],
+      "practice": [
+        ["___ cold this morning.", "It's/It is"],
+        ["How long does ___ take to fly to Tokyo?", "it"]
+      ],
+      "see": ["it-adjective-to"]
     }
   ]
 }

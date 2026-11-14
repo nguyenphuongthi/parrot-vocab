@@ -48,6 +48,9 @@
       "practice": [
         ["It ___ in 2010 that we first met.", "was"],
         ["___ I love about this city is the food.", "What"]
+      ],
+      "mistakes": [
+        ["It was my sister that she called you.", "It was my sister that/who called you.", "Không lặp lại chủ ngữ sau that."]
       ]
     },
     {
@@ -67,7 +70,11 @@
         }
       ],
       "practice": [
-        ["You think I didn't call him, but I ___ call him!", "did"]
+        ["You think I didn't call him, but I ___ call him!", "did"],
+        ["I know you don't believe me, but I ___ love you! (nhấn mạnh – hiện tại)", "do"]
+      ],
+      "mistakes": [
+        ["She did went to the meeting.", "She did go to the meeting.", "Sau trợ động từ nhấn mạnh dùng V nguyên mẫu."]
       ]
     },
     {
@@ -174,7 +181,11 @@
         }
       ],
       "practice": [
-        ["The population grew → The ___ of the population (danh từ)", "growth"]
+        ["The population grew → The ___ of the population (danh từ)", "growth"],
+        ["The company decided to close → The company's ___ to close (danh từ)", "decision"]
+      ],
+      "mistakes": [
+        ["The increasing of prices is a problem.", "The increase in prices is a problem.", "Dùng danh từ increase + in."]
       ]
     },
     {
@@ -188,14 +199,19 @@
           "vi": "Đưa so / such lên đầu để nhấn mạnh mức độ, văn phong trang trọng hoặc văn chương.",
           "ex": [
             ["【So tired was she】 that she fell asleep at her desk.", "Cô ấy mệt đến nỗi ngủ gục trên bàn."],
-            ["【Such was】 the demand 【that】 the tickets sold out in minutes.", "Nhu cầu lớn đến mức vé bán hết trong vài phút."]
+            ["【Such was】 the demand 【that】 the tickets sold out in minutes.", "Nhu cầu lớn đến mức vé bán hết trong vài phút."],
+            ["【So beautiful was】 the view 【that】 we forgot to take photos.", "Cảnh đẹp đến mức chúng tôi quên cả chụp ảnh."]
           ]
         }
       ],
       "practice": [
-        ["So loud ___ the music that we couldn't talk.", "was"]
+        ["So loud ___ the music that we couldn't talk.", "was"],
+        ["Such ___ his anger that nobody dared to speak.", "was"]
       ],
-      "see": ["inversion", "so-such"]
+      "see": ["inversion", "so-such"],
+      "mistakes": [
+        ["So tired she was that she fell asleep.", "So tired was she that she fell asleep.", "Đảo trợ động từ / be lên trước chủ ngữ."]
+      ]
     },
     {
       "id": "hedging",
@@ -214,7 +230,83 @@
         }
       ],
       "practice": [
-        ["Older people ___ to prefer printed newspapers. (có xu hướng)", "tend"]
+        ["Older people ___ to prefer printed newspapers. (có xu hướng)", "tend"],
+        ["It could be ___ that social media does more harm than good.", "argued"]
+      ],
+      "mistakes": [
+        ["Technology always makes people lazy. (bài luận)", "Technology can make people lazy. / Technology tends to make people lazy.", "Tránh khẳng định tuyệt đối khi chưa có bằng chứng."]
+      ]
+    },
+    {
+      "id": "fronting",
+      "title": "Fronting",
+      "sub": "Đưa thành phần lên đầu câu để nhấn mạnh",
+      "level": "C1",
+      "form": ["Tân ngữ / bổ ngữ lên đầu: 【That】 I can't accept.", "Trạng ngữ nơi chốn + động từ + chủ ngữ: 【On the hill】 stood an old castle.", "Tính từ / phân từ: 【Gone】 are the days when…"],
+      "uses": [
+        {
+          "vi": "Tạo nhấn mạnh, tương phản hoặc liên kết với câu trước; hay gặp trong văn viết, văn chương và cả văn nói.",
+          "ex": [
+            ["Some of the ideas were good. 【The rest】 I found boring.", "Một số ý tưởng hay. Phần còn lại tôi thấy nhàm."],
+            ["【At the end of the road】 stood a small temple.", "Ở cuối con đường có một ngôi chùa nhỏ."],
+            ["【Gone】 are the days when we wrote letters by hand.", "Đã qua rồi cái thời chúng ta viết thư tay."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["On the hill an old castle stood it.", "On the hill stood an old castle.", "Không thêm đại từ thừa; đảo động từ trước chủ ngữ."]
+      ],
+      "practice": [
+        ["Into the room ___ the teacher. (walk – quá khứ, đảo ngữ)", "walked"],
+        ["Gone ___ the days of cheap petrol.", "are"]
+      ]
+    },
+    {
+      "id": "the-fact-that",
+      "title": "The fact that / given that / in view of",
+      "sub": "Việc rằng, xét thấy rằng",
+      "level": "C1",
+      "form": ["【The fact that】 + mệnh đề (làm chủ ngữ / sau giới từ)", "despite / due to + 【the fact that】 + mệnh đề", "【Given (that) / In view of】 + mệnh đề / danh từ"],
+      "uses": [
+        {
+          "vi": "Biến một mệnh đề thành cụm danh từ để đặt sau giới từ hoặc làm chủ ngữ – văn trang trọng.",
+          "ex": [
+            ["【The fact that】 he lied surprised everyone.", "Việc anh ta nói dối khiến mọi người bất ngờ."],
+            ["Despite 【the fact that】 it was raining, we went out.", "Mặc dù trời mưa, chúng tôi vẫn ra ngoài."],
+            ["【Given that】 time is short, let's focus on the main points.", "Xét thấy thời gian ngắn, hãy tập trung vào ý chính."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Despite it was raining…", "Despite the fact that it was raining…", "Sau despite cần danh từ hoặc the fact that."]
+      ],
+      "practice": [
+        ["In spite of the ___ that she was tired, she kept working.", "fact"],
+        ["___ that he's new, he's doing very well. (xét thấy)", "Given"]
+      ]
+    },
+    {
+      "id": "absolute-clauses",
+      "title": "Absolute clauses: Weather permitting, …",
+      "sub": "Cụm độc lập (có chủ ngữ riêng)",
+      "level": "C1",
+      "form": ["Danh từ + 【V-ing / V3 / tính từ / cụm giới từ】, + mệnh đề chính", "Cụm cố định: weather permitting, all things considered, other things being equal"],
+      "uses": [
+        {
+          "vi": "Thêm hoàn cảnh, nguyên nhân với chủ ngữ khác chủ ngữ câu chính – văn viết trang trọng.",
+          "ex": [
+            ["【Weather permitting】, we'll have the party outside.", "Nếu thời tiết cho phép, chúng ta sẽ tổ chức tiệc ngoài trời."],
+            ["【The work finished】, everyone went home.", "Công việc xong xuôi, mọi người về nhà."],
+            ["She sat by the window, 【her eyes full of tears】.", "Cô ngồi bên cửa sổ, mắt đẫm lệ."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["The meeting was over, everyone left.", "The meeting over, everyone left. / When the meeting was over, everyone left.", "Hai mệnh đề đầy đủ cần liên từ; cụm độc lập bỏ động từ to be."]
+      ],
+      "practice": [
+        ["All things ___, it was a successful year. (consider)", "considered"],
+        ["___ permitting, the flight will leave on time. (thời tiết)", "Weather"]
       ]
     }
   ]

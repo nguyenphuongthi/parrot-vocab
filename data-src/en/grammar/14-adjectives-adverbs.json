@@ -25,7 +25,8 @@
         ["a car red", "a red car", "Tính từ đứng trước danh từ."]
       ],
       "practice": [
-        ["She has ___ hair. (long / black – đúng thứ tự)", "long black"]
+        ["She has ___ hair. (long / black – đúng thứ tự)", "long black"],
+        ["We stayed in a ___ hotel. (old / lovely – đúng thứ tự)", "lovely old"]
       ]
     },
     {
@@ -101,7 +102,8 @@
         ["He never is late.", "He is never late.", "Đứng sau to be."]
       ],
       "practice": [
-        ["She ___ drinks coffee. She hates it. (không bao giờ)", "never"]
+        ["She ___ drinks coffee. She hates it. (không bao giờ)", "never"],
+        ["I am ___ late for work. (hiếm khi)", "rarely/seldom"]
       ]
     },
     {
@@ -124,7 +126,8 @@
         ["It was very delicious.", "It was absolutely delicious / really delicious.", "Delicious đã mang nghĩa mạnh; very delicious nghe không tự nhiên với nhiều người bản xứ."]
       ],
       "practice": [
-        ["It's ___ freezing outside! (absolutely/very)", "absolutely"]
+        ["It's ___ freezing outside! (absolutely/very)", "absolutely"],
+        ["The film was ___ good, but not great. (khá)", "quite/pretty/fairly"]
       ]
     },
     {
@@ -199,6 +202,9 @@
       "practice": [
         ["She isn't as old ___ she looks.", "as"],
         ["Run as fast ___ you can!", "as"]
+      ],
+      "mistakes": [
+        ["She is as tall than her brother.", "She is as tall as her brother.", "So sánh bằng: as … as."]
       ]
     },
     {
@@ -218,7 +224,11 @@
         }
       ],
       "practice": [
-        ["The ___ (hard) you work, the more you earn.", "harder"]
+        ["The ___ (hard) you work, the more you earn.", "harder"],
+        ["The ___ (soon) we start, the sooner we'll finish.", "sooner"]
+      ],
+      "mistakes": [
+        ["The more you eat, more you get fat.", "The more you eat, the fatter you get.", "Cả hai vế đều cần the + so sánh hơn."]
       ]
     },
     {
@@ -288,6 +298,185 @@
       "practice": [
         ["She is ___ far the most talented student in the class.", "by"],
         ["The second test was ___ near as difficult as the first.", "nowhere"]
+      ],
+      "mistakes": [
+        ["This is very better.", "This is much / far better.", "Không dùng very với so sánh hơn."]
+      ]
+    },
+    {
+      "id": "comparative-adverbs",
+      "title": "Comparative & superlative adverbs",
+      "sub": "So sánh của trạng từ: faster, more carefully",
+      "level": "A2",
+      "form": ["Trạng từ một âm tiết: + 【-er / -est】 (fast → faster, hard → harder)", "Trạng từ -ly: 【more / most】 + adv (more carefully)", "Bất quy tắc: well → 【better / best】 · badly → 【worse / worst】 · far → further"],
+      "uses": [
+        {
+          "vi": "So sánh cách làm một việc (bổ nghĩa cho động từ).",
+          "ex": [
+            ["Could you speak 【more slowly】, please?", "Bạn nói chậm hơn được không?"],
+            ["She runs 【faster】 than her brother.", "Cô ấy chạy nhanh hơn anh trai."],
+            ["Who sings 【best】 in your family?", "Trong nhà bạn ai hát hay nhất?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["He drives more careful than me.", "He drives more carefully than me.", "Bổ nghĩa động từ cần trạng từ."],
+        ["She speaks English more well now.", "She speaks English better now.", "Well → better."]
+      ],
+      "practice": [
+        ["Please drive ___ (slow) – the road is wet.", "more slowly"],
+        ["He plays the guitar ___ (good) than I do.", "better"]
+      ]
+    },
+    {
+      "id": "less-least",
+      "title": "Less / least / fewer",
+      "sub": "Ít hơn, ít nhất",
+      "level": "B1",
+      "form": ["【less / the least】 + tính từ / trạng từ (less expensive)", "【less】 + danh từ không đếm được · 【fewer】 + danh từ đếm được số nhiều"],
+      "uses": [
+        {
+          "vi": "So sánh theo chiều ngược lại (kém hơn, ít hơn).",
+          "ex": [
+            ["This phone is 【less expensive】 than that one.", "Điện thoại này rẻ hơn (ít đắt hơn) cái kia."],
+            ["It's 【the least interesting】 film I've seen this year.", "Đó là bộ phim kém thú vị nhất tôi xem năm nay."],
+            ["I want to spend 【less】 time on my phone and make 【fewer】 mistakes.", "Tôi muốn dùng điện thoại ít hơn và mắc ít lỗi hơn."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["There were less people than last year.", "There were fewer people than last year.", "Danh từ đếm được dùng fewer (văn chuẩn)."]
+      ],
+      "practice": [
+        ["I'm trying to eat ___ sugar.", "less"],
+        ["Fewer students failed this year, and ___ cars are on the road. (ít hơn – đếm được)", "fewer"]
+      ]
+    },
+    {
+      "id": "same-similar-different",
+      "title": "The same as / similar to / different from / like / alike",
+      "sub": "Giống, tương tự, khác",
+      "level": "B1",
+      "form": ["the same (+ N) 【as】 · similar 【to】 · different 【from】 (Anh–Mỹ: than)", "look / sound / taste 【like】 + N · A and B are 【alike】 (cuối câu)"],
+      "uses": [
+        {
+          "vi": "Mỗi tính từ đi với một giới từ cố định.",
+          "ex": [
+            ["My phone is 【the same as】 yours.", "Điện thoại của tôi giống của bạn."],
+            ["Vietnamese food is 【different from】 Thai food.", "Món Việt khác món Thái."],
+            ["You 【look like】 your mother. / You and your mother are very 【alike】.", "Bạn trông giống mẹ. / Bạn và mẹ rất giống nhau."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["My bag is same like yours.", "My bag is the same as yours.", "The same as."],
+        ["Her style is similar with mine.", "Her style is similar to mine.", "Similar to."]
+      ],
+      "practice": [
+        ["Your answer is different ___ mine.", "from"],
+        ["This tastes ___ chicken. (giống)", "like"]
+      ]
+    },
+    {
+      "id": "like-as",
+      "title": "Like vs as",
+      "sub": "Giống như (so sánh) vs với tư cách là / như (sự thật)",
+      "level": "B1",
+      "form": ["【like】 + danh từ / đại từ = giống như (so sánh)", "【as】 + danh từ = với vai trò là (sự thật) · 【as】 + mệnh đề = như (cách)"],
+      "uses": [
+        {
+          "vi": "Like so sánh với cái khác; as nói về vai trò thật hoặc đi với một mệnh đề.",
+          "ex": [
+            ["She works 【as】 a nurse. (cô ấy là y tá)", "Cô ấy làm y tá."],
+            ["He sings 【like】 a professional. (nhưng không phải ca sĩ)", "Anh ấy hát như ca sĩ chuyên nghiệp."],
+            ["Do it 【as】 I showed you.", "Làm như tôi đã chỉ."],
+            ["【As】 you know, the meeting is on Monday.", "Như bạn đã biết, cuộc họp diễn ra vào thứ Hai."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["She works like a teacher. (ý: cô ấy là giáo viên)", "She works as a teacher.", "Vai trò, nghề nghiệp thật dùng as."]
+      ],
+      "practice": [
+        ["I used my coat ___ a blanket. (dùng làm)", "as"],
+        ["It looks ___ it's going to rain. (văn nói – giống như)", "like/as if"]
+      ]
+    },
+    {
+      "id": "adverb-position",
+      "title": "Position of adverbs: also, only, even, still, already",
+      "sub": "Vị trí trạng từ trong câu",
+      "level": "B1",
+      "form": ["Giữa câu: 【trước động từ thường】, 【sau to be / trợ động từ đầu tiên】 (also, already, still, just, even, only, never)", "Cuối câu: cách thức → nơi chốn → thời gian (She sang beautifully at the concert last night)", "Đầu câu: trạng từ bình luận (Fortunately, Actually, Unfortunately)"],
+      "uses": [
+        {
+          "vi": "Đặt trạng từ sai vị trí làm câu sai hoặc đổi nghĩa (nhất là only, even).",
+          "ex": [
+            ["I have 【already】 finished. / She is 【still】 asleep.", "Tôi xong rồi. / Cô ấy vẫn đang ngủ."],
+            ["We 【also】 visited Hue.", "Chúng tôi cũng đã đến Huế."],
+            ["He worked 【hard】 【in the office】 【all day】.", "Anh ấy làm việc chăm chỉ ở văn phòng cả ngày."],
+            ["【Fortunately】, nobody was hurt.", "May mắn là không ai bị thương."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I like also coffee.", "I also like coffee.", "Also đứng trước động từ thường."],
+        ["She speaks very well English.", "She speaks English very well.", "Trạng từ không chen giữa động từ và tân ngữ."]
+      ],
+      "practice": [
+        ["I have ___ seen that film. (đã – vị trí sau have)", "already"],
+        ["We ___ went to the beach. (cũng)", "also"]
+      ]
+    },
+    {
+      "id": "hardly-barely",
+      "title": "Hardly / barely / scarcely",
+      "sub": "Hầu như không (trạng từ mang nghĩa phủ định)",
+      "level": "C1",
+      "form": ["hardly / barely / scarcely + 【any / ever / anyone】 (không thêm not)", "hardly + can / could: I could hardly hear", "Đầu câu (trang trọng): Hardly had … when … (xem đảo ngữ)"],
+      "uses": [
+        {
+          "vi": "Mang sẵn nghĩa phủ định nên không dùng thêm not; đi với any / ever chứ không dùng some / always.",
+          "ex": [
+            ["I 【hardly】 know him.", "Tôi gần như không quen anh ta."],
+            ["There's 【hardly any】 milk left.", "Hầu như chẳng còn chút sữa nào."],
+            ["She 【barely】 slept last night.", "Tối qua cô ấy gần như không ngủ."],
+            ["We 【hardly ever】 go out these days.", "Dạo này chúng tôi hầu như không bao giờ ra ngoài."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I can't hardly hear you.", "I can hardly hear you.", "Hardly đã phủ định."],
+        ["He works hardly. (ý: chăm chỉ)", "He works hard.", "Hardly ≠ hard (chăm chỉ)."]
+      ],
+      "practice": [
+        ["There were ___ any people at the party. (hầu như không)", "hardly/barely/scarcely"],
+        ["I hardly ___ eat meat. (hầu như không bao giờ)", "ever"]
+      ],
+      "see": ["inversion"]
+    },
+    {
+      "id": "adjectives-ly",
+      "title": "Adjectives ending in -ly: friendly, lovely, likely",
+      "sub": "Tính từ tận cùng -ly (không phải trạng từ)",
+      "level": "B1",
+      "form": ["friendly · lovely · lonely · likely · silly · ugly · elderly · costly", "Không có trạng từ -lily → dùng 【in a … way / manner】"],
+      "uses": [
+        {
+          "vi": "Những từ này là tính từ dù có đuôi -ly; muốn bổ nghĩa cho động từ phải dùng cụm in a … way.",
+          "ex": [
+            ["The staff are very 【friendly】.", "Nhân viên rất thân thiện."],
+            ["She smiled at me 【in a friendly way】.", "Cô ấy mỉm cười với tôi một cách thân thiện."],
+            ["It's 【likely】 to rain later.", "Có khả năng lát nữa trời mưa."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["He spoke to me friendly.", "He spoke to me in a friendly way.", "Friendly là tính từ."]
+      ],
+      "practice": [
+        ["She felt ___ after moving to a new city. (cô đơn)", "lonely"],
+        ["He answered in a ___ way. (silly)", "silly"]
       ]
     }
   ]

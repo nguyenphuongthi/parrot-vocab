@@ -51,6 +51,9 @@
         ["There's a picture ___ the wall.", "on"],
         ["I'm waiting ___ the bus stop.", "at"],
         ["They live ___ a small village.", "in"]
+      ],
+      "mistakes": [
+        ["I live in Nguyen Hue Street.", "I live on Nguyen Hue Street.", "Tên đường dùng on."]
       ]
     },
     {
@@ -74,7 +77,8 @@
         ["I went to home.", "I went home.", "Home, there, here không dùng to."]
       ],
       "practice": [
-        ["She got ___ the taxi and paid the driver. (ra khỏi)", "out of"]
+        ["She got ___ the taxi and paid the driver. (ra khỏi)", "out of"],
+        ["The children ran ___ the road without looking. (băng qua)", "across"]
       ]
     },
     {
@@ -133,6 +137,104 @@
         ["Who is responsible ___ this project?", "for"],
         ["My opinion is different ___ yours.", "from"],
         ["I agree ___ you.", "with"]
+      ]
+    },
+    {
+      "id": "in-on-time",
+      "title": "In time vs on time · at the end vs in the end",
+      "sub": "Kịp lúc / đúng giờ · cuối (một thứ) / cuối cùng thì",
+      "level": "B1",
+      "form": ["【on time】 = đúng giờ (theo lịch) · 【in time】 (for / to V) = kịp, không muộn", "【at the end (of)】 = ở cuối · 【in the end】 = rốt cuộc, cuối cùng"],
+      "uses": [
+        {
+          "vi": "Các cặp dễ nhầm vì chỉ khác giới từ.",
+          "ex": [
+            ["The train left 【on time】.", "Tàu chạy đúng giờ."],
+            ["We arrived 【in time】 to see the start.", "Chúng tôi đến kịp lúc phim bắt đầu."],
+            ["Pay 【at the end of】 the month. / 【In the end】, we stayed home.", "Thanh toán vào cuối tháng. / Rốt cuộc chúng tôi ở nhà."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["In the end of the film, they get married.", "At the end of the film, they get married.", "Cuối một sự việc cụ thể dùng at the end of."]
+      ],
+      "practice": [
+        ["Please be ___ time for the meeting. (đúng giờ)", "on"],
+        ["___ the end, we decided not to go. (rốt cuộc)", "In"]
+      ]
+    },
+    {
+      "id": "between-among",
+      "title": "Between / among",
+      "sub": "Giữa (hai hoặc nhiều đối tượng riêng biệt) / giữa (một nhóm)",
+      "level": "B1",
+      "form": ["【between】 A and B · between + các đối tượng xác định riêng rẽ", "【among】 + một nhóm, đám đông (không tách riêng từng cái)"],
+      "uses": [
+        {
+          "vi": "Between khi nhìn từng đối tượng riêng; among khi ở trong một tập thể.",
+          "ex": [
+            ["The bank is 【between】 the café and the pharmacy.", "Ngân hàng ở giữa quán cà phê và hiệu thuốc."],
+            ["She was sitting 【among】 her friends.", "Cô ấy đang ngồi giữa đám bạn."],
+            ["Divide the cake 【between】 the three children.", "Chia bánh cho ba đứa trẻ."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Between you and I, …", "Between you and me, …", "Sau giới từ dùng đại từ tân ngữ."]
+      ],
+      "practice": [
+        ["The house is hidden ___ the trees. (giữa rừng cây)", "among"],
+        ["What's the difference ___ these two words?", "between"]
+      ]
+    },
+    {
+      "id": "by-with",
+      "title": "By / with / on (means & instruments)",
+      "sub": "Bằng (phương tiện, công cụ)",
+      "level": "A2",
+      "form": ["【by】 + phương tiện (không mạo từ): by car, by email, by credit card", "【with】 + công cụ, dụng cụ: with a knife, with a pen", "【on】 foot · in my car (có từ hạn định)"],
+      "uses": [
+        {
+          "vi": "Chọn giới từ theo phương tiện di chuyển / liên lạc hay công cụ cầm trong tay.",
+          "ex": [
+            ["I go to work 【by】 bus.", "Tôi đi làm bằng xe buýt."],
+            ["She cut the bread 【with】 a knife.", "Cô ấy cắt bánh mì bằng dao."],
+            ["We went there 【on】 foot.", "Chúng tôi đi bộ đến đó."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I go to school by my bike.", "I go to school by bike / on my bike.", "By + phương tiện không có mạo từ / sở hữu."],
+        ["I came by foot.", "I came on foot.", "Đi bộ là on foot."]
+      ],
+      "practice": [
+        ["Can I pay ___ card?", "by"],
+        ["He opened the box ___ a key.", "with"]
+      ]
+    },
+    {
+      "id": "ago-before",
+      "title": "Ago / before / later / after",
+      "sub": "Cách đây / trước đó / sau đó",
+      "level": "A2",
+      "form": ["khoảng thời gian + 【ago】 (tính từ bây giờ, dùng quá khứ đơn)", "khoảng thời gian + 【before / earlier】 (tính từ một mốc quá khứ)", "khoảng thời gian + 【later】 · 【after】 + danh từ / mệnh đề"],
+      "uses": [
+        {
+          "vi": "Ago chỉ tính từ hiện tại; kể chuyện trong quá khứ thì dùng before / later.",
+          "ex": [
+            ["I met her three years 【ago】.", "Tôi gặp cô ấy cách đây ba năm."],
+            ["When I visited, he had left two days 【before】.", "Khi tôi đến thăm, anh ấy đã đi từ hai ngày trước đó."],
+            ["Two weeks 【later】, they got married.", "Hai tuần sau, họ cưới nhau."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I came here before two years.", "I came here two years ago.", "Ago đứng sau khoảng thời gian."],
+        ["I have seen him a week ago.", "I saw him a week ago.", "Ago đi với quá khứ đơn."]
+      ],
+      "practice": [
+        ["We moved here five years ___.", "ago"],
+        ["She left at 6, and he arrived an hour ___.", "later"]
       ]
     }
   ]

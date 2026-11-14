@@ -159,7 +159,8 @@
           "vi": "Khi kể chuyện, hồi tưởng về những việc thường làm ngày xưa (giống used to), nhưng chỉ dùng cho hành động, không dùng cho trạng thái.",
           "ex": [
             ["Every summer we 【would】 go to my grandparents' village.", "Mùa hè nào chúng tôi cũng về quê ông bà."],
-            ["My dad 【would】 read to us before bed.", "Bố tôi thường đọc truyện cho chúng tôi trước khi ngủ."]
+            ["My dad 【would】 read to us before bed.", "Bố tôi thường đọc truyện cho chúng tôi trước khi ngủ."],
+            ["On Sundays, Grandma 【would】 make phở for the whole family.", "Chủ nhật nào bà cũng nấu phở cho cả nhà."]
           ]
         }
       ],
@@ -208,7 +209,8 @@
           "vi": "Việc kéo dài liên tục đến một thời điểm trong quá khứ, thường nhấn mạnh thời lượng hoặc giải thích kết quả nhìn thấy lúc đó.",
           "ex": [
             ["We 【had been waiting】 for an hour when the bus finally came.", "Chúng tôi đã đợi cả tiếng thì xe buýt mới đến."],
-            ["His eyes were red because he 【had been crying】.", "Mắt cậu ấy đỏ vì đã khóc."]
+            ["His eyes were red because he 【had been crying】.", "Mắt cậu ấy đỏ vì đã khóc."],
+            ["They 【had been dating】 for five years before they got married.", "Họ đã hẹn hò năm năm trước khi cưới."]
           ]
         }
       ],
@@ -216,7 +218,33 @@
         ["She had been knowing him for years.", "She had known him for years.", "Động từ trạng thái không dùng dạng tiếp diễn."]
       ],
       "practice": [
-        ["I was exhausted because I ___ (work) all day.", "had been working"]
+        ["I was exhausted because I ___ (work) all day.", "had been working"],
+        ["The ground was wet because it ___ (rain) all night.", "had been raining"]
+      ]
+    },
+    {
+      "id": "narrative-tenses",
+      "title": "Narrative tenses",
+      "sub": "Phối hợp các thì quá khứ khi kể chuyện",
+      "level": "B1",
+      "form": ["Bối cảnh: 【past continuous】 · Sự việc chính: 【past simple】", "Việc xảy ra trước đó: 【past perfect】 · Kéo dài trước đó: 【past perfect continuous】"],
+      "uses": [
+        {
+          "vi": "Kể chuyện mạch lạc: dựng bối cảnh, nêu chuỗi sự việc, quay lại việc xảy ra trước đó.",
+          "ex": [
+            ["It 【was raining】 and I 【was waiting】 for the bus.", "Trời đang mưa và tôi đang đợi xe buýt."],
+            ["Suddenly, a man 【ran】 past and 【grabbed】 my bag.", "Bỗng một người đàn ông chạy qua và giật túi của tôi."],
+            ["I 【had】 just 【withdrawn】 some money, so I 【was】 really upset.", "Tôi vừa mới rút tiền nên rất bực mình."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["When I arrived, everyone already left.", "When I arrived, everyone had already left.", "Việc xảy ra trước một mốc quá khứ dùng quá khứ hoàn thành."]
+      ],
+      "practice": [
+        ["While I ___ (cook), the lights went out.", "was cooking"],
+        ["She was tired because she ___ (not / sleep) well.", "hadn't slept/had not slept"],
+        ["We ___ (arrive) at the station and bought tickets.", "arrived"]
       ]
     }
   ]

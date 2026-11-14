@@ -159,7 +159,8 @@
         ["Don't you like coffee? — Yes. (ý: đúng, tôi không thích)", "No, I don't.", "Tiếng Anh trả lời theo sự thật: không thích → No."]
       ],
       "practice": [
-        ["Didn't you go to the party? — ___, I didn't. I was ill.", "No"]
+        ["Didn't you go to the party? — ___, I didn't. I was ill.", "No"],
+        ["___ you tired? You've been working all day! (phủ định)", "Aren't"]
       ]
     },
     {
@@ -190,6 +191,31 @@
       "practice": [
         ["I've finished. — So ___ I.", "have"],
         ["Tom wasn't there. — Neither ___ Mai.", "was"]
+      ]
+    },
+    {
+      "id": "what-like",
+      "title": "What … like? / What does … look like?",
+      "sub": "Hỏi về tính chất, tính cách, ngoại hình",
+      "level": "A2",
+      "form": ["【What is / was + N + like?】 = như thế nào (tính cách, chất lượng, trải nghiệm)", "【What does + N + look like?】 = trông như thế nào (ngoại hình)", "【How is…?】 = có khoẻ không / tình hình thế nào"],
+      "uses": [
+        {
+          "vi": "Like ở đây là giới từ (= giống), không phải động từ “thích”.",
+          "ex": [
+            ["【What's】 your new boss 【like】? — She's friendly but strict.", "Sếp mới của bạn thế nào? — Thân thiện nhưng nghiêm khắc."],
+            ["【What was】 the weather 【like】 in Da Lat?", "Thời tiết ở Đà Lạt thế nào?"],
+            ["【What does】 he 【look like】? — He's tall with short hair.", "Anh ấy trông thế nào? — Cao, tóc ngắn."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["How does he look like?", "What does he look like? / How does he look?", "Look like đi với what."],
+        ["What is your mother like? — She likes cooking.", "She's kind and patient.", "Câu hỏi là về tính cách, không phải sở thích."]
+      ],
+      "practice": [
+        ["What ___ the hotel like? — It was clean and quiet. (quá khứ)", "was"],
+        ["What does your sister look ___?", "like"]
       ]
     }
   ]

@@ -144,6 +144,30 @@
         ["What are you ___ (think) about? You look worried.", "thinking"],
         ["This coat ___ (belong) to my father.", "belongs"]
       ]
+    },
+    {
+      "id": "present-for-stories",
+      "title": "Present tenses for stories, headlines, instructions",
+      "sub": "Thì hiện tại trong kể chuyện, tít báo, hướng dẫn",
+      "level": "B2",
+      "form": ["Kể chuyện, tóm tắt phim: 【present simple + present continuous】", "Tít báo: 【present simple】 cho sự việc đã xảy ra", "Hướng dẫn, công thức: present simple / mệnh lệnh"],
+      "uses": [
+        {
+          "vi": "Dùng thì hiện tại để câu chuyện sinh động hơn, hoặc theo quy ước của báo chí.",
+          "ex": [
+            ["So I【'm walking】 down the street and this man 【comes】 up to me…", "Thế là tôi đang đi trên phố thì có ông này tiến lại gần tôi…"],
+            ["In the film, a young girl 【discovers】 a secret world.", "Trong phim, một cô gái trẻ khám phá ra một thế giới bí mật."],
+            ["EARTHQUAKE 【HITS】 JAPAN", "ĐỘNG ĐẤT XẢY RA Ở NHẬT BẢN"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["In the book, the hero discovered a secret, then he goes home. (trộn thì)", "In the book, the hero discovers a secret, then he goes home.", "Giữ một thì nhất quán khi tóm tắt."]
+      ],
+      "practice": [
+        ["In the novel, the main character ___ (fall) in love with a stranger.", "falls"],
+        ["First, you ___ (add) the rice, then you stir.", "add"]
+      ]
     }
   ]
 }

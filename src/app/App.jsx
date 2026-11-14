@@ -20,6 +20,7 @@ const KoAlphabet = lazy(() => import('../features/ko/KoAlphabet.jsx'));
 const KoWords = lazy(() => import('../features/ko/KoWords.jsx'));
 const KoPhrases = lazy(() => import('../features/ko/KoPhrases.jsx'));
 const GrammarBook = lazy(() => import('../features/grammar/GrammarBook.jsx'));
+const EnReference = lazy(() => import('../features/grammar/EnReference.jsx'));
 const Flashcards = lazy(() => import('../features/review/Flashcards.jsx'));
 const StatsView = lazy(() => import('../features/stats/StatsView.jsx'));
 const SettingsView = lazy(() => import('../features/settings/SettingsView.jsx'));
@@ -193,6 +194,7 @@ function Shell({ onLogout, onUnauthorized }) {
           lang="en"
           path="/data/en/grammar.json"
           storageKey="en.grammar"
+          reference={EnReference}
           onUnauthorized={onUnauthorized}
           footer={EN_GRAMMAR_FOOTER}
         />

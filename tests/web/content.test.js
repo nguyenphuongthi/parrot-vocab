@@ -20,6 +20,18 @@ test('ngữ pháp tiếng Anh: đúng định dạng, đủ 3 mức, public/data
   assert.deepEqual(built('en', 'grammar.json'), { units: book.units }, 'chạy npm run data:en');
 });
 
+test('bảng tra cứu tiếng Anh: động từ bất quy tắc, 12 thì, lùi thì – trỏ tới điểm ngữ pháp có thật', () => {
+  const ref = built('en', 'reference.json');
+  const ids = new Set(built('en', 'grammar.json').units.flatMap((u) => u.points.map((p) => p.id)));
+  assert.ok(ref.verbs.length >= 120);
+  assert.deepEqual(ref.verbs.find((v) => v[0] === 'go').slice(0, 3), ['go', 'went', 'gone / been']);
+  assert.equal(ref.tenses.length, 12);
+  for (const t of ref.tenses) assert.ok(ids.has(t.point), t.point);
+  assert.ok(ids.has(ref.backshift.point));
+  const src = (f) => JSON.parse(readFileSync(join(root, 'data-src', 'en', 'reference', f), 'utf8'));
+  assert.deepEqual(ref.verbs, src('irregular-verbs.json').verbs, 'chạy npm run data:en');
+});
+
 test('ngữ pháp TOPIK 1, 2: đúng định dạng, không trùng id giữa hai cấp', () => {
   const ids = new Set();
   for (const level of [1, 2]) {

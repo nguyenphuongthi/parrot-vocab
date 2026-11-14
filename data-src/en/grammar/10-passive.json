@@ -56,6 +56,9 @@
         ["The new hospital ___ (build) at the moment.", "is being built"],
         ["All the tickets ___ (sell) already.", "have been sold"],
         ["This problem should ___ dealt with immediately.", "be"]
+      ],
+      "mistakes": [
+        ["The house is building now.", "The house is being built now.", "Bị động tiếp diễn: is being + V3."]
       ]
     },
     {
@@ -107,6 +110,9 @@
       "practice": [
         ["It ___ reported that the storm caused serious damage.", "is/was"],
         ["He is believed ___ have left the country.", "to"]
+      ],
+      "mistakes": [
+        ["He is said that he is rich.", "He is said to be rich. / It is said that he is rich.", "Không trộn hai cấu trúc."]
       ]
     },
     {
@@ -127,7 +133,11 @@
         }
       ],
       "practice": [
-        ["Be careful or you'll get ___ (hurt).", "hurt"]
+        ["Be careful or you'll get ___ (hurt).", "hurt"],
+        ["Our car got ___ (steal) last night.", "stolen"]
+      ],
+      "mistakes": [
+        ["He got arrest yesterday.", "He got arrested yesterday.", "Get + V3."]
       ]
     },
     {
@@ -148,7 +158,59 @@
         }
       ],
       "practice": [
-        ["She doesn't like ___ (interrupt) when she's speaking. (bị động V-ing)", "being interrupted"]
+        ["She doesn't like ___ (interrupt) when she's speaking. (bị động V-ing)", "being interrupted"],
+        ["The report needs ___ be finished by Friday.", "to"]
+      ],
+      "mistakes": [
+        ["I don't like being tell what to do.", "I don't like being told what to do.", "Being + V3."]
+      ]
+    },
+    {
+      "id": "passive-two-objects",
+      "title": "Passive with two objects: I was given…",
+      "sub": "Bị động của động từ có hai tân ngữ",
+      "level": "B2",
+      "form": ["Chủ động: They gave 【me】 (người) 【a book】 (vật)", "Bị động (phổ biến): 【I was given】 a book", "Bị động (ít hơn): 【A book was given】 to me"],
+      "uses": [
+        {
+          "vi": "Với give, send, offer, show, tell, teach, lend…, người nhận thường làm chủ ngữ của câu bị động.",
+          "ex": [
+            ["She 【was offered】 a job in Singapore.", "Cô ấy được mời làm việc ở Singapore."],
+            ["We 【were told】 to wait outside.", "Chúng tôi được bảo đợi ở ngoài."],
+            ["I 【was sent】 the wrong size.", "Tôi bị gửi nhầm cỡ."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I was given by my boss a bonus.", "I was given a bonus by my boss.", "Tân ngữ vật đứng ngay sau động từ bị động."]
+      ],
+      "practice": [
+        ["All students will ___ given a certificate.", "be"],
+        ["He was ___ (show) the way to the station.", "shown"]
+      ]
+    },
+    {
+      "id": "need-ing",
+      "title": "Need + -ing / need to be done",
+      "sub": "Cần được làm (nghĩa bị động)",
+      "level": "B2",
+      "form": ["Vật + 【needs + V-ing】 (Anh–Anh) = vật + 【needs to be + V3】", "Tương tự: want + V-ing (văn nói Anh–Anh), deserve + V-ing / to be V3"],
+      "uses": [
+        {
+          "vi": "Nói vật cần được sửa, làm sạch, kiểm tra… mà không nói ai làm.",
+          "ex": [
+            ["The car 【needs washing】.", "Xe cần được rửa."],
+            ["Your hair 【needs cutting】.", "Tóc bạn cần cắt rồi."],
+            ["These documents 【need to be signed】 today.", "Các giấy tờ này cần được ký trong hôm nay."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["The room needs to clean.", "The room needs cleaning / needs to be cleaned.", "Vật không tự làm → dạng bị động."]
+      ],
+      "practice": [
+        ["The windows need ___ (clean).", "cleaning"],
+        ["The report needs to be ___ (check) again.", "checked"]
       ]
     }
   ]

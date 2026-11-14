@@ -88,6 +88,9 @@
         ["Did you remember ___ (buy) milk? We need some.", "to buy"],
         ["I'll never forget ___ (see) the sea for the first time.", "seeing"],
         ["We stopped ___ (have) lunch at a small restaurant.", "to have"]
+      ],
+      "mistakes": [
+        ["I stopped to smoke last year. (ý: bỏ thuốc)", "I stopped smoking last year.", "Stop + V-ing = thôi làm; stop + to V = dừng lại để làm việc khác."]
       ]
     },
     {
@@ -143,7 +146,8 @@
         ["I came here for study English.", "I came here to study English.", "Mục đích dùng to + V, không dùng for + V."]
       ],
       "practice": [
-        ["He went to the shop ___ buy some bread.", "to"]
+        ["He went to the shop ___ buy some bread.", "to"],
+        ["She saved money in order ___ buy a laptop.", "to"]
       ],
       "see": ["purpose-so-that"]
     },
@@ -248,6 +252,135 @@
       "practice": [
         ["He claims ___ have met the president. (to)", "to"],
         ["She denied ___ taken the money. (having)", "having"]
+      ],
+      "mistakes": [
+        ["She seems to lose weight. (ý: đã giảm)", "She seems to have lost weight.", "Việc đã xảy ra trước dùng to have + V3."]
+      ]
+    },
+    {
+      "id": "like-ing",
+      "title": "Like / love / hate + -ing · go + -ing",
+      "sub": "Thích, ghét làm gì; đi (bơi, mua sắm…)",
+      "level": "A1",
+      "form": ["like / love / enjoy / hate / don't mind + 【V-ing】", "would like / would love / would hate + 【to V】 (một lần cụ thể)", "【go + V-ing】: go swimming, go shopping, go fishing"],
+      "uses": [
+        {
+          "vi": "Nói sở thích chung dùng V-ing; muốn làm vào một dịp cụ thể dùng would like to.",
+          "ex": [
+            ["I 【love reading】 before bed.", "Tôi thích đọc sách trước khi ngủ."],
+            ["She 【doesn't mind waiting】.", "Cô ấy không ngại chờ đợi."],
+            ["Let's 【go swimming】 this afternoon.", "Chiều nay mình đi bơi đi."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I enjoy to cook.", "I enjoy cooking.", "Enjoy + V-ing."],
+        ["We went to swim at the beach.", "We went swimming at the beach.", "Hoạt động giải trí dùng go + V-ing."]
+      ],
+      "practice": [
+        ["My brother hates ___ (get) up early.", "getting"],
+        ["Do you want to go ___ (shop) with me?", "shopping"]
+      ],
+      "see": ["would-like", "verb-ing"]
+    },
+    {
+      "id": "sense-verbs",
+      "title": "See / hear / watch sb do / doing",
+      "sub": "Động từ tri giác + tân ngữ + V / V-ing",
+      "level": "B2",
+      "form": ["see / hear / watch / notice / feel + O + 【V】: thấy toàn bộ hành động", "see / hear / watch / notice / feel + O + 【V-ing】: thấy một phần, đang diễn ra"],
+      "uses": [
+        {
+          "vi": "Chọn V nguyên mẫu hay V-ing tuỳ việc chứng kiến trọn vẹn hay chỉ một đoạn.",
+          "ex": [
+            ["I 【saw him cross】 the road. (thấy từ đầu đến cuối)", "Tôi thấy anh ấy băng qua đường."],
+            ["I 【saw him crossing】 the road. (thấy lúc đang băng qua)", "Tôi thấy anh ấy đang băng qua đường."],
+            ["Did you 【hear the baby crying】?", "Bạn có nghe thấy em bé đang khóc không?"]
+          ]
+        }
+      ],
+      "notes": ["Bị động dùng to: He was seen to leave the building."],
+      "mistakes": [
+        ["I saw her to leave.", "I saw her leave / leaving.", "Sau see + O không dùng to (ở thể chủ động)."]
+      ],
+      "practice": [
+        ["We watched the sun ___ (rise) – it was beautiful. (trọn vẹn)", "rise"],
+        ["I could smell something ___ (burn) in the kitchen.", "burning"]
+      ]
+    },
+    {
+      "id": "verb-that-clause",
+      "title": "Verb + that-clause: think, hope, say, realise…",
+      "sub": "Động từ + mệnh đề that",
+      "level": "B1",
+      "form": ["think / believe / hope / know / say / realise / promise + (【that】) + S + V", "Phủ định ý kiến: 【I don't think】 + mệnh đề khẳng định"],
+      "uses": [
+        {
+          "vi": "That thường được lược khi nói. Với think, believe, người Anh đặt not ở động từ chính.",
+          "ex": [
+            ["I 【think】 (that) she's right.", "Tôi nghĩ cô ấy đúng."],
+            ["He 【promised】 (that) he would help.", "Anh ấy hứa sẽ giúp."],
+            ["I 【don't think】 it will rain.", "Tôi không nghĩ là trời sẽ mưa."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I think it won't rain.", "I don't think it will rain.", "Tự nhiên hơn khi phủ định ở think."],
+        ["I hope that you to come.", "I hope (that) you can come.", "Sau that là mệnh đề đầy đủ S + V."]
+      ],
+      "practice": [
+        ["I don't ___ he'll come tonight. (nghĩ)", "think"],
+        ["She said ___ she was tired. (that – có thể lược)", "that"]
+      ]
+    },
+    {
+      "id": "it-no-use",
+      "title": "It's no use / It's (not) worth / There's no point + -ing",
+      "sub": "Vô ích, (không) đáng để làm gì",
+      "level": "B2",
+      "form": ["It's no use / It's no good + 【V-ing】", "It's (not) worth + 【V-ing】 · N is worth + V-ing", "There's no point (in) + 【V-ing】"],
+      "uses": [
+        {
+          "vi": "Các cụm cố định luôn đi với V-ing.",
+          "ex": [
+            ["【It's no use】 crying over spilt milk.", "Chuyện đã rồi thì khóc cũng vô ích."],
+            ["This museum 【is worth visiting】.", "Bảo tàng này đáng để tham quan."],
+            ["【There's no point in】 waiting – he won't come.", "Chờ cũng chẳng ích gì – anh ta không đến đâu."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["It's worth to see.", "It's worth seeing.", "Worth + V-ing."]
+      ],
+      "practice": [
+        ["It's not worth ___ (repair) this old phone.", "repairing"],
+        ["There's no point ___ arguing with him.", "in"]
+      ]
+    },
+    {
+      "id": "verb-object-preposition",
+      "title": "Verb + object + preposition: thank sb for, remind sb of…",
+      "sub": "Động từ + tân ngữ + giới từ + V-ing / danh từ",
+      "level": "B2",
+      "form": ["thank / blame / forgive sb 【for】 · accuse / remind / warn sb 【of】", "prevent / stop / discourage sb 【from】 + V-ing · congratulate sb 【on】 · protect sb 【from / against】"],
+      "uses": [
+        {
+          "vi": "Mỗi động từ đi với một giới từ cố định; sau giới từ là danh từ hoặc V-ing.",
+          "ex": [
+            ["Thank you 【for】 helping me.", "Cảm ơn bạn đã giúp tôi."],
+            ["This song 【reminds】 me 【of】 my childhood.", "Bài hát này làm tôi nhớ đến tuổi thơ."],
+            ["The rain 【prevented】 us 【from】 going out.", "Cơn mưa khiến chúng tôi không ra ngoài được."],
+            ["We 【congratulated】 her 【on】 passing the exam.", "Chúng tôi chúc mừng cô ấy thi đỗ."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["She congratulated me for my promotion.", "She congratulated me on my promotion.", "Congratulate sb on."],
+        ["The noise prevented me to sleep.", "The noise prevented me from sleeping.", "Prevent sb from + V-ing."]
+      ],
+      "practice": [
+        ["They blamed me ___ the mistake.", "for"],
+        ["She warned us ___ the danger.", "of/about"]
       ]
     }
   ]

@@ -392,7 +392,8 @@
           "vi": "Nói chung về một nhóm người trong xã hội; không thêm -s vào tính từ.",
           "ex": [
             ["【The rich】 are getting richer.", "Người giàu ngày càng giàu thêm."],
-            ["We should do more to help 【the elderly】.", "Chúng ta nên làm nhiều hơn để giúp người cao tuổi."]
+            ["We should do more to help 【the elderly】.", "Chúng ta nên làm nhiều hơn để giúp người cao tuổi."],
+            ["The government should do more for 【the homeless】.", "Chính phủ nên làm nhiều hơn cho người vô gia cư."]
           ]
         }
       ],
@@ -400,7 +401,8 @@
         ["The poors need help.", "The poor need help.", "Tính từ không thêm -s."]
       ],
       "practice": [
-        ["The government promised more jobs for the ___. (thất nghiệp)", "unemployed"]
+        ["The government promised more jobs for the ___. (thất nghiệp)", "unemployed"],
+        ["Life is hard for ___ elderly who live alone.", "the"]
       ]
     },
     {
@@ -426,6 +428,165 @@
       "practice": [
         ["A large ___ of people attended the concert.", "number"],
         ["The number of accidents ___ fallen this year. (has/have)", "has"]
+      ]
+    },
+    {
+      "id": "another-other",
+      "title": "Another / other / the other / others",
+      "sub": "Cái khác, một cái nữa, cái còn lại",
+      "level": "A2",
+      "form": ["【another】 + danh từ số ít (= một … khác / thêm một)", "【other】 + danh từ số nhiều / không đếm được", "【the other】 + số ít (cái còn lại trong hai) / số nhiều (những cái còn lại)", "Đứng một mình: 【others】 · 【the others】"],
+      "uses": [
+        {
+          "vi": "Chọn đúng dạng theo số ít / số nhiều và việc đã xác định (có the) hay chưa.",
+          "ex": [
+            ["Can I have 【another】 cup of tea?", "Cho tôi thêm một tách trà nữa."],
+            ["Some people like coffee; 【others】 prefer tea.", "Có người thích cà phê; người khác lại thích trà."],
+            ["I have two sisters. One is a nurse and 【the other】 is a teacher.", "Tôi có hai chị gái. Một người là y tá, người còn lại là giáo viên."],
+            ["Lan is here, but where are 【the others】?", "Lan ở đây rồi, còn những người kia đâu?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["I need another books.", "I need other books. / I need another book.", "Another chỉ đi với danh từ số ít."],
+        ["The others students left.", "The other students left.", "Other đứng trước danh từ không thêm -s."]
+      ],
+      "practice": [
+        ["This shirt is too small. Do you have ___ one?", "another"],
+        ["I've got two phones – one for work and ___ other for home.", "the"],
+        ["Some students walk to school; ___ come by bus.", "others"]
+      ]
+    },
+    {
+      "id": "subject-verb-agreement",
+      "title": "Subject–verb agreement",
+      "sub": "Hoà hợp chủ ngữ – động từ",
+      "level": "B1",
+      "form": ["Động từ chia theo 【chủ ngữ chính】, không theo danh từ đứng gần", "Số ít: everyone, each, every…, one of + số nhiều, danh động từ (V-ing), mệnh đề", "Số nhiều: A and B, both, the police, people"],
+      "uses": [
+        {
+          "vi": "Tìm đúng chủ ngữ chính, nhất là khi giữa chủ ngữ và động từ có cụm bổ nghĩa dài.",
+          "ex": [
+            ["The quality of these products 【is】 excellent.", "Chất lượng của những sản phẩm này rất tốt."],
+            ["One of my friends 【lives】 in Canada.", "Một người bạn của tôi sống ở Canada."],
+            ["Learning languages 【takes】 time.", "Học ngoại ngữ cần thời gian."],
+            ["My brother and I 【are】 very close.", "Anh trai tôi và tôi rất thân."]
+          ]
+        }
+      ],
+      "notes": ["Neither… nor / either… or: động từ hợp với chủ ngữ gần nhất: Neither the teacher nor the students were there."],
+      "mistakes": [
+        ["One of my friends live in Canada.", "One of my friends lives in Canada.", "Chủ ngữ chính là one (số ít)."],
+        ["The list of names are on the table.", "The list of names is on the table.", "Chủ ngữ chính là the list."]
+      ],
+      "practice": [
+        ["Everyone in the office ___ (know) about it.", "knows"],
+        ["The price of houses ___ (be) rising.", "is"],
+        ["Watching films ___ (help) me relax.", "helps"]
+      ]
+    },
+    {
+      "id": "collective-nouns",
+      "title": "Collective nouns: team, family, police",
+      "sub": "Danh từ tập hợp",
+      "level": "B2",
+      "form": ["team, family, staff, government, class, audience + động từ 【số ít】 (cả nhóm là một khối) hoặc 【số nhiều】 (Anh–Anh: các thành viên)", "Luôn số nhiều: 【the police, people, cattle】"],
+      "uses": [
+        {
+          "vi": "Tiếng Anh–Mỹ thường dùng số ít; tiếng Anh–Anh dùng số nhiều khi nghĩ đến từng thành viên.",
+          "ex": [
+            ["My family 【is】 quite large.", "Gia đình tôi khá đông."],
+            ["The team 【are】 celebrating their victory. (Anh–Anh)", "Cả đội đang ăn mừng chiến thắng."],
+            ["The police 【are】 investigating the case.", "Cảnh sát đang điều tra vụ việc."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["The police is coming.", "The police are coming.", "Police luôn đi với động từ số nhiều."],
+        ["The staffs are friendly.", "The staff are / is friendly.", "Staff không thêm -s khi chỉ toàn bộ nhân viên."]
+      ],
+      "practice": [
+        ["The police ___ (have) arrested two men.", "have"],
+        ["The audience ___ clapping loudly. (Anh–Mỹ: số ít)", "was"]
+      ]
+    },
+    {
+      "id": "compound-nouns",
+      "title": "Compound nouns: a bus stop, a coffee cup",
+      "sub": "Danh từ ghép (danh từ + danh từ)",
+      "level": "B1",
+      "form": ["Danh từ 1 (bổ nghĩa, 【số ít】) + danh từ 2 (danh từ chính): a 【shoe】 shop", "Số nhiều chỉ ở danh từ 2: bus stops, tennis players"],
+      "uses": [
+        {
+          "vi": "Danh từ đứng trước bổ nghĩa cho danh từ sau (ngược thứ tự tiếng Việt: “trạm xe buýt” = bus stop).",
+          "ex": [
+            ["Let's meet at the 【bus stop】.", "Gặp nhau ở trạm xe buýt nhé."],
+            ["I bought new 【running shoes】.", "Tôi mua đôi giày chạy bộ mới."],
+            ["She's a 【history teacher】.", "Cô ấy là giáo viên lịch sử."]
+          ]
+        },
+        {
+          "vi": "Phân biệt với 's (sở hữu) và cái cốc chứa gì (a cup of coffee).",
+          "ex": [
+            ["a 【coffee cup】 (cốc để uống cà phê) / a 【cup of coffee】 (một cốc cà phê)", "cái cốc cà phê / một cốc cà phê"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["a shoes shop", "a shoe shop", "Danh từ đứng trước giữ dạng số ít."],
+        ["a teacher of history (ý: nghề)", "a history teacher", "Danh từ ghép tự nhiên hơn."]
+      ],
+      "practice": [
+        ["I need to buy a new ___ brush. (răng – teeth)", "tooth"],
+        ["There are two ___ stations near here. (xe lửa)", "train"]
+      ]
+    },
+    {
+      "id": "generic-pronouns",
+      "title": "Generic you / one / they",
+      "sub": "Đại từ chỉ người nói chung",
+      "level": "B2",
+      "form": ["【you】 (văn nói) · 【one】 (rất trang trọng) = người ta nói chung", "【they】 = người ta (chính quyền, người có thẩm quyền, người nói chung)"],
+      "uses": [
+        {
+          "vi": "Nói về mọi người nói chung, không chỉ ai cụ thể.",
+          "ex": [
+            ["【You】 can't park here after 6 pm.", "Ở đây không được đỗ xe sau 6 giờ tối."],
+            ["【They】 say it's going to be a cold winter.", "Người ta nói mùa đông này sẽ lạnh."],
+            ["【One】 should always be polite. (trang trọng)", "Người ta nên luôn lịch sự."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["People they say it's true.", "They say it's true. / People say it's true.", "Chỉ dùng một chủ ngữ."]
+      ],
+      "practice": [
+        ["___ say that this restaurant is the best in town. (người ta)", "They/People"],
+        ["How do ___ spell your name? (bạn – nói chung / người nghe)", "you"]
+      ]
+    },
+    {
+      "id": "generic-the",
+      "title": "Generic the / a / plural",
+      "sub": "Nói chung về một loài: The tiger / A tiger / Tigers",
+      "level": "B2",
+      "form": ["【Danh từ số nhiều】 (phổ biến nhất): Tigers are…", "【The + số ít】 (trang trọng, khoa học, phát minh): The tiger is…", "【A + số ít】 (một cá thể bất kỳ đại diện): A tiger is…"],
+      "uses": [
+        {
+          "vi": "Ba cách nói chung về một loài, một loại máy móc, nhạc cụ… với mức độ trang trọng khác nhau.",
+          "ex": [
+            ["【Dolphins】 are very intelligent.", "Cá heo rất thông minh."],
+            ["【The tiger】 is an endangered species.", "Hổ là loài có nguy cơ tuyệt chủng."],
+            ["Who invented 【the telephone】?", "Ai đã phát minh ra điện thoại?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["The dolphins are intelligent. (ý: nói chung)", "Dolphins are intelligent.", "Số nhiều nói chung không có the."]
+      ],
+      "practice": [
+        ["___ computer has changed the way we work. (phát minh – the/a)", "The"],
+        ["___ are my favourite animals. (Cat – số nhiều nói chung)", "Cats"]
       ]
     }
   ]

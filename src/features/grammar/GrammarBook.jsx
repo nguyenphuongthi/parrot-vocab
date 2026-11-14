@@ -86,7 +86,8 @@ function Unit({ unit, index, open, forced, onToggle, points, counts, children })
   );
 }
 
-export default function GrammarBook({ lang, path, storageKey, footer, onUnauthorized }) {
+// reference: component bảng tra cứu (tuỳ chọn) – có thì hiện nút chuyển “Điểm ngữ pháp / Bảng tra cứu”.
+export default function GrammarBook({ lang, path, storageKey, footer, reference: Reference, onUnauthorized }) {
   const { data, error } = useBook(path, onUnauthorized);
   const progress = useLangItems(lang);
   const [query, setQuery] = useState('');
@@ -94,6 +95,8 @@ export default function GrammarBook({ lang, path, storageKey, footer, onUnauthor
   const [markFilter, setMarkFilter] = useState(null);
   const [openUnits, setOpenUnits] = usePersisted(`${storageKey}.open`, []);
   const [selectedId, select, close, closing] = useSelection();
+  const [view, setView] = usePersisted(`${storageKey}.view`, 'points');
+  const showRef = !!Reference && view === 'ref';
   const markOfId = (id) => markOf(progress[`g:${id}`]);
 
   const index = useMemo(() => {
@@ -147,11 +150,36 @@ export default function GrammarBook({ lang, path, storageKey, footer, onUnauthor
     select(id);
   };
 
+  const switcher = Reference && (
+    <div className="seg" role="tablist" aria-label="Chế độ xem">
+      <button type="button" role="tab" aria-selected={!showRef} className={!showRef ? 'is-on' : ''} onClick={() => setView('points')}>
+        Điểm ngữ pháp
+      </button>
+      <button type="button" role="tab" aria-selected={showRef} className={showRef ? 'is-on' : ''} onClick={() => setView('ref')}>
+        Bảng tra cứu
+      </button>
+    </div>
+  );
+  if (showRef) {
+    return (
+      <div className="grammar-book" data-lang={lang}>
+        {switcher}
+        <Reference
+          onOpenPoint={(id) => {
+            setView('points');
+            jump(id);
+          }}
+          onUnauthorized={onUnauthorized}
+        />
+      </div>
+    );
+  }
   if (error) return <p className="error">{error}</p>;
   if (!index) return <p className="loading">Đang tải…</p>;
 
   return (
     <div className="grammar-book" data-lang={lang}>
+      {switcher}
       <div className="toolbar">
         <label className="search">
           <SearchIcon />

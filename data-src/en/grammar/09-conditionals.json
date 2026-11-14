@@ -14,12 +14,17 @@
           "vi": "Sự thật chung, quy luật: hễ A thì (luôn) B. If có thể thay bằng when.",
           "ex": [
             ["【If】 you heat ice, it 【melts】.", "Nếu đun nóng đá, nó tan chảy."],
-            ["【If】 I drink coffee at night, I 【can't】 sleep.", "Hễ uống cà phê buổi tối là tôi không ngủ được."]
+            ["【If】 I drink coffee at night, I 【can't】 sleep.", "Hễ uống cà phê buổi tối là tôi không ngủ được."],
+            ["If you press this button, the machine 【stops】.", "Nếu bấm nút này, máy sẽ dừng."]
           ]
         }
       ],
       "practice": [
-        ["If you ___ (mix) red and white, you get pink.", "mix"]
+        ["If you ___ (mix) red and white, you get pink.", "mix"],
+        ["Plants die if they ___ (not / get) water.", "don't get/do not get"]
+      ],
+      "mistakes": [
+        ["If you heat water to 100°C, it will boil. (sự thật luôn đúng – văn phong khoa học)", "If you heat water to 100°C, it boils.", "Sự thật chung dùng hiện tại ở cả hai vế."]
       ]
     },
     {
@@ -88,13 +93,17 @@
           "vi": "Cùng một sự việc nhưng người nói đánh giá khả năng khác nhau.",
           "ex": [
             ["If I 【get】 the job, I【'll】 move to Saigon. (đã phỏng vấn, có khả năng)", "Nếu được nhận việc, tôi sẽ chuyển vào Sài Gòn."],
-            ["If I 【got】 the job, I【'd】 move to Saigon. (nhưng chắc không được đâu)", "Nếu (mà) được nhận, tôi sẽ chuyển vào Sài Gòn."]
+            ["If I 【got】 the job, I【'd】 move to Saigon. (nhưng chắc không được đâu)", "Nếu (mà) được nhận, tôi sẽ chuyển vào Sài Gòn."],
+            ["If it 【rains】 tomorrow, we【'll】 cancel the trip. / If it 【snowed】 in Saigon, people 【would】 be amazed.", "Nếu mai mưa, chúng ta sẽ huỷ chuyến đi. / Nếu Sài Gòn có tuyết, mọi người sẽ kinh ngạc."]
           ]
         }
       ],
       "practice": [
         ["If I ___ (see) him tomorrow, I'll give him your message.", "see"],
         ["If dogs ___ (can) talk, what would they say?", "could"]
+      ],
+      "mistakes": [
+        ["If I will win the lottery, I would buy a house.", "If I won the lottery, I would buy a house.", "Không trộn will với would; giả định khó xảy ra dùng loại 2."]
       ]
     },
     {
@@ -134,12 +143,17 @@
           "vi": "Điều kiện và kết quả ở hai thời điểm khác nhau.",
           "ex": [
             ["If I 【had taken】 that job, I 【would be】 rich now.", "Nếu hồi đó nhận việc ấy thì giờ tôi đã giàu."],
-            ["If I 【weren't】 so shy, I 【would have spoken】 to her at the party.", "Nếu tôi không nhút nhát thế thì đã bắt chuyện với cô ấy ở bữa tiệc rồi."]
+            ["If I 【weren't】 so shy, I 【would have spoken】 to her at the party.", "Nếu tôi không nhút nhát thế thì đã bắt chuyện với cô ấy ở bữa tiệc rồi."],
+            ["If you 【had listened】 to me, you 【wouldn't be】 in trouble now.", "Nếu hồi đó nghe tôi thì giờ bạn đã không gặp rắc rối."]
           ]
         }
       ],
       "practice": [
-        ["If she had studied medicine, she ___ (be) a doctor now.", "would be/'d be"]
+        ["If she had studied medicine, she ___ (be) a doctor now.", "would be/'d be"],
+        ["If I ___ (not / miss) the flight, I would be in Paris now.", "hadn't missed/had not missed"]
+      ],
+      "mistakes": [
+        ["If I studied harder at school, I would have a better job now. (ý: hồi đó đã không học chăm)", "If I had studied harder at school, I would have a better job now.", "Điều kiện ở quá khứ, kết quả ở hiện tại: had + V3 … would + V."]
       ]
     },
     {
@@ -203,12 +217,17 @@
           "vi": "Tiếc điều đã xảy ra hoặc không xảy ra.",
           "ex": [
             ["I 【wish】 I 【had studied】 harder at school.", "Ước gì hồi đi học tôi chăm hơn."],
-            ["【If only】 I 【hadn't said】 that!", "Giá mà tôi đã không nói câu đó!"]
+            ["【If only】 I 【hadn't said】 that!", "Giá mà tôi đã không nói câu đó!"],
+            ["She 【wishes】 she 【had accepted】 the job offer.", "Cô ấy tiếc vì đã không nhận lời mời làm việc đó."]
           ]
         }
       ],
       "practice": [
-        ["I wish I ___ (not / eat) so much last night.", "hadn't eaten/had not eaten"]
+        ["I wish I ___ (not / eat) so much last night.", "hadn't eaten/had not eaten"],
+        ["If only we ___ (leave) earlier – we missed the train.", "had left"]
+      ],
+      "mistakes": [
+        ["I wish I didn't go to the party last night.", "I wish I hadn't gone to the party last night.", "Tiếc về quá khứ dùng had + V3."]
       ]
     },
     {
@@ -222,12 +241,17 @@
           "vi": "Bực mình vì thói quen của người khác, hoặc muốn tình huống thay đổi. Không dùng với chủ ngữ I (I wish I would…).",
           "ex": [
             ["I 【wish】 you 【would】 stop interrupting me.", "Mong bạn thôi ngắt lời tôi đi."],
-            ["I 【wish】 it 【would】 stop raining.", "Mong trời tạnh mưa quá."]
+            ["I 【wish】 it 【would】 stop raining.", "Mong trời tạnh mưa quá."],
+            ["I 【wish】 my phone 【would】 stop freezing.", "Mong cái điện thoại thôi bị đơ."]
           ]
         }
       ],
       "practice": [
-        ["I wish my neighbours ___ be so noisy. (would + phủ định)", "wouldn't"]
+        ["I wish my neighbours ___ be so noisy. (would + phủ định)", "wouldn't"],
+        ["I wish you ___ stop talking during the film!", "would"]
+      ],
+      "mistakes": [
+        ["I wish I would be taller.", "I wish I were taller.", "Không dùng wish + I would; ước về đặc điểm hiện tại dùng quá khứ."]
       ]
     },
     {
@@ -272,7 +296,11 @@
         }
       ],
       "practice": [
-        ["He spends money as if he ___ (be) a millionaire.", "were/was"]
+        ["He spends money as if he ___ (be) a millionaire.", "were/was"],
+        ["It looks as ___ it's going to snow.", "if/though"]
+      ],
+      "mistakes": [
+        ["He acts like as if he owns the place.", "He acts as if he owns the place.", "Chỉ dùng as if (hoặc like trong văn nói), không ghép cả hai."]
       ]
     },
     {
@@ -292,8 +320,109 @@
         }
       ],
       "practice": [
-        ["Write it down, ___ you'll forget. (nếu không thì)", "otherwise"]
+        ["Write it down, ___ you'll forget. (nếu không thì)", "otherwise"],
+        ["___ if the shop is closed? (nếu … thì sao)", "What"]
+      ],
+      "mistakes": [
+        ["What if will it rain?", "What if it rains?", "Sau what if giữ thứ tự câu khẳng định, không dùng will."]
       ]
+    },
+    {
+      "id": "if-vs-when",
+      "title": "If vs when",
+      "sub": "Nếu (có thể xảy ra) và khi (chắc chắn xảy ra)",
+      "level": "A2",
+      "form": ["【if】 + điều có thể xảy ra hoặc không", "【when】 + điều chắc chắn sẽ xảy ra", "Cả hai đều dùng hiện tại đơn khi nói về tương lai"],
+      "uses": [
+        {
+          "vi": "Tiếng Việt đều có thể nói “khi / nếu”, nhưng tiếng Anh phân biệt rõ mức chắc chắn.",
+          "ex": [
+            ["I'll call you 【when】 I get home. (chắc chắn sẽ về)", "Về đến nhà tôi sẽ gọi cho bạn."],
+            ["I'll call you 【if】 I have time. (chưa chắc có thời gian)", "Nếu có thời gian tôi sẽ gọi cho bạn."],
+            ["【If】 you see Nam, tell him to call me.", "Nếu gặp Nam thì bảo cậu ấy gọi cho tôi."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["If I grow up, I'll be a doctor.", "When I grow up, I'll be a doctor.", "Lớn lên là điều chắc chắn → when."]
+      ],
+      "practice": [
+        ["___ it stops raining, we'll go out. (chắc chắn sẽ tạnh)", "When"],
+        ["___ you need help, just ask. (có thể cần)", "If"]
+      ]
+    },
+    {
+      "id": "even-if-only-if",
+      "title": "Even if / only if / even though",
+      "sub": "Ngay cả khi / chỉ khi / mặc dù",
+      "level": "B1",
+      "form": ["【even if】 + giả định (dù có … đi nữa)", "【only if】 + điều kiện duy nhất (đầu câu thì đảo ngữ: Only if … can you…)", "【even though】 + sự thật (mặc dù)"],
+      "uses": [
+        {
+          "vi": "Phân biệt giả định (even if) với sự thật (even though).",
+          "ex": [
+            ["I won't go 【even if】 they invite me.", "Dù họ có mời tôi cũng không đi."],
+            ["You'll pass 【only if】 you study every day.", "Bạn chỉ đỗ nếu học mỗi ngày."],
+            ["She went to work 【even though】 she was ill.", "Cô ấy vẫn đi làm mặc dù bị ốm."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["Even if he is rich, he isn't happy. (ý: anh ta giàu thật)", "Even though he is rich, he isn't happy.", "Sự thật dùng even though; even if cho giả định."]
+      ],
+      "practice": [
+        ["I'd never lie to you, even ___ I were in trouble.", "if"],
+        ["He kept running even ___ his leg hurt. (sự thật)", "though"]
+      ]
+    },
+    {
+      "id": "but-for",
+      "title": "But for / without / otherwise",
+      "sub": "Nếu không có … (điều kiện ẩn)",
+      "level": "C1",
+      "form": ["【But for / Without】 + danh từ, + would (have) + V", "Đảo ngữ: 【Had it not been for】 + N, … · 【Were it not for】 + N, …"],
+      "uses": [
+        {
+          "vi": "Diễn đạt điều kiện ngắn gọn bằng cụm danh từ thay cho mệnh đề if – trang trọng, hay gặp trong bài viết.",
+          "ex": [
+            ["【Without】 your help, I 【couldn't have finished】 on time.", "Nếu không có bạn giúp, tôi đã không thể xong đúng hạn."],
+            ["【But for】 the rain, the match would have continued.", "Nếu không mưa thì trận đấu đã tiếp tục."],
+            ["【Had it not been for】 his advice, I would have failed.", "Nếu không nhờ lời khuyên của anh ấy, tôi đã thất bại."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["But for you helped me, I would fail.", "But for your help, I would have failed.", "But for + danh từ, không + mệnh đề."]
+      ],
+      "practice": [
+        ["___ it not been for the traffic, we would have arrived earlier.", "Had"],
+        ["___ water, plants cannot survive. (nếu không có)", "Without"]
+      ]
+    },
+    {
+      "id": "were-to",
+      "title": "If … were to / if … should",
+      "sub": "Giả định khó xảy ra ở tương lai (trang trọng)",
+      "level": "C1",
+      "form": ["If + S + 【were to】 + V, … would + V (rất khó xảy ra)", "If + S + 【should】 + V, … will / mệnh lệnh (ít khả năng, lịch sự)"],
+      "uses": [
+        {
+          "vi": "Nhấn mạnh tình huống giả định khó xảy ra, hoặc diễn đạt lịch sự trong văn bản.",
+          "ex": [
+            ["【If】 the company 【were to】 close, hundreds would lose their jobs.", "Nếu công ty đóng cửa, hàng trăm người sẽ mất việc."],
+            ["【If】 you 【should】 have any problems, please let us know.", "Nếu quý vị gặp bất kỳ vấn đề gì, xin vui lòng báo cho chúng tôi."],
+            ["What would you do 【if】 you 【were to】 lose your job?", "Bạn sẽ làm gì nếu bị mất việc?"]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["If he were to resigning…", "If he were to resign…", "Were to + V nguyên mẫu."]
+      ],
+      "practice": [
+        ["If I ___ to win the lottery, I'd travel the world.", "were"],
+        ["If you ___ need further information, call this number. (lịch sự)", "should"]
+      ],
+      "see": ["inverted-conditionals"]
     }
   ]
 }

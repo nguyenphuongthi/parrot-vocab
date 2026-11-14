@@ -71,7 +71,8 @@
           "vi": "Nếu sau who / which / that là một chủ ngữ khác, có thể bỏ đại từ quan hệ (rất phổ biến khi nói).",
           "ex": [
             ["The film (【that】) we saw was great. → The film 【we saw】 was great.", "Bộ phim chúng tôi xem rất hay."],
-            ["Is this the person (【who】) you were talking about?", "Đây có phải người bạn vừa nhắc đến không?"]
+            ["Is this the person (【who】) you were talking about?", "Đây có phải người bạn vừa nhắc đến không?"],
+            ["The people 【we met】 on holiday were really friendly.", "Những người chúng tôi gặp trong kỳ nghỉ rất thân thiện."]
           ]
         }
       ],
@@ -79,6 +80,9 @@
       "practice": [
         ["The film we ___ (see) last night was boring.", "saw"],
         ["Is this the key you were looking ___?", "for"]
+      ],
+      "mistakes": [
+        ["The woman lives next door is a doctor.", "The woman who lives next door is a doctor.", "Đại từ quan hệ làm chủ ngữ thì không lược được."]
       ]
     },
     {
@@ -101,7 +105,8 @@
         ["The house in which I live in…", "The house in which I live… / The house I live in…", "Giới từ chỉ xuất hiện một lần."]
       ],
       "practice": [
-        ["This is the topic ___ which I want to talk. (giới từ)", "about"]
+        ["This is the topic ___ which I want to talk. (giới từ)", "about"],
+        ["The man to ___ I spoke was very helpful. (who/whom)", "whom"]
       ]
     },
     {
@@ -155,6 +160,9 @@
       "practice": [
         ["Call me ___ you need help. (bất cứ khi nào)", "whenever"],
         ["___ much it costs, I'll buy it.", "However"]
+      ],
+      "mistakes": [
+        ["Whatever you will decide, I'll support you.", "Whatever you decide, I'll support you.", "Mệnh đề với whatever nói về tương lai dùng hiện tại."]
       ]
     },
     {
@@ -179,6 +187,31 @@
       "practice": [
         ["He wrote ten books, most of ___ became bestsellers.", "which"],
         ["I met many people, some of ___ were very friendly.", "whom"]
+      ]
+    },
+    {
+      "id": "reason-why-day-when",
+      "title": "The reason why / the day when / the place where",
+      "sub": "Trạng từ quan hệ: why, when, where",
+      "level": "B1",
+      "form": ["the reason 【why】 + mệnh đề (có thể bỏ why hoặc dùng that)", "the day / year / time 【when】 + mệnh đề", "the place / city / house 【where】 + mệnh đề (= in which)"],
+      "uses": [
+        {
+          "vi": "Bổ nghĩa cho danh từ chỉ lý do, thời gian, nơi chốn.",
+          "ex": [
+            ["That's 【the reason why】 I left the company.", "Đó là lý do tôi rời công ty."],
+            ["I'll never forget 【the day when】 we first met.", "Tôi sẽ không bao giờ quên ngày chúng ta gặp nhau lần đầu."],
+            ["This is 【the house where】 I grew up.", "Đây là ngôi nhà nơi tôi lớn lên."]
+          ]
+        }
+      ],
+      "mistakes": [
+        ["This is the house where I grew up in.", "This is the house where I grew up. / …the house I grew up in.", "Where đã bao hàm giới từ."],
+        ["The reason is because…", "The reason is that…", "Tránh lặp nghĩa reason + because trong văn viết."]
+      ],
+      "practice": [
+        ["Do you remember the time ___ we got lost in Hue?", "when"],
+        ["Tell me the reason ___ you were late.", "why"]
       ]
     }
   ]
