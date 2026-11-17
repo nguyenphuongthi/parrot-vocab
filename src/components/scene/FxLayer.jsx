@@ -2,6 +2,7 @@
 // ngôn ngữ, kéo để tải lại trên điện thoại, kính lúp lắc khi gõ tìm kiếm.
 import { useEffect, useRef, useState } from 'react';
 import { onFx } from '../../lib/events.js';
+import { HTML_LANG } from '../../lib/langs.js';
 import { syncNow } from '../../lib/store.js';
 import Logo from '../mascot/Logo.jsx';
 
@@ -33,6 +34,7 @@ const WAVE_GLYPHS = {
   en: ['A', 'b', 'Hi', 'Yes', 'c', 'Q', 'ok', 'w'],
   zh: ['你', '好', '学', '中', '文', '爱', '书', '月'],
   ko: ['가', '나', '한', '글', '봄', '꿈', '별', '말'],
+  ja: ['あ', 'の', '日', '花', 'カ', '空', 'ね', '山'],
 };
 
 function LangWave({ lang }) {
@@ -42,7 +44,7 @@ function LangWave({ lang }) {
       {glyphs.map((g, i) => (
         <i
           key={i}
-          lang={lang === 'zh' ? 'zh-CN' : lang === 'ko' ? 'ko' : undefined}
+          lang={HTML_LANG[lang] === 'en' ? undefined : HTML_LANG[lang]}
           style={{ top: `${10 + i * 11}%`, left: `${(i * 13) % 40}%`, fontSize: 28 + (i % 3) * 14, animationDelay: `${i * 45}ms` }}
         >
           {g}

@@ -1,9 +1,10 @@
-/* ================= Sách ngữ pháp tiếng Anh / tiếng Hàn (src/features/grammar) =================
+/* ================= Sách ngữ pháp tiếng Anh / Hàn / Nhật (src/features/grammar) =================
    Dùng lại khung bài / điểm / khung chi tiết của ngữ pháp HSK (.level, .point, .detail), chỉ thêm phần riêng:
    chữ Latin / Hangul thay cho chữ Hán, công thức, ví dụ có phát âm, lỗi thường gặp, bài tập gõ đáp án. */
 
 .grammar-book[data-lang='en'] { --gb-font: var(--ui); }
 .grammar-book[data-lang='ko'] { --gb-font: var(--ko); }
+.grammar-book[data-lang='ja'] { --gb-font: var(--ja); }
 
 .gb-unit-name {
   font-size: 17px;
@@ -180,8 +181,8 @@
   text-decoration: line-through;
   text-decoration-thickness: 1px;
 }
-.gb-wrong span,
-.gb-right span {
+.gb-wrong > span:first-child,
+.gb-right > span:first-child {
   display: inline-block;
   width: 1.2em;
   text-decoration: none;

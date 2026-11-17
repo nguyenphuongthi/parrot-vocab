@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react';
 import { getSettings } from './settings.js';
 
-export const VOICE_LANG = { en: 'en-US', 'en-uk': 'en-GB', zh: 'zh-CN', ko: 'ko-KR' };
+export const VOICE_LANG = { en: 'en-US', 'en-uk': 'en-GB', zh: 'zh-CN', ko: 'ko-KR', ja: 'ja-JP' };
 
 function pickVoice(lang) {
   if (typeof window === 'undefined' || !window.speechSynthesis) return null;
@@ -17,7 +17,7 @@ function pickVoice(lang) {
   );
 }
 
-// Tiếng Anh luôn phát được (đa số máy có giọng Anh); tiếng Trung / Hàn chỉ hiện nút nghe khi máy có giọng.
+// Tiếng Anh luôn phát được (đa số máy có giọng Anh); tiếng Trung / Hàn / Nhật chỉ hiện nút nghe khi máy có giọng.
 export function useCanSpeak(lang) {
   const [ok, setOk] = useState(() => !!pickVoice(lang));
   useEffect(() => {
@@ -62,7 +62,7 @@ export function useSpeakOnOpen(text, lang, active = true) {
 
 // ---------- Karaoke: chữ sáng lên lần lượt theo giọng đọc ----------
 // Dùng sự kiện "boundary" của giọng đọc nếu có; không có thì ước lượng theo tốc độ đọc.
-const PER_CHAR_MS = { zh: 300, ko: 230, en: 70 };
+const PER_CHAR_MS = { zh: 300, ko: 230, ja: 170, en: 70 };
 
 export function useKaraoke() {
   const [index, setIndex] = useState(-1);

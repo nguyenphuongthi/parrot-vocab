@@ -4,7 +4,7 @@
 //
 // Bảng:
 //   words – tiếng Anh, key = từ viết thường (định dạng giống hệt extension Vocab English Lens)
-//   items – mục học có sẵn trong app, key = "<en|zh|ko>:<id>" (từ HSK, từ / câu tiếng Hàn, điểm ngữ pháp);
+//   items – mục học có sẵn trong app, key = "<en|zh|ko|ja>:<id>" (từ HSK, từ / câu tiếng Hàn, từ / kanji / câu tiếng Nhật, điểm ngữ pháp);
 //           mục chưa học thì chưa có bản ghi (= chưa thuộc). Điểm ngữ pháp: id bắt đầu bằng "g" (isGrammarKey).
 import { useSyncExternalStore } from 'react';
 import * as kv from './kv.js';
@@ -275,7 +275,7 @@ export function usePending() {
   return useSyncExternalStore(subscribe, pendingCount);
 }
 
-// Tiến độ một ngôn ngữ trong bảng items: { "<id>": entry } (bỏ tiền tố "zh:" / "ko:")
+// Tiến độ một ngôn ngữ trong bảng items: { "<id>": entry } (bỏ tiền tố "zh:" / "ko:" / "ja:")
 const langCache = new Map();
 export function useLangItems(lang) {
   const items = useTable('items');

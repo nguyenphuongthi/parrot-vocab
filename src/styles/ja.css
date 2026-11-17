@@ -1,0 +1,322 @@
+/* ================= Tiếng Nhật (src/features/ja) =================
+   Furigana, romaji, lưới từ / Kanji, bảng kana, khung chi tiết Kanji, các thể đã chia của động từ / tính từ. */
+
+/* ---------- Furigana ---------- */
+.ja-ruby ruby {
+  ruby-position: over;
+}
+.ja-ruby rt {
+  font-size: 0.5em;
+  font-weight: 500;
+  color: var(--muted);
+  letter-spacing: 0;
+}
+.ja-ruby mark rt {
+  color: inherit;
+}
+.ja-rm {
+  color: var(--muted);
+  font-size: 14px;
+}
+.ja-rm.small {
+  font-size: 12.5px;
+}
+
+/* ---------- Lưới từ vựng / Kanji ---------- */
+.ja-grid {
+  grid-template-columns: repeat(auto-fill, minmax(118px, 1fr));
+}
+.ja-tile {
+  font-family: var(--ja);
+  font-size: 19px;
+  word-break: keep-all;
+}
+.ja-tile.is-long {
+  font-size: 15px;
+}
+.kanji-grid {
+  grid-template-columns: repeat(auto-fill, minmax(76px, 1fr));
+}
+.kanji-tile {
+  min-height: 76px;
+  font-family: var(--ja);
+  font-size: 34px;
+  font-weight: 500;
+}
+.kanji-tile .tile-back {
+  font-size: 15px;
+}
+.kanji-extra {
+  position: absolute;
+  bottom: 7px;
+  right: 8px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  opacity: 0.7;
+}
+.kanji-legend {
+  flex: 1;
+  margin: 0;
+  min-width: 220px;
+}
+
+/* ---------- Khung chi tiết ---------- */
+.detail-word.ja-word {
+  font-family: var(--ja);
+}
+.detail-word.ja-word rt {
+  font-size: 0.42em;
+}
+.ja-forms {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 8px;
+  margin-top: 12px;
+}
+.ja-form {
+  display: grid;
+  gap: 2px;
+  padding: 8px 12px;
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--lang) 45%, var(--surface));
+}
+.ja-form-label {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 600;
+}
+.ja-form .ja-ruby {
+  font-size: 18px;
+}
+
+.kanji-detail .detail-head {
+  align-items: center;
+  gap: 16px;
+}
+.kanji-big {
+  flex: none;
+  width: 120px;
+  height: 120px;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background:
+    linear-gradient(var(--line), var(--line)) center / 100% 1px no-repeat,
+    linear-gradient(var(--line), var(--line)) center / 1px 100% no-repeat,
+    var(--surface);
+  cursor: pointer;
+}
+.kanji-head-info {
+  display: grid;
+  gap: 4px;
+  flex: 1;
+  min-width: 0;
+}
+.kanji-hv {
+  font-size: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: var(--lang-ink);
+}
+.kanji-vi {
+  font-size: 17px;
+  font-weight: 600;
+}
+.kanji-readings dd {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+}
+.ja-reading-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 2px 10px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  font-family: var(--ja);
+  font-size: 17px;
+}
+.ja-reading-chip .ja-rm {
+  font-family: var(--ui);
+}
+.okuri {
+  color: var(--muted);
+}
+.kanji-examples {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 12px 0 0;
+  padding: 0;
+  list-style: none;
+}
+.kanji-examples .word-chip {
+  align-items: center;
+}
+.kanji-examples .ja-ruby {
+  font-size: 18px;
+}
+
+/* ---------- Nét chữ KanjiVG (khung 109) ---------- */
+.stroke-svg.is-kvg path {
+  stroke-width: 4.2;
+}
+.stroke-svg.is-kvg .stroke-num {
+  font-size: 7px;
+}
+.kana-big.has-strokes,
+.kanji-big .stroke-svg {
+  display: block;
+}
+
+/* ---------- Bảng kana ---------- */
+.ja-kana .seg span[lang='ja'] {
+  margin-right: 4px;
+}
+.kana-block {
+  display: grid;
+  gap: 14px;
+}
+.kana-detail {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 12px 14px;
+  border-radius: 16px;
+  background: var(--bg);
+}
+.kana-big {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 96px;
+  height: 96px;
+  font-size: 64px;
+  line-height: 1;
+  color: var(--lang-ink);
+}
+.kana-info {
+  display: grid;
+  justify-items: start;
+  gap: 6px;
+  min-width: 0;
+}
+.kana-rm {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.kana-hint {
+  font-size: 14px;
+}
+.kana-chart {
+  display: grid;
+  gap: 6px;
+}
+.kana-row {
+  display: grid;
+  grid-template-columns: repeat(var(--cols), minmax(0, 1fr));
+  gap: 6px;
+}
+.kana-head span {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+}
+.kana-cell {
+  display: grid;
+  place-items: center;
+  gap: 0;
+  min-height: 58px;
+  padding: 6px 2px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface);
+  cursor: pointer;
+  transition:
+    transform var(--dur-1),
+    border-color var(--dur-1),
+    background var(--dur-1);
+}
+.kana-cell:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+.kana-cell.is-on {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--lang) 70%, var(--surface));
+}
+.kana-cell.is-empty {
+  border: 0;
+  background: none;
+  cursor: default;
+}
+.kana-char {
+  font-size: 26px;
+  line-height: 1.1;
+}
+.kana-cell-rm {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+/* ---------- Câu giao tiếp, flashcard ---------- */
+.phrase-ja {
+  line-height: 1.9;
+}
+.phrase-ja rt {
+  font-size: 0.48em;
+}
+.fc-word[lang='ja'],
+.fc-title .ja-ruby {
+  font-family: var(--ja);
+}
+.fc-word.fc-kanji {
+  font-size: clamp(64px, 14vw, 96px);
+  font-weight: 500;
+}
+.fc-ja-ex {
+  display: grid;
+  gap: 4px;
+  margin: 6px 0 0;
+  padding: 0;
+  list-style: none;
+}
+.fc-back .ja-forms {
+  text-align: left;
+}
+
+/* Sách ngữ pháp: chừa chỗ cho furigana */
+.grammar-book[data-lang='ja'] .gb-ex-target,
+.grammar-book[data-lang='ja'] .gb-practice-q,
+.grammar-book[data-lang='ja'] .gb-wrong,
+.grammar-book[data-lang='ja'] .gb-right {
+  line-height: 2;
+}
+
+@media (max-width: 560px) {
+  .kana-cell {
+    min-height: 50px;
+  }
+  .kana-char {
+    font-size: 22px;
+  }
+  .kana-detail {
+    gap: 12px;
+  }
+  .kanji-big {
+    width: 96px;
+    height: 96px;
+  }
+  .kanji-big .stroke-svg {
+    width: 94px;
+    height: 94px;
+  }
+}

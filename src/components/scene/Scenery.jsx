@@ -1,11 +1,13 @@
 // Nền hoạt hình nhẹ phía sau nội dung: mảng màu pastel trôi chậm + chữ của ngôn ngữ đang học bay lơ lửng
 // (rất mờ) + vài đốm lấp lánh. Chỉ dùng transform / opacity (nhẹ máy); tắt khi máy bật "giảm chuyển động".
 import { memo } from 'react';
+import { HTML_LANG } from '../../lib/langs.js';
 
 const GLYPHS = {
   en: ['A', 'b', 'c', 'Hi', '?', 'Aa', 'z', '!', 'ok', 'é', 'Q', 'w', 'Yes', 'g'],
   zh: ['你', '好', '学', '中', '文', '爱', '书', '山', '水', '月', '人', '大', '心', '天'],
   ko: ['가', '나', '다', '한', '글', 'ㅎ', 'ㅏ', '봄', '꿈', '별', '말', 'ㅇ', '눈', '해'],
+  ja: ['あ', 'い', 'う', 'カ', 'ナ', '日', '本', '花', '空', '山', 'の', 'ね', '桜', '月'],
   all: ['A', '你', '가', 'b', '学', '한', '?', '文', 'ㅎ', 'Hi', '月', '봄', 'z', '心'],
 };
 
@@ -30,7 +32,7 @@ function Scenery({ lang = 'all' }) {
         <span
           key={i}
           className="glyph"
-          lang={lang === 'zh' ? 'zh-CN' : lang === 'ko' ? 'ko' : undefined}
+          lang={HTML_LANG[lang] === 'en' ? undefined : HTML_LANG[lang]}
           style={{ left: `${left}%`, fontSize: size, '--dur': `${dur}s`, '--drift': `${drift}px`, animationDelay: `${delay}s` }}
         >
           {glyphs[i % glyphs.length]}

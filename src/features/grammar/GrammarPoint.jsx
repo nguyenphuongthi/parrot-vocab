@@ -1,4 +1,4 @@
-// Khung chi tiết một điểm ngữ pháp (tiếng Anh / tiếng Hàn): công thức, cách dùng + ví dụ, lưu ý,
+// Khung chi tiết một điểm ngữ pháp (tiếng Anh / Hàn / Nhật): công thức, cách dùng + ví dụ, lưu ý,
 // lỗi thường gặp, luyện tập (gõ đáp án để kiểm tra) và các điểm liên quan.
 import { useRef, useState } from 'react';
 import { itemKey, setMark, useLangItems } from '../../lib/store.js';
@@ -8,6 +8,8 @@ import { MarkPicker } from '../../components/ui/Mark.jsx';
 import { SpeakerIcon } from '../../components/ui/Icons.jsx';
 import DetailNav, { DetailPager, useDetailCard } from '../../components/ui/DetailNav.jsx';
 import { romanize } from '../ko/romanize.js';
+import { Romaji, Ruby } from '../ja/JaText.jsx';
+import { JAPANESE, answerKey, hasKanji, jaPlain, romajiKey, toHiragana, toRomaji } from '../ja/text.js';
 import { LevelBadge } from './levels.jsx';
 
 // Chuỗi có đoạn 【…】 (phần ngữ pháp cần chú ý) → tô đậm đoạn đó.
@@ -16,9 +18,16 @@ export function Marked({ text }) {
   return parts.map((p, i) => (i % 2 ? <mark key={i}>{p}</mark> : p));
 }
 
-export const plain = (s) => s.replace(/【|】/g, '');
+// Bỏ dấu 【】 và phần cách đọc {漢字|かな} → 漢字 (tiếng Nhật)
+export const plain = (s) => s.replace(/【|】/g, '').replace(/\{([^|{}]+)\|[^|{}]+\}/g, '$1');
 
-const VOICE = { en: ['en-US', 0.95], ko: ['ko-KR', 0.85] };
+// Chữ có đánh dấu theo ngôn ngữ: tiếng Nhật có furigana; sentence = câu tiếng Nhật (bỏ dấu cách tách từ)
+export function GText({ text, lang, sentence = false }) {
+  if (lang === 'ja') return <Ruby text={text} keepSpaces={!sentence} lang={sentence ? 'ja' : null} />;
+  return <Marked text={text} />;
+}
+
+const VOICE = { en: ['en-US', 0.95], ko: ['ko-KR', 0.85], ja: ['ja-JP', 0.85] };
 
 function SpeakButton({ text, lang }) {
   const [voice, rate] = VOICE[lang];
@@ -30,7 +39,7 @@ function SpeakButton({ text, lang }) {
       className="icon-btn"
       onClick={(e) => {
         e.stopPropagation();
-        speak(plain(text), voice, { rate });
+        speak(lang === 'ja' ? jaPlain(text) : plain(text), voice, { rate });
       }}
       aria-label="Nghe câu"
       title="Nghe câu"
@@ -45,11 +54,12 @@ function Example({ ex: [target, vi], lang }) {
     <li className="gb-ex">
       <div className="gb-ex-line">
         <span className="gb-ex-target" lang={lang}>
-          <Marked text={target} />
+          <GText text={target} lang={lang} sentence />
         </span>
         <SpeakButton text={target} lang={lang} />
       </div>
       {lang === 'ko' && <div className="gb-ex-rr">{romanize(plain(target))}</div>}
+      {lang === 'ja' && <Romaji text={target} className="gb-ex-rr" />}
       <div className="gb-ex-vi">{vi}</div>
     </li>
   );
@@ -64,6 +74,16 @@ const norm = (s) =>
     .replace(/\s+/g, ' ')
     .trim();
 
+// Tiếng Nhật: gõ bằng kana hoặc romaji đều được (trợ từ は／へ／を chấp nhận cả wa／e／o lẫn ha／he／wo)
+function jaMatch(input, answer) {
+  const typed = answerKey(input);
+  if (!typed) return false;
+  if (typed === answerKey(answer)) return true;
+  if (JAPANESE.test(input) || hasKanji(answer)) return false;
+  const kana = toHiragana(jaPlain(answer));
+  return typed === romajiKey(kana) || typed === toRomaji(kana).replace(/[^a-z]/g, '');
+}
+
 function Practice({ item: [q, a], n, lang }) {
   const answers = a.split('/').map((x) => x.trim());
   const [value, setValue] = useState('');
@@ -72,14 +92,15 @@ function Practice({ item: [q, a], n, lang }) {
   const check = (e) => {
     e.preventDefault();
     if (!value.trim()) return setResult('shown');
-    setResult(answers.some((x) => norm(x) === norm(value)) ? 'ok' : 'wrong');
+    const ok = lang === 'ja' ? answers.some((x) => jaMatch(value, x)) : answers.some((x) => norm(x) === norm(value));
+    setResult(ok ? 'ok' : 'wrong');
   };
   return (
     <li className={`gb-practice is-${result || 'new'}`}>
       <span className="ex-num">{n}</span>
       <form className="gb-practice-body" onSubmit={check}>
         <span lang={lang} className="gb-practice-q">
-          {before}
+          {lang === 'ja' ? <GText text={before} lang={lang} sentence /> : before}
           <input
             value={value}
             onChange={(e) => {
@@ -93,7 +114,7 @@ function Practice({ item: [q, a], n, lang }) {
             lang={lang}
             size={Math.max(6, Math.min(24, answers[0].length + 2))}
           />
-          {after}
+          {lang === 'ja' ? <GText text={after} lang={lang} sentence /> : after}
         </span>
         <span className="gb-practice-actions">
           <button type="submit" className="btn small">
@@ -140,10 +161,11 @@ export default function GrammarPoint({ point, num, lang, nav, onJump, titleOf })
       {point.form?.length > 0 && (
         <section className="gb-block">
           <h4>Cấu trúc</h4>
-          <ul className="gb-form" lang={lang}>
+          {/* Tiếng Nhật: công thức có xen tiếng Việt – phần chữ Nhật tự gắn lang="ja" */}
+          <ul className="gb-form" lang={lang === 'ja' ? undefined : lang}>
             {point.form.map((f, i) => (
               <li key={i}>
-                <Marked text={f} />
+                <GText text={f} lang={lang} />
               </li>
             ))}
           </ul>
@@ -154,7 +176,7 @@ export default function GrammarPoint({ point, num, lang, nav, onJump, titleOf })
         <section className="use gb-block" key={i}>
           {point.uses.length > 1 && <div className="use-label">Cách dùng {i + 1}</div>}
           <p className="gb-explain">
-            <Marked text={u.vi} />
+            <GText text={u.vi} lang={lang} />
           </p>
           <ul className="gb-examples">
             {u.ex.map((ex, j) => (
@@ -170,7 +192,7 @@ export default function GrammarPoint({ point, num, lang, nav, onJump, titleOf })
           <ul>
             {point.notes.map((t, i) => (
               <li key={i}>
-                <Marked text={t} />
+                <GText text={t} lang={lang} />
               </li>
             ))}
           </ul>
@@ -184,10 +206,10 @@ export default function GrammarPoint({ point, num, lang, nav, onJump, titleOf })
             {point.mistakes.map(([wrong, right, why], i) => (
               <li key={i}>
                 <div className="gb-wrong" lang={lang}>
-                  <span aria-label="Sai">✗</span> {wrong}
+                  <span aria-label="Sai">✗</span> {lang === 'ja' ? <GText text={wrong} lang={lang} sentence /> : wrong}
                 </div>
                 <div className="gb-right" lang={lang}>
-                  <span aria-label="Đúng">✓</span> {right}
+                  <span aria-label="Đúng">✓</span> {lang === 'ja' ? <GText text={right} lang={lang} sentence /> : right}
                 </div>
                 <div className="gb-why">{why}</div>
               </li>

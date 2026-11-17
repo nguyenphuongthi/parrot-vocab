@@ -1,5 +1,5 @@
 // Test end-to-end trên bản build (dist/) bằng Chrome headless và một Supabase GIẢ (chặn request ở trình duyệt):
-// đăng nhập, kho từ tiếng Anh, HSK, tiếng Hàn, flashcard, thống kê – và kiểm tra dữ liệu đẩy lên đúng định dạng.
+// đăng nhập, kho từ tiếng Anh, HSK, tiếng Hàn, tiếng Nhật, flashcard, thống kê – và kiểm tra dữ liệu đẩy lên đúng định dạng.
 // Cần: `npm run build` trước, Chrome có trên máy (hoặc CHROME_PATH). Không có thì tự bỏ qua.
 // SCREENSHOT_DIR=<thư mục> để lưu ảnh chụp từng trang.
 import { test, before, after } from 'node:test';
@@ -159,7 +159,7 @@ test('đăng nhập bằng form', { skip, timeout: 30_000 }, async () => {
   await page.close();
 });
 
-test('học và đồng bộ cả 3 ngôn ngữ', { skip, timeout: 90_000 }, async () => {
+test('học và đồng bộ mọi ngôn ngữ', { skip, timeout: 90_000 }, async () => {
   const { page, errors } = await openPage({ session: true });
   const snap = async (name) => shots && page.screenshot({ path: join(shots, `${name}.png`), fullPage: false });
   await page.goto(base + '/');
@@ -301,11 +301,65 @@ test('học và đồng bộ cả 3 ngôn ngữ', { skip, timeout: 90_000 }, asy
   // Thống kê chung
   await page.goto(base + '/#/stats');
   await page.waitForSelector('.stat-card');
-  assert.equal(await page.$$eval('.stat-card', (els) => els.length), 3);
+  assert.equal(await page.$$eval('.stat-card', (els) => els.length), 4);
   await page.waitForSelector('.chart svg');
   await snap('11-stats');
   const today = await page.$eval('.goal-text b', (e) => Number(e.textContent));
   assert.equal(today, 2, 'đã ôn 2 thẻ hôm nay');
+
+  // Tiếng Nhật: bảng kana có nét viết, từ vựng có furigana + romaji + thể đã chia, Kanji, câu giao tiếp, ngữ pháp, flashcard
+  await page.goto(base + '/#/ja/kana');
+  await page.waitForSelector('.kana-cell');
+  assert.equal(await page.$eval('.kana-chart', (el) => el.querySelectorAll('.kana-cell:not(.is-empty)').length), 46);
+  await tap(page, '.kana-cell:nth-child(2)');
+  await page.waitForSelector('.kana-detail .stroke-svg path.stroke-draw');
+  await snap('18-ja-kana');
+  await page.goto(base + '/#/ja/words');
+  await page.waitForSelector('.ja-tile');
+  (await page.$$('.ja-tile'))[0].click();
+  await page.waitForSelector('.detail .pinyin');
+  assert.equal(await page.$eval('.detail .pinyin', (e) => e.textContent), 'konnichiwa');
+  await snap('19-ja-words');
+  // Lọc động từ: khung chi tiết có các thể đã chia (ます, て, ない, た)
+  await tap(page, '.pills .pill:nth-child(2)');
+  await page.evaluate(() => [...document.querySelectorAll('.level-title')].find((b) => b.textContent.includes('sinh hoạt')).click());
+  await page.waitForFunction(() => [...document.querySelectorAll('.ja-tile')].some((t) => t.textContent.includes('起きる')));
+  await page.evaluate(() => [...document.querySelectorAll('.ja-tile')].find((t) => t.textContent.includes('起きる')).click());
+  await page.waitForSelector('.detail .ja-forms');
+  assert.match(await page.$eval('.detail .ja-forms', (e) => e.textContent), /起\(お\)きます.*起\(お\)きて.*起\(お\)きない.*起\(お\)きた/);
+  await snap('19b-ja-verb');
+  await tap(page, '.pills .pill:nth-child(1)');
+  await page.goto(base + '/#/ja/kanji');
+  await page.waitForSelector('.kanji-tile');
+  (await page.$$('.kanji-tile'))[0].click();
+  await page.waitForSelector('.kanji-detail .stroke-svg');
+  assert.equal(await page.$eval('.kanji-hv', (e) => e.textContent), 'nhất');
+  await snap('20-ja-kanji');
+  await page.goto(base + '/#/ja/phrases');
+  await page.waitForSelector('.phrase ruby, .phrase .phrase-ja');
+  await page.click('.phrase .mark-btn');
+  await waitPushed('items', (i) => i.key.startsWith('ja:p:') && i.data.mark === 1);
+  await page.goto(base + '/#/ja/grammar');
+  await page.waitForSelector('.gb-unit');
+  await tap(page, '.gb-unit .level-title');
+  await page.waitForSelector('.gb-point');
+  await tap(page, '.gb-point');
+  await page.waitForSelector('.gb-detail ruby');
+  assert.match(await page.$eval('.gb-detail .gb-ex-rr', (e) => e.textContent), /^[a-z' .,?!"-]+$/);
+  // Bài tập: gõ romaji "wa" cho trợ từ は vẫn được chấm đúng
+  await page.type('.gb-practice input', 'wa');
+  await tap(page, '.gb-practice button[type="submit"]');
+  await page.waitForSelector('.gb-practice .gb-ok');
+  await snap('21-ja-grammar');
+  await page.goto(base + '/#/ja/review');
+  await page.waitForSelector('.deck-controls');
+  await page.select('.deck-controls label:nth-child(1) select', 'new');
+  await page.waitForSelector('.flashcard');
+  await page.click('.flashcard');
+  await page.waitForSelector('.fc-back');
+  await snap('22-ja-flashcard-back');
+  await page.click('.grade.g-2');
+  await waitPushed('items', (i) => i.key.startsWith('ja:') && i.data.srs?.interval === 7);
 
   assert.deepEqual(errors, []);
 });
@@ -314,7 +368,7 @@ test('học và đồng bộ cả 3 ngôn ngữ', { skip, timeout: 90_000 }, asy
 test('giao diện điện thoại không tràn ngang', { skip, timeout: 60_000 }, async () => {
   const { page, errors } = await openPage({ session: true });
   await page.setViewport({ width: 390, height: 844, isMobile: true, hasTouch: true });
-  for (const [route, sel, name] of [['#/zh/vocab', '.tile', '12-mobile-zh'], ['#/stats', '.stat-card', '13-mobile-stats'], ['#/ko/review', '.deck-controls', '14-mobile-ko-review'], ['#/en/words', '.en-item', '15-mobile-en'], ['#/en/grammar', '.gb-unit', '16-mobile-en-grammar'], ['#/ko/grammar2', '.gb-unit', '17-mobile-ko-grammar']]) {
+  for (const [route, sel, name] of [['#/zh/vocab', '.tile', '12-mobile-zh'], ['#/stats', '.stat-card', '13-mobile-stats'], ['#/ko/review', '.deck-controls', '14-mobile-ko-review'], ['#/en/words', '.en-item', '15-mobile-en'], ['#/en/grammar', '.gb-unit', '16-mobile-en-grammar'], ['#/ko/grammar2', '.gb-unit', '17-mobile-ko-grammar'], ['#/ja/kana', '.kana-cell', '23-mobile-ja-kana'], ['#/ja/words', '.ja-tile', '24-mobile-ja-words'], ['#/ja/kanji', '.kanji-tile', '25-mobile-ja-kanji']]) {
     await page.goto(base + '/' + route);
     await page.waitForSelector(sel);
     if (shots) await page.screenshot({ path: join(shots, name + '.png') });

@@ -1,4 +1,4 @@
-// Ba ngôn ngữ và các trang của từng ngôn ngữ (đường dẫn dạng #/<ngôn ngữ>/<trang>).
+// Các ngôn ngữ và các trang của từng ngôn ngữ (đường dẫn dạng #/<ngôn ngữ>/<trang>).
 export const LANGS = {
   en: {
     name: 'Tiếng Anh',
@@ -37,8 +37,25 @@ export const LANGS = {
       ['review', 'Flashcard'],
     ],
   },
+  ja: {
+    name: 'Tiếng Nhật',
+    native: '日本語',
+    glyph: 'あ',
+    unit: 'từ & chữ',
+    tabs: [
+      ['kana', 'Bảng chữ cái'],
+      ['words', 'Từ vựng'],
+      ['kanji', 'Kanji'],
+      ['phrases', 'Giao tiếp'],
+      ['grammar', 'Ngữ pháp N5'],
+      ['review', 'Flashcard'],
+    ],
+  },
 };
 
-// Khoá trong bảng items là điểm ngữ pháp? ("zh:g4-1-2", "en:g:present-simple", "ko:g:ieyo")
+// Thuộc tính lang của HTML cho chữ của từng ngôn ngữ (để trình duyệt chọn đúng font / dạng chữ Hán)
+export const HTML_LANG = { en: 'en', zh: 'zh-CN', ko: 'ko', ja: 'ja' };
+
+// Khoá trong bảng items là điểm ngữ pháp? ("zh:g4-1-2", "en:g:present-simple", "ko:g:ieyo", "ja:g:wa-desu")
 // Điểm ngữ pháp không vào flashcard và không tính vào số từ đã thuộc.
 export const isGrammarKey = (key) => key.charAt(3) === 'g';

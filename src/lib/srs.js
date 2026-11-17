@@ -1,4 +1,4 @@
-// Logic thuần (không đụng tới trình duyệt / mạng) – dùng chung cho cả 3 ngôn ngữ và chạy được trong test Node.
+// Logic thuần (không đụng tới trình duyệt / mạng) – dùng chung cho mọi ngôn ngữ và chạy được trong test Node.
 // Chuyển từ extension/shared.js của Vocab English Lens; định dạng dữ liệu giữ NGUYÊN để extension cũ
 // và app này cùng đọc/ghi bảng `words` trên Supabase:
 //   mark      0 = chưa thuộc (mặc định) · 1 = hơi nhớ · 2 = đã thuộc

@@ -1,4 +1,4 @@
-// Flashcard – ôn tập ngắt quãng, dùng chung cho cả 3 ngôn ngữ (chuyển từ bản tiếng Anh cũ).
+// Flashcard – ôn tập ngắt quãng, dùng chung cho mọi ngôn ngữ (chuyển từ bản tiếng Anh cũ).
 //   Chấm "Chưa thuộc" → ôn lại ngày mai (và gặp lại sau vài thẻ trong lượt này)
 //   "Hơi nhớ" → ≥ 3 ngày (tăng chậm) · "Đã thuộc" → ≥ 7 ngày rồi ×2,5 mỗi lần (tối đa 180 ngày)
 import { useEffect, useMemo, useRef, useState } from 'react';
@@ -154,7 +154,10 @@ export default function Flashcards({ lang }) {
     const typed = face.typed.trim();
     const answer = normalizeAnswer(lang, typed);
     const correct = !!answer && card.answers.includes(answer);
-    const expected = lang === 'zh' ? `${card.raw.py} (${card.word})` : card.word;
+    const expected =
+      lang === 'zh' ? `${card.raw.py} (${card.word})`
+      : lang === 'ja' && card.raw.kana && card.raw.kana !== card.word ? `${card.raw.kana} (${card.word})`
+      : card.word;
     showResult(correct, correct ? ['✓ Chính xác', typed] : ['✗ Bạn gõ', typed || '(trống)', expected]);
     if (settings.autoPlay) card.speak();
   };
@@ -443,8 +446,10 @@ export default function Flashcards({ lang }) {
                           autoFocus
                           value={face.typed}
                           onChange={(e) => setFace((f) => ({ ...f, typed: e.target.value }))}
-                          placeholder={lang === 'zh' ? 'pinyin, vd. nihao' : lang === 'ko' ? '한국어' : 'English'}
-                          lang={lang === 'ko' ? 'ko' : 'en'}
+                          placeholder={
+                            lang === 'zh' ? 'pinyin, vd. nihao' : lang === 'ko' ? '한국어' : lang === 'ja' ? 'かな hoặc romaji, vd. taberu' : 'English'
+                          }
+                          lang={lang === 'ko' || lang === 'ja' ? lang : 'en'}
                           autoComplete="off"
                           autoCapitalize="off"
                           spellCheck="false"

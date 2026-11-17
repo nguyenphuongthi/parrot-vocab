@@ -8,6 +8,7 @@
 --                "zh:1-爱" (từ HSK 1) · "zh:g4-1-2" (ngữ pháp HSK 4, bài 1, điểm 2)
 --                "ko:w:학교" (từ vựng) · "ko:p:감사합니다" (câu giao tiếp) · "ko:g:ieyo" (ngữ pháp TOPIK)
 --                "en:g:present-simple" (ngữ pháp tiếng Anh)
+--                "ja:w:食べる" (từ vựng) · "ja:k:日" (kanji) · "ja:p:…" (câu giao tiếp) · "ja:g:wa-desu" (ngữ pháp N5)
 --                data = { mark, srs, markLog, reviewLog, addedAt, updatedAt }. Nội dung bài học nằm trong app.
 -- Cả hai bảng đồng bộ cùng một cách: xoá mềm (deleted), bản sửa mới hơn (updated_at) thắng,
 -- máy khác kéo thay đổi theo synced_at.
@@ -74,9 +75,9 @@ create table if not exists public.items (
   primary key (user_id, key)
 );
 
--- Ràng buộc khoá: đặt lại mỗi lần chạy để thêm được ngôn ngữ mới (bản đầu chỉ cho phép zh, ko).
+-- Ràng buộc khoá: đặt lại mỗi lần chạy để thêm được ngôn ngữ mới (bản đầu chỉ cho phép zh, ko; sau thêm en, ja).
 alter table public.items drop constraint if exists items_key_check;
-alter table public.items add constraint items_key_check check (key ~ '^(en|zh|ko):' and char_length(key) <= 200);
+alter table public.items add constraint items_key_check check (key ~ '^(en|zh|ko|ja):' and char_length(key) <= 200);
 
 create index if not exists items_user_synced_idx on public.items (user_id, synced_at);
 

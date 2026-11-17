@@ -1,4 +1,4 @@
-// Mục tiêu ngày + chuỗi ngày học. Mặc định cộng cả 3 ngôn ngữ; truyền `list` để tính riêng.
+// Mục tiêu ngày + chuỗi ngày học. Mặc định cộng mọi ngôn ngữ; truyền `list` để tính riêng.
 //  - Ngọn lửa to dần theo số ngày liên tiếp; mốc 7 / 30 ngày có huy hiệu.
 //  - Bản dùng chung (không truyền list): vừa đạt mục tiêu → chú vẹt bay vòng + pháo giấy lớn.
 import { useEffect, useMemo, useRef } from 'react';

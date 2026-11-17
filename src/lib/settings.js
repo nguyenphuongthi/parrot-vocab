@@ -7,19 +7,20 @@ export const DEFAULT_DECK = {
   source: 'due', // due | new | marks | recent | lapses
   mode: 'front', // front (từ → nghĩa) | back (nghĩa → từ) | listen | type | choice
   states: [0, 1], // nguồn "theo mức thuộc"
-  scope: 'all', // phạm vi: từ loại (Anh), cấp HSK (Trung), chủ đề (Hàn)
+  scope: 'all', // phạm vi: từ loại (Anh), cấp HSK (Trung), chủ đề (Hàn, Nhật)
   order: 'random', // random | list
-  newCount: 10, // số từ mới mỗi lượt (Trung / Hàn)
+  newCount: 10, // số từ mới mỗi lượt (Trung / Hàn / Nhật)
 };
 
 export const DEFAULTS = {
   accent: 'us', // giọng tiếng Anh: us | uk
   autoPlay: true, // tự phát âm khi mở thẻ
-  dailyGoal: 20, // số thẻ flashcard mỗi ngày (cộng cả 3 ngôn ngữ)
+  dailyGoal: 20, // số thẻ flashcard mỗi ngày (cộng mọi ngôn ngữ)
   theme: 'auto', // auto | light | dark
   motion: 'auto', // hiệu ứng: auto (theo "giảm chuyển động" của máy) | full | lite | off – xem lib/motion.js
   scene: 'auto', // cảnh thanh trên: auto (xoay vòng các cảnh mỗi 2 phút) | day | sunset | night | rain | snow
-  deck: { en: { ...DEFAULT_DECK }, zh: { ...DEFAULT_DECK }, ko: { ...DEFAULT_DECK } },
+  jaRomaji: true, // tiếng Nhật: hiện romaji dưới chữ (người mới) – tắt khi đã đọc được kana
+  deck: { en: { ...DEFAULT_DECK }, zh: { ...DEFAULT_DECK }, ko: { ...DEFAULT_DECK }, ja: { ...DEFAULT_DECK } },
 };
 
 function load() {

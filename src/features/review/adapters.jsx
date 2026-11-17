@@ -9,6 +9,12 @@ import { AccentButtons, CefrBadge, Contexts, Details, Meanings, playEnglish, syn
 import { loadAllWords, loadIndex } from '../zh/data.js';
 import { fold } from '../../lib/text.js';
 import { loadKo } from '../ko/data.js';
+import { loadJa } from '../ja/data.js';
+import { Romaji, Ruby, sayJa } from '../ja/JaText.jsx';
+import { Forms } from '../ja/JaWords.jsx';
+import { TYPE_LABEL } from '../ja/conjugate.js';
+import { splitKun } from '../ja/entries.js';
+import { answerKey, romajiKey, toHiragana } from '../ja/text.js';
 import { wordKey } from '../../lib/srs.js';
 
 export const MODES = {
@@ -31,6 +37,13 @@ export const MODES = {
     ['back', 'Việt → Hàn'],
     ['listen', 'Nghe đoán từ'],
     ['type', 'Gõ chữ Hàn'],
+    ['choice', 'Trắc nghiệm'],
+  ],
+  ja: [
+    ['front', 'Nhật → Việt'],
+    ['back', 'Việt → Nhật'],
+    ['listen', 'Nghe đoán từ'],
+    ['type', 'Gõ cách đọc'],
     ['choice', 'Trắc nghiệm'],
   ],
 };
@@ -267,12 +280,143 @@ function useKoreanDeck() {
   }, [data, progress, error]);
 }
 
+// ---------- Tiếng Nhật ----------
+
+function JaBack({ card }) {
+  const e = card.raw;
+  if (e.kind === 'k') {
+    return (
+      <>
+        <div className="fc-title" lang="ja">
+          {e.ja} <span className="hanviet">{e.hv}</span>
+        </div>
+        <div className="fc-meaning-main">{e.vi}</div>
+        <div className="fc-reading">
+          {e.on.length > 0 && (
+            <span className="pinyin" lang="ja" title="Âm On">
+              {e.on.join('・')}
+            </span>
+          )}
+          {e.kun.length > 0 && (
+            <span className="hanviet" lang="ja" title="Âm Kun">
+              {e.kun.map((r) => splitKun(r).kana).join('・')}
+            </span>
+          )}
+        </div>
+        <ul className="fc-ja-ex">
+          {e.ex.slice(0, 3).map((x) => (
+            <li key={x.ja + x.kana}>
+              <Ruby text={x.ruby} /> <Romaji rm={x.rm} className="small" /> · {x.vi}
+            </li>
+          ))}
+        </ul>
+      </>
+    );
+  }
+  return (
+    <>
+      <div className="fc-title">
+        <Ruby text={e.kind === 'p' ? e.text : e.ruby} />
+      </div>
+      <div className="fc-reading">
+        <Romaji rm={e.rm} className="pinyin" />
+        {e.kind === 'w' && e.kana !== e.ja && (
+          <span className="hanviet" lang="ja">
+            {e.kana}
+          </span>
+        )}
+        {e.hv && <span className="hanviet">{e.hv}</span>}
+        {e.t && <span className="cefr cefr-a">{TYPE_LABEL[e.t]}</span>}
+      </div>
+      <div className="fc-meaning-main">{e.vi}</div>
+      {e.note && <p className="muted">{e.note}</p>}
+      {e.kind === 'w' && <Forms entry={e} />}
+    </>
+  );
+}
+
+// Đáp án chấp nhận khi gõ: kana (hiragana / katakana), chữ viết, romaji
+const jaAnswers = (...kanas) => kanas.flatMap((k) => [answerKey(k), romajiKey(k)]);
+
+function useJapaneseDeck() {
+  const progress = useLangItems('ja');
+  const [data, setData] = useState(null);
+  const [error, setError] = useState(null);
+  useEffect(() => {
+    loadJa()
+      .then(setData)
+      .catch((e) => setError(e.message));
+  }, []);
+  return useMemo(() => {
+    if (!data) return { ready: false, error, cards: [], scopes: [] };
+    const base = (e, i) => ({
+      key: `ja:${e.id}`,
+      table: 'items',
+      id: e.id,
+      word: e.ja,
+      wordLang: 'ja',
+      meaning: e.kind === 'k' ? `${e.hv} – ${e.vi}` : e.vi,
+      level: { label: 'N5', rank: 0 },
+      order: i,
+      entry: progress[e.id],
+      raw: e,
+      Back: JaBack,
+    });
+    const words = data.words.map((e, i) => ({
+      ...base(e, i),
+      scopes: new Set([e.group, 'words']),
+      answers: [answerKey(e.ja), ...jaAnswers(e.kana)],
+      speak: () => sayJa(e.kana),
+      Prompt: ({ card }) => (
+        <div className="fc-word" lang="ja">
+          {card.word}
+        </div>
+      ),
+    }));
+    const kanji = data.kanji.map((e, i) => {
+      // Đọc theo âm Kun (nếu có) – chữ đứng một mình thường đọc như vậy
+      const readings = [...e.kun.map((r) => splitKun(r).kana), ...e.on.map(toHiragana)];
+      return {
+        ...base(e, words.length + i),
+        scopes: new Set(['kanji', `kanji-${e.group}`]),
+        answers: [e.ja, ...jaAnswers(...readings)],
+        speak: () => sayJa(readings[0] || e.ja),
+        Prompt: ({ card }) => (
+          <div className="fc-word fc-kanji" lang="ja">
+            {card.word}
+          </div>
+        ),
+      };
+    });
+    const phrases = data.phrases.map((e, i) => ({
+      ...base(e, words.length + kanji.length + i),
+      scopes: new Set(['phrases']),
+      answers: [answerKey(e.ja), ...jaAnswers(e.kana)],
+      speak: () => sayJa(e.ja),
+      Prompt: ({ card }) => (
+        <div className="fc-word is-phrase" lang="ja">
+          {card.word}
+        </div>
+      ),
+    }));
+    const scopes = [
+      { id: 'words', label: 'Tất cả từ vựng', count: data.words.length },
+      ...data.topics.map((t) => ({ id: t.id, label: `· ${t.name}`, count: t.items.length })),
+      { id: 'kanji', label: 'Kanji N5', count: data.kanji.length },
+      ...data.kanjiGroups.map((g) => ({ id: `kanji-${g.id}`, label: `· Kanji: ${g.name}`, count: g.items.length })),
+      { id: 'phrases', label: 'Câu giao tiếp', count: data.phrases.length },
+    ];
+    return { ready: true, cards: [...words, ...kanji, ...phrases], scopes, hasNew: true, scopeLabel: 'Từ vựng + Kanji + câu giao tiếp' };
+  }, [data, progress, error]);
+}
+
 // Hook dữ liệu thẻ theo ngôn ngữ. Nơi gọi phải gắn key={lang} để mỗi ngôn ngữ là một component riêng
 // (thứ tự hook không đổi trong suốt vòng đời component).
-export const DECK_HOOKS = { en: useEnglishDeck, zh: useChineseDeck, ko: useKoreanDeck };
+export const DECK_HOOKS = { en: useEnglishDeck, zh: useChineseDeck, ko: useKoreanDeck, ja: useJapaneseDeck };
 
 export function normalizeAnswer(lang, s) {
   if (lang === 'en') return normalizeEn(s);
   if (lang === 'zh') return /[一-鿿]/.test(s) ? s.trim() : pinyinKey(s);
+  if (lang === 'ja') return answerKey(s);
   return hangulKey(s);
 }
