@@ -1,0 +1,30 @@
+{
+  "id": "position",
+  "name": "Vị trí & phương hướng",
+  "ja": "いち・ほうこう",
+  "words": [
+    ["上", "うえ", "trên", "thượng"],
+    ["下", "した", "dưới", "hạ"],
+    ["前", "まえ", "trước, phía trước", "tiền"],
+    ["後ろ", "うしろ", "sau, phía sau", "hậu"],
+    ["右", "みぎ", "bên phải", "hữu"],
+    ["左", "ひだり", "bên trái", "tả"],
+    ["中", "なか", "trong, bên trong", "trung"],
+    ["外", "そと", "ngoài, bên ngoài", "ngoại"],
+    ["外", "ほか", "khác, ngoài ra", "ngoại", {"id": "外(ほか)"}],
+    ["横", "よこ", "bên cạnh; chiều ngang", "hoành"],
+    ["隣", "となり", "bên cạnh, sát vách", "lân"],
+    ["そば", "", "bên cạnh, gần"],
+    ["近く", "ちかく", "gần, chỗ gần", "cận"],
+    ["間", "あいだ", "giữa, ở giữa", "gian"],
+    ["向こう", "むこう", "phía bên kia", "hướng"],
+    ["東", "ひがし", "phía đông", "đông"],
+    ["西", "にし", "phía tây", "tây"],
+    ["南", "みなみ", "phía nam", "nam"],
+    ["北", "きた", "phía bắc", "bắc"],
+    ["側", "がわ", "phía, bên (右側, 向こう側)", "trắc"],
+    ["辺", "へん", "vùng, khoảng (この辺)", "biên"],
+    ["先", "さき", "phía trước; trước (thời gian)", "tiên"],
+    ["まっすぐ", "", "thẳng"]
+  ]
+}

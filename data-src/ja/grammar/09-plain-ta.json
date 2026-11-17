@@ -1,0 +1,237 @@
+{
+  "id": "plain",
+  "name": "Thể từ điển, thể た & thể thông thường",
+  "intro": "Ngoài thể lịch sự です／ます, tiếng Nhật có thể thông thường (普通形) dùng khi nói với bạn bè, gia đình và để ghép câu phức: “tôi nghĩ rằng…”, “khi…”, “người mà…”.",
+  "points": [
+    {
+      "id": "koto-ga-dekiru",
+      "title": "Vる こと が できます",
+      "sub": "Có thể làm V",
+      "level": "N5",
+      "form": ["V（thể từ điển）＋【こと が できます】", "N ＋【が できます】"],
+      "uses": [
+        {
+          "vi": "Khả năng (biết làm) hoặc khả năng do hoàn cảnh cho phép.",
+          "ex": [
+            ["{私|わたし} は ピアノ を {弾|ひ}く 【こと が できます】。", "Tôi biết chơi piano."],
+            ["この {店|みせ} で カード を {使|つか}う 【こと が できます】 か。", "Ở cửa hàng này dùng thẻ được không?"],
+            ["マリアさん は {日本語|にほんご} 【が できます】。", "Chị Maria biết tiếng Nhật."]
+          ]
+        }
+      ],
+      "practice": [["{漢字|かんじ} を {書|か}く ___ が できます。", "こと"]],
+      "see": ["koto-ga-suki"]
+    },
+    {
+      "id": "koto-ga-suki",
+      "title": "Vる こと が 好きです／趣味は Vる ことです",
+      "sub": "Thích (việc) làm V / Sở thích là làm V",
+      "level": "N5",
+      "form": ["V（thể từ điển）＋【こと】／【の】 が {好|す}き です", "{趣味|しゅみ} は V（thể từ điển）＋【こと】 です"],
+      "uses": [
+        {
+          "vi": "こと / の biến động từ thành danh từ (“việc làm V”).",
+          "ex": [
+            ["{私|わたし} の {趣味|しゅみ} は {写真|しゃしん} を {撮|と}る 【こと】 です。", "Sở thích của tôi là chụp ảnh."],
+            ["{料理|りょうり} を {作|つく}る 【の】 が {好|す}き です。", "Tôi thích nấu ăn."]
+          ]
+        }
+      ],
+      "practice": [["{趣味|しゅみ} は {本|ほん} を {読|よ}む ___ です。", "こと"]],
+      "see": ["ga-subject", "koto-ga-dekiru"]
+    },
+    {
+      "id": "mae-ni",
+      "title": "Vる／N の 前に",
+      "sub": "Trước khi …",
+      "level": "N5",
+      "form": ["V（thể từ điển）＋【{前|まえ}に】", "N ＋ の ＋【{前|まえ}に】", "Khoảng thời gian ＋【{前|まえ}に】: {三年前|さんねんまえ}に (3 năm trước)"],
+      "uses": [
+        {
+          "vi": "Động từ trước 前に luôn ở thể từ điển, dù câu nói về quá khứ.",
+          "ex": [
+            ["{寝|ね}る 【{前|まえ}に】、 {歯|は} を {磨|みが}きます。", "Trước khi ngủ tôi đánh răng."],
+            ["{食事|しょくじ} の 【{前|まえ}に】、 {手|て} を {洗|あら}います。", "Trước bữa ăn tôi rửa tay."],
+            ["{日本|にほん} へ {来|く}る 【{前|まえ}に】、 {日本語|にほんご} を {勉強|べんきょう}しました。", "Trước khi đến Nhật tôi đã học tiếng Nhật."]
+          ]
+        }
+      ],
+      "mistakes": [["{来|き}た {前|まえ}に", "{来|く}る {前|まえ}に", "Trước 前に luôn dùng thể từ điển."]],
+      "practice": [["{出|で}かける ___ {電話|でんわ}します。", "前に/まえに"]],
+      "see": ["ta-ato-de", "te-kara"]
+    },
+    {
+      "id": "ta-form",
+      "title": "Thể た",
+      "sub": "Quá khứ thể thông thường",
+      "level": "N5",
+      "form": ["Chia giống thể て, đổi 【て → た】, 【で → だ】: {書|か}いて → {書|か}いた, {飲|の}んで → {飲|の}んだ, {来|き}て → {来|き}た, して → した"],
+      "uses": [
+        {
+          "vi": "Quá khứ thân mật (thay cho ～ました) và dùng để ghép các mẫu ～たことがあります, ～たり, ～た後で.",
+          "ex": [
+            ["{昨日|きのう} {何|なに} した？ ―― {映画|えいが} を {見|み}た。", "Hôm qua cậu làm gì? — Tớ xem phim."],
+            ["もう {昼|ひる}ご{飯|はん} {食|た}べた？", "Ăn trưa chưa?"]
+          ]
+        }
+      ],
+      "practice": [
+        ["{行|い}く → ___", "行った/いった"],
+        ["{泳|およ}ぐ → {泳|およ}___", "いだ"]
+      ],
+      "see": ["te-form", "ta-koto-ga-aru"]
+    },
+    {
+      "id": "ta-koto-ga-aru",
+      "title": "Vた こと が あります",
+      "sub": "Đã từng làm V",
+      "level": "N5",
+      "form": ["Vた ＋【こと が あります】", "Chưa từng: Vた こと が ありません"],
+      "uses": [
+        {
+          "vi": "Kinh nghiệm trong quá khứ (đã từng làm một lần nào đó).",
+          "ex": [
+            ["{富士山|ふじさん} に {登|のぼ}った 【こと が あります】。", "Tôi đã từng leo núi Phú Sĩ."],
+            ["すし を {食|た}べた 【こと が あります】 か。 ―― いいえ、 {一度|いちど} も ありません。", "Bạn đã từng ăn sushi chưa? — Chưa, chưa lần nào."]
+          ]
+        }
+      ],
+      "notes": ["Việc vừa làm hôm qua thì nói ～ました, không dùng ～たことがあります."],
+      "practice": [["{日本|にほん} へ {行|い}った ___ が あります か。", "こと"]],
+      "see": ["ta-form"]
+    },
+    {
+      "id": "tari-tari",
+      "title": "Vたり Vたり します",
+      "sub": "Lúc thì … lúc thì … / nào là … nào là …",
+      "level": "N5",
+      "form": ["V1た ＋【り】、 V2た ＋【り】 ＋【します】"],
+      "uses": [
+        {
+          "vi": "Liệt kê vài hành động tiêu biểu (không theo thứ tự, còn những việc khác).",
+          "ex": [
+            ["{日曜日|にちようび} は {本|ほん} を {読|よ}んだ【り】、 {音楽|おんがく} を {聞|き}いた【り】 【します】。", "Chủ nhật tôi đọc sách, nghe nhạc…"],
+            ["{休|やす}み に {京都|きょうと} で {写真|しゃしん} を {撮|と}った【り】、 お{寺|てら} を {見|み}た【り】 しました。", "Kỳ nghỉ tôi chụp ảnh, ngắm chùa… ở Kyoto."]
+          ]
+        }
+      ],
+      "notes": ["Phân biệt: ～て、～て nói các hành động theo đúng thứ tự; ～たり～たり chỉ nêu ví dụ."],
+      "practice": [["{週末|しゅうまつ} は {掃除|そうじ} を したり、 {買|か}い{物|もの} に {行|い}った___ します。", "り"]],
+      "see": ["te-sequence", "ya-nado"]
+    },
+    {
+      "id": "ta-ato-de",
+      "title": "Vた／N の 後で",
+      "sub": "Sau khi …",
+      "level": "N5",
+      "form": ["Vた ＋【{後|あと}で】", "N ＋ の ＋【{後|あと}で】"],
+      "uses": [
+        {
+          "vi": "Động từ trước 後で luôn ở thể た.",
+          "ex": [
+            ["{仕事|しごと} が {終|お}わった 【{後|あと}で】、 ジム へ {行|い}きます。", "Sau khi xong việc tôi đi phòng tập."],
+            ["{授業|じゅぎょう} の 【{後|あと}で】、 {図書館|としょかん} で {勉強|べんきょう}します。", "Sau giờ học tôi học ở thư viện."]
+          ]
+        }
+      ],
+      "practice": [["ご{飯|はん} を {食|た}べた ___、 {散歩|さんぽ}します。", "後で/あとで"]],
+      "see": ["mae-ni", "te-kara"]
+    },
+    {
+      "id": "plain-form",
+      "title": "Thể thông thường (普通形)",
+      "sub": "Nói thân mật: だ・ない・た・なかった",
+      "level": "N5",
+      "form": ["Động từ: {行|い}く・{行|い}かない・{行|い}った・{行|い}かなかった", "Tính từ い: {高|たか}い・{高|たか}くない・{高|たか}かった・{高|たか}くなかった", "Tính từ な／N: {暇|ひま}【だ】・{暇|ひま}じゃない・{暇|ひま}だった・{暇|ひま}じゃなかった"],
+      "uses": [
+        {
+          "vi": "Dùng với bạn bè, gia đình. Trong câu hỏi thân mật thường bỏ か và lên giọng; だ thường bị lược.",
+          "ex": [
+            ["{明日|あした} {暇|ひま}？ ―― うん、 {暇|ひま}【だ】 よ。", "Mai rảnh không? — Ừ, rảnh."],
+            ["コーヒー {飲|の}む？ ―― ううん、 いらない。", "Uống cà phê không? — Không, khỏi."],
+            ["その {映画|えいが}、 おもしろかった？", "Phim đó hay không?"]
+          ]
+        }
+      ],
+      "notes": ["Thể thông thường còn dùng trong câu phức: ～と{思|おも}います, ～とき, mệnh đề bổ nghĩa cho danh từ."],
+      "practice": [["{昨日|きのう} は {雨|あめ} ___。 (thể thông thường, quá khứ)", "だった"]],
+      "see": ["to-omoimasu", "relative-clause"]
+    },
+    {
+      "id": "to-omoimasu",
+      "title": "～と 思います",
+      "sub": "Tôi nghĩ rằng …",
+      "level": "N5",
+      "form": ["Thể thông thường ＋【と {思|おも}います】 (N, なA: ～だ と{思|おも}います)"],
+      "uses": [
+        {
+          "vi": "Nêu suy đoán hoặc ý kiến của người nói.",
+          "ex": [
+            ["{明日|あした} は {雨|あめ} が {降|ふ}る 【と {思|おも}います】。", "Tôi nghĩ mai trời sẽ mưa."],
+            ["この {映画|えいが} は おもしろい 【と {思|おも}います】。", "Tôi nghĩ phim này hay."],
+            ["{田中|たなか}さん は もう {帰|かえ}った 【と {思|おも}います】。", "Tôi nghĩ anh Tanaka đã về rồi."]
+          ]
+        }
+      ],
+      "mistakes": [["{便利|べんり} と {思|おも}います。", "{便利|べんり} だ と {思|おも}います。", "Danh từ và tính từ な cần だ."]],
+      "practice": [["{日本|にほん} の {電車|でんしゃ} は {便利|べんり} ___ と {思|おも}います。", "だ"]],
+      "see": ["plain-form", "to-iimasu"]
+    },
+    {
+      "id": "to-iimasu",
+      "title": "～と 言いました",
+      "sub": "(Ai đó) đã nói rằng …",
+      "level": "N5",
+      "form": ["「Câu nguyên văn」【と {言|い}いました】", "Thể thông thường ＋【と {言|い}いました】 (gián tiếp)"],
+      "uses": [
+        {
+          "vi": "Trích dẫn lời nói của ai đó.",
+          "ex": [
+            ["{寝|ね}る {前|まえ}に 「おやすみなさい」 【と {言|い}います】。", "Trước khi ngủ người ta nói “Oyasuminasai”."],
+            ["{先生|せんせい} は {明日|あした} テスト が ある 【と {言|い}いました】。", "Thầy nói mai có bài kiểm tra."]
+          ]
+        }
+      ],
+      "practice": [["{母|はは} は {早|はや}く {帰|かえ}って きて ___ {言|い}いました。", "と"]],
+      "see": ["to-omoimasu"]
+    },
+    {
+      "id": "relative-clause",
+      "title": "Câu bổ nghĩa cho danh từ",
+      "sub": "N mà … (người mà tôi gặp, sách tôi đã mua…)",
+      "level": "N5",
+      "form": ["Thể thông thường ＋ N (N, なA dùng 【の／な】 thay cho だ)"],
+      "uses": [
+        {
+          "vi": "Cả một câu đứng trước danh từ để bổ nghĩa – ngược với tiếng Việt. Chủ ngữ trong câu bổ nghĩa dùng が.",
+          "ex": [
+            ["これ は {昨日|きのう} {買|か}った 【{本|ほん}】 です。", "Đây là quyển sách tôi mua hôm qua."],
+            ["めがね を かけて いる 【{人|ひと}】 は {山田|やまだ}さん です。", "Người đang đeo kính là anh Yamada."],
+            ["{私|わたし} が {住|す}んで いる 【{町|まち}】 は {静|しず}か です。", "Thị trấn tôi đang sống yên tĩnh."]
+          ]
+        }
+      ],
+      "practice": [["あれ は {兄|あに} ___ {作|つく}った ケーキ です。", "が"]],
+      "see": ["plain-form", "toki"]
+    },
+    {
+      "id": "toki",
+      "title": "～とき",
+      "sub": "Khi …, lúc …",
+      "level": "N5",
+      "form": ["V／いA（thể thông thường）＋【とき】", "なA ＋ な ＋【とき】 · N ＋ の ＋【とき】"],
+      "uses": [
+        {
+          "vi": "Chỉ thời điểm xảy ra sự việc ở vế sau.",
+          "ex": [
+            ["{道|みち} を {渡|わた}る 【とき】、 {車|くるま} に {気|き} を つけて ください。", "Khi băng qua đường hãy chú ý xe cộ."],
+            ["{暇|ひま}な 【とき】、 {何|なに} を します か。", "Lúc rảnh bạn làm gì?"],
+            ["{子供|こども} の 【とき】、 {大阪|おおさか} に {住|す}んで いました。", "Hồi nhỏ tôi sống ở Osaka."]
+          ]
+        }
+      ],
+      "practice": [["{寂|さび}しい ___、 {家族|かぞく} に {電話|でんわ}します。", "とき"]],
+      "see": ["relative-clause"]
+    }
+  ]
+}

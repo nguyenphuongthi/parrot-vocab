@@ -1,5 +1,5 @@
 // Mức độ của điểm ngữ pháp. Tiếng Anh theo CEFR, gom thành 3 mức: Cơ bản (A1–A2) · Trung cấp (B1–B2) · Nâng cao (C1).
-// Tiếng Hàn theo cấp TOPIK (mỗi cấp là một tab riêng).
+// Tiếng Hàn theo cấp TOPIK (mỗi cấp là một tab riêng). Tiếng Nhật: chỉ có N5.
 export const TIERS = [
   { id: 'basic', label: 'Cơ bản', levels: ['A1', 'A2'] },
   { id: 'mid', label: 'Trung cấp', levels: ['B1', 'B2'] },
@@ -9,6 +9,7 @@ export const TIERS = [
 export const tierOf = (level) => TIERS.findIndex((t) => t.levels.includes(level));
 
 export function LevelBadge({ lang, level, long = false }) {
+  if (lang === 'ja') return long ? <span className="cefr cefr-a">JLPT {level}</span> : null;
   if (lang !== 'en') return long ? <span className="cefr cefr-b">TOPIK {level}</span> : null;
   const tier = TIERS[tierOf(level)];
   return (

@@ -81,7 +81,7 @@ export default function SettingsView({ onLogout }) {
       <section className="card">
         <h3 className="card-title">Học tập</h3>
         <label className="row">
-          <span>Mục tiêu mỗi ngày (số thẻ flashcard, cộng cả 3 ngôn ngữ)</span>
+          <span>Mục tiêu mỗi ngày (số thẻ flashcard, cộng mọi ngôn ngữ)</span>
           <input
             type="number"
             min="1"
@@ -94,6 +94,13 @@ export default function SettingsView({ onLogout }) {
         <label className="row">
           <span>Tự phát âm khi mở thẻ / lật flashcard</span>
           <input type="checkbox" checked={settings.autoPlay} onChange={(e) => updateSettings({ autoPlay: e.target.checked })} />
+        </label>
+        <label className="row">
+          <span>
+            Romaji cho tiếng Nhật
+            <small className="row-hint">Hiện cách đọc bằng chữ Latin dưới chữ Nhật – tắt khi đã đọc được Hiragana, Katakana</small>
+          </span>
+          <input type="checkbox" checked={settings.jaRomaji} onChange={(e) => updateSettings({ jaRomaji: e.target.checked })} />
         </label>
         <label className="row">
           <span>Giọng tiếng Anh ưu tiên</span>

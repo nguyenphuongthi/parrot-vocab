@@ -1,0 +1,88 @@
+{
+  "id": "nai",
+  "name": "Thể ない & nghĩa vụ",
+  "intro": "Thể ない là dạng phủ định thông thường của động từ. Từ thể ない tạo ra các mẫu: đừng làm, phải làm, không cần làm.",
+  "points": [
+    {
+      "id": "nai-form",
+      "title": "Cách chia thể ない",
+      "sub": "Phủ định thể thông thường",
+      "level": "N5",
+      "form": ["Nhóm I: âm cuối う-hàng → あ-hàng ＋ ない: {書|か}く → {書|か}【か】ない, {飲|の}む → {飲|の}【ま】ない", "Đuôi う → 【わ】ない: {買|か}う → {買|か}わない", "Ngoại lệ: ある → 【ない】", "Nhóm II: bỏ る ＋ ない: {食|た}べる → {食|た}べない", "Nhóm III: する → しない, {来|く}る → 【{来|こ}ない】"],
+      "uses": [
+        {
+          "vi": "Dùng khi nói chuyện thân mật (thay cho ～ません) và để ghép các mẫu ngữ pháp khác.",
+          "ex": [
+            ["{今日|きょう} は {行|い}かない。", "Hôm nay tớ không đi."],
+            ["{肉|にく} は {食|た}べない。", "Tớ không ăn thịt."],
+            ["{彼|かれ} は {来|こ}ない よ。", "Cậu ấy không đến đâu."]
+          ]
+        }
+      ],
+      "mistakes": [["{買|か}あない", "{買|か}わない", "Đuôi う chia thành わない."], ["{来|く}ない", "{来|こ}ない", "来る → こない."]],
+      "practice": [
+        ["{待|ま}つ → {待|ま}___ない", "た"],
+        ["{会|あ}う → {会|あ}___", "わない"],
+        ["する → ___", "しない"]
+      ],
+      "see": ["naide-kudasai", "plain-form"]
+    },
+    {
+      "id": "naide-kudasai",
+      "title": "Vないで ください",
+      "sub": "Xin đừng làm V",
+      "level": "N5",
+      "form": ["Vない ＋【で ください】"],
+      "uses": [
+        {
+          "vi": "Yêu cầu / nhờ người nghe đừng làm gì, lịch sự hơn ～てはいけません.",
+          "ex": [
+            ["ここ に {車|くるま} を {止|と}めない 【で ください】。", "Xin đừng đỗ xe ở đây."],
+            ["{心配|しんぱい}しない 【で ください】。", "Đừng lo lắng."],
+            ["{忘|わす}れない 【で ください】 ね。", "Đừng quên nhé."]
+          ]
+        }
+      ],
+      "practice": [["{写真|しゃしん} を {撮|と}ら___ ください。", "ないで"]],
+      "see": ["te-kudasai", "te-wa-ikemasen"]
+    },
+    {
+      "id": "nakereba",
+      "title": "Vなければ なりません",
+      "sub": "Phải làm V",
+      "level": "N5",
+      "form": ["Vない bỏ い ＋【ければ なりません】", "Văn nói: Vないと いけません"],
+      "uses": [
+        {
+          "vi": "Bắt buộc phải làm (do quy định, nghĩa vụ, hoàn cảnh).",
+          "ex": [
+            ["{薬|くすり} を {飲|の}まなければ なりません。", "Tôi phải uống thuốc."],
+            ["{明日|あした} {早|はや}く {起|お}きなければ なりません。", "Ngày mai tôi phải dậy sớm."],
+            ["もう {帰|かえ}らないと いけません。", "Tôi phải về rồi."]
+          ]
+        }
+      ],
+      "practice": [["レポート を {書|か}か___ なりません。", "なければ"]],
+      "see": ["nakute-mo-ii"]
+    },
+    {
+      "id": "nakute-mo-ii",
+      "title": "Vなくても いいです",
+      "sub": "Không cần làm V cũng được",
+      "level": "N5",
+      "form": ["Vない bỏ い ＋【くても いい です】"],
+      "uses": [
+        {
+          "vi": "Không bắt buộc phải làm.",
+          "ex": [
+            ["{明日|あした} は {来|こ}なくても いい です。", "Ngày mai anh không cần đến cũng được."],
+            ["{靴|くつ} を {脱|ぬ}がなくても いい です か。", "Không cần cởi giày cũng được phải không?"]
+          ]
+        }
+      ],
+      "notes": ["Trả lời câu hỏi “～なければなりませんか”: いいえ、～なくても いいです。"],
+      "practice": [["{急|いそ}が___ いい です よ。", "なくても"]],
+      "see": ["nakereba"]
+    }
+  ]
+}

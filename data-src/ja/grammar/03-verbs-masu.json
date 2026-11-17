@@ -1,0 +1,164 @@
+{
+  "id": "masu",
+  "name": "Động từ thể ます",
+  "intro": "Thể ます là thể lịch sự của động từ, dùng hằng ngày với người không thân. Động từ tiếng Nhật không chia theo ngôi hay số: “tôi ăn”, “anh ấy ăn”, “họ ăn” đều là {食|た}べます. Thì hiện tại cũng dùng cho tương lai.",
+  "points": [
+    {
+      "id": "masu-forms",
+      "title": "Vます／Vません／Vました／Vませんでした",
+      "sub": "Bốn dạng cơ bản của thể lịch sự",
+      "level": "N5",
+      "form": ["V【ます】 – hiện tại, tương lai, thói quen (khẳng định)", "V【ません】 – hiện tại, tương lai (phủ định)", "V【ました】 – quá khứ (khẳng định)", "V【ませんでした】 – quá khứ (phủ định)"],
+      "uses": [
+        {
+          "vi": "Thì “hiện tại” (ます) nói về thói quen, sự thật hoặc việc sẽ làm trong tương lai.",
+          "ex": [
+            ["{毎朝|まいあさ} コーヒー を {飲|の}み【ます】。", "Sáng nào tôi cũng uống cà phê."],
+            ["{明日|あした} {働|はたら}き【ません】。", "Ngày mai tôi không làm việc."]
+          ]
+        },
+        {
+          "vi": "Quá khứ: ました / ませんでした.",
+          "ex": [
+            ["{昨日|きのう} {勉強|べんきょう}し【ました】。", "Hôm qua tôi đã học."],
+            ["{今朝|けさ} ご{飯|はん} を {食|た}べ【ませんでした】。", "Sáng nay tôi đã không ăn cơm."]
+          ]
+        }
+      ],
+      "notes": ["Phần trước ます gọi là “thể ます bỏ ます” (vd. {食|た}べ, {飲|の}み) – dùng để ghép nhiều mẫu khác: 〜たい, 〜ましょう, 〜に{行|い}きます…", "Xem cách chia từ thể từ điển sang thể ます trong mục “Ba nhóm động từ”."],
+      "practice": [
+        ["{昨日|きのう} {映画|えいが} を {見|み}___。 (đã xem)", "ました"],
+        ["{私|わたし} は お{酒|さけ} を {飲|の}み___。 (không uống)", "ません"]
+      ],
+      "see": ["verb-groups", "mashou"]
+    },
+    {
+      "id": "verb-groups",
+      "title": "Ba nhóm động từ",
+      "sub": "Nhóm I (う), nhóm II (る), nhóm III (する・来る)",
+      "level": "N5",
+      "form": ["Nhóm I: đuôi う-hàng → い-hàng ＋ ます: {書|か}く → {書|か}【き】ます, {飲|の}む → {飲|の}【み】ます", "Nhóm II: (～iる／～eる) bỏ る ＋ ます: {食|た}べる → {食|た}べます, {見|み}る → {見|み}ます", "Nhóm III: する → します, {来|く}る → {来|き}ます"],
+      "uses": [
+        {
+          "vi": "Thể từ điển (dạng ghi trong từ điển) của mọi động từ đều kết thúc bằng âm -u. Biết nhóm động từ mới chia được các thể khác (ます, て, ない, た).",
+          "ex": [
+            ["{手紙|てがみ} を {書|か}きます。 (← {書|か}く)", "Tôi viết thư."],
+            ["テレビ を {見|み}ます。 (← {見|み}る)", "Tôi xem ti vi."],
+            ["{友達|ともだち} が {来|き}ます。 (← {来|く}る)", "Bạn tôi sẽ đến."]
+          ]
+        }
+      ],
+      "notes": ["Phần lớn động từ đuôi ～iる／～eる thuộc nhóm II, nhưng có ngoại lệ thuộc nhóm I: {帰|かえ}る, {入|はい}る, {走|はし}る, {知|し}る, {切|き}る, {要|い}る… → {帰|かえ}ります, {入|はい}ります.", "Danh từ ＋ する cũng là nhóm III: {勉強|べんきょう}する → {勉強|べんきょう}します.", "Trong tab Từ vựng, mỗi động từ đều ghi nhóm và tự chia sẵn các thể."],
+      "mistakes": [["{帰|かえ}ます", "{帰|かえ}ります", "帰る là động từ nhóm I (ngoại lệ) → 帰ります."]],
+      "practice": [
+        ["{読|よ}む → {読|よ}___ます", "み"],
+        ["{起|お}きる → {起|お}___", "きます"],
+        ["する → ___", "します"]
+      ],
+      "see": ["masu-forms", "te-form"]
+    },
+    {
+      "id": "mashou",
+      "title": "Vましょう",
+      "sub": "Chúng ta hãy cùng …",
+      "level": "N5",
+      "form": ["V（bỏ ます）＋【ましょう】"],
+      "uses": [
+        {
+          "vi": "Rủ rê / đề nghị cùng làm một việc, hoặc đồng ý với lời rủ.",
+          "ex": [
+            ["ちょっと {休|やす}み【ましょう】。", "Chúng ta nghỉ một chút nhé."],
+            ["{一緒|いっしょ} に {帰|かえ}り【ましょう】。", "Cùng về nhé."],
+            ["ええ、 {行|い}き【ましょう】。", "Vâng, đi thôi."]
+          ]
+        }
+      ],
+      "practice": [["{始|はじ}め___。 (chúng ta bắt đầu nào)", "ましょう"]],
+      "see": ["masenka", "mashouka"]
+    },
+    {
+      "id": "masenka",
+      "title": "Vませんか",
+      "sub": "… không? (lời mời lịch sự)",
+      "level": "N5",
+      "form": ["V（bỏ ます）＋【ませんか】"],
+      "uses": [
+        {
+          "vi": "Mời người nghe cùng làm gì, tôn trọng ý của người nghe hơn ましょう.",
+          "ex": [
+            ["{一緒|いっしょ} に {昼|ひる}ご{飯|はん} を {食|た}べ【ませんか】。", "Cùng ăn trưa không?"],
+            ["{日曜日|にちようび} {映画|えいが} を {見|み}【ませんか】。 ―― いい です ね。", "Chủ nhật đi xem phim không? — Hay đấy."]
+          ]
+        }
+      ],
+      "notes": ["Từ chối khéo: すみません、ちょっと…。(Xin lỗi, hơi…) – không cần nói hết lý do."],
+      "practice": [["{一緒|いっしょ} に {行|い}き___。 (cùng đi không?)", "ませんか"]],
+      "see": ["mashou"]
+    },
+    {
+      "id": "mashouka",
+      "title": "Vましょうか",
+      "sub": "Để tôi … nhé? / Chúng ta … nhé?",
+      "level": "N5",
+      "form": ["V（bỏ ます）＋【ましょうか】"],
+      "uses": [
+        {
+          "vi": "Đề nghị giúp đỡ người nghe (“để tôi … cho nhé”).",
+          "ex": [
+            ["{荷物|にもつ} を {持|も}ち【ましょうか】。 ―― ありがとう ございます。", "Để tôi xách hành lý giúp nhé? — Cảm ơn anh."],
+            ["{窓|まど} を {開|あ}け【ましょうか】。", "Tôi mở cửa sổ nhé?"]
+          ]
+        },
+        {
+          "vi": "Hỏi ý kiến về việc cả hai sẽ cùng làm.",
+          "ex": [["どこ で {会|あ}い【ましょうか】。", "Chúng ta gặp nhau ở đâu nhé?"]]
+        }
+      ],
+      "practice": [["タクシー を {呼|よ}び___。 (tôi gọi giúp nhé?)", "ましょうか"]],
+      "see": ["mashou"]
+    },
+    {
+      "id": "ni-purpose",
+      "title": "Nơi chốn へ Vます／N に 行きます",
+      "sub": "Đi (đâu) để làm gì",
+      "level": "N5",
+      "form": ["Nơi chốn へ V（bỏ ます）【に】 {行|い}きます／{来|き}ます／{帰|かえ}ります", "Nơi chốn へ N（hành động）【に】 {行|い}きます"],
+      "uses": [
+        {
+          "vi": "Chỉ mục đích của việc đi lại.",
+          "ex": [
+            ["デパート へ {靴|くつ} を {買|か}い【に】 {行|い}きます。", "Tôi đến cửa hàng bách hoá để mua giày."],
+            ["{日本|にほん} へ {日本語|にほんご} を {勉強|べんきょう}し【に】 {来|き}ました。", "Tôi đến Nhật để học tiếng Nhật."],
+            ["{京都|きょうと} へ お{花見|はなみ} 【に】 {行|い}きます。", "Tôi đi Kyoto ngắm hoa."]
+          ]
+        }
+      ],
+      "practice": [
+        ["{公園|こうえん} へ {遊|あそ}び ___ {行|い}きます。", "に"],
+        ["{図書館|としょかん} へ {本|ほん} を {借|か}り___ {行|い}きます。", "に"]
+      ],
+      "see": ["e-direction"]
+    },
+    {
+      "id": "question-words",
+      "title": "Từ để hỏi với động từ",
+      "sub": "何を・どこで・だれと・いつ・何時に…",
+      "level": "N5",
+      "form": ["{何|なに}を・どこで・どこへ・だれと・いつ・{何時|なんじ}に・どうやって ＋ V か"],
+      "uses": [
+        {
+          "vi": "Đặt từ để hỏi vào vị trí của thông tin cần hỏi, giữ nguyên trợ từ, thêm か cuối câu.",
+          "ex": [
+            ["{週末|しゅうまつ} {何|なに} を し【ます か】。", "Cuối tuần bạn làm gì?"],
+            ["いつ {日本|にほん} へ {来|き}ました か。", "Bạn đến Nhật khi nào?"],
+            ["{会社|かいしゃ} まで どうやって {行|い}きます か。", "Bạn đến công ty bằng cách nào?"]
+          ]
+        }
+      ],
+      "notes": ["Từ để hỏi làm chủ ngữ không đi với は mà dùng が: だれが, {何|なに}が."],
+      "mistakes": [["だれ は {来|き}ました か。", "だれ が {来|き}ました か。", "Từ để hỏi làm chủ ngữ dùng が."]],
+      "practice": [["___ に {寝|ね}ます か。 (mấy giờ)", "なんじ/何時"]],
+      "see": ["ka-question", "ga-subject"]
+    }
+  ]
+}

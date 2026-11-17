@@ -1,4 +1,4 @@
-// Thống kê chung cho cả 3 ngôn ngữ, lọc được theo ngôn ngữ.
+// Thống kê chung cho mọi ngôn ngữ, lọc được theo ngôn ngữ.
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { useTable } from '../../lib/store.js';
 import { STATES, countMarks, isDue, marksByDay, reviewsLastDays } from '../../lib/srs.js';
@@ -7,6 +7,7 @@ import GoalBar from '../../components/ui/GoalBar.jsx';
 import { MarkGlyph } from '../../components/ui/Mark.jsx';
 import { loadIndex } from '../zh/data.js';
 import { loadKo } from '../ko/data.js';
+import { loadJa } from '../ja/data.js';
 import { freshBadges, useBadges } from '../../lib/achievements.js';
 
 // Huy hiệu thành tích: đã mở có ánh sáng quét qua; vừa mở trong phiên này thì lật ra
@@ -49,7 +50,7 @@ function useEntries() {
   const words = useTable('words');
   const items = useTable('items');
   return useMemo(() => {
-    const out = { en: Object.values(words), zh: [], ko: [] };
+    const out = { en: Object.values(words), zh: [], ko: [], ja: [] };
     for (const [k, v] of Object.entries(items)) {
       const lang = k.slice(0, 2);
       if (out[lang]) out[lang].push({ ...v, _id: k.slice(3), _grammar: isGrammarKey(k) });
@@ -59,13 +60,16 @@ function useEntries() {
 }
 
 function useTotals() {
-  const [totals, setTotals] = useState({ zh: null, ko: null });
+  const [totals, setTotals] = useState({ zh: null, ko: null, ja: null });
   useEffect(() => {
     loadIndex()
       .then((i) => setTotals((t) => ({ ...t, zh: i.levels.reduce((s, l) => s + l.total, 0) })))
       .catch(() => {});
     loadKo()
       .then((d) => setTotals((t) => ({ ...t, ko: d.words.length + d.phrases.length })))
+      .catch(() => {});
+    loadJa()
+      .then((d) => setTotals((t) => ({ ...t, ja: d.words.length + d.kanji.length + d.phrases.length })))
       .catch(() => {});
   }, []);
   return totals;
@@ -319,7 +323,7 @@ export default function StatsView() {
   const entries = useEntries();
   const totals = useTotals();
   const [filter, setFilter] = useState('all');
-  const list = filter === 'all' ? [...entries.en, ...entries.zh, ...entries.ko] : entries[filter];
+  const list = filter === 'all' ? Object.values(entries).flat() : entries[filter];
   const langs = filter === 'all' ? Object.keys(LANGS) : [filter];
 
   return (
@@ -332,7 +336,7 @@ export default function StatsView() {
         ))}
       </div>
 
-      <GoalBar list={list} label={filter === 'all' ? 'Hôm nay (cả 3 ngôn ngữ)' : `Hôm nay (${LANGS[filter].name})`} />
+      <GoalBar list={list} label={filter === 'all' ? 'Hôm nay (mọi ngôn ngữ)' : `Hôm nay (${LANGS[filter].name})`} />
 
       <div className="stat-cards">
         {langs.map((lang, i) => (

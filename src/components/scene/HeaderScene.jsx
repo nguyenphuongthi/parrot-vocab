@@ -12,7 +12,7 @@ import { onFx } from '../../lib/events.js';
 import { speak } from '../../lib/speech.js';
 import { useMotionLevel } from '../../lib/motion.js';
 
-const GREETINGS = { en: 'Hi!', zh: '你好!', ko: '안녕!', all: 'Xin chào!' };
+const GREETINGS = { en: 'Hi!', zh: '你好!', ko: '안녕!', ja: 'やあ!', all: 'Xin chào!' };
 const SIZE = 32;
 const SPEED = 55; // px/giây khi đi
 const FLY_MS = 1400;
@@ -262,7 +262,7 @@ function pick(list, prev, night) {
   return items[0];
 }
 
-const LANG_VOICE = { en: 'en-US', zh: 'zh-CN', ko: 'ko-KR' };
+const LANG_VOICE = { en: 'en-US', zh: 'zh-CN', ko: 'ko-KR', ja: 'ja-JP' };
 
 // pickWord(): { text, lang } – một từ bạn đang học (App cung cấp); null = chưa học từ nào
 export default function HeaderScene({ lang = 'all', scene, mastered = 0, pickWord }) {
@@ -405,7 +405,7 @@ export default function HeaderScene({ lang = 'all', scene, mastered = 0, pickWor
   const { x, y, dir, action, rise, where, dur, ready } = p;
   const flyEase = action === 'fly' ? 'cubic-bezier(0.45, 0, 0.3, 1)' : 'linear';
   const bubble = said ? said.text : action === 'wave' && !react ? GREETINGS[lang] || GREETINGS.all : null;
-  const bubbleLang = (said?.lang || lang) === 'zh' ? 'zh-CN' : (said?.lang || lang) === 'ko' ? 'ko' : undefined;
+  const bubbleLang = { zh: 'zh-CN', ko: 'ko', ja: 'ja' }[said?.lang || lang];
   return (
     <>
       <Sky scene={scene} />

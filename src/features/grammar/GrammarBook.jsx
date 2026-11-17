@@ -1,6 +1,6 @@
-// Sách ngữ pháp dùng chung cho tiếng Anh và tiếng Hàn: các chủ đề (mở/thu), mỗi chủ đề là danh sách điểm ngữ pháp;
+// Sách ngữ pháp dùng chung cho tiếng Anh, Hàn, Nhật: các chủ đề (mở/thu), mỗi chủ đề là danh sách điểm ngữ pháp;
 // bấm một điểm để mở khung chi tiết. Lọc theo mức độ khó (tiếng Anh), mức thuộc ○ ◐ ● và tìm kiếm.
-// Dữ liệu: public/data/<lang>/… (sinh từ data-src bằng npm run data:en / data:ko, định dạng ở scripts/lib/grammar.mjs).
+// Dữ liệu: public/data/<lang>/… (sinh từ data-src bằng npm run data:en / data:ko / data:ja, định dạng ở scripts/lib/grammar.mjs).
 import { useEffect, useMemo, useState } from 'react';
 import { getJson, UNAUTHORIZED } from '../../lib/supabase.js';
 import { useLangItems } from '../../lib/store.js';
@@ -40,10 +40,14 @@ function useBook(path, onUnauthorized) {
   return state;
 }
 
-// Chuỗi để tìm kiếm của một điểm: tên, nghĩa, công thức, ví dụ (bỏ dấu tiếng Việt, không phân biệt hoa thường)
+// Chuỗi để tìm kiếm của một điểm: tên, nghĩa, công thức, ví dụ (bỏ dấu tiếng Việt, không phân biệt hoa thường).
+// Tiếng Nhật: thêm cả cách đọc kana trong {漢字|かな}.
+const reading = (s) => (s.includes('{') ? ' ' + s.replace(/\{[^|{}]+\|([^|{}]+)\}/g, '$1').replace(/[【】 ]/g, '') : '');
 const searchText = (p) =>
   fold(
-    [p.title, p.sub, ...(p.form || []), ...p.uses.flatMap((u) => [u.vi, ...u.ex.flat()])].map(plain).join('\n'),
+    [p.title, p.sub, ...(p.form || []), ...p.uses.flatMap((u) => [u.vi, ...u.ex.flat()])]
+      .map((s) => plain(s) + reading(s))
+      .join('\n'),
   );
 
 function Unit({ unit, index, open, forced, onToggle, points, counts, children }) {
@@ -185,7 +189,9 @@ export default function GrammarBook({ lang, path, storageKey, footer, reference:
           <SearchIcon />
           <input
             type="search"
-            placeholder={lang === 'en' ? 'Tìm cấu trúc, nghĩa hoặc ví dụ…' : 'Tìm ngữ pháp (vd. 고 싶다), nghĩa…'}
+            placeholder={
+              lang === 'en' ? 'Tìm cấu trúc, nghĩa hoặc ví dụ…' : lang === 'ja' ? 'Tìm ngữ pháp (vd. てください), nghĩa…' : 'Tìm ngữ pháp (vd. 고 싶다), nghĩa…'
+            }
             value={query}
             onChange={(e) => setQuery(e.target.value)}
           />

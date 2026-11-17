@@ -1,0 +1,125 @@
+{
+  "id": "likes",
+  "name": "Thích, giỏi, muốn, lý do",
+  "intro": "Một số tính từ và động từ chỉ cảm xúc, năng lực, mong muốn đánh dấu đối tượng bằng が (không dùng を).",
+  "points": [
+    {
+      "id": "ga-subject",
+      "title": "N が 好きです／上手です／分かります",
+      "sub": "Thích / giỏi / hiểu N",
+      "level": "N5",
+      "form": ["N 【が】 {好|す}き です／{嫌|きら}い です", "N 【が】 {上手|じょうず} です／{下手|へた} です", "N 【が】 {分|わ}かります／あります"],
+      "uses": [
+        {
+          "vi": "Đối tượng của sở thích, năng lực, sự hiểu biết đánh dấu bằng が.",
+          "ex": [
+            ["{私|わたし} は {音楽|おんがく} 【が】 {好|す}き です。", "Tôi thích âm nhạc."],
+            ["マイさん は {料理|りょうり} 【が】 {上手|じょうず} です。", "Chị Mai nấu ăn giỏi."],
+            ["{少|すこ}し {日本語|にほんご} 【が】 {分|わ}かります。", "Tôi hiểu một chút tiếng Nhật."]
+          ]
+        },
+        {
+          "vi": "Hỏi “thích loại nào”: どんな N が {好|す}き です か.",
+          "ex": [["どんな スポーツ 【が】 {好|す}き です か。 ―― サッカー が {好|す}き です。", "Bạn thích môn thể thao nào? — Tôi thích bóng đá."]]
+        }
+      ],
+      "notes": ["Không nói {上手|じょうず} về bản thân (nghe như tự khen); thay bằng {得意|とくい} hoặc khiêm tốn: まだ {下手|へた} です。"],
+      "mistakes": [["{犬|いぬ} を {好|す}き です。", "{犬|いぬ} が {好|す}き です。", "好き đi với が."]],
+      "practice": [
+        ["{私|わたし} は {魚|さかな} ___ {嫌|きら}い です。", "が"],
+        ["{英語|えいご} ___ {分|わ}かります か。", "が"]
+      ],
+      "see": ["koto-ga-suki"]
+    },
+    {
+      "id": "hoshii",
+      "title": "N が 欲しいです",
+      "sub": "Muốn có N",
+      "level": "N5",
+      "form": ["N 【が {欲|ほ}しい です】"],
+      "uses": [
+        {
+          "vi": "Mong muốn có một thứ gì đó (của người nói, hoặc hỏi người nghe). 欲しい là tính từ い.",
+          "ex": [
+            ["{新|あたら}しい パソコン 【が {欲|ほ}しい です】。", "Tôi muốn có máy tính mới."],
+            ["{今|いま} {何|なに} 【が {一番|いちばん} {欲|ほ}しい です】 か。", "Bây giờ bạn muốn có gì nhất?"],
+            ["{何|なに} も {欲|ほ}しく ありません。", "Tôi không muốn gì cả."]
+          ]
+        }
+      ],
+      "notes": ["Không dùng 欲しい để nói thẳng mong muốn của người thứ ba."],
+      "practice": [["{車|くるま} ___ {欲|ほ}しい です。", "が"]],
+      "see": ["tai"]
+    },
+    {
+      "id": "tai",
+      "title": "Vたいです",
+      "sub": "Muốn làm V",
+      "level": "N5",
+      "form": ["V（bỏ ます）＋【たい です】", "Phủ định: ～【たくない です】 · Quá khứ: ～【たかった です】"],
+      "uses": [
+        {
+          "vi": "Mong muốn làm một việc. ～たい chia như tính từ い. Tân ngữ có thể dùng を hoặc が.",
+          "ex": [
+            ["{日本|にほん} へ {行|い}き【たい です】。", "Tôi muốn đi Nhật."],
+            ["{何|なに} を {食|た}べ【たい です】 か。 ―― すし が {食|た}べ【たい です】。", "Bạn muốn ăn gì? — Tôi muốn ăn sushi."],
+            ["{今日|きょう} は どこ も {行|い}き【たくない です】。", "Hôm nay tôi không muốn đi đâu cả."]
+          ]
+        }
+      ],
+      "notes": ["Hỏi “anh có muốn … không” với người trên nghe hơi thẳng – nên dùng 〜ませんか để mời."],
+      "practice": [
+        ["{映画|えいが} を {見|み}___ です。", "たい"],
+        ["{疲|つか}れました。 {休|やす}み___。", "たいです"]
+      ],
+      "see": ["hoshii", "masenka"]
+    },
+    {
+      "id": "kara-reason",
+      "title": "Câu 1 から、 câu 2",
+      "sub": "Vì … nên …",
+      "level": "N5",
+      "form": ["Câu 1（lý do）【から】、 câu 2（kết quả）", "Câu trả lời cho どうして: ～【から】です"],
+      "uses": [
+        {
+          "vi": "Nêu lý do. から đứng ngay sau câu chỉ lý do (thể lịch sự hoặc thể thông thường đều được).",
+          "ex": [
+            ["{時間|じかん} が ありません 【から】、 タクシー で {行|い}きます。", "Vì không có thời gian nên tôi đi taxi."],
+            ["{暑|あつ}い です 【から】、 {窓|まど} を {開|あ}けましょう。", "Vì nóng nên mở cửa sổ ra nhé."]
+          ]
+        },
+        {
+          "vi": "どうして ～か。 ―― ～から です。(Tại sao …? — Vì …)",
+          "ex": [["どうして {遅|おく}れました か。 ―― バス が {来|き}ません でした 【から】。", "Tại sao bạn đến muộn? — Vì xe buýt không đến."]]
+        }
+      ],
+      "practice": [
+        ["{雨|あめ} が {降|ふ}って います ___、 {出|で}かけません。", "から"],
+        ["___ {日本語|にほんご} を {勉強|べんきょう}します か。 (tại sao)", "どうして/なぜ"]
+      ],
+      "see": ["kara-made", "ga-but"]
+    },
+    {
+      "id": "ga-but",
+      "title": "Câu 1 が、 câu 2",
+      "sub": "… nhưng …",
+      "level": "N5",
+      "form": ["Câu 1 【が】、 câu 2"],
+      "uses": [
+        {
+          "vi": "Nối hai câu có ý trái ngược. Ở đầu câu dùng でも hoặc しかし.",
+          "ex": [
+            ["{日本語|にほんご} は {難|むずか}しい です 【が】、 おもしろい です。", "Tiếng Nhật khó nhưng thú vị."],
+            ["{行|い}きたい です 【が】、 {時間|じかん} が ありません。", "Tôi muốn đi nhưng không có thời gian."]
+          ]
+        },
+        {
+          "vi": "が còn dùng để mở đầu câu chuyện một cách nhẹ nhàng (không mang nghĩa “nhưng”).",
+          "ex": [["すみません が、 {駅|えき} は どこ です か。", "Xin lỗi, nhà ga ở đâu ạ?"]]
+        }
+      ],
+      "practice": [["この {店|みせ} は {安|やす}い です ___、 おいしくない です。", "が"]],
+      "see": ["adj-te", "kara-reason"]
+    }
+  ]
+}

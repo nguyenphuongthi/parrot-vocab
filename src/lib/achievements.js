@@ -22,7 +22,7 @@ function readJson(key, fallback) {
 
 // Đếm các con số cần cho huy hiệu
 export function learningCounts(words, items) {
-  const c = { all: 0, en: 0, zh: 0, ko: 0, hsk1: 0, koPhrases: 0, reviews: 0 };
+  const c = { all: 0, en: 0, zh: 0, ko: 0, ja: 0, jaKanji: 0, hsk1: 0, koPhrases: 0, reviews: 0 };
   for (const w of Object.values(words)) {
     c.reviews += (w.reviewLog || []).length;
     if (w.mark === 2) c.en++;
@@ -36,9 +36,12 @@ export function learningCounts(words, items) {
     } else if (k.startsWith('ko:')) {
       c.ko++;
       if (k.startsWith('ko:p:')) c.koPhrases++;
+    } else if (k.startsWith('ja:')) {
+      c.ja++;
+      if (k.startsWith('ja:k:')) c.jaKanji++;
     }
   }
-  c.all = c.en + c.zh + c.ko;
+  c.all = c.en + c.zh + c.ko + c.ja;
   return c;
 }
 
@@ -46,7 +49,7 @@ export function learningCounts(words, items) {
 export function computeBadges(c, streak, jamoHeard) {
   const list = [
     ['first', '🌱', 'Từ đầu tiên', 'Thuộc 1 từ', c.all, 1],
-    ['m50', '🌿', '50 từ', 'Thuộc 50 từ (cả 3 ngôn ngữ)', c.all, 50],
+    ['m50', '🌿', '50 từ', 'Thuộc 50 từ (cộng mọi ngôn ngữ)', c.all, 50],
     ['m100', '🌳', '100 từ', 'Thuộc 100 từ', c.all, 100],
     ['m500', '🏆', '500 từ', 'Thuộc 500 từ', c.all, 500],
     ['en100', '📚', 'Mọt sách tiếng Anh', 'Thuộc 100 từ tiếng Anh', c.en, 100],
@@ -55,7 +58,9 @@ export function computeBadges(c, streak, jamoHeard) {
     ['ko50', '🌸', '50 từ tiếng Hàn', 'Thuộc 50 từ / câu tiếng Hàn', c.ko, 50],
     ['koTalk', '💬', 'Nói chuyện được rồi', 'Thuộc 30 câu giao tiếp tiếng Hàn', c.koPhrases, 30],
     ['hangul', '한', 'Bảng chữ cái', 'Nghe hết 40 chữ cái Hangul', jamoHeard, JAMO_TOTAL],
-    ['poly', '🌏', 'Đa ngôn ngữ', 'Thuộc ít nhất 10 từ mỗi ngôn ngữ', Math.min(c.en, c.zh, c.ko), 10],
+    ['ja50', '🗻', '50 từ tiếng Nhật', 'Thuộc 50 từ / chữ / câu tiếng Nhật', c.ja, 50],
+    ['kanji', '漢', 'Nhập môn Kanji', 'Thuộc 50 chữ Kanji N5', c.jaKanji, 50],
+    ['poly', '🌏', 'Đa ngôn ngữ', 'Thuộc ít nhất 10 từ mỗi thứ tiếng Anh, Trung, Hàn', Math.min(c.en, c.zh, c.ko), 10],
     ['s7', '🔥', '7 ngày liên tiếp', 'Đạt mục tiêu 7 ngày liền', streak, 7],
     ['s30', '💎', '30 ngày liên tiếp', 'Đạt mục tiêu 30 ngày liền', streak, 30],
     ['r100', '🃏', 'Chăm ôn bài', 'Chấm 100 thẻ flashcard', c.reviews, 100],

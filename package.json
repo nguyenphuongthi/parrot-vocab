@@ -2,7 +2,7 @@
   "name": "languages",
   "private": true,
   "version": "1.0.0",
-  "description": "Học từ vựng Anh – Trung – Hàn: web app + Chrome extension tiếng Anh, thống kê chung, đồng bộ Supabase",
+  "description": "Học từ vựng Anh – Trung – Hàn – Nhật: web app + Chrome extension tiếng Anh, thống kê chung, đồng bộ Supabase",
   "type": "module",
   "engines": {
     "node": ">=22"
@@ -15,6 +15,7 @@
     "data:en": "node scripts/build-en.mjs",
     "data:zh": "node scripts/build-zh.mjs",
     "data:ko": "node scripts/build-ko.mjs",
+    "data:ja": "node scripts/build-ja.mjs",
     "data:cefr": "node scripts/build-cefr.cjs",
     "migrate:hsk": "node scripts/migrate-hsk-marks.mjs",
     "ping": "node scripts/supabase-ping.mjs",

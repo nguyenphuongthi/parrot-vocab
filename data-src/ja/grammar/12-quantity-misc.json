@@ -1,0 +1,120 @@
+{
+  "id": "misc",
+  "name": "Số lượng & mẫu câu thường dùng",
+  "intro": "Cách dùng lượng từ trong câu và một số mẫu ngắn rất hay gặp ở trình độ N5.",
+  "points": [
+    {
+      "id": "counters",
+      "title": "N を Số lượng V",
+      "sub": "Vị trí của số lượng trong câu",
+      "level": "N5",
+      "form": ["N を／が ＋ số ＋ lượng từ ＋ V: りんご を 【{三|みっ}つ】 {買|か}いました"],
+      "uses": [
+        {
+          "vi": "Số lượng (kèm lượng từ) thường đứng ngay trước động từ, không cần trợ từ.",
+          "ex": [
+            ["りんご を 【{四|よっ}つ】 {買|か}いました。", "Tôi đã mua 4 quả táo."],
+            ["{切手|きって} を 【{五枚|ごまい}】 ください。", "Cho tôi 5 con tem."],
+            ["{教室|きょうしつ} に {学生|がくせい} が 【{二十人|にじゅうにん}】 います。", "Trong lớp có 20 học sinh."]
+          ]
+        },
+        {
+          "vi": "Hỏi số lượng: いくつ (đồ vật nói chung), {何|なん} ＋ lượng từ ({何枚|なんまい}, {何人|なんにん}, {何本|なんぼん}…).",
+          "ex": [["{家族|かぞく} は {何人|なんにん} です か。 ―― {四人|よにん} です。", "Gia đình bạn có mấy người? — Bốn người."]]
+        }
+      ],
+      "notes": ["Đếm người: {一人|ひとり}, {二人|ふたり}, {三人|さんにん}, {四人|よにん}…", "Đồ vật chung chung: {一|ひと}つ, {二|ふた}つ … {十|とお}."],
+      "practice": [["コーヒー を {二|ふた}___ ください。 (2 cốc – dùng つ)", "つ"]],
+      "see": ["dake-gurai"]
+    },
+    {
+      "id": "dake-gurai",
+      "title": "～だけ／～ぐらい",
+      "sub": "Chỉ … / khoảng …",
+      "level": "N5",
+      "form": ["N ＋【だけ】 (chỉ)", "Số lượng ＋【ぐらい／くらい】 (khoảng)", "Thời điểm ＋【ごろ】 (khoảng … giờ)"],
+      "uses": [
+        {
+          "vi": "だけ giới hạn; ぐらい ước lượng số lượng, khoảng thời gian; ごろ ước lượng thời điểm.",
+          "ex": [
+            ["{休|やす}み は {日曜日|にちようび} 【だけ】 です。", "Chỉ được nghỉ mỗi Chủ nhật."],
+            ["{毎日|まいにち} {二時間|にじかん} 【ぐらい】 {勉強|べんきょう}します。", "Mỗi ngày tôi học khoảng 2 tiếng."],
+            ["{十一時|じゅういちじ} 【ごろ】 {寝|ね}ます。", "Tôi ngủ khoảng 11 giờ."]
+          ]
+        }
+      ],
+      "practice": [["{駅|えき} まで {十分|じゅっぷん} ___ かかります。 (khoảng)", "ぐらい/くらい"]],
+      "see": ["counters"]
+    },
+    {
+      "id": "kai-frequency",
+      "title": "Khoảng thời gian に ～回",
+      "sub": "Tần suất: … lần trong …",
+      "level": "N5",
+      "form": ["Khoảng thời gian ＋【に】 ＋ số ＋【{回|かい}】 V"],
+      "uses": [
+        {
+          "vi": "Nói một việc làm bao nhiêu lần trong một khoảng thời gian.",
+          "ex": [
+            ["{一週間|いっしゅうかん} 【に】 {三回|さんかい} {日本語|にほんご} を {勉強|べんきょう}します。", "Tôi học tiếng Nhật 3 lần một tuần."],
+            ["{一年|いちねん} 【に】 {一回|いっかい} {国|くに} へ {帰|かえ}ります。", "Mỗi năm tôi về nước một lần."]
+          ]
+        }
+      ],
+      "practice": [["{一日|いちにち} ___ {二回|にかい} {薬|くすり} を {飲|の}みます。", "に"]]
+    },
+    {
+      "id": "ni-shimasu",
+      "title": "N に します",
+      "sub": "Chọn / quyết định lấy N",
+      "level": "N5",
+      "form": ["N ＋【に します】"],
+      "uses": [
+        {
+          "vi": "Dùng khi chọn món, chọn đồ.",
+          "ex": [
+            ["{私|わたし} は カレー 【に します】。", "Tôi chọn món cà ri."],
+            ["{飲|の}み{物|もの} は {何|なに} 【に します】 か。 ―― コーヒー 【に します】。", "Đồ uống bạn chọn gì? — Tôi lấy cà phê."]
+          ]
+        }
+      ],
+      "practice": [["この {赤|あか}い シャツ ___ します。", "に"]]
+    },
+    {
+      "id": "deshou",
+      "title": "～でしょう",
+      "sub": "Có lẽ …, chắc là …",
+      "level": "N5",
+      "form": ["Thể thông thường ＋【でしょう】 (N, なA: bỏ だ)"],
+      "uses": [
+        {
+          "vi": "Suy đoán (dự báo thời tiết rất hay dùng). Lên giọng ở cuối: “… nhỉ?” (xác nhận).",
+          "ex": [
+            ["{明日|あした} は {雨|あめ} 【でしょう】。", "Ngày mai có lẽ trời mưa."],
+            ["{北海道|ほっかいどう} は {寒|さむ}い 【でしょう】 ね。", "Hokkaido chắc là lạnh nhỉ."]
+          ]
+        }
+      ],
+      "practice": [["{午後|ごご} は {晴|は}れる ___。 (có lẽ)", "でしょう"]],
+      "see": ["to-omoimasu"]
+    },
+    {
+      "id": "kudasai-n",
+      "title": "N を ください",
+      "sub": "Cho tôi N",
+      "level": "N5",
+      "form": ["N を（số lượng）【ください】"],
+      "uses": [
+        {
+          "vi": "Gọi món, mua hàng, xin thứ gì đó.",
+          "ex": [
+            ["この ケーキ を 【ください】。", "Cho tôi cái bánh này."],
+            ["{水|みず} を {二|ふた}つ 【ください】。", "Cho tôi hai cốc nước."]
+          ]
+        }
+      ],
+      "practice": [["{切符|きっぷ} を {一枚|いちまい} ___。", "ください"]],
+      "see": ["te-kudasai", "counters"]
+    }
+  ]
+}

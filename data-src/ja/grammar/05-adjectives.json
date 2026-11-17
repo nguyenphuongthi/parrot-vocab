@@ -1,0 +1,195 @@
+{
+  "id": "adjectives",
+  "name": "Tính từ",
+  "intro": "Tiếng Nhật có hai loại tính từ: tính từ đuôi い ({高|たか}い, おいしい) và tính từ đuôi な ({静|しず}か, きれい). Hai loại chia khác nhau. Lưu ý: きれい, きらい, ゆうめい là tính từ な dù kết thúc bằng い.",
+  "points": [
+    {
+      "id": "i-adj",
+      "title": "Tính từ い です",
+      "sub": "Câu tính từ đuôi い (hiện tại)",
+      "level": "N5",
+      "form": ["N は いA 【です】", "Phủ định: いA bỏ い ＋ 【くないです】（＝くありません）", "Đặc biệt: いい → 【よくないです】"],
+      "uses": [
+        {
+          "vi": "Miêu tả tính chất. Phủ định bằng cách đổi い cuối thành くない.",
+          "ex": [
+            ["この ケーキ は おいしい 【です】。", "Bánh này ngon."],
+            ["{日本語|にほんご} は {難|むずか}し【くないです】。", "Tiếng Nhật không khó."],
+            ["{今日|きょう} は {天気|てんき} が よ【くないです】。", "Hôm nay thời tiết không tốt."]
+          ]
+        }
+      ],
+      "mistakes": [["{高|たか}い じゃありません。", "{高|たか}くないです。", "Tính từ い phủ định bằng くない, không dùng じゃありません."], ["いくないです。", "よくないです。", "いい chia từ よい."]],
+      "practice": [
+        ["この {部屋|へや} は {広|ひろ}___。 (không rộng)", "くないです/くありません"],
+        ["{今日|きょう} は {寒|さむ}い ___。", "です"]
+      ],
+      "see": ["na-adj", "i-adj-past"]
+    },
+    {
+      "id": "na-adj",
+      "title": "Tính từ な です",
+      "sub": "Câu tính từ đuôi な (hiện tại)",
+      "level": "N5",
+      "form": ["N は なA 【です】", "Phủ định: なA 【じゃありません】"],
+      "uses": [
+        {
+          "vi": "Chia giống danh từ: です, じゃありません. Bỏ な khi đứng trước です.",
+          "ex": [
+            ["この {町|まち} は {静|しず}か 【です】。", "Thị trấn này yên tĩnh."],
+            ["{私|わたし} の {部屋|へや} は きれい 【じゃありません】。", "Phòng tôi không sạch sẽ."]
+          ]
+        }
+      ],
+      "mistakes": [["{静|しず}かな です。", "{静|しず}か です。", "Trước です không có な."], ["きれくないです。", "きれい じゃありません。", "きれい là tính từ な."]],
+      "practice": [["この {公園|こうえん} は {有名|ゆうめい} ___。 (không nổi tiếng)", "じゃありません/ではありません"]],
+      "see": ["i-adj", "na-adj-past"]
+    },
+    {
+      "id": "adj-noun",
+      "title": "いA ＋ N／なA な ＋ N",
+      "sub": "Tính từ bổ nghĩa cho danh từ",
+      "level": "N5",
+      "form": ["いA ＋ N: {高|たか}い {山|やま}", "なA ＋ 【な】 ＋ N: {静|しず}か【な】 {町|まち}"],
+      "uses": [
+        {
+          "vi": "Tính từ đứng trước danh từ (ngược với tiếng Việt). Tính từ な cần thêm な.",
+          "ex": [
+            ["{富士山|ふじさん} は {高|たか}い {山|やま} です。", "Núi Phú Sĩ là ngọn núi cao."],
+            ["ハノイ は にぎやか【な】 {町|まち} です。", "Hà Nội là thành phố náo nhiệt."],
+            ["{新|あたら}しい {車|くるま} が {欲|ほ}しい です。", "Tôi muốn có xe mới."]
+          ]
+        }
+      ],
+      "practice": [
+        ["きれい ___ {花|はな} です ね。", "な"],
+        ["{田中|たなか}さん は {親切|しんせつ} ___ {人|ひと} です。", "な"]
+      ],
+      "see": ["dou-donna"]
+    },
+    {
+      "id": "i-adj-past",
+      "title": "いA かったです／くなかったです",
+      "sub": "Quá khứ của tính từ い",
+      "level": "N5",
+      "form": ["いA bỏ い ＋ 【かったです】", "いA bỏ い ＋ 【くなかったです】", "いい → よかったです／よくなかったです"],
+      "uses": [
+        {
+          "vi": "Tính từ い tự chia quá khứ; です giữ nguyên (không dùng でした).",
+          "ex": [
+            ["{旅行|りょこう} は {楽|たの}し【かったです】。", "Chuyến du lịch đã rất vui."],
+            ["{昨日|きのう} は {寒|さむ}【くなかったです】。", "Hôm qua không lạnh."],
+            ["パーティー は よ【かったです】 か。", "Bữa tiệc có hay không?"]
+          ]
+        }
+      ],
+      "mistakes": [["おいしい でした。", "おいしかった です。", "Tính từ い không dùng でした."]],
+      "practice": [
+        ["{試験|しけん} は {難|むずか}し___。 (đã khó)", "かったです"],
+        ["{映画|えいが} は おもしろ___。 (đã không hay)", "くなかったです/くありませんでした"]
+      ],
+      "see": ["na-adj-past"]
+    },
+    {
+      "id": "na-adj-past",
+      "title": "なA でした／じゃありませんでした",
+      "sub": "Quá khứ của tính từ な",
+      "level": "N5",
+      "form": ["なA 【でした】", "なA 【じゃありませんでした】"],
+      "uses": [
+        {
+          "vi": "Giống danh từ.",
+          "ex": [
+            ["{昨日|きのう} は {暇|ひま} 【でした】。", "Hôm qua tôi rảnh."],
+            ["{子供|こども} の とき、 {野菜|やさい} が {好|す}き 【じゃありませんでした】。", "Hồi nhỏ tôi không thích rau."]
+          ]
+        }
+      ],
+      "practice": [["{町|まち} は {静|しず}か ___。 (đã yên tĩnh)", "でした"]],
+      "see": ["deshita", "i-adj-past"]
+    },
+    {
+      "id": "totemo-amari",
+      "title": "とても／あまり ～ない",
+      "sub": "Rất … / không … lắm",
+      "level": "N5",
+      "form": ["【とても】 ＋ A (khẳng định)", "【あまり】 ＋ A (phủ định)", "【{全然|ぜんぜん}】 ＋ phủ định: hoàn toàn không"],
+      "uses": [
+        {
+          "vi": "あまり và {全然|ぜんぜん} luôn đi với dạng phủ định.",
+          "ex": [
+            ["この {本|ほん} は 【とても】 おもしろい です。", "Quyển sách này rất hay."],
+            ["{今日|きょう} は 【あまり】 {寒|さむ}くない です。", "Hôm nay không lạnh lắm."],
+            ["{漢字|かんじ} が 【{全然|ぜんぜん}】 {分|わ}かりません。", "Tôi hoàn toàn không hiểu chữ Hán."]
+          ]
+        }
+      ],
+      "mistakes": [["あまり {高|たか}い です。", "あまり {高|たか}くない です。", "あまり phải đi với phủ định."]],
+      "practice": [["お{酒|さけ} は ___ {飲|の}みません。 (không… lắm)", "あまり"]],
+      "see": ["i-adj"]
+    },
+    {
+      "id": "dou-donna",
+      "title": "どう／どんな N",
+      "sub": "Thế nào / N như thế nào",
+      "level": "N5",
+      "form": ["N は 【どう】 です か", "【どんな】 N です か"],
+      "uses": [
+        {
+          "vi": "どう hỏi cảm nhận, đánh giá; どんな hỏi tính chất, đặc điểm của danh từ.",
+          "ex": [
+            ["{日本|にほん} の {生活|せいかつ} は 【どう】 です か。", "Cuộc sống ở Nhật thế nào?"],
+            ["ハノイ は 【どんな】 {町|まち} です か。 ―― {古|ふる}い {町|まち} です。", "Hà Nội là thành phố như thế nào? — Là thành phố cổ."]
+          ]
+        }
+      ],
+      "notes": ["いかが là cách nói lịch sự của どう: コーヒー は いかが です か。(Anh dùng cà phê nhé?)"],
+      "practice": [["{富士山|ふじさん} は ___ {山|やま} です か。", "どんな"]],
+      "see": ["adj-noun"]
+    },
+    {
+      "id": "adj-te",
+      "title": "いA くて／なA で／N で",
+      "sub": "Nối hai tính chất: … và …",
+      "level": "N5",
+      "form": ["いA bỏ い ＋ 【くて】", "なA／N ＋ 【で】", "いい → よくて"],
+      "uses": [
+        {
+          "vi": "Nối hai tính từ (hoặc câu danh từ) có cùng chiều ý nghĩa.",
+          "ex": [
+            ["この {部屋|へや} は {広|ひろ}【くて】 {明|あか}るい です。", "Phòng này rộng và sáng sủa."],
+            ["マリアさん は きれい【で】 {親切|しんせつ} です。", "Chị Maria xinh và tốt bụng."],
+            ["{兄|あに} は {医者|いしゃ}【で】、 {姉|あね} は {先生|せんせい} です。", "Anh tôi là bác sĩ, còn chị tôi là giáo viên."]
+          ]
+        }
+      ],
+      "notes": ["Hai ý trái ngược nhau thì dùng が: {高|たか}い です が、おいしい です。"],
+      "practice": [
+        ["この りんご は {安|やす}___ おいしい です。", "くて"],
+        ["{図書館|としょかん} は {静|しず}か ___ きれい です。", "で"]
+      ],
+      "see": ["ga-but"]
+    },
+    {
+      "id": "naru",
+      "title": "いA くなります／なA・N になります",
+      "sub": "Trở nên, trở thành",
+      "level": "N5",
+      "form": ["いA bỏ い ＋ 【くなります】", "なA／N ＋ 【になります】"],
+      "uses": [
+        {
+          "vi": "Diễn tả sự thay đổi trạng thái.",
+          "ex": [
+            ["だんだん {寒|さむ}【くなりました】。", "Trời dần trở nên lạnh."],
+            ["{町|まち} が きれい【になりました】。", "Thị trấn đã trở nên sạch đẹp."],
+            ["{来年|らいねん} {二十歳|はたち}【になります】。", "Năm sau tôi tròn 20 tuổi."]
+          ]
+        }
+      ],
+      "practice": [
+        ["{日本語|にほんご} が {上手|じょうず} ___ なりました。", "に"],
+        ["{部屋|へや} が {暗|くら}___ なりました。", "く"]
+      ]
+    }
+  ]
+}

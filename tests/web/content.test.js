@@ -1,4 +1,4 @@
-// Dữ liệu nội dung trong data-src hợp lệ và bản trong public/data đã được build lại (npm run data:en / data:ko).
+// Dữ liệu nội dung trong data-src hợp lệ và bản trong public/data đã được build lại (npm run data:en / data:ko / data:ja).
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readdirSync, readFileSync } from 'node:fs';
@@ -6,6 +6,9 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { checkBook, readUnits } from '../../scripts/lib/grammar.mjs';
 import { koEntries } from '../../src/features/ko/entries.js';
+import { jaEntries } from '../../src/features/ja/entries.js';
+import { JAPANESE } from '../../src/features/ja/text.js';
+import { checkJaText } from '../../scripts/lib/ja-text.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
 const src = (...p) => join(root, 'data-src', ...p);
@@ -55,4 +58,36 @@ test('từ vựng tiếng Hàn: không trùng, có nghĩa, phiên âm hợp lệ
   assert.ok(words.filter((w) => w.level === 1).length >= 900);
   assert.ok(words.filter((w) => w.level === 2).length >= 800);
   assert.deepEqual(built('ko', 'words.json'), { topics }, 'chạy npm run data:ko');
+});
+
+test('tiếng Nhật: từ vựng, Kanji N5, câu giao tiếp, ngữ pháp N5 hợp lệ và public/data đã cập nhật', () => {
+  const read = (...p) => JSON.parse(readFileSync(src('ja', ...p), 'utf8'));
+  const topics = readdirSync(src('ja', 'words'))
+    .sort()
+    .map((f) => read('words', f));
+  const kanjiData = read('kanji.json');
+  const phrasesData = read('phrases.json');
+  const { words, kanji, phrases, problems } = jaEntries({ topics }, kanjiData, phrasesData);
+  assert.deepEqual(problems, []);
+  assert.ok(words.length >= 700, `mới có ${words.length} từ`);
+  for (const w of words) {
+    assert.ok(w.vi, `thiếu nghĩa: ${w.ja}`);
+    assert.match(w.rm, /^[a-z' -]+$/, `romaji lạ: ${w.ja}`);
+  }
+  // 79 chữ N5 + 21 chữ bổ sung, không trùng
+  assert.equal(kanji.length, 100);
+  assert.equal(kanji.length - [...kanjiData.extra].length, 79);
+  for (const p of phrases) assert.deepEqual(checkJaText(p.text), [], p.ja);
+  const book = checkBook(readUnits(src('ja', 'grammar')), { levels: ['N5'], script: JAPANESE });
+  assert.deepEqual(book.problems, []);
+  assert.ok(book.count >= 70, `mới có ${book.count} điểm ngữ pháp`);
+  for (const u of book.units)
+    for (const p of u.points) for (const use of p.uses) for (const [ja] of use.ex) assert.deepEqual(checkJaText(ja), [], `${p.id}: ${ja}`);
+  assert.deepEqual(built('ja', 'words.json'), { topics }, 'chạy npm run data:ja');
+  assert.deepEqual(built('ja', 'kanji.json'), kanjiData, 'chạy npm run data:ja');
+  assert.deepEqual(built('ja', 'phrases.json'), phrasesData, 'chạy npm run data:ja');
+  assert.deepEqual(built('ja', 'grammar.json'), { units: book.units }, 'chạy npm run data:ja');
+  const strokes = built('ja', 'strokes.json').strokes;
+  for (const k of kanji) assert.ok(strokes[k.ja]?.length, `thiếu nét chữ ${k.ja}`);
+  assert.equal(strokes['日'].length, 4);
 });

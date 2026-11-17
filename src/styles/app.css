@@ -22,6 +22,7 @@
   --radius: 16px;
   --zh: 'Noto Serif SC', 'Songti SC', 'SimSun', serif;
   --ko: 'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+  --ja: 'Noto Sans JP', 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', 'Meiryo', sans-serif;
   --ui: 'Inter', 'Noto Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
   --st0: var(--m0);
   --st1: var(--m1);
@@ -97,6 +98,12 @@
   --accent: #4dc2a4;
   --on-accent: #0b2c25;
 }
+[data-lang='ja'] {
+  --lang: #fde0ec;
+  --lang-ink: #a3245e;
+  --accent: #ec7aa8;
+  --on-accent: #3a0b20;
+}
 
 :root {
   --tone: var(--surface-2);
@@ -130,6 +137,11 @@
     --lang-ink: #93e4cf;
     --accent: #5cc9ad;
   }
+  :root:not([data-theme='light']) [data-lang='ja'] {
+    --lang: #3a1d2a;
+    --lang-ink: #ffb3d1;
+    --accent: #f08bb4;
+  }
   :root:not([data-theme='light']) {
     --tone-amt: 18%;
     --tone-soft: 10%;
@@ -154,6 +166,11 @@
   --lang-ink: #93e4cf;
   --accent: #5cc9ad;
 }
+:root[data-theme='dark'] [data-lang='ja'] {
+  --lang: #3a1d2a;
+  --lang-ink: #ffb3d1;
+  --accent: #f08bb4;
+}
 :root[data-theme='dark'] {
   --tone-amt: 18%;
   --tone-soft: 10%;
@@ -170,6 +187,9 @@ body {
 
 [lang='ko'] {
   font-family: var(--ko);
+}
+[lang='ja'] {
+  font-family: var(--ja);
 }
 
 a {
@@ -291,6 +311,9 @@ input {
 }
 .lang-glyph[data-lang='ko'] {
   font-family: var(--ko);
+}
+.lang-glyph[data-lang='ja'] {
+  font-family: var(--ja);
 }
 .lang-btn.is-on .lang-glyph,
 .stat-card .lang-glyph {
@@ -2273,6 +2296,11 @@ section.card,
   --wall-image: radial-gradient(48rem 30rem at 105% -5%, #d3f3e8 0, transparent 70%),
     radial-gradient(40rem 28rem at -10% 105%, #dff0ff 0, transparent 70%);
 }
+.app[data-page='lang'][data-lang='ja'] {
+  --wall: #fff0f6;
+  --wall-image: radial-gradient(48rem 30rem at 105% -5%, #ffdcea 0, transparent 70%),
+    radial-gradient(40rem 28rem at -10% 105%, #f1e6ff 0, transparent 70%);
+}
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) .app[data-page='lang'][data-lang='en'] {
     --wall: #171a2b;
@@ -2286,6 +2314,10 @@ section.card,
     --wall: #13201d;
     --wall-image: radial-gradient(48rem 30rem at 105% -5%, #183a32 0, transparent 70%);
   }
+  :root:not([data-theme='light']) .app[data-page='lang'][data-lang='ja'] {
+    --wall: #22151b;
+    --wall-image: radial-gradient(48rem 30rem at 105% -5%, #3d1f2d 0, transparent 70%);
+  }
 }
 :root[data-theme='dark'] .app[data-page='lang'][data-lang='en'] {
   --wall: #171a2b;
@@ -2298,6 +2330,10 @@ section.card,
 :root[data-theme='dark'] .app[data-page='lang'][data-lang='ko'] {
   --wall: #13201d;
   --wall-image: radial-gradient(48rem 30rem at 105% -5%, #183a32 0, transparent 70%);
+}
+:root[data-theme='dark'] .app[data-page='lang'][data-lang='ja'] {
+  --wall: #22151b;
+  --wall-image: radial-gradient(48rem 30rem at 105% -5%, #3d1f2d 0, transparent 70%);
 }
 .topbar {
   background: color-mix(in srgb, var(--wall) 80%, transparent);

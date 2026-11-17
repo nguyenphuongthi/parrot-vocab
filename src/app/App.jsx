@@ -3,7 +3,7 @@ import Login from '../features/auth/Login.jsx';
 import { supabase, setAccessCookie } from '../lib/supabase.js';
 import { clearLocal, loadLocal, startSync, syncNow, useSyncStatus, useTable } from '../lib/store.js';
 import { isDue } from '../lib/srs.js';
-import { LANGS, isGrammarKey } from '../lib/langs.js';
+import { HTML_LANG, LANGS, isGrammarKey } from '../lib/langs.js';
 import { useSettings } from '../lib/settings.js';
 import { Loader } from '../components/mascot/Logo.jsx';
 import Scenery from '../components/scene/Scenery.jsx';
@@ -19,6 +19,10 @@ const GrammarView = lazy(() => import('../features/zh/GrammarView.jsx'));
 const KoAlphabet = lazy(() => import('../features/ko/KoAlphabet.jsx'));
 const KoWords = lazy(() => import('../features/ko/KoWords.jsx'));
 const KoPhrases = lazy(() => import('../features/ko/KoPhrases.jsx'));
+const JaKana = lazy(() => import('../features/ja/JaKana.jsx'));
+const JaWords = lazy(() => import('../features/ja/JaWords.jsx'));
+const JaKanji = lazy(() => import('../features/ja/JaKanji.jsx'));
+const JaPhrases = lazy(() => import('../features/ja/JaPhrases.jsx'));
 const GrammarBook = lazy(() => import('../features/grammar/GrammarBook.jsx'));
 const EnReference = lazy(() => import('../features/grammar/EnReference.jsx'));
 const Flashcards = lazy(() => import('../features/review/Flashcards.jsx'));
@@ -30,10 +34,12 @@ const LAST_ROUTE = 'languages.route';
 // Nguồn tham khảo ghi ở chân trang ngữ pháp
 const EN_GRAMMAR_FOOTER =
   'Phạm vi và cấp độ CEFR tham khảo English Grammar Profile (Cambridge University Press & Assessment) và British Council LearnEnglish. Giải thích, ví dụ và bài tập được soạn riêng.';
+const JA_GRAMMAR_FOOTER =
+  'Phạm vi ngữ pháp JLPT N5, tương ứng みんなの日本語 初級 I (bài 1–25); đối chiếu danh sách ngữ pháp N5 của JLPT Sensei và giáo trình まるごと 入門 / 初級 1 (Japan Foundation). Giải thích, ví dụ và bài tập được soạn riêng.';
 const KO_GRAMMAR_FOOTER =
   'Phạm vi theo ngữ pháp sơ cấp của TOPIK I, tham khảo danh mục ngữ pháp giáo dục tiếng Hàn của Viện Quốc ngữ Quốc gia (국립국어원) và giáo trình 세종한국어. Giải thích, ví dụ và bài tập được soạn riêng.';
 
-// Đường dẫn: #/en/words, #/zh/grammar4, #/ko/alphabet, #/stats, #/settings …
+// Đường dẫn: #/en/words, #/zh/grammar4, #/ko/alphabet, #/ja/kana, #/stats, #/settings …
 function parseRoute(hash) {
   const [a, b] = hash.replace(/^#\/?/, '').split('/');
   if (a === 'stats' || a === 'settings') return { page: a, lang: null, tab: null };
@@ -103,6 +109,8 @@ function wordOfItem(key) {
   }
   // "ko:w:일(1)" → "일" (bỏ phần phân biệt từ đồng âm)
   if (key.startsWith('ko:')) return { text: key.slice(5).replace(/\(.*\)$/, ''), lang: 'ko' };
+  // "ja:w:食べる", "ja:k:日" (câu giao tiếp "ja:p:…" quá dài cho bong bóng lời nói)
+  if (/^ja:[wk]:/.test(key)) return { text: key.slice(5).replace(/\(.*\)$/, '').replace(/^〜/, ''), lang: 'ja' };
   return null;
 }
 
@@ -134,7 +142,7 @@ function useDueCounts() {
   const words = useTable('words');
   const items = useTable('items');
   return useMemo(() => {
-    const out = { en: 0, zh: 0, ko: 0 };
+    const out = { en: 0, zh: 0, ko: 0, ja: 0 };
     for (const w of Object.values(words)) if (isDue(w)) out.en++;
     for (const [k, v] of Object.entries(items)) {
       if (isGrammarKey(k)) continue; // điểm ngữ pháp không có trong flashcard
@@ -202,7 +210,27 @@ function Shell({ onLogout, onUnauthorized }) {
         <EnglishWords onUnauthorized={onUnauthorized} />
       );
   }
-  else if (lang === 'zh') {
+  else if (lang === 'ja') {
+    page =
+      route.tab === 'grammar' ? (
+        <GrammarBook
+          key="ja"
+          lang="ja"
+          path="/data/ja/grammar.json"
+          storageKey="ja.grammar"
+          onUnauthorized={onUnauthorized}
+          footer={JA_GRAMMAR_FOOTER}
+        />
+      ) : route.tab === 'kana' ? (
+        <JaKana />
+      ) : route.tab === 'words' ? (
+        <JaWords onUnauthorized={onUnauthorized} />
+      ) : route.tab === 'kanji' ? (
+        <JaKanji onUnauthorized={onUnauthorized} />
+      ) : (
+        <JaPhrases onUnauthorized={onUnauthorized} />
+      );
+  } else if (lang === 'zh') {
     page =
       route.tab === 'vocab' ? <ZhVocab onUnauthorized={onUnauthorized} />
       : <GrammarView key={route.tab} level={route.tab === 'grammar4' ? 4 : 5} onUnauthorized={onUnauthorized} />;
@@ -248,7 +276,7 @@ function Shell({ onLogout, onUnauthorized }) {
                 data-lang={id}
                 title={l.name}
               >
-                <span className="lang-name" lang={id === 'zh' ? 'zh-CN' : id}>
+                <span className="lang-name" lang={HTML_LANG[id]}>
                   {l.native}
                 </span>
                 {due[id] > 0 && <span className="dot-badge" aria-label={`${due[id]} thẻ cần ôn`} />}

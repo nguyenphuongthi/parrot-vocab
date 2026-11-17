@@ -1,0 +1,170 @@
+{
+  "id": "te",
+  "name": "Thể て",
+  "intro": "Thể て là “chìa khoá” của ngữ pháp sơ cấp: nhờ cầu khiến, đang làm, xin phép, cấm đoán, nối các hành động… đều được tạo từ thể て.",
+  "points": [
+    {
+      "id": "te-form",
+      "title": "Cách chia thể て",
+      "sub": "Từ thể ます / thể từ điển sang thể て",
+      "level": "N5",
+      "form": ["Nhóm I: う・つ・る → 【って】 ({買|か}う → {買|か}って) · む・ぶ・ぬ → 【んで】 ({飲|の}む → {飲|の}んで) · く → 【いて】 ({書|か}く → {書|か}いて) · ぐ → 【いで】 ({泳|およ}ぐ → {泳|およ}いで) · す → 【して】 ({話|はな}す → {話|はな}して)", "Ngoại lệ: {行|い}く → 【{行|い}って】", "Nhóm II: bỏ る ＋ 【て】 ({食|た}べる → {食|た}べて)", "Nhóm III: する → 【して】, {来|く}る → 【{来|き}て】"],
+      "uses": [
+        {
+          "vi": "Nhóm I chia theo âm cuối của thể từ điển. Thể た chia y hệt, chỉ đổi て → た, で → だ.",
+          "ex": [
+            ["ちょっと {待|ま}って ください。 (← {待|ま}つ)", "Xin chờ một chút."],
+            ["{本|ほん} を {読|よ}んで います。 (← {読|よ}む)", "Tôi đang đọc sách."],
+            ["{友達|ともだち} が {来|き}て います。 (← {来|く}る)", "Bạn tôi đang ở đây."]
+          ]
+        }
+      ],
+      "mistakes": [["{行|い}いて", "{行|い}って", "行く là ngoại lệ: 行って."], ["{帰|かえ}て", "{帰|かえ}って", "帰る là nhóm I → 帰って."]],
+      "practice": [
+        ["{書|か}く → {書|か}___", "いて"],
+        ["{飲|の}む → {飲|の}___", "んで"],
+        ["{話|はな}す → {話|はな}___", "して"]
+      ],
+      "see": ["verb-groups", "te-kudasai", "ta-form"]
+    },
+    {
+      "id": "te-kudasai",
+      "title": "Vて ください",
+      "sub": "Hãy làm V / Xin hãy …",
+      "level": "N5",
+      "form": ["Vて ＋【ください】"],
+      "uses": [
+        {
+          "vi": "Nhờ vả, yêu cầu, chỉ dẫn hoặc mời mọc một cách lịch sự.",
+          "ex": [
+            ["すみません が、 {塩|しお} を {取|と}って 【ください】。", "Xin lỗi, lấy giúp tôi lọ muối."],
+            ["ここ に {名前|なまえ} を {書|か}いて 【ください】。", "Hãy viết tên vào đây."],
+            ["どうぞ たくさん {食|た}べて 【ください】。", "Xin mời ăn nhiều vào."]
+          ]
+        }
+      ],
+      "notes": ["Lịch sự hơn: 〜て くださいませんか。"],
+      "practice": [
+        ["もう {一度|いちど} {言|い}___ ください。", "って"],
+        ["{窓|まど} を {閉|し}め___ ください。", "て"]
+      ],
+      "see": ["te-form", "naide-kudasai"]
+    },
+    {
+      "id": "te-imasu-progressive",
+      "title": "Vて います (đang làm)",
+      "sub": "Đang làm V",
+      "level": "N5",
+      "form": ["Vて ＋【います】"],
+      "uses": [
+        {
+          "vi": "Hành động đang diễn ra tại thời điểm nói.",
+          "ex": [
+            ["{今|いま} {雨|あめ} が {降|ふ}って 【います】。", "Bây giờ trời đang mưa."],
+            ["ミラーさん は {電話|でんわ} を かけて 【います】。", "Anh Miller đang gọi điện thoại."],
+            ["{何|なに} を して 【います】 か。", "Bạn đang làm gì vậy?"]
+          ]
+        },
+        {
+          "vi": "Thói quen lặp đi lặp lại trong một khoảng thời gian dài.",
+          "ex": [["{毎朝|まいあさ} ジョギング を して 【います】。", "Sáng nào tôi cũng chạy bộ."]]
+        }
+      ],
+      "practice": [["{子供|こども} たち は {公園|こうえん} で {遊|あそ}ん___ います。", "で"]],
+      "see": ["te-imasu-state"]
+    },
+    {
+      "id": "te-imasu-state",
+      "title": "Vて います (trạng thái)",
+      "sub": "Trạng thái kết quả: đã kết hôn, đang sống ở, biết…",
+      "level": "N5",
+      "form": ["{結婚|けっこん}して います · {住|す}んで います · {知|し}って います · {持|も}って います · {勤|つと}めて います"],
+      "uses": [
+        {
+          "vi": "Với một số động từ, ～て います chỉ trạng thái kéo dài sau khi hành động đã xảy ra.",
+          "ex": [
+            ["{私|わたし} は {大阪|おおさか} に {住|す}んで います。", "Tôi đang sống ở Osaka."],
+            ["{姉|あね} は {結婚|けっこん}して います。", "Chị tôi đã có gia đình."],
+            ["{田中|たなか}さん の {電話番号|でんわばんごう} を {知|し}って います か。 ―― いいえ、 {知|し}りません。", "Bạn có biết số điện thoại của anh Tanaka không? — Không, tôi không biết."]
+          ]
+        }
+      ],
+      "mistakes": [["{知|し}って いません。", "{知|し}りません。", "Phủ định của 知っています là 知りません."]],
+      "practice": [["{兄|あに} は {銀行|ぎんこう} に {勤|つと}め___ います。", "て"]],
+      "see": ["te-imasu-progressive"]
+    },
+    {
+      "id": "te-mo-ii",
+      "title": "Vても いいです",
+      "sub": "Được phép làm V",
+      "level": "N5",
+      "form": ["Vて ＋【も いい です】", "Hỏi xin phép: Vても いい です か"],
+      "uses": [
+        {
+          "vi": "Cho phép hoặc xin phép.",
+          "ex": [
+            ["{写真|しゃしん} を {撮|と}って 【も いい です】 か。 ―― ええ、 どうぞ。", "Tôi chụp ảnh được không? — Vâng, xin mời."],
+            ["{窓|まど} を {開|あ}けて 【も いい です】 か。", "Tôi mở cửa sổ được không?"]
+          ]
+        }
+      ],
+      "practice": [["ここ に {座|すわ}っ___ いい です か。", "ても"]],
+      "see": ["te-wa-ikemasen"]
+    },
+    {
+      "id": "te-wa-ikemasen",
+      "title": "Vては いけません",
+      "sub": "Không được làm V (cấm)",
+      "level": "N5",
+      "form": ["Vて ＋【は いけません】"],
+      "uses": [
+        {
+          "vi": "Cấm đoán (luật lệ, quy định). Mạnh, thường do người có thẩm quyền nói.",
+          "ex": [
+            ["ここ で たばこ を {吸|す}って 【は いけません】。", "Không được hút thuốc ở đây."],
+            ["{美術館|びじゅつかん} で {写真|しゃしん} を {撮|と}って 【は いけません】。", "Không được chụp ảnh trong bảo tàng mỹ thuật."]
+          ]
+        }
+      ],
+      "notes": ["Trả lời từ chối câu “～てもいいですか”: いいえ、いけません。(nghe gắt) – nhẹ hơn: すみません、ちょっと…。"],
+      "practice": [["{教室|きょうしつ} で {食|た}べ___ いけません。", "ては"]],
+      "see": ["te-mo-ii", "naide-kudasai"]
+    },
+    {
+      "id": "te-sequence",
+      "title": "V1て、 V2て、 V3",
+      "sub": "Làm V1, rồi V2, rồi V3 (chuỗi hành động)",
+      "level": "N5",
+      "form": ["V1て、 V2て、 V3（thì của cả câu do V3 quyết định）"],
+      "uses": [
+        {
+          "vi": "Nối các hành động theo thứ tự thời gian.",
+          "ex": [
+            ["{朝|あさ} {起|お}きて、 シャワー を {浴|あ}びて、 {学校|がっこう} へ {行|い}きます。", "Sáng tôi thức dậy, tắm rồi đi học."],
+            ["{昨日|きのう} は {銀座|ぎんざ} へ {行|い}って、 {映画|えいが} を {見|み}ました。", "Hôm qua tôi đến Ginza rồi xem phim."]
+          ]
+        }
+      ],
+      "practice": [["{家|うち} へ {帰|かえ}っ___、 ご{飯|はん} を {食|た}べます。", "て"]],
+      "see": ["te-kara"]
+    },
+    {
+      "id": "te-kara",
+      "title": "Vてから",
+      "sub": "Sau khi làm V1 thì V2",
+      "level": "N5",
+      "form": ["V1て ＋【から】、 V2"],
+      "uses": [
+        {
+          "vi": "Nhấn mạnh V1 xong rồi mới làm V2.",
+          "ex": [
+            ["{仕事|しごと} が {終|お}わって 【から】、 {飲|の}み に {行|い}きます。", "Sau khi xong việc, tôi đi uống."],
+            ["{手|て} を {洗|あら}って 【から】、 {食|た}べて ください。", "Hãy rửa tay rồi mới ăn."]
+          ]
+        }
+      ],
+      "practice": [["{宿題|しゅくだい} を して ___、 テレビ を {見|み}ます。", "から"]],
+      "see": ["te-sequence", "ta-ato-de", "mae-ni"]
+    }
+  ]
+}
