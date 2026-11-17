@@ -14,7 +14,9 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm run check:ko
+      # Kiểm tra dữ liệu bài học của mọi ngôn ngữ (lỗi định dạng thì dừng) và public/data đã được build lại
+      - run: npm run data:en && npm run data:zh && npm run data:ko && npm run data:ja
+      - run: git diff --exit-code -- public/data
       - run: npm run build
       # Test đơn vị + test trình duyệt (Chrome có sẵn trên runner ubuntu)
       - run: npm test
