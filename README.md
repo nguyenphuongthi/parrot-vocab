@@ -1,14 +1,15 @@
-# Languages · English · 汉语 · 한국어
+# Languages · English · 汉语 · 한국어 · 日本語
 
-A personal vocabulary app for three languages, built for Vietnamese learners. Each language gets the approach that suits it best:
+A personal vocabulary app for four languages, built for Vietnamese learners. Each language gets the approach that suits it best:
 
 | Language | Approach |
 |---|---|
 | 🇬🇧 **English** | Pick up words while reading the web with a **Chrome extension**, then review them in the app |
 | 🇨🇳 **Chinese** | Learn from the **HSK syllabus and the *标准教程 HSK 4 / HSK 5* textbooks** |
 | 🇰🇷 **Korean** | Start from scratch: **Hangul**, then vocabulary, grammar and conversation for **TOPIK I (levels 1–2)** |
+| 🇯🇵 **Japanese** | Start from scratch: **Hiragana & Katakana**, then vocabulary, Kanji, grammar and conversation up to **JLPT N5** |
 
-All three share one account, one spaced-repetition system and one Supabase database, so progress syncs across the web app, phones and the extension.
+All four share one account, one spaced-repetition system and one Supabase database, so progress syncs across the web app, phones and the extension.
 
 ---
 
@@ -16,14 +17,14 @@ All three share one account, one spaced-repetition system and one Supabase datab
 
 - **Three mastery levels** for every word, sentence and grammar point: ○ not learned · ◐ vaguely remember · ● learned.
 - **Flashcards with spaced repetition**: cards you forget come back tomorrow, cards you know move out to 7 days and then ×2.5 each time (up to 180 days). Five review modes: word → meaning, meaning → word, listening, typing, multiple choice.
-- **Daily goal and streak** 🔥 counted across all three languages.
+- **Daily goal and streak** 🔥 counted across all languages.
 - **Statistics**: cards per level, reviews over the last 30 days, and a daily chart of marked items, filterable by language.
 - **Offline-first**: data is stored in the browser (IndexedDB) and synced to Supabase in the background. The app installs on a phone like a native app (PWA).
-- **Pronunciation**: opening a card reads it aloud (real recordings for English when available, the device's built-in voices for Chinese and Korean).
-- **Animated scene**: the top bar is a small landscape with a parrot mascot that flies down, waves (Hi! / 你好! / 안녕!) and goes back to its tree. It cycles through day, sunset, night, rain (the parrot holds a leaf umbrella) and snow, with a butterfly, a sleeping cat, a frog or a snowman. All animation turns off when the system's *reduce motion* setting is on.
+- **Pronunciation**: opening a card reads it aloud (real recordings for English when available, the device's built-in voices for Chinese, Korean and Japanese).
+- **Animated scene**: the top bar is a small landscape with a parrot mascot that flies down, waves (Hi! / 你好! / 안녕! / やあ!) and goes back to its tree. It cycles through day, sunset, night, rain (the parrot holds a leaf umbrella) and snow, with a butterfly, a sleeping cat, a frog or a snowman. All animation turns off when the system's *reduce motion* setting is on.
 - **The parrot reacts to your learning**: it cheers when you mark a card ● learned, scratches its head when you forget one, and flies a loop with full-screen confetti when you hit the daily goal. Tap it and it says one of the words you are learning, out loud.
 - **The tree grows with you**: its crown gets bigger as your learned-word count rises, a blossom opens every 20 words and a fruit appears every 50.
-- **Badges**: 15 achievements (e.g. *100 HSK 1 words*, *Hangul alphabet*, *7-day streak*, *Polyglot*) that flip open with a toast when unlocked. The streak flame grows with every day, with 7- and 30-day milestones.
+- **Badges**: 17 achievements (e.g. *100 HSK 1 words*, *Hangul alphabet*, *50 Kanji*, *7-day streak*, *Polyglot*) that flip open with a toast when unlocked. The streak flame grows with every day, with 7- and 30-day milestones.
 - **Session summary**: at the end of a flashcard round the parrot holds up a sign (*+12 learned*), counts tick up and the three level bars grow.
 - **On phones**: pull down at the top of the page and the parrot drops in to sync.
 
@@ -98,6 +99,34 @@ English words come from what you actually read. The **Vocab English Lens** Chrom
 
 ---
 
+## 🇯🇵 日本語：ひらがなから N5 まで
+
+日本語の部分は **まったくの初心者** のために作りました。ひらがな・カタカナから始めて、JLPT N5 レベルの語彙、漢字、文法、日常会話まで進みます。
+
+**かな（ひらがな・カタカナ）**
+- 五十音（46字）、濁音・半濁音（25字）、拗音（33音）、カタカナの特殊音（ティ、ファ、ウィ…）。文字をクリックすると **音声が流れ、書き順どおりに一画ずつ描かれます**（画数の番号つき）。
+- 文字ごとにローマ字、ベトナム語での発音のヒント、例語があります。ローマ字を消して自己テストもできます。
+- **発音のルール**: 濁音、拗音、促音「っ」、長音、「ん」、助詞の「は・へ・を」、母音の無声化、アクセント。
+- ローマ字を入力するとひらがな・カタカナに変換（`konnichiwa` → こんにちわ / コンニチワ）。
+
+**語彙**
+- JLPT N5 の語彙 **785語**、あいさつ・数字・時間・家族・食べ物・交通・買い物・天気など **24のテーマ**。漢字には **ふりがな**、ベトナム語の意味、**漢越音**（学生 → học sinh）がつきます。
+- 動詞はグループ（I・II・III）、形容詞は「い・な」を表示し、**ます形・て形・ない形・た形**（形容詞は否定・過去）を自動で活用して見せます。
+
+**漢字**
+- N5 の **79字** ＋ 初級でよく使う **21字**、テーマ別。漢越音、意味、音読み・訓読み（送りがな付き）、例語、**書き順アニメーション**。
+
+**文法**
+- **N5 文法 81項目**（『みんなの日本語 初級I』第1〜25課の範囲）: 名詞文、助詞、ます形、存在文、形容詞、て形、ない形、普通形、た形、比較、あげる・もらう・くれる など。例文はすべてふりがな・ローマ字・音声つき。よくある間違いと穴埋め練習（かなでもローマ字でも答えられます）。
+
+**会話**
+- **11の場面** の **116文**: あいさつ、自己紹介、教室、買い物、レストラン、道をたずねる、電車、約束、訪問、病院、あいづち。
+
+**ローマ字**
+- ヘボン式（長音は ou・ii・ee のように母音を重ねて表記）。設定や各ページのスイッチで **ローマ字の表示をオン／オフ** できます。かなが読めるようになったらオフにしましょう。
+
+---
+
 ## Tech stack
 
 React + Vite web app · Chrome extension (Manifest V3) · Supabase (Auth, Postgres with Row Level Security) · IndexedDB + service worker for offline use · Vercel hosting with routing middleware · GitHub Actions for CI and keeping the Supabase project awake.
@@ -109,7 +138,7 @@ This repository merges two earlier projects: [eng-vocab-lens](https://github.com
 ```
 src/
   app/              app shell: routing, top bar, sign-in state
-  features/         one folder per area: en, zh, ko, grammar (shared EN/KO grammar book),
+  features/         one folder per area: en, zh, ko, ja, grammar (shared EN/KO/JA grammar book),
                     review (flashcards), stats, settings, auth
   components/       shared UI: ui (buttons, marks, disclosure…), mascot, scene
   hooks/            generic React hooks
@@ -121,8 +150,10 @@ data-src/           EDITABLE lesson sources – build them into public/data with
   en/               English grammar
   zh/               HSK word content, textbook grammar; vendor/ = third-party downloads (CC-CEDICT…)
   ko/               Korean words by topic, phrases, TOPIK grammar
+  ja/               Japanese words by topic, Kanji, phrases, N5 grammar; vendor/ = KanjiVG stroke data
 scripts/            data builders, icon builder, HSK progress migration, Supabase keep-alive
   zh/               Python helpers used when authoring HSK content
+  ja/               fetch-kanjivg.mjs: download stroke order for kana + Kanji (run once when adding characters)
 extension/          Vocab English Lens – Chrome extension (Manifest V3)
 api/                Vercel Functions (lookup.js: English → Vietnamese word lookup, signed-in users only)
 supabase/schema.sql whole database (tables, RLS, push functions) – safe to re-run
@@ -138,7 +169,7 @@ tests/
 | `npm run dev` | Start the app (Vite); also serves the `api/` functions (word lookup) |
 | `npm run build` | Production build into `dist/` |
 | `npm test` | All tests; browser tests need Chrome and run `dist/` (build first) |
-| `npm run data:en` · `data:zh` · `data:ko` | Validate `data-src/<lang>` and write `public/data/<lang>` |
+| `npm run data:en` · `data:zh` · `data:ko` · `data:ja` | Validate `data-src/<lang>` and write `public/data/<lang>` |
 | `npm run data:cefr` | Rebuild CEFR word levels (app + extension) |
 | `npm run icons` | Redraw app and extension icons from the mascot |
 
@@ -161,3 +192,8 @@ After changing `supabase/schema.sql`, run the whole file again in the Supabase S
 - The TOPIK I vocabulary list.
 - The *세종한국어* textbooks (King Sejong Institute) for topics and conversation patterns.
 - Grammar scope follows the beginner grammar of TOPIK I and 국립국어원's *한국어교육 문법* lists; explanations, examples and exercises were written separately.
+
+**Japanese**: newly written (with AI assistance), based on:
+- JLPT N5 vocabulary and Kanji lists by Jonathan Waller (tanos.co.uk), via [open-anki-jlpt-decks](https://github.com/jamsinclair/open-anki-jlpt-decks) (MIT); Kanji readings checked against KANJIDIC (EDRDG) via [kanji-data](https://github.com/davidluzgouveia/kanji-data) (MIT).
+- Stroke order: [KanjiVG](https://kanjivg.tagaini.net) © Ulrich Apel, **CC BY-SA 3.0** – `data-src/ja/vendor/kanjivg.json` and the generated `public/data/ja/strokes.json` keep that license.
+- Grammar scope follows JLPT N5 / *みんなの日本語 初級 I* (lessons 1–25), cross-checked with JLPT Sensei's N5 list and the Japan Foundation's *まるごと* and *いろどり* courses for topics and conversation situations; Vietnamese meanings, Hán Việt readings, explanations, examples and exercises were written separately.
