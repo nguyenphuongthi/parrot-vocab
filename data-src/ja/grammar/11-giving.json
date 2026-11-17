@@ -1,0 +1,57 @@
+{
+  "id": "giving",
+  "name": "Cho – nhận",
+  "intro": "Tiếng Nhật phân biệt rõ hướng của việc cho – nhận: あげます (mình / người khác cho đi), もらいます (nhận về), くれます (người khác cho mình).",
+  "points": [
+    {
+      "id": "ageru-morau",
+      "title": "あげます／もらいます／くれます",
+      "sub": "Cho / nhận / (ai đó) cho tôi",
+      "level": "N5",
+      "form": ["Người cho は người nhận 【に】 N を 【あげます】", "Người nhận は người cho 【に／から】 N を 【もらいます】", "Người cho は （{私|わたし}に） N を 【くれます】 – người nhận là tôi (hoặc người nhà tôi)"],
+      "uses": [
+        {
+          "vi": "あげます: cho đi (hướng ra xa người nói).",
+          "ex": [["{私|わたし} は {木村|きむら}さん に {花|はな} を 【あげました】。", "Tôi đã tặng hoa cho chị Kimura."]]
+        },
+        {
+          "vi": "もらいます: nhận từ ai đó.",
+          "ex": [["{私|わたし} は {父|ちち} に ネクタイ を 【もらいました】。", "Tôi đã nhận cà vạt từ bố."]]
+        },
+        {
+          "vi": "くれます: người khác cho mình (hướng về phía người nói).",
+          "ex": [
+            ["{友達|ともだち} が {私|わたし} に チョコレート を 【くれました】。", "Bạn tôi đã cho tôi sô-cô-la."],
+            ["{母|はは} が この セーター を 【くれました】。", "Mẹ đã cho tôi cái áo len này."]
+          ]
+        }
+      ],
+      "mistakes": [["{友達|ともだち} は {私|わたし} に {本|ほん} を あげました。", "{友達|ともだち} は {私|わたし} に {本|ほん} を くれました。", "Người khác cho TÔI thì dùng くれます."]],
+      "practice": [
+        ["{誕生日|たんじょうび} に {兄|あに} が {時計|とけい} を ___。 (anh cho tôi)", "くれました"],
+        ["{私|わたし} は {弟|おとうと} に ゲーム を ___。 (tôi cho em)", "あげました"]
+      ],
+      "see": ["ni-target"]
+    },
+    {
+      "id": "mou-mada",
+      "title": "もう Vました／まだ Vて いません",
+      "sub": "Đã … rồi / vẫn chưa …",
+      "level": "N5",
+      "form": ["【もう】 Vました (đã làm rồi)", "【まだ】 Vて いません (vẫn chưa làm)"],
+      "uses": [
+        {
+          "vi": "Hỏi và trả lời về việc đã hoàn thành chưa.",
+          "ex": [
+            ["【もう】 {昼|ひる}ご{飯|はん} を {食|た}べました か。", "Bạn đã ăn trưa chưa?"],
+            ["はい、 【もう】 {食|た}べました。", "Rồi, tôi ăn rồi."],
+            ["いいえ、 【まだ】 {食|た}べて いません。", "Chưa, tôi vẫn chưa ăn."]
+          ]
+        }
+      ],
+      "mistakes": [["まだ {食|た}べません でした。", "まだ {食|た}べて いません。", "“Vẫn chưa” dùng 〜ていません."]],
+      "practice": [["{宿題|しゅくだい} は ___ {終|お}わって いません。", "まだ"]],
+      "see": ["te-imasu-state"]
+    }
+  ]
+}

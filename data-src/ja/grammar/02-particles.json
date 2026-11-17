@@ -1,0 +1,264 @@
+{
+  "id": "particles",
+  "name": "Trợ từ cơ bản",
+  "intro": "Trợ từ (助詞) đứng ngay sau danh từ để cho biết vai trò của danh từ đó trong câu: chủ ngữ, tân ngữ, nơi chốn, thời gian, phương tiện… Nhờ có trợ từ, trật tự các thành phần trong câu khá tự do – chỉ động từ luôn ở cuối.",
+  "points": [
+    {
+      "id": "wo",
+      "title": "N を V",
+      "sub": "Trợ từ tân ngữ",
+      "level": "N5",
+      "form": ["N 【を】 V (ngoại động từ)"],
+      "uses": [
+        {
+          "vi": "Đánh dấu đối tượng chịu tác động của động từ (ăn cái gì, đọc cái gì…). を đọc là “o”.",
+          "ex": [
+            ["パン 【を】 {食|た}べます。", "Tôi ăn bánh mì."],
+            ["{毎晩|まいばん} {本|ほん} 【を】 {読|よ}みます。", "Tối nào tôi cũng đọc sách."],
+            ["{何|なに} 【を】 {買|か}いました か。", "Bạn đã mua gì?"]
+          ]
+        },
+        {
+          "vi": "Nơi đi qua / rời khỏi với động từ di chuyển: {公園|こうえん}を{散歩|さんぽ}します, {道|みち}を{渡|わた}ります, {部屋|へや}を{出|で}ます.",
+          "ex": [
+            ["{公園|こうえん} 【を】 {散歩|さんぽ}します。", "Tôi đi dạo trong công viên."],
+            ["{七時|しちじ} に {家|いえ} 【を】 {出|で}ます。", "Tôi rời nhà lúc 7 giờ."]
+          ]
+        }
+      ],
+      "practice": [
+        ["{水|みず} ___ {飲|の}みます。", "を"],
+        ["{橋|はし} ___ {渡|わた}ります。", "を"]
+      ],
+      "see": ["ga-subject"]
+    },
+    {
+      "id": "ni-time",
+      "title": "Thời điểm ＋ に",
+      "sub": "Vào lúc …",
+      "level": "N5",
+      "form": ["Giờ / ngày / tháng / năm (con số cụ thể) ＋ 【に】 V"],
+      "uses": [
+        {
+          "vi": "Chỉ thời điểm xảy ra hành động. Dùng với thời gian có con số (6時, 3月, 2026年) và thứ trong tuần.",
+          "ex": [
+            ["{六時|ろくじ} 【に】 {起|お}きます。", "Tôi dậy lúc 6 giờ."],
+            ["{日曜日|にちようび} 【に】 {京都|きょうと} へ {行|い}きます。", "Chủ nhật tôi đi Kyoto."],
+            ["{何時|なんじ} 【に】 {寝|ね}ます か。", "Bạn đi ngủ lúc mấy giờ?"]
+          ]
+        }
+      ],
+      "notes": ["Không dùng に với các từ thời gian tương đối: {今日|きょう}, {明日|あした}, {毎朝|まいあさ}, {来週|らいしゅう}, {今|いま}…", "Với thứ trong tuần, に có thể bỏ: {日曜日|にちようび}（に）{休|やす}みます。"],
+      "mistakes": [["{明日|あした} に {行|い}きます。", "{明日|あした} {行|い}きます。", "明日 là thời gian tương đối – không thêm に."]],
+      "practice": [
+        ["{九時|くじ} ___ {授業|じゅぎょう} が {始|はじ}まります。", "に"],
+        ["{三月|さんがつ} ___ {日本|にほん} へ {行|い}きます。", "に"]
+      ],
+      "see": ["kara-made"]
+    },
+    {
+      "id": "e-direction",
+      "title": "Nơi chốn ＋ へ／に ＋ 行きます／来ます／帰ります",
+      "sub": "Đi / đến / về (đâu)",
+      "level": "N5",
+      "form": ["Nơi chốn 【へ】 {行|い}きます／{来|き}ます／{帰|かえ}ります", "Nơi chốn 【に】 … (cũng dùng được)"],
+      "uses": [
+        {
+          "vi": "へ (đọc là “e”) chỉ hướng di chuyển; に chỉ điểm đến. Với 行く・来る・帰る hai trợ từ gần như thay thế được cho nhau.",
+          "ex": [
+            ["{明日|あした} {大阪|おおさか} 【へ】 {行|い}きます。", "Ngày mai tôi đi Osaka."],
+            ["{何時|なんじ} に {家|うち} 【へ】 {帰|かえ}ります か。", "Mấy giờ bạn về nhà?"],
+            ["{去年|きょねん} {日本|にほん} 【に】 {来|き}ました。", "Năm ngoái tôi đã đến Nhật."]
+          ]
+        },
+        {
+          "vi": "どこ（へ）も ＋ phủ định: không đi đâu cả.",
+          "ex": [["{昨日|きのう} は どこ 【へも】 {行|い}きません でした。", "Hôm qua tôi không đi đâu cả."]]
+        }
+      ],
+      "practice": [["{来週|らいしゅう} {東京|とうきょう} ___ {行|い}きます。", "へ/に"]],
+      "see": ["de-means", "ni-purpose"]
+    },
+    {
+      "id": "de-place",
+      "title": "Nơi chốn ＋ で V",
+      "sub": "Làm gì ở đâu",
+      "level": "N5",
+      "form": ["Nơi chốn 【で】 V (hành động)"],
+      "uses": [
+        {
+          "vi": "Nơi diễn ra hành động (ăn, học, làm việc, mua…).",
+          "ex": [
+            ["{図書館|としょかん} 【で】 {勉強|べんきょう}します。", "Tôi học ở thư viện."],
+            ["どこ 【で】 その かばん を {買|か}いました か。", "Bạn mua cái cặp đó ở đâu?"],
+            ["{駅|えき} 【で】 {友達|ともだち} に {会|あ}いました。", "Tôi gặp bạn ở nhà ga."]
+          ]
+        }
+      ],
+      "notes": ["Phân biệt: nơi TỒN TẠI dùng に ({部屋|へや}に{猫|ねこ}がいます); nơi HÀNH ĐỘNG dùng で ({部屋|へや}で{猫|ねこ}が{遊|あそ}んでいます)."],
+      "mistakes": [["{食堂|しょくどう} に {昼|ひる}ご{飯|はん} を {食|た}べます。", "{食堂|しょくどう} で {昼|ひる}ご{飯|はん} を {食|た}べます。", "Ăn là hành động – nơi chốn dùng で."]],
+      "practice": [
+        ["{会社|かいしゃ} ___ {働|はたら}いて います。", "で"],
+        ["{家|うち} ___ テレビ を {見|み}ます。", "で"]
+      ],
+      "see": ["arimasu-imasu", "de-means"]
+    },
+    {
+      "id": "de-means",
+      "title": "N で (phương tiện, cách thức)",
+      "sub": "Bằng (xe, công cụ, ngôn ngữ)",
+      "level": "N5",
+      "form": ["Phương tiện / công cụ / ngôn ngữ ＋ 【で】 V"],
+      "uses": [
+        {
+          "vi": "Chỉ phương tiện đi lại, dụng cụ, ngôn ngữ dùng để làm việc gì.",
+          "ex": [
+            ["バス 【で】 {学校|がっこう} へ {行|い}きます。", "Tôi đi học bằng xe buýt."],
+            ["はし 【で】 ご{飯|はん} を {食|た}べます。", "Ăn cơm bằng đũa."],
+            ["{日本語|にほんご} 【で】 レポート を {書|か}きます。", "Viết báo cáo bằng tiếng Nhật."]
+          ]
+        }
+      ],
+      "notes": ["Đi bộ: {歩|ある}いて {行|い}きます (không nói “足で”)."],
+      "mistakes": [["{歩|ある}き で {行|い}きます。", "{歩|ある}いて {行|い}きます。", "“Đi bộ” dùng thể て: 歩いて."]],
+      "practice": [
+        ["{自転車|じてんしゃ} ___ {来|き}ました。", "で"],
+        ["ボールペン ___ {名前|なまえ} を {書|か}いて ください。", "で"]
+      ],
+      "see": ["de-place", "e-direction"]
+    },
+    {
+      "id": "to-with",
+      "title": "N と",
+      "sub": "Và (liệt kê đủ); cùng với (ai)",
+      "level": "N5",
+      "form": ["N1 【と】 N2 (liệt kê tất cả)", "Người 【と】 V (cùng với)"],
+      "uses": [
+        {
+          "vi": "Nối các danh từ, liệt kê đầy đủ (“A và B”). Chỉ nối danh từ, không nối câu.",
+          "ex": [["パン 【と】 {卵|たまご} を {食|た}べました。", "Tôi đã ăn bánh mì và trứng."]]
+        },
+        {
+          "vi": "Cùng với ai làm việc gì. Làm một mình: {一人|ひとり}で.",
+          "ex": [
+            ["{家族|かぞく} 【と】 {日本|にほん} へ {来|き}ました。", "Tôi đến Nhật cùng gia đình."],
+            ["だれ 【と】 {行|い}きます か。 ―― {一人|ひとり}で {行|い}きます。", "Bạn đi với ai? — Tôi đi một mình."]
+          ]
+        }
+      ],
+      "practice": [
+        ["{友達|ともだち} ___ {映画|えいが} を {見|み}ました。", "と"],
+        ["りんご ___ みかん を {買|か}いました。", "と"]
+      ],
+      "see": ["ya-nado"]
+    },
+    {
+      "id": "ya-nado",
+      "title": "N1 や N2 (など)",
+      "sub": "Nào là … nào là … (liệt kê vài ví dụ)",
+      "level": "N5",
+      "form": ["N1 【や】 N2 （【など】）"],
+      "uses": [
+        {
+          "vi": "Liệt kê một vài thứ tiêu biểu, ngụ ý còn những thứ khác. など (vân vân) thêm vào cuối danh sách.",
+          "ex": [
+            ["{机|つくえ} の {上|うえ} に {本|ほん} 【や】 ペン 【など】 が あります。", "Trên bàn có sách, bút, v.v."],
+            ["{休|やす}み の {日|ひ} は {掃除|そうじ} 【や】 {洗濯|せんたく} を します。", "Ngày nghỉ tôi dọn dẹp, giặt giũ…"]
+          ]
+        }
+      ],
+      "notes": ["と = liệt kê đầy đủ; や = chỉ nêu ví dụ."],
+      "practice": [["かばん の {中|なか} に {財布|さいふ} ___ かぎ など が あります。", "や"]],
+      "see": ["to-with"]
+    },
+    {
+      "id": "kara-made",
+      "title": "～から ～まで",
+      "sub": "Từ … đến …",
+      "level": "N5",
+      "form": ["N（thời gian / nơi chốn）【から】 N 【まで】"],
+      "uses": [
+        {
+          "vi": "Điểm bắt đầu và kết thúc của thời gian hoặc khoảng cách. Có thể dùng riêng từng trợ từ.",
+          "ex": [
+            ["{銀行|ぎんこう} は {九時|くじ} 【から】 {三時|さんじ} 【まで】 です。", "Ngân hàng mở từ 9 giờ đến 3 giờ."],
+            ["{家|うち} 【から】 {駅|えき} 【まで】 {十分|じゅっぷん} かかります。", "Từ nhà đến ga mất 10 phút."],
+            ["{毎晩|まいばん} {十一時|じゅういちじ} 【まで】 {勉強|べんきょう}します。", "Tối nào tôi cũng học đến 11 giờ."]
+          ]
+        }
+      ],
+      "notes": ["から còn có nghĩa “vì” khi đứng sau câu (xem 〜から lý do)."],
+      "practice": [
+        ["{授業|じゅぎょう} は {月曜日|げつようび} ___ {金曜日|きんようび} まで です。", "から"],
+        ["ハノイ から ホーチミン ___ {飛行機|ひこうき} で {行|い}きます。", "まで"]
+      ],
+      "see": ["kara-reason", "ni-time"]
+    },
+    {
+      "id": "ni-target",
+      "title": "Người ＋ に (あげます・もらいます・教えます…)",
+      "sub": "Cho ai, gửi ai, từ ai",
+      "level": "N5",
+      "form": ["Người 【に】 N を あげます／{貸|か}します／{教|おし}えます／{電話|でんわ}します", "Người 【に】（【から】）N を もらいます／{借|か}ります／{習|なら}います"],
+      "uses": [
+        {
+          "vi": "Đánh dấu người nhận của hành động (cho, gửi, dạy, gọi điện cho ai).",
+          "ex": [
+            ["{母|はは} 【に】 {花|はな} を あげました。", "Tôi đã tặng hoa cho mẹ."],
+            ["{友達|ともだち} 【に】 {電話|でんわ} を かけます。", "Tôi gọi điện cho bạn."]
+          ]
+        },
+        {
+          "vi": "Với もらいます, {借|か}ります, {習|なら}います: に chỉ người mà mình nhận / mượn / học từ đó (có thể thay bằng から).",
+          "ex": [
+            ["{先生|せんせい} 【に】 {辞書|じしょ} を {借|か}りました。", "Tôi đã mượn từ điển của thầy."],
+            ["{父|ちち} 【から】 {時計|とけい} を もらいました。", "Tôi nhận đồng hồ từ bố."]
+          ]
+        }
+      ],
+      "practice": [
+        ["{妹|いもうと} ___ {本|ほん} を あげました。", "に"],
+        ["{田中|たなか}さん ___ {日本語|にほんご} を {習|なら}います。", "に/から"]
+      ],
+      "see": ["ageru-morau"]
+    },
+    {
+      "id": "yo-ne",
+      "title": "～よ／～ね",
+      "sub": "Trợ từ cuối câu: nhấn mạnh / tìm sự đồng tình",
+      "level": "N5",
+      "form": ["Câu ＋ 【よ】 (báo thông tin người nghe chưa biết)", "Câu ＋ 【ね】 (mong người nghe đồng tình, xác nhận)"],
+      "uses": [
+        {
+          "vi": "よ: “… đấy, … mà” – nói điều người nghe chưa biết.",
+          "ex": [["この {店|みせ} の ラーメン は おいしい です 【よ】。", "Mì ở quán này ngon đấy."]]
+        },
+        {
+          "vi": "ね: “… nhỉ, … nhé” – điều cả hai cùng biết / xác nhận lại.",
+          "ex": [
+            ["{今日|きょう} は {暑|あつ}い です 【ね】。", "Hôm nay nóng nhỉ."],
+            ["{明日|あした} {十時|じゅうじ} です 【ね】。", "Mai 10 giờ nhé."]
+          ]
+        }
+      ],
+      "practice": [["いい {天気|てんき} です ___。 (nhỉ)", "ね"]]
+    },
+    {
+      "id": "ka-or",
+      "title": "N1 か N2",
+      "sub": "Hoặc",
+      "level": "N5",
+      "form": ["N1 【か】 N2"],
+      "uses": [
+        {
+          "vi": "Chọn một trong hai (hay nhiều) thứ.",
+          "ex": [
+            ["コーヒー 【か】 {紅茶|こうちゃ} を {飲|の}みます。", "Tôi uống cà phê hoặc hồng trà."],
+            ["{土曜日|どようび} 【か】 {日曜日|にちようび} に {行|い}きましょう。", "Hãy đi vào thứ Bảy hoặc Chủ nhật."]
+          ]
+        }
+      ],
+      "practice": [["ペン ___ {鉛筆|えんぴつ} で {書|か}いて ください。", "か"]]
+    }
+  ]
+}

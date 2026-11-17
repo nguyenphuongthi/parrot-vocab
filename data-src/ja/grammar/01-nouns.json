@@ -1,0 +1,217 @@
+{
+  "id": "nouns",
+  "name": "Câu danh từ: は・です",
+  "intro": "Câu cơ bản nhất của tiếng Nhật: “A là B”. Động từ (hoặc です) luôn đứng cuối câu; trợ từ đứng sau từ mà nó đánh dấu. Ở trình độ N5, ta nói thể lịch sự です / ます.",
+  "points": [
+    {
+      "id": "wa-desu",
+      "title": "N1 は N2 です",
+      "sub": "N1 là N2",
+      "level": "N5",
+      "form": ["N1 【は】 N2 【です】"],
+      "uses": [
+        {
+          "vi": "Câu khẳng định “A là B”. 【は】 đánh dấu chủ đề (đọc là “wa”), 【です】 đứng cuối câu làm câu lịch sự.",
+          "ex": [
+            ["{私|わたし} 【は】 リン 【です】。", "Tôi là Linh."],
+            ["{田中|たなか}さん 【は】 {先生|せんせい} 【です】。", "Anh Tanaka là giáo viên."],
+            ["{今日|きょう} 【は】 {日曜日|にちようび} 【です】。", "Hôm nay là Chủ nhật."]
+          ]
+        }
+      ],
+      "notes": ["Trợ từ は viết bằng chữ “ha” nhưng đọc là “wa”.", "Khi người nghe đã biết chủ đề, thường lược bỏ “私は”: {学生|がくせい} です。(Tôi là sinh viên.)", "さん gắn sau tên người khác, không dùng cho chính mình."],
+      "mistakes": [["{私|わたし} は リンさん です。", "{私|わたし} は リン です。", "Không gắn さん vào tên của chính mình."]],
+      "practice": [
+        ["{私|わたし} ___ {学生|がくせい} です。", "は"],
+        ["マイさん は ベトナム{人|じん} ___。", "です"]
+      ],
+      "see": ["ja-arimasen", "ka-question", "mo"]
+    },
+    {
+      "id": "ja-arimasen",
+      "title": "N1 は N2 じゃありません",
+      "sub": "N1 không phải là N2",
+      "level": "N5",
+      "form": ["N1 は N2 【じゃありません】", "N1 は N2 【ではありません】 (trang trọng hơn, dùng khi viết)"],
+      "uses": [
+        {
+          "vi": "Phủ định của です. じゃ là cách nói gọn của では.",
+          "ex": [
+            ["{私|わたし} は {先生|せんせい} 【じゃありません】。", "Tôi không phải là giáo viên."],
+            ["あれ は {私|わたし} の かばん 【ではありません】。", "Kia không phải cặp của tôi."]
+          ]
+        }
+      ],
+      "notes": ["Văn nói thân mật hơn: じゃないです. Thể thông thường: じゃない."],
+      "practice": [["{私|わたし} は {医者|いしゃ} ___。", "じゃありません/ではありません"]],
+      "see": ["wa-desu", "deshita"]
+    },
+    {
+      "id": "ka-question",
+      "title": "～ か",
+      "sub": "Câu hỏi có / không",
+      "level": "N5",
+      "form": ["Câu ＋ 【か】", "Trả lời: はい、～です ／ いいえ、～じゃありません"],
+      "uses": [
+        {
+          "vi": "Thêm 【か】 vào cuối câu để thành câu hỏi. Không cần đảo trật tự từ; trong văn viết thường không dùng dấu “？”.",
+          "ex": [
+            ["ミラーさん は アメリカ{人|じん} です 【か】。", "Anh Miller là người Mỹ phải không?"],
+            ["はい、 アメリカ{人|じん} です。", "Vâng, là người Mỹ."],
+            ["いいえ、 アメリカ{人|じん} じゃありません。 イギリス{人|じん} です。", "Không, không phải người Mỹ. Là người Anh."]
+          ]
+        },
+        {
+          "vi": "Với từ để hỏi (何, 誰, どこ, いつ…), đặt từ để hỏi vào chỗ cần hỏi và thêm か cuối câu.",
+          "ex": [
+            ["あの {人|ひと} は 【だれ】 です 【か】。", "Người kia là ai?"],
+            ["これ は 【{何|なん}】 です 【か】。", "Đây là cái gì?"]
+          ]
+        }
+      ],
+      "notes": ["そうです / そうじゃありません dùng để trả lời câu hỏi danh từ: はい、そうです。(Vâng, đúng vậy.)"],
+      "practice": [
+        ["あなた は {学生|がくせい} です ___。", "か"],
+        ["あの {方|かた} は ___ です か。 (ai – lịch sự)", "どなた"]
+      ],
+      "see": ["question-words"]
+    },
+    {
+      "id": "mo",
+      "title": "N も",
+      "sub": "Cũng",
+      "level": "N5",
+      "form": ["N 【も】 ～ (thay cho は / が / を)"],
+      "uses": [
+        {
+          "vi": "“Cũng”: dùng khi điều đang nói giống với điều đã nói trước đó. も thay thế cho は, が, を (không đi cùng chúng).",
+          "ex": [
+            ["{私|わたし} は {学生|がくせい} です。 マイさん 【も】 {学生|がくせい} です。", "Tôi là sinh viên. Chị Mai cũng là sinh viên."],
+            ["{私|わたし} 【も】 コーヒー が {好|す}き です。", "Tôi cũng thích cà phê."]
+          ]
+        },
+        {
+          "vi": "Từ để hỏi + も + phủ định: “không … gì cả / không ai / không đâu”.",
+          "ex": [
+            ["{何|なに} 【も】 {食|た}べません でした。", "Tôi đã không ăn gì cả."],
+            ["{教室|きょうしつ} に {誰|だれ} 【も】 いません。", "Trong lớp không có ai cả."]
+          ]
+        }
+      ],
+      "mistakes": [["{私|わたし} はも {学生|がくせい} です。", "{私|わたし} も {学生|がくせい} です。", "も thay hẳn cho は, không ghép “はも”."]],
+      "practice": [
+        ["{兄|あに} は {医者|いしゃ} です。 {父|ちち} ___ {医者|いしゃ} です。", "も"],
+        ["{昨日|きのう} どこ ___ {行|い}きません でした。", "へも/にも"]
+      ],
+      "see": ["wa-desu"]
+    },
+    {
+      "id": "no-possessive",
+      "title": "N1 の N2",
+      "sub": "N2 của N1; N2 thuộc loại N1",
+      "level": "N5",
+      "form": ["N1 【の】 N2"],
+      "uses": [
+        {
+          "vi": "Nối hai danh từ: N1 bổ nghĩa cho N2 (sở hữu, thuộc về, nội dung, chất liệu…). Lưu ý: trật tự ngược với tiếng Việt.",
+          "ex": [
+            ["これ は {私|わたし} 【の】 {本|ほん} です。", "Đây là sách của tôi."],
+            ["{日本語|にほんご} 【の】 {先生|せんせい} です。", "Là giáo viên tiếng Nhật."],
+            ["{会社|かいしゃ} 【の】 {人|ひと}", "người của công ty"]
+          ]
+        },
+        {
+          "vi": "N の thay cho danh từ đã biết (cái của N).",
+          "ex": [["その かさ は {私|わたし} 【の】 です。", "Cái ô đó là của tôi."]]
+        }
+      ],
+      "mistakes": [["{本|ほん} の {私|わたし}", "{私|わたし} の {本|ほん}", "Danh từ chính (sách) đứng sau の."]],
+      "practice": [
+        ["これ は {先生|せんせい} ___ かばん です。", "の"],
+        ["この {車|くるま} は だれ ___ です か。", "の"]
+      ]
+    },
+    {
+      "id": "kore-sore-are",
+      "title": "これ／それ／あれ／どれ",
+      "sub": "Cái này / cái đó / cái kia / cái nào",
+      "level": "N5",
+      "form": ["【これ】 (gần người nói) · 【それ】 (gần người nghe) · 【あれ】 (xa cả hai) · 【どれ】 (cái nào)"],
+      "uses": [
+        {
+          "vi": "Đại từ chỉ đồ vật, đứng một mình làm chủ ngữ / tân ngữ.",
+          "ex": [
+            ["【これ】 は {辞書|じしょ} です。", "Đây là từ điển."],
+            ["【それ】 は {何|なん} です か。", "Đó là cái gì?"],
+            ["あなた の かさ は 【どれ】 です か。", "Ô của bạn là cái nào?"]
+          ]
+        }
+      ],
+      "notes": ["どれ dùng khi chọn trong 3 thứ trở lên; chọn giữa 2 thứ dùng どちら.", "Hệ “ko-so-a-do” (こそあど) lặp lại ở nhiều nhóm từ: これ／この／ここ／こちら…"],
+      "practice": [["___ は {私|わたし} の {傘|かさ} です。 (cái này)", "これ"]],
+      "see": ["kono-sono-ano", "koko-soko"]
+    },
+    {
+      "id": "kono-sono-ano",
+      "title": "この／その／あの／どの N",
+      "sub": "N này / N đó / N kia / N nào",
+      "level": "N5",
+      "form": ["【この】／【その】／【あの】／【どの】 ＋ N"],
+      "uses": [
+        {
+          "vi": "Luôn đi kèm danh từ phía sau (khác với これ／それ đứng một mình).",
+          "ex": [
+            ["【この】 {本|ほん} は {私|わたし} の です。", "Quyển sách này là của tôi."],
+            ["【あの】 {人|ひと} は だれ です か。", "Người kia là ai?"],
+            ["【どの】 かばん です か。", "Là cái cặp nào?"]
+          ]
+        }
+      ],
+      "mistakes": [["これ {本|ほん} は {高|たか}い です。", "この {本|ほん} は {高|たか}い です。", "Trước danh từ phải dùng この, không dùng これ."]],
+      "practice": [["___ {時計|とけい} は {高|たか}い です。 (cái đồng hồ đó)", "その"]],
+      "see": ["kore-sore-are"]
+    },
+    {
+      "id": "koko-soko",
+      "title": "ここ／そこ／あそこ／どこ",
+      "sub": "Chỗ này / chỗ đó / chỗ kia / ở đâu",
+      "level": "N5",
+      "form": ["N は 【ここ／そこ／あそこ】 です", "N は 【どこ】 です か", "Lịch sự: こちら／そちら／あちら／どちら"],
+      "uses": [
+        {
+          "vi": "Chỉ nơi chốn. Câu “N は どこ です か” dùng để hỏi vị trí.",
+          "ex": [
+            ["トイレ は 【あそこ】 です。", "Nhà vệ sinh ở đằng kia."],
+            ["{受付|うけつけ} は 【どこ】 です か。", "Quầy lễ tân ở đâu?"],
+            ["エレベーター は 【こちら】 です。", "Thang máy ở phía này ạ."]
+          ]
+        },
+        {
+          "vi": "どちら còn dùng để hỏi lịch sự về nước, công ty, trường của người khác.",
+          "ex": [["お{国|くに} は 【どちら】 です か。", "Anh/chị đến từ nước nào?"]]
+        }
+      ],
+      "practice": [["{駅|えき} は ___ です か。 (ở đâu)", "どこ"]],
+      "see": ["arimasu-imasu"]
+    },
+    {
+      "id": "deshita",
+      "title": "N でした／じゃありませんでした",
+      "sub": "Đã là / đã không phải là (quá khứ của です)",
+      "level": "N5",
+      "form": ["N 【でした】 (quá khứ khẳng định)", "N 【じゃありませんでした】 (quá khứ phủ định)"],
+      "uses": [
+        {
+          "vi": "Quá khứ của câu danh từ và tính từ đuôi な.",
+          "ex": [
+            ["{昨日|きのう} は {雨|あめ} 【でした】。", "Hôm qua trời mưa."],
+            ["{先週|せんしゅう} は {休|やす}み 【じゃありませんでした】。", "Tuần trước không phải là kỳ nghỉ."],
+            ["{試験|しけん} は {簡単|かんたん} 【でした】 か。", "Bài thi có dễ không?"]
+          ]
+        }
+      ],
+      "practice": [["{昨日|きのう} は {日曜日|にちようび} ___。 (quá khứ)", "でした"]],
+      "see": ["wa-desu", "na-adj-past"]
+    }
+  ]
+}

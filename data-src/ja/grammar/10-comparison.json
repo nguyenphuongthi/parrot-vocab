@@ -1,0 +1,66 @@
+{
+  "id": "comparison",
+  "name": "So sánh",
+  "intro": "Các mẫu so sánh hơn, so sánh nhất và hỏi lựa chọn giữa hai hay nhiều thứ.",
+  "points": [
+    {
+      "id": "yori",
+      "title": "N1 は N2 より A です",
+      "sub": "N1 … hơn N2",
+      "level": "N5",
+      "form": ["N1 は N2 【より】 A です"],
+      "uses": [
+        {
+          "vi": "より đánh dấu vật làm mốc so sánh (“hơn N2”). Tính từ giữ nguyên, không đổi dạng.",
+          "ex": [
+            ["{東京|とうきょう} は ハノイ 【より】 {寒|さむ}い です。", "Tokyo lạnh hơn Hà Nội."],
+            ["{電車|でんしゃ} は バス 【より】 {速|はや}い です。", "Tàu điện nhanh hơn xe buýt."]
+          ]
+        }
+      ],
+      "practice": [["{兄|あに} は {私|わたし} ___ {背|せ} が {高|たか}い です。", "より"]],
+      "see": ["dochira-ga", "ichiban"]
+    },
+    {
+      "id": "dochira-ga",
+      "title": "N1 と N2 と どちらが A ですか",
+      "sub": "N1 và N2 cái nào … hơn?",
+      "level": "N5",
+      "form": ["N1 【と】 N2 【と】 【どちら が】 A です か", "Trả lời: N1／N2 【の ほう が】 A です"],
+      "uses": [
+        {
+          "vi": "Hỏi chọn giữa hai thứ (dùng どちら dù là người, vật hay nơi chốn).",
+          "ex": [
+            ["コーヒー と {紅茶|こうちゃ} と 【どちら が】 {好|す}き です か。", "Cà phê và hồng trà, bạn thích cái nào hơn?"],
+            ["{紅茶|こうちゃ} 【の ほう が】 {好|す}き です。", "Tôi thích hồng trà hơn."],
+            ["どちら も {好|す}き です。", "Tôi thích cả hai."]
+          ]
+        }
+      ],
+      "practice": [
+        ["{夏|なつ} と {冬|ふゆ} と ___ が {好|す}き です か。", "どちら"],
+        ["{冬|ふゆ} の ___ が {好|す}き です。", "ほう"]
+      ],
+      "see": ["yori", "ichiban"]
+    },
+    {
+      "id": "ichiban",
+      "title": "N の 中で 何が 一番 A ですか",
+      "sub": "Trong … cái gì … nhất?",
+      "level": "N5",
+      "form": ["N（phạm vi）【の {中|なか}で】 {何|なに}／だれ／どこ／いつ 【が {一番|いちばん}】 A です か", "Trả lời: X が {一番|いちばん} A です"],
+      "uses": [
+        {
+          "vi": "So sánh nhất trong một nhóm từ ba thứ trở lên.",
+          "ex": [
+            ["{果物|くだもの} 【の {中|なか}で】 {何|なに} 【が {一番|いちばん}】 {好|す}き です か。", "Trong các loại quả bạn thích gì nhất?"],
+            ["{家族|かぞく} 【の {中|なか}で】 だれ 【が {一番|いちばん}】 {背|せ} が {高|たか}い です か。", "Trong gia đình ai cao nhất?"],
+            ["{一年|いちねん} で いつ が {一番|いちばん} {暑|あつ}い です か。 ―― {八月|はちがつ} です。", "Trong năm khi nào nóng nhất? — Tháng Tám."]
+          ]
+        }
+      ],
+      "practice": [["スポーツ の {中|なか}で、 サッカー が ___ {好|す}き です。", "一番/いちばん"]],
+      "see": ["dochira-ga"]
+    }
+  ]
+}

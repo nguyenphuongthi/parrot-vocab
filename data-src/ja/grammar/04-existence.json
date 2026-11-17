@@ -1,0 +1,118 @@
+{
+  "id": "existence",
+  "name": "Tồn tại: あります・います",
+  "intro": "Tiếng Nhật có hai động từ “có / ở”: あります cho đồ vật, cây cối, sự kiện (không tự di chuyển) và います cho người, động vật.",
+  "points": [
+    {
+      "id": "arimasu-imasu",
+      "title": "N が あります／います",
+      "sub": "Có N",
+      "level": "N5",
+      "form": ["N（đồ vật）【が あります】", "N（người, động vật）【が います】"],
+      "uses": [
+        {
+          "vi": "Nói về sự tồn tại / sở hữu. Chủ ngữ đánh dấu bằng が.",
+          "ex": [
+            ["コンピューター 【が あります】。", "Có máy tính."],
+            ["{公園|こうえん} に {子供|こども} 【が います】。", "Trong công viên có trẻ con."],
+            ["{明日|あした} テスト 【が あります】。", "Ngày mai có bài kiểm tra."]
+          ]
+        },
+        {
+          "vi": "Phủ định: ありません／いません. Không có gì / không có ai: {何|なに}も ありません, だれも いません.",
+          "ex": [
+            ["お{金|かね} が 【ありません】。", "Tôi không có tiền."],
+            ["{部屋|へや} に だれ も 【いません】。", "Trong phòng không có ai."]
+          ]
+        }
+      ],
+      "mistakes": [["{犬|いぬ} が あります。", "{犬|いぬ} が います。", "Con vật dùng います."]],
+      "practice": [
+        ["{庭|にわ} に {猫|ねこ} が ___。", "います"],
+        ["{机|つくえ} の {上|うえ} に {本|ほん} が ___。", "あります"]
+      ],
+      "see": ["ni-ga-arimasu", "wa-ni-arimasu"]
+    },
+    {
+      "id": "ni-ga-arimasu",
+      "title": "Nơi chốn に N が あります／います",
+      "sub": "Ở (đâu) có (cái gì / ai)",
+      "level": "N5",
+      "form": ["Nơi chốn 【に】 N 【が】 あります／います"],
+      "uses": [
+        {
+          "vi": "Giới thiệu thứ đang có ở một nơi (thông tin mới là “cái gì / ai”).",
+          "ex": [
+            ["{駅|えき} の {前|まえ} 【に】 {銀行|ぎんこう} 【が】 あります。", "Trước nhà ga có ngân hàng."],
+            ["{教室|きょうしつ} 【に】 {学生|がくせい} 【が】 {十人|じゅうにん} います。", "Trong lớp có 10 học sinh."]
+          ]
+        },
+        {
+          "vi": "Hỏi “ở đó có gì / có ai”: {何|なに}が, だれが.",
+          "ex": [["{箱|はこ} の {中|なか} に {何|なに} が あります か。", "Trong hộp có gì?"]]
+        }
+      ],
+      "practice": [["{冷蔵庫|れいぞうこ} ___ {卵|たまご} が あります。", "に"]],
+      "see": ["position-words", "wa-ni-arimasu"]
+    },
+    {
+      "id": "wa-ni-arimasu",
+      "title": "N は Nơi chốn に あります／います",
+      "sub": "N ở (đâu)",
+      "level": "N5",
+      "form": ["N 【は】 nơi chốn 【に】 あります／います", "Nói gọn: N は nơi chốn です"],
+      "uses": [
+        {
+          "vi": "Nói vị trí của một thứ đã biết (thông tin mới là “ở đâu”).",
+          "ex": [
+            ["{田中|たなか}さん 【は】 {事務所|じむしょ} 【に】 います。", "Anh Tanaka đang ở văn phòng."],
+            ["{東京|とうきょう}ディズニーランド 【は】 {千葉県|ちばけん} 【に】 あります。", "Tokyo Disneyland ở tỉnh Chiba."],
+            ["かぎ は どこ に あります か。 ―― かばん の {中|なか} です。", "Chìa khoá ở đâu? — Ở trong cặp."]
+          ]
+        }
+      ],
+      "notes": ["は nhấn vào thứ đã biết (chủ đề); が giới thiệu thứ mới."],
+      "practice": [["トイレ ___ {二階|にかい} に あります。", "は"]],
+      "see": ["ni-ga-arimasu"]
+    },
+    {
+      "id": "position-words",
+      "title": "N の 上／下／中／前／後ろ／隣…",
+      "sub": "Từ chỉ vị trí",
+      "level": "N5",
+      "form": ["N 【の】 {上|うえ}・{下|した}・{中|なか}・{外|そと}・{前|まえ}・{後|うし}ろ・{右|みぎ}・{左|ひだり}・{隣|となり}・{近|ちか}く・{間|あいだ}"],
+      "uses": [
+        {
+          "vi": "Danh từ chỉ vị trí đứng sau の, rồi thêm trợ từ に／で.",
+          "ex": [
+            ["{机|つくえ} 【の {上|うえ}】 に {写真|しゃしん} が あります。", "Trên bàn có tấm ảnh."],
+            ["{銀行|ぎんこう} は {郵便局|ゆうびんきょく} 【の {隣|となり}】 です。", "Ngân hàng ở cạnh bưu điện."],
+            ["{本屋|ほんや} は {花屋|はなや} と パン{屋|や} 【の {間|あいだ}】 に あります。", "Hiệu sách ở giữa cửa hàng hoa và tiệm bánh mì."]
+          ]
+        }
+      ],
+      "practice": [["{犬|いぬ} は {椅子|いす} の ___ に います。 (dưới)", "下/した"]],
+      "see": ["ni-ga-arimasu"]
+    },
+    {
+      "id": "motte-imasu",
+      "title": "N が あります (sở hữu, sự kiện)",
+      "sub": "Có (tiền, thời gian, kế hoạch…)",
+      "level": "N5",
+      "form": ["(Người は) N 【が あります】"],
+      "uses": [
+        {
+          "vi": "あります còn dùng cho sở hữu (có xe, có tiền), có thời gian, có việc, có sự kiện.",
+          "ex": [
+            ["{車|くるま} 【が あります】 か。", "Bạn có xe ô tô không?"],
+            ["{今日|きょう} は {時間|じかん} 【が ありません】。", "Hôm nay tôi không có thời gian."],
+            ["{兄弟|きょうだい} が {二人|ふたり} います。", "Tôi có hai anh chị em."]
+          ]
+        }
+      ],
+      "notes": ["Nói về người trong gia đình (có anh, có con…) dùng います."],
+      "practice": [["{明日|あした} {用事|ようじ} ___ あります。", "が"]],
+      "see": ["arimasu-imasu"]
+    }
+  ]
+}

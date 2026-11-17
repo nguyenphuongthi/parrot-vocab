@@ -1,0 +1,187 @@
+{
+  "about": "Câu giao tiếp tiếng Nhật thông dụng theo tình huống. Mỗi câu: [câu ({漢字|かな} là chữ Hán kèm cách đọc, dấu cách tách từ cho romaji), nghĩa tiếng Việt, ghi chú (tuỳ chọn)]. Đuôi です / ます là thể lịch sự, dùng với người mới gặp, người lớn tuổi, ở cửa hàng, nơi làm việc.",
+  "situations": [
+    {
+      "id": "greeting",
+      "name": "Chào hỏi",
+      "items": [
+        ["おはよう ございます。", "Chào buổi sáng.", "Với bạn thân có thể nói gọn: おはよう。"],
+        ["こんにちは。", "Xin chào.", "Dùng từ khoảng 10 giờ sáng đến chiều."],
+        ["こんばんは。", "Chào buổi tối."],
+        ["さようなら。", "Tạm biệt.", "Hơi trang trọng / chia tay lâu. Với bạn bè hay nói じゃあ、また。"],
+        ["じゃあ、 また {明日|あした}。", "Hẹn mai gặp lại nhé."],
+        ["おやすみなさい。", "Chúc ngủ ngon."],
+        ["お{元気|げんき} です か。", "Anh/chị có khoẻ không?", "Dùng khi lâu ngày mới gặp."],
+        ["はい、 {元気|げんき} です。", "Vâng, tôi khoẻ."],
+        ["お{久|ひさ}しぶり です。", "Lâu rồi không gặp."],
+        ["いい お{天気|てんき} です ね。", "Trời đẹp nhỉ.", "Câu bắt chuyện rất phổ biến."],
+        ["{行|い}って きます。", "Tôi đi đây.", "Nói khi ra khỏi nhà; người ở nhà đáp: いってらっしゃい。"],
+        ["ただいま。", "Tôi về rồi đây.", "Người ở nhà đáp: おかえりなさい。"]
+      ]
+    },
+    {
+      "id": "intro",
+      "name": "Giới thiệu bản thân",
+      "items": [
+        ["はじめまして。", "Rất vui được gặp anh/chị (lần đầu)."],
+        ["{私|わたし} は リン です。", "Tôi là Linh."],
+        ["ベトナム から {来|き}ました。", "Tôi đến từ Việt Nam."],
+        ["{学生|がくせい} です。", "Tôi là sinh viên."],
+        ["{会社員|かいしゃいん} です。", "Tôi là nhân viên công ty."],
+        ["{二十歳|はたち} です。", "Tôi 20 tuổi."],
+        ["{趣味|しゅみ} は {音楽|おんがく} です。", "Sở thích của tôi là âm nhạc."],
+        ["どうぞ よろしく お{願|ねが}いします。", "Rất mong được giúp đỡ.", "Luôn nói ở cuối phần giới thiệu."],
+        ["お{名前|なまえ} は？", "Tên anh/chị là gì?"],
+        ["お{国|くに} は どちら です か。", "Anh/chị đến từ nước nào?"],
+        ["お{仕事|しごと} は {何|なん} です か。", "Anh/chị làm nghề gì?"],
+        ["こちら こそ よろしく お{願|ねが}いします。", "Chính tôi mới mong được giúp đỡ.", "Câu đáp lại よろしくおねがいします。"]
+      ]
+    },
+    {
+      "id": "class",
+      "name": "Trong lớp học",
+      "items": [
+        ["すみません、 {分|わ}かりません。", "Xin lỗi, tôi không hiểu."],
+        ["{分|わ}かりました。", "Tôi hiểu rồi."],
+        ["もう {一度|いちど} お{願|ねが}いします。", "Xin nhắc lại một lần nữa."],
+        ["ゆっくり {話|はな}して ください。", "Xin hãy nói chậm thôi."],
+        ["これ は {日本語|にほんご} で {何|なん} です か。", "Cái này tiếng Nhật là gì?"],
+        ["「ありがとう」 は ベトナム{語|ご} で {何|なん} です か。", "\"Arigatou\" tiếng Việt là gì?"],
+        ["この {漢字|かんじ} は どう {読|よ}みます か。", "Chữ Hán này đọc thế nào?"],
+        ["{質問|しつもん} が あります。", "Tôi có câu hỏi."],
+        ["{始|はじ}めましょう。", "Chúng ta bắt đầu nào."],
+        ["{教科書|きょうかしょ} を {見|み}て ください。", "Hãy nhìn vào sách giáo khoa."],
+        ["{宿題|しゅくだい} を {忘|わす}れました。", "Em quên bài tập về nhà rồi."]
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Mua sắm",
+      "items": [
+        ["いらっしゃいませ。", "Xin mời quý khách.", "Nhân viên nói khi khách vào cửa hàng – khách không cần đáp."],
+        ["これ は いくら です か。", "Cái này bao nhiêu tiền?"],
+        ["それ を {見|み}せて ください。", "Cho tôi xem cái đó."],
+        ["これ を ください。", "Cho tôi cái này."],
+        ["{全部|ぜんぶ} で いくら です か。", "Tất cả bao nhiêu tiền?"],
+        ["もう {少|すこ}し {安|やす}い の は あります か。", "Có cái nào rẻ hơn một chút không?"],
+        ["{大|おお}きい サイズ は あります か。", "Có cỡ lớn không?"],
+        ["カード で いい です か。", "Trả bằng thẻ được không?"],
+        ["{袋|ふくろ} は {要|い}りません。", "Tôi không cần túi."],
+        ["ちょっと {考|かんが}えます。", "Để tôi suy nghĩ thêm đã.", "Cách từ chối lịch sự khi chưa muốn mua."]
+      ]
+    },
+    {
+      "id": "restaurant",
+      "name": "Nhà hàng, quán ăn",
+      "items": [
+        ["{何名様|なんめいさま} です か。", "Quý khách đi mấy người?", "Nhân viên hỏi khi khách vào quán."],
+        ["{二人|ふたり} です。", "Hai người."],
+        ["メニュー を お{願|ねが}いします。", "Cho tôi xem thực đơn."],
+        ["すみません、 {注文|ちゅうもん} お{願|ねが}いします。", "Xin lỗi, cho tôi gọi món."],
+        ["これ と これ を ください。", "Cho tôi cái này và cái này."],
+        ["お{水|みず} を ください。", "Cho tôi nước lọc."],
+        ["おすすめ は {何|なん} です か。", "Món nào quán gợi ý?"],
+        ["いただきます。", "Mời mọi người ăn / Tôi xin phép ăn.", "Nói trước khi ăn."],
+        ["とても おいしい です。", "Rất ngon."],
+        ["ごちそうさま でした。", "Cảm ơn vì bữa ăn.", "Nói sau khi ăn xong, cả khi ra khỏi quán."],
+        ["お{会計|かいけい} お{願|ねが}いします。", "Cho tôi thanh toán."]
+      ]
+    },
+    {
+      "id": "directions",
+      "name": "Hỏi đường",
+      "items": [
+        ["すみません、 {駅|えき} は どこ です か。", "Xin lỗi, nhà ga ở đâu ạ?"],
+        ["トイレ は どこ です か。", "Nhà vệ sinh ở đâu?"],
+        ["この {近|ちか}く に コンビニ は あります か。", "Gần đây có cửa hàng tiện lợi không?"],
+        ["まっすぐ {行|い}って ください。", "Hãy đi thẳng."],
+        ["{次|つぎ} の {角|かど} を {右|みぎ} へ {曲|ま}がって ください。", "Hãy rẽ phải ở góc tiếp theo."],
+        ["{左|ひだり} に あります。", "Ở bên trái."],
+        ["{歩|ある}いて {何分|なんぷん} ぐらい です か。", "Đi bộ mất khoảng mấy phút?"],
+        ["{歩|ある}いて {五分|ごふん} ぐらい です。", "Đi bộ khoảng 5 phút."],
+        ["{地図|ちず} を かいて いただけません か。", "Anh/chị vẽ bản đồ giúp tôi được không?"],
+        ["{道|みち} に {迷|まよ}いました。", "Tôi bị lạc đường."]
+      ]
+    },
+    {
+      "id": "transport",
+      "name": "Tàu xe, đi lại",
+      "items": [
+        ["この {電車|でんしゃ} は {東京|とうきょう} へ {行|い}きます か。", "Tàu này có đi Tokyo không?"],
+        ["{切符|きっぷ} は どこ で {買|か}います か。", "Mua vé ở đâu?"],
+        ["{次|つぎ} の {駅|えき} は どこ です か。", "Ga tiếp theo là ga nào?"],
+        ["{何番線|なんばんせん} です か。", "Sân ga (đường ray) số mấy?"],
+        ["どこ で {乗|の}り{換|か}えます か。", "Đổi tàu ở đâu?"],
+        ["{空港|くうこう} まで お{願|ねが}いします。", "Cho tôi đến sân bay.", "Nói với tài xế taxi."],
+        ["ここ で {止|と}めて ください。", "Cho tôi dừng ở đây."],
+        ["{東京|とうきょう} まで どのくらい かかります か。", "Đến Tokyo mất bao lâu?"]
+      ]
+    },
+    {
+      "id": "time",
+      "name": "Giờ giấc, lịch hẹn",
+      "items": [
+        ["{今|いま} {何時|なんじ} です か。", "Bây giờ là mấy giờ?"],
+        ["{三時半|さんじはん} です。", "3 giờ rưỡi."],
+        ["{今日|きょう} は {何曜日|なんようび} です か。", "Hôm nay là thứ mấy?"],
+        ["{誕生日|たんじょうび} は いつ です か。", "Sinh nhật bạn là khi nào?"],
+        ["{何時|なんじ} に {会|あ}いましょう か。", "Chúng ta gặp nhau lúc mấy giờ nhé?"],
+        ["{土曜日|どようび} は {暇|ひま} です か。", "Thứ Bảy bạn rảnh không?"],
+        ["{一緒|いっしょ} に {映画|えいが} を {見|み}ません か。", "Đi xem phim cùng nhau không?"],
+        ["いい です ね。 {行|い}きましょう。", "Hay đấy. Đi thôi."],
+        ["すみません、 その {日|ひ} は ちょっと…。", "Xin lỗi, hôm đó thì hơi…", "Cách từ chối lời mời nhẹ nhàng, không cần nói hết câu."],
+        ["{遅|おく}れて すみません。", "Xin lỗi tôi đến muộn."]
+      ]
+    },
+    {
+      "id": "visit",
+      "name": "Thăm nhà, cảm ơn, xin lỗi",
+      "items": [
+        ["ごめんください。", "Có ai ở nhà không ạ?", "Nói ở cửa khi đến thăm nhà người khác."],
+        ["どうぞ {上|あ}がって ください。", "Xin mời vào nhà."],
+        ["お{邪魔|じゃま}します。", "Tôi xin phép làm phiền.", "Nói khi bước vào nhà người khác."],
+        ["これ、 つまらない もの です が…。", "Đây là chút quà nhỏ…", "Câu khiêm tốn khi tặng quà."],
+        ["どうも ありがとう ございます。", "Cảm ơn anh/chị rất nhiều."],
+        ["いいえ、 どう いたしまして。", "Không có gì."],
+        ["すみません。", "Xin lỗi / Cảm ơn (vì đã làm phiền).", "Rất đa năng: xin lỗi, gọi người khác, cảm ơn."],
+        ["{本当|ほんとう} に ごめんなさい。", "Thật sự xin lỗi.", "Thân mật hơn すみません。"],
+        ["{大丈夫|だいじょうぶ} です よ。", "Không sao đâu."],
+        ["そろそろ {失礼|しつれい}します。", "Tôi xin phép về.", "Nói khi muốn ra về."]
+      ]
+    },
+    {
+      "id": "health",
+      "name": "Sức khoẻ, khẩn cấp",
+      "items": [
+        ["{頭|あたま} が {痛|いた}い です。", "Tôi đau đầu."],
+        ["お{腹|なか} が {痛|いた}い です。", "Tôi đau bụng."],
+        ["{熱|ねつ} が あります。", "Tôi bị sốt."],
+        ["{風邪|かぜ} を ひきました。", "Tôi bị cảm rồi."],
+        ["{気分|きぶん} が {悪|わる}い です。", "Tôi thấy không khoẻ."],
+        ["{病院|びょういん} は どこ です か。", "Bệnh viện ở đâu?"],
+        ["{助|たす}けて！", "Cứu với!"],
+        ["{救急車|きゅうきゅうしゃ} を {呼|よ}んで ください。", "Hãy gọi xe cấp cứu."],
+        ["{財布|さいふ} を なくしました。", "Tôi làm mất ví rồi."],
+        ["お{大事|だいじ} に。", "Giữ gìn sức khoẻ nhé / Mau khỏi nhé.", "Nói với người đang ốm."]
+      ]
+    },
+    {
+      "id": "reply",
+      "name": "Đáp lời, cảm xúc",
+      "items": [
+        ["そう です か。", "Vậy à."],
+        ["そう です ね。", "Đúng vậy nhỉ / Ừm, để xem…"],
+        ["{本当|ほんとう} です か。", "Thật vậy sao?"],
+        ["すごい です ね。", "Giỏi quá / Tuyệt quá nhỉ."],
+        ["よかった です ね。", "Tốt quá nhỉ."],
+        ["{残念|ざんねん} です ね。", "Tiếc quá nhỉ."],
+        ["{大変|たいへん} です ね。", "Vất vả quá nhỉ."],
+        ["ちょっと {待|ま}って ください。", "Xin chờ một chút."],
+        ["もちろん です。", "Tất nhiên rồi."],
+        ["{楽|たの}しかった です。", "Vui lắm.", "Nói sau một buổi đi chơi, bữa tiệc."],
+        ["がんばって ください。", "Cố gắng lên nhé."],
+        ["おめでとう ございます。", "Chúc mừng."]
+      ]
+    }
+  ]
+}
